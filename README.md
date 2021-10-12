@@ -60,6 +60,10 @@
 
 ---
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
 Credit: [moritzmyrz](https://github.com/moritzmyrz)
 
 Last Edited on: 12/10/2021
