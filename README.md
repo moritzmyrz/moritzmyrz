@@ -51,19 +51,6 @@
 
 </div>
 
----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
----
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
 Credit: [moritzmyrz](https://github.com/moritzmyrz)
 
 Last Edited on: 12/10/2021
