@@ -57,7 +57,7 @@ Want to know more about me? [Check out my portfolio.](https://www.myrseth.co/)
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
 > <p>- Pam Beesly</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
