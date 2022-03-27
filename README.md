@@ -57,7 +57,7 @@ Want to know more about me? [Check out my portfolio.](https://www.myrseth.co/)
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Sorry I annoyed you with my friendship.
 >
 > <p>- Andy Bernard</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
