@@ -57,7 +57,7 @@ Want to know more about me? [Check out my portfolio.](https://www.myrseth.co/)
 
 ## 📣 How about an Office quote before you go?
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
