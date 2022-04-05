@@ -57,9 +57,9 @@ Want to know more about me? [Check out my portfolio.](https://www.myrseth.co/)
 
 ## 📣 How about an Office quote before you go?
 
-> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Pam Beesly</p>
+> <p>- Phyllis Lapin</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
