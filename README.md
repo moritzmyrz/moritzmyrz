@@ -57,7 +57,7 @@ Want to know more about me? [Check out my portfolio.](https://www.myrseth.co/)
 
 ## 📣 How about an Office quote before you go?
 
-> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
+> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
 > <p>- Dwight Schrute</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
