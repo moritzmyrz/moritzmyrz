@@ -57,9 +57,9 @@ Want to know more about me? [Check out my portfolio.](https://www.myrseth.co/)
 
 ## 📣 How about an Office quote before you go?
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
