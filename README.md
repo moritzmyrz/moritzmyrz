@@ -49,9 +49,9 @@ Full-stack Web Developer
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
