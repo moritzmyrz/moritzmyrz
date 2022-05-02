@@ -49,7 +49,7 @@ Full-stack Web Developer
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
 >
 > <p>- Michael Scott</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
