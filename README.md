@@ -49,7 +49,7 @@ Full-stack Web Developer
 
 ## 📣 How about an Office quote before you go?
 
-> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
