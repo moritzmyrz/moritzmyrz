@@ -49,9 +49,9 @@ Full-stack Web Developer
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
 >
-> <p>- Kevin Malone</p>
+> <p>- Toby Flenderson</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
