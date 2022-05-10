@@ -49,9 +49,9 @@ Full-stack Web Developer
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> It has to be official, and it has to be urine.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
