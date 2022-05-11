@@ -49,7 +49,7 @@ Full-stack Web Developer
 
 ## 📣 How about an Office quote before you go?
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
