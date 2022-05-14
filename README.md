@@ -49,7 +49,7 @@ Full-stack Web Developer
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
