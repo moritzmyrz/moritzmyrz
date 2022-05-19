@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> Did I stutter?
 >
-> <p>- Angela Martin</p>
+> <p>- Stanley Hudson</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
