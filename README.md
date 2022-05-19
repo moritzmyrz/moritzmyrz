@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
+> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
 >
-> <p>- Andy Bernard</p>
+> <p>- Dwight Schrute</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
