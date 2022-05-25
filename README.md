@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> It has to be official, and it has to be urine.
 >
-> <p>- Kevin Malone</p>
+> <p>- Dwight Schrute</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
