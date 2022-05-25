@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
