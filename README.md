@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Jim Halpert</p>
+> <p>- Kelly Kapoor</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
