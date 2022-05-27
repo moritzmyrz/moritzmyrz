@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> It has to be official, and it has to be urine.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
