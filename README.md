@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> Did I stutter?
 >
-> <p>- Jim Halpert</p>
+> <p>- Stanley Hudson</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
