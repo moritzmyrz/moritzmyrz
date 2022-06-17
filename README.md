@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Phyllis Lapin</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
