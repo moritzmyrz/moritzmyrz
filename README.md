@@ -24,7 +24,7 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
 > <p>- Andy Bernard</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
