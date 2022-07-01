@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> It has to be official, and it has to be urine.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Dwight Schrute</p>
 > Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
