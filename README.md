@@ -4,7 +4,7 @@
 
 ## Full-stack Web Developer
 
-- 🌍 I'm based in Årnes, Norway
+- 🌍 I'm based in Norway
 - 🖥️ See my portfolio at [myrseth.co](http://www.myrseth.co)
 - ✉️ You can contact me at [moritz@myrseth.co](mailto:moritz@myrseth.co)
 - 🚀 I'm currently working on [Homein AS](http://www.homein.no)
@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
