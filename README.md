@@ -24,7 +24,7 @@
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> Everybody stay calm! Stay f*&#!#% calm!
 >
 > <p>- Michael Scott</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
