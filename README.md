@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
