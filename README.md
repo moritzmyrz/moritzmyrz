@@ -24,7 +24,7 @@
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I feel God in this Chili’s tonight.
 >
 > <p>- Pam Beesly</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
