@@ -24,7 +24,7 @@
 
 ## 📣 How about an Office quote before you go?
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> Sorry I annoyed you with my friendship.
 >
 > <p>- Andy Bernard</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
