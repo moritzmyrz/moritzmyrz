@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Darryl Philbin</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
