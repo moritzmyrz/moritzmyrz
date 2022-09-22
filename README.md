@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> It has to be official, and it has to be urine.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Dwight Schrute</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
