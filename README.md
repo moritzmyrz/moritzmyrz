@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Jim Halpert</p>
+> <p>- Angela Martin</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
