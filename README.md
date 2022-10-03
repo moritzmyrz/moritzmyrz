@@ -24,7 +24,7 @@
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
 > <p>- Pam Beesly</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
