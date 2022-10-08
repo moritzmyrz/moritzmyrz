@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Gabe Lewis</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
