@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I have a lot of questions. Number one, how dare you?
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Kevin Malone</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
