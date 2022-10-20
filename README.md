@@ -24,9 +24,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Andy Bernard</p>
+> <p>- Jim Halpert</p>
 Quote requested from [The Office API](https://www.officeapi.dev/)
 
 Check back at the top of the hour for a new quote!
