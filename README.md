@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> Technology has to be invented or adopted.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Jared Diamond</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
