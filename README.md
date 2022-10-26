@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Walter Scott</p>
+> <p>- Arthur Schopenhauer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
