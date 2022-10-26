@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There's power in looking silly and not caring that you do.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Amy Poehler</p>
+> <p>- Marcus Aurelius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
