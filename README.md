@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How wonderful it is that nobody need wait a single moment before starting to improve the world.
+> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
 >
-> <p>- Anne Frank</p>
+> <p>- Wayne Gretzky</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
