@@ -7,16 +7,11 @@ async function main() {
 		await fs.readFile(path.join(process.cwd(), './README.template.md'))
 	).toString('utf-8');
 
-	const quote = await (
-		await fetch('https://api.quotable.io/random')
-	).json();
+	const quote = await (await fetch('https://api.quotable.io/random')).json();
 
 	const readme = readmeTemplate
 		.replace('{quote}', quote.content)
-		.replace(
-			'{author}',
-			`- ${quote.author}`
-		);
+		.replace('{author}', `- ${quote.author}`);
 
 	await fs.writeFile('README.md', readme);
 }
