@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Wayne Gretzky</p>
+> <p>- Walter Scott</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
