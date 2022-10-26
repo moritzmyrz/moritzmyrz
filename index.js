@@ -11,6 +11,8 @@ async function main() {
 		await fetch('https://api.quotable.io/random')
 	).json();
 
+	console.log(quote)
+
 	const readme = readmeTemplate
 		.replace('{quote}', quote.data.content)
 		.replace(
