@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Walter Benjamin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
