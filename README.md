@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> Memory is the mother of all wisdom.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Samuel Johnson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
