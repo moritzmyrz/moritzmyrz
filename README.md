@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not afraid of storms, for I'm learning how to sail my ship.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Louisa May Alcott</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
