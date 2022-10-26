@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Woodrow Wilson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
