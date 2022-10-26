@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is Love without his wings!
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Lord Byron</p>
+> <p>- Anne Frank</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
