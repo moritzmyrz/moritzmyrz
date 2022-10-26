@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.
+> It always seems impossible until it's done.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
