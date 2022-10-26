@@ -11,13 +11,11 @@ async function main() {
 		await fetch('https://api.quotable.io/random')
 	).json();
 
-	console.log(quote)
-
 	const readme = readmeTemplate
-		.replace('{quote}', quote.data.content)
+		.replace('{quote}', quote.content)
 		.replace(
 			'{author}',
-			`- ${quote.data.author}`
+			`- ${quote.author}`
 		);
 
 	await fs.writeFile('README.md', readme);
