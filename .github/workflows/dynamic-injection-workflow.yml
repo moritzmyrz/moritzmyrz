@@ -27,7 +27,7 @@ jobs:
           git add .
           git config --global user.name "Moritz Myrseth"
           git config --global user.email "moritzmyrz@gmail.com"
-          git commit -m "[Automated] README updated with new Office quote!"
+          git commit -m "[Automated] README updated with new quote!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
