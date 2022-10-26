@@ -8,7 +8,6 @@
 - 🖥️ See my portfolio at [myrseth.co](http://www.myrseth.co)
 - ✉️ You can contact me at [moritz@myrseth.co](mailto:moritz@myrseth.co)
 - 🚀 I'm currently working on [Homein AS](http://www.homein.no)
-- 🧠 I'm learning Swift
 
 ### Skills
 
@@ -22,11 +21,11 @@
 
 <a href="https://github.com/moritzmyrz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moritzmyrz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about a quote before you go?
 
-> {office_quote}
+> {quote}
 >
-> <p>{office_character}</p>
-Quote requested from [The Office API](https://www.officeapi.dev/)
+> <p>{author}</p>
+Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
