@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Louisa May Alcott</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
