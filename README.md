@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> I have never been hurt by anything I didn't say.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Calvin Coolidge</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
