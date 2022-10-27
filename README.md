@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Kahlil Gibran</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
