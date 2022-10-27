@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Aim for the moon. If you miss, you may hit a star.
+> Computers are useless. They can only give you answers.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Pablo Picasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
