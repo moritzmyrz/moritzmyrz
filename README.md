@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
+> Our character is what we do when we think no one is looking.
 >
-> <p>- Bob Feller</p>
+> <p>- H. Jackson Brown Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
