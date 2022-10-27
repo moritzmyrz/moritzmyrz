@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- George Orwell</p>
+> <p>- Leonard Nimoy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
