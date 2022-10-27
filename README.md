@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- George Herbert</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
