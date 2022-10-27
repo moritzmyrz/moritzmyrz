@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Thomas Edison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
