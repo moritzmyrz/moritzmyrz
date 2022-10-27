@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
 >
-> <p>- Jane Wyman</p>
+> <p>- Blaise Pascal</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
