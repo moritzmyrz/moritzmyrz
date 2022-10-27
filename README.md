@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> Friends are the siblings God never gave us.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Mencius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
