@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that exists is in a manner the seed of that which will be.
+> From error to error one discovers the entire truth.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Sigmund Freud</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
