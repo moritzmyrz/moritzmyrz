@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- George Orwell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
