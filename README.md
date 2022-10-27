@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> Everything that exists is in a manner the seed of that which will be.
 >
-> <p>- Mencius</p>
+> <p>- Marcus Aurelius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
