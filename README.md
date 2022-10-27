@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- Bob Feller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
