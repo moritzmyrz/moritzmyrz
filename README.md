@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> Aim for the moon. If you miss, you may hit a star.
 >
-> <p>- Demosthenes</p>
+> <p>- W. Clement Stone</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
