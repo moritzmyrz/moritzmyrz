@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all something, but none of us are everything.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Norman Vincent Peale</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
