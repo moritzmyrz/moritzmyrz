@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A jug fills drop by drop.
+> Be great in act, as you have been in thought.
 >
-> <p>- Buddha</p>
+> <p>- William Shakespeare</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
