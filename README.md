@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> A poem begins in delight and ends in wisdom.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Robert Frost</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
