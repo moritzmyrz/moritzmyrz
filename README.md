@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
 >
-> <p>- Carol Burnett</p>
+> <p>- Leonardo da Vinci</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
