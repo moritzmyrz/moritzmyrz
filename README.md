@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Chanakya</p>
+> <p>- Toni Morrison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
