@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> All serious daring starts from within.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Harriet Beecher Stowe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
