@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
 >
-> <p>- Maya Angelou</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
