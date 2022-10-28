@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you surrender to the wind, you can ride it.
+> If you can't feed a hundred people, then feed just one.
 >
-> <p>- Toni Morrison</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
