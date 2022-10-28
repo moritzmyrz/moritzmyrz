@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> Allow the world to live as it chooses, and allow yourself to live as you choose.
 >
-> <p>- Julie Morgenstern</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
