@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Allow the world to live as it chooses, and allow yourself to live as you choose.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Richard Bach</p>
+> <p>- A. P. J. Abdul Kalam</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
