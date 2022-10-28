@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the living power and prime agent of all human perception.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Carol Burnett</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
