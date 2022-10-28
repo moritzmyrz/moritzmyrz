@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- Robert Frost</p>
+> <p>- Helen Keller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
