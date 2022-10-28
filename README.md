@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> We are all something, but none of us are everything.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Blaise Pascal</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
