@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> Reality leaves a lot to the imagination.
 >
-> <p>- Plutarch</p>
+> <p>- John Lennon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
