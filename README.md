@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Reinhold Niebuhr</p>
+> <p>- Ella Wheeler Wilcox</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
