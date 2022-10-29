@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Walt Disney</p>
+> <p>- Archimedes</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
