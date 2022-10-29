@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Voltaire</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
