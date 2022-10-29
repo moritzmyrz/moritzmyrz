@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ballot is stronger than the bullet.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Chanakya</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
