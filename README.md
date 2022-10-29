@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> It is far better to be alone, than to be in bad company.
 >
-> <p>- Stephen King</p>
+> <p>- George Washington</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
