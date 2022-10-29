@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Sydney J. Harris</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
