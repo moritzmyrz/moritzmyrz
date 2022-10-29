@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- Richard Whately</p>
+> <p>- Samuel Beckett</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
