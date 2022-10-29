@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+> The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
 >
-> <p>- M. Scott Peck</p>
+> <p>- Cicero</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
