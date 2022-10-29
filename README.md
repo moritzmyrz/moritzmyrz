@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> No man was ever wise by chance.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
