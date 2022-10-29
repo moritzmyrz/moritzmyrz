@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- John Dewey</p>
+> <p>- Plutarch</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
