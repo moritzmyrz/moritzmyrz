@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Liberace</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
