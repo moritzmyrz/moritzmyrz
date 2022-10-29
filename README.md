@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Walt Disney</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
