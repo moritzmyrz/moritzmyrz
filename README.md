@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Elon Musk</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
