@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- Ben Hogan</p>
+> <p>- Michael Phelps</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
