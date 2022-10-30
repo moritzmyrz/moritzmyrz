@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- William Shakespeare</p>
+> <p>- Voltaire</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
