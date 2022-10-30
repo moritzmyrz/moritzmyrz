@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Laozi</p>
+> <p>- Franklin D. Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
