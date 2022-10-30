@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alfred Tennyson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
