@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Alfred Tennyson</p>
+> <p>- Eustace Budgell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
