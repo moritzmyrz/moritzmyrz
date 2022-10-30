@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Amber Valletta</p>
+> <p>- Robert F. Kennedy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
