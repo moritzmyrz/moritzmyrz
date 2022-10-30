@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
 >
-> <p>- John Lennon</p>
+> <p>- John Dewey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
