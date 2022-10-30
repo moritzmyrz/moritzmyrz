@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Michael Phelps</p>
+> <p>- George Herbert</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
