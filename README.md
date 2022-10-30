@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Norman Cousins</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
