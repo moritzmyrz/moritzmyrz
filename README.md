@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Publilius Syrus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
