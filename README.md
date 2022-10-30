@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- John Dewey</p>
+> <p>- Samuel Johnson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
