@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> Russia is a riddle wrapped in a mystery inside an enigma.
 >
-> <p>- Voltaire</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
