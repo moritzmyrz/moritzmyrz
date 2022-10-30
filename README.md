@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Amber Valletta</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
