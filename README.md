@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- Maya Angelou</p>
+> <p>- Ben Hogan</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
