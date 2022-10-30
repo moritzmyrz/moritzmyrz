@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only those who dare to fail greatly can ever achieve greatly.
+> Go put your creed into the deed. Nor speak with double tongue.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
