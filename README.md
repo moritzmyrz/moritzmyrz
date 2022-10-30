@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Russia is a riddle wrapped in a mystery inside an enigma.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- Winston Churchill</p>
+> <p>- Akhenaten</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
