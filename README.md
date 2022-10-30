@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Judy Collins</p>
+> <p>- Charles W. Chesnutt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
