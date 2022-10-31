@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Johann Kaspar Lavater</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
