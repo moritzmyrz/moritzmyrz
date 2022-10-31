@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men make more opportunities than they find.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- Francis Bacon</p>
+> <p>- Jim Rohn</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
