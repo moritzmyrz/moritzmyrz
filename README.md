@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Maya Angelou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
