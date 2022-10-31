@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+> We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
