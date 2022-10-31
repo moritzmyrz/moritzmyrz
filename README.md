@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Dalai Lama</p>
+> <p>- Salman Rushdie</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
