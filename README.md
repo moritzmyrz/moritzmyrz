@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
