@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Epictetus</p>
+> <p>- Arthur Rubinstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
