@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Tony Robbins</p>
+> <p>- Kahlil Gibran</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
