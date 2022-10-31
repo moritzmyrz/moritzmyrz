@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- Socrates</p>
+> <p>- Carrie Snow</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
