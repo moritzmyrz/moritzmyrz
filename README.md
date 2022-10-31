@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- Maya Angelou</p>
+> <p>- George Santayana</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
