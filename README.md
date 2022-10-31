@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+> The energy of the mind is the essence of life.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
