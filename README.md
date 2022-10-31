@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Accept the challenges so that you can feel the exhilaration of victory.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- George S. Patton</p>
+> <p>- Arthur C. Clarke</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
