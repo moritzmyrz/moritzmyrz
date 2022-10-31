@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- Alan Watts</p>
+> <p>- Dale Turner</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
