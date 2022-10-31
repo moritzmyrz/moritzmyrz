@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Jim Rohn</p>
+> <p>- Arthur Rubinstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
