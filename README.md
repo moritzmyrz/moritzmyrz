@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- Mark Goulston</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
