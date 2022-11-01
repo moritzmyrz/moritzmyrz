@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The foolish man seeks happiness in the distance, the wise grows it under his feet.
+> Effort only fully releases its reward after a person refuses to quit.
 >
-> <p>- James Oppenheim</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
