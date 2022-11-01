@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Richard Burton</p>
+> <p>- Ivy Baker Priest</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
