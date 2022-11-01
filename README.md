@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Helen Keller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
