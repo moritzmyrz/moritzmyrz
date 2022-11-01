@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> Love demands infinitely less than friendship.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- George Jean Nathan</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
