@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Effort only fully releases its reward after a person refuses to quit.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
