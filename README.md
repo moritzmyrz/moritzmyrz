@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Plato</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
