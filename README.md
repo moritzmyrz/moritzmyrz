@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Charles Du Bos</p>
+> <p>- François de La Rochefoucauld</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
