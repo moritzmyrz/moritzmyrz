@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
