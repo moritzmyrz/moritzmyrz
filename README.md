@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Lord Byron</p>
+> <p>- François de La Rochefoucauld</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
