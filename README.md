@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Lord Byron</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
