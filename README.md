@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Edward Gibbon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
