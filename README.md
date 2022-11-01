@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Edward Everett Hale</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
