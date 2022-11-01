@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- Albert Einstein</p>
+> <p>- James Oppenheim</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
