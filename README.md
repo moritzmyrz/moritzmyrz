@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Dalai Lama</p>
+> <p>- Charles Du Bos</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
