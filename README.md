@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
-> <p>- Aristotle</p>
+> <p>- Kahlil Gibran</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
