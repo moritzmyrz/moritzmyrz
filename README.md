@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Salman Rushdie</p>
+> <p>- Aldous Huxley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
