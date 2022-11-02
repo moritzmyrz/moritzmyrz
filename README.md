@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Eleanor Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
