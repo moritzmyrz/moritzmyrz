@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom alone is the science of other sciences.
+> If one is lucky, a solitary fantasy can totally transform one million realities.
 >
-> <p>- Plato</p>
+> <p>- Maya Angelou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
