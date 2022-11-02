@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Lewis Cass</p>
+> <p>- Plato</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
