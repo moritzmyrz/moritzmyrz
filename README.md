@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Lewis Cass</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
