@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
