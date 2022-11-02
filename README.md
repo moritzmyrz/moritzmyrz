@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> I believe in one thing only, the power of human will.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Joseph Stalin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
