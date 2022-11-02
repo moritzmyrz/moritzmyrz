@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Isocrates</p>
+> <p>- Francis Bacon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
