@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Brian Tracy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
