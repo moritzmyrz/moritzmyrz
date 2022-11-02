@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Isocrates</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
