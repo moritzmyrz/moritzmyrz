@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Nargis Fakhri</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
