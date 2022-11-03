@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
 >
-> <p>- Robert Frost</p>
+> <p>- Thích Nhất Hạnh</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
