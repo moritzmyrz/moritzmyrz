@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> You won't skid if you stay in a rut.
 >
-> <p>- Laozi</p>
+> <p>- Kin Hubbard</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
