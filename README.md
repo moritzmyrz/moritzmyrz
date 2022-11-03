@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> Begin at once to live and count each separate day as a separate life.
 >
-> <p>- Andy Warhol</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
