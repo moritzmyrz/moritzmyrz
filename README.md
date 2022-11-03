@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Marcus Aurelius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
