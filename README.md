@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
+> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
 >
-> <p>- Buddha</p>
+> <p>- Vusi Mahlasela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
