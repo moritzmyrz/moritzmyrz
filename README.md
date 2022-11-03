@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> You teach best what you most need to learn.
 >
-> <p>- Winston Churchill</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
