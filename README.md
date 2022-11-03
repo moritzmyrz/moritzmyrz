@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Begin at once to live and count each separate day as a separate life.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
