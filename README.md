@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> Joy is the best makeup.
 >
-> <p>- Helen Keller</p>
+> <p>- Anne Lamott</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
