@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Plato</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
