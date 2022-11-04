@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- John Powell</p>
+> <p>- Buckminster Fuller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
