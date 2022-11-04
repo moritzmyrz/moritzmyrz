@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- Ovid</p>
+> <p>- Billy Wilder</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
