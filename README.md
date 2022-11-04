@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
