@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.
+> Russia is a riddle wrapped in a mystery inside an enigma.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
