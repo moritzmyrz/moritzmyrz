@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- Laozi</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
