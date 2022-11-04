@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Mother Teresa</p>
+> <p>- Ovid</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
