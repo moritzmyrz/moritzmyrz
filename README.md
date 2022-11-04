@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
