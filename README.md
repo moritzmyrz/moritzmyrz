@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> He who talks more is sooner exhausted.
 >
-> <p>- Charles Lamb</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
