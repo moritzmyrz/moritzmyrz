@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Powell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
