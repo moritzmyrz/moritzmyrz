@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Alan Watts</p>
+> <p>- Frank Herbert</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
