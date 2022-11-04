@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.
+> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
 >
-> <p>- Buddha</p>
+> <p>- Thích Nhất Hạnh</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
