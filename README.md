@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Russia is a riddle wrapped in a mystery inside an enigma.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Winston Churchill</p>
+> <p>- Buckminster Fuller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
