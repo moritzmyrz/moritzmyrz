@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Billy Wilder</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
