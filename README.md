@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
