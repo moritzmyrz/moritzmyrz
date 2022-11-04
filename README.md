@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> Nothing happens unless first we dream.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Carl Sandburg</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
