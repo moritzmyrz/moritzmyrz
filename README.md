@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who talks more is sooner exhausted.
+> The great myth of our times is that technology is communication.
 >
-> <p>- Laozi</p>
+> <p>- Libby Larsen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
