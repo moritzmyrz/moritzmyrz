@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You, yourself, as much as anybody in the entire universe, deserve your love and affection.
+> Love demands infinitely less than friendship.
 >
-> <p>- Buddha</p>
+> <p>- George Jean Nathan</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
