@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Isocrates</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
