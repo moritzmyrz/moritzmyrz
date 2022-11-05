@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> The foot feels the foot when it feels the ground.
 >
-> <p>- Richard Whately</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
