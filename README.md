@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Thomas Edison</p>
+> <p>- Richard Whately</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
