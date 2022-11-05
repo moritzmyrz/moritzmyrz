@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Isocrates</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
