@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
