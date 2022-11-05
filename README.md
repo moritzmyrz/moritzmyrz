@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> He who knows himself is enlightened.
 >
-> <p>- Confucius</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
