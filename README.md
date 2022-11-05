@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> Life is really simple, but we insist on making it complicated.
 >
-> <p>- Thomas Edison</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
