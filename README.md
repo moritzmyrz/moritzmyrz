@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
