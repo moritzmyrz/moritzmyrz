@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- William James</p>
+> <p>- Helen Keller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
