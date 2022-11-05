@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Laurence J. Peter</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
