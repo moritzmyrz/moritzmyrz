@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows himself is enlightened.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Laozi</p>
+> <p>- William Arthur Ward</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
