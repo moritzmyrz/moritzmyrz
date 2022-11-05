@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No alibi will save you from accepting the responsibility.
+> The universe is made of stories, not atoms.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Muriel Rukeyser</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
