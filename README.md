@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can, therefore I am.
+> Peace begins with a smile.
 >
-> <p>- Simone Weil</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
