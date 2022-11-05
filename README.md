@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Friedrich Nietzsche</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
