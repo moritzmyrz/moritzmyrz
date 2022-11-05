@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Dalai Lama</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
