@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+> Love has no age, no limit; and no death.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- John Galsworthy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
