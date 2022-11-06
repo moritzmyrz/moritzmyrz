@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 >
-> <p>- Confucius</p>
+> <p>- Albert Schweitzer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
