@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Lord Byron</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
