@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Wayne Dyer</p>
+> <p>- John F. Kennedy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
