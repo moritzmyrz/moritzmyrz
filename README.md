@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Babatunde Olatunji</p>
+> <p>- Plutarch</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
