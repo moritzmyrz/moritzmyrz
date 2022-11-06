@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Niels Bohr</p>
+> <p>- Plato</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
