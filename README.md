@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Plutarch</p>
+> <p>- Martha Washington</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
