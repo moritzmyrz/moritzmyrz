@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- John Lennon</p>
+> <p>- Henry Ford</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
