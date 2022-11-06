@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The foot feels the foot when it feels the ground.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Buddha</p>
+> <p>- Lord Byron</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
