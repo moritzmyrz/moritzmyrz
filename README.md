@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
 >
-> <p>- Richard Bach</p>
+> <p>- John Lennon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
