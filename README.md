@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 >
-> <p>- Andy Warhol</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
