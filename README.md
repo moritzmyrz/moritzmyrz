@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> To see things in the seed, that is genius.
 >
-> <p>- Plato</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
