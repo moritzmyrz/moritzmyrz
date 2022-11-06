@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
 >
-> <p>- Laozi</p>
+> <p>- Amelia Earhart</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
