@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> A good plan violently executed now is better than a perfect plan executed next week.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- George S. Patton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
