@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Farhan Akhtar</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
