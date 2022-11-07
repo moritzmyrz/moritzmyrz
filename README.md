@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Richard Bach</p>
+> <p>- Jean de La Fontaine</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
