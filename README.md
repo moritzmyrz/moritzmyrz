@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
