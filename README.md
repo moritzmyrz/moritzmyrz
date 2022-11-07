@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always do your best. What you plant now, you will harvest later.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Og Mandino</p>
+> <p>- Shirley MacLaine</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
