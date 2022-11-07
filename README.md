@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Daisaku Ikeda</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
