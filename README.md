@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> Go put your creed into the deed. Nor speak with double tongue.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
