@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- Peter Drucker</p>
+> <p>- Theodore Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
