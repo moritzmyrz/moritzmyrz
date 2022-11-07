@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Schweitzer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
