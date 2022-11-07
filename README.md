@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- William Blake</p>
+> <p>- Carl Jung</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
