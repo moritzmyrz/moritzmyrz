@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Torquato Tasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
