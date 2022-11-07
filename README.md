@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Torquato Tasso</p>
+> <p>- William Blake</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
