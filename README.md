@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> Where there is love there is life.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Mahatma Gandhi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
