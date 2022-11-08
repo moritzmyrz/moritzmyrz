@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never give up, for that is just the place and time that the tide will turn.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Benjamin Disraeli</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
