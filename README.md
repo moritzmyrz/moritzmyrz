@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Well done is better than well said.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Charles Dickens</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
