@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- Zig Ziglar</p>
+> <p>- John Wooden</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
