@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 >
-> <p>- George S. Patton</p>
+> <p>- Julian Casablancas</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
