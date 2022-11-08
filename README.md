@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Thomas Carlyle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
