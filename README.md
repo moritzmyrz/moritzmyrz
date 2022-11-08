@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
+> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
