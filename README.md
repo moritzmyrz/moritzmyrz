@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good judgment comes from experience, and a lot of that comes from bad judgment.
+> Friendship is one mind in two bodies.
 >
-> <p>- Will Rogers</p>
+> <p>- Mencius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
