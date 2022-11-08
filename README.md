@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> Well done is better than well said.
 >
-> <p>- John Wooden</p>
+> <p>- Benjamin Franklin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
