@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never accept ultimatums, conventional wisdom, or absolutes.
+> If I know what love is, it is because of you.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Hermann Hesse</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
