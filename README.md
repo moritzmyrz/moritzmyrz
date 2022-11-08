@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
+> We are masters of the unsaid words, but slaves of those we let slip out.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
