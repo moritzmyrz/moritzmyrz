@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Vanity can easily overtake wisdom. It usually overtakes common sense.
+> No matter how hard the past, you can always begin again.
 >
-> <p>- Julian Casablancas</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
