@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
+> Friendship is Love without his wings!
 >
-> <p>- Olivier Messiaen</p>
+> <p>- Lord Byron</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
