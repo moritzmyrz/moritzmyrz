@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning is always today.
+> We must become the change we want to see.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Mahatma Gandhi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
