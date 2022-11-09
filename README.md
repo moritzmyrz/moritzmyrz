@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's easy to make a buck. It's a lot tougher to make a difference.
+> Friendship is essentially a partnership.
 >
-> <p>- Tom Brokaw</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
