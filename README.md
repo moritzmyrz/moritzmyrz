@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
+> Respect should be earned by actions, and not acquired by years.
 >
-> <p>- Laozi</p>
+> <p>- Frank Lloyd Wright</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
