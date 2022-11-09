@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> It's easy to make a buck. It's a lot tougher to make a difference.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Tom Brokaw</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
