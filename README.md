@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
 >
-> <p>- John Locke</p>
+> <p>- Olivier Messiaen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
