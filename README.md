@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is essentially a partnership.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Aristotle</p>
+> <p>- Leo Buscaglia</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
