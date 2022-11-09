@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> I have never been hurt by anything I didn't say.
 >
-> <p>- Michael Korda</p>
+> <p>- Calvin Coolidge</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
