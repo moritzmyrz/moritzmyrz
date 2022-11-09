@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
