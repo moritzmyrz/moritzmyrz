@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
 >
-> <p>- Vernon Cooper</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
