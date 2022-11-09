@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> The beginning is always today.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mary Wollstonecraft</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
