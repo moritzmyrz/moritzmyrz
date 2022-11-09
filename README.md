@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- John Locke</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
