@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> So much technology, so little talent.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Vernor Vinge</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
