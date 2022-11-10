@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Douglas Adams</p>
+> <p>- Brian Tracy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
