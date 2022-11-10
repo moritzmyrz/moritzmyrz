@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- Brian Tracy</p>
+> <p>- Dale Turner</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
