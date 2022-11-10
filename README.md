@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To fly as fast as thought, you must begin by knowing that you have already arrived.
+> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
 >
-> <p>- Richard Bach</p>
+> <p>- Hugh Jackman</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
