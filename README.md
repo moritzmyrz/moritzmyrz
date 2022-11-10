@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Phil Jackson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
