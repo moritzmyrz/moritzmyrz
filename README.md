@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- John Wooden</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
