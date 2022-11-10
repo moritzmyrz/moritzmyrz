@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Henry Miller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
