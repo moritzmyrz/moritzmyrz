@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- William Hurt</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
