@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we've realized it's a brochure.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Douglas Adams</p>
+> <p>- Aldous Huxley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
