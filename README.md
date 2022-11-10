@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Alan Cohen</p>
+> <p>- Kathleen Norris</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
