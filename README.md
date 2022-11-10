@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Confucius</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
