@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Phil Jackson</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
