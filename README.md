@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Dale Turner</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
