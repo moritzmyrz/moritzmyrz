@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> Never mistake motion for action.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Ernest Hemingway</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
