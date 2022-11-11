@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> Between saying and doing, many a pair of shoes is worn out.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Iris Murdoch</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
