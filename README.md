@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Cory Doctorow</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
