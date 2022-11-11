@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only real failure in life is not to be true to the best one knows.
+> The greater our knowledge increases the more our ignorance unfolds.
 >
-> <p>- Buddha</p>
+> <p>- John F. Kennedy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
