@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- Carl Jung</p>
+> <p>- Jonathan Kozol</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
