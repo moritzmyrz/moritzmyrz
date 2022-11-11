@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Between saying and doing, many a pair of shoes is worn out.
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Robert Southey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
