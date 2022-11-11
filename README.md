@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The invariable mark of wisdom is to see the miraculous in the common.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Havelock Ellis</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
