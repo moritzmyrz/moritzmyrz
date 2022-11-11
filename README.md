@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Teresa of Ávila</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
