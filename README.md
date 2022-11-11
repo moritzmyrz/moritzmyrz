@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- John Keats</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
