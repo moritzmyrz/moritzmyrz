@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Ben Fountain</p>
+> <p>- François de La Rochefoucauld</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
