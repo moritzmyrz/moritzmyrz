@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
+> The only real failure in life is not to be true to the best one knows.
 >
-> <p>- Basil of Caesarea</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
