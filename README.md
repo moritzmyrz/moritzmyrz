@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Dwight D. Eisenhower</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
