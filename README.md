@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- Confucius</p>
+> <p>- Liberace</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
