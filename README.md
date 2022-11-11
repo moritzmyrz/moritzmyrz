@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- John Eliot</p>
+> <p>- Cory Doctorow</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
