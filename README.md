@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Motivation is the art of getting people to do what you want them to do because they want to do it.
+> The least of things with a meaning is worth more in life than the greatest of things without it.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Carl Jung</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
