@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+> The truest greatness lies in being kind, the truest wisdom in a happy mind.
 >
-> <p>- Barbara De Angelis</p>
+> <p>- Ella Wheeler Wilcox</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
