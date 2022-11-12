@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> Eighty percent of success is showing up.
 >
-> <p>- Albert Einstein</p>
+> <p>- Woody Allen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
