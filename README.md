@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
 >
-> <p>- Dalai Lama</p>
+> <p>- Isaac Asimov</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
