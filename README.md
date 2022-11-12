@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Confucius</p>
+> <p>- H. G. Wells</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
