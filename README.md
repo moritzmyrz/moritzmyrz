@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To conquer fear is the beginning of wisdom.
+> Don't leave a stone unturned. It's always something, to know you have done the most you could.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Charles Dickens</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
