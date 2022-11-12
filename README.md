@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> The deepest craving of human nature is the need to be appreciated.
 >
-> <p>- Janet Jackson</p>
+> <p>- William James</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
