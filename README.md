@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> All difficult things have their origin in that which is easy, and great things in that which is small.
 >
-> <p>- Frank Herbert</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
