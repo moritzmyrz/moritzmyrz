@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Bertrand Russell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
