@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- H. G. Wells</p>
+> <p>- Yogi Berra</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
