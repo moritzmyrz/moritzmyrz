@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Frank Herbert</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
