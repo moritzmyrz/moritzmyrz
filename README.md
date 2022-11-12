@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Yogi Berra</p>
+> <p>- Harriet Beecher Stowe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
