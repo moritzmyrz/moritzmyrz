@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never give up, for that is just the place and time that the tide will turn.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Barack Obama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
