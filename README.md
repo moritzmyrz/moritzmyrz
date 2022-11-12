@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 >
-> <p>- Woody Allen</p>
+> <p>- Janet Jackson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
