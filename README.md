@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
