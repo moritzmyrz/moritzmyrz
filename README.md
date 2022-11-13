@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your work is to discover your world and then with all your heart give yourself to it.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Buddha</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
