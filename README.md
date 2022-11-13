@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- Isocrates</p>
+> <p>- Brian Tracy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
