@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jack Dixon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
