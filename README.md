@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
+> Kind words can be short and easy to speak, but their echoes are truly endless.
 >
-> <p>- Helen Keller</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
