@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Goals are the fuel in the furnace of achievement.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Brian Tracy</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
