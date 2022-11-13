@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as treasures are uncovered from the earth, so virtue appears from good deeds, and wisdom appears from a pure and peaceful mind. To walk safely through the maze of human life, one needs the light of wisdom and the guidance of virtue.
+> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
 >
-> <p>- Buddha</p>
+> <p>- Elon Musk</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
