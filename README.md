@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Edith Wharton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
