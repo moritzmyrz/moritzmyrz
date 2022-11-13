@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
