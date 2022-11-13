@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Montesquieu</p>
+> <p>- Mia Hamm</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
