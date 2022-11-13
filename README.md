@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Edith Wharton</p>
+> <p>- Montesquieu</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
