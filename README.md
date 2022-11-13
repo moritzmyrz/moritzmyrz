@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Barack Obama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
