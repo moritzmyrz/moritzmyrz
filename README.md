@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Your work is to discover your world and then with all your heart give yourself to it.
 >
-> <p>- Jack Dixon</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
