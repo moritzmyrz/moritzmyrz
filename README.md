@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Helen Keller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
