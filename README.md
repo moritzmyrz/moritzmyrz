@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Barack Obama</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
