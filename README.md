@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
