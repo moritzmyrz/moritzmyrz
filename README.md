@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+> If there is no struggle, there is no progress.
 >
-> <p>- Bruce Lee</p>
+> <p>- Frederick Douglass</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
