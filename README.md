@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> Most folks are as happy as they make up their minds to be.
 >
-> <p>- Will Rogers</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
