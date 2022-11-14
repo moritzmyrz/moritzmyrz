@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
