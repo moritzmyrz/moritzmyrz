@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+> If you aren't going all the way, why go at all?
 >
-> <p>- Aristotle</p>
+> <p>- Joe Namath</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
