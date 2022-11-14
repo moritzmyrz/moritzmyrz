@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
