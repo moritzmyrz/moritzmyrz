@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you aren't going all the way, why go at all?
+> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
 >
-> <p>- Joe Namath</p>
+> <p>- Maya Angelou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
