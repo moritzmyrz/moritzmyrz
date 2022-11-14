@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Henri Bergson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
