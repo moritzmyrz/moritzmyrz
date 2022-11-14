@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never complain and never explain.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Samuel Butler</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
