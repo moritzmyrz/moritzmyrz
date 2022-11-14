@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
 >
-> <p>- Dalai Lama</p>
+> <p>- Muhammad Ali</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
