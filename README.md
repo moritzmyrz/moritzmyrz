@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Being entirely honest with oneself is a good exercise.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Thomas Edison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
