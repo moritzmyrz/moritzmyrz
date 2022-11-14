@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Will Rogers</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
