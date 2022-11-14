@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 >
-> <p>- Buddha</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
