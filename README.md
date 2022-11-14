@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Muhammad Ali</p>
+> <p>- J. M. Barrie</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
