@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Alice Walker</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
