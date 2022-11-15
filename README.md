@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> We are all something, but none of us are everything.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Blaise Pascal</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
