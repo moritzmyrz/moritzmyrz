@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to kill any idea in the world, get a committee working on it.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Anne Frank</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
