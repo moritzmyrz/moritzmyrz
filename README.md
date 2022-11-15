@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No person is your friend who demands your silence or denies your right to grow.
+> It is fatal to enter any war without the will to win it.
 >
-> <p>- Alice Walker</p>
+> <p>- Douglas MacArthur</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
