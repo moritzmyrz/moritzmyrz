@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> No man was ever wise by chance.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
