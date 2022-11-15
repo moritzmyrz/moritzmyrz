@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Anne Brontë</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
