@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You just can't beat the person who never gives up.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Babe Ruth</p>
+> <p>- Charles F. Kettering</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
