@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Blaise Pascal</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
