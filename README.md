@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How wonderful it is that nobody need wait a single moment before starting to improve the world.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Anne Frank</p>
+> <p>- Walter Inglis Anderson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
