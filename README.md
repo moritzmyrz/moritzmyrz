@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Marcus Aurelius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
