@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all something, but none of us are everything.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Anne Brontë</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
