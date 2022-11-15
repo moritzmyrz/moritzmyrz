@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Anatole France</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
