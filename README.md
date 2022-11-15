@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mortimer J. Adler</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
