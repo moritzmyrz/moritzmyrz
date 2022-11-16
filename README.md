@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 >
-> <p>- Blaise Pascal</p>
+> <p>- Bill Bradley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
