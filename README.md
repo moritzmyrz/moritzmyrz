@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
 >
-> <p>- George S. Patton</p>
+> <p>- François de La Rochefoucauld</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
