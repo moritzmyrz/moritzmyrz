@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
