@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Booker T. Washington</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
