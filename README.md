@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Robert M. Pirsig</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
