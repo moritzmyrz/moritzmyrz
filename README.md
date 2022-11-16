@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In action a great heart is the chief qualification. In work, a great head.
+> If a man does his best, what else is there?
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- George S. Patton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
