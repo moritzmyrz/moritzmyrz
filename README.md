@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John F. Kennedy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
