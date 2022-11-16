@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Arthur Schopenhauer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
