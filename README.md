@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Afrika Bambaataa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
