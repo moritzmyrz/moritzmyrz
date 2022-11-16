@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship often ends in love, but love in friendship - never.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Albert Camus</p>
+> <p>- Samuel Taylor Coleridge</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
