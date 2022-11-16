@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Jean de La Fontaine</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
