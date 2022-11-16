@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+> Our character is what we do when we think no one is looking.
 >
-> <p>- Rumi</p>
+> <p>- H. Jackson Brown Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
