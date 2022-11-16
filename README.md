@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> You need chaos in your soul to give birth to a dancing star.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Friedrich Nietzsche</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
