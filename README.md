@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Ansel Adams</p>
+> <p>- Eustace Budgell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
