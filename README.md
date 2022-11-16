@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Dhammapada</p>
+> <p>- Blaise Pascal</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
