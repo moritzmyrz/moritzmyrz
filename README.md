@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- Confucius</p>
+> <p>- Albert Camus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
