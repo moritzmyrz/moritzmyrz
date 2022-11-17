@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- David Brinkley</p>
+> <p>- Mahatma Gandhi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
