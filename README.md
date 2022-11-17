@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- Laozi</p>
+> <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
