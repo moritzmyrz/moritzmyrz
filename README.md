@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Miguel de Cervantes</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
