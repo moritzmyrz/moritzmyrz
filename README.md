@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Action is eloquence.
+> Being entirely honest with oneself is a good exercise.
 >
-> <p>- William Shakespeare</p>
+> <p>- Sigmund Freud</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
