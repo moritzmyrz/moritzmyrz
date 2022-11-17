@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All is flux; nothing stays still.
+> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
 >
-> <p>- Heraclitus</p>
+> <p>- Thomas Jefferson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
