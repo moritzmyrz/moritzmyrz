@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Robert Schuller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
