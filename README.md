@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Elbert Hubbard</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
