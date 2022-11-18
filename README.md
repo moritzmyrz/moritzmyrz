@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.
 >
-> <p>- Herodotus</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
