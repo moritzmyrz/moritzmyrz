@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Publilius Syrus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
