@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> Every great advance in science has issued from a new audacity of the imagination.
 >
-> <p>- Mother Teresa</p>
+> <p>- John Dewey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
