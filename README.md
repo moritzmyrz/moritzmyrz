@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Mother Angelica</p>
+> <p>- Maureen Dowd</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
