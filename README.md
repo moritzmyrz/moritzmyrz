@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> Of all possessions a friend is the most precious.
 >
-> <p>- Satchel Paige</p>
+> <p>- Herodotus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
