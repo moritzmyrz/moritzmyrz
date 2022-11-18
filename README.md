@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always remember that you are absolutely unique. Just like everyone else.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- Margaret Mead</p>
+> <p>- Zhuang Zhou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
