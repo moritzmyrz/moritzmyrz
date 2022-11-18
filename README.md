@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When deeds and words are in accord, the whole world is transformed.
+> You cannot have what you do not want.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- John Acosta</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
