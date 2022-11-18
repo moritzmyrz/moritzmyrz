@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> Change in all things is sweet.
 >
-> <p>- John Acosta</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
