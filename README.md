@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change in all things is sweet.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Aristotle</p>
+> <p>- Henri-Frédéric Amiel</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
