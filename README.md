@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Elon Musk</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
