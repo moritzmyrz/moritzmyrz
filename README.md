@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.
+> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
 >
-> <p>- Buddha</p>
+> <p>- Frederick Douglass</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
