@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- John Dewey</p>
+> <p>- Stewart Brand</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
