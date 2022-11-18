@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> Always remember that you are absolutely unique. Just like everyone else.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Margaret Mead</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
