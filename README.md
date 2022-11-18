@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- John Lubbock</p>
+> <p>- Og Mandino</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
