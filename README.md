@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mother Angelica</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
