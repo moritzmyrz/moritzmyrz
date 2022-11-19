@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your body is precious. It is our vehicle for awakening. Treat it with care.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 >
-> <p>- Buddha</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
