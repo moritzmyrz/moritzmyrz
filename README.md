@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- William Blake</p>
+> <p>- Sigmund Freud</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
