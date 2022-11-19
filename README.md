@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Brian Tracy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
