@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> A friend is what the heart needs all the time.
 >
-> <p>- Man Ray</p>
+> <p>- Henry van Dyke Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
