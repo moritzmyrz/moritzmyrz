@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- Chuck Norris</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
