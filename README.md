@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- Bruce Lee</p>
+> <p>- Samuel Beckett</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
