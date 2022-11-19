@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Chuck Norris</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
