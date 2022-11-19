@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As an organizer I start from where the world is, as it is, not as I would like it to be.
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 >
-> <p>- Saul Alinsky</p>
+> <p>- Bruce Lee</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
