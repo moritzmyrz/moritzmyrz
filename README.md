@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- Albert Einstein</p>
+> <p>- William Blake</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
