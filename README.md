@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- Albert Einstein</p>
+> <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
