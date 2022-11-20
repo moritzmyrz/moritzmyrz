@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Rollo May</p>
+> <p>- Hannah More</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
