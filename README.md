@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> Life is the flower for which love is the honey.
 >
-> <p>- Princess Diana</p>
+> <p>- Victor Hugo</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
