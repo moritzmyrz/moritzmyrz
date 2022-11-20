@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
 >
-> <p>- Victor Hugo</p>
+> <p>- Thích Nhất Hạnh</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
