@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bernadette Devlin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
