@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> Only do what your heart tells you.
 >
-> <p>- Vernon Cooper</p>
+> <p>- Princess Diana</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
