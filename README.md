@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Walt Disney</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
