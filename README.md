@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- William James</p>
+> <p>- Phil Jackson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
