@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.
 >
-> <p>- Hannah More</p>
+> <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
