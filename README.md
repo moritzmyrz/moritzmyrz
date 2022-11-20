@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
 >
-> <p>- John Lennon</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
