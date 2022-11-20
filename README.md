@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> Marriage: A friendship recognized by the police.
 >
-> <p>- Confucius</p>
+> <p>- Robert Louis Stevenson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
