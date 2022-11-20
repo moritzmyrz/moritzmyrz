@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
