@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- Confucius</p>
+> <p>- Sam Levenson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
