@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> Reality leaves a lot to the imagination.
 >
-> <p>- Walt Disney</p>
+> <p>- John Lennon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
