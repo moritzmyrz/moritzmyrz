@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+> Love demands infinitely less than friendship.
 >
-> <p>- Molière</p>
+> <p>- George Jean Nathan</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
