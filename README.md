@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Buddha</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
