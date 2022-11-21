@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Will Rogers</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
