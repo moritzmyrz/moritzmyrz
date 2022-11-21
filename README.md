@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> Patience is the companion of wisdom.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Augustine of Hippo</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
