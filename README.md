@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Lin Yutang</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
