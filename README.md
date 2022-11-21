@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one has a finer command of language than the person who keeps his mouth shut.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 >
-> <p>- Sam Rayburn</p>
+> <p>- Henry Wadsworth Longfellow</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
