@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alfred Korzybski</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
