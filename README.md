@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Plato</p>
+> <p>- Thích Nhất Hạnh</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
