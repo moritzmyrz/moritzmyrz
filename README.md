@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
+> By accepting yourself and being fully what you are, your presence can make others happy.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Jane Roberts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
