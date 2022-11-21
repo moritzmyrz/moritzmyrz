@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
 >
-> <p>- Brendan Behan</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
