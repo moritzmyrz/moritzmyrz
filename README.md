@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Will Rogers</p>
+> <p>- Daisaku Ikeda</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
