@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Elie Wiesel</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
