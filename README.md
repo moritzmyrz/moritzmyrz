@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> Wisdom is found only in truth.
 >
-> <p>- Thomas Edison</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
