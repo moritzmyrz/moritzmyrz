@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience is the companion of wisdom.
+> The thing always happens that you really believe in; and the belief in a thing makes it happen.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Frank Lloyd Wright</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
