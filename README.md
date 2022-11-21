@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Lin Yutang</p>
+> <p>- Walter Scott</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
