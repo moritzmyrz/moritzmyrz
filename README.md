@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> Thought is the blossom; language the bud; action the fruit behind it.
 >
-> <p>- Richard Burton</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
