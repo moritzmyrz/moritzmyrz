@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep silence for the most part, and speak only when you must, and then briefly.
+> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 >
-> <p>- Epictetus</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
