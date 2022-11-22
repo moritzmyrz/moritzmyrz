@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> No one has ever become poor by giving.
 >
-> <p>- Tony Robbins</p>
+> <p>- Anne Frank</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
