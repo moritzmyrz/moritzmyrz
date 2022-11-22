@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- John Lasseter</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
