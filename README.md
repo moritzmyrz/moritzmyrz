@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way out is always through.
+> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 >
-> <p>- Robert Frost</p>
+> <p>- Eckhart Tolle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
