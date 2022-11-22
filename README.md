@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
+> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
 >
-> <p>- Harold Geneen</p>
+> <p>- Og Mandino</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
