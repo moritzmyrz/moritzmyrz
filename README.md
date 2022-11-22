@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- Og Mandino</p>
+> <p>- Theodore Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
