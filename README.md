@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 >
-> <p>- John Bercow</p>
+> <p>- Arthur Conan Doyle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
