@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Anne Frank</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
