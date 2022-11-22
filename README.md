@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
