@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- Dalai Lama</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
