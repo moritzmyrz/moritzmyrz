@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- John Bercow</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
