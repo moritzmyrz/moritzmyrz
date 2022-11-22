@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
 >
-> <p>- Tony Robbins</p>
+> <p>- Thomas Edison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
