@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
