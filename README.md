@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Sogyal Rinpoche</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
