@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> It is impossible to love and to be wise.
 >
-> <p>- Doug Horton</p>
+> <p>- Francis Bacon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
