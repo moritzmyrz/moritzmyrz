@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- John Lasseter</p>
+> <p>- Doug Horton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
