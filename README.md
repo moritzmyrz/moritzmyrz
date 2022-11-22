@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Francis Bacon</p>
+> <p>- John Wooden</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
