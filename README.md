@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
