@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
 >
-> <p>- Dhammapada</p>
+> <p>- Robert Louis Stevenson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
