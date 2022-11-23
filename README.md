@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Being entirely honest with oneself is a good exercise.
+> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
