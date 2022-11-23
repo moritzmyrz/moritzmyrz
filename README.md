@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Without some goals and some efforts to reach it, no man can live.
 >
-> <p>- Laozi</p>
+> <p>- John Dewey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
