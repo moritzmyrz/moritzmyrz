@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> Who sows virtue reaps honor.
 >
-> <p>- Confucius</p>
+> <p>- Leonardo da Vinci</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
