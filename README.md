@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> Leave no stone unturned.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Euripides</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
