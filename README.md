@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Dhammapada</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
