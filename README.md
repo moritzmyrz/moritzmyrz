@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Alan Cohen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
