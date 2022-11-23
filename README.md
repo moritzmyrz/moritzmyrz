@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know how to listen, and you will profit even from those who talk badly.
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Plutarch</p>
+> <p>- Mahatma Gandhi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
