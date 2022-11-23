@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Leave no stone unturned.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Euripides</p>
+> <p>- Jane Austen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
