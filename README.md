@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> Being entirely honest with oneself is a good exercise.
 >
-> <p>- Jane Austen</p>
+> <p>- Sigmund Freud</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
