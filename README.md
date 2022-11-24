@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two ways of spreading light: to be the candle or the mirror that reflects it.
+> Honesty is the best policy.
 >
-> <p>- Edith Wharton</p>
+> <p>- Benjamin Franklin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
