@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Nelson Mandela</p>
+> <p>- George Herbert</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
