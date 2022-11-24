@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
 >
-> <p>- Sandy Koufax</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
