@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All truths are easy to understand once they are discovered; the point is to discover them.
+> Pitching is the art of instilling fear.
 >
-> <p>- Galileo Galilei</p>
+> <p>- Sandy Koufax</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
