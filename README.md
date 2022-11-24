@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Edith Wharton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
