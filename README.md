@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Laozi</p>
+> <p>- Benjamin Disraeli</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
