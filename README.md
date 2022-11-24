@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Janet Jackson</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
