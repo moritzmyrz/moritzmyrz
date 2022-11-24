@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you are against weakens you. Everything you are for empowers you.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Alexis Carrel</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
