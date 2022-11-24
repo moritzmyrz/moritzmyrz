@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Woody Allen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
