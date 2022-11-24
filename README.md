@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
