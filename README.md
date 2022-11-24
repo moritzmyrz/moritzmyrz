@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Yogi Berra</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
