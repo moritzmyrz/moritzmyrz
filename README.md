@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> Life is what happens while you are making other plans.
 >
-> <p>- Mother Teresa</p>
+> <p>- John Lennon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
