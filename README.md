@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 >
-> <p>- Yogi Berra</p>
+> <p>- Janet Jackson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
