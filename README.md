@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Confucius</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
