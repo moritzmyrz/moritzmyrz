@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
