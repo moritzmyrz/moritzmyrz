@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- John Lennon</p>
+> <p>- Farhan Akhtar</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
