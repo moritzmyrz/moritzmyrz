@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Honesty is the best policy.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
