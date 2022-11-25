@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Carol Burnett</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
