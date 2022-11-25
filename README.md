@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time changes everything except something within us which is always surprised by change.
+> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
 >
-> <p>- Thomas Hardy</p>
+> <p>- Eknath Easwaran</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
