@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- Woody Allen</p>
+> <p>- Voltaire</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
