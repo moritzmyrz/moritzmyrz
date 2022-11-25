@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> Russia is a riddle wrapped in a mystery inside an enigma.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
