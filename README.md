@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Oscar Wilde</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
