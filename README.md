@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is the marriage of the soul, and this marriage is liable to divorce.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Voltaire</p>
+> <p>- Jane Addams</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
