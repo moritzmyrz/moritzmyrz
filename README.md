@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Vusi Mahlasela</p>
+> <p>- Woodrow Wilson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
