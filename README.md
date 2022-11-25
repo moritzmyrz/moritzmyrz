@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
+> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
 >
-> <p>- Joseph Roux</p>
+> <p>- Colette</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
