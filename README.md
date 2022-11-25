@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
+> Life is what happens while you are making other plans.
 >
-> <p>- Colette</p>
+> <p>- John Lennon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
