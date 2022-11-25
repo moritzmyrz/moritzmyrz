@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- Jane Addams</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
