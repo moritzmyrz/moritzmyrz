@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Ray Bradbury</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
