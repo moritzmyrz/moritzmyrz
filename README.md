@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Leonardo da Vinci</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
