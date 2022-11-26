@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Og Mandino</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
