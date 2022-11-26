@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Russia is a riddle wrapped in a mystery inside an enigma.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Winston Churchill</p>
+> <p>- Francis Bacon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
