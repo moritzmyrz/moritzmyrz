@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Marilyn vos Savant</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
