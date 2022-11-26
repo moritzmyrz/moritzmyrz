@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Francis Bacon</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
