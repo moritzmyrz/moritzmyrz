@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Tony Robbins</p>
+> <p>- Jean-Jacques Rousseau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
