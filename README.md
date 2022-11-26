@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Alan Watts</p>
+> <p>- Ellen Gilchrist</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
