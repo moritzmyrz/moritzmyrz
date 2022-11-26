@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love and friendship exclude each other.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Eleanor Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
