@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.
+> Love and friendship exclude each other.
 >
-> <p>- Alan Watts</p>
+> <p>- Jean de La Bruyère</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
