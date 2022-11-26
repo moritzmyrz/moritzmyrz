@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Og Mandino</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
