@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience keeps a dear school, but fools will learn in no other.
+> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
