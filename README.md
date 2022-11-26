@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- Richard Bach</p>
+> <p>- Joseph Addison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
