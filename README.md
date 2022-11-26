@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Benjamin Franklin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
