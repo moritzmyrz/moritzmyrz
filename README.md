@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Oscar Wilde</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
