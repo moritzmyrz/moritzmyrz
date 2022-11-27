@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Doug Horton</p>
+> <p>- Václav Havel</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
