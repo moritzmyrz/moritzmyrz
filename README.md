@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Morihei Ueshiba</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
