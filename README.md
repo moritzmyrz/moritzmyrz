@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Milton Berle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
