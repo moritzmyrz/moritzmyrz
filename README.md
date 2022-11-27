@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Erasmus</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
