@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
+> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
 >
-> <p>- Morihei Ueshiba</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
