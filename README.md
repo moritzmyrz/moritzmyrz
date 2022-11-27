@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Henry David Thoreau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
