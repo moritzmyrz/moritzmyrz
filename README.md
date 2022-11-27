@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- George Santayana</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
