@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Friedrich Nietzsche</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
