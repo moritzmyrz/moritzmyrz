@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Eleanor Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
