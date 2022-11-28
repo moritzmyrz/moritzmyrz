@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Most powerful is he who has himself in his own power.
 >
-> <p>- William Hazlitt</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
