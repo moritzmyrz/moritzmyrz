@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Dalai Lama</p>
+> <p>- Joyce Meyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
