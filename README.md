@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
 >
-> <p>- Walt Whitman</p>
+> <p>- David Rockefeller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
