@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Maya Angelou</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
