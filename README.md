@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Swim upstream. Go the other way. Ignore the conventional wisdom.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Sam Walton</p>
+> <p>- Bernadette Devlin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
