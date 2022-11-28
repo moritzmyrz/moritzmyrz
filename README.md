@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Henry David Thoreau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
