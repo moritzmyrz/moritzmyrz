@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Mahatma Gandhi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
