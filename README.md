@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 >
-> <p>- George S. Patton</p>
+> <p>- Thomas Jefferson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
