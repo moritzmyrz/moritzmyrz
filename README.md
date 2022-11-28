@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is when what you think, what you say, and what you do are in harmony.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Pat Riley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
