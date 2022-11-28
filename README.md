@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
