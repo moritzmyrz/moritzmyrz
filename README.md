@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Efficiency is doing things right; effectiveness is doing the right things.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Peter Drucker</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
