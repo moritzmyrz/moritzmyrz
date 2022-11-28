@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
+> If you want to go east, don't go west.
 >
-> <p>- David Rockefeller</p>
+> <p>- Ramakrishna</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
