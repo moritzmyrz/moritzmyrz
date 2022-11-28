@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
 >
-> <p>- Epictetus</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
