@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
