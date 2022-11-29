@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> If you light a lamp for somebody, it will also brighten your path.
 >
-> <p>- Bruce Lee</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
