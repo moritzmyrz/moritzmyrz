@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I allow my intuition to lead my path.
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- Manuel Puig</p>
+> <p>- Henry David Thoreau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
