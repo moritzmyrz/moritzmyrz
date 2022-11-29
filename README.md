@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
 >
-> <p>- Laozi</p>
+> <p>- Joseph Campbell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
