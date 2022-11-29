@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
