@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Tom Krause</p>
+> <p>- Sophocles</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
