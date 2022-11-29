@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> God always takes the simplest way.
 >
-> <p>- Bruce Lee</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
