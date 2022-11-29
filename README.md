@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> Think big thoughts but relish small pleasures.
 >
-> <p>- Albert Einstein</p>
+> <p>- H. Jackson Brown Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
