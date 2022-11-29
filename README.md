@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Voltaire</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
