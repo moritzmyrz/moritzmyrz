@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
 >
-> <p>- Mother Teresa</p>
+> <p>- Cicero</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
