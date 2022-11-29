@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+> Change in all things is sweet.
 >
-> <p>- Cicero</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
