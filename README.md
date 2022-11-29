@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> As you think, so shall you become.
 >
-> <p>- Dalai Lama</p>
+> <p>- Bruce Lee</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
