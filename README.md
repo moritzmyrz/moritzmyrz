@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- David Brinkley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
