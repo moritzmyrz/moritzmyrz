@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Mother Teresa</p>
+> <p>- Anaïs Nin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
