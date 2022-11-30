@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History will be kind to me for I intend to write it.
+> Peace begins with a smile.
 >
-> <p>- Winston Churchill</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
