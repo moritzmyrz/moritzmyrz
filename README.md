@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> You always succeed in producing a result.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
