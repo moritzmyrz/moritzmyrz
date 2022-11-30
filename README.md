@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> You are the only person on earth who can use your ability.
 >
-> <p>- Confucius</p>
+> <p>- Zig Ziglar</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
