@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Muir</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
