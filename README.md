@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Confucius</p>
+> <p>- Plato</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
