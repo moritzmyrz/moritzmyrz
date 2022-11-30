@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Sai Baba</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
