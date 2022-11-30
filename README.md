@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Norman Cousins</p>
+> <p>- Henry David Thoreau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
