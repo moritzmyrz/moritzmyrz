@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Richard Bach</p>
+> <p>- Peter Drucker</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
