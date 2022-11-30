@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> History will be kind to me for I intend to write it.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
