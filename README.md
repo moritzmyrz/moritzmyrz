@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> Every gift from a friend is a wish for your happiness.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
