@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
