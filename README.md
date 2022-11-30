@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
 >
-> <p>- William Inge</p>
+> <p>- Mary Kay Ash</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
