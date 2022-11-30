@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Tony Robbins</p>
+> <p>- Robert Kiyosaki</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
