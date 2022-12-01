@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Karl Menninger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
