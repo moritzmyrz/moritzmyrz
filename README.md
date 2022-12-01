@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> If you do what you've always done, you'll get what you've always gotten.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
