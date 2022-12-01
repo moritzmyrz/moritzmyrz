@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
 >
-> <p>- Jack Buck</p>
+> <p>- Gordon Hinckley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
