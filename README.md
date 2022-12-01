@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- Marilyn vos Savant</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
