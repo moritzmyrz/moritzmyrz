@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- Robert Kiyosaki</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
