@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Jack Buck</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
