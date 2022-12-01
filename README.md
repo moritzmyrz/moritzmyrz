@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Karl Menninger</p>
+> <p>- Yolanda Hadid</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
