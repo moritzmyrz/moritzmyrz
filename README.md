@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Anatole France</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
