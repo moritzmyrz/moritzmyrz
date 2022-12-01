@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
+> All serious daring starts from within.
 >
-> <p>- Winston Churchill</p>
+> <p>- Harriet Beecher Stowe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
