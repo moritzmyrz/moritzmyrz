@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Tony Robbins</p>
+> <p>- Joseph Prince</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
