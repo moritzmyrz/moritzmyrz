@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Joseph Prince</p>
+> <p>- Jean Antoine Petit-Senn</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
