@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The personal life deeply lived always expands into truths beyond itself.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Jean-Paul Sartre</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
