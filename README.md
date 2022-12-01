@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
