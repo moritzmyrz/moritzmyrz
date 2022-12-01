@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Anatole France</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
