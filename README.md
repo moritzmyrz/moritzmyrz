@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> Good judgment comes from experience, and a lot of that comes from bad judgment.
 >
-> <p>- William Shakespeare</p>
+> <p>- Will Rogers</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
