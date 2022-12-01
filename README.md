@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As an organizer I start from where the world is, as it is, not as I would like it to be.
+> The personal life deeply lived always expands into truths beyond itself.
 >
-> <p>- Saul Alinsky</p>
+> <p>- Anaïs Nin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
