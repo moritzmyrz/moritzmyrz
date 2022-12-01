@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> We know what we are but know not what we may be.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- William Shakespeare</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
