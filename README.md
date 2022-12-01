@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> Knowing others is wisdom, knowing yourself is Enlightenment.
 >
-> <p>- Doug Horton</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
