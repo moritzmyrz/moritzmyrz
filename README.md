@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> Patience is the companion of wisdom.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Augustine of Hippo</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
