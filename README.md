@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And as we let our own light shine, we unconsciously give other people permission to do the same.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- Nelson Mandela</p>
+> <p>- William C. Menninger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
