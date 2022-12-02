@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> To see things in the seed, that is genius.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
