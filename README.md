@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
 >
-> <p>- Winston Churchill</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
