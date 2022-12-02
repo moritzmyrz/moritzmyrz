@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience is the companion of wisdom.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
