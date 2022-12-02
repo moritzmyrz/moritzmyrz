@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the stars should appear but one night every thousand years how man would marvel and adore.
+> You are the only person on earth who can use your ability.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Zig Ziglar</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
