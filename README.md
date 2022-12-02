@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
 >
-> <p>- Epictetus</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
