@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There's power in looking silly and not caring that you do.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Amy Poehler</p>
+> <p>- Sidney Hook</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
