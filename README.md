@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> What we achieve inwardly will change outer reality.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Plutarch</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
