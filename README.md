@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
+> There's power in looking silly and not caring that you do.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Amy Poehler</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
