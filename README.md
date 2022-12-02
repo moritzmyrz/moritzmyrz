@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> We make our own fortunes and we call them fate.
 >
-> <p>- Earl Monroe</p>
+> <p>- Benjamin Disraeli</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
