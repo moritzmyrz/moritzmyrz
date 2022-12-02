@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Laozi</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
