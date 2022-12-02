@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Amy Bloom</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
