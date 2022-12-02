@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make our own fortunes and we call them fate.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
