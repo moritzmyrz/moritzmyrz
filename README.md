@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we achieve inwardly will change outer reality.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Plutarch</p>
+> <p>- Robert Louis Stevenson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
