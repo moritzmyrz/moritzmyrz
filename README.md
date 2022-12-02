@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 >
-> <p>- Amy Bloom</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
