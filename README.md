@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
+> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
 >
-> <p>- William C. Menninger</p>
+> <p>- Earl Monroe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
