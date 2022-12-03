@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port is sailing, no wind is favorable.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Martha Washington</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
