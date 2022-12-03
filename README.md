@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Henry van Dyke Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
