@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> I can, therefore I am.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Simone Weil</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
