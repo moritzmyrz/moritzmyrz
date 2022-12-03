@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> The greatest healing therapy is friendship and love.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Hubert Humphrey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
