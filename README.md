@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can, therefore I am.
+> Take rest; a field that has rested gives a bountiful crop.
 >
-> <p>- Simone Weil</p>
+> <p>- Ovid</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
