@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Joan Rivers</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
