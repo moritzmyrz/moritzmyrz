@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.
+> Technology presumes there's just one right way to do things and there never is.
 >
-> <p>- Cicero</p>
+> <p>- Robert M. Pirsig</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
