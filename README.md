@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+> To fly as fast as thought, you must begin by knowing that you have already arrived.
 >
-> <p>- Anne Lindbergh</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
