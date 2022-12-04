@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Theodore Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
