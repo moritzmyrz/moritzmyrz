@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Carl Jung</p>
+> <p>- John Lennon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
