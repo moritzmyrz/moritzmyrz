@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- William Blake</p>
+> <p>- Mark Twain</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
