@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 >
-> <p>- George Orwell</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
