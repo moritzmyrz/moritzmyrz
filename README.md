@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Ella Wheeler Wilcox</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
