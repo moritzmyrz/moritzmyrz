@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+> Do all things with love.
 >
-> <p>- Frank Abagnale</p>
+> <p>- Og Mandino</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
