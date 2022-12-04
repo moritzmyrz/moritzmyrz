@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> Swim upstream. Go the other way. Ignore the conventional wisdom.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Sam Walton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
