@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- Mark Twain</p>
+> <p>- Benjamin Disraeli</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
