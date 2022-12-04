@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
 >
-> <p>- Alan Watts</p>
+> <p>- Henri-Frédéric Amiel</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
