@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Swim upstream. Go the other way. Ignore the conventional wisdom.
+> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
 >
-> <p>- Sam Walton</p>
+> <p>- Pema Chödrön</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
