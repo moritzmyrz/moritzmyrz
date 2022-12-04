@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
