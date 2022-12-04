@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- John Lennon</p>
+> <p>- Thomas Edison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
