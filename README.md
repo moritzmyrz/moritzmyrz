@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Václav Havel</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
