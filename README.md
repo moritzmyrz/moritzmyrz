@@ -7,7 +7,7 @@
 - 🌍 I'm based in Norway
 - 🖥️ See my portfolio at [myrseth.co](http://www.myrseth.co)
 - ✉️ You can contact me at [moritz@myrseth.co](mailto:moritz@myrseth.co)
-- 🚀 I'm currently working on [Homein AS](http://www.homein.no)
+- 🚀 I'm currently working on [Myrseth Technologies](http://www.myrseth.tech) & [Homein AS](http://www.homein.no)
 
 ### Skills
 
