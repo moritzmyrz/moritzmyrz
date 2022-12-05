@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- Brian Tracy</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
