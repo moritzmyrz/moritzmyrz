@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Babe Ruth</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
