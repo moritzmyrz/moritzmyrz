@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Confucius</p>
+> <p>- Robert F. Kennedy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
