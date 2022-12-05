@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> Value your friendship. Value your relationships.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Barbara Bush</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
