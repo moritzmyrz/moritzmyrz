@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Jim Elliot</p>
+> <p>- Martha Washington</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
