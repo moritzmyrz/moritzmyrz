@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I prefer the folly of enthusiasm to the indifference of wisdom.
+> Love is a friendship set to music.
 >
-> <p>- Anatole France</p>
+> <p>- Joseph Campbell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
