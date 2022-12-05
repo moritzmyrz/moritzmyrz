@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Walter Inglis Anderson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
