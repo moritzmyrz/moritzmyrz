@@ -7,7 +7,7 @@
 - 🌍 I'm based in Norway
 - 🖥️ See my portfolio at [myrseth.co](http://www.myrseth.co)
 - ✉️ You can contact me at [moritz@myrseth.co](mailto:moritz@myrseth.co)
-- 🚀 I'm currently working on [Myrseth Technologies](http://www.myrseth.tech) & [Homein AS](http://www.homein.no)
+- 🚀 I'm currently working on [Homein AS](http://www.homein.no)
 
 ### Skills
 
@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- Václav Havel</p>
+> <p>- Anton Chekhov</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
