@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Tony Robbins</p>
+> <p>- Corita Kent</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
