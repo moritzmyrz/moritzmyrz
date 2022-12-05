@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> The only limit to your impact is your imagination and commitment.
 >
-> <p>- Alan Watts</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
