@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Corita Kent</p>
+> <p>- Brian Tracy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
