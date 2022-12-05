@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jimmy Dean</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
