@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Martha Washington</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
