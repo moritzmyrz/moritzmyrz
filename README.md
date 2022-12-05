@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> Don't watch the clock; do what it does. Keep going.
 >
-> <p>- Babe Ruth</p>
+> <p>- Sam Levenson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
