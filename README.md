@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> He is no fool who gives what he cannot keep to gain what he cannot lose.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Jim Elliot</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
