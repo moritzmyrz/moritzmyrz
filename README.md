@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't watch the clock; do what it does. Keep going.
+> Small opportunities are often the beginning of great enterprises.
 >
-> <p>- Sam Levenson</p>
+> <p>- Demosthenes</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
