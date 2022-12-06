@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Value your friendship. Value your relationships.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Barbara Bush</p>
+> <p>- John Muir</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
