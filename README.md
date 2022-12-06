@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is not started today is never finished tomorrow.
+> An ant on the move does more than a dozing ox
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
