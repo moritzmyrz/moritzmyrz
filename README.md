@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.
 >
-> <p>- Napoleon Hill</p>
+> <p>- W. Clement Stone</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
