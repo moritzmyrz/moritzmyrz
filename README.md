@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> If you light a lamp for somebody, it will also brighten your path.
 >
-> <p>- Tony Robbins</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
