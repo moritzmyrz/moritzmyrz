@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An ant on the move does more than a dozing ox
+> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
 >
-> <p>- Laozi</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
