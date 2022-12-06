@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
+> Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- George Herbert</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
