@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.
+> One today is worth two tomorrows.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Benjamin Franklin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
