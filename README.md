@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> Imagination rules the world.
 >
-> <p>- Laozi</p>
+> <p>- Napoleon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
