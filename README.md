@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Leonardo da Vinci</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
