@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> Value your friendship. Value your relationships.
 >
-> <p>- Brian O'Driscoll</p>
+> <p>- Barbara Bush</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
