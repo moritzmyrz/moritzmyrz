@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
