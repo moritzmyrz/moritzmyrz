@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you light a lamp for somebody, it will also brighten your path.
+> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
 >
-> <p>- Buddha</p>
+> <p>- Kahlil Gibran</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
