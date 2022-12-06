@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 >
-> <p>- Tom Krause</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
