@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- William Shakespeare</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
