@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Charlotte Brontë</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
