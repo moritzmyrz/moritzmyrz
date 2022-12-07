@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
+> Nothing in life is so exhilarating as to be shot at without result.
 >
-> <p>- Ralph Abernathy</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
