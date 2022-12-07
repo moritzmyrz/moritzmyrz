@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> When the solution is simple, God is answering.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
