@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Dag Hammarskjöld</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
