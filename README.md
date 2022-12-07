@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Ernie Banks</p>
+> <p>- Woodrow Wilson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
