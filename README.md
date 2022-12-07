@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Albert Einstein</p>
+> <p>- Oscar Wilde</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
