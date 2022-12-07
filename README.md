@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Milton Berle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
