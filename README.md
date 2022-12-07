@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
 >
-> <p>- Bo Jackson</p>
+> <p>- Oprah Winfrey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
