@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- William Inge</p>
+> <p>- Hannah More</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
