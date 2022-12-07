@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
