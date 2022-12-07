@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Winston Churchill</p>
+> <p>- Oprah Winfrey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
