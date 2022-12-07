@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not so important to know everything as to appreciate what we learn.
+> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
 >
-> <p>- Hannah More</p>
+> <p>- Thomas Jefferson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
