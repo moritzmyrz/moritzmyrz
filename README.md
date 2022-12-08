@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever happens, take responsibility.
+> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 >
-> <p>- Tony Robbins</p>
+> <p>- Marcus Aurelius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
