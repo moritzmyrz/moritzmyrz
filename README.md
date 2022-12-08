@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Mark Twain</p>
+> <p>- Bruce Lee</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
