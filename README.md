@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- Anne Frank</p>
+> <p>- Fawn M. Brodie</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
