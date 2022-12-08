@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Isocrates</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
