@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Aristotle</p>
+> <p>- John Eliot</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
