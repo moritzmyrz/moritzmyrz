@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> Whatever happens, take responsibility.
 >
-> <p>- Isocrates</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
