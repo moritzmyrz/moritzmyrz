@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Mark Twain</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
