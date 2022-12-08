@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Bruce Lee</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
