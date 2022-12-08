@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> No man is free who is not master of himself.
 >
-> <p>- Alexander Pope</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
