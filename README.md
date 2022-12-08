@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+> Do good by stealth, and blush to find it fame.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Alexander Pope</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
