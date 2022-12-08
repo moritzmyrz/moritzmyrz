@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- John Eliot</p>
+> <p>- Anne Frank</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
