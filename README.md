@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
 >
-> <p>- Robert Southey</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
