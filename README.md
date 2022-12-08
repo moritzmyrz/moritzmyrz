@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Henry David Thoreau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
