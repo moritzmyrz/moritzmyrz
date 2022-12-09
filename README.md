@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Mao Zedong</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
