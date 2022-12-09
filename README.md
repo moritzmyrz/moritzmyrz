@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> You cannot escape the responsibility of tomorrow by evading it today.
 >
-> <p>- Josh Billings</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
