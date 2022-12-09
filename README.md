@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Christie Brinkley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
