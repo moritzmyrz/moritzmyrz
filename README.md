@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Daisaku Ikeda</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
