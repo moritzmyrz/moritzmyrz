@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Brian Tracy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
