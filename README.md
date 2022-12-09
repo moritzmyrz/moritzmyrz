@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+> Peace begins with a smile.
 >
-> <p>- Bruce Lee</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
