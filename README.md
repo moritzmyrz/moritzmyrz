@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> Most people never run far enough on their first wind to find out they've got a second.
 >
-> <p>- John F. Kennedy</p>
+> <p>- William James</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
