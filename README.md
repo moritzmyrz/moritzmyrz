@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Thomas Edison</p>
+> <p>- Jean-Jacques Rousseau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
