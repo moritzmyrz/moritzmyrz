@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> No man has a good enough memory to be a successful liar.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
