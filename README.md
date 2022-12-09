@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
 >
-> <p>- Bruce Lee</p>
+> <p>- John F. Kennedy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
