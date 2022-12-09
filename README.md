@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Gail Sheehy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
