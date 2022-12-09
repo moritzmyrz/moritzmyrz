@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Mao Zedong</p>
+> <p>- Josh Billings</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
