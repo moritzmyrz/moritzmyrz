@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man has a good enough memory to be a successful liar.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- William Shakespeare</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
