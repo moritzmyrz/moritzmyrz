@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
 >
-> <p>- William Shakespeare</p>
+> <p>- Zhuang Zhou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
