@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- William James</p>
+> <p>- Ivy Baker Priest</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
