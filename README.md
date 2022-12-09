@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Henry Ford</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
