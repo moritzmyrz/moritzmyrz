@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nobody made a greater mistake than he who did nothing because he could do only a little.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Edmund Burke</p>
+> <p>- A. P. J. Abdul Kalam</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
