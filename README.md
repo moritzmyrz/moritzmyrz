@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dr. Seuss</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
