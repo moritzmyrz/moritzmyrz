@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Euripides</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
