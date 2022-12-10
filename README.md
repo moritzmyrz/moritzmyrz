@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Carl Jung</p>
+> <p>- George Bernard Shaw</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
