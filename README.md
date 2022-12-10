@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
