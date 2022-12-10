@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Erasmus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
