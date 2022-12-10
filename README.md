@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> Things that were hard to bear are sweet to remember.
 >
-> <p>- Mark Twain</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
