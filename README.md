@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
 >
-> <p>- Euripides</p>
+> <p>- Paul Theroux</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
