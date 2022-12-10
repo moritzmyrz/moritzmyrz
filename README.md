@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Colin Powell</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
