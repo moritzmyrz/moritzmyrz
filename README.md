@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us sacrifice our today so that our children can have a better tomorrow.
+> A really great talent finds its happiness in execution.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
