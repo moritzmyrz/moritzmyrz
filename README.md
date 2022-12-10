@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Erasmus</p>
+> <p>- Carl Jung</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
