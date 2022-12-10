@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- Katherine Mansfield</p>
+> <p>- Mark Twain</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
