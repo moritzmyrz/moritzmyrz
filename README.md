@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Charles Darwin</p>
+> <p>- May Sarton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
