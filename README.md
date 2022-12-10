@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 >
-> <p>- May Sarton</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
