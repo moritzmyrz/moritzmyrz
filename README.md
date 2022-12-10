@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To conquer fear is the beginning of wisdom.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Edmund Burke</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
