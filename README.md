@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Charles Darwin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
