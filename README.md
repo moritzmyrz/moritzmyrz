@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
