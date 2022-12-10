@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Colin Powell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
