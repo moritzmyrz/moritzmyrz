@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Bertrand Russell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
