@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Lena Horne</p>
+> <p>- Sophocles</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
