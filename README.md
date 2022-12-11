@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Brooks Adams</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
