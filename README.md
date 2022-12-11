@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> You teach best what you most need to learn.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
