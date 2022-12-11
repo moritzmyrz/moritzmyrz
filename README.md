@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Sophocles</p>
+> <p>- Clay Shirky</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
