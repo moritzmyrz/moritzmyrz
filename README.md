@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing but heaven itself is better than a friend who is really a friend.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- Plautus</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
