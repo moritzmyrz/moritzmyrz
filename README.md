@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Paul Theroux</p>
+> <p>- Torquato Tasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
