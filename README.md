@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> Always be smarter than the people who hire you.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- Lena Horne</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
