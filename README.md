@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
+> Creativity comes from trust. Trust your instincts. And never hope more than you work.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Rita Mae Brown</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
