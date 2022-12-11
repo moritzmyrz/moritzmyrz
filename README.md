@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> Wise men speak because they have something to say; Fools because they have to say something.
 >
-> <p>- Helen Keller</p>
+> <p>- Plato</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
