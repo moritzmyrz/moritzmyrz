@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
 >
-> <p>- Mother Teresa</p>
+> <p>- Oprah Winfrey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
