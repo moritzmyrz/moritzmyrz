@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Richard Bach</p>
+> <p>- Leonard Nimoy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
