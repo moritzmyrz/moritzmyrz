@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Plato</p>
+> <p>- Henry Ford</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
