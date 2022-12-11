@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
