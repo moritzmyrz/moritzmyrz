@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Chanakya</p>
+> <p>- Helen Keller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
