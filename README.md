@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
+> Our strength grows out of our weaknesses.
 >
-> <p>- Jane Addams</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
