@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> What worries you masters you.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Haddon Robinson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
