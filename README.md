@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You only lose what you cling to.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Buddha</p>
+> <p>- J. M. Barrie</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
