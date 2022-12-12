@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.
 >
-> <p>- Maya Angelou</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
