@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> You only lose what you cling to.
 >
-> <p>- Harriet Woods</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
