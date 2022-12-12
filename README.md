@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our strength grows out of our weaknesses.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Man Ray</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
