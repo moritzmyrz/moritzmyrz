@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+> You give before you get.
 >
-> <p>- Confucius</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
