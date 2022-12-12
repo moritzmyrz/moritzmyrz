@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You give before you get.
+> Computers are useless. They can only give you answers.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Pablo Picasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
