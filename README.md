@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
