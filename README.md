@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
+> It is never too late to be what you might have been.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- George Eliot</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
