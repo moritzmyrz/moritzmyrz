@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
 >
-> <p>- John Wooden</p>
+> <p>- Plotinus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
