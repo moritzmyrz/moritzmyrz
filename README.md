@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> I believe that every person is born with talent.
 >
-> <p>- Dalai Lama</p>
+> <p>- Maya Angelou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
