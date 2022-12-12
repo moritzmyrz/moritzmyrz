@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- Colette</p>
+> <p>- John Wooden</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
