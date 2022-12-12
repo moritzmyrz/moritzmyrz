@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Theodore Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
