@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He is able who thinks he is able.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- Buddha</p>
+> <p>- Eleanor Roosevelt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
