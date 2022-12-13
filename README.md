@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god.
 >
-> <p>- Betty Friedan</p>
+> <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
