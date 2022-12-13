@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
 >
-> <p>- Woody Allen</p>
+> <p>- John Steinbeck</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
