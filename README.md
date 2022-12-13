@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> Love and friendship exclude each other.
 >
-> <p>- George Eliot</p>
+> <p>- Jean de La Bruyère</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
