@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Sophocles</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
