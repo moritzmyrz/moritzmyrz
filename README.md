@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Sophocles</p>
+> <p>- Betty Friedan</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
