@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love and friendship exclude each other.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
