@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- John Steinbeck</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
