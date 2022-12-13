@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 >
 > <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
