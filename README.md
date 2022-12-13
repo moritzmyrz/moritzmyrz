@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Woody Allen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
