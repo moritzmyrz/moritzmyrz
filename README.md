@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+> Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.
 >
-> <p>- Steven Van Zandt</p>
+> <p>- Marilyn Monroe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
