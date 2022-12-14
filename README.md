@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> Quality is not an act; it is a habit.
 >
-> <p>- Virgil</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
