@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Nature is a mutable cloud which is always and never the same.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
