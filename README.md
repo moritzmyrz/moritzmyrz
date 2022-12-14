@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
 >
-> <p>- William Shakespeare</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
