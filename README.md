@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Aristotle</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
