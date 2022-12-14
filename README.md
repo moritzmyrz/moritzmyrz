@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Laozi</p>
+> <p>- Will Rogers</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
