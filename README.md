@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> You'll see it when you believe it.
 >
-> <p>- Lucille Ball</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
