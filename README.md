@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- William James</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
