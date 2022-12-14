@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> I believe in one thing only, the power of human will.
 >
-> <p>- Torquato Tasso</p>
+> <p>- Joseph Stalin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
