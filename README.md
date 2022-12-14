@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- William James</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
