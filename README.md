@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+> Having nothing, nothing can he lose.
 >
-> <p>- Margaret Chase Smith</p>
+> <p>- William Shakespeare</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
