@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Lauren Bacall</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
