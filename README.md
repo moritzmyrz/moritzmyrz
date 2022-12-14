@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's important to know that words don't move mountains. Work, exacting work moves mountains.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Danilo Dolci</p>
+> <p>- Henri Poincaré</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
