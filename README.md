@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
