@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man understands what is right; the inferior man understands what will sell.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Confucius</p>
+> <p>- Walter Winchell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
