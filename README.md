@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Epictetus</p>
+> <p>- Lucille Ball</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
