@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Winston Churchill</p>
+> <p>- Torquato Tasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
