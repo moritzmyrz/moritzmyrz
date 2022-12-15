@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
+> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
 >
-> <p>- Denis Waitley</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
