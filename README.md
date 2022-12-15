@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> Keep your face always toward the sunshine - and shadows will fall behind you.
 >
-> <p>- Torquato Tasso</p>
+> <p>- Walt Whitman</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
