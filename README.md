@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- Michelangelo</p>
+> <p>- Denis Waitley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
