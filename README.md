@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Mother Teresa</p>
+> <p>- Torquato Tasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
