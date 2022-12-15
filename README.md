@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Libby Larsen</p>
+> <p>- Anaïs Nin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
