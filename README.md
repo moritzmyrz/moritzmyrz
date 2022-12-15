@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
 >
-> <p>- Mark Twain</p>
+> <p>- Elizabeth Kapu'uwailani Lindsey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
