@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
+> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
 >
-> <p>- Richard Bach</p>
+> <p>- Napoleon Hill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
