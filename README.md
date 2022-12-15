@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Peter Drucker</p>
+> <p>- Toni Morrison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
