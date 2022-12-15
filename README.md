@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
+> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
 >
-> <p>- Elizabeth Kapu'uwailani Lindsey</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
