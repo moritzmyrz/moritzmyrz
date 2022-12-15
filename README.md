@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
 >
-> <p>- Woody Allen</p>
+> <p>- Elbert Hubbard</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
