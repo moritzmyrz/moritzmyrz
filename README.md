@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work out your own salvation. Do not depend on others.
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
 >
-> <p>- Buddha</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
