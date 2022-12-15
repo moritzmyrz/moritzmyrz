@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+> Faith in oneself is the best and safest course.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Michelangelo</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
