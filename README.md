@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The human spirit must prevail over technology.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
