@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> The pain passes, but the beauty remains.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Pierre-Auguste Renoir</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
