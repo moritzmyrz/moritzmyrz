@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Honoré de Balzac</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
