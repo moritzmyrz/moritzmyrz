@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Cicero</p>
+> <p>- Marcus Aurelius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
