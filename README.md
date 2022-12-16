@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Vince Lombardi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
