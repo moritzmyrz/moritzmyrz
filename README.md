@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- Confucius</p>
+> <p>- Albert Camus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
