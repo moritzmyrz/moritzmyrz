@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Dale Carnegie</p>
+> <p>- J. Willard Marriott</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
