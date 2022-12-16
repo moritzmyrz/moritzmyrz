@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> Wisdom begins in wonder.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Socrates</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
