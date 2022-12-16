@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most effective way to do it, is to do it.
+> I don't believe in failure. It's not failure if you enjoyed the process.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Oprah Winfrey</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
