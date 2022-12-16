@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> If you wish to be a writer, write.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
