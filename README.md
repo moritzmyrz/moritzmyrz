@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is like a sewer. What you get out of it depends on what you put into it.
+> Applause is a receipt, not a bill.
 >
-> <p>- Tom Lehrer</p>
+> <p>- Dale Carnegie</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
