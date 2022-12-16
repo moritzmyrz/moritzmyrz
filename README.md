@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the world.
+> The most effective way to do it, is to do it.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Amelia Earhart</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
