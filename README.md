@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Winston Churchill</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
