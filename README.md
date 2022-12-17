@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
