@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History is written by the victors.
+> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
 >
-> <p>- Winston Churchill</p>
+> <p>- Muhammad Ali</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
