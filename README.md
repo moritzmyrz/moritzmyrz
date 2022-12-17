@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Robert Schuller</p>
+> <p>- Pema Chödrön</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
