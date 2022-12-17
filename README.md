@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Paavo Nurmi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
