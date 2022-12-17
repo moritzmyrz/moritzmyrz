@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
+> The smallest deed is better than the greatest intention.
 >
-> <p>- Laozi</p>
+> <p>- John Burroughs</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
