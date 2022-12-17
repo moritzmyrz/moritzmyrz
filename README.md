@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man has a good enough memory to be a successful liar.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
