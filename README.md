@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
