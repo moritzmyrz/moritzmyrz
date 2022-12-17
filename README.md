@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you wish to be a writer, write.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Epictetus</p>
+> <p>- John Updike</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
