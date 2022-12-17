@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> No day in which you learn something is a complete loss.
 >
-> <p>- John Burroughs</p>
+> <p>- David Eddings</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
