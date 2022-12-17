@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
 >
-> <p>- John Updike</p>
+> <p>- Frederick Douglass</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
