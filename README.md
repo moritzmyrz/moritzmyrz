@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- Napoleon</p>
+> <p>- Kahlil Gibran</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
