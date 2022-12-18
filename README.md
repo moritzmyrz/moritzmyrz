@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Everett Dirksen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
