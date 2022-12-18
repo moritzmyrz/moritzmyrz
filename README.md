@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> The pain passes, but the beauty remains.
 >
-> <p>- Robert Schuller</p>
+> <p>- Pierre-Auguste Renoir</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
