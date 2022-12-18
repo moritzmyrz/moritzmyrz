@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Never mistake activity for achievement.
 >
-> <p>- Marie Curie</p>
+> <p>- John Wooden</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
