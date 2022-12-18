@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
+> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
 >
-> <p>- Caroline Myss</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
