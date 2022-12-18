@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> Victory belongs to the most persevering.
 >
-> <p>- Warren Bennis</p>
+> <p>- Napoleon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
