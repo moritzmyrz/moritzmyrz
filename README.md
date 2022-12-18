@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
