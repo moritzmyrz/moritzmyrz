@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work out your own salvation. Do not depend on others.
+> Action is the foundational key to all success.
 >
-> <p>- Buddha</p>
+> <p>- Pablo Picasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
