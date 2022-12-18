@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> Wisdom begins at the end.
 >
-> <p>- Napoleon</p>
+> <p>- Daniel Webster</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
