@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Warren Bennis</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
