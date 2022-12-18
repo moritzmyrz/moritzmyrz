@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He is able who thinks he is able.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Buddha</p>
+> <p>- Muhammad Ali</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
