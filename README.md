@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> He is able who thinks he is able.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
