@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Alan Watts</p>
+> <p>- Robert Schuller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
