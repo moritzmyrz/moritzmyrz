@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> The ballot is stronger than the bullet.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
