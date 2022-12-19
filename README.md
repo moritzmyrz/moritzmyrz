@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Thích Nhất Hạnh</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
