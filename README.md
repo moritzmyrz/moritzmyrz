@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Edmund Burke</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
