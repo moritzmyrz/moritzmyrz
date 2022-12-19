@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Government of the people, by the people, for the people, shall not perish from the Earth.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Rabindranath Tagore</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
