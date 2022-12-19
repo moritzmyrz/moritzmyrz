@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Judy Garland</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
