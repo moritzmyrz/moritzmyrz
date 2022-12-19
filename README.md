@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> Everything you can imagine is real.
 >
-> <p>- Albert Einstein</p>
+> <p>- Pablo Picasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
