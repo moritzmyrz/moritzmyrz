@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- George Orwell</p>
+> <p>- Ben Hogan</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
