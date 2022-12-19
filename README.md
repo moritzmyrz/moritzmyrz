@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Happiness can exist only in acceptance.
 >
-> <p>- Dalai Lama</p>
+> <p>- George Orwell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
