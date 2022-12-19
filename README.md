@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Judy Garland</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
