@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> A business that makes nothing but money is a poor business.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Henry Ford</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
