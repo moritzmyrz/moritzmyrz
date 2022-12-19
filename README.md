@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A business that makes nothing but money is a poor business.
+> You teach best what you most need to learn.
 >
-> <p>- Henry Ford</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
