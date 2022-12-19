@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
 >
-> <p>- Tom Krause</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
