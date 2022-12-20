@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like credit, is highest when it is not used.
+> Keep your face always toward the sunshine - and shadows will fall behind you.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Walt Whitman</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
