@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to kill any idea in the world, get a committee working on it.
+> You always succeed in producing a result.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
