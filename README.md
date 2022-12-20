@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
+> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
 >
-> <p>- Robert Southey</p>
+> <p>- Jean-Paul Sartre</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
