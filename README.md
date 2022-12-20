@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
+> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
 >
-> <p>- Caroline Myss</p>
+> <p>- François de La Rochefoucauld</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
