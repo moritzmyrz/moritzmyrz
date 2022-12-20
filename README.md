@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Robert Graves</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
