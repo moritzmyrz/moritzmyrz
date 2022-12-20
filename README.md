@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Benjamin Franklin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
