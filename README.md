@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> If I were two-faced, would I be wearing this one?
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
