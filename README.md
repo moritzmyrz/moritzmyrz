@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never do things others can do and will do, if there are things others cannot do or will not do.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Amelia Earhart</p>
+> <p>- John Powell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
