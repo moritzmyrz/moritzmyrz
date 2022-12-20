@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+> Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.
 >
-> <p>- Robert Graves</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
