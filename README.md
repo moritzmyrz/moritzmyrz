@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our work is the presentation of our capabilities.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Caroline Myss</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
