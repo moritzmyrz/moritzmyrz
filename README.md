@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.
+> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
 >
-> <p>- Buddha</p>
+> <p>- Elon Musk</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
