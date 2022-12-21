@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- Lou Holtz</p>
+> <p>- Zhuang Zhou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
