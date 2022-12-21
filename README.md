@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Maya Angelou</p>
+> <p>- Zig Ziglar</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
