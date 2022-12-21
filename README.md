@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+> If one is lucky, a solitary fantasy can totally transform one million realities.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Maya Angelou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
