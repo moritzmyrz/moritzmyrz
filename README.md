@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Yogi Berra</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
