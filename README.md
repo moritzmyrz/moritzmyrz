@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Bernice Reagon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
