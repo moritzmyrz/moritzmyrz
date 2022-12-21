@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take things as they are. Punch when you have to punch. Kick when you have to kick.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Bruce Lee</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
