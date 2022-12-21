@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Mother Teresa</p>
+> <p>- Carl Jung</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
