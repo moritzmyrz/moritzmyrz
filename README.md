@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> Love is the flower you've got to let grow.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- John Lennon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
