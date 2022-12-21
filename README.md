@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Peace begins with a smile.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Mother Teresa</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
