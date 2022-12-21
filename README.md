@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Lou Holtz</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
