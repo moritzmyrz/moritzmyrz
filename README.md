@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Yogi Berra</p>
+> <p>- Marcus Aurelius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
