@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Robert Fulghum</p>
+> <p>- Dr. Seuss</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
