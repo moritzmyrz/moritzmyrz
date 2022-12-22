@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> Formula for success: under promise and over deliver.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Tom Peters</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
