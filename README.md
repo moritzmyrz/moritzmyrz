@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
