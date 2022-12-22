@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Tony Robbins</p>
+> <p>- Ella Wheeler Wilcox</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
