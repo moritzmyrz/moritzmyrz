@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Albert Einstein</p>
+> <p>- Johann Wolfgang von Goethe</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
