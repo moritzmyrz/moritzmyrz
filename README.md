@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
+> When in doubt, tell the truth.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Mark Twain</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
