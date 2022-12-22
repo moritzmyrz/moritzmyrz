@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> To fly as fast as thought, you must begin by knowing that you have already arrived.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
