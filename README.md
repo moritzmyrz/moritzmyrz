@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> Every gift from a friend is a wish for your happiness.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
