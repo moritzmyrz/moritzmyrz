@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
