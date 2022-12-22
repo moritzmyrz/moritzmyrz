@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> I will prepare and some day my chance will come.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
