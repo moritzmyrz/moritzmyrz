@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To fly as fast as thought, you must begin by knowing that you have already arrived.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Richard Bach</p>
+> <p>- Paavo Nurmi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
