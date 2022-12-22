@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.
+> I'm a great believer in luck and I find the harder I work, the more I have of it.
 >
-> <p>- Confucius</p>
+> <p>- Thomas Jefferson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
