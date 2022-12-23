@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- George S. Patton</p>
+> <p>- Hugh Miller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
