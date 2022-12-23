@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Antoine de Saint-Exupéry</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
