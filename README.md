@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
 >
-> <p>- Buddha</p>
+> <p>- Joseph Roux</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
