@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When in doubt, don't.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- William Blake</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
