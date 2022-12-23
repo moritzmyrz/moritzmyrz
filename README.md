@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Plutarch</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
