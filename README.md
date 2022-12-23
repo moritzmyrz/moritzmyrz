@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
 >
-> <p>- Margaret Fuller</p>
+> <p>- George S. Patton</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
