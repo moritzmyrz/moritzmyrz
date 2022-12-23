@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> Unless one is able to live fully in the present, the future is a hoax.
 >
-> <p>- Hugh Miller</p>
+> <p>- Alan Watts</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
