@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> When in doubt, don't.
 >
-> <p>- Milton Berle</p>
+> <p>- Benjamin Franklin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
