@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Margaret Thatcher</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
