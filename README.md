@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
