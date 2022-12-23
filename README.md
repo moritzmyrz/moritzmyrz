@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Olivier Messiaen</p>
+> <p>- Jack Buck</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
