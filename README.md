@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- William Blake</p>
+> <p>- Henry David Thoreau</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
