@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
+> If one does not know to which port one is sailing, no wind is favorable.
 >
-> <p>- Plutarch</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
