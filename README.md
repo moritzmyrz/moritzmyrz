@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jerome</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
