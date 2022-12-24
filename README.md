@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- Karl Menninger</p>
+> <p>- Simone de Beauvoir</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
