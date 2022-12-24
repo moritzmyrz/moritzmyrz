@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> You were not born a winner, and you were not born a loser. You are what you make yourself be.
 >
-> <p>- Dalai Lama</p>
+> <p>- Lou Holtz</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
