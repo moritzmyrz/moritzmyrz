@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Liberace</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
