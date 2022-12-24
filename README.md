@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Napoleon</p>
+> <p>- J. M. Barrie</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
