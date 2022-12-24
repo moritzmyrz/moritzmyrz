@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Dhammapada</p>
+> <p>- Karl Menninger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
