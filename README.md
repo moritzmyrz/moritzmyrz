@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Dalai Lama</p>
+> <p>- Isaac Asimov</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
