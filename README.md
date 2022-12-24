@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
