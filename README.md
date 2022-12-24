@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Napoleon</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
