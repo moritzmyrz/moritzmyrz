@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think somehow, we learn who we really are and then live with that decision.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Peter Drucker</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
