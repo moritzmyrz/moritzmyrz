@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> We do not quit playing because we grow old, we grow old because we quit playing.
 >
-> <p>- Confucius</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
