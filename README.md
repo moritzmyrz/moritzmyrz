@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You were not born a winner, and you were not born a loser. You are what you make yourself be.
+> When you learn, teach. When you get, give.
 >
-> <p>- Lou Holtz</p>
+> <p>- Maya Angelou</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
