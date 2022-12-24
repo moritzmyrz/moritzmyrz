@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
 >
-> <p>- Jerome</p>
+> <p>- Reinhold Niebuhr</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
