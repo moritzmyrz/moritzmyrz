@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Thomas Edison</p>
+> <p>- Lucille Ball</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
