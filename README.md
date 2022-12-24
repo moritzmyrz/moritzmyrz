@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
 >
-> <p>- Peter Drucker</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
