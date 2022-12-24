@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Edison</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
