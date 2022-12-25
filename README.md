@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Edith Wharton</p>
+> <p>- Henry J. Kaiser</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
