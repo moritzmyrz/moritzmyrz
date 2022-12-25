@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
+> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
 >
-> <p>- Parker Palmer</p>
+> <p>- Carl Jung</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
