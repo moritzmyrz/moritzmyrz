@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Wayne Dyer</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
