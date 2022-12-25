@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
