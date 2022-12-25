@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many sophisticated, intelligent people lack wisdom and common sense.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Joyce Meyer</p>
+> <p>- Henry James</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
