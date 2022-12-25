@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trouble is only opportunity in work clothes.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- Henry J. Kaiser</p>
+> <p>- Voltaire</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
