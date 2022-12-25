@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one success: to be able to spend your life in your own way.
+> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
 >
-> <p>- Christopher Morley</p>
+> <p>- Brian Tracy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
