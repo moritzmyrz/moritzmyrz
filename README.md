@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No snowflake in an avalanche ever feels responsible.
+> To profit from good advice requires more wisdom than to give it.
 >
-> <p>- Voltaire</p>
+> <p>- Wilson Mizner</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
