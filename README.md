@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> There is only one success: to be able to spend your life in your own way.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Christopher Morley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
