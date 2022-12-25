@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Carl Jung</p>
+> <p>- Voltaire</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
