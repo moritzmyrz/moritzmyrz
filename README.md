@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Winston Churchill</p>
+> <p>- Henry Miller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
