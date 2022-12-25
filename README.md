@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Woody Allen</p>
+> <p>- William Sloane Coffin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
