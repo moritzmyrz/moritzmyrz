@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Robert Schuller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
