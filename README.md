@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+> I never worry about action, but only inaction.
 >
-> <p>- Brian Tracy</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
