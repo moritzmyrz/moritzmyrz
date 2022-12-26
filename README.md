@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> Every man is a volume if you know how to read him.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- William Ellery Channing</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
