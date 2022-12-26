@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John C. Maxwell</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
