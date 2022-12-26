@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Formula for success: under promise and over deliver.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Tom Peters</p>
+> <p>- Walt Disney</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
