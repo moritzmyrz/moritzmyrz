@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take things as they are. Punch when you have to punch. Kick when you have to kick.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Bruce Lee</p>
+> <p>- Thomas Carlyle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
