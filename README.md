@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Anaïs Nin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
