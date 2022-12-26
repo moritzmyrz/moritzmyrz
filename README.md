@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> The biggest room in the world is room for improvement.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Helmut Schmidt</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
