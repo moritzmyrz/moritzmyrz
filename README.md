@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- Henri-Frédéric Amiel</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
