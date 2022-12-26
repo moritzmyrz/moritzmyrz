@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Olivier Messiaen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
