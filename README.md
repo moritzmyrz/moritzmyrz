@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- Marcel Proust</p>
+> <p>- Charlotte Brontë</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
