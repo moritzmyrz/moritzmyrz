@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Walt Disney</p>
+> <p>- Charles Henry Parkhurst</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
