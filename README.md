@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Yogi Berra</p>
+> <p>- Anne Bradstreet</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
