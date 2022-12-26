@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Hal Abelson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
