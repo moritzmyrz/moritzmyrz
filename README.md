@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- Olivier Messiaen</p>
+> <p>- Marcel Proust</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
