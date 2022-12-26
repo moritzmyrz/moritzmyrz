@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Brooks Adams</p>
+> <p>- Yogi Berra</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
