@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Thomas Jefferson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
