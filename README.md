@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
