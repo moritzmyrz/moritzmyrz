@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- John Ruskin</p>
+> <p>- Søren Kierkegaard</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
