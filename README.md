@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Mortimer J. Adler</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
