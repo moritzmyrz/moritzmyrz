@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> Life is just a chance to grow a soul.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- A. Powell Davies</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
