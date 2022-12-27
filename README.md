@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is just a chance to grow a soul.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Hannah More</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
