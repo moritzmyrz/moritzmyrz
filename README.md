@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- René Descartes</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
