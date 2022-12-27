@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Euripides</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
