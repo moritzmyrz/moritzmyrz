@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Correction does much, but encouragement does more.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- William Inge</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
