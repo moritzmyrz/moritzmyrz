@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Michelle Obama</p>
+> <p>- E. M. Forster</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
