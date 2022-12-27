@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is just a chance to grow a soul.
+> Having nothing, nothing can he lose.
 >
-> <p>- A. Powell Davies</p>
+> <p>- William Shakespeare</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
