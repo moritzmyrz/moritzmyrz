@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> Compassion and happiness are not a sign of weakness but a sign of strength.
 >
-> <p>- Confucius</p>
+> <p>- Dalai Lama</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
