@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Doris Day</p>
+> <p>- Samuel Johnson</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
