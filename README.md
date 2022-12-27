@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
+> The secret of success is constancy to purpose.
 >
-> <p>- George Eliot</p>
+> <p>- Benjamin Disraeli</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
