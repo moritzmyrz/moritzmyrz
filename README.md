@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Richard Bach</p>
+> <p>- Archimedes</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
