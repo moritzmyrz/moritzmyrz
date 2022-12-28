@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is essentially a partnership.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Aristotle</p>
+> <p>- Mariella Frostrup</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
