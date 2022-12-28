@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- John Quincy Adams</p>
+> <p>- Nikos Kazantzakis</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
