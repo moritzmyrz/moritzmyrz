@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be mindful of the kindness and not the faults of others.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Buddha</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
