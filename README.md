@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> Always be mindful of the kindness and not the faults of others.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
