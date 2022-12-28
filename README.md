@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Henry Ford</p>
+> <p>- Amy Bloom</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
