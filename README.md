@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> Work out your own salvation. Do not depend on others.
 >
-> <p>- Winston Churchill</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
