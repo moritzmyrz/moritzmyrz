@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- John Quincy Adams</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
