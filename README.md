@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Joe Paterno</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
