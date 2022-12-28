@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> Friendship is essentially a partnership.
 >
-> <p>- William Inge</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
