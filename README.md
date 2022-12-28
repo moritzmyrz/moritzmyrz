@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- Joe Paterno</p>
+> <p>- Anton Chekhov</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
