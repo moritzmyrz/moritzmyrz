@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work out your own salvation. Do not depend on others.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Buddha</p>
+> <p>- Henry Ford</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
