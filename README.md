@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When deeds and words are in accord, the whole world is transformed.
+> No garden is without its weeds.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Thomas Fuller</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
