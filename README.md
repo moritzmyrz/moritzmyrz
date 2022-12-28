@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Anton Chekhov</p>
+> <p>- H. Jackson Brown Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
