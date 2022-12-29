@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Jonathan Swift</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
