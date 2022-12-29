@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
+> Most powerful is he who has himself in his own power.
 >
-> <p>- Akhenaten</p>
+> <p>- Seneca the Younger</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
