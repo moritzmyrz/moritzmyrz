@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Jonathan Swift</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
