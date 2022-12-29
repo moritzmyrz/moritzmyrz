@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Aristotle</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
