@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to a man. It is what a man does with what happens to him.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Teresa of Ávila</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
