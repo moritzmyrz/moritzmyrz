@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth is powerful and it prevails.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- Sojourner Truth</p>
+> <p>- Mahatma Gandhi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
