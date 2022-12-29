@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
