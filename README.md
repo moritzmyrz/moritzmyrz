@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How is it possible to find meaning in a finite world, given my waist and shirt size?
+> It always seems impossible until it's done.
 >
-> <p>- Woody Allen</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
