@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- H. Jackson Brown Jr.</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
