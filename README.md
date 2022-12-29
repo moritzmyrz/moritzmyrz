@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+> Experience is not what happens to a man. It is what a man does with what happens to him.
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- Aldous Huxley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
