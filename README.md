@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> Truth is powerful and it prevails.
 >
-> <p>- Carl Jung</p>
+> <p>- Sojourner Truth</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
