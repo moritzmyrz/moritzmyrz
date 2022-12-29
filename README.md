@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Buddha</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
