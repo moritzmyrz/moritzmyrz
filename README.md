@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can always count on Americans to do the right thing - after they've tried everything else.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Winston Churchill</p>
+> <p>- Woody Allen</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
