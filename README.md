@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> Knowing your own darkness is the best method for dealing with the darkness of other people.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Carl Jung</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
