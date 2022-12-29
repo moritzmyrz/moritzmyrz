@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So is cheerfulness, or a good temper, the more it is spent, the more remains.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jean Antoine Petit-Senn</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
