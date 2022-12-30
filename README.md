@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.
 >
-> <p>- Mia Hamm</p>
+> <p>- Shaquille O'Neal</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
