@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Anaïs Nin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
