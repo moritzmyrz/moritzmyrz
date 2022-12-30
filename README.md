@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> I hear and I forget. I see and I remember. I do and I understand.
 >
-> <p>- Forrest Church</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
