@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a thing is done, it's done. Don't look back. Look forward to your next objective.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- George Marshall</p>
+> <p>- Abraham Lincoln</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
