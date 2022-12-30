@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Augustine of Hippo</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
