@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Tony Robbins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
