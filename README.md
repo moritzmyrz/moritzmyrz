@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- George Santayana</p>
+> <p>- Nelson Mandela</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
