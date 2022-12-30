@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Bach</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
