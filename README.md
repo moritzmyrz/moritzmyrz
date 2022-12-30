@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- Albert Einstein</p>
+> <p>- Doris Day</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
