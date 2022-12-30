@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> Love, friendship and respect do not unite people as much as a common hatred for something.
 >
-> <p>- Doris Day</p>
+> <p>- Anton Chekhov</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
