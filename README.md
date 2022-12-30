@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- David Eddings</p>
+> <p>- William Blake</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
