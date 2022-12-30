@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Winston Churchill</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
