@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- William Blake</p>
+> <p>- Albert Einstein</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
