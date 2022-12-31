@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 >
-> <p>- John Ruskin</p>
+> <p>- Henry Ward Beecher</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
