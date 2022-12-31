@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> Experience is not what happens to a man. It is what a man does with what happens to him.
 >
-> <p>- Lucille Ball</p>
+> <p>- Aldous Huxley</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
