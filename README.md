@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Ian Botham</p>
+> <p>- E. M. Forster</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
