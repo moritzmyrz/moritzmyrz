@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Buddha</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
