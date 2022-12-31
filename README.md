@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- B. F. Skinner</p>
+> <p>- Robert F. Kennedy</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
