@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Chaos is inherent in all compounded things. Strive on with diligence.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Buddha</p>
+> <p>- John Ruskin</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
