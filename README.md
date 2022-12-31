@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
