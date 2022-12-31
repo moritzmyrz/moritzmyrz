@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Epictetus</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
