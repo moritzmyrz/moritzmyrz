@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Laozi</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
