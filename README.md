@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Confucius</p>
+> <p>- Nargis Fakhri</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
