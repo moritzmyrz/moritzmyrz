@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Plato</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
