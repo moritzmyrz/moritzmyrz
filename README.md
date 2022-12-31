@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.
+> In life, all good things come hard, but wisdom is the hardest to come by.
 >
-> <p>- Buddha</p>
+> <p>- Lucille Ball</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
