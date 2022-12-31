@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A hero is no braver than an ordinary man, but he is braver five minutes longer.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alexander Chalmers</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
