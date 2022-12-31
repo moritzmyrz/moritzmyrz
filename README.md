@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> The real problem is not whether machines think but whether men do.
 >
-> <p>- E. M. Forster</p>
+> <p>- B. F. Skinner</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
