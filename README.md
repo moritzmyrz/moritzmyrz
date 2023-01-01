@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Wayne Dyer</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
