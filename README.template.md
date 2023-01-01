@@ -12,7 +12,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,graphql,py,html,css,sass,js,ts,nodejs,java,git,react,remix,svelte,vue,electron,express,nextjs,prisma,tailwind,nginx,wordpress,heroku&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,heroku,docker,html,css,sass,js,ts,java,py,electron,fastapi,express,flask,wordpress,git,github,graphql,prisma,mongodb,mysql,postgres,nodejs,vue,react,nextjs,tailwind,materialui&theme=light)
 
 ### Certifications
 
