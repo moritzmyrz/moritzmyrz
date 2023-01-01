@@ -2,30 +2,30 @@
 
 # Hi 👋 My name is Moritz Myrseth
 
-## Full-stack Web Developer
+## Web Developer
 
 - 🌍 I'm based in Norway
-- 🖥️ See my portfolio at [myrseth.co](http://www.myrseth.co)
+- 🖥️ See my portfolio at [myrseth.co](https://www.myrseth.co)
+- 🤓 Read my blog at [blog.myrseth.co](https://blog.myrseth.co)
 - ✉️ You can contact me at [moritz@myrseth.co](mailto:moritz@myrseth.co)
-- 🚀 I'm currently working on [Homein AS](http://www.homein.no)
+- 🚀 I'm currently working on [Myrseth Technologies](https://www.myrseth.tech)
 
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,graphql,py,html,css,sass,js,ts,nodejs,java,git,react,remix,svelte,vue,electron,express,nextjs,prisma,tailwind,nginx,wordpress,heroku&theme=light)](https://skillicons.dev)
 
-### GitHub Stats
+### Certifications
 
-<a href="http://www.github.com/moritzmyrz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moritzmyrz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/moritzmyrz"><img src="https://activity-graph.herokuapp.com/graph?username=moritzmyrz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/moritzmyrz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moritzmyrz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div>
+  <a href="https://www.credly.com/badges/c2043a36-5612-44f3-800a-9c659014feed"><img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" height='128px' width='128px' alt='Microsoft Certified: DevOps Engineer Expert' /></a>
+  <a href="https://www.credly.com/badges/a5476d41-ec8c-44d8-aa01-b00e241a2fc5"><img src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height='128px' width='128px' alt='Microsoft Certified: Azure Developer Associate' /></a>
+</div>
 
 ## 📣 How about a quote before you go?
 
 > {quote}
 >
 > <p>{author}</p>
-Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
+> Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
