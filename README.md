@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
