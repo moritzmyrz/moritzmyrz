@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the middle of every difficulty lies opportunity.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Albert Einstein</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
