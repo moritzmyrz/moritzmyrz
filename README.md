@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Confucius</p>
+> <p>- Norman Cousins</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
