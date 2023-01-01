@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Norman Cousins</p>
+> <p>- Pablo Picasso</p>
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
