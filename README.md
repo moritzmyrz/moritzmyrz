@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
 >
-> <p>- Anatole France</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
