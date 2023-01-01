@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> The language of friendship is not words but meanings.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
