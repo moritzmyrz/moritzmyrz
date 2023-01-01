@@ -12,7 +12,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,graphql,py,html,css,sass,js,ts,nodejs,java,git,react,remix,svelte,vue,electron,express,nextjs,prisma,tailwind,nginx,wordpress,heroku&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,heroku,docker,html,css,sass,js,ts,java,py,electron,fastapi,express,flask,wordpress,git,github,graphql,prisma,mongodb,mysql,postgres,nodejs,vue,react,nextjs,tailwind,materialui&theme=light)
 
 ### Certifications
 
@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
