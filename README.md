@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
