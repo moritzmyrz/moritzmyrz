@@ -26,6 +26,7 @@
 > {quote}
 >
 > <p>{author}</p>
-> Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
+
+Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
 Check back at the top of the hour for a new quote!
