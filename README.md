@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
