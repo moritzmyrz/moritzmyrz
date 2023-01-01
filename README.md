@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- John Wooden</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
