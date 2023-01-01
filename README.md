@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> You can't win unless you learn how to lose.
 >
-> <p>- Ralph Marston</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
