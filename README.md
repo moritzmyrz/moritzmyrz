@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
