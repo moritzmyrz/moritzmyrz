@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- William C. Menninger</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
