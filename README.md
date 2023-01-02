@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
 >
-> <p>- Laozi</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
