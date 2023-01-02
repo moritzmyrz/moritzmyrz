@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
