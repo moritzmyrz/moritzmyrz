@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
