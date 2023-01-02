@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- Tony Robbins</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
