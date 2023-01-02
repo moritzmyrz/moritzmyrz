@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
 >
-> <p>- Helen Keller</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
