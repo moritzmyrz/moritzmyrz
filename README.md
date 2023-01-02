@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Lewis Cass</p>
+> <p>- Pope Paul VI</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
