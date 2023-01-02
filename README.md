@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always seek out the seed of triumph in every adversity.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- Og Mandino</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
