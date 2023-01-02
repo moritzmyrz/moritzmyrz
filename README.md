@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not afraid of storms, for I'm learning how to sail my ship.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Louisa May Alcott</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
