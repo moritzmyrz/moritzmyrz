@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
