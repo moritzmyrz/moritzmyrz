@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.
+> What do we live for, if it is not to make life less difficult for each other?
 >
-> <p>- Thomas Jefferson</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
