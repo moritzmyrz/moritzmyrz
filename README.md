@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> He is able who thinks he is able.
 >
-> <p>- Herman Melville</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
