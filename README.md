@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
