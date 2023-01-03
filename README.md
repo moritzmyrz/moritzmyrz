@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Brian O'Driscoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
