@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
