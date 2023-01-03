@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Sai Baba</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
