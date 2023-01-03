@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
-> <p>- George Eliot</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
