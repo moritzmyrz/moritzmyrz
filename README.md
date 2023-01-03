@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
