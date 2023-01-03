@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> What we see depends mainly on what we look for.
 >
-> <p>- Mark Twain</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
