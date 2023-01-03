@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> Don't settle for a relationship that won't let you be yourself.
 >
-> <p>- Thomas Edison</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
