@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most formidable weapon against errors of every kind is reason.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Thomas Paine</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
