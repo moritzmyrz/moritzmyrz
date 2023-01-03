@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
