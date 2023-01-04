@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Not engaging in ignorance is wisdom.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Bodhidharma</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
