@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who are free of resentful thoughts surely find peace.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Buddha</p>
+> <p>- Salman Rushdie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
