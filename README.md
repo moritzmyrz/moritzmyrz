@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
 >
-> <p>- Woody Allen</p>
+> <p>- Alan Cohen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
