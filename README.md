@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> Attitude is a little thing that makes a big difference.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
