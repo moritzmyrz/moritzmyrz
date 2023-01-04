@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's the little details that are vital. Little things make big things happen.
+> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
 >
-> <p>- John Wooden</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
