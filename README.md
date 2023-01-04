@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Epictetus</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
