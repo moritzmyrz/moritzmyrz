@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- John Adams</p>
+> <p>- Sri Chinmoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
