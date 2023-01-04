@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Attitude is a little thing that makes a big difference.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Winston Churchill</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
