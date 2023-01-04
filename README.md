@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
