@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- John Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
