@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Nelson Mandela</p>
+> <p>- May Sarton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
