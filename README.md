@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
