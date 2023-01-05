@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- Pat Riley</p>
+> <p>- Franz Grillparzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
