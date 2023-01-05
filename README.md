@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> A good plan violently executed now is better than a perfect plan executed next week.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
