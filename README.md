@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Bruce Lee</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
