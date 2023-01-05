@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Earl Monroe</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
