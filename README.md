@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is someone who gives you total freedom to be yourself.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Jim Morrison</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
