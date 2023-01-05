@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
