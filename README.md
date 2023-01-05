@@ -5,9 +5,9 @@
 ## Web Developer
 
 - 🌍 I'm based in Norway
-- 🖥️ See my portfolio at [myrseth.co](https://www.myrseth.co)
-- 🤓 Read my blog at [blog.myrseth.co](https://blog.myrseth.co)
-- ✉️ You can contact me at [moritz@myrseth.co](mailto:moritz@myrseth.co)
+- 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
+- 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
+- ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
 - 🚀 I'm currently working on [Myrseth Technologies](https://www.myrseth.tech)
 
 ### Skills
@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
