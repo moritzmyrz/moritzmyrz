@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- George S. Patton</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
