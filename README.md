@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Elon Musk</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
