@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Mother Teresa</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
