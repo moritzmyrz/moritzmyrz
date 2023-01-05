@@ -5,9 +5,9 @@
 ## Web Developer
 
 - 🌍 I'm based in Norway
-- 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.co)
-- 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.co)
-- ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.co)
+- 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
+- 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
+- ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
 - 🚀 I'm currently working on [Myrseth Technologies](https://www.myrseth.tech)
 
 ### Skills
