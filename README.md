@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
 >
-> <p>- Mike Ditka</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
