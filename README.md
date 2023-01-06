@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
+> Your work is to discover your world and then with all your heart give yourself to it.
 >
-> <p>- William Shakespeare</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
