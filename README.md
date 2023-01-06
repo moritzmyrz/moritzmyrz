@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> The best preparation for tomorrow is doing your best today.
 >
-> <p>- Dale Carnegie</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
