@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Allow the world to live as it chooses, and allow yourself to live as you choose.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Richard Bach</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
