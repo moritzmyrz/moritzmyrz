@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Technology has to be invented or adopted.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
