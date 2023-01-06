@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your work is to discover your world and then with all your heart give yourself to it.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Buddha</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
