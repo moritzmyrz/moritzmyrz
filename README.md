@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most I can do for my friend is simply be his friend.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
