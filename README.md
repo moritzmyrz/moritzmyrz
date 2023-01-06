@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Eustace Budgell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
