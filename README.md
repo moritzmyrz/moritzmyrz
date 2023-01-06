@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before we acquire great power, we must acquire wisdom to use it well.
+> The most I can do for my friend is simply be his friend.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
