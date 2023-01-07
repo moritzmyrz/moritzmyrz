@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Confucius</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
