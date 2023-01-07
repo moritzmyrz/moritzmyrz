@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
+> In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.
 >
-> <p>- Tony Robbins</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
