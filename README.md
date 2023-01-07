@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
 >
-> <p>- Epictetus</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
