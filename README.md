@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge without justice ought to be called cunning rather than wisdom.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- Plato</p>
+> <p>- Volker Grassmuck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
