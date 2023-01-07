@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Knowledge without justice ought to be called cunning rather than wisdom.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
