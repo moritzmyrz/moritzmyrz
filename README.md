@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
 >
-> <p>- Sam Levenson</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
