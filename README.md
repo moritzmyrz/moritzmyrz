@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Action is eloquence.
 >
-> <p>- John F. Kennedy</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
