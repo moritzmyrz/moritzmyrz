@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
