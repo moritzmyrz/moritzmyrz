@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> Once we accept our limits, we go beyond them.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
