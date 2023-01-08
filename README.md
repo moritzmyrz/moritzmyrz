@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is the golden chain by which society is bound together.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
