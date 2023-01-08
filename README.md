@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The young man knows the rules, but the old man knows the exceptions.
+> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
