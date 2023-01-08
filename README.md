@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
+> I am always ready to learn although I do not always like being taught.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
