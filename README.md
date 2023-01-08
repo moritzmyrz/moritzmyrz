@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
