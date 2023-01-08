@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
