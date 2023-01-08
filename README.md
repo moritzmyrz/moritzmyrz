@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
