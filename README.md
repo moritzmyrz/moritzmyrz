@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never do things others can do and will do, if there are things others cannot do or will not do.
+> Nothing happens unless first we dream.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Carl Sandburg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
