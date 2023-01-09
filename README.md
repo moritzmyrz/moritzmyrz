@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Martha Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
