@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
+> Never do things others can do and will do, if there are things others cannot do or will not do.
 >
-> <p>- Basil of Caesarea</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
