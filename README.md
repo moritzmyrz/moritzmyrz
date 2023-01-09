@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a thing is done, it's done. Don't look back. Look forward to your next objective.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- George Marshall</p>
+> <p>- Erasmus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
