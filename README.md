@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> The beginning is always today.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Mary Wollstonecraft</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
