@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> Life is about timing.
 >
-> <p>- Henry Moore</p>
+> <p>- Carl Lewis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
