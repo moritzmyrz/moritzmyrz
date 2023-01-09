@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning is always today.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
