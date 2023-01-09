@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is about timing.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Carl Lewis</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
