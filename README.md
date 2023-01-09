@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
