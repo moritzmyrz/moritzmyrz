@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Erasmus</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
