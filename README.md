@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
