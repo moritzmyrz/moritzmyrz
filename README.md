@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> There is nothing impossible to him who will try.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
