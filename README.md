@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> Everything you can imagine is real.
 >
-> <p>- Martha Washington</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
