@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many men go fishing all of their lives without knowing that it is not fish they are after.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
