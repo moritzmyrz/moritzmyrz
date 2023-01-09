@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- John F. Kennedy</p>
+> <p>- John Lasseter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
