@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Euripides</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
