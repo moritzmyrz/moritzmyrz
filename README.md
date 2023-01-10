@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> No man was ever wise by chance.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
