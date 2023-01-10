@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
