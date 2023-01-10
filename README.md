@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies.
+> The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares.
 >
-> <p>- Confucius</p>
+> <p>- Henri Nouwen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
