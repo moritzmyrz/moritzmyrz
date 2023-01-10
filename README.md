@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
