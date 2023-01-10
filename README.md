@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fortune befriends the bold.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- John Dryden</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
