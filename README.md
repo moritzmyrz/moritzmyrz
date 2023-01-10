@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
+> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
 >
-> <p>- Dag Hammarskjöld</p>
+> <p>- Abigail Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
