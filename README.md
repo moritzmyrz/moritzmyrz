@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
 >
-> <p>- John Lasseter</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
