@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
 >
-> <p>- Libby Larsen</p>
+> <p>- Hannah Szenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
