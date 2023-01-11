@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Tony Robbins</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
