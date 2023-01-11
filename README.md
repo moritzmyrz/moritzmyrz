@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Thomas Edison</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
