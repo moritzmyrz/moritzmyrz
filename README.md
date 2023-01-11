@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love has no age, no limit; and no death.
+> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
 >
-> <p>- John Galsworthy</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
