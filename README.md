@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> There is nothing permanent except change.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
