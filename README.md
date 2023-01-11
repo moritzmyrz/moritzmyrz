@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
+> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
 >
-> <p>- A. A. Milne</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
