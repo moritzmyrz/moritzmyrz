@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> You were not born a winner, and you were not born a loser. You are what you make yourself be.
 >
-> <p>- Lucille Ball</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
