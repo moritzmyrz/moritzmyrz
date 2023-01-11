@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> The language of friendship is not words but meanings.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
