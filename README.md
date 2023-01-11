@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Richard Garriott</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
