@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
