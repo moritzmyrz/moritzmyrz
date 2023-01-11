@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ezra Stiles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
