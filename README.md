@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
 >
-> <p>- Woody Allen</p>
+> <p>- Dan Gable</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
