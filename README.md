@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Francis Bacon</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
