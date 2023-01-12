@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Harold Nicolson</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
