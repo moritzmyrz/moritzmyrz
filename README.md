@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- John Wooden</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
