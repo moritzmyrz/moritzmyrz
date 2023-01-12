@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Norman Douglas</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
