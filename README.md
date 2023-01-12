@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> The best way out is always through.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
