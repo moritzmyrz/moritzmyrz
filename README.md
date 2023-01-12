@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dan Gable</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
