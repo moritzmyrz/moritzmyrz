@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Diogenes</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
