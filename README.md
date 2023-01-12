@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way out is always through.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- Robert Frost</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
