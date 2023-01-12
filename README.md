@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Diogenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
