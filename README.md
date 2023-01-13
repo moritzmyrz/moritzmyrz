@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
 >
-> <p>- Chanakya</p>
+> <p>- Swami Vivekananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
