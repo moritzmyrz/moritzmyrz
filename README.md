@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
