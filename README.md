@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> There is nothing impossible to him who will try.
 >
-> <p>- George Eliot</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
