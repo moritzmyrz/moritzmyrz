@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only when the mind and character slumber that the dress can be seen.
+> No one can make you feel inferior without your consent.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
