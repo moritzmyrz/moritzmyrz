@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> Champions keep playing until they get it right.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
