@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
+> You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
 >
-> <p>- William C. Menninger</p>
+> <p>- Woodrow Wilson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
