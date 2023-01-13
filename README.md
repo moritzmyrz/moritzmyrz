@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
