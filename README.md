@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
