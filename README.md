@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
