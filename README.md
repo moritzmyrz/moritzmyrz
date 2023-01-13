@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
