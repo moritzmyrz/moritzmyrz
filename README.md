@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
