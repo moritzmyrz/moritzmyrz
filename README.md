@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
