@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
+> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
 >
-> <p>- Epictetus</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
