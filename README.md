@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two ways of spreading light: to be the candle or the mirror that reflects it.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Edith Wharton</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
