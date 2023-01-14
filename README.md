@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Being entirely honest with oneself is a good exercise.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
