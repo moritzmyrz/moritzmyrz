@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time changes everything except something within us which is always surprised by change.
+> We have two ears and one mouth so that we can listen twice as much as we speak.
 >
-> <p>- Thomas Hardy</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
