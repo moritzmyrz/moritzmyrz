@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
 > <p>- Henry David Thoreau</p>
 
