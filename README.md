@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way out is always through.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>- Robert Frost</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
