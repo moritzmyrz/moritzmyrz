@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Carl Jung</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
