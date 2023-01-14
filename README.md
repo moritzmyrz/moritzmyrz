@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- Sophocles</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
