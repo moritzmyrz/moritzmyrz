@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> I'll prepare and someday my chance will come.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
