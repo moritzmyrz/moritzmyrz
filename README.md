@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- John Lennon</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
