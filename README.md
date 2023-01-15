@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> All know the way; few actually walk it.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bodhidharma</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
