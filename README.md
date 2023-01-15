@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- Epictetus</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
