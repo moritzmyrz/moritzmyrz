@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Jim Bouton</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
