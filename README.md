@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> I don't believe in failure. It's not failure if you enjoyed the process.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
