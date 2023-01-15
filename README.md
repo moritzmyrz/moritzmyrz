@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
