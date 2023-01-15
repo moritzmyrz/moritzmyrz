@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Ken Venturi</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
