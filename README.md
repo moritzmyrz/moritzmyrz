@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
