@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> I believe in one thing only, the power of human will.
 >
-> <p>- William Shakespeare</p>
+> <p>- Joseph Stalin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
