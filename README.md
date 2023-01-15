@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Winston Churchill</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
