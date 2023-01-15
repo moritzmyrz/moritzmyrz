@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Aldous Huxley</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
