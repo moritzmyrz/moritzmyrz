@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Jim Bouton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
