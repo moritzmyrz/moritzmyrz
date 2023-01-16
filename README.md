@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> We gain the strength of the temptation we resist.
 >
-> <p>- Aristotle</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
