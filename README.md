@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
