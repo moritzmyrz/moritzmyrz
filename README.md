@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When in doubt, don't.
+> Every man is a volume if you know how to read him.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
