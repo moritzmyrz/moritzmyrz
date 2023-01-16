@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A ruffled mind makes a restless pillow.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
