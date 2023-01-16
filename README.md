@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> When in doubt, don't.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
