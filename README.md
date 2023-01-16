@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- William Saroyan</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
