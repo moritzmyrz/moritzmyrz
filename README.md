@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
