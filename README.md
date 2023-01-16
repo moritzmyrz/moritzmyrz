@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time changes everything except something within us which is always surprised by change.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Thomas Hardy</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
