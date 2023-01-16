@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> I can, therefore I am.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
