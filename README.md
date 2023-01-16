@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> A ruffled mind makes a restless pillow.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Charlotte Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
