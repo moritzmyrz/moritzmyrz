@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> If the stars should appear but one night every thousand years how man would marvel and adore.
 >
 > <p>- Ralph Waldo Emerson</p>
 
