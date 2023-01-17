@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's the little details that are vital. Little things make big things happen.
+> Patience is the companion of wisdom.
 >
-> <p>- John Wooden</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
