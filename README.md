@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience is the companion of wisdom.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
