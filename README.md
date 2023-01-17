@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all something, but none of us are everything.
+> Unless one is able to live fully in the present, the future is a hoax.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
