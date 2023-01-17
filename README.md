@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
