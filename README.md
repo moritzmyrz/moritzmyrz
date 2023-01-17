@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
