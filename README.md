@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
