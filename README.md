@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
