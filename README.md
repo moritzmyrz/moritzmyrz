@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- William C. Menninger</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
