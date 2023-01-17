@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> We must not say every mistake is a foolish one.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
