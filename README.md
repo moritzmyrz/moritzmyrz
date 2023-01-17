@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
 >
-> <p>- Zig Ziglar</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
