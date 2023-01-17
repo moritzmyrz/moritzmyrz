@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
