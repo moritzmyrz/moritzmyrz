@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> I am always ready to learn although I do not always like being taught.
 >
-> <p>- Francis Bacon</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
