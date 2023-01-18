@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> Don't wait. The time will never be just right.
 >
-> <p>- Northrop Frye</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
