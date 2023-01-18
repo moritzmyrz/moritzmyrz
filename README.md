@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- Charles Lindbergh</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
