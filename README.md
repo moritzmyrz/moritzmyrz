@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Benjamin Haydon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
