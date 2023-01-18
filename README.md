@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am always ready to learn although I do not always like being taught.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Winston Churchill</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
