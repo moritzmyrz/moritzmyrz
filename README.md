@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Jared Diamond</p>
+> <p>- Maureen Dowd</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
