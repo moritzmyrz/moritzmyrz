@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't compromise yourself. You are all you've got.
+> Myths which are believed in tend to become true.
 >
-> <p>- Janis Joplin</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
