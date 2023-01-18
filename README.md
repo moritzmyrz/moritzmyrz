@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want your life to be more rewarding, you have to change the way you think.
+> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
