@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> Do something wonderful, people may imitate it.
 >
-> <p>- George Orwell</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
