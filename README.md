@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
