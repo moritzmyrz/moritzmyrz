@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's easy to make a buck. It's a lot tougher to make a difference.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- Tom Brokaw</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
