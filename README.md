@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Walt Disney</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
