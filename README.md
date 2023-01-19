@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Spread love everywhere you go. Let no one ever come to you without leaving happier.
+> Anything you really want, you can attain, if you really go after it.
 >
-> <p>- Mother Teresa</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
