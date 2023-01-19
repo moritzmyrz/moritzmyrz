@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
