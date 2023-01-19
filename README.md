@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To improve is to change; to be perfect is to change often.
+> Each day provides its own gifts.
 >
-> <p>- Winston Churchill</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
