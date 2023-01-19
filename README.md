@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- Richard Bach</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
