@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 >
-> <p>- William Shakespeare</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
