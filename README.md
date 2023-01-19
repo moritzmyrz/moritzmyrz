@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never mistake activity for achievement.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- John Wooden</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
