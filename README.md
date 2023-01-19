@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> Nothing will work unless you do.
 >
-> <p>- Jim Elliot</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
