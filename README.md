@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> To improve is to change; to be perfect is to change often.
 >
-> <p>- Epictetus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
