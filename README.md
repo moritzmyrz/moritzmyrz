@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
