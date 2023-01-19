@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Maya Angelou</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
