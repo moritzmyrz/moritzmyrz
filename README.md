@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Dr. Seuss</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
