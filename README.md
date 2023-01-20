@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
 >
-> <p>- Aldous Huxley</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
