@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> A ruffled mind makes a restless pillow.
 >
-> <p>- Anne Lamott</p>
+> <p>- Charlotte Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
