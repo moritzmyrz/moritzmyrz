@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
