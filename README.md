@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A ruffled mind makes a restless pillow.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
