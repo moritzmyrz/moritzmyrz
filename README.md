@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> I walk slowly, but I never walk backward.
 >
-> <p>- John Lennon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
