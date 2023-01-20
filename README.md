@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
