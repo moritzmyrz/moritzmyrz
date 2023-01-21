@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The human spirit must prevail over technology.
+> No day in which you learn something is a complete loss.
 >
-> <p>- Albert Einstein</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
