@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
