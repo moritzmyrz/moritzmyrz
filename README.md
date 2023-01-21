@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Alan Watts</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
