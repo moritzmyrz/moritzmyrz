@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Unless one is able to live fully in the present, the future is a hoax.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Alan Watts</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
