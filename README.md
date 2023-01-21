@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- David Eddings</p>
+> <p>- Harry Kemp</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
