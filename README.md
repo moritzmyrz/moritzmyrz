@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
