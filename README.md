@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
