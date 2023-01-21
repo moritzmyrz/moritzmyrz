@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- Confucius</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
