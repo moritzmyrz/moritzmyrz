@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Richard Bach</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
