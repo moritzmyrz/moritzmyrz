@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> Applause is a receipt, not a bill.
 >
-> <p>- Henri Bergson</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
