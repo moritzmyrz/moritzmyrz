@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Walt Disney</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
