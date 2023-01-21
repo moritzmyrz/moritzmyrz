@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Harry Kemp</p>
+> <p>- Ed Cunningham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
