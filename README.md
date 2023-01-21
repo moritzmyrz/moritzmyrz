@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
+> Think like a man of action; act like a man of thought.
 >
-> <p>- George Herbert</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
