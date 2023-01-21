@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Laozi</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
