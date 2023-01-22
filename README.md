@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
 >
-> <p>- Henry Reed</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
