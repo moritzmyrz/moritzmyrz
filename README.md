@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
