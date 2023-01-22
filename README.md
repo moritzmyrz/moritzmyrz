@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men make more opportunities than they find.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 >
-> <p>- Francis Bacon</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
