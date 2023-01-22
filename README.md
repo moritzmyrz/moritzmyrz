@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- James Oppenheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
