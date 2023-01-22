@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> Love is flower like; Friendship is like a sheltering tree.
 >
-> <p>- Winston Churchill</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
