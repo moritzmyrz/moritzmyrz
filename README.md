@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I prefer the folly of enthusiasm to the indifference of wisdom.
+> Wisdom comes alone through suffering.
 >
-> <p>- Anatole France</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
