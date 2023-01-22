@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> I will prepare and some day my chance will come.
 >
-> <p>- Lou Holtz</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
