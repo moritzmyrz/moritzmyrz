@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
