@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
