@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
