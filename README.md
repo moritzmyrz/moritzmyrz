@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Demosthenes</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
