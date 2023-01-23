@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> What we see depends mainly on what we look for.
 >
-> <p>- Abraham Maslow</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
