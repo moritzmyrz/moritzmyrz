@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> I am an optimist. It does not seem too much use being anything else.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
