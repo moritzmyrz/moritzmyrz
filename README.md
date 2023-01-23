@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First-rate people hire first-rate people; second-rate people hire third-rate people.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 >
-> <p>- Leo Rosten</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
