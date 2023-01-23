@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
