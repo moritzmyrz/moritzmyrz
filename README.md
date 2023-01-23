@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is the sleep that nourishes wisdom.
+> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
 >
-> <p>- Francis Bacon</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
