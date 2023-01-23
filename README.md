@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The World is my country, all mankind are my brethren, and to do good is my religion.
+> First-rate people hire first-rate people; second-rate people hire third-rate people.
 >
-> <p>- Thomas Paine</p>
+> <p>- Leo Rosten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
