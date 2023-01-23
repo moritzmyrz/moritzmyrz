@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- Richard Bach</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
