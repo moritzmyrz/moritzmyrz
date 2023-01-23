@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> You teach best what you most need to learn.
 >
-> <p>- John Lubbock</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
