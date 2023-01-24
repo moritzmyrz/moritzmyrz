@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> It is impossible to love and to be wise.
 >
-> <p>- William Blake</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
