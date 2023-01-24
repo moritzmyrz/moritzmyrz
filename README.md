@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> The path to success is to take massive, determined action.
 >
-> <p>- Francis Bacon</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
