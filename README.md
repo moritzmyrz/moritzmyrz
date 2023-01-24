@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
