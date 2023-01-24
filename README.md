@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- William Burroughs</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
