@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the attempt to form a friendship inspired by beauty.
+> Almost everything comes from nothing.
 >
-> <p>- Cicero</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
