@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Anne Lindbergh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
