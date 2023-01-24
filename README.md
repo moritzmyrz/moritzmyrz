@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never complain and never explain.
+> Wisdom is found only in truth.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
