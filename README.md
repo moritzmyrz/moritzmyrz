@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- B. F. Skinner</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
