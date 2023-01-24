@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
+> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
