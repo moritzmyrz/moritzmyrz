@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Joseph Prince</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
