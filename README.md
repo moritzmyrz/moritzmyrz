@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
 >
-> <p>- John Burroughs</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
