@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Confucius</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
