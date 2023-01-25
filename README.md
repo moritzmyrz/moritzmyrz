@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Caroline Myss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
