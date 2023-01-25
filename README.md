@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- Alan Watts</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
