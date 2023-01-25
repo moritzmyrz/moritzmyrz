@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> Never mistake motion for action.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
