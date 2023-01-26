@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One man practicing sportsmanship is far better than a hundred teaching it.
+> Mountains cannot be surmounted except by winding paths.
 >
-> <p>- Knute Rockne</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
