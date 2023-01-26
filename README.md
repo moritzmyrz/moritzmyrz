@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Winston Churchill</p>
+> <p>- Martha Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
