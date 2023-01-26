@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
 >
-> <p>- Plato</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
