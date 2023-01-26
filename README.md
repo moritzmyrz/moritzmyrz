@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> The function of wisdom is to discriminate between good and evil.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
