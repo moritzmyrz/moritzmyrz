@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> All difficult things have their origin in that which is easy, and great things in that which is small.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
