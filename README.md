@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Joan Didion</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
