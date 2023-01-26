@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Confucius</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
