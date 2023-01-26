@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> If we open a quarrel between past and present, we shall find that we have lost the future.
 >
-> <p>- Richard Bach</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
