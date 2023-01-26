@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- Cicero</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
