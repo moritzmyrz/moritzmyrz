@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A ruffled mind makes a restless pillow.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
