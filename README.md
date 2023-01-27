@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
