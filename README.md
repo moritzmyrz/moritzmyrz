@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> No matter how hard the past, you can always begin again.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
