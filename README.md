@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.
 >
-> <p>- Lucille Ball</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
