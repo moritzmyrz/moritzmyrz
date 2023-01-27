@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
