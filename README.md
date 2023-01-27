@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> Study the past, if you would divine the future.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
