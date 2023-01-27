@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
+> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
 >
-> <p>- Morihei Ueshiba</p>
+> <p>- Orson Welles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
