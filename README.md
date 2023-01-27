@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.
+> The man of knowledge must be able not only to love his enemies but also to hate his friends.
 >
-> <p>- Laozi</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
