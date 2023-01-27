@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
