@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never accept ultimatums, conventional wisdom, or absolutes.
+> Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
