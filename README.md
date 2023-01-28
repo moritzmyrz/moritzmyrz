@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.
+> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
 >
-> <p>- Richard Bach</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
