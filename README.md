@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
