@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think somehow, we learn who we really are and then live with that decision.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
