@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
