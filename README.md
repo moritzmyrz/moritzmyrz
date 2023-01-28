@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Maya Angelou</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
