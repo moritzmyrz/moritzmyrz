@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
