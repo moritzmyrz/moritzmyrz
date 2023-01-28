@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Euripides</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
