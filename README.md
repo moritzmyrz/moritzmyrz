@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> Happiness is found in doing, not merely possessing.
 >
-> <p>- Woody Allen</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
