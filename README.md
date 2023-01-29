@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
