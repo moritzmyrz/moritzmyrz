@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
