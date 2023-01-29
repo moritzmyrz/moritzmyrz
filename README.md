@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Confucius</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
