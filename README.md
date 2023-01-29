@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Ben Hogan</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
