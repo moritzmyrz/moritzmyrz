@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Mark Twain</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
