@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> Faith in oneself is the best and safest course.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
