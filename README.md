@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
