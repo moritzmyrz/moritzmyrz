@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
