@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be wronged is nothing unless you continue to remember it.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Confucius</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
