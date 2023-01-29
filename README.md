@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> It is more shameful to distrust our friends than to be deceived by them.
 >
-> <p>- Anne Frank</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
