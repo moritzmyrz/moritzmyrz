@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Napoleon</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
