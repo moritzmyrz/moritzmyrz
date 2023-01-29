@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
