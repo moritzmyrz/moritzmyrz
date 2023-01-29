@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> Be the change that you want to see in the world.
 >
-> <p>- Joe Paterno</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
