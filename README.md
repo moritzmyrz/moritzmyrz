@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> TV and the Internet are good because they keep stupid people from spending too much time out in public.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Douglas Coupland</p>
+> <p>- John Steinbeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
