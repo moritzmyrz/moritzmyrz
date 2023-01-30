@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> No man was ever wise by chance.
 >
-> <p>- Peter Drucker</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
