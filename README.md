@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
