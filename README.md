@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> The simplest things are often the truest.
 >
-> <p>- Euripides</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
