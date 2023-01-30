@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
