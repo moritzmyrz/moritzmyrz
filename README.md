@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Epictetus</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
