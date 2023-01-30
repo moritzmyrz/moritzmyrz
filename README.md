@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art of progress is to preserve order amid change, and to preserve change amid order.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Alfred North Whitehead</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
