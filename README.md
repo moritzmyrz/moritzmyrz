@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
