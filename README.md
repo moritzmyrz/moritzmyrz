@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
