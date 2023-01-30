@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- Dalai Lama</p>
+> <p>- Margaret Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
