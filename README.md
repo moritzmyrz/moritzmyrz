@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> I am always ready to learn although I do not always like being taught.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
