@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Richard Bach</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
