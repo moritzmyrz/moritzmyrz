@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't watch the clock; do what it does. Keep going.
+> It is never too late to be what you might have been.
 >
-> <p>- Sam Levenson</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
