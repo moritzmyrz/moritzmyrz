@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> Don't watch the clock; do what it does. Keep going.
 >
-> <p>- Virgil</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
