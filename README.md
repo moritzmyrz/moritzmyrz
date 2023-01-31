@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace comes from within. Do not seek it without.
+> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
 >
-> <p>- Buddha</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
