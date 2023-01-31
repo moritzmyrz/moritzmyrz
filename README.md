@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
