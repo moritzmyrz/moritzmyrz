@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that exists is in a manner the seed of that which will be.
+> History is written by the victors.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
