@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man has a good enough memory to be a successful liar.
+> All things change; nothing perishes.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
