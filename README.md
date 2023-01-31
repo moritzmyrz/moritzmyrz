@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> Peace comes from within. Do not seek it without.
 >
-> <p>- Josh Billings</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
