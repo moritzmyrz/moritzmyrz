@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To improve is to change; to be perfect is to change often.
+> No man has a good enough memory to be a successful liar.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
