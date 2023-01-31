@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom consists of the anticipation of consequences.
+> To improve is to change; to be perfect is to change often.
 >
-> <p>- Norman Cousins</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
