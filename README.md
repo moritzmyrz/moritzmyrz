@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Fawn M. Brodie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
