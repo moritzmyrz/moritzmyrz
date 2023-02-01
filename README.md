@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Winston Churchill</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
