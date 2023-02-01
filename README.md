@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
