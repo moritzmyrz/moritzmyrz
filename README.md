@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Elizabeth Arden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
