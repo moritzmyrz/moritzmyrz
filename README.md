@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
