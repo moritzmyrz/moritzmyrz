@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing impossible to him who will try.
+> Imagination is not a talent of some men but is the health of every man.
 >
-> <p>- Alexander the Great</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
