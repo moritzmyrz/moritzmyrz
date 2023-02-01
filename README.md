@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many sophisticated, intelligent people lack wisdom and common sense.
+> A single rose can be my garden... a single friend, my world.
 >
-> <p>- Joyce Meyer</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
