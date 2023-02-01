@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend to all is a friend to none.
+> There is nothing impossible to him who will try.
 >
-> <p>- Aristotle</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
