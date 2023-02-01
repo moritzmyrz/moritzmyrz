@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
