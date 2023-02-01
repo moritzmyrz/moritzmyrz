@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> Things do not change; we change.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
