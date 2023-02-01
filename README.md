@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Carlos Castaneda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
