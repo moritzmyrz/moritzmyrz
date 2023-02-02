@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> I don't believe in failure. It's not failure if you enjoyed the process.
 >
-> <p>- Walt Disney</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
