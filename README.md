@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> Love and friendship exclude each other.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
