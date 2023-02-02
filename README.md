@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
