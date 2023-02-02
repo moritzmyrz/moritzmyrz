@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Doug Horton</p>
+> <p>- Lily Tomlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
