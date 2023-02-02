@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Begin, be bold, and venture to be wise.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- Horace</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
