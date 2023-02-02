@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Lewis Cass</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
