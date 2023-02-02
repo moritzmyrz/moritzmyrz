@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
