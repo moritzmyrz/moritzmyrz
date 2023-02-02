@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- William Shakespeare</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
