@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
