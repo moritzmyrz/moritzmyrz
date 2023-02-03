@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
