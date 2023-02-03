@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+> You can stand tall without standing on someone. You can be a victor without having victims.
 >
-> <p>- Carl Jung</p>
+> <p>- Harriet Woods</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
