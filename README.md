@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Dalai Lama</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
