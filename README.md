@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Margaret Fuller</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
