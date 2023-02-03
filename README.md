@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
 >
-> <p>- Satchel Paige</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
