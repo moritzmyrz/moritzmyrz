@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Alfred Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
