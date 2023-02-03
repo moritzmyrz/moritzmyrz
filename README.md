@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> Adversity causes some men to break, others to break records.
 >
-> <p>- Barack Obama</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
