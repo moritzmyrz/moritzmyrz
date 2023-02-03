@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> I believe in one thing only, the power of human will.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Joseph Stalin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
