@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Richard Bach</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
