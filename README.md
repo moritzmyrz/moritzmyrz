@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewer words.
+> Every gift from a friend is a wish for your happiness.
 >
-> <p>- Sophocles</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
