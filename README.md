@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust only movement. Life happens at the level of events, not of words. Trust movement.
+> Much wisdom often goes with fewer words.
 >
-> <p>- Alfred Adler</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
