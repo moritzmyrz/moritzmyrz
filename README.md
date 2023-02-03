@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
