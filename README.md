@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
