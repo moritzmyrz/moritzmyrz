@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
 >
-> <p>- Tom Krause</p>
+> <p>- Dan Gable</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
