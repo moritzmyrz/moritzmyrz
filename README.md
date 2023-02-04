@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
+> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Plotinus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
