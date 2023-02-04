@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> Think for yourselves and let others enjoy the privilege to do so too.
 >
-> <p>- Confucius</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
