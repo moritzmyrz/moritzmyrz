@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only put off until tomorrow what you are willing to die having left undone.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
