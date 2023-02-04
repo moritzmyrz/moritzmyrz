@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- Brooks Adams</p>
+> <p>- Babatunde Olatunji</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
