@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
+> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Audrey Hepburn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
