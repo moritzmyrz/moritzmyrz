@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Plotinus</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
