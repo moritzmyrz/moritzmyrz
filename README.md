@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Richard Bach</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
