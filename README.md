@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
