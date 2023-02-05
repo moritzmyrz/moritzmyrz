@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Laozi</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
