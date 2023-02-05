@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+> When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
