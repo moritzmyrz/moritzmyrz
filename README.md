@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To conquer fear is the beginning of wisdom.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
