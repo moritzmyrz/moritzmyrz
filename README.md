@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Mark Twain</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
