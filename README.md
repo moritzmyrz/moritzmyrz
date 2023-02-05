@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Richard Bach</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
