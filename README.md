@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Lucille Ball</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
