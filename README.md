@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- Corita Kent</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
