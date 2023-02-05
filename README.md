@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Confucius</p>
+> <p>- Woodrow Wilson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
