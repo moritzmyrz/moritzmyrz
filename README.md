@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never, never, never give up.
+> You are always free to change your mind and choose a different future, or a different past.
 >
-> <p>- Winston Churchill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
