@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> Never, never, never give up.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
