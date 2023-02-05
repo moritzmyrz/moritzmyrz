@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
