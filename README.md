@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> The secret of getting ahead is getting started.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
