@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
