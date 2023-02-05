@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you are against weakens you. Everything you are for empowers you.
+> The greatest healing therapy is friendship and love.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
