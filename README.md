@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Charles Darwin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
