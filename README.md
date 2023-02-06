@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Confucius</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
