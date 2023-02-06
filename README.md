@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> I never think of the future. It comes soon enough.
 >
 > <p>- Albert Einstein</p>
 
