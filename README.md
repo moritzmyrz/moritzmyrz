@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> To listen well is as powerful a means of communication and influence as to talk well.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
