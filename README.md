@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most effective way to do it, is to do it.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
