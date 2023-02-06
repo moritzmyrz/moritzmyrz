@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jawaharlal Nehru</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
