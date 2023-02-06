@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> Our passion is our strength.
 >
-> <p>- John Marshall</p>
+> <p>- Billie Armstrong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
