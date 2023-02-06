@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?
 >
-> <p>- Aristotle</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
