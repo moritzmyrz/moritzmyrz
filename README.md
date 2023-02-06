@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> The most effective way to do it, is to do it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
