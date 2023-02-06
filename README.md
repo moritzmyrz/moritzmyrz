@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Jack Welch</p>
+> <p>- Mia Hamm</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
