@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
