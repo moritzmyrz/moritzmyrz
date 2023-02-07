@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> Always remember that you are absolutely unique. Just like everyone else.
 >
-> <p>- Larry Page</p>
+> <p>- Margaret Mead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
