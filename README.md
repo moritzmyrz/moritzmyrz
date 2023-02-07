@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always remember that you are absolutely unique. Just like everyone else.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Margaret Mead</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
