@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way you see people is the way you treat them, and the way you treat them is what they become.
+> If you're changing the world, you're working on important things. You're excited to get up in the morning.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Larry Page</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
