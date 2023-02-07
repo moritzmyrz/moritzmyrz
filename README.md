@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
