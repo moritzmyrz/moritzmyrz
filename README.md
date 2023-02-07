@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep silence for the most part, and speak only when you must, and then briefly.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Epictetus</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
