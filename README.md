@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
