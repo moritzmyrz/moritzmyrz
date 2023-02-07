@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> The way you see people is the way you treat them, and the way you treat them is what they become.
 >
-> <p>- Denis Waitley</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
