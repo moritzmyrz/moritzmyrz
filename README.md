@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> In the middle of every difficulty lies opportunity.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
