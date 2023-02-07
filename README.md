@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
