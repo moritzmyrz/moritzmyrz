@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
