@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
