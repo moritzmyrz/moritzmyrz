@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> My friends are my estate.
 >
-> <p>- Northrop Frye</p>
+> <p>- Emily Dickinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
