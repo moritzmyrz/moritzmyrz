@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
+> If you want to go east, don't go west.
 >
-> <p>- Dag Hammarskjöld</p>
+> <p>- Ramakrishna</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
