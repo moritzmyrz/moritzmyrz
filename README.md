@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> The superior man is modest in his speech but exceeds in his actions.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
