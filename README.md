@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Cicero</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
