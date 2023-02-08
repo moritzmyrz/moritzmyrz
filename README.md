@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.
+> The function of wisdom is to discriminate between good and evil.
 >
-> <p>- Buddha</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
