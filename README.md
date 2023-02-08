@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Buddha</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
