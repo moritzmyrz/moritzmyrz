@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one can make you feel inferior without your consent.
+> Build a better mousetrap and the world will beat a path to your door.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
