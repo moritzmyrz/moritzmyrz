@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 >
-> <p>- Albert Einstein</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
