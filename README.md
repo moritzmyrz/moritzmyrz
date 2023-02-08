@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to go east, don't go west.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Ramakrishna</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
