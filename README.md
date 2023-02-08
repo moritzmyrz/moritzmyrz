@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Michelangelo</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
