@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> Your work is to discover your work and then with all your heart to give yourself to it.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
