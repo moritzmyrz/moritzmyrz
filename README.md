@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
