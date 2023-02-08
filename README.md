@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is not started today is never finished tomorrow.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
