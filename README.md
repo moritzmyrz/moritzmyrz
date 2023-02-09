@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
+> It is never too late to be what you might have been.
 >
-> <p>- Cicero</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
