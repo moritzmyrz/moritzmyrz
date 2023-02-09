@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
