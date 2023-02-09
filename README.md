@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
 >
-> <p>- Isocrates</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
