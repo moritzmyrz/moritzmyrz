@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Amy Tan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
