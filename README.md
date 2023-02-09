@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
