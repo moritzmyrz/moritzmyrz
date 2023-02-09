@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
