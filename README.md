@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.
 >
-> <p>- George Eliot</p>
+> <p>- William Hurt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
