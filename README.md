@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
