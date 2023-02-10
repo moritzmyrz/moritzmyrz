@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.
 >
-> <p>- Robert Schuller</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
