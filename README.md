@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Buddha</p>
+> <p>- Jack Dixon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
