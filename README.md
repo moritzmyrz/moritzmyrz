@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+> Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.
 >
-> <p>- Carl Jung</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
