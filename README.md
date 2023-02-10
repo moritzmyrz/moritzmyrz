@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
