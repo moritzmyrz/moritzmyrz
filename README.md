@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+> To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind, he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him.
 >
-> <p>- Laozi</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
