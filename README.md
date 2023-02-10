@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Barack Obama</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
