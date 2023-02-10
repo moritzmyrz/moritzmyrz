@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.
+> So much technology, so little talent.
 >
-> <p>- Buddha</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
