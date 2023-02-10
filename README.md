@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Walter Winchell</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
