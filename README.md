@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> Bad times have a scientific value. These are occasions a good learner would not miss.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
