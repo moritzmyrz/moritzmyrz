@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
