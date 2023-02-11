@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> I have always thought the actions of men the best interpreters of their thoughts.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
