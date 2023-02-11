@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
