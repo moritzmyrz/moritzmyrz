@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
