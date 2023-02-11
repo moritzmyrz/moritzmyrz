@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
