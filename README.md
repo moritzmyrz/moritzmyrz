@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
+> You can stand tall without standing on someone. You can be a victor without having victims.
 >
-> <p>- Dan Gable</p>
+> <p>- Harriet Woods</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
