@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
