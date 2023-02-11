@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- Hal Abelson</p>
+> <p>- Dale Earnhardt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
