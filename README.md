@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Harriet Woods</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
