@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Unless one is able to live fully in the present, the future is a hoax.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Alan Watts</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
