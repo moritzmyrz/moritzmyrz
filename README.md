@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> Unless one is able to live fully in the present, the future is a hoax.
 >
-> <p>- John Locke</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
