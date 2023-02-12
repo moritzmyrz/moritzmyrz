@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
+> If you're changing the world, you're working on important things. You're excited to get up in the morning.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Larry Page</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
