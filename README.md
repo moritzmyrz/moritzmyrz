@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> You can't choose up sides on a round world.
 >
-> <p>- Isocrates</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
