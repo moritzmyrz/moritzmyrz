@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Alexander Pope</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
