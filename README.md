@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Harriet Tubman</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
