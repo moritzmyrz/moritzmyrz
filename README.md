@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
