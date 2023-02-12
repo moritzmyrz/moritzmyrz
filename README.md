@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> Setting an example is not the main means of influencing another, it is the only means.
 >
-> <p>- Barack Obama</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
