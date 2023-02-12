@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never complain and never explain.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
