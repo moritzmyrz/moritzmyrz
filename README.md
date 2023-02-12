@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- Laozi</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
