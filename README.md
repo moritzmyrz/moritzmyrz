@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your friend is your needs answered.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
