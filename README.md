@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> Your friend is your needs answered.
 >
-> <p>- Forrest Church</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
