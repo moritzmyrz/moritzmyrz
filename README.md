@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
