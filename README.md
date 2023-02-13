@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> One man practicing sportsmanship is far better than a hundred teaching it.
 >
-> <p>- Don Shula</p>
+> <p>- Knute Rockne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
