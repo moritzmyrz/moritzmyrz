@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fewer rules a coach has, the fewer rules there are for players to break.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- John Madden</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
