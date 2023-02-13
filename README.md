@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Tom Krause</p>
+> <p>- William Wordsworth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
