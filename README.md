@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Government of the people, by the people, for the people, shall not perish from the Earth.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
