@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Begin, be bold, and venture to be wise.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Horace</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
