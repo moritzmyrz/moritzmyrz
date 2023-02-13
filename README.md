@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is a word that describes something that doesn't work yet.
+> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
 >
-> <p>- Douglas Adams</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
