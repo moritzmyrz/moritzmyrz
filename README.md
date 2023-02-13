@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
 >
-> <p>- Aristotle</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
