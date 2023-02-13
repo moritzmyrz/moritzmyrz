@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is the true friend that never betrays.
+> Technology is a word that describes something that doesn't work yet.
 >
-> <p>- Confucius</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
