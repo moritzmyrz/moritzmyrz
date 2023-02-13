@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Horace</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
