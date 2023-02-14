@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep your face always toward the sunshine - and shadows will fall behind you.
+> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
 >
-> <p>- Walt Whitman</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
