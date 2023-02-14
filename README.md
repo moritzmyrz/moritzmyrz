@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Confucius</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
