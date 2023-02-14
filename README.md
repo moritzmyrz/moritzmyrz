@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
