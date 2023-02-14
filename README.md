@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> Take things as they are. Punch when you have to punch. Kick when you have to kick.
 >
-> <p>- Mark Twain</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
