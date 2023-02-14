@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Carl Sandburg</p>
+> <p>- John Bercow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
