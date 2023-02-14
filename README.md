@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
 >
-> <p>- Forrest Church</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
