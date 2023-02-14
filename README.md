@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- John Astin</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
