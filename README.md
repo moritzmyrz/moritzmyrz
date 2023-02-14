@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> The real problem is not whether machines think but whether men do.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- B. F. Skinner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
