@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Keep your face always toward the sunshine - and shadows will fall behind you.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
