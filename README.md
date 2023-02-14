@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
