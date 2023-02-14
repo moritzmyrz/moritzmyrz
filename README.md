@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> Experience is not what happens to a man. It is what a man does with what happens to him.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
