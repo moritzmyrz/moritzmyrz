@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> I will prepare and some day my chance will come.
 >
-> <p>- Dalai Lama</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
