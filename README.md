@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Walter Scott</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
