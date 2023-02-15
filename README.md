@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Cory Doctorow</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
