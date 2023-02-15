@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> A thing well said will be wit in all languages.
 >
-> <p>- Samuel Johnson</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
