@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- John Bercow</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
