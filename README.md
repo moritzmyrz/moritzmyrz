@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Confucius</p>
+> <p>- Cynthia Ozick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
