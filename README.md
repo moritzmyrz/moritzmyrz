@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Peter Drucker</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
