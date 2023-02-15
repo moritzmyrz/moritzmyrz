@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
