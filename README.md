@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
