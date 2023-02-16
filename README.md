@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
