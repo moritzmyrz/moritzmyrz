@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many cares one loses when one decides not to be something but to be someone.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- Coco Chanel</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
