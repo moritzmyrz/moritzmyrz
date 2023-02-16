@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In separateness lies the world's great misery, in compassion lies the world's true strength.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Buddha</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
