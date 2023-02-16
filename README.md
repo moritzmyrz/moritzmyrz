@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Giotto</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
