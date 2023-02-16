@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Demosthenes</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
