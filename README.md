@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- Henry Ford</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
