@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
+> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
 >
-> <p>- Anne Frank</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
