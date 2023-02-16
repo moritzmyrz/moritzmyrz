@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
