@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Small opportunities are often the beginning of great enterprises.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Demosthenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
