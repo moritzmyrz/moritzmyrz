@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
