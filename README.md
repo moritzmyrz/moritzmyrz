@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience keeps a dear school, but fools will learn in no other.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
