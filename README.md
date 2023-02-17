@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Ed Cunningham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
