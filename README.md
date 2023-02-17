@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Woody Allen</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
