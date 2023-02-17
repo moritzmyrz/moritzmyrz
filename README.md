@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you correct your mind, the rest of your life will fall into place.
+> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
 >
-> <p>- Laozi</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
