@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
