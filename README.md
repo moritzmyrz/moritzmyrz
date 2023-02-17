@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Princess Diana</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
