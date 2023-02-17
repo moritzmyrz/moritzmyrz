@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work out your own salvation. Do not depend on others.
+> If you correct your mind, the rest of your life will fall into place.
 >
-> <p>- Buddha</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
