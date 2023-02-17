@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
