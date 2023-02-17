@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends are those rare people who ask how we are and then wait to hear the answer.
+> If one does not know to which port is sailing, no wind is favorable.
 >
-> <p>- Ed Cunningham</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
