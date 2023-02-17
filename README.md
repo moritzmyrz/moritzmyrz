@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is about timing.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Carl Lewis</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
