@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Buddha</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
