@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Plutarch</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
