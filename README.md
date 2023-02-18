@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
