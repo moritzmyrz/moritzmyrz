@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make our own fortunes and we call them fate.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
