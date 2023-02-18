@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only when the mind and character slumber that the dress can be seen.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
