@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> Meaning is not what you start with but what you end up with.
 >
-> <p>- Laozi</p>
+> <p>- Peter Elbow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
