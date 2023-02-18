@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The sum of wisdom is that time is never lost that is devoted to work.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
