@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- Virgil</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
