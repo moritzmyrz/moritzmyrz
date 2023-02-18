@@ -8,7 +8,7 @@
 - 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
 - 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
 - ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
-- 🚀 I'm currently working at [Fjordmail Technologies](https://www.fjordmail.com) and [Myrseth Technologies](https://www.myrseth.tech)
+- 🚀 I'm currently working at [Fjordmail Technologies AS](https://www.fjordmail.no/) and [Myrseth Technologies AS](https://www.myrseth.tech)
 
 ### Skills
 
@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Winston Churchill</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
