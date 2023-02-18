@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Charles Dickens</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
