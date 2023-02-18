@@ -8,7 +8,7 @@
 - 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
 - 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
 - ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
-- 🚀 I'm currently working on [Myrseth Technologies](https://www.myrseth.tech)
+- 🚀 I'm currently working at [Fjordmail Technologies](https://www.fjordmail.com) and [Myrseth Technologies](https://www.myrseth.tech)
 
 ### Skills
 
