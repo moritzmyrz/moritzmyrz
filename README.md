@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Henry Ford</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
