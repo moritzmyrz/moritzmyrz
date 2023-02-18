@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Tony Robbins</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
