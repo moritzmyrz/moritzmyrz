@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> It is in your moments of decision that your destiny is shaped.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
