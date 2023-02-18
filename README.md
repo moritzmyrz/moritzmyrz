@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
