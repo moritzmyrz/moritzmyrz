@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
 >
-> <p>- William Burroughs</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
