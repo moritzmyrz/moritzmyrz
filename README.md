@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is a serious mental disease.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Plato</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
