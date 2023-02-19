@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> Think as a wise man but communicate in the language of the people.
 >
-> <p>- Sun Tzu</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
