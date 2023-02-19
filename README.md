@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Sam Ewing</p>
+> <p>- Carol Burnett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
