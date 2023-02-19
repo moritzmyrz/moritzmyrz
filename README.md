@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+> Skill to do comes of doing.
 >
-> <p>- Archimedes</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
