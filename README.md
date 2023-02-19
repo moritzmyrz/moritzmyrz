@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> Your mind will answer most questions if you learn to relax and wait for the answer.
 >
-> <p>- Carol Burnett</p>
+> <p>- William Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
