@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
