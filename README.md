@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- Bruce Lee</p>
+> <p>- Hanya Yanagihara</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
