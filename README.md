@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Doug Larson</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
