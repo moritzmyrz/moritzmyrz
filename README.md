@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> We know what we are but know not what we may be.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
