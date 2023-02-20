@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> Knowing your own darkness is the best method for dealing with the darkness of other people.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
