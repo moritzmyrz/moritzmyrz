@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
