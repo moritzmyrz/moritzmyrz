@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- Jane Addams</p>
+> <p>- Frank Abagnale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
