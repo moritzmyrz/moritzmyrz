@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Agatha Christie</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
