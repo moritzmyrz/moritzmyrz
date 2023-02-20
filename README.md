@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- Frank Abagnale</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
