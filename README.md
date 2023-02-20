@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is where preparation and opportunity meet.
+> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
 >
-> <p>- Bobby Unser</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
