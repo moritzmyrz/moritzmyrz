@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
 >
-> <p>- Confucius</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
