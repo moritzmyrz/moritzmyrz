@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
