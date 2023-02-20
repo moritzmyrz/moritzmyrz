@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 >
-> <p>- Mark Twain</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
