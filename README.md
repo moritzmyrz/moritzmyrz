@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be wronged is nothing unless you continue to remember it.
+> Ignorance and bungling with love are better than wisdom and skill without.
 >
-> <p>- Confucius</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
