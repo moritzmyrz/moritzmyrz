@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> The language of friendship is not words but meanings.
 >
-> <p>- Napoleon</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
