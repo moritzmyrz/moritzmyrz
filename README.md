@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
+> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 >
-> <p>- John Cleese</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
