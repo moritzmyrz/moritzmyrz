@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- Sam Keen</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
