@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
