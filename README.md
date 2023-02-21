@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> I will prepare and some day my chance will come.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
