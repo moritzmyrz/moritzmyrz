@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
