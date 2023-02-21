@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
-> <p>- William Saroyan</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
