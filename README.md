@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Accept the challenges so that you can feel the exhilaration of victory.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- George S. Patton</p>
+> <p>- John Pierrakos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
