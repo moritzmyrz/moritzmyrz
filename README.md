@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
