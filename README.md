@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Dalai Lama</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
