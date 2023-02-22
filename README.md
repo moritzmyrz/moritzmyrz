@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> Work out your own salvation. Do not depend on others.
 >
-> <p>- George Eliot</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
