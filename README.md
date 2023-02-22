@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> He who fears being conquered is sure of defeat.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
