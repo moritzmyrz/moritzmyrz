@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work out your own salvation. Do not depend on others.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Buddha</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
