@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Vernon Cooper</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
