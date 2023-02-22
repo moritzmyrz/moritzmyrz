@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
 >
-> <p>- Sophocles</p>
+> <p>- Don DeLillo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
