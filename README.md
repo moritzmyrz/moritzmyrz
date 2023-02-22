@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Robert Fulghum</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
