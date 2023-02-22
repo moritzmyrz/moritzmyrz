@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> Life isn't about finding yourself. Life is about creating yourself.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
