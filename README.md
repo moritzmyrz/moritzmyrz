@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.
+> It is never too late to be what you might have been.
 >
-> <p>- Buddha</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
