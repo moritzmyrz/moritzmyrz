@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Joe Adcock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
