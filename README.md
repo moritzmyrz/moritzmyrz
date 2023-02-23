@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Helen Keller</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
