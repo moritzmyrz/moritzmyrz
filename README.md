@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Holly Near</p>
+> <p>- Kenji Miyazawa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
