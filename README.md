@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
