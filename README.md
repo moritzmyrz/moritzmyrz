@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+> Once you choose hope, anything's possible.
 >
-> <p>- Brian Tracy</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
