@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must embrace pain and burn it as fuel for our journey.
+> Cleverness is not wisdom.
 >
-> <p>- Kenji Miyazawa</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
