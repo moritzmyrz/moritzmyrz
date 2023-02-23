@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Joe Adcock</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
