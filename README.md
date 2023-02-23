@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Audrey Hepburn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
