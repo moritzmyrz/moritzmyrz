@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- Buddha</p>
+> <p>- Holly Near</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
