@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- Audrey Hepburn</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
