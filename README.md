@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Mao Zedong</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
