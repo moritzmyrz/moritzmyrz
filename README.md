@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
