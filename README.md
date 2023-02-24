@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+> Genuine sincerity opens people's hearts, while manipulation causes them to close.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
