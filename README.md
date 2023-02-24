@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Og Mandino</p>
+> <p>- Hannah Arendt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
