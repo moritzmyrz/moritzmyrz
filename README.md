@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> History is written by the victors.
 >
-> <p>- George S. Patton</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
