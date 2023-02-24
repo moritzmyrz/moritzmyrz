@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
