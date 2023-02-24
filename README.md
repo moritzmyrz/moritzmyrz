@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Mao Zedong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
