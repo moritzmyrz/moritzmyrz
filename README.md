@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> The path to success is to take massive, determined action.
 >
-> <p>- Richard Garriott</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
