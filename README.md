@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we are not fully ourselves, truly in the present moment, we miss everything.
+> Reason and free inquiry are the only effectual agents against error.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
