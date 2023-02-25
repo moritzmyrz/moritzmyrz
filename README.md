@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> Knowing is not enough; we must apply!
 >
-> <p>- Plutarch</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
