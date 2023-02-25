@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> Smile, breathe and go slowly.
 >
-> <p>- Anne Brontë</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
