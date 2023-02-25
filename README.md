@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
 >
-> <p>- Marie Curie</p>
+> <p>- Peter Abelard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
