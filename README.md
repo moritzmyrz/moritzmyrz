@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
+> The doors of wisdom are never shut.
 >
-> <p>- Thomas Edison</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
