@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> To succeed, we must first believe that we can.
 >
-> <p>- Mark Twain</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
