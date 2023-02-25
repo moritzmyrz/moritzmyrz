@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> It is good even for old men to learn wisdom.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
