@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
