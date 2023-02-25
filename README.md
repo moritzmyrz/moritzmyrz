@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> You give before you get.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
