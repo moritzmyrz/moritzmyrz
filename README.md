@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Michael Korda</p>
+> <p>- Anne Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
