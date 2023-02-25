@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Tony Robbins</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
