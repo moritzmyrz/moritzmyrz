@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- René Descartes</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
