@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning is finding out what you already know.
+> Good thoughts are no better than good dreams, unless they be executed.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
