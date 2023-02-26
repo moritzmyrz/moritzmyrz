@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Barack Obama</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
