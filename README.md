@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+> The years teach much which the days never know.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
