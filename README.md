@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
 > <p>- Friedrich Nietzsche</p>
 
