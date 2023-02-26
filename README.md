@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Always be mindful of the kindness and not the faults of others.
 >
-> <p>- John Lennon</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
