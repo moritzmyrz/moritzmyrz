@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Buddha</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
