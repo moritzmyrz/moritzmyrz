@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good thoughts are no better than good dreams, unless they be executed.
+> It's easy to make a buck. It's a lot tougher to make a difference.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Tom Brokaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
