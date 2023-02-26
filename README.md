@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> Allow the world to live as it chooses, and allow yourself to live as you choose.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
