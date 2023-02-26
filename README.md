@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> I'm a great believer in luck and I find the harder I work, the more I have of it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
