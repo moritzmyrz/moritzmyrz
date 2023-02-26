@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
