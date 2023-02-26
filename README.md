@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Allow the world to live as it chooses, and allow yourself to live as you choose.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Richard Bach</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
