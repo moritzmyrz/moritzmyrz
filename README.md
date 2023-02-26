@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
