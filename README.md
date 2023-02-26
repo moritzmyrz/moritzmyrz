@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be mindful of the kindness and not the faults of others.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Buddha</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
