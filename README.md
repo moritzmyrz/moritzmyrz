@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Bruce Lee</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
