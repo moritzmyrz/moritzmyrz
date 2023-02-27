@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> To climb steep hills requires a slow pace at first.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
