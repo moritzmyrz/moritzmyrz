@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Half the lies they tell about me aren't true.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Yogi Berra</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
