@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
