@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- William Shakespeare</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
