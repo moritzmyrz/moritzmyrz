@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's easy to make a buck. It's a lot tougher to make a difference.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Tom Brokaw</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
