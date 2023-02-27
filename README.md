@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
