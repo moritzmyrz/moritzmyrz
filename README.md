@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Robert Fulghum</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
