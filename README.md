@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
+> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
