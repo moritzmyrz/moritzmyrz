@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> It's better to be a lion for a day than a sheep all your life.
 >
-> <p>- Winston Churchill</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
