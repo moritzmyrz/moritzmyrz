@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+> The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
