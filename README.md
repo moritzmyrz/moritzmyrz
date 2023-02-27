@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> Half the lies they tell about me aren't true.
 >
-> <p>- Anne Frank</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
