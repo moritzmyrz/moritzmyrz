@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Epictetus</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
