@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Francis Bacon</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
