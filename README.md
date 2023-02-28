@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
