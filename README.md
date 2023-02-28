@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- Wayne Gretzky</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
