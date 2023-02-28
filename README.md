@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Lin Yutang</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
