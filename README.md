@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
