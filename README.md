@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
