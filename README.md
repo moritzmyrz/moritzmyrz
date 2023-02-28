@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Confucius</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
