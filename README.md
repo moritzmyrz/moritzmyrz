@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
 >
-> <p>- Albert Einstein</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
