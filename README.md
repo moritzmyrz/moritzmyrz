@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
 >
-> <p>- Northrop Frye</p>
+> <p>- Benjamin Haydon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
