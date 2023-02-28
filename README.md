@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
