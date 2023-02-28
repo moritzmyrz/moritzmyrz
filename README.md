@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man understands what is right; the inferior man understands what will sell.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- Confucius</p>
+> <p>- John Quincy Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
