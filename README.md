@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> Fans don't boo nobodies.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
