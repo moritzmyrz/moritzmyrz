@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Lucille Ball</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
