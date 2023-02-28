@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Sydney J. Harris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
