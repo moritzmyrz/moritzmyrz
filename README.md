@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
