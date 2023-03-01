@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> If you're going through hell, keep going.
 >
-> <p>- Yogi Berra</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
