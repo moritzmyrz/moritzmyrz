@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> I will prepare and some day my chance will come.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
