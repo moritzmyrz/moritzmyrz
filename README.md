@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
