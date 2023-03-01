@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Mark Twain</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
