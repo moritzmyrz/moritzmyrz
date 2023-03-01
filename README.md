@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
 >
-> <p>- Alan Watts</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
