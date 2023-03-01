@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is full of magical things, patiently waiting for our wits to grow sharper.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Eden Phillpotts</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
