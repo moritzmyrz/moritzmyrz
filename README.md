@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be yourself; everyone else is already taken.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
