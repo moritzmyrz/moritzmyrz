@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
