@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History is written by the victors.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Winston Churchill</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
