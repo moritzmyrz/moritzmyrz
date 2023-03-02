@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
