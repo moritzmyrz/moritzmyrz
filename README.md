@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are wiser than we know.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
