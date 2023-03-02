@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- William James</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
