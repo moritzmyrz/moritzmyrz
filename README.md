@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
 >
-> <p>- Publilius Syrus</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
