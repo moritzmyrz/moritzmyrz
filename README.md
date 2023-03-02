@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
 >
-> <p>- Bruce Lee</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
