@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Andy Rooney</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
