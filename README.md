@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Woody Allen</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
