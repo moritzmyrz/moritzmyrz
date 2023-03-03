@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
