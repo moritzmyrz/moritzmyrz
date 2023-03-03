@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- George Herbert</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
