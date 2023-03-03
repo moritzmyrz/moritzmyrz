@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
 >
-> <p>- Judy Garland</p>
+> <p>- Barbara De Angelis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
