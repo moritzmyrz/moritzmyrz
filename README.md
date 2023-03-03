@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History will be kind to me for I intend to write it.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
