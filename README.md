@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Tony Robbins</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
