@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Charles Darwin</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
