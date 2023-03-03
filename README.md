@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Doris Day</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
