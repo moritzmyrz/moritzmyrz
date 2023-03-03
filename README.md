@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> There are three faithful friends - an old wife, an old dog, and ready money.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
