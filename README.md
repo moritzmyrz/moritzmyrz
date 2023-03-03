@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Paramahansa Yogananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
