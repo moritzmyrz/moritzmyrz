@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man is great by deeds, not by birth.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- Chanakya</p>
+> <p>- Charles Darwin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
