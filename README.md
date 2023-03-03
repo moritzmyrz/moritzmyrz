@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Barbara De Angelis</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
