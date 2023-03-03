@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
