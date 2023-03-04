@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>- Anatole France</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
