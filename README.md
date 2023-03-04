@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>- William Shakespeare</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
