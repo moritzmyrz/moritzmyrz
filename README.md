@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you learn, teach. When you get, give.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- Maya Angelou</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
