@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the flower you've got to let grow.
+> When you learn, teach. When you get, give.
 >
-> <p>- John Lennon</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
