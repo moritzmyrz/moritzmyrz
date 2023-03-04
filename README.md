@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> Value your friendship. Value your relationships.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
