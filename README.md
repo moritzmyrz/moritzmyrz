@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Value your friendship. Value your relationships.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Barbara Bush</p>
+> <p>- Shakti Gawain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
