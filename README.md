@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There's power in looking silly and not caring that you do.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Amy Poehler</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
