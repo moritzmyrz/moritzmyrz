@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Alan Watts</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
