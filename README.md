@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
+> When you learn, teach. When you get, give.
 >
-> <p>- Reinhold Niebuhr</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
