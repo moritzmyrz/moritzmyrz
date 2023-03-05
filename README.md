@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- A. A. Milne</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
