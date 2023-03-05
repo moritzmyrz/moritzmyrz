@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+> A thing well said will be wit in all languages.
 >
-> <p>- Walter Lippmann</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
