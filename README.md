@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Moncure D. Conway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
