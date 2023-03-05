@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
