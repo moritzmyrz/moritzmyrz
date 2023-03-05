@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> Experience is not what happens to a man. It is what a man does with what happens to him.
 >
-> <p>- Sun Tzu</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
