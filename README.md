@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> If one way be better than another, that you may be sure is nature's way.
 >
-> <p>- George Washington</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
