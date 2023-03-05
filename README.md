@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- Carl Jung</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
