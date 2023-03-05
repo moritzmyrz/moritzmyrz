@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 >
-> <p>- John Dryden</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
