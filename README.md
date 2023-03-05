@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Babatunde Olatunji</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
