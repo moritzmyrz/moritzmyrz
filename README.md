@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
