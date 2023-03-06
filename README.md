@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- William Shakespeare</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
