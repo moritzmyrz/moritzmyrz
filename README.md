@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 >
-> <p>- Carl Jung</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
