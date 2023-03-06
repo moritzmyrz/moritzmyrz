@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
 >
-> <p>- Laozi</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
