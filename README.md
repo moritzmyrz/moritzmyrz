@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In all things of nature there is something of the marvelous.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Aristotle</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
