@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
