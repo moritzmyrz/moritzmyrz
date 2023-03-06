@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest mistake you can make in life is to be continually fearing you will make one.
+> The mind is everything. What you think you become.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
