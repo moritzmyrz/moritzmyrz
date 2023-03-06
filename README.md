@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- John McCain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
