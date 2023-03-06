@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
