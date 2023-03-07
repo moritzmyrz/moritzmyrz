@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
+> Ideas pull the trigger, but instinct loads the gun.
 >
-> <p>- Ralph Abernathy</p>
+> <p>- Don Marquis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
