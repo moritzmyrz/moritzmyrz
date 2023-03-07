@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> If you can dream it, you can do it.
 >
-> <p>- Richard Bach</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
