@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Billy Wilder</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
