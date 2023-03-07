@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideas pull the trigger, but instinct loads the gun.
+> We know what we are but know not what we may be.
 >
-> <p>- Don Marquis</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
