@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> A goal is a dream with a deadline.
 >
-> <p>- Sam Levenson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
