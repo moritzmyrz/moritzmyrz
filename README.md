@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> Chaos is inherent in all compounded things. Strive on with diligence.
 >
-> <p>- Billie Jean King</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
