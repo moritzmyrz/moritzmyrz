@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when.
 >
-> <p>- Winston Churchill</p>
+> <p>- Simon Sinek</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
