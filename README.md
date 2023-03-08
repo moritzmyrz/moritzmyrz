@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
