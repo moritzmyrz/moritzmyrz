@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Paavo Nurmi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
