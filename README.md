@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> The secret of getting ahead is getting started.
 >
-> <p>- Walt Disney</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
