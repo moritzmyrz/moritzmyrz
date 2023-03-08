@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every human being is the author of his own health or disease.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Buddha</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
