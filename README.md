@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
