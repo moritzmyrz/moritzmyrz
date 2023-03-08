@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Brooks Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
