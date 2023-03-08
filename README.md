@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
+> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
