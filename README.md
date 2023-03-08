@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- A. A. Milne</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
