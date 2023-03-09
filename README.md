@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One man practicing sportsmanship is far better than a hundred teaching it.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Knute Rockne</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
