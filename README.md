@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> If the stars should appear but one night every thousand years how man would marvel and adore.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
