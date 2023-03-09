@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
