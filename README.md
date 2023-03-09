@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> No garden is without its weeds.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
