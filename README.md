@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Alan Watts</p>
+> <p>- John Steinbeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
