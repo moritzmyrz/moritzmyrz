@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
