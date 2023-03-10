@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> If there is no struggle, there is no progress.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
