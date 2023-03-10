@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God has given you one face, and you make yourself another.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- William Shakespeare</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
