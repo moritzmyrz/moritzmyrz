@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
