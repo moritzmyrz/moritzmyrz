@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- James A. Yorke</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
