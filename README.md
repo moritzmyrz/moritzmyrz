@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
