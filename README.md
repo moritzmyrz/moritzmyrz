@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> The most successful people are those who are good at plan B.
 >
-> <p>- James Freeman Clarke</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
