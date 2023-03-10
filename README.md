@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Setting an example is not the main means of influencing another, it is the only means.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Albert Einstein</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
