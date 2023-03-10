@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Hanya Yanagihara</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
