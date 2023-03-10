@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> Technology has to be invented or adopted.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
