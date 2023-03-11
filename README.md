@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Business, you know, may bring you money, but friendship hardly ever does.
+> The only real valuable thing is intuition.
 >
-> <p>- Jane Austen</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
