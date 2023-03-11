@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
