@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> To see things in the seed, that is genius.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
