@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An invasion of armies can be resisted, but not an idea whose time has come.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Victor Hugo</p>
+> <p>- Paulo Coelho</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
