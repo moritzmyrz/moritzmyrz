@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> Make the most of yourself, for that is all there is of you.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
