@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- Dalai Lama</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
