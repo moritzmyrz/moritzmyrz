@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Alfred Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
