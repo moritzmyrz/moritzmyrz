@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust only movement. Life happens at the level of events, not of words. Trust movement.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Alfred Adler</p>
+> <p>- Rudolf Arnheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
