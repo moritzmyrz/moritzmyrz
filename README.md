@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
+> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
