@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
