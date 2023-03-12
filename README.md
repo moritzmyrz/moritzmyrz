@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> It always seems impossible until it's done.
 >
-> <p>- Helen Keller</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
