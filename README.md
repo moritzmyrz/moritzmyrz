@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> Absence makes the heart grow fonder.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Haynes Bayly</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
