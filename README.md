@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
