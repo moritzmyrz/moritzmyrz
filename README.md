@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Babatunde Olatunji</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
