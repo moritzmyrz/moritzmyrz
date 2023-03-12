@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> Love is the attempt to form a friendship inspired by beauty.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
