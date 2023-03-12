@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of lessons, which must be lived to be understood.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
