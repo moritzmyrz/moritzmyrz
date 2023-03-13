@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- William C. Menninger</p>
+> <p>- Michael Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
