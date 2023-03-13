@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Pat Riley</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
