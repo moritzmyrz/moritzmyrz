@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great acts are made up of small deeds.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- Laozi</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
