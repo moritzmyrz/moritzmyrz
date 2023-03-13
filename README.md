@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Science is organized knowledge. Wisdom is organized life.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
 > <p>- Immanuel Kant</p>
 
