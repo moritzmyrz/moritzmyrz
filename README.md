@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
