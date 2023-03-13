@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> Science is organized knowledge. Wisdom is organized life.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Immanuel Kant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
