@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Jane Addams</p>
+> <p>- E. E. Cummings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
