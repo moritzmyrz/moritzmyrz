@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- Confucius</p>
+> <p>- Joseph Joubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
