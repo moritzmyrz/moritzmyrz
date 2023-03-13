@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
