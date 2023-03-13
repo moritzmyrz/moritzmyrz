@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
 >
-> <p>- Immanuel Kant</p>
+> <p>- James Freeman Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
