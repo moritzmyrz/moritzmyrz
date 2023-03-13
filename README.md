@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> From wonder into wonder existence opens.
 >
-> <p>- Joseph Joubert</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
