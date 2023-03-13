@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
 >
-> <p>- Loretta Young</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
