@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> The biggest room in the world is room for improvement.
 >
-> <p>- Aristotle</p>
+> <p>- Helmut Schmidt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
