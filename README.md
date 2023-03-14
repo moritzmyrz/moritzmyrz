@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
