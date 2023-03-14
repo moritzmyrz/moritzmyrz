@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> Your work is to discover your world and then with all your heart give yourself to it.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
