@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- John Steinbeck</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
