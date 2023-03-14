@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your work is to discover your world and then with all your heart give yourself to it.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Buddha</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
