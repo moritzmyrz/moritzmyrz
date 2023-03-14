@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> The only way to have a friend is to be one.
 >
 > <p>- Ralph Waldo Emerson</p>
 
