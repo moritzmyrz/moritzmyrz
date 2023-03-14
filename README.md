@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who conquers others is strong; He who conquers himself is mighty.
+> Happiness depends upon ourselves.
 >
-> <p>- Laozi</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
