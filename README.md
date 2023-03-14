@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> To fly, we have to have resistance.
 >
-> <p>- Pericles</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
