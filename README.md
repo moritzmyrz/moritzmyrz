@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
