@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> Those that know, do. Those that understand, teach.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
