@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Opportunity does not knock, it presents itself when you beat down the door.
+> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
 >
-> <p>- Kyle Chandler</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
