@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Nikola Tesla</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
