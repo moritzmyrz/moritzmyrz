@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> Always be mindful of the kindness and not the faults of others.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
