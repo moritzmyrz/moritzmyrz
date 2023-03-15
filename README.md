@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
