@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Octavia E. Butler</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
