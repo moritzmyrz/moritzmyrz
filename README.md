@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- William James</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
