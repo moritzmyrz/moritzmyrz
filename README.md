@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
