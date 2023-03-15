@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> Opportunity does not knock, it presents itself when you beat down the door.
 >
-> <p>- Thomas Edison</p>
+> <p>- Kyle Chandler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
