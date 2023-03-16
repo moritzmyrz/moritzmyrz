@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is fatal to enter any war without the will to win it.
+> No one has ever become poor by giving.
 >
-> <p>- Douglas MacArthur</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
