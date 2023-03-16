@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
 >
-> <p>- Cicero</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
