@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> It is fatal to enter any war without the will to win it.
 >
-> <p>- John Muir</p>
+> <p>- Douglas MacArthur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
