@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Hugo Black</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
