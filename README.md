@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
