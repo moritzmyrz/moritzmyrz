@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Hugo Black</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
