@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Being entirely honest with oneself is a good exercise.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
