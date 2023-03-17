@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
