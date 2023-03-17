@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
