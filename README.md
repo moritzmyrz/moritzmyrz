@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends are those rare people who ask how we are and then wait to hear the answer.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Ed Cunningham</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
