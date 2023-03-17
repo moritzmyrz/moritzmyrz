@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> Our work is the presentation of our capabilities.
 >
 > <p>- Edward Gibbon</p>
 
