@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
+> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
 >
-> <p>- Hugo Black</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
