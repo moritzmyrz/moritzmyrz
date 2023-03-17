@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
