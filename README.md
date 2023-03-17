@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To lead people walk behind them.
+> Memory is the mother of all wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
