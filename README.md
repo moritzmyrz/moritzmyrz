@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A jug fills drop by drop.
+> He is no fool who gives what he cannot keep to gain what he cannot lose.
 >
-> <p>- Buddha</p>
+> <p>- Jim Elliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
