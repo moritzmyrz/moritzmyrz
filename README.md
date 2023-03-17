@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
