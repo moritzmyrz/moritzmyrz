@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- John Lubbock</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
