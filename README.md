@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Mark Twain</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
