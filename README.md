@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- John Ruskin</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
