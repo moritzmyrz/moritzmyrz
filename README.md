@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 >
-> <p>- Carl Jung</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
