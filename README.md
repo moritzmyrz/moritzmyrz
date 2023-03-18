@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Walter Benjamin</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
