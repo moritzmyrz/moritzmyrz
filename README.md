@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom consists of the anticipation of consequences.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Norman Cousins</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
