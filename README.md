@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
