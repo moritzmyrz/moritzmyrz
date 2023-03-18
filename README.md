@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader is one who knows the way, goes the way, and shows the way.
+> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
 >
-> <p>- John C. Maxwell</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
