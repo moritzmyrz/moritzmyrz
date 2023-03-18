@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- A. A. Milne</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
