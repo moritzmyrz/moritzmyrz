@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Denis Waitley</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
