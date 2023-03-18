@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
