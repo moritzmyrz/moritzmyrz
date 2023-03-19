@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Lin Yutang</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
