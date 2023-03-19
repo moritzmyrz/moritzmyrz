@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
