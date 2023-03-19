@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Dale Turner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
