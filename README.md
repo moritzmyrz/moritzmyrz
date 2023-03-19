@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
