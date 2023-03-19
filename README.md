@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
 >
-> <p>- Helen Keller</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
