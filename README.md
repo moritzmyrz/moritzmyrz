@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Aristotle</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
