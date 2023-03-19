@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Confucius</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
