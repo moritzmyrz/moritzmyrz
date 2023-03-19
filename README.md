@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
