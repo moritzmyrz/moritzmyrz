@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Alexis Carrel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
