@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's most persistent and urgent question is, 'What are you doing for others?'
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
