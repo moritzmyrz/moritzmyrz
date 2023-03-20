@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 >
-> <p>- Alexis Carrel</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
