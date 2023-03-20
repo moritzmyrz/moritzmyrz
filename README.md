@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never mistake activity for achievement.
+> The most effective way to do it, is to do it.
 >
-> <p>- John Wooden</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
