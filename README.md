@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
