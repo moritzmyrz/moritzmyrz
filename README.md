@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Katherine Mansfield</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
