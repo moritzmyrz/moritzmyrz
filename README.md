@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we are not fully ourselves, truly in the present moment, we miss everything.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
