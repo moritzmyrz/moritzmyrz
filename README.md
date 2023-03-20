@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All this modern technology just makes people try to do everything at once.
+> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
 >
-> <p>- Bill Watterson</p>
+> <p>- Earl Monroe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
