@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
