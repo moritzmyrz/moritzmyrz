@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most effective way to do it, is to do it.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
