@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Alexander Pope</p>
+> <p>- Mignon McLaughlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
