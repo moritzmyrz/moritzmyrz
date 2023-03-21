@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Cicero</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
