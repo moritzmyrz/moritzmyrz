@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No person is your friend who demands your silence or denies your right to grow.
+> Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.
 >
-> <p>- Alice Walker</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
