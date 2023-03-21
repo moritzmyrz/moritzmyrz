@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Billie Jean King</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
