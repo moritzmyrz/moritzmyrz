@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
