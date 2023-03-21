@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> Only put off until tomorrow what you are willing to die having left undone.
 >
-> <p>- Robert Schuller</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
