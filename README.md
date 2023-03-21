@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is fatal to enter any war without the will to win it.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Douglas MacArthur</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
