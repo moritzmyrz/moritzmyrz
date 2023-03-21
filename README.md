@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> It is fatal to enter any war without the will to win it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Douglas MacArthur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
