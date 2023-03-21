@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge rests not upon truth alone, but upon error also.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Carl Jung</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
