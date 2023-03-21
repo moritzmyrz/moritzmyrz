@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Pema Chödrön</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
