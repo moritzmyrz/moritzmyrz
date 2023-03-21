@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> Never find fault with the absent.
 >
-> <p>- Rumi</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
