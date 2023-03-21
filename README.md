@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Woody Allen</p>
+> <p>- Alice Walker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
