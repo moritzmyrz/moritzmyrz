@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- Buddha</p>
+> <p>- Joseph Addison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
