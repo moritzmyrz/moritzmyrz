@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No garden is without its weeds.
+> However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
 >
-> <p>- Thomas Fuller</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
