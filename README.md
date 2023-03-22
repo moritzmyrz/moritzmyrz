@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Judy Garland</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
