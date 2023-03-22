@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
+> Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
