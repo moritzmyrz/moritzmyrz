@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- Joseph Addison</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
