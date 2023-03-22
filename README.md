@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> You teach best what you most need to learn.
 >
-> <p>- Isocrates</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
