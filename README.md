@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Brian Tracy</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
