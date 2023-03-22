@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
