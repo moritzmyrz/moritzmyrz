@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
+> Don't leave a stone unturned. It's always something, to know you have done the most you could.
 >
-> <p>- George Orwell</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
