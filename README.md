@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
