@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> An idea that is developed and put into action is more important than an idea that exists only as an idea.
 >
-> <p>- Dalai Lama</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
