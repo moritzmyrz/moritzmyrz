@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't leave a stone unturned. It's always something, to know you have done the most you could.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Charles Dickens</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
