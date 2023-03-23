@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
