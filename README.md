@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Sophocles</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
