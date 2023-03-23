@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Frank Herbert</p>
+> <p>- Kathleen Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
