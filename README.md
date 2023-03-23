@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Francis de Sales</p>
+> <p>- Frank Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
