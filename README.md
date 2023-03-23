@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorance and bungling with love are better than wisdom and skill without.
+> The path to success is to take massive, determined action.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
