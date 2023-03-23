@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never accept ultimatums, conventional wisdom, or absolutes.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
