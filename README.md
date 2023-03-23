@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- Dee Hock</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
