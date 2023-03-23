@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Jack Buck</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
