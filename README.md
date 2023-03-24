@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Charles Henry Parkhurst</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
