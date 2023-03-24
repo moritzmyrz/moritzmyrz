@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> Value your friendship. Value your relationships.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
