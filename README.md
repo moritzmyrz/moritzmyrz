@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What worries you masters you.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Haddon Robinson</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
