@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
