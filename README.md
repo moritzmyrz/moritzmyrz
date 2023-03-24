@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> Error is discipline through which we advance.
 >
-> <p>- Herodotus</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
