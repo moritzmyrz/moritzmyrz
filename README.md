@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port is sailing, no wind is favorable.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
