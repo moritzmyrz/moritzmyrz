@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
