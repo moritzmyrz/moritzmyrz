@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many cares one loses when one decides not to be something but to be someone.
+> One fails forward toward success.
 >
-> <p>- Coco Chanel</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
