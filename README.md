@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True friendship ought never to conceal what it thinks.
+> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
 >
-> <p>- Jerome</p>
+> <p>- Peter Abelard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
