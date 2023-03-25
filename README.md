@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader is one who knows the way, goes the way, and shows the way.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- John C. Maxwell</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
