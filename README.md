@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> The first step to getting the things you want out of life is this: decide what you want.
 >
-> <p>- Joseph Prince</p>
+> <p>- Ben Stein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
