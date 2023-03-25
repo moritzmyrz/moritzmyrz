@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
