@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Samuel Richardson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
