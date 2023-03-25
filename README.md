@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing nothing is better than being busy doing nothing.
+> Nothing ever goes away until it has taught us what we need to know.
 >
-> <p>- Laozi</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
