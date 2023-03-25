@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Epictetus</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
