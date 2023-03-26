@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
