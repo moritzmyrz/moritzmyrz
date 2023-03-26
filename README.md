@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> Ability will never catch up with the demand for it.
 >
 > <p>- Confucius</p>
 
