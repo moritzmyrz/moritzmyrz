@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Charles Péguy</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
