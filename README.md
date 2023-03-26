@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> We must become the change we want to see.
 >
-> <p>- Lucille Ball</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
