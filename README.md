@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Audre Lorde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
