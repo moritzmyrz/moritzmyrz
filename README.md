@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> Cleverness is not wisdom.
 >
-> <p>- Confucius</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
