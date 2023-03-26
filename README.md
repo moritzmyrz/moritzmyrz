@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
