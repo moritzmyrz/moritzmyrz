@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
