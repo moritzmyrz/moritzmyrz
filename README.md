@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> All achievements, all earned riches, have their beginning in an idea.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
