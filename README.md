@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
