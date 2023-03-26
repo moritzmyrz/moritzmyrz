@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> You can't shake hands with a clenched fist.
 >
-> <p>- Martha Washington</p>
+> <p>- Indira Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
