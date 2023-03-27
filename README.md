@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Harvey Mackay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
