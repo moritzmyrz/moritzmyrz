@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the flower you've got to let grow.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- John Lennon</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
