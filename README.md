@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> May our hearts garden of awakening bloom with hundreds of flowers.
+> Life is 10% what happens to you and 90% how you react to it.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
