@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
