@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Harvey Mackay</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
