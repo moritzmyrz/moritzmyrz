@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> It is impossible to love and to be wise.
 >
-> <p>- Plato</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
