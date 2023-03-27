@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Laozi</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
