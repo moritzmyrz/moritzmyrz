@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is 10% what happens to you and 90% how you react to it.
+> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
