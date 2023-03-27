@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> One fails forward toward success.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
