@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Voltaire</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
