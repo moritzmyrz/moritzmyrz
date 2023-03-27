@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Jeff Bezos</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
