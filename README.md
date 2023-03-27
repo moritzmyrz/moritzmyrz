@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> You really can change the world if you care enough.
 >
-> <p>- Winston Churchill</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
