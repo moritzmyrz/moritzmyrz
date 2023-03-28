@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- Bruce Lee</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
