@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> Bad times have a scientific value. These are occasions a good learner would not miss.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
