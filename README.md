@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The way is not in the sky. The way is in the heart.
+> In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.
 >
 > <p>- Buddha</p>
 
