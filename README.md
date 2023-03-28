@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
