@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
