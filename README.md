@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.
+> Everything that irritates us about others can lead us to a better understanding of ourselves.
 >
-> <p>- Buddha</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
