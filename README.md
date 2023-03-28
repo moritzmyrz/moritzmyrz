@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- George Washington</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
