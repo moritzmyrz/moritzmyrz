@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Blessed is the man who expects nothing, for he shall never be disappointed.
+> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 >
-> <p>- Alexander Pope</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
