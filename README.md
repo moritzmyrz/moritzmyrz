@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Bad times have a scientific value. These are occasions a good learner would not miss.
+> It is far better to be alone, than to be in bad company.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
