@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> Absence makes the heart grow fonder.
 >
-> <p>- Lucille Ball</p>
+> <p>- Thomas Haynes Bayly</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
