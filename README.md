@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.
+> A friend is what the heart needs all the time.
 >
-> <p>- Buddha</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
