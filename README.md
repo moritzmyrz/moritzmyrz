@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To command is to serve, nothing more and nothing less.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- André Malraux</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
