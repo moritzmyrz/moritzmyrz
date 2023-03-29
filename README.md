@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
 >
-> <p>- Christie Brinkley</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
