@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
 >
-> <p>- William Shakespeare</p>
+> <p>- Edward de Bono</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
