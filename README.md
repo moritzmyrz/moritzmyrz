@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is what the heart needs all the time.
+> There is nothing permanent except change.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
