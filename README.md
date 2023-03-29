@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Albert Einstein</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
