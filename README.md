@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many cares one loses when one decides not to be something but to be someone.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Coco Chanel</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
