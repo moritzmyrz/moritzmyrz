@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> Great acts are made up of small deeds.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
