@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Absence makes the heart grow fonder.
+> It is not in the stars to hold our destiny but in ourselves.
 >
-> <p>- Thomas Haynes Bayly</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
