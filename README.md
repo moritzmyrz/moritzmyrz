@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
