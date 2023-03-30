@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
