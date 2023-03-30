@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
