@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- Buddha</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
