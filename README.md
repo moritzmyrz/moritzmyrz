@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learn from yesterday, live for today, hope for tomorrow.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- Albert Einstein</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
