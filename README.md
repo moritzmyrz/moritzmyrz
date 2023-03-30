@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> Learn from yesterday, live for today, hope for tomorrow.
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
