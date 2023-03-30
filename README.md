@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Ralph Marston</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
