@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> What you do today can improve all your tomorrows.
 >
-> <p>- Sun Tzu</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
