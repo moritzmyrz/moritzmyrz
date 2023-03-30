@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Commitment is an act, not a word.
+> They can conquer who believe they can.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
