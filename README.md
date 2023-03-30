@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is always an overmatch for strength.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Phil Jackson</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
