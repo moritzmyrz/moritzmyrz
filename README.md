@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
