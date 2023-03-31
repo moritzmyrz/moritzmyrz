@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
