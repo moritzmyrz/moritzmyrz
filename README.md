@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> The more you know yourself, the more you forgive yourself.
 >
 > <p>- Confucius</p>
 
