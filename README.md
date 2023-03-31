@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With pride, there are many curses. With humility, there come many blessings.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- Ezra Taft Benson</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
