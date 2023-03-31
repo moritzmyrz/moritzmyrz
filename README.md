@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
