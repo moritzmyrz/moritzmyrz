@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> The way is not in the sky. The way is in the heart.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
