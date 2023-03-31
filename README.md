@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- Sophocles</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
