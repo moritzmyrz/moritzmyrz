@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
