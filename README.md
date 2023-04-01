@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Feeling and longing are the motive forces behind all human endeavor and human creations.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Albert Einstein</p>
+> <p>- Caroline Myss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
