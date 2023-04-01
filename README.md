@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is about timing.
+> Sadness flies away on the wings of time.
 >
-> <p>- Carl Lewis</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
