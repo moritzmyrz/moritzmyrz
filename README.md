@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Thomas à Kempis</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
