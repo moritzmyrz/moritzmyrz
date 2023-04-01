@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
