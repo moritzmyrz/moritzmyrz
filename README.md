@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
