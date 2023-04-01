@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You won't skid if you stay in a rut.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- Kin Hubbard</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
