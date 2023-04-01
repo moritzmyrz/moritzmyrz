@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a thing is done, it's done. Don't look back. Look forward to your next objective.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- George Marshall</p>
+> <p>- Thomas à Kempis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
