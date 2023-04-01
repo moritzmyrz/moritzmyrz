@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
+> When a thing is done, it's done. Don't look back. Look forward to your next objective.
 >
-> <p>- Hanya Yanagihara</p>
+> <p>- George Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
