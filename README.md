@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
