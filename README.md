@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
