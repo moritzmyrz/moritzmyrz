@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> If a man does his best, what else is there?
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
