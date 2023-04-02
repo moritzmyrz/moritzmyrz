@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Dhammapada</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
