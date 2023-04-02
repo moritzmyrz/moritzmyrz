@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Purity and impurity depend on oneself; no one can purify another.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- The Buddha</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
