@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
 >
-> <p>- Richard Bach</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
