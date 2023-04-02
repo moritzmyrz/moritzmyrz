@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Richard Bach</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
