@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Lewis Cass</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
