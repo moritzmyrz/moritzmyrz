@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
