@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- John Wooden</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
