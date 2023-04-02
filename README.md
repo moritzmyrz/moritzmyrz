@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> Listen to what you know instead of what you fear.
 >
-> <p>- George S. Patton</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
