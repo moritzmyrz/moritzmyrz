@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> Know how to listen, and you will profit even from those who talk badly.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
