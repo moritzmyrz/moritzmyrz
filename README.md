@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The eye sees only what the mind is prepared to comprehend.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Henri Bergson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
