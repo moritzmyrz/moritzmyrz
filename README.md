@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> No garden is without its weeds.
 >
-> <p>- Henry Ford</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
