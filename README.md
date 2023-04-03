@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is someone who is there for you when he'd rather be anywhere else.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Len Wein</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
