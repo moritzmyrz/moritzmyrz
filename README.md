@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
+> You really can change the world if you care enough.
 >
-> <p>- Laozi</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
