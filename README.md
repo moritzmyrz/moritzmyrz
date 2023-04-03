@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> The eye sees only what the mind is prepared to comprehend.
 >
-> <p>- Tony Robbins</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
