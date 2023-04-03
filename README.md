@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> A true friend is someone who is there for you when he'd rather be anywhere else.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Len Wein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
