@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
