@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
