@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
