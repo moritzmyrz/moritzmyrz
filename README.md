@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
 > <p>- Laozi</p>
 
