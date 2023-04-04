@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
