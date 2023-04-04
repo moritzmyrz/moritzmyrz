@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
