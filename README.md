@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
