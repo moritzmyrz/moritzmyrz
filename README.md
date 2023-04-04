@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
