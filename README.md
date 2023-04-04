@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
