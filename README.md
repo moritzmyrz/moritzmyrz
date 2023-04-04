@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Gustave Flaubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
