@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> Nothing in life is to be feared. It is only to be understood.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
