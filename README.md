@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> Happiness is the reward we get for living to the highest right we know.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
