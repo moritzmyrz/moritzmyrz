@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Richard Bach</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
