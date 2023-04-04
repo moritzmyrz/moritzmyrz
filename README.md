@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- Fawn M. Brodie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
