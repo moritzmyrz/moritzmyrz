@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How far that little candle throws its beams! So shines a good deed in a naughty world.
+> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
 >
-> <p>- William Shakespeare</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
