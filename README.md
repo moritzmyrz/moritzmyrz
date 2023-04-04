@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> It always seems impossible until it's done.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
