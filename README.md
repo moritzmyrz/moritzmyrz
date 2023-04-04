@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
 >
-> <p>- Nelson Mandela</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
