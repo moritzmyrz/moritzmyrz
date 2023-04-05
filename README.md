@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Rumi</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
