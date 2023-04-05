@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
