@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
