@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Niccolò Machiavelli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
