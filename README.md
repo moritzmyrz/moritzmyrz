@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
