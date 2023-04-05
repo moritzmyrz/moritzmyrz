@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> We don't stop playing because we grow old; we grow old because we stop playing.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
