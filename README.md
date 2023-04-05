@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Accept challenges, so that you may feel the exhilaration of victory.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- George S. Patton</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
