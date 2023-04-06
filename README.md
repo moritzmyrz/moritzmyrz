@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> The real problem is not whether machines think but whether men do.
 >
-> <p>- Hannah More</p>
+> <p>- B. F. Skinner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
