@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
