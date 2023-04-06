@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> Love is the flower you've got to let grow.
 >
-> <p>- Yogi Berra</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
