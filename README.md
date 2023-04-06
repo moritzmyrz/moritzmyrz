@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
