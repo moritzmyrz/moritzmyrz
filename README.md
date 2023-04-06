@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
