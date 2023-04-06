@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
