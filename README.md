@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> The most certain sign of wisdom is cheerfulness.
 >
-> <p>- The Buddha</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
