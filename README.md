@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
