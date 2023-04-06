@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the flower you've got to let grow.
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- John Lennon</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
