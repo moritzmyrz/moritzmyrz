@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> The only way to have a friend is to be one.
 >
-> <p>- William Burroughs</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
