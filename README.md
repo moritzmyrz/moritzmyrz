@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> Ability will never catch up with the demand for it.
 >
 > <p>- Confucius</p>
 
