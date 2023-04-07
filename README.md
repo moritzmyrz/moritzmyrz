@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
