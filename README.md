@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> You can't shake hands with a clenched fist.
 >
-> <p>- The Buddha</p>
+> <p>- Indira Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
