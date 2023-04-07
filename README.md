@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> Be the chief but never the lord.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
