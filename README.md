@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Gustave Flaubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
