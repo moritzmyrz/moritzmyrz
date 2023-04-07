@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
