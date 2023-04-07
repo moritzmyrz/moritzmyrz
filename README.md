@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Alexander Pope</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
