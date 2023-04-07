@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
