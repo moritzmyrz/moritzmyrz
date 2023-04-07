@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
