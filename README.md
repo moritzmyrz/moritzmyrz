@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Laozi</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
