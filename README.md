@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Ovid</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
