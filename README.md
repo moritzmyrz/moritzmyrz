@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The invariable mark of wisdom is to see the miraculous in the common.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ben Hogan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
