@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Lord Byron</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
