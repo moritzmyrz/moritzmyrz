@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- Laozi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
