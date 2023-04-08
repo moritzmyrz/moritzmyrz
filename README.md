@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Milton Berle</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
