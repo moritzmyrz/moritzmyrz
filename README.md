@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> Better to have loved and lost, than to have never loved at all.
 >
-> <p>- William Shakespeare</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
