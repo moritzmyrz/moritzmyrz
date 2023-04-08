@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Motivation is the art of getting people to do what you want them to do because they want to do it.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
