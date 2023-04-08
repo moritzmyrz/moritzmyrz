@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Laozi</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
