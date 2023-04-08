@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fall of dropping water wears away the Stone.
+> One who is too insistent on his own views, finds few to agree with him.
 >
-> <p>- Lucretius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
