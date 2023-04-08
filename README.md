@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Milton Berle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
