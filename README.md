@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
