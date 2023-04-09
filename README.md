@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Dalai Lama</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
