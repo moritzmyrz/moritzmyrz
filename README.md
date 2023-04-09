@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- The Buddha</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
