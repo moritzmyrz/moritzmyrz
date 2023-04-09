@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
