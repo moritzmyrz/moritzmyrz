@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
