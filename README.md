@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
