@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
 >
-> <p>- Norman Cousins</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
