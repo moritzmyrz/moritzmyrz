@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> Learning never exhausts the mind.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
