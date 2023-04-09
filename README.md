@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mike Singletary (basketball)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
