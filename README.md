@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> Learning never exhausts the mind.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
