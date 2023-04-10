@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> Pitching is the art of instilling fear.
 >
-> <p>- James M. Beggs</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
