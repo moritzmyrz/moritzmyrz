@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
