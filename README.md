@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to kill any idea in the world, get a committee working on it.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
