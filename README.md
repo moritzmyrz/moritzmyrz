@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Mother Teresa</p>
+> <p>- Mia Hamm</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
