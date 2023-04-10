@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Mia Hamm</p>
+> <p>- James M. Beggs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
