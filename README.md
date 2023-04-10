@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
