@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- Laozi</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
