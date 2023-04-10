@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't look out there for God, something in the sky, you look in you.
+> The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares.
 >
-> <p>- Alan Watts</p>
+> <p>- Henri Nouwen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
