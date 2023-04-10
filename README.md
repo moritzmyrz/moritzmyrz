@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> We shall never know all the good that a simple smile can do.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
