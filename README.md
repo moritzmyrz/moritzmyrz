@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> Silence is the true friend that never betrays.
 >
-> <p>- Sandy Koufax</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
