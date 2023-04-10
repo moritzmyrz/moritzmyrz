@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
