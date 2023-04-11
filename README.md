@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love and friendship exclude each other.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Henri Poincaré</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
