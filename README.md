@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> Love and friendship exclude each other.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
