@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Laozi</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
