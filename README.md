@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
