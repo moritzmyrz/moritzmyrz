@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> A man is great by deeds, not by birth.
 >
-> <p>- Doug Horton</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
