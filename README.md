@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
 >
-> <p>- Albert Einstein</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
