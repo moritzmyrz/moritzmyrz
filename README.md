@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Olivier Messiaen</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
