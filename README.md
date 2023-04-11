@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
