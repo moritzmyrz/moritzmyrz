@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Charles Du Bos</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
