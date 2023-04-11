@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Mike Singletary (basketball)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
