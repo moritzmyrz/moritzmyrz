@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> From wonder into wonder existence opens.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
