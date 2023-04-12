@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Samuel Richardson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
