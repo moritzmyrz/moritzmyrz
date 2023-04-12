@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> Learning is finding out what you already know.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
