@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An appeaser is one who feeds a crocodile, hoping it will eat him last.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Winston Churchill</p>
+> <p>- Lin Yutang</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
