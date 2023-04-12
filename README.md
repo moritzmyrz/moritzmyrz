@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Lin Yutang</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
