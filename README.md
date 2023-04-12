@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Hank Aaron</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
