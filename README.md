@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
