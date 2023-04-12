@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> If there is no struggle, there is no progress.
 >
-> <p>- Confucius</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
