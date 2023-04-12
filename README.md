@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
 >
-> <p>- Epictetus</p>
+> <p>- Hank Aaron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
