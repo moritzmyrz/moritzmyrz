@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is when what you think, what you say, and what you do are in harmony.
+> Not all those who wander are lost.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
