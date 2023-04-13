@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
 >
-> <p>- Albert Camus</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
