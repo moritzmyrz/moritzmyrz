@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the flower you've got to let grow.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- John Lennon</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
