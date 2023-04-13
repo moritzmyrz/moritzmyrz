@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
