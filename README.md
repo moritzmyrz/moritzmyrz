@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
