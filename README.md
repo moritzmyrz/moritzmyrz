@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- John Steinbeck</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
