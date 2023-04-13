@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+> To climb steep hills requires a slow pace at first.
 >
-> <p>- Immanuel Kant</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
