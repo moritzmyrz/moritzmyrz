@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> Everything that happens as it should, and if you observe carefully, you will find this to be so.
 >
-> <p>- Earl Monroe</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
