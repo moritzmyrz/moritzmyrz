@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
