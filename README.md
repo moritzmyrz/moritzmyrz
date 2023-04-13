@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Havelock Ellis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
