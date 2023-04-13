@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- A. Powell Davies</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
