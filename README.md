@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Brian Tracy</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
