@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> There is nothing in a caterpillar that tells you it's going to be a butterfly.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
