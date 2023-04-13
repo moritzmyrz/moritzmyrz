@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- James Freeman Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
