@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Joseph Addison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
