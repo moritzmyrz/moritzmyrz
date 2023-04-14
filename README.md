@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Laozi</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
