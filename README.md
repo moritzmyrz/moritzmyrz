@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most I can do for my friend is simply be his friend.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
