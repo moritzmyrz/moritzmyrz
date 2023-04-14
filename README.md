@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom often times consists of knowing what to do next.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Herbert Hoover</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
