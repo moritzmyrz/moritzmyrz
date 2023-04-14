@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No bird soars too high if he soars with his own wings.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- William Blake</p>
+> <p>- Herman Melville</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
