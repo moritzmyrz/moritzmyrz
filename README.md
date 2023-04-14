@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
+> Life is what happens while you are making other plans.
 >
-> <p>- The Buddha</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
