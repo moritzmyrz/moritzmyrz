@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
