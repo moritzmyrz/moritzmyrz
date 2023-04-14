@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> Appearances are often deceiving.
 >
-> <p>- Winston Churchill</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
