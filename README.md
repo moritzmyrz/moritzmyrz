@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Aristotle</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
