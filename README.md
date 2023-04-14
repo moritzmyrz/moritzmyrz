@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> When you learn, teach. When you get, give.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
