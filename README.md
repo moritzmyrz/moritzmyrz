@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> No bird soars too high if he soars with his own wings.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
