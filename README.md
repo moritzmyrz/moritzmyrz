@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
