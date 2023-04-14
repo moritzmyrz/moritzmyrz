@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
+> Minds are like parachutes. They only function when open.
 >
-> <p>- A. A. Milne</p>
+> <p>- Thomas Dewar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
