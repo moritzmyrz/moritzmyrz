@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
