@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- John Lennon</p>
+> <p>- Zhuang Zhou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
