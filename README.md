@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When deeds and words are in accord, the whole world is transformed.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
