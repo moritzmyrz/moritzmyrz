@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> One today is worth two tomorrows.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
