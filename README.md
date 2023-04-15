@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never accept ultimatums, conventional wisdom, or absolutes.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
