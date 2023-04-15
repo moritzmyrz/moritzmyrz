@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To improve is to change; to be perfect is to change often.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Winston Churchill</p>
+> <p>- Loretta Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
