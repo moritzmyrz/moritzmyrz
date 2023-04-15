@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Yolanda Hadid</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
