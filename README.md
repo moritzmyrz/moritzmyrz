@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
