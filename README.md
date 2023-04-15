@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
