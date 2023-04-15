@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
 >
-> <p>- René Descartes</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
