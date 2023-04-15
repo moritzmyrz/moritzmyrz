@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Charles Eastman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
