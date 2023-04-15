@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Robert Schuller</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
