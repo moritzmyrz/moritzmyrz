@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Commitment is an act, not a word.
+> To improve is to change; to be perfect is to change often.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
