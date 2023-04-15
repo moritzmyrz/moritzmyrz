@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> <p>- Mother Teresa</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
