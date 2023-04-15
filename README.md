@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
