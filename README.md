@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
