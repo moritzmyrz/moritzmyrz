@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- The Buddha</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
