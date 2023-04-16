@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
