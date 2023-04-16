@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the middle of every difficulty lies opportunity.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- Albert Einstein</p>
+> <p>- Franz Grillparzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
