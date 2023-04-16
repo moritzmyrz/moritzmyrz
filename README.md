@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
 >
-> <p>- Epictetus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
