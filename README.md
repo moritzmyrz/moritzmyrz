@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> There is no great genius without some touch of madness.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
