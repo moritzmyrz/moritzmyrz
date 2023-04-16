@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Michelangelo</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
