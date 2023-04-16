@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meditate … do not delay, lest you later regret it.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- The Buddha</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
