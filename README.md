@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> In the middle of every difficulty lies opportunity.
 >
-> <p>- Washington Irving</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
