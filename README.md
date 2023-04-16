@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Sophocles</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
