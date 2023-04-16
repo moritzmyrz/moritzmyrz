@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Meditate … do not delay, lest you later regret it.
 >
-> <p>- Dalai Lama</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
