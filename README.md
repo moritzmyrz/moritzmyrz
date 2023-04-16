@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art of progress is to preserve order amid change, and to preserve change amid order.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Alfred North Whitehead</p>
+> <p>- Betty Friedan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
