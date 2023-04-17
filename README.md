@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
-> <p>- Confucius</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
