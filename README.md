@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
