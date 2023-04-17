@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
