@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> Knowing your own darkness is the best method for dealing with the darkness of other people.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
