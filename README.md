@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> Knowing is not enough; we must apply!
 >
-> <p>- Anatole France</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
