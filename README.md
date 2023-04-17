@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
 >
-> <p>- Judy Garland</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
