@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
 >
-> <p>- Walt Disney</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
