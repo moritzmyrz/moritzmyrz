@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
