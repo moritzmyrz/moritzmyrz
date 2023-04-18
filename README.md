@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> Your big opportunity may be right where you are now.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
