@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
