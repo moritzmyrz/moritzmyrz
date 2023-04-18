@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have not failed. I've just found 10,000 ways that won't work.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- Thomas Edison</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
