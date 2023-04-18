@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
