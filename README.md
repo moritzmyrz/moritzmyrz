@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
