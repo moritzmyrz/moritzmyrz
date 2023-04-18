@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> The pain passes, but the beauty remains.
 >
-> <p>- Dee Hock</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
