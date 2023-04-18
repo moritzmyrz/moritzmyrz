@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
