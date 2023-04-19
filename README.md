@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 >
-> <p>- Albert Einstein</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
