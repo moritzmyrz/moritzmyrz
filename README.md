@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The bird of paradise alights only upon the hand that does not grasp.
+> Reality leaves a lot to the imagination.
 >
-> <p>- John Berry</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
