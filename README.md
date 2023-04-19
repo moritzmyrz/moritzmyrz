@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All truths are easy to understand once they are discovered; the point is to discover them.
+> Reason and free inquiry are the only effectual agents against error.
 >
-> <p>- Galileo Galilei</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
