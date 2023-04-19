@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> At the center of your being, you have the answer; you know who you are, and you know what you want.
 >
-> <p>- Helen Keller</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
