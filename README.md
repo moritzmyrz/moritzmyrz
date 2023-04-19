@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- The Buddha</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
