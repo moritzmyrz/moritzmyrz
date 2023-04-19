@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- John Lennon</p>
+> <p>- Lucretius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
