@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fall of dropping water wears away the Stone.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Lucretius</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
