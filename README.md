@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> Do all things with love.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
