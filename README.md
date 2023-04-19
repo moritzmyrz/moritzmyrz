@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A goal without a plan is just a wish.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Larry Elder</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
