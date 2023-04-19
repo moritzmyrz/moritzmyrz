@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
