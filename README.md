@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Daniel J. Boorstin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
