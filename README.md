@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Anne Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
