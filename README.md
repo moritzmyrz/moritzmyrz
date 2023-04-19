@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
