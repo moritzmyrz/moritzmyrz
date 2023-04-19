@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
