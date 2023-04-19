@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
