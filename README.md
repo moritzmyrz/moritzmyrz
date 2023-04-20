@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Alan Watts</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
