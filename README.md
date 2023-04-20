@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
