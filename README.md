@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Andy Rooney</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
