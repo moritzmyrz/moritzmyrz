@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
+> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
 >
-> <p>- The Buddha</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
