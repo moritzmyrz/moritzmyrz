@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
