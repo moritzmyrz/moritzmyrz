@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can always count on Americans to do the right thing - after they've tried everything else.
+> Don't talk about what you have done or what you are going to do.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
