@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> It's important to know that words don't move mountains. Work, exacting work moves mountains.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Danilo Dolci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
