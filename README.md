@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> We shall never know all the good that a simple smile can do.
 >
-> <p>- Judy Garland</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
