@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
