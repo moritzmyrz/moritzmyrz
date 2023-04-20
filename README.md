@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
