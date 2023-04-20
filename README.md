@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> Courage is going from failure to failure without losing enthusiasm.
 >
-> <p>- Albert Camus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
