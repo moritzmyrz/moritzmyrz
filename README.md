@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> The ballot is stronger than the bullet.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
