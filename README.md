@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+> People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.
 >
-> <p>- Laozi</p>
+> <p>- Masayoshi Son</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
