@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> There is nothing in a caterpillar that tells you it's going to be a butterfly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
