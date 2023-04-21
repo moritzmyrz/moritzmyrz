@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> Happiness does not come from having much, but from being attached to little.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Cheng Yen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
