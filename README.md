@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- John Acosta</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
