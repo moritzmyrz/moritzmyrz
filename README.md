@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep silence for the most part, and speak only when you must, and then briefly.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Epictetus</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
