@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> You cannot have what you do not want.
 >
-> <p>- Paul Cézanne</p>
+> <p>- John Acosta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
