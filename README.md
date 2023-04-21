@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Stay committed to your decisions, but stay flexible in your approach.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Tony Robbins</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
