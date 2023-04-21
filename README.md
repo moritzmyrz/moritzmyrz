@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
