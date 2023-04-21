@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
