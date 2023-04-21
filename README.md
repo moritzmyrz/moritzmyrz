@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come from having much, but from being attached to little.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Cheng Yen</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
