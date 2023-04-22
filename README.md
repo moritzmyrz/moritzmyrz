@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Princess Diana</p>
+> <p>- Dhammapada</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
