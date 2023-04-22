@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
 >
-> <p>- The Buddha</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
