@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
