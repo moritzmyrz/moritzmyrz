@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> Only do what your heart tells you.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Princess Diana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
