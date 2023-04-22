@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
