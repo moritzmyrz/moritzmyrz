@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
+> I walk slowly, but I never walk backward.
 >
-> <p>- William C. Menninger</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
