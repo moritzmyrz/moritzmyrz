@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
+> First-rate people hire first-rate people; second-rate people hire third-rate people.
 >
-> <p>- Dan Gable</p>
+> <p>- Leo Rosten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
