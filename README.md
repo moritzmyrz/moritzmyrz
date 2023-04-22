@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
