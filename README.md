@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> There never was a good knife made of bad steel.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
