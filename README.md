@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> If there is no struggle, there is no progress.
 >
-> <p>- Thomas Edison</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
