@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Rollo May</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
