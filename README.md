@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There never was a good knife made of bad steel.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
