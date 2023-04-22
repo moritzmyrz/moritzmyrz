@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
 >
-> <p>- Plutarch</p>
+> <p>- Rollo May</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
