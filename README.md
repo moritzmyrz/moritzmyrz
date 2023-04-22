@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> Peace begins with a smile.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
