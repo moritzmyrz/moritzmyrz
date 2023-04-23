@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
