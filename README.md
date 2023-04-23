@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- John Barrymore</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
