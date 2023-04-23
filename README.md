@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
