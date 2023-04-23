@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can do it if you believe you can!
+> We don't stop playing because we grow old; we grow old because we stop playing.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
