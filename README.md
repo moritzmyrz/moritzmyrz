@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> You can do it if you believe you can!
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
