@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A rolling stone gathers no moss.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Publilius Syrus</p>
+> <p>- John Barrymore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
