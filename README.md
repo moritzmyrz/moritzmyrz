@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- William Wordsworth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
