@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
