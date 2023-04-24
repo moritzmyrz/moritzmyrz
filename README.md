@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To conquer fear is the beginning of wisdom.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
