@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
