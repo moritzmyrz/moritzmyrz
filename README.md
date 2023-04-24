@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god.
+> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
 >
-> <p>- Alan Watts</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
