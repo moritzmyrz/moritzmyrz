@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> Never mistake motion for action.
 >
-> <p>- H. G. Wells</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
