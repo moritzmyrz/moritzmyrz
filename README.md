@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
