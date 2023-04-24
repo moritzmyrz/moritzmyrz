@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Walter Benjamin</p>
+> <p>- H. G. Wells</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
