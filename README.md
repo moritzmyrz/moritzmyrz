@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Jean Cocteau</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
