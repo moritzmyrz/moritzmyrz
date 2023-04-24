@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> Creativity comes from trust. Trust your instincts. And never hope more than you work.
 >
-> <p>- Rumi</p>
+> <p>- Rita Mae Brown</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
