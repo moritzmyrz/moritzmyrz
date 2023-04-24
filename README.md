@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> I will prepare and some day my chance will come.
 >
-> <p>- John Burroughs</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
