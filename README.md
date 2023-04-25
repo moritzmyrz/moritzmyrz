@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
