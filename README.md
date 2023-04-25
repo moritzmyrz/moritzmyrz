@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Satchel Paige</p>
+> <p>- Mignon McLaughlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
