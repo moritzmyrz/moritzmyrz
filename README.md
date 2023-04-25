@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has been my experience that folks who have no vices have very few virtues.
+> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
