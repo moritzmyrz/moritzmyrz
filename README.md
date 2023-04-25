@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Denis Waitley</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
