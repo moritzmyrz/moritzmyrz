@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
 >
-> <p>- Bruce Lee</p>
+> <p>- Herbert Bayard Swope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
