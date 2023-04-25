@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
