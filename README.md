@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
