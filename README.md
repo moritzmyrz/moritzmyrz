@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
