@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 >
-> <p>- Isocrates</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
