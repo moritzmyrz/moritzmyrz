@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all something, but none of us are everything.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
