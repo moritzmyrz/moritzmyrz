@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
