@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Richard Bach</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
