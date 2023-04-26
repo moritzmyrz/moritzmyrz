@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> Make the most of yourself, for that is all there is of you.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
