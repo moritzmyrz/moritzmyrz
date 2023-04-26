@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All truths are easy to understand once they are discovered; the point is to discover them.
+> There is nothing permanent except change.
 >
-> <p>- Galileo Galilei</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
