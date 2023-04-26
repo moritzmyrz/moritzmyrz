@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
