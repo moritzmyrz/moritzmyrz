@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
