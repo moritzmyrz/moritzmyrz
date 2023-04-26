@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
