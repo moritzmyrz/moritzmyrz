@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> Efficiency is doing things right; effectiveness is doing the right things.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
