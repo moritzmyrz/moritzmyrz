@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Cicero</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
