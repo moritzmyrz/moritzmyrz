@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
