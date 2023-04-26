@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing permanent except change.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Heraclitus</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
