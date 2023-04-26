@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Bill Bradley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
