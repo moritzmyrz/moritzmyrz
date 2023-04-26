@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+> We should all be thankful for those people who rekindle the inner spirit.
 >
-> <p>- Albert Einstein</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
