@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is Love without his wings!
+> The greatest obstacle to connecting with our joy is resentment.
 >
-> <p>- Lord Byron</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
