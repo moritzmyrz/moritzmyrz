@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> Nothing but heaven itself is better than a friend who is really a friend.
 >
-> <p>- Peter Drucker</p>
+> <p>- Plautus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
