@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most I can do for my friend is simply be his friend.
+> 'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
