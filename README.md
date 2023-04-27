@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> He that is giddy thinks the world turns round.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
