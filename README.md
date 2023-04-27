@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest obstacle to connecting with our joy is resentment.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
