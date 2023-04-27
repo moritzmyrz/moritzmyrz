@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> One fails forward toward success.
 >
-> <p>- Winston Churchill</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
