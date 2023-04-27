@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
