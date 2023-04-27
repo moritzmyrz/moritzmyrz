@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
