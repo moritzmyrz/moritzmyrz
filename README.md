@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- Doris Mortman</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
