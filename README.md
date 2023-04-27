@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
