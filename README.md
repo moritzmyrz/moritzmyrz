@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Laozi</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
