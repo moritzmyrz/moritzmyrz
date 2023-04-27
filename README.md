@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Mark Twain</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
