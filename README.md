@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ardently do today what must be done. Who knows? Tomorrow, death comes.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- The Buddha</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
