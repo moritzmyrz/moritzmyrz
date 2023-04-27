@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Pope Paul VI</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
