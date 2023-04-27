@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> The most I can do for my friend is simply be his friend.
 >
-> <p>- Francis Bacon</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
