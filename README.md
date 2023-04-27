@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
