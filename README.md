@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
