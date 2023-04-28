@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
+> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
 >
-> <p>- The Buddha</p>
+> <p>- Paul Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
