@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Laozi</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
