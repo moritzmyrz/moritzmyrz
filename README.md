@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Mao Zedong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
