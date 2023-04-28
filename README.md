@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Norman Cousins</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
