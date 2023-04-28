@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> Excellence is to do a common thing in an uncommon way.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
