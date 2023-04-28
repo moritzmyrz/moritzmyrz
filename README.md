@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
