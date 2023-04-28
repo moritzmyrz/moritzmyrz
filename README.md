@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our work is the presentation of our capabilities.
+> Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
