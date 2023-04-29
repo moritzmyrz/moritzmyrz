@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Winston Churchill</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
