@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
