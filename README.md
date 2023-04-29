@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Almost everything comes from nothing.
 >
-> <p>- Carl Jung</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
