@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> We must become the change we want to see.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
