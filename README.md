@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
