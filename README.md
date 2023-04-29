@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- Dalai Lama</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
