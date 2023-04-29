@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Bad times have a scientific value. These are occasions a good learner would not miss.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
