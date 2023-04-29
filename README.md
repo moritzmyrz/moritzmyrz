@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> Pitching is the art of instilling fear.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
