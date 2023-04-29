@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Sun Tzu</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
