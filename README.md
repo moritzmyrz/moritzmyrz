@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Bruce Lee</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
