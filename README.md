@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> Friendship is always a sweet responsibility, never an opportunity.
 >
-> <p>- Mother Teresa</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
