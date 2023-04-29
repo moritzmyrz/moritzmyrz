@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
