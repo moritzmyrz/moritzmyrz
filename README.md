@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
 >
-> <p>- Alan Watts</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
