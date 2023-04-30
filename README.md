@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> Resolutely train yourself to attain peace.
 >
-> <p>- Epictetus</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
