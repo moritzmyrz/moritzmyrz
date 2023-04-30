@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
