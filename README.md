@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Grandma Moses</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
