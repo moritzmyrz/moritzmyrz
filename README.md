@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
