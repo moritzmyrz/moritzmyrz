@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Loretta Young</p>
+> <p>- Grandma Moses</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
