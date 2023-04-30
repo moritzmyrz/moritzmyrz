@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Resolutely train yourself to attain peace.
+> All serious daring starts from within.
 >
-> <p>- The Buddha</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
