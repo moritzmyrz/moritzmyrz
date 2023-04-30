@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> Difficulties are things that show a person what they are.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
