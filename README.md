@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Tony Robbins</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
