@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> The ladder of success is never crowded at the top.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
