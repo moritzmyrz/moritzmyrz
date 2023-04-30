@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
