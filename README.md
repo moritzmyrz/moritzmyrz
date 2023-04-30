@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> Honesty is the first chapter in the book of wisdom.
 >
-> <p>- Richard Bach</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
