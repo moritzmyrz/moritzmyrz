@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is a word that describes something that doesn't work yet.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- Douglas Adams</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
