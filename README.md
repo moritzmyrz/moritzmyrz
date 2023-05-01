@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> The doors of wisdom are never shut.
 >
-> <p>- Sun Tzu</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
