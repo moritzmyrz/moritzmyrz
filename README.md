@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
