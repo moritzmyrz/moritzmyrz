@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- Bruce Lee</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
