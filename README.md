@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Technology is a word that describes something that doesn't work yet.
 >
-> <p>- Laozi</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
