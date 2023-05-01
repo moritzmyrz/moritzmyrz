@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Hugo Black</p>
+> <p>- Norman Schwarzkopf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
