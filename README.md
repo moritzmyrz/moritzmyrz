@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
