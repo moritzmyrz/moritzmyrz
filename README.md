@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way out is always through.
+> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
 >
-> <p>- Robert Frost</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
