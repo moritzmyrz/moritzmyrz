@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- Albert Einstein</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
