@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
+> The calmed say that what is well-spoken is best; second, that one should say what is right, not unrighteous; third, what's pleasing, not displeasing; fourth, what is true, not false.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
