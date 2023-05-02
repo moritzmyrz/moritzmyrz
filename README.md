@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
