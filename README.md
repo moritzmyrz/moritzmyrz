@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> Cleverness is not wisdom.
 >
-> <p>- Charles Dickens</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
