@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
