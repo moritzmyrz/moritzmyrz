@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
