@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Aristotle</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
