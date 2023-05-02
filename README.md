@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing but heaven itself is better than a friend who is really a friend.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- Plautus</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
