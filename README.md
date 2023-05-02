@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
