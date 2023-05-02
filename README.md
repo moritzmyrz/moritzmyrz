@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
