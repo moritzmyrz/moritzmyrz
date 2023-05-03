@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Erasmus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
