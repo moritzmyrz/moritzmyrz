@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing nothing is better than being busy doing nothing.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Laozi</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
