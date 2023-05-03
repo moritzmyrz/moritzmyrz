@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- John Muir</p>
+> <p>- Volker Grassmuck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
