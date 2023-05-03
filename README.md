@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Charles Dickens</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
