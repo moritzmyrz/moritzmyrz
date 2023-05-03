@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
