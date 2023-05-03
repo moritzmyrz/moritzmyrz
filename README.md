@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Bo Jackson</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
