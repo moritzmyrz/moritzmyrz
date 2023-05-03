@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
