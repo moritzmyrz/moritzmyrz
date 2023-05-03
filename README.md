@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+> Wisdom begins at the end.
 >
-> <p>- Robert Schuller</p>
+> <p>- Daniel Webster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
