@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
