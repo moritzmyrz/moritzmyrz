@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
