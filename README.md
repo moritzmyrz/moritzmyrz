@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
