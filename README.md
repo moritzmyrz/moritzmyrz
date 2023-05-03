@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Isocrates</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
