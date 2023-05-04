@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Richard Whately</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
