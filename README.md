@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- Cicero</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
