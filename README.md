@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ravi Zacharias</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
