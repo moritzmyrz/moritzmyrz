@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom comes alone through suffering.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Aeschylus</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
