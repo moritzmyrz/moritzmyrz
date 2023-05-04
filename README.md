@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
