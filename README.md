@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
