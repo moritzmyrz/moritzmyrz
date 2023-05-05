@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> Life is really simple, but we insist on making it complicated.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
