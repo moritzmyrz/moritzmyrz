@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> Technology made large populations possible; large populations now make technology indispensable.
 >
-> <p>- William Blake</p>
+> <p>- Joseph Wood Krutch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
