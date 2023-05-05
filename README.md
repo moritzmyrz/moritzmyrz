@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Nikola Tesla</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
