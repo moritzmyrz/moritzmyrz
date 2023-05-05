@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Confucius</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
