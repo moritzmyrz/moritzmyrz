@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
