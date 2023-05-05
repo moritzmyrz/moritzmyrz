@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> Wisdom is found only in truth.
 >
-> <p>- Ralph Marston</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
