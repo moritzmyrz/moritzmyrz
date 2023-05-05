@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Bob Knight</p>
+> <p>- Gustave Flaubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
