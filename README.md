@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology made large populations possible; large populations now make technology indispensable.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Joseph Wood Krutch</p>
+> <p>- Bob Knight</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
