@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
+> I have not failed. I've just found 10,000 ways that won't work.
 >
-> <p>- The Buddha</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
