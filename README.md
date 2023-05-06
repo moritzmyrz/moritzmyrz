@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Albert Camus</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
