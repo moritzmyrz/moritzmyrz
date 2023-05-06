@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
