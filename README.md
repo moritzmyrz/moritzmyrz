@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 >
-> <p>- J. Paul Getty</p>
+> <p>- Bill Bradley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
