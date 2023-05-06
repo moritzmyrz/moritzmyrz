@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To avoid criticism, do nothing, say nothing, be nothing.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
