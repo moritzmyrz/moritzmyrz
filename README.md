@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Try not to become a man of success, but rather try to become a man of value.
+> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
