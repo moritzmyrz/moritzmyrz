@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Alan Watts</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
