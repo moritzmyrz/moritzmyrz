@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader is one who knows the way, goes the way, and shows the way.
+> Love is the flower you've got to let grow.
 >
-> <p>- John C. Maxwell</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
