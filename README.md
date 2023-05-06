@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Mountains cannot be surmounted except by winding paths.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
