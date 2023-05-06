@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
