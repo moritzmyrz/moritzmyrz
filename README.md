@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- John Dewey</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
