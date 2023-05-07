@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
