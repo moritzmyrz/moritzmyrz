@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- The Buddha</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
