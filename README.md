@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- William Saroyan</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
