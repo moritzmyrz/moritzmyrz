@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Albert Einstein</p>
+> <p>- Lucretius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
