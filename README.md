@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
 >
-> <p>- Francis Bacon</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
