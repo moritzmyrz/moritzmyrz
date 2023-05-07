@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
