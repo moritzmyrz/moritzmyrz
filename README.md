@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> If you have knowledge, let others light their candles in it.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Margaret Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
