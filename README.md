@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Saroyan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
