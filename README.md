@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Plato</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
