@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
