@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
 >
-> <p>- Thomas Edison</p>
+> <p>- Lisa Alther</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
