@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- John Bercow</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
