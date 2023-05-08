@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We cannot be more sensitive to pleasure without being more sensitive to pain.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Alan Watts</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
