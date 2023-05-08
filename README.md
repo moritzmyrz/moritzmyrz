@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Lisa Alther</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
