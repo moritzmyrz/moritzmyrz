@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no fear for one whose mind is not filled with desires.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- The Buddha</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
