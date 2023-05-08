@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
