@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Confucius</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
