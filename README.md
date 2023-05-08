@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
