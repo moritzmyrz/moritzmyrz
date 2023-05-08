@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Carrie Snow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
