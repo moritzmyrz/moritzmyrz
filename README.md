@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Sun Tzu</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
