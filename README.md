@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+> The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Henri Nouwen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
