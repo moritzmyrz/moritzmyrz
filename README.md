@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Robert Schuller</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
