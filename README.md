@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Man Ray</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
