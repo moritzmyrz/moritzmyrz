@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
