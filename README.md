@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Carl Jung</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
