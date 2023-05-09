@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> Learning without reflection is a waste, reflection without learning is dangerous.
 >
-> <p>- Aristotle</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
