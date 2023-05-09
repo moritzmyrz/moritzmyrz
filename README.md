@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
+> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 >
-> <p>- Ravi Zacharias</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
