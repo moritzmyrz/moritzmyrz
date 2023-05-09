@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> To see things in the seed, that is genius.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
