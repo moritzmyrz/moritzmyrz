@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Jim Rohn</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
