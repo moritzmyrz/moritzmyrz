@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Voltaire</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
