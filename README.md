@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Lucille Ball</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
