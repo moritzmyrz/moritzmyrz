@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
