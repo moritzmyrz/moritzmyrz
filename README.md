@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you care, the stronger you can be.
+> Imagination rules the world.
 >
-> <p>- Jim Rohn</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
