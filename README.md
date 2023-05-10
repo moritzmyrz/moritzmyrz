@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> May our hearts garden of awakening bloom with hundreds of flowers.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
