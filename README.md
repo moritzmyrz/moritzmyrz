@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Joan Rivers</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
