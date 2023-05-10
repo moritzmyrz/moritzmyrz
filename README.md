@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
