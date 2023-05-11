@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep your face always toward the sunshine - and shadows will fall behind you.
+> We must become the change we want to see.
 >
-> <p>- Walt Whitman</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
