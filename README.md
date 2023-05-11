@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> Friendship is one mind in two bodies.
 >
-> <p>- Grandma Moses</p>
+> <p>- Mencius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
