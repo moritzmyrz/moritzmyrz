@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is one mind in two bodies.
+> Keep your face always toward the sunshine - and shadows will fall behind you.
 >
-> <p>- Mencius</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
