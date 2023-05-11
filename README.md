@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> The least of things with a meaning is worth more in life than the greatest of things without it.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
