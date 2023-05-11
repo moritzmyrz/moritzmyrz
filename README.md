@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Cleverness is not wisdom.
 >
-> <p>- Dalai Lama</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
