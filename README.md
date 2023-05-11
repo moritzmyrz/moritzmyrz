@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Anatole France</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
