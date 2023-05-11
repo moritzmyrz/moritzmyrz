@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Lucille Ball</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
