@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The young man knows the rules, but the old man knows the exceptions.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
