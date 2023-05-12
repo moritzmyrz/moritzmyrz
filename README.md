@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- George Santayana</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
