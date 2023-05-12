@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
