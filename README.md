@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
