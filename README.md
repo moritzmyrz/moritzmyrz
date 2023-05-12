@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
 >
-> <p>- Anatole France</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
