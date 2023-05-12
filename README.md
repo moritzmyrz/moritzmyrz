@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- Jimmy Dean</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
