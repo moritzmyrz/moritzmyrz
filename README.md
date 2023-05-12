@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time is the most valuable thing a man can spend.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Theophrastus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
