@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> No man was ever wise by chance.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
