@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Marie Curie</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
