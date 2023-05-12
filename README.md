@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is Love without his wings!
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Lord Byron</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
