@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
