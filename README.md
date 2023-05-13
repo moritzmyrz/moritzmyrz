@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to a better understanding of ourselves.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Carl Jung</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
