@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> Value your friendship. Value your relationships.
 >
-> <p>- Woody Allen</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
