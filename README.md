@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.
 >
-> <p>- Laozi</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
