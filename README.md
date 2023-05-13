@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> Wherever you go, go with all your heart.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
