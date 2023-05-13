@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- Confucius</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
