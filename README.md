@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> Everything that irritates us about others can lead us to a better understanding of ourselves.
 >
-> <p>- Mark Twain</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
