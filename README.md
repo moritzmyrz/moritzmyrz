@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> You're never a loser until you quit trying.
 >
-> <p>- Winston Churchill</p>
+> <p>- Mike Ditka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
