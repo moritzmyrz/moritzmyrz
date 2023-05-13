@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> You won't skid if you stay in a rut.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
