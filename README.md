@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
