@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> Life is a succession of lessons, which must be lived to be understood.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
