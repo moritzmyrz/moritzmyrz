@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Denis Waitley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
