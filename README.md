@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of lessons, which must be lived to be understood.
+> Whoever is happy will make others happy, too.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
