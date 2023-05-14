@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to a better understanding of ourselves.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Carl Jung</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
