@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
 >
-> <p>- Alexis Carrel</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
