@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
