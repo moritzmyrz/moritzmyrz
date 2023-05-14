@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
