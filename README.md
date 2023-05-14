@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone thinks of changing the world, but no one thinks of changing himself.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
