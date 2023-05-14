@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
