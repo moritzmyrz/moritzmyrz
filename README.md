@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> Everything that irritates us about others can lead us to a better understanding of ourselves.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
