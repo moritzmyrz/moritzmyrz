@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> One today is worth two tomorrows.
 >
-> <p>- Albert Einstein</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
