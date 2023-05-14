@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> But man is not made for defeat. A man can be destroyed but not defeated.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
