@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Plato</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
