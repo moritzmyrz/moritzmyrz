@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trouble is only opportunity in work clothes.
+> It's better to be a lion for a day than a sheep all your life.
 >
-> <p>- Henry J. Kaiser</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
