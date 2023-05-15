@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.
 >
-> <p>- Carl Jung</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
