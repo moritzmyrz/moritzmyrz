@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- John Lennon</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
