@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Denis Waitley</p>
+> <p>- Daniel J. Boorstin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
