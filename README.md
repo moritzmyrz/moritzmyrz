@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> Life is what happens while you are making other plans.
 >
-> <p>- Dr. Seuss</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
