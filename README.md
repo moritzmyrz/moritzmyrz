@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Sun Tzu</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
