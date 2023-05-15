@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Aesop</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
