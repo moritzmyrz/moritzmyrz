@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
