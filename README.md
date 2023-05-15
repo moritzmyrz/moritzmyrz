@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.
+> Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
 >
-> <p>- James Gleick</p>
+> <p>- Pauline Kael</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
