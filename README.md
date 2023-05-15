@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Will Rogers</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
