@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> Once you choose hope, anything's possible.
 >
-> <p>- Henri Bergson</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
