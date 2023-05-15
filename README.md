@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Peter Abelard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
