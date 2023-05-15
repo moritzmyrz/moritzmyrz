@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- The Buddha</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
