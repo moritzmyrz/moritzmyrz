@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> Luck is what happens when preparation meets opportunity.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
