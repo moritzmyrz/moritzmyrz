@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> Technology made large populations possible; large populations now make technology indispensable.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Joseph Wood Krutch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
