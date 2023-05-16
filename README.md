@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- Helen Keller</p>
+> <p>- Harold Geneen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
