@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't watch the clock; do what it does. Keep going.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Sam Levenson</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
