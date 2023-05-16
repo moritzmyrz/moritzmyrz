@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> Almost everything comes from nothing.
 >
-> <p>- Confucius</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
