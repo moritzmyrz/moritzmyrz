@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology made large populations possible; large populations now make technology indispensable.
+> The person born with a talent they are meant to use will find their greatest happiness in using it.
 >
-> <p>- Joseph Wood Krutch</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
