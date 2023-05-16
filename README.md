@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Albert Einstein</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
