@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The deepest craving of human nature is the need to be appreciated.
+> The only journey is the one within.
 >
-> <p>- William James</p>
+> <p>- Rainer Maria Rilke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
