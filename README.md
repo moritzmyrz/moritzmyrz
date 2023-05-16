@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
