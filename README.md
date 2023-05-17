@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Sidney Hook</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
