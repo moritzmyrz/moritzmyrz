@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
