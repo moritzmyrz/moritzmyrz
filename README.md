@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- The Buddha</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
