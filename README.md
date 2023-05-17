@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
