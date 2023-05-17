@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
+> We cannot solve our problems with the same thinking we used when we created them.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
