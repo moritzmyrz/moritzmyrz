@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Maya Angelou</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
