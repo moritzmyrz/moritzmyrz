@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
 >
-> <p>- Anne Bradstreet</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
