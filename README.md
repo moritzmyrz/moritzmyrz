@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> Don't talk about what you have done or what you are going to do.
 >
-> <p>- Mother Teresa</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
