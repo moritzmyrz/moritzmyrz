@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
 >
-> <p>- Lucille Ball</p>
+> <p>- Hannah Szenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
