@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time changes everything except something within us which is always surprised by change.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- Thomas Hardy</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
