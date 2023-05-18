@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> Never promise more than you can perform.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
