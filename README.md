@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- The Buddha</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
