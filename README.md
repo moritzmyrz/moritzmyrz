@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is the true friend that never betrays.
+> In life, all good things come hard, but wisdom is the hardest to come by.
 >
-> <p>- Confucius</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
