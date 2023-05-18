@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
