@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A business that makes nothing but money is a poor business.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Henry Ford</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
