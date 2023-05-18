@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> There are people who have money and people who are rich.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
