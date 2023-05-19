@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
