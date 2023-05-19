@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- Dalai Lama</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
