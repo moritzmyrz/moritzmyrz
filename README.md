@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Confucius</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
