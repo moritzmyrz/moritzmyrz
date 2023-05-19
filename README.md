@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
