@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> The only way to have a friend is to be one.
 >
-> <p>- Mao Zedong</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
