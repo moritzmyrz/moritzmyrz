@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No garden is without its weeds.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
