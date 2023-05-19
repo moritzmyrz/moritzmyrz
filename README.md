@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
