@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
