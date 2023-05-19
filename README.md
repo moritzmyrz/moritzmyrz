@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are people who have money and people who are rich.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Coco Chanel</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
