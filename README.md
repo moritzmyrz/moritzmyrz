@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- Mark Twain</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
