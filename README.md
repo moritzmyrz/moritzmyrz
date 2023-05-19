@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Dalai Lama</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
