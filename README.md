@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Robert Southey</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
