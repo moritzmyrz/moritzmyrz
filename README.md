@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
