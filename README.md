@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Laozi</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
