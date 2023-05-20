@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
