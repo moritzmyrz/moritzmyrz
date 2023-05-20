@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God has given you one face, and you make yourself another.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- William Shakespeare</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
