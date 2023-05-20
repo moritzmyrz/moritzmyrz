@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> One today is worth two tomorrows.
 >
-> <p>- Frank Herbert</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
