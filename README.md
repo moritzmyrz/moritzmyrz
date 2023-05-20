@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most formidable weapon against errors of every kind is reason.
+> A wise man will make more opportunities than he finds.
 >
-> <p>- Thomas Paine</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
