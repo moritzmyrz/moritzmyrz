@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Half the lies they tell about me aren't true.
+> Many men go fishing all of their lives without knowing that it is not fish they are after.
 >
-> <p>- Yogi Berra</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
