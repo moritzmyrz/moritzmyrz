@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learn from yesterday, live for today, hope for tomorrow.
+> The most I can do for my friend is simply be his friend.
 >
-> <p>- Albert Einstein</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
