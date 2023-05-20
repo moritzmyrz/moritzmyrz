@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Frank Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
