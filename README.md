@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
