@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
