@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
