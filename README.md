@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- Helen Keller</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
