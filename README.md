@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
 >
-> <p>- Albert Camus</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
