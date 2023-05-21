@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Whoso loves, believes the impossible.
 >
-> <p>- George Eliot</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
