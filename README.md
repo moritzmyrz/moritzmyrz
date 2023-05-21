@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Doug Larson</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
