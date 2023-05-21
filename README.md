@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Charles Dickens</p>
+> <p>- Milton Berle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
