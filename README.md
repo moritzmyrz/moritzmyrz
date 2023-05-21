@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Og Mandino</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
