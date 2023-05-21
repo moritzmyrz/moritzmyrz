@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who conquers others is strong; He who conquers himself is mighty.
+> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
 >
-> <p>- Laozi</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
