@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- Sam Levenson</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
