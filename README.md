@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
