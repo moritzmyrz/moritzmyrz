@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> Resolutely train yourself to attain peace.
 >
-> <p>- Will Durant</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
