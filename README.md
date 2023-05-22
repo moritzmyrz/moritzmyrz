@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
