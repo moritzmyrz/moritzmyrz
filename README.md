@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
