@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Alexander Pope</p>
+> <p>- Martha Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
