@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing but heaven itself is better than a friend who is really a friend.
+> Those who are free of resentful thoughts surely find peace.
 >
-> <p>- Plautus</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
