@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
 >
-> <p>- M. Scott Peck</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
