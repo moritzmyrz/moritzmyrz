@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> Never find fault with the absent.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
