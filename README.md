@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Martha Washington</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
