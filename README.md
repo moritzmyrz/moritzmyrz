@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
