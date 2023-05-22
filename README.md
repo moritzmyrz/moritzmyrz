@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
+> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- M. Scott Peck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
