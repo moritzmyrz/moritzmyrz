@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
 > <p>- Sophocles</p>
 
