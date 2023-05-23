@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Confucius</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
