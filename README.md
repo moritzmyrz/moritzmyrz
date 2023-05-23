@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- Marcel Proust</p>
+> <p>- Warren Bennis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
