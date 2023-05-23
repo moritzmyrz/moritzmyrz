@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> Maxim for life: You get treated in life the way you teach people to treat you.
 >
-> <p>- Rose Kennedy</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
