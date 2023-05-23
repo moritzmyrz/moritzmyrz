@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
