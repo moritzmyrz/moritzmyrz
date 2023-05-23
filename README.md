@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
