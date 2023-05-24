@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
