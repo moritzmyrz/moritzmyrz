@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Sophocles</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
