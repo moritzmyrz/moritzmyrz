@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Doris Day</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
