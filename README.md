@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Dalai Lama</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
