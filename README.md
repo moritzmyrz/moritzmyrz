@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You might well remember that nothing can bring you success but yourself.
+> Value your friendship. Value your relationships.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
