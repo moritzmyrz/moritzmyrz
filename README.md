@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
