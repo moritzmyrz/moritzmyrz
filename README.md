@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
+> By accepting yourself and being fully what you are, your presence can make others happy.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Jane Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
