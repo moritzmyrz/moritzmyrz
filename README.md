@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> You might well remember that nothing can bring you success but yourself.
 >
-> <p>- The Buddha</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
