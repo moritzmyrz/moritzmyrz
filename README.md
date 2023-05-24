@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
