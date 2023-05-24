@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> Nothing will work unless you do.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
