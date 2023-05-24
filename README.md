@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
