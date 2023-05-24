@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
 >
-> <p>- Cicero</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
