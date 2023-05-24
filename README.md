@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By accepting yourself and being fully what you are, your presence can make others happy.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 >
-> <p>- Jane Roberts</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
