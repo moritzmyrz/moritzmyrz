@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I do good I feel good, when I do bad I feel bad, and that's my religion.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Doris Day</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
