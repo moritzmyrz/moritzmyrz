@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want your life to be more rewarding, you have to change the way you think.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
