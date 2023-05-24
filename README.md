@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
