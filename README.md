@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science gives us knowledge, but only philosophy can give us wisdom.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Will Durant</p>
+> <p>- Marilyn vos Savant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
