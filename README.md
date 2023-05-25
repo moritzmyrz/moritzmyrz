@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> A short saying often contains much wisdom.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
