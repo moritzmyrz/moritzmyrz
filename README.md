@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> Being entirely honest with oneself is a good exercise.
 >
-> <p>- Man Ray</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
