@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't leave a stone unturned. It's always something, to know you have done the most you could.
+> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
 >
-> <p>- Charles Dickens</p>
+> <p>- Tryon Edwards</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
