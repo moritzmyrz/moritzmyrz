@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Jane Austen</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
