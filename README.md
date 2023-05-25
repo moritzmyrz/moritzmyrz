@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
 >
-> <p>- Sophocles</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
