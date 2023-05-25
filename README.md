@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Mother Angelica</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
