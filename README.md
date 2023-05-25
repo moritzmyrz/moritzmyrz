@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Max Planck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
