@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- William James</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
