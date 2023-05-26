@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> Most people never run far enough on their first wind to find out they've got a second.
 >
-> <p>- Helen Keller</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
