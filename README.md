@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Liberty, taking the word in its concrete sense, consists in the ability to choose.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- Simone Weil</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
