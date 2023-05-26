@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
 >
-> <p>- Ben Hogan</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
