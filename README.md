@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
