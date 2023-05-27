@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Think for yourselves and let others enjoy the privilege to do so too.
 >
-> <p>- Walter Winchell</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
