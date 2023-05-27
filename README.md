@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Henry Miller</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
