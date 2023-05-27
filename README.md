@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- William Shakespeare</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
