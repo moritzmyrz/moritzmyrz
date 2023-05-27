@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> When the solution is simple, God is answering.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
