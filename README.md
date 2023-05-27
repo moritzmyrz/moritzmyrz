@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Voltaire</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
