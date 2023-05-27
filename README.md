@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom consists of the anticipation of consequences.
+> Having nothing, nothing can he lose.
 >
-> <p>- Norman Cousins</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
