@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Harold Nicolson</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
