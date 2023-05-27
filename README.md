@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- Albert Einstein</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
