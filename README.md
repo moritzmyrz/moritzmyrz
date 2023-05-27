@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All I can say about life is, Oh God, enjoy it!
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Bob Newhart</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
