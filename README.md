@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Sidney Hook</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
