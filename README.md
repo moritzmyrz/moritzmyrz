@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
