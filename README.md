@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> All I can say about life is, Oh God, enjoy it!
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Bob Newhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
