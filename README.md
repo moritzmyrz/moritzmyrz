@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man watches three football games in a row, he should be declared legally dead.
+> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
 >
-> <p>- Erma Bombeck</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
