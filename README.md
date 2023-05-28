@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Bruce Lee</p>
+> <p>- John Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
