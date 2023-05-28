@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> History will be kind to me for I intend to write it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
