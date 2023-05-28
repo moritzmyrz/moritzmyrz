@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> If a man watches three football games in a row, he should be declared legally dead.
 >
-> <p>- Bruce Lee</p>
+> <p>- Erma Bombeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
