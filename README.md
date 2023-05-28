@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Thornton Wilder</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
