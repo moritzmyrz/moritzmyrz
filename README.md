@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ethics change with technology.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Larry Niven</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
