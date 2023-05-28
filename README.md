@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
 >
-> <p>- Mike Ditka</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
