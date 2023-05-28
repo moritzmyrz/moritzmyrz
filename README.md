@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Margaret Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
