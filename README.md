@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History will be kind to me for I intend to write it.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Winston Churchill</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
