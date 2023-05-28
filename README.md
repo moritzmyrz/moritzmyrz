@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
