@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> A friend in power is a friend lost.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- Henry Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
