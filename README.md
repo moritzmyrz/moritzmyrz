@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> Applause is a receipt, not a bill.
 >
-> <p>- Plato</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
