@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest mistake you can make in life is to be continually fearing you will make one.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
