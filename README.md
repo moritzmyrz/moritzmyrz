@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> To avoid criticism, do nothing, say nothing, be nothing.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
