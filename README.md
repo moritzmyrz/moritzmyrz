@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- Laozi</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
