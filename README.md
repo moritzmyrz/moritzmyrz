@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> Wise men speak because they have something to say; Fools because they have to say something.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
