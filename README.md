@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Erasmus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
