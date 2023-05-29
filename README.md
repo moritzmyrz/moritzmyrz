@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A single lamp may light hundreds of thousands of lamps without itself being diminished.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- The Buddha</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
