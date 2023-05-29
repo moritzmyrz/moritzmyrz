@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> Thought is the blossom; language the bud; action the fruit behind it.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
