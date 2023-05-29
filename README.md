@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
