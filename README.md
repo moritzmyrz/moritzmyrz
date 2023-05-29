@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Alan Watts</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
