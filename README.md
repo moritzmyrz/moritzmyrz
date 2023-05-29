@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> Never promise more than you can perform.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
