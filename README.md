@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Confucius</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
