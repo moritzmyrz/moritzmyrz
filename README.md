@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> Our distrust is very expensive.
 >
-> <p>- Casey Stengel</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
