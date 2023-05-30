@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> There are three faithful friends - an old wife, an old dog, and ready money.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
