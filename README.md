@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's the little details that are vital. Little things make big things happen.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- John Wooden</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
