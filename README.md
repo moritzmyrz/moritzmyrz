@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't look out there for God, something in the sky, you look in you.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- Alan Watts</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
