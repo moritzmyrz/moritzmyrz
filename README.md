@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> I have not failed. I've just found 10,000 ways that won't work.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
