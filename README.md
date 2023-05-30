@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our distrust is very expensive.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
