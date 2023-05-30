@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Phil Jackson</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
