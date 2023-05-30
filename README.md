@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Socrates</p>
+> <p>- Casey Stengel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
