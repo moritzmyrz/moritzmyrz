@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> You just can't beat the person who never gives up.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
