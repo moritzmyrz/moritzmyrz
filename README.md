@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
