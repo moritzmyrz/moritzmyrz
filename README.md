@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.
 >
-> <p>- Confucius</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
