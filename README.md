@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
