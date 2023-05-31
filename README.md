@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
