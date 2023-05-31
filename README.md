@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Epictetus</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
