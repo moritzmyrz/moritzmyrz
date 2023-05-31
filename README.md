@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's most persistent and urgent question is, 'What are you doing for others?'
+> Sooner or later, those who win are those who think they can.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
