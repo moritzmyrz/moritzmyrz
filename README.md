@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
