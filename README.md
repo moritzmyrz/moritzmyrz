@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> Do something wonderful, people may imitate it.
 >
-> <p>- Walter Scott</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
