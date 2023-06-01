@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>- Thomas à Kempis</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
