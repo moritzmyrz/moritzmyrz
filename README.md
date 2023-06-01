@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Tony Robbins</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
