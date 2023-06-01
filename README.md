@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> I never did a day's work in my life.  It was all fun.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
