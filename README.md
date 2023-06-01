@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
