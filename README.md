@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
