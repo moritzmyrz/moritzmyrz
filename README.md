@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
