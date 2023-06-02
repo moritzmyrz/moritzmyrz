@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
 >
-> <p>- Lou Holtz</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
