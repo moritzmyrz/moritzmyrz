@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Arriving at one point is the starting point to another.
+> It is not in the stars to hold our destiny but in ourselves.
 >
-> <p>- John Dewey</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
