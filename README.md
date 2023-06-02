@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.
+> Arriving at one point is the starting point to another.
 >
-> <p>- Cicero</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
