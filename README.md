@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
