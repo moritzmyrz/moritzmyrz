@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Dalai Lama</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
