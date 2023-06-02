@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Carl Jung</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
