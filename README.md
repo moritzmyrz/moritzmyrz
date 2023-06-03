@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> The cautious seldom err.
 >
-> <p>- Ralph Marston</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
