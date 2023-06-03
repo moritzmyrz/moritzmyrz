@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> Wherever a man turns he can find someone who needs him.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
