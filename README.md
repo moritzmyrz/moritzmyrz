@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Albert Einstein</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
