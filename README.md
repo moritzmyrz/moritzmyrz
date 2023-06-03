@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 >
-> <p>- Ansel Adams</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
