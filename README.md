@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Jane Austen</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
