@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
