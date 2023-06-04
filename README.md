@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Hank Aaron</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
