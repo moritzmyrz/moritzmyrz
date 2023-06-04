@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Cicero</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
