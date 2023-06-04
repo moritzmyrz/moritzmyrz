@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our distrust is very expensive.
+> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Hank Aaron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
