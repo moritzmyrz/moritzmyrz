@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Tony Robbins</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
