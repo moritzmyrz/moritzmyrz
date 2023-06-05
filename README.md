@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
