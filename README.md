@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Mark Twain</p>
+> <p>- Norman Schwarzkopf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
