@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Etty Hillesum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
