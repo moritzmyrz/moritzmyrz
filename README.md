@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
