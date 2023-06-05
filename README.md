@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Minds are like parachutes. They only function when open.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Thomas Dewar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
