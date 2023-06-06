@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
