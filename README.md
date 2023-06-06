@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Whoopi Goldberg</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
