@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
