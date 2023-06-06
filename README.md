@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> You can't choose up sides on a round world.
 >
-> <p>- John Pierrakos</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
