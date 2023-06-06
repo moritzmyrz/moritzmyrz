@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.
+> Go put your creed into the deed. Nor speak with double tongue.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
