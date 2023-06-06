@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- George Herbert</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
