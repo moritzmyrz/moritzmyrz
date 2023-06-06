@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
 >
-> <p>- Dalai Lama</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
