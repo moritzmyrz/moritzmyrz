@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Niccolò Machiavelli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
