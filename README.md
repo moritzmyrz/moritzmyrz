@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
