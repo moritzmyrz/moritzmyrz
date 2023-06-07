@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Feeling and longing are the motive forces behind all human endeavor and human creations.
+> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sam Walton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
