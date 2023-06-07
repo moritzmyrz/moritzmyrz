@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- Torquato Tasso</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
