@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+> To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.
 >
-> <p>- Dalai Lama</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
