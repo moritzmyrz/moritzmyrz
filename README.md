@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Richard Bach</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
