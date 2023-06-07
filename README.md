@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Winston Churchill</p>
+> <p>- William Wordsworth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
