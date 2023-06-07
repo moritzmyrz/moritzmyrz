@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
