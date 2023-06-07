@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
