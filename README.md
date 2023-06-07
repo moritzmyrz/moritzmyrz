@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Joseph Addison</p>
+> <p>- Max Planck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
