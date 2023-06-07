@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is oftentimes nearer when we stoop than when we soar.
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- William Wordsworth</p>
+> <p>- Joseph Addison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
