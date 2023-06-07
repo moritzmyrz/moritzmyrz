@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> We can only learn to love by loving.
 >
-> <p>- William Blake</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
