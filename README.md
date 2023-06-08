@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Mark Twain</p>
+> <p>- Carol Burnett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
