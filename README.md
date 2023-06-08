@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- Carol Burnett</p>
+> <p>- Nora Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
