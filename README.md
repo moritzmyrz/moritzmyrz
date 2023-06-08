@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Isocrates</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
