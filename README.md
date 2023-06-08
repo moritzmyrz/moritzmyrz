@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
 >
-> <p>- Babe Ruth</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
