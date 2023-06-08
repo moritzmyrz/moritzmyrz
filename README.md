@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man understands what is right; the inferior man understands what will sell.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Confucius</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
