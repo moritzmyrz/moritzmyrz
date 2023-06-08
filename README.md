@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- William Blake</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
