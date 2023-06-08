@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 >
-> <p>- Doris Mortman</p>
+> <p>- Julian Casablancas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
