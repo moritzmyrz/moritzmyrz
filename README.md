@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jack Welch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
