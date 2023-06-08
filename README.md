@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- George Herbert</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
