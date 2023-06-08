@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Henri Bergson</p>
+> <p>- Etty Hillesum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
