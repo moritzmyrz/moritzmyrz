@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Etty Hillesum</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
