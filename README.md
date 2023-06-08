@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
 >
-> <p>- Jack Welch</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
