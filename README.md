@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 >
-> <p>- John Powell</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
