@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- John Keats</p>
+> <p>- Volker Grassmuck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
