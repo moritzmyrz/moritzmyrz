@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> Only put off until tomorrow what you are willing to die having left undone.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
