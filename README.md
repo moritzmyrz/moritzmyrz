@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> Allow the world to live as it chooses, and allow yourself to live as you choose.
 >
-> <p>- John Muir</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
