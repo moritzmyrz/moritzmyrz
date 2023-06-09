@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
