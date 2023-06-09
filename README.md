@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is a serious mental disease.
+> Formula for success: under promise and over deliver.
 >
-> <p>- Plato</p>
+> <p>- Tom Peters</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
