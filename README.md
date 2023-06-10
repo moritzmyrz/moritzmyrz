@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man cannot be said to succeed in this life who does not satisfy one friend.
+> You were not born a winner, and you were not born a loser. You are what you make yourself be.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
