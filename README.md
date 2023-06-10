@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> What we see depends mainly on what we look for.
 >
-> <p>- Léon Blum</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
