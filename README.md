@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Tony Robbins</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
