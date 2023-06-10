@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Confucius</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
