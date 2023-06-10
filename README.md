@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- Albert Einstein</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
