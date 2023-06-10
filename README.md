@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> Effort only fully releases its reward after a person refuses to quit.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
