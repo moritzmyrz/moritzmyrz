@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
