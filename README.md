@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> The world is but a canvas to the imagination.
 >
-> <p>- Walt Disney</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
