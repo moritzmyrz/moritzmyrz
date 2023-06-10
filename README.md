@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
