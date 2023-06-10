@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
