@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> <p>- Woody Allen</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
