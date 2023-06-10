@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
