@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Albert Einstein</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
