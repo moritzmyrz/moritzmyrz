@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- John Lubbock</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
