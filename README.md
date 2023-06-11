@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- John Adams</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
