@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> To listen well is as powerful a means of communication and influence as to talk well.
 >
-> <p>- Chanakya</p>
+> <p>- John Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
