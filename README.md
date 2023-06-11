@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
 >
-> <p>- Henri Bergson</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
