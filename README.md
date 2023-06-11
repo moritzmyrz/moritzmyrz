@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- William Saroyan</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
