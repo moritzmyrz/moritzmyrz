@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Franz Grillparzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
