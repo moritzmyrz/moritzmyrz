@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Between saying and doing, many a pair of shoes is worn out.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
