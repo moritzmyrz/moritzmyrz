@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
 >
-> <p>- Edward Young</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
