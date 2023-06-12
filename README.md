@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
