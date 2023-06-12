@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> As you think, so shall you become.
 >
-> <p>- John Locke</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
