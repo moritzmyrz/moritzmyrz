@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
