@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no great genius without some touch of madness.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
