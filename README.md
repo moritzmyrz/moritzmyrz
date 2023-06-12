@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Jean Cocteau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
