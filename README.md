@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
