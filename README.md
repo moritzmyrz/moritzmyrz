@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
