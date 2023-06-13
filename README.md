@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> Conditions fall apart. Persist with diligence.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
