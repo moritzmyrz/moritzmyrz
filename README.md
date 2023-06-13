@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone thinks of changing the world, but no one thinks of changing himself.
+> The wisest men follow their own direction.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
