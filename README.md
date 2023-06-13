@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> Change in all things is sweet.
 >
-> <p>- Horace</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
