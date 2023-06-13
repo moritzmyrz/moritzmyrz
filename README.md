@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He has no enemies, but is intensely disliked by his friends.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
