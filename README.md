@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Farhan Akhtar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
