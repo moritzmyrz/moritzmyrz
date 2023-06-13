@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Francis de Sales</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
