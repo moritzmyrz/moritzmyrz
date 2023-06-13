@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
