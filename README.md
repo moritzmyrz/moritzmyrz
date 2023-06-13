@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wisest men follow their own direction.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Euripides</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
