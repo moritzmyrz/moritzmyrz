@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> If you do what you've always done, you'll get what you've always gotten.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
