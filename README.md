@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> Every man is a volume if you know how to read him.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
