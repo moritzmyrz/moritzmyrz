@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
