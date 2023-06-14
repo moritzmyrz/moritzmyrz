@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
 >
-> <p>- Bruce Lee</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
