@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Diogenes</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
