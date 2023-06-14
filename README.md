@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Amy Tan</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
