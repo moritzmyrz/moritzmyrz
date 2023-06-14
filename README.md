@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
