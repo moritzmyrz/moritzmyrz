@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
