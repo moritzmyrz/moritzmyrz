@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
 >
-> <p>- Charles Péguy</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
