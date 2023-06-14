@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Diogenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
