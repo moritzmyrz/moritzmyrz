@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Alfred Tennyson</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
