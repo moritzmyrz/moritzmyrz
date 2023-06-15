@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- The Buddha</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
