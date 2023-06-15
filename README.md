@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
 >
-> <p>- Jim Rohn</p>
+> <p>- Sam Keen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
