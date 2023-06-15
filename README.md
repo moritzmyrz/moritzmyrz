@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's most persistent and urgent question is, 'What are you doing for others?'
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
