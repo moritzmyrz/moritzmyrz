@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> If you spend too much time thinking about a thing, you'll never get it done.
 >
-> <p>- Walter Winchell</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
