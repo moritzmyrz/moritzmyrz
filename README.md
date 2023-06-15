@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- Victor Hugo</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
