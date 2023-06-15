@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
 >
 > <p>- The Buddha</p>
 
