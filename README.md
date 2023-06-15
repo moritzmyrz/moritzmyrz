@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Barack Obama</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
