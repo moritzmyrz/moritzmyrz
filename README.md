@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
