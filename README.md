@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
