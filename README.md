@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
+> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
