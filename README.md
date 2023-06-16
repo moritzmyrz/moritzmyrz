@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Thomas Paine</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
