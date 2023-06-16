@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Epictetus</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
