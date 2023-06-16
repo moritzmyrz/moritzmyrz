@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Alan Watts</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
