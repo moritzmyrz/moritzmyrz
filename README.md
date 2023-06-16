@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> If I know what love is, it is because of you.
 >
-> <p>- B. F. Skinner</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
