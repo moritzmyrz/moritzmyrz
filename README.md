@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> A short saying often contains much wisdom.
 >
-> <p>- Walt Whitman</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
