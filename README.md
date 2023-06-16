@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> Wherever you go, go with all your heart.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
