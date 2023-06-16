@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
