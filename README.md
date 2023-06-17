@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is like money, easier made than kept.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Samuel Butler</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
