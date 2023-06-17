@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> The smaller the mind the greater the conceit.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
