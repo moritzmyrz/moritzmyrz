@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smaller the mind the greater the conceit.
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 >
-> <p>- Aesop</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
