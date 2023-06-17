@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- George Orwell</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
