@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> Whenever something negative happens to you, there is a deep lesson concealed within it.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
