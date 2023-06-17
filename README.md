@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Rose Kennedy</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
