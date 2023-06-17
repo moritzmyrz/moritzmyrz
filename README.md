@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Laozi</p>
+> <p>- Lily Tomlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
