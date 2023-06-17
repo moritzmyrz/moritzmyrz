@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Aristotle</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
