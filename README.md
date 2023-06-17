@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Laozi</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
