@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
