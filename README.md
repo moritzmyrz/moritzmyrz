@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
