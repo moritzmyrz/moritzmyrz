@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
