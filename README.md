@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Edward Young</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
