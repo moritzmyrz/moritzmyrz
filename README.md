@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Dalai Lama</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
