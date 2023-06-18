@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Correction does much, but encouragement does more.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
