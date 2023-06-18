@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
