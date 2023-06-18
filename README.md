@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> Applause is a receipt, not a bill.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
