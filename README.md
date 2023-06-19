@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
