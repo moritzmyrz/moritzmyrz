@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- Albert Einstein</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
