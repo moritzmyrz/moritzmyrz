@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Woody Allen</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
