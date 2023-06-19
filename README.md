@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never promise more than you can perform.
+> There is nothing in a caterpillar that tells you it's going to be a butterfly.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
