@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There never was a good knife made of bad steel.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
