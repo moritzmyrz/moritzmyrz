@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And as we let our own light shine, we unconsciously give other people permission to do the same.
+> There is nothing in a caterpillar that tells you it's going to be a butterfly.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
