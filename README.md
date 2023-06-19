@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I do good I feel good, when I do bad I feel bad, and that's my religion.
+> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
