@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Albert Camus</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
