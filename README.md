@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genuine sincerity opens people's hearts, while manipulation causes them to close.
+> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
