@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
