@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Henry Miller</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
