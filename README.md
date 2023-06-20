@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> A ruffled mind makes a restless pillow.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Charlotte Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
