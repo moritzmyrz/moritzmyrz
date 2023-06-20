@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
