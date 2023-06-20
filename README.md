@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Colin Powell</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
