@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
 >
-> <p>- Lin Yutang</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
