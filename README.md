@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A ruffled mind makes a restless pillow.
+> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
