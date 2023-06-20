@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> Those who cling to perceptions and views wander the world offending people.
 >
-> <p>- Sophocles</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
