@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> Opportunity does not knock, it presents itself when you beat down the door.
 >
-> <p>- Peter Drucker</p>
+> <p>- Kyle Chandler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
