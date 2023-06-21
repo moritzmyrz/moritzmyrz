@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- Sidney Hook</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
