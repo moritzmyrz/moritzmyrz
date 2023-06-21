@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Henry Ford</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
