@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
