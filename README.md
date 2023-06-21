@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Edith Wharton</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
