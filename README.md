@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't judge each day by the harvest you reap but by the seeds that you plant.
+> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
