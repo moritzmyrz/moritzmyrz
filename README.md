@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+> Whenever something negative happens to you, there is a deep lesson concealed within it.
 >
-> <p>- Aristotle</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
