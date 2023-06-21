@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- John Lennon</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
