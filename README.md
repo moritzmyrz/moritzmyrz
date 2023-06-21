@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
