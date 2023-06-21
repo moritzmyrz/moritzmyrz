@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
