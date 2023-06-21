@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- Albert Einstein</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
