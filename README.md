@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Winners never quit and quitters never win.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
