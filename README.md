@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Harbhajan Singh</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
