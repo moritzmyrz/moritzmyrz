@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> When you learn, teach. When you get, give.
 >
-> <p>- Sophocles</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
