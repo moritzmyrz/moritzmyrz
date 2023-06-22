@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Steve Jobs</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
