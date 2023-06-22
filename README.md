@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
 >
-> <p>- Plato</p>
+> <p>- Steve Jobs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
