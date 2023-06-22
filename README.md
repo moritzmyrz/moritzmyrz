@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Walt Whitman</p>
+> <p>- George Sand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
