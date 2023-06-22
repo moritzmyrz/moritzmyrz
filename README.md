@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Epictetus</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
