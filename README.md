@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Much wisdom often goes with fewest words.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
