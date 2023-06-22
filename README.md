@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
