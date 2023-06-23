@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
