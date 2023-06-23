@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
+> The world is but a canvas to the imagination.
 >
-> <p>- The Buddha</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
