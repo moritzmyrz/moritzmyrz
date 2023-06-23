@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
