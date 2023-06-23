@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
+> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
 >
-> <p>- Chuck Norris</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
