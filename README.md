@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- Sophocles</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
