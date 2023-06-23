@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 >
-> <p>- Aristotle</p>
+> <p>- Brian O'Driscoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
