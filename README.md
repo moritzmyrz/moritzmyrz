@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To lead people walk behind them.
+> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
 >
-> <p>- Laozi</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
