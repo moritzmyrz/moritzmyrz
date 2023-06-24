@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before we acquire great power, we must acquire wisdom to use it well.
+> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
