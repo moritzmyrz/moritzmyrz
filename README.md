@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
 >
-> <p>- Woody Allen</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
