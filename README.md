@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
+> Ideals are an imaginative understanding of that which is desirable in that which is possible.
 >
-> <p>- Confucius</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
