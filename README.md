@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- H. G. Wells</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
