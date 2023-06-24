@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
