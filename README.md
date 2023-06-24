@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.
 >
 > <p>- Cicero</p>
 
