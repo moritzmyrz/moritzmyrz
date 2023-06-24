@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is full of magical things, patiently waiting for our wits to grow sharper.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Eden Phillpotts</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
