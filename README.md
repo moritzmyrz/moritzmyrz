@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one can make you feel inferior without your consent.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
