@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
+> You really can change the world if you care enough.
 >
-> <p>- Carl Jung</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
