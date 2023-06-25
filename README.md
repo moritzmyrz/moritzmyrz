@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever has the nature of arising has the nature of ceasing.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- The Buddha</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
