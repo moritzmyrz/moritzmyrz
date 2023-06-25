@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
