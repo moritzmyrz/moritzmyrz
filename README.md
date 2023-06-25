@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Richard Bach</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
