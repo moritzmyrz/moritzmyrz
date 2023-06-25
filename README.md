@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> Pitching is the art of instilling fear.
 >
-> <p>- Warren Bennis</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
