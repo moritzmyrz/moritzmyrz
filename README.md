@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the stars should appear but one night every thousand years how man would marvel and adore.
+> Ideals are an imaginative understanding of that which is desirable in that which is possible.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
