@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideals are an imaginative understanding of that which is desirable in that which is possible.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
