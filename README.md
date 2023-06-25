@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Christopher Morley</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
