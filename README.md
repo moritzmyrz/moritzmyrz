@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Warren Bennis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
