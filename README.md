@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> I think and that is all that I am.
 >
-> <p>- John Lasseter</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
