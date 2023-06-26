@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
