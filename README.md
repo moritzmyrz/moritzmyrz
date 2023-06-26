@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
+> To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Ian Botham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
