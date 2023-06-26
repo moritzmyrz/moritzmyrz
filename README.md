@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Cowper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
