@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader is one who knows the way, goes the way, and shows the way.
+> What we achieve inwardly will change outer reality.
 >
-> <p>- John C. Maxwell</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
