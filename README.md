@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> The universe is transformation; our life is what our thoughts make it.
 >
 > <p>- Marcus Aurelius</p>
 
