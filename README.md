@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
