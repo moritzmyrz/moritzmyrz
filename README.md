@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
