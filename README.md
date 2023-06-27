@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do something wonderful, people may imitate it.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
