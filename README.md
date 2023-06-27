@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- Winston Churchill</p>
+> <p>- Holly Near</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
