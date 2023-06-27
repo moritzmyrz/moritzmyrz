@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> Courage is going from failure to failure without losing enthusiasm.
 >
-> <p>- Sophocles</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
