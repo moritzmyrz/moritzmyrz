@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
