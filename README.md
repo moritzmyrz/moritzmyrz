@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
