@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Tony Robbins</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
