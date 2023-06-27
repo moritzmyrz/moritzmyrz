@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
