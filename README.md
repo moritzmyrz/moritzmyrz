@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
