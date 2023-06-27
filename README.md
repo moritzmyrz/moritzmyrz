@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> Do something wonderful, people may imitate it.
 >
-> <p>- Mark Twain</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
