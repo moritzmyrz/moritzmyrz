@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> There is more wisdom in your body than in your deepest philosophy.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
