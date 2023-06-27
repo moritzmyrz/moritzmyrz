@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
