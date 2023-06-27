@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- John Keats</p>
+> <p>- Jessamyn West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
