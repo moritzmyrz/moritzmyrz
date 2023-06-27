@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
