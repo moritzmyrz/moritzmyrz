@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> Better to have loved and lost, than to have never loved at all.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
