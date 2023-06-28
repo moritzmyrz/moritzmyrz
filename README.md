@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
