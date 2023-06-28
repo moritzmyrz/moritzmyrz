@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Charles Dickens</p>
+> <p>- Bob Knight</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
