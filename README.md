@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
