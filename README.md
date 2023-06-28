@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
