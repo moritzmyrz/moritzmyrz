@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Confucius</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
