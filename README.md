@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> Pitching is the art of instilling fear.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
