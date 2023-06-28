@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> The personal life deeply lived always expands into truths beyond itself.
 >
-> <p>- Carl Jung</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
