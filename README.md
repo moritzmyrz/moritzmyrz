@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
+> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
 >
-> <p>- Epictetus</p>
+> <p>- Barbara De Angelis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
