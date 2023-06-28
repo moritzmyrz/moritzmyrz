@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
