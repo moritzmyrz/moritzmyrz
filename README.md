@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
