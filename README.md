@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
