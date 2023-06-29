@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
 >
-> <p>- Jane Addams</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
