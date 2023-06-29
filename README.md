@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- David McCullough</p>
+> <p>- Franz Kafka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
