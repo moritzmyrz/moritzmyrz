@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Edith Wharton</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
