@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> The only limit to our realization of tomorrow will be our doubts of today.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
