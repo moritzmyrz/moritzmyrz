@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
