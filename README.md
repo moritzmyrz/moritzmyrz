@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- John Pierrakos</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
