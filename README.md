@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
 >
-> <p>- Denis Waitley</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
