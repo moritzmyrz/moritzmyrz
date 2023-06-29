@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
