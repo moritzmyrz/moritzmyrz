@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's easier to resist at the beginning than at the end.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
