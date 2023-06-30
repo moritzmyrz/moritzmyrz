@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Joan Didion</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
