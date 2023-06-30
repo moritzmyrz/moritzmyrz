@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
