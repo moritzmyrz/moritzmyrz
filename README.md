@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who conquers others is strong; He who conquers himself is mighty.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Laozi</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
