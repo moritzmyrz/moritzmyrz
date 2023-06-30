@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
