@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Mark Twain</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
