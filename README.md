@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want your life to be more rewarding, you have to change the way you think.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
