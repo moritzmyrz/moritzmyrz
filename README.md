@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> To lead people walk behind them.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
