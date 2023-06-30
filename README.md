@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
