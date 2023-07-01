@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Michelangelo</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
