@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> Speak low, if you speak love.
 >
-> <p>- Carl Jung</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
