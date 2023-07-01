@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> Only do what your heart tells you.
 >
-> <p>- Michelangelo</p>
+> <p>- Princess Diana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
