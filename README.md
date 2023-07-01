@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
+> Faith in oneself is the best and safest course.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
