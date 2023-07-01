@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> Do all things with love.
 >
-> <p>- Tony Robbins</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
