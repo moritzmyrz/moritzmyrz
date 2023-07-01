@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
