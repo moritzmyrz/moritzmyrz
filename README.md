@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
