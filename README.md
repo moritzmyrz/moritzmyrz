@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> Being entirely honest with oneself is a good exercise.
 >
-> <p>- The Buddha</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
