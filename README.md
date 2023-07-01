@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
