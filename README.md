@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- Rumi</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
