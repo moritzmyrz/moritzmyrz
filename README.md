@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Happiness is found in doing, not merely possessing.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
