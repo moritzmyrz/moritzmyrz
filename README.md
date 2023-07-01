@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Being entirely honest with oneself is a good exercise.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
