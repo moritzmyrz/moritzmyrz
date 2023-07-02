@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Make the best use of what is in your power and take the rest as it happens.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- Epictetus</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
