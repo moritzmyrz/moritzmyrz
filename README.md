@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Laozi</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
