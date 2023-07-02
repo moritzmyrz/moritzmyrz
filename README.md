@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> Nothing strengthens authority so much as silence.
 >
-> <p>- John Pierrakos</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
