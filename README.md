@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
 >
-> <p>- John Lasseter</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
