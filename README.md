@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> Make the best use of what is in your power and take the rest as it happens.
 >
-> <p>- Herman Melville</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
