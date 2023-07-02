@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When deeds and words are in accord, the whole world is transformed.
+> Joy is the best makeup.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Anne Lamott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
