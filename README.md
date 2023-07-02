@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Sun Tzu</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
