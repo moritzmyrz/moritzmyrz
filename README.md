@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
