@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> Love has no age, no limit; and no death.
 >
-> <p>- Anne Lamott</p>
+> <p>- John Galsworthy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
