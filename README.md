@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- Dalai Lama</p>
+> <p>- Herman Melville</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
