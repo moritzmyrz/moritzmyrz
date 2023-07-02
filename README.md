@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth is not for all men, but only for those who seek it.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Ayn Rand</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
