@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> I know but one freedom and that is the freedom of the mind.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
