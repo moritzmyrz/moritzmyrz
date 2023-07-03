@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
