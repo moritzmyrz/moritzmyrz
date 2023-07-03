@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> Aim for the moon. If you miss, you may hit a star.
 >
-> <p>- David Eddings</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
