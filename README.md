@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> The simplest things are often the truest.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
