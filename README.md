@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- May Sarton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
