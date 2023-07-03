@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
