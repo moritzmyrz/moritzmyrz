@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+> The secret of success is constancy to purpose.
 >
-> <p>- The Buddha</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
