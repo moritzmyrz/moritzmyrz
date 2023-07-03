@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Isocrates</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
