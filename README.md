@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
+> Whoso loves, believes the impossible.
 >
-> <p>- Thomas Edison</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
