@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
