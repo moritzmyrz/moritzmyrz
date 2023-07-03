@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The bird of paradise alights only upon the hand that does not grasp.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- John Berry</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
