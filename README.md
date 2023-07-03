@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Morris West</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
