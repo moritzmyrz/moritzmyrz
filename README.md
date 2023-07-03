@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- A. A. Milne</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
