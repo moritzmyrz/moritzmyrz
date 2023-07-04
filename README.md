@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> We don't stop playing because we grow old; we grow old because we stop playing.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
