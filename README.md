@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Ernie Banks</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
