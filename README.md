@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
