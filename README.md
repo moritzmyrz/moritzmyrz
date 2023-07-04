@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
