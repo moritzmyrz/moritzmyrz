@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Mark Twain</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
