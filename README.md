@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Peter Drucker</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
