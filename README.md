@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> Effort only fully releases its reward after a person refuses to quit.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
