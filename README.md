@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- John Muir</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
