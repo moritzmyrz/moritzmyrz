@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> We are wiser than we know.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
