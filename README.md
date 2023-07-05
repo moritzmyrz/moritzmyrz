@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> Ignorance never settles a question.
 >
-> <p>- Ralph Marston</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
