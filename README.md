@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- Walt Disney</p>
+> <p>- Charles Darwin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
