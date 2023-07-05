@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Setting an example is not the main means of influencing another, it is the only means.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- Albert Einstein</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
