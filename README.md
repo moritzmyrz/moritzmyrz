@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- Richard Bach</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
