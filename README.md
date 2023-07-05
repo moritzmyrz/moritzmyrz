@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Ben Hogan</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
