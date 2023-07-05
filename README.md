@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not engaging in ignorance is wisdom.
+> In order to win, you must expect to win.
 >
-> <p>- Bodhidharma</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
