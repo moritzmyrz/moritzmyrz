@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> Self-trust is the first secret of success.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
