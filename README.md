@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
