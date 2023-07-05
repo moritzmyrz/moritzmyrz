@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> Not engaging in ignorance is wisdom.
 >
-> <p>- Woody Allen</p>
+> <p>- Bodhidharma</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
