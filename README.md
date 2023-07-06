@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make our own fortunes and we call them fate.
+> Freedom is the right to live as we wish.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
