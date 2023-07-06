@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only those who dare to fail greatly can ever achieve greatly.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
