@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
