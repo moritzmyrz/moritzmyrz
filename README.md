@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
