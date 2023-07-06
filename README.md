@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> We make our own fortunes and we call them fate.
 >
-> <p>- Napoleon</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
