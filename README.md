@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 >
-> <p>- Henry Moore</p>
+> <p>- Harriet Tubman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
