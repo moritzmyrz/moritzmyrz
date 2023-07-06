@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
