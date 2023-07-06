@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship often ends in love, but love in friendship - never.
+> Whatever happens, take responsibility.
 >
-> <p>- Albert Camus</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
