@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> The path to success is to take massive, determined action.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
