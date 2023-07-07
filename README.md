@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
