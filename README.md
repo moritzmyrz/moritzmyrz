@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
