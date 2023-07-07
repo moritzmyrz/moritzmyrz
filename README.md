@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
-> <p>- Tony Robbins</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
