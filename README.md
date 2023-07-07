@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- John Pierrakos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
