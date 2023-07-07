@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
