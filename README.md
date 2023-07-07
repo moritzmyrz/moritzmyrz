@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> Give whatever you are doing and whoever you are with the gift of your attention.
 >
-> <p>- Anatole France</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
