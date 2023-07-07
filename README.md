@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> He who angers you conquers you.
 >
-> <p>- Jim Rohn</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
