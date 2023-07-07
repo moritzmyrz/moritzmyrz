@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> Wisdom alone is the science of other sciences.
 >
-> <p>- John Pierrakos</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
