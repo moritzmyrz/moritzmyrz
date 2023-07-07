@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So is cheerfulness, or a good temper, the more it is spent, the more remains.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
