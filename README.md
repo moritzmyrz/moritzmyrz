@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
+> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
 >
-> <p>- Jonathan Swift</p>
+> <p>- William Lyon Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
