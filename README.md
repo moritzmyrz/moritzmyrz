@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The World is my country, all mankind are my brethren, and to do good is my religion.
+> You won't skid if you stay in a rut.
 >
-> <p>- Thomas Paine</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
