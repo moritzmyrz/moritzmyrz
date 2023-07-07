@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> Life without love is like a tree without blossoms or fruit.
 >
-> <p>- Tony Robbins</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
