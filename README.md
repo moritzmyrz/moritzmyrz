@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Richard Bach</p>
+> <p>- Jonathan Swift</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
