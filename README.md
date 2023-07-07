@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Betty Friedan</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
