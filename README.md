@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> We have two ears and one mouth so that we can listen twice as much as we speak.
 >
-> <p>- Corita Kent</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
