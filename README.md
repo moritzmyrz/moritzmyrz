@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you learn, teach. When you get, give.
+> It is never too late to be what you might have been.
 >
-> <p>- Maya Angelou</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
