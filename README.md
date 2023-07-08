@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> Never pretend to a love which you do not actually feel, for love is not ours to command.
 >
-> <p>- George Eliot</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
