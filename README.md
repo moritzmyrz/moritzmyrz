@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> You yourself must strive. The Buddhas only point the way.
 >
-> <p>- Edith Wharton</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
