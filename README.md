@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
