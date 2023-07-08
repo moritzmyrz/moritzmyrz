@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
