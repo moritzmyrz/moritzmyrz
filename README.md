@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> When you learn, teach. When you get, give.
 >
-> <p>- Marcel Proust</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
