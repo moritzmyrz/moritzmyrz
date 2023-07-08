@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> It always seems impossible until it's done.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
