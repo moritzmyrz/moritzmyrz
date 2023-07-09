@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> The least of things with a meaning is worth more in life than the greatest of things without it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
