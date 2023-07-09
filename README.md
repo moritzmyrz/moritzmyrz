@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Dalai Lama</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
