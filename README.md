@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- Carrie Snow</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
