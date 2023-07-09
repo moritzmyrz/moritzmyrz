@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
