@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- Carl Jung</p>
+> <p>- Carrie Snow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
