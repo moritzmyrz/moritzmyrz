@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Will Durant</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
