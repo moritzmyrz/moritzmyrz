@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> Setting an example is not the main means of influencing another, it is the only means.
 >
-> <p>- John Quincy Adams</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
