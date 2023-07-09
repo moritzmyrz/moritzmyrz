@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
