@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience is the companion of wisdom.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
