@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> Music in the soul can be heard by the universe.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
