@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> I never think of the future. It comes soon enough.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
