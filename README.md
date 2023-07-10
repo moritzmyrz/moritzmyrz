@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> A really great talent finds its happiness in execution.
 >
 > <p>- Johann Wolfgang von Goethe</p>
 
