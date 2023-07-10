@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The invariable mark of wisdom is to see the miraculous in the common.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
