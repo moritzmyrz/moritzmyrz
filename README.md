@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep your face always toward the sunshine - and shadows will fall behind you.
+> Mountains cannot be surmounted except by winding paths.
 >
-> <p>- Walt Whitman</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
