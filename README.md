@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Albert Einstein</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
