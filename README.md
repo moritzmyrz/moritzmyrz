@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> We can only learn to love by loving.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
