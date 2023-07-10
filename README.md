@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Nargis Fakhri</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
