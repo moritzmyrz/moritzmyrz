@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
 >
-> <p>- Confucius</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
