@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
