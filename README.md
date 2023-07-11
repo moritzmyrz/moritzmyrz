@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Business, you know, may bring you money, but friendship hardly ever does.
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
 >
-> <p>- Jane Austen</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
