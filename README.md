@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> Business, you know, may bring you money, but friendship hardly ever does.
 >
-> <p>- Mother Teresa</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
