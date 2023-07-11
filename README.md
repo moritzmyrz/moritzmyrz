@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
