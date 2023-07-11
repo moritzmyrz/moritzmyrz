@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Jim Bouton</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
