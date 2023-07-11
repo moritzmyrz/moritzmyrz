@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> Kind words can be short and easy to speak, but their echoes are truly endless.
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
