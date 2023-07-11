@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Rabbi Hillel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
