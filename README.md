@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> Accept the challenges so that you can feel the exhilaration of victory.
 >
-> <p>- Doris Mortman</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
