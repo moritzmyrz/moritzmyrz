@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> They can conquer who believe they can.
 >
-> <p>- Chanakya</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
