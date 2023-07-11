@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> Well begun is half done.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
