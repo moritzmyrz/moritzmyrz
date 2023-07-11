@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Ovid</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
