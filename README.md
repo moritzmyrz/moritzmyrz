@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Judy Garland</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
