@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Richard Whately</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
