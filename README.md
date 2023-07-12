@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
