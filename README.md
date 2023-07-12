@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Sandy Koufax</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
