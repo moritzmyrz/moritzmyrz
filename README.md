@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Plato</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
