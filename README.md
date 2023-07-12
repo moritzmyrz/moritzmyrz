@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> Always be smarter than the people who hire you.
 >
-> <p>- Confucius</p>
+> <p>- Lena Horne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
