@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Lena Horne</p>
+> <p>- May Sarton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
