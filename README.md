@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- May Sarton</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
