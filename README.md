@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Ovid</p>
+> <p>- May Sarton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
