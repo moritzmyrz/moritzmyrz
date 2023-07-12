@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> Our passion is our strength.
 >
-> <p>- Maya Angelou</p>
+> <p>- Billie Armstrong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
