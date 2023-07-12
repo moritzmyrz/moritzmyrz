@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most effective way to do it, is to do it.
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
 >
-> <p>- Amelia Earhart</p>
+> <p>- William Penn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
