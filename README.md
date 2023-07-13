@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
 >
-> <p>- Princess Diana</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
