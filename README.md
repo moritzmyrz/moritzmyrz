@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trouble is only opportunity in work clothes.
+> If one does not know to which port one is sailing, no wind is favorable.
 >
-> <p>- Henry J. Kaiser</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
