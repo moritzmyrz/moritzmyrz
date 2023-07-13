@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> The beginning is always today.
 >
-> <p>- John Adams</p>
+> <p>- Mary Wollstonecraft</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
