@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+> Only do what your heart tells you.
 >
-> <p>- Lucille Ball</p>
+> <p>- Princess Diana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
