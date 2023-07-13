@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fall of dropping water wears away the Stone.
+> So much technology, so little talent.
 >
-> <p>- Lucretius</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
