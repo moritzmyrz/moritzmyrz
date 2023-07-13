@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Lewis Cass</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
