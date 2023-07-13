@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
