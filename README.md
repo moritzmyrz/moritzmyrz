@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> A single rose can be my garden... a single friend, my world.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
