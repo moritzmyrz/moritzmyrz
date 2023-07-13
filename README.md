@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Charles Dickens</p>
+> <p>- Lucretius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
