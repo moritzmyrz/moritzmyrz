@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 >
-> <p>- Indira Gandhi</p>
+> <p>- John Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
