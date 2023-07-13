@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
