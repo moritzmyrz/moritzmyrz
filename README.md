@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
 >
-> <p>- Max Frisch</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
