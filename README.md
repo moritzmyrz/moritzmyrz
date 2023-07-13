@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
