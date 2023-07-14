@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone thinks of changing the world, but no one thinks of changing himself.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
