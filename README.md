@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest mistake you can make in life is to be continually fearing you will make one.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
