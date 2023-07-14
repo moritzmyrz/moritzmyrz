@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
