@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
