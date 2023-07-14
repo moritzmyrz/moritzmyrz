@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Lord Byron</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
