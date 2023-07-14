@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 >
-> <p>- Winston Churchill</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
