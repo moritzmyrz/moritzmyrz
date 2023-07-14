@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
