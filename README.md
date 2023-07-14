@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
 >
-> <p>- Peter Drucker</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
