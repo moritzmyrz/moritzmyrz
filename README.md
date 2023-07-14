@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot escape the responsibility of tomorrow by evading it today.
+> Better be ignorant of a matter than half know it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
