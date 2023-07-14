@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning is always today.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
