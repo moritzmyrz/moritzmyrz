@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Agatha Christie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
