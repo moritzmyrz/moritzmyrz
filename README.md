@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence is to do a common thing in an uncommon way.
+> Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Octavia E. Butler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
