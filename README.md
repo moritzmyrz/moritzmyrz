@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> Excellence is to do a common thing in an uncommon way.
 >
-> <p>- Hannah More</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
