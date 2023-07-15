@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> Value your friendship. Value your relationships.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
