@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Albert Einstein</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
