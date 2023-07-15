@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
