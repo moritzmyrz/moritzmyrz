@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
+> Habit, if not resisted, soon becomes necessity.
 >
-> <p>- Babe Ruth</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
