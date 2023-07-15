@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How is it possible to find meaning in a finite world, given my waist and shirt size?
+> Know how to listen, and you will profit even from those who talk badly.
 >
-> <p>- Woody Allen</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
