@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- William Blake</p>
+> <p>- Loretta Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
