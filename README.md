@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest healing therapy is friendship and love.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
