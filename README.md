@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
