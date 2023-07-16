@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> The biggest room in the world is room for improvement.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Helmut Schmidt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
