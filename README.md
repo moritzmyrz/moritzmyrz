@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> Knowing is not enough; we must apply!
 >
-> <p>- Richard Bach</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
