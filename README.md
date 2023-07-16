@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
