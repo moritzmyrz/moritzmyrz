@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 >
-> <p>- Loretta Young</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
