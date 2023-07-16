@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
