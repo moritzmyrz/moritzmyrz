@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before God we are all equally wise - and equally foolish.
+> Whoso loves, believes the impossible.
 >
-> <p>- Albert Einstein</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
