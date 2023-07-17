@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Stephen Hawking</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
