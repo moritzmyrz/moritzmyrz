@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
