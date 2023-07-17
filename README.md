@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- George Washington</p>
+> <p>- Jawaharlal Nehru</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
