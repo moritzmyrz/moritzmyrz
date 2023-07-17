@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- William Hurt</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
