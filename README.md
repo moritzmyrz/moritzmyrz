@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
