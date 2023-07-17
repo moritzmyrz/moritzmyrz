@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
 >
-> <p>- Rose Kennedy</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
