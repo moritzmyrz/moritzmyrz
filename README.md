@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./images/banner.png)](https://www.myrseth.co/)
+[![Braydon's GitHub Banner](./images/banner.png)](https://www.myrseth.dev/)
 
 # Hi 👋 My name is Moritz Myrseth
 
@@ -6,9 +6,10 @@
 
 - 🌍 I'm based in Norway
 - 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
+- 🎓 Currently pursuing a B.Sc. in Computer Engineering at OsloMet
 - 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
 - ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
-- 🚀 I'm currently working at [Fjordmail Technologies AS](https://www.fjordmail.no/) and [Myrseth Technologies AS](https://www.myrseth.tech)
+- 🚀 I'm currently working at [Fjordmail Technologies AS](https://www.fjordmail.no/)
 
 ### Skills
 
@@ -23,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- Winston Churchill</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
