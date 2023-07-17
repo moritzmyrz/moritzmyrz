@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Leave no stone unturned.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Euripides</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
