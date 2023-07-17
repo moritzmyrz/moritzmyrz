@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> Before God we are all equally wise - and equally foolish.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
