@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
