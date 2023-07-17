@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Leave no stone unturned.
 >
-> <p>- Paul Tillich</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
