@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> 'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
