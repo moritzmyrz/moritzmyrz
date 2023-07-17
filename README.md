@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> Be the chief but never the lord.
 >
-> <p>- Robert Schuller</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
