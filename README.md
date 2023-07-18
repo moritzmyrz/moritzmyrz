@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has been my experience that folks who have no vices have very few virtues.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
