@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- John Quincy Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
