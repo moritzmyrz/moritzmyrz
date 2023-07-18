@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in the nature of things that joy arises in a person free from remorse.
+> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
 >
-> <p>- The Buddha</p>
+> <p>- Abigail Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
