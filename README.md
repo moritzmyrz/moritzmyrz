@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
