@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- John Burroughs</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
