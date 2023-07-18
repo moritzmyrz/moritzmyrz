@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Lucille Ball</p>
+> <p>- Cynthia Ozick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
