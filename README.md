@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Norman Douglas</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
