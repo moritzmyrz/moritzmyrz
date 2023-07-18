@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> It has been my experience that folks who have no vices have very few virtues.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
