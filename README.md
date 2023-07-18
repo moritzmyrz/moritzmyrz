@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Alan Watts</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
