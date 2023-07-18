@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Abigail Adams</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
