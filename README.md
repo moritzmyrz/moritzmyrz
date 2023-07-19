@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- Albert Einstein</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
