@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
