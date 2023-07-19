@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- William Blake</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
