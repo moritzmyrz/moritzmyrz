@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
