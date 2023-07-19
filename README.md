@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Peter Drucker</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
