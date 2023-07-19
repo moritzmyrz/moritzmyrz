@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Louise Hay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
