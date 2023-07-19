@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Judy Garland</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
