@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> To be wronged is nothing unless you continue to remember it.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
