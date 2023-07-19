@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Each day provides its own gifts.
 >
-> <p>- Louise Hay</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
