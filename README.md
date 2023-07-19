@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing nothing is better than being busy doing nothing.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Laozi</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
