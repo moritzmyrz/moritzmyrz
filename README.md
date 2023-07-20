@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Joseph Addison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
