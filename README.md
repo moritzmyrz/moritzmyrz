@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.
+> Pitching is the art of instilling fear.
 >
-> <p>- Rogers Hornsby</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
