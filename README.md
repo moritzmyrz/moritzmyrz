@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Jane Wyman</p>
+> <p>- Alfred Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
