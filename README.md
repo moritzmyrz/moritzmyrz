@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> Life is really simple, but we insist on making it complicated.
 >
-> <p>- John Wooden</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
