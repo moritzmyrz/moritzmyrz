@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- Joseph Addison</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
