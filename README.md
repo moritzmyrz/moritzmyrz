@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> Resolutely train yourself to attain peace.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
