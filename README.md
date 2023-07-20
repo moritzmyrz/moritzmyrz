@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- John Wooden</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
