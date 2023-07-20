@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Walter Benjamin</p>
+> <p>- John Junor</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
