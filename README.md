@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust only movement. Life happens at the level of events, not of words. Trust movement.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Alfred Adler</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
