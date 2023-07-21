@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To invent, you need a good imagination and a pile of junk.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Thomas Edison</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
