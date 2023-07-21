@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Afrika Bambaataa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
