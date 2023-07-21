@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> Light tomorrow with today!
 >
-> <p>- Jonas Salk</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
