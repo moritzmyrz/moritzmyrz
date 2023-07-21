@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
+> The world is round so that friendship may encircle it.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
