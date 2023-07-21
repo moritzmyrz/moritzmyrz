@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is about timing.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Carl Lewis</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
