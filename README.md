@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> Life is about timing.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Carl Lewis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
