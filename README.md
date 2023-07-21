@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
