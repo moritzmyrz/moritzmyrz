@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Diogenes</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
