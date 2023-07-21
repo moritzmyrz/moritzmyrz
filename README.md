@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
