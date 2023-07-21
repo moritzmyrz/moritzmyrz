@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time is the most valuable thing a man can spend.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Theophrastus</p>
+> <p>- Diogenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
