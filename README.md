@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
