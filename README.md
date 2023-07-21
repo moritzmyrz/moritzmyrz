@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
