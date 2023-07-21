@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
