@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Jane Wyman</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
