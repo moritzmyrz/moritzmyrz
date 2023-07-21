@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> Better to have loved and lost, than to have never loved at all.
 >
-> <p>- Epictetus</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
