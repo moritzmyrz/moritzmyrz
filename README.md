@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 >
-> <p>- John Burroughs</p>
+> <p>- Harriet Tubman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
