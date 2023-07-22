@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
