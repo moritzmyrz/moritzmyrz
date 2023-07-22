@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+> Excellence is to do a common thing in an uncommon way.
 >
-> <p>- Daniel J. Boorstin</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
