@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We don't know a millionth of one percent about anything.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Thomas Edison</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
