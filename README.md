@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> The man of knowledge must be able not only to love his enemies but also to hate his friends.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
