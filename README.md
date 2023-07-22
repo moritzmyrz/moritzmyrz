@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Wayne Dyer</p>
+> <p>- John Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
