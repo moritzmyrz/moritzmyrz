@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- Bruce Lee</p>
+> <p>- Niels Bohr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
