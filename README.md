@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence is to do a common thing in an uncommon way.
+> We don't know a millionth of one percent about anything.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
