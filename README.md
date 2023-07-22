@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> I can, therefore I am.
 >
-> <p>- John Eliot</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
