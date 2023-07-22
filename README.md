@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
