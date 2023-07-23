@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
