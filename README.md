@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> A goal without a plan is just a wish.
 >
-> <p>- Alexis Carrel</p>
+> <p>- Larry Elder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
