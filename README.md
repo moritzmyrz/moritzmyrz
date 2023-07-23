@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
