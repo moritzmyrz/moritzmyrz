@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Confucius</p>
+> <p>- Ella Fitzgerald</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
