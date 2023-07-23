@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Alexander Pope</p>
+> <p>- Robert Kiyosaki</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
