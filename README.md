@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
