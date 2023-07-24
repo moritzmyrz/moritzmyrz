@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An appeaser is one who feeds a crocodile, hoping it will eat him last.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- Winston Churchill</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
