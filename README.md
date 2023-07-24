@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
 >
-> <p>- Denis Waitley</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
