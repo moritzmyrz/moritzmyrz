@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One that desires to excel should endeavor in those things that are in themselves most excellent.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Epictetus</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
