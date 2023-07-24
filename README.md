@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Paul Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
