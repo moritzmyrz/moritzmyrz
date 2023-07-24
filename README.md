@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> An appeaser is one who feeds a crocodile, hoping it will eat him last.
 >
-> <p>- Mother Teresa</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
