@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Tony Robbins</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
