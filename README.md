@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time changes everything except something within us which is always surprised by change.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- Thomas Hardy</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
