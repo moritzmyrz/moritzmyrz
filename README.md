@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Laozi</p>
+> <p>- Brooks Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
