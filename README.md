@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
