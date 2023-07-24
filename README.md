@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
