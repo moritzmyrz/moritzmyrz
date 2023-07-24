@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
