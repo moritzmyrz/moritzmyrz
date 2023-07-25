@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> Knowledge speaks, but wisdom listens.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Jimi Hendrix</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
