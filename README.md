@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> Think as a wise man but communicate in the language of the people.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
