@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
 >
-> <p>- Michelangelo</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
