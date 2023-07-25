@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+> In life, all good things come hard, but wisdom is the hardest to come by.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
