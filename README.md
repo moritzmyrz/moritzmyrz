@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An invasion of armies can be resisted, but not an idea whose time has come.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Victor Hugo</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
