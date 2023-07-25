@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think as a wise man but communicate in the language of the people.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
