@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Stephen Hawking</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
