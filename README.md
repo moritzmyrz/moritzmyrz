@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
+> None knows the weight of another's burden.
 >
-> <p>- The Buddha</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
