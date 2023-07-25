@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Bruce Lee</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
