@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
+> No valid plans for the future can be made by those who have no capacity for living now.
 >
-> <p>- Babatunde Olatunji</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
