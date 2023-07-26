@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You were not born a winner, and you were not born a loser. You are what you make yourself be.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Lou Holtz</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
