@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
 >
-> <p>- Dee Hock</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
