@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- Helen Keller</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
