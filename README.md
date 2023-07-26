@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> When people are like each other they tend to like each other.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
