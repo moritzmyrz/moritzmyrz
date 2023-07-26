@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Robert Griffin III</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
