@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> Your friend is your needs answered.
 >
-> <p>- George Orwell</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
