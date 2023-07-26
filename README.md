@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Alan Watts</p>
+> <p>- Max Planck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
