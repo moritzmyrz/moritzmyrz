@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
