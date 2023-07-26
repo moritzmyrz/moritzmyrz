@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
 >
-> <p>- Tony Robbins</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
