@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> The secret of business is to know something that nobody else knows.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Aristotle Onassis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
