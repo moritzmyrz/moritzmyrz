@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
