@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your friend is your needs answered.
+> A disciplined mind brings happiness.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
