@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Football is football and talent is talent. But the mindset of your team makes all the difference.
+> Myths which are believed in tend to become true.
 >
-> <p>- Robert Griffin III</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
