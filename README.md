@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
