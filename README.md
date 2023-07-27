@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Richard Bach</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
