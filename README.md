@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Confucius</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
