@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
 >
-> <p>- Confucius</p>
+> <p>- Margaret Laurence</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
