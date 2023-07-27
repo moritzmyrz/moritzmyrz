@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Life is really simple, but we insist on making it complicated.
 >
-> <p>- Ansel Adams</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
