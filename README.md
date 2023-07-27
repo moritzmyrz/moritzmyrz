@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> No garden is without its weeds.
 >
-> <p>- Woody Allen</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
