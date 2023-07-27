@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we all did the things we are capable of doing, we would literally astound ourselves.
+> If the stars should appear but one night every thousand years how man would marvel and adore.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
