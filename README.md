@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
+> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
 >
-> <p>- Margaret Laurence</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
