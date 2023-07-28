@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Henry Ford</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
