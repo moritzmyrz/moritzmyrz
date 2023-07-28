@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Sophocles</p>
+> <p>- Lily Tomlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
