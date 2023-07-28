@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port one is sailing, no wind is favorable.
+> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Paul Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
