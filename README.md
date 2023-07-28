@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- John Lennon</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
