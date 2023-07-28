@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 >
-> <p>- John Muir</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
