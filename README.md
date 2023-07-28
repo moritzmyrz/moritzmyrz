@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> Our character is what we do when we think no one is looking.
 >
-> <p>- Helen Keller</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
