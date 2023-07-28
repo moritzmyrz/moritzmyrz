@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Joyce Brothers</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
