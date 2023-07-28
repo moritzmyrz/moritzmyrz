@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
 >
-> <p>- Francis Bacon</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
