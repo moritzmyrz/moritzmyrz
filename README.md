@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> You win the victory when you yield to friends.
 >
-> <p>- The Buddha</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
