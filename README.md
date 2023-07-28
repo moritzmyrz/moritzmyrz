@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
+> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
