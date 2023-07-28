@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Philip Sidney</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
