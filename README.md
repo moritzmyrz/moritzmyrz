@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+> Either I will find a way, or I will make one.
 >
-> <p>- Brian Tracy</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
