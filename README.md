@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 >
-> <p>- John Barrymore</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
