@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Billie Jean King</p>
+> <p>- John Barrymore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
