@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
