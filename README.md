@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Helen Keller</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
