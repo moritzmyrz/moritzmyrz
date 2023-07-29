@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How is it possible to find meaning in a finite world, given my waist and shirt size?
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Woody Allen</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
