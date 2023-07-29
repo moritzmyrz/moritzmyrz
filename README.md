@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Michelangelo</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
