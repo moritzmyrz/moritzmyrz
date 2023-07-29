@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
