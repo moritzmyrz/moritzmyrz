@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
