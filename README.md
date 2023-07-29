@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
 >
-> <p>- Confucius</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
