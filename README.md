@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
+> What you do not want done to yourself, do not do to others.
 >
-> <p>- The Buddha</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
