@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> It is one of the blessings of old friends that you can afford to be stupid with them.
 >
-> <p>- John Ruskin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
