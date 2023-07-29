@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> The great myth of our times is that technology is communication.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Libby Larsen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
