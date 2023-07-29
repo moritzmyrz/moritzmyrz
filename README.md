@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
