@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character develops itself in the stream of life.
+> I'll prepare and someday my chance will come.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
