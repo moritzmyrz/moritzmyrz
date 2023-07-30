@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> You teach best what you most need to learn.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
