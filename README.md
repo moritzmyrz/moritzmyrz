@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> Character develops itself in the stream of life.
 >
-> <p>- Charles Dickens</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
