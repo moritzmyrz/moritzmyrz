@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
