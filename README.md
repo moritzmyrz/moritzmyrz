@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Mignon McLaughlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
