@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> A house divided against itself cannot stand.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
