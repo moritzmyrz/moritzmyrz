@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Charles Dickens</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
