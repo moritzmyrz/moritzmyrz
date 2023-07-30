@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in the nature of things that joy arises in a person free from remorse.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- The Buddha</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
