@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first step to getting the things you want out of life is this: decide what you want.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Ben Stein</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
