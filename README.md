@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
