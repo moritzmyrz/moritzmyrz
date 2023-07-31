@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
