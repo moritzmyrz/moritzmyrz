@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
