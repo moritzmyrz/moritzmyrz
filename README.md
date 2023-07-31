@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> A thing well said will be wit in all languages.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
