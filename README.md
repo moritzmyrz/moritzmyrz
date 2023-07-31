@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> I do not know the American gentleman, god forgive me for putting two such words together.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
