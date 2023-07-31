@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> Maxim for life: You get treated in life the way you teach people to treat you.
 >
-> <p>- Albert Einstein</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
