@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
