@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not know the American gentleman, god forgive me for putting two such words together.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Charles Dickens</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
