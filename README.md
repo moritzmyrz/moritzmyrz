@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Judy Collins</p>
+> <p>- Charles Lamb</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
