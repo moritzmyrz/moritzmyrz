@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- John Dryden</p>
+> <p>- Frank Abagnale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
