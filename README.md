@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Andy Rooney</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
