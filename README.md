@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ian Botham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
