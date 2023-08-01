@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
 >
-> <p>- Walt Disney</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
