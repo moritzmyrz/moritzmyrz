@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> A really great talent finds its happiness in execution.
 >
-> <p>- David Brinkley</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
