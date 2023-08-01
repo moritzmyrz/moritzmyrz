@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Minds are like parachutes. They only function when open.
 >
-> <p>- Dalai Lama</p>
+> <p>- Thomas Dewar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
