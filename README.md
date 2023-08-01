@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- John McCain</p>
+> <p>- Andy Rooney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
