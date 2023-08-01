@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
