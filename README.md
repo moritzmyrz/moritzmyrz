@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Frank Abagnale</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
