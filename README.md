@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
