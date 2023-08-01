@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jawaharlal Nehru</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
