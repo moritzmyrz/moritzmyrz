@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To avoid criticism, do nothing, say nothing, be nothing.
+> Where there is love there is life.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
