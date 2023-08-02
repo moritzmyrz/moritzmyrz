@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Marcel Proust</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
