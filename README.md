@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Napoleon Hill</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
