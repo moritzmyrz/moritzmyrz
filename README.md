@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By accepting yourself and being fully what you are, your presence can make others happy.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Jane Roberts</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
