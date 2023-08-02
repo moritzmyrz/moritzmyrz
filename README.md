@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Tony Blair</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
