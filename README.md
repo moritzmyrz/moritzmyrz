@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
