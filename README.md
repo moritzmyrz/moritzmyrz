@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
