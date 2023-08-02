@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Voltaire</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
