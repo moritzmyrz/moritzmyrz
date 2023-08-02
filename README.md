@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
