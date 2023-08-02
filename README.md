@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- Anne Lamott</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
