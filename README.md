@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Today you are you! That is truer than true! There is no one alive who is you-er than you!
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Dr. Seuss</p>
+> <p>- David Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
