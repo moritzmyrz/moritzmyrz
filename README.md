@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> He who angers you conquers you.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
