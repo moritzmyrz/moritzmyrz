@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
