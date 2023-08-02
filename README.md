@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> To avoid criticism, do nothing, say nothing, be nothing.
 >
-> <p>- Albert Camus</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
