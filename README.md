@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> I prefer the folly of enthusiasm to the indifference of wisdom.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
