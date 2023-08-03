@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I prefer the folly of enthusiasm to the indifference of wisdom.
+> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
 >
-> <p>- Anatole France</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
