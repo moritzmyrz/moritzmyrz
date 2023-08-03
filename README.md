@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> Cleverness is not wisdom.
 >
-> <p>- George Santayana</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
