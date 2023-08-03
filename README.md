@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> Myths which are believed in tend to become true.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
