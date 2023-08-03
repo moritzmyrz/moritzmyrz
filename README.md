@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Blessed is the man who expects nothing, for he shall never be disappointed.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Alexander Pope</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
