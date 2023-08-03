@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Henry Miller</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
