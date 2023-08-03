@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Sophocles</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
