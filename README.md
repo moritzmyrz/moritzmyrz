@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> I believe that every person is born with talent.
 >
-> <p>- Bo Jackson</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
