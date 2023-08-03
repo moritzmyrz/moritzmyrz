@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> I have always thought the actions of men the best interpreters of their thoughts.
 >
-> <p>- George Orwell</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
