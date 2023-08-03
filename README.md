@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Arriving at one point is the starting point to another.
 >
-> <p>- Tony Robbins</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
