@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Caroline Myss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
