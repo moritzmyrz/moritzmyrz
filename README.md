@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
