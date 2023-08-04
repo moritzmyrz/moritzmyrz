@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
