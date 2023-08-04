@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
