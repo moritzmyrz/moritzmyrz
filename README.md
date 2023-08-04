@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> The secret of business is to know something that nobody else knows.
 >
-> <p>- John Wooden</p>
+> <p>- Aristotle Onassis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
