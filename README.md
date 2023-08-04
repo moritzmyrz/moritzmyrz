@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> I don't believe in failure. It's not failure if you enjoyed the process.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
