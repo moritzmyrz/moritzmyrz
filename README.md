@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
