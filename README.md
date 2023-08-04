@@ -24,7 +24,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.
+> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
 >
 > <p>- Alan Watts</p>
 
