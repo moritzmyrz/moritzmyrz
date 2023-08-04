@@ -6,7 +6,7 @@
 
 - 🌍 I'm based in Norway
 - 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
-- 🎓 Currently pursuing a B.Sc. in Computer Engineering at OsloMet
+- 🎓 Currently pursuing a B.Sc. in Software engineering at OsloMet
 - 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
 - ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
 - 🚀 I'm currently working at [Fjordmail Technologies AS](https://www.fjordmail.no/)
@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Caroline Myss</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
