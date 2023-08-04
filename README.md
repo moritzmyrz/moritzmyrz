@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+> Not all those who wander are lost.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
