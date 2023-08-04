@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
