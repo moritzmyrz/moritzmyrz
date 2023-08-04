@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- Alan Watts</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
