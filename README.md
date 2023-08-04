@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Rose Kennedy</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
