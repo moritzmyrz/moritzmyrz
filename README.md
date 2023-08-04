@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Anatole France</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
