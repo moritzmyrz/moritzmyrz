@@ -6,7 +6,7 @@
 
 - 🌍 I'm based in Norway
 - 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
-- 🎓 Currently pursuing a B.Sc. in Computer Engineering at OsloMet
+- 🎓 Currently pursuing a B.Sc. in Software engineering at OsloMet
 - 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
 - ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
 - 🚀 I'm currently working at [Fjordmail Technologies AS](https://www.fjordmail.no/)
