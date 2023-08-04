@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Alan Watts</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
