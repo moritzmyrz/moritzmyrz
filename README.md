@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Warren Bennis</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
