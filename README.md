@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> Friendship is essentially a partnership.
 >
-> <p>- William Shakespeare</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
