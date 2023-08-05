@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> Friendship is essentially a partnership.
 >
-> <p>- Sam Ewing</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
