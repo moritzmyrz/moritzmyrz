@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- Alan Watts</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
