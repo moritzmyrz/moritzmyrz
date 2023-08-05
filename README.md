@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Sophocles</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
