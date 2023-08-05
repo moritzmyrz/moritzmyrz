@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Satchel Paige</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
