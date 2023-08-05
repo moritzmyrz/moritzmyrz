@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> Computers are like bikinis. They save people a lot of guesswork.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Sam Ewing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
