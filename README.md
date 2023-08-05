@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
