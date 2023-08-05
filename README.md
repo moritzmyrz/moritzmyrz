@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+> Nothing in life is to be feared. It is only to be understood.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
