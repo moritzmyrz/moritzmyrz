@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing in life is to be feared. It is only to be understood.
+> We know what we are but know not what we may be.
 >
-> <p>- Marie Curie</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
