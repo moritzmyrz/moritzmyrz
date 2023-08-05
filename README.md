@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> Much wisdom often goes with fewest words.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
