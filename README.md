@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
