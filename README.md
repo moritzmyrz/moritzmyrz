@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> Those who are free of resentful thoughts surely find peace.
 >
-> <p>- Bernard Shaw</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
