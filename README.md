@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
