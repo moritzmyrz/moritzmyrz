@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port one is sailing, no wind is favorable.
+> Aim for the moon. If you miss, you may hit a star.
 >
-> <p>- Seneca the Younger</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
