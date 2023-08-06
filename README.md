@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
