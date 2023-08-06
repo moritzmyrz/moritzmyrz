@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Walt Disney</p>
+> <p>- H. G. Wells</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
