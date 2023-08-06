@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 >
-> <p>- Amber Valletta</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
