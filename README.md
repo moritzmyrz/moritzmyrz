@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> True friends stab you in the front.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
