@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Laozi</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
