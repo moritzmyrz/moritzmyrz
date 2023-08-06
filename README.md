@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
