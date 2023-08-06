@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He has no enemies, but is intensely disliked by his friends.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Jawaharlal Nehru</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
