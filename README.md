@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> We can only learn to love by loving.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
