@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Amber Valletta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
