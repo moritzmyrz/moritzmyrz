@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> If one does not know to which port one is sailing, no wind is favorable.
 >
-> <p>- Bruce Lee</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
