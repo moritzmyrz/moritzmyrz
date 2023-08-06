@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> Things do not change; we change.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
