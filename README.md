@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- John Barrymore</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
