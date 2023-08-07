@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
