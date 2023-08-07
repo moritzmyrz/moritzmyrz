@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Thomas Edison</p>
+> <p>- May Sarton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
