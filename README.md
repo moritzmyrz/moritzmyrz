@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- The Buddha</p>
+> <p>- John Barrymore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
