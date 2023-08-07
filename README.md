@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 >
-> <p>- A. Powell Davies</p>
+> <p>- M. Scott Peck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
