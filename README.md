@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
+> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 >
-> <p>- Epictetus</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
