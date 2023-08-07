@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> A friend in power is a friend lost.
 >
-> <p>- Barack Obama</p>
+> <p>- Henry Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
