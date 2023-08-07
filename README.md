@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> Change your thoughts and you change your world.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
