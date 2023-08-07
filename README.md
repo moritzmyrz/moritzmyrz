@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- William Hazlitt</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
