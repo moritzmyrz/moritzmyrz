@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+> You really can change the world if you care enough.
 >
-> <p>- M. Scott Peck</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
