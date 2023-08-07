@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
 >
-> <p>- Dr. Seuss</p>
+> <p>- Rabbi Hillel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
