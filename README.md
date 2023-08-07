@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Bruce Lee</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
