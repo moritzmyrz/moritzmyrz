@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+> If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha
 >
-> <p>- Immanuel Kant</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
