@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Richard Garriott</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
