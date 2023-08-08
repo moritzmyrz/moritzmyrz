@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
