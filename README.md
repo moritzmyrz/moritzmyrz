@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Plotinus</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
