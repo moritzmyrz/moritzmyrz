@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Winston Churchill</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
