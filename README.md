@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
+> If you aren't going all the way, why go at all?
 >
-> <p>- The Buddha</p>
+> <p>- Joe Namath</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
