@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
