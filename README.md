@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- The Buddha</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
