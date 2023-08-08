@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> A prudent question is one half of wisdom.
 >
-> <p>- Albert Camus</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
