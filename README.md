@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
