@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Woody Allen</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
