@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
