@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Bruce Lee</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
