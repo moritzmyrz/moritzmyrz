@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Michelangelo</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
