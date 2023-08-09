@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
