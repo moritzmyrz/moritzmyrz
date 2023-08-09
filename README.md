@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whether you think you can or you think you can't, you are right.
+> We lost because we told ourselves we lost.
 >
-> <p>- Henry Ford</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
