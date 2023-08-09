@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never accept ultimatums, conventional wisdom, or absolutes.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
