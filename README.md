@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Laozi</p>
+> <p>- William Inge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
