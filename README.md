@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- William Inge</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
