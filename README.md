@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
