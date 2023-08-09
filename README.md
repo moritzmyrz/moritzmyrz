@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
