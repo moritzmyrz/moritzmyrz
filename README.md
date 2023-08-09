@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
