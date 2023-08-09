@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you aren't going all the way, why go at all?
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Joe Namath</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
