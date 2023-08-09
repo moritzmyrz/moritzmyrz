@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
 >
-> <p>- Audre Lorde</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
