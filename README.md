@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Jane Austen</p>
+> <p>- John Bercow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
