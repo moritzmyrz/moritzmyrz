@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
