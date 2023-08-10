@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Jane Austen</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
