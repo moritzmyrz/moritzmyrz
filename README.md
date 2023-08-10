@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- William Blake</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
