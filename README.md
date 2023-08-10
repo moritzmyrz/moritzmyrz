@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to a man. It is what a man does with what happens to him.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
