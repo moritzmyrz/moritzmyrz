@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
