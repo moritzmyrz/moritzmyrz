@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
