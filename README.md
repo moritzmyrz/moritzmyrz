@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge...
+> When in doubt, tell the truth.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
