@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- Melody Beattie</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
