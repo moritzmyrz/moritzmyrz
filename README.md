@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
