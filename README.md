@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is good even for old men to learn wisdom.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- Aeschylus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
