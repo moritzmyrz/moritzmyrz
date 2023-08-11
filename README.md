@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't compromise yourself. You are all you've got.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- Janis Joplin</p>
+> <p>- Margaret Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
