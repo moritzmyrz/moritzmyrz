@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Brian Tracy</p>
+> <p>- John Junor</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
