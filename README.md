@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is the golden chain by which society is bound together.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
