@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Corita Kent</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
