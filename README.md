@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Bruce Lee</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
