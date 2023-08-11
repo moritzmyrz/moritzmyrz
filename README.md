@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+> I have learned that to be with those I like is enough.
 >
-> <p>- William C. Menninger</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
