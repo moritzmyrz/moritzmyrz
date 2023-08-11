@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do something wonderful, people may imitate it.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Samuel Butler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
