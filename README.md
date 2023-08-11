@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> Fortune favors the brave.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
