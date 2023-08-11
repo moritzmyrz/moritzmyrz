@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- Walt Whitman</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
