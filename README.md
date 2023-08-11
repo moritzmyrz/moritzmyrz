@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Corita Kent</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
