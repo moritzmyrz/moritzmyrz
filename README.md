@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is good even for old men to learn wisdom.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Aeschylus</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
