@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> Wisdom begins in wonder.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
