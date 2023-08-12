@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is like money, easier made than kept.
+> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
 >
-> <p>- Samuel Butler</p>
+> <p>- Elizabeth Montagu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
