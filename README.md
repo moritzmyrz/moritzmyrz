@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
