@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
