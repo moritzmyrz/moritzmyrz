@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- Jane Addams</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
