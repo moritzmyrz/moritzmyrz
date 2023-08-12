@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
