@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+> We are wiser than we know.
 >
-> <p>- Frank Abagnale</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
