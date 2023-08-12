@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before we acquire great power, we must acquire wisdom to use it well.
+> Beware of missing chances; otherwise it may be altogether too late someday.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Franz Liszt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
