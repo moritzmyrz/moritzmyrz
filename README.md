@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- Charles Lamb</p>
+> <p>- Frank Abagnale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
