@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
