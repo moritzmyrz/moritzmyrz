@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> Wisdom comes alone through suffering.
 >
-> <p>- Isocrates</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
