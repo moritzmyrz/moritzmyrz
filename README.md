@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> Faith in oneself is the best and safest course.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
