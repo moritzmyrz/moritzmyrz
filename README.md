@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Accept the challenges so that you can feel the exhilaration of victory.
 >
-> <p>- Wayne Dyer</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
