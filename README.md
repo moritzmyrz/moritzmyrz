@@ -24,7 +24,7 @@
 
 ## 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> Anything you really want, you can attain, if you really go after it.
 >
 > <p>- Wayne Dyer</p>
 
