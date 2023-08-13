@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
 >
-> <p>- Michelangelo</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
