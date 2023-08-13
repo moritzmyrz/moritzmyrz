@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Ralph Marston</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
