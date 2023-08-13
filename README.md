@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anything you really want, you can attain, if you really go after it.
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
