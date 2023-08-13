@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
