@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> Love has no age, no limit; and no death.
 >
-> <p>- Laurie Anderson</p>
+> <p>- John Galsworthy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
