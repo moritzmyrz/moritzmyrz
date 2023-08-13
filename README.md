@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Yogi Berra</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
