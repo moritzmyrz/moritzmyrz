@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Sam Ewing</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
