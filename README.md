@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>- John Updike</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
