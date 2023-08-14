@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Laozi</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
