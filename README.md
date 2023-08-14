@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> Not all those who wander are lost.
 >
-> <p>- John Brunner</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
