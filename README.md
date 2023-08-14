@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As an organizer I start from where the world is, as it is, not as I would like it to be.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Saul Alinsky</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
