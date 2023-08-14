@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
+> As an organizer I start from where the world is, as it is, not as I would like it to be.
 >
-> <p>- Plato</p>
+> <p>- Saul Alinsky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
