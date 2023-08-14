@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
