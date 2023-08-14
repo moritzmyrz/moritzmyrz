@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
