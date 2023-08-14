@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
