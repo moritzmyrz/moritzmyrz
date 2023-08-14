@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's most persistent and urgent question is, 'What are you doing for others?'
+> Computers are like bikinis. They save people a lot of guesswork.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Sam Ewing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
