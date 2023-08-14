@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Helen Keller</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
