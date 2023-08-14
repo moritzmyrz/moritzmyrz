@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
