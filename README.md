@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
