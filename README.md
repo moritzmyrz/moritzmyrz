@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
 >
-> <p>- Laozi</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
