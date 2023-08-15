@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> You won't skid if you stay in a rut.
 >
-> <p>- Napoleon</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
