@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
