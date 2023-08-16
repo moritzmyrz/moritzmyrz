@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
