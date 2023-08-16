@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> To listen well is as powerful a means of communication and influence as to talk well.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- John Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
