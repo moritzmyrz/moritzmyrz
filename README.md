@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Keep yourself to the sunshine and you cannot see the shadow.
 >
-> <p>- John Lennon</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
