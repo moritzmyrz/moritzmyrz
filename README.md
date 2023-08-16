@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing in a caterpillar that tells you it's going to be a butterfly.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
