@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Maya Angelou</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
