@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Dalai Lama</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
