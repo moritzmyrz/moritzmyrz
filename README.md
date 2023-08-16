@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the middle of every difficulty lies opportunity.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
