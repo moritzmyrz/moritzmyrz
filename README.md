@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> You are always free to change your mind and choose a different future, or a different past.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
