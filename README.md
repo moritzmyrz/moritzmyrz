@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> Love, friendship and respect do not unite people as much as a common hatred for something.
 >
-> <p>- Jim Rohn</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
