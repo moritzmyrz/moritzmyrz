@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> Either you run the day or the day runs you.
 >
-> <p>- Sai Baba</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
