@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> Nothing will work unless you do.
 >
-> <p>- The Buddha</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
