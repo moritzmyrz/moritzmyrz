@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Richard Bach</p>
+> <p>- Rudolf Arnheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
