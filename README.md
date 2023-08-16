@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Napoleon</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
