@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
 >
-> <p>- Virgil</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
