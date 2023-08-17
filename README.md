@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+> Love demands infinitely less than friendship.
 >
-> <p>- Walter Benjamin</p>
+> <p>- George Jean Nathan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
