@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
