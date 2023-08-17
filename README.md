@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Plato</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
