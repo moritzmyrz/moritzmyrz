@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
