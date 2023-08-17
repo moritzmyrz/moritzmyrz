@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
