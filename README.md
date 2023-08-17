@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
