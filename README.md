@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> Applause is a receipt, not a bill.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
