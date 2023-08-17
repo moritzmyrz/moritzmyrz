@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
