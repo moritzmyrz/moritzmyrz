@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- The Buddha</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
