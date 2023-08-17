@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> Applause is a receipt, not a bill.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
