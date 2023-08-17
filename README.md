@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
