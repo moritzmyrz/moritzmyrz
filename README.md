@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> Once you choose hope, anything's possible.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
