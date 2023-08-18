@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
-> <p>- Napoleon</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
