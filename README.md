@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Alexander Pope</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
