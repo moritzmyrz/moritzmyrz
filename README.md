@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
