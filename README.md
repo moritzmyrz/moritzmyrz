@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
