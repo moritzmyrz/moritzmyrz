@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Napoleon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
