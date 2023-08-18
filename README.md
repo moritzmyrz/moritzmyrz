@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
 >
-> <p>- Mark Twain</p>
+> <p>- Bob Feller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
