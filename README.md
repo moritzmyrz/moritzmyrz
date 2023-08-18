@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- The Buddha</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
