@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good judgment comes from experience, and a lot of that comes from bad judgment.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- Will Rogers</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
