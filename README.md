@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not afraid of storms, for I'm learning how to sail my ship.
+> Good judgment comes from experience, and a lot of that comes from bad judgment.
 >
-> <p>- Louisa May Alcott</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
