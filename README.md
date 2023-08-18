@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Voltaire</p>
+> <p>- Louisa May Alcott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
