@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
