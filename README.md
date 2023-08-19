@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
