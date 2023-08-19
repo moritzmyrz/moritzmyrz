@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science gives us knowledge, but only philosophy can give us wisdom.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Will Durant</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
