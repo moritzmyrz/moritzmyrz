@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Laozi</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
