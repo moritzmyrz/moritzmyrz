@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
+> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
 >
-> <p>- Colette</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
