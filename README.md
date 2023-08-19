@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Most folks are as happy as they make up their minds to be.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
