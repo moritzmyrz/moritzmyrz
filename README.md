@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
