@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Hannah Arendt</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
