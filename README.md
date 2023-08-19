@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
