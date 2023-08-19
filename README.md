@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
