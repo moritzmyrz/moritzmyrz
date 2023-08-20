@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- The Buddha</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
