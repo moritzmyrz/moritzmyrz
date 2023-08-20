@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> Wisdom begins at the end.
 >
-> <p>- Northrop Frye</p>
+> <p>- Daniel Webster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
