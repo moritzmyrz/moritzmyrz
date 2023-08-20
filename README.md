@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
 >
-> <p>- Doug Horton</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
