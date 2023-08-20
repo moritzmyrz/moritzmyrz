@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
