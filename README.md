@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
+> Marriage: A friendship recognized by the police.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
