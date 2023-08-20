@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Mary Pickford</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
