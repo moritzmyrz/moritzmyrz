@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Sophocles</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
