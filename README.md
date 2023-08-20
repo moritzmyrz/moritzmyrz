@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> A short saying often contains much wisdom.
 >
-> <p>- John Muir</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
