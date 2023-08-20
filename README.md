@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
