@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom begins at the end.
+> To avoid criticism, do nothing, say nothing, be nothing.
 >
-> <p>- Daniel Webster</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
