@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- Brendan Behan</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
