@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is the marriage of the soul, and this marriage is liable to divorce.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Voltaire</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
