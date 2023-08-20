@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
 >
-> <p>- May Sarton</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
