@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Some do not understand that we must die, But those who do realize this settle their quarrels.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- The Buddha</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
