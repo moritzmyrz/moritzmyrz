@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
+> No yesterdays are ever wasted for those who give themselves to today.
 >
-> <p>- Robert Southey</p>
+> <p>- Brendan Behan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
