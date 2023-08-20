@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just because something doesn't do what you planned it to do doesn't mean it's useless.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Thomas Edison</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
