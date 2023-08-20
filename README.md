@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Wayne Dyer</p>
+> <p>- E. E. Cummings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
