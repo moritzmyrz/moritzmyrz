@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Epictetus</p>
+> <p>- Bernadette Devlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
