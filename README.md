@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
