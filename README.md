@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Mother Teresa</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
