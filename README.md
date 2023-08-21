@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Alan Watts</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
