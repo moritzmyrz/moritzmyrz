@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
