@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
