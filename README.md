@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Winners never quit and quitters never win.
+> Life isn't about finding yourself. Life is about creating yourself.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
