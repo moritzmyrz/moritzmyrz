@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
