@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How far that little candle throws its beams! So shines a good deed in a naughty world.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- William Shakespeare</p>
+> <p>- James M. Beggs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
