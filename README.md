@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Peter Drucker</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
