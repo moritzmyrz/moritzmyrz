@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- William Inge</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
