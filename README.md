@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
