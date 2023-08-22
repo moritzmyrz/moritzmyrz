@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Carl Jung</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
