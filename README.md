@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
