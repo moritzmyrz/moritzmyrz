@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> Never mistake activity for achievement.
 >
-> <p>- Winston Churchill</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
