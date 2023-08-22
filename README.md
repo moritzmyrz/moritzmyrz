@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
