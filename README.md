@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Rumi</p>
+> <p>- William Inge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
