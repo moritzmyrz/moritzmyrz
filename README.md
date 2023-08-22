@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+> A ruffled mind makes a restless pillow.
 >
-> <p>- Johann Kaspar Lavater</p>
+> <p>- Charlotte Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
