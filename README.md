@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Og Mandino</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
