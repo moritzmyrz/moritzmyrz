@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> Genuine sincerity opens people's hearts, while manipulation causes them to close.
 >
-> <p>- Carl Jung</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
