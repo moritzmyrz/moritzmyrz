@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> Let the beauty of what you love be what you do.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
