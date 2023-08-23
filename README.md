@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
