@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
+> No bird soars too high if he soars with his own wings.
 >
-> <p>- Bertrand Russell</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
