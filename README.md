@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Anatole France</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
