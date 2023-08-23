@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
