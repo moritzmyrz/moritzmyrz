@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All know the way; few actually walk it.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Bodhidharma</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
