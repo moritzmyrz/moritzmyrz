@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- James M. Beggs</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
