@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> All know the way; few actually walk it.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Bodhidharma</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
