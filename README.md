@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
 >
-> <p>- Alan Watts</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
