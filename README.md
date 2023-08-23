@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
