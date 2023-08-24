@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Some people are born on third base and go through life thinking they hit a triple.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Barry Switzer</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
