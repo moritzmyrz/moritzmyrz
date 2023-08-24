@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> In order to succeed, we must first believe that we can.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
