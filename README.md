@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
