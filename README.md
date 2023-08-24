@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
