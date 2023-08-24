@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> What do we live for, if it is not to make life less difficult for each other?
 >
-> <p>- Abraham Lincoln</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
