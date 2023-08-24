@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+> From error to error one discovers the entire truth.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
