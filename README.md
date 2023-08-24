@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
