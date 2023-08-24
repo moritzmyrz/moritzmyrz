@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
