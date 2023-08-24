@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- Sigmund Freud</p>
+> <p>- John Quincy Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
