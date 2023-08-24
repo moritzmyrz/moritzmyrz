@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- Jonas Salk</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
