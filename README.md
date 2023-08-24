@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Dalai Lama</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
