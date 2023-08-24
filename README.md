@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- John Quincy Adams</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
