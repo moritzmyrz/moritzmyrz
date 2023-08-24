@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- May Sarton</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
