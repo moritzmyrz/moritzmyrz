@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
+> With the new day comes new strength and new thoughts.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
