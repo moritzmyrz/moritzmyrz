@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
