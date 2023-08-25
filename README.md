@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
