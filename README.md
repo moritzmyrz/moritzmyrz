@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to a better understanding of ourselves.
+> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
 >
-> <p>- Carl Jung</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
