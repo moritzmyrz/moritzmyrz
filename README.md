@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- The Buddha</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
