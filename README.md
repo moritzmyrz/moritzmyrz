@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever happens, take responsibility.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Tony Robbins</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
