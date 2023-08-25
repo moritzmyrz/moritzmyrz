@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> Whatever happens, take responsibility.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
