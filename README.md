@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
 >
-> <p>- Ernie Banks</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
