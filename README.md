@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
 >
-> <p>- Albert Einstein</p>
+> <p>- John McCain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
