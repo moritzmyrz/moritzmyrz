@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
