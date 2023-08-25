@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dag Hammarskjöld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
