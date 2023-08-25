@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only time to buy these is on a day with no 'y' in it.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Warren Buffett</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
