@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+> I don't want to achieve immortality through my work... I want to achieve it through not dying.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
