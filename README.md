@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With the new day comes new strength and new thoughts.
+> The only time to buy these is on a day with no 'y' in it.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
