@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- John McCain</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
