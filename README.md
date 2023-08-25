@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can do it if you believe you can!
+> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
