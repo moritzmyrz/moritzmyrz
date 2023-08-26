@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 >
-> <p>- Whoopi Goldberg</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
