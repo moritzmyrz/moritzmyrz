@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Price is what you pay. Value is what you get.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Warren Buffett</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
