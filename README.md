@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
