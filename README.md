@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> The root of suffering is attachment.
 >
-> <p>- Bruce Lee</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
