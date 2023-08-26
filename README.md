@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
