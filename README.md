@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> If a man watches three football games in a row, he should be declared legally dead.
 >
-> <p>- George Foreman</p>
+> <p>- Erma Bombeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
