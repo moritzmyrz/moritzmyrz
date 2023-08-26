@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man watches three football games in a row, he should be declared legally dead.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Erma Bombeck</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
