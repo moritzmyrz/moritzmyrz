@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- George Foreman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
