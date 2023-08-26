@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Edward Young</p>
+> <p>- Mignon McLaughlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
