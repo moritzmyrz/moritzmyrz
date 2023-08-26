@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- Anatole France</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
