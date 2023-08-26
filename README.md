@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Winston Churchill</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
