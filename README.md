@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is fatal to enter any war without the will to win it.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- Douglas MacArthur</p>
+> <p>- Johann Kaspar Lavater</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
