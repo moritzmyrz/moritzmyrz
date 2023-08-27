@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Carl Jung</p>
+> <p>- Anna Pavlova</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
