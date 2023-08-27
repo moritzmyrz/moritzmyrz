@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> A house divided against itself cannot stand.
 >
-> <p>- John Lennon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
