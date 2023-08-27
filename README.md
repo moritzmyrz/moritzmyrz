@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Anna Pavlova</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
