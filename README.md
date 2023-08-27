@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All I can say about life is, Oh God, enjoy it!
+> Reality leaves a lot to the imagination.
 >
-> <p>- Bob Newhart</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
