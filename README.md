@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> You can't blame gravity for falling in love.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
