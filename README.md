@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest way to live with honor in this world is to be what we pretend to be.
+> It is never too late to be what you might have been.
 >
-> <p>- Socrates</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
