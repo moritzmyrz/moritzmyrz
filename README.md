@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- Albert Einstein</p>
+> <p>- Melody Beattie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
