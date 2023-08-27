@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Price is what you pay. Value is what you get.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Warren Buffett</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
