@@ -24,7 +24,7 @@
 
 ## 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> He that is giddy thinks the world turns round.
 >
 > <p>- William Shakespeare</p>
 
