@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Confucius</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
