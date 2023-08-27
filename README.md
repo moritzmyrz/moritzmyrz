@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You yourself must strive. The Buddhas only point the way.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- The Buddha</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
