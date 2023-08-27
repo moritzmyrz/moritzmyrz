@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- William Shakespeare</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
