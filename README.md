@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
