@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> You yourself must strive. The Buddhas only point the way.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
