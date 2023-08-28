@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- Ernie Banks</p>
+> <p>- Nora Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
