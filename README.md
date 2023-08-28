@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take things as they are. Punch when you have to punch. Kick when you have to kick.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Bruce Lee</p>
+> <p>- John Junor</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
