@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> Take things as they are. Punch when you have to punch. Kick when you have to kick.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
