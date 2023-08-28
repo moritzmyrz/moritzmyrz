@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Albert Einstein</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
