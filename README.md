@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is someone who gives you total freedom to be yourself.
+> Nothing happens unless first we dream.
 >
-> <p>- Jim Morrison</p>
+> <p>- Carl Sandburg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
