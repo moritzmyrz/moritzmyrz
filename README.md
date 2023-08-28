@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Subdue your appetites, my dears, and you've conquered human nature.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- Charles Dickens</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
