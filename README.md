@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Leave no stone unturned.
+> Setting an example is not the main means of influencing another, it is the only means.
 >
-> <p>- Euripides</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
