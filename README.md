@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> Leave no stone unturned.
 >
-> <p>- Plato</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
