@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Walter Winchell</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
