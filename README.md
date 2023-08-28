@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Mencius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
