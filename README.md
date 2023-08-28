@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Léon Blum</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
