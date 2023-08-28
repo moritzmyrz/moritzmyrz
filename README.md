@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> Love is a serious mental disease.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
