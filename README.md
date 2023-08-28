@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Setting an example is not the main means of influencing another, it is the only means.
+> Friends are the siblings God never gave us.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mencius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
