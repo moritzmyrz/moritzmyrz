@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Laozi</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
