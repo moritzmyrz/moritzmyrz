@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Plato</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
