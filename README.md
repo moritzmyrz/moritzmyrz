@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
+> Silence is the sleep that nourishes wisdom.
 >
-> <p>- Tony Robbins</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
