@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
 >
-> <p>- Robert Fulghum</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
