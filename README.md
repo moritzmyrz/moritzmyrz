@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> A short saying often contains much wisdom.
 >
-> <p>- Doris Mortman</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
