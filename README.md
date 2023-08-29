@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
 >
-> <p>- Winston Churchill</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
