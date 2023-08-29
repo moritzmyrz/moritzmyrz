@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Confucius</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
