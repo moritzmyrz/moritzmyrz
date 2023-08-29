@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- The Buddha</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
