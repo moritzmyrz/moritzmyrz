@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> First-rate people hire first-rate people; second-rate people hire third-rate people.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Leo Rosten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
