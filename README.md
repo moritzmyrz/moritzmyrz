@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
+> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
 >
-> <p>- Helen Keller</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
