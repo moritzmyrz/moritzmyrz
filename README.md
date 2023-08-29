@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think somehow, we learn who we really are and then live with that decision.
+> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
