@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
