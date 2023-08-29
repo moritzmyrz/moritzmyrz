@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First-rate people hire first-rate people; second-rate people hire third-rate people.
+> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
 >
-> <p>- Leo Rosten</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
