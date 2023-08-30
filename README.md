@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- John F. Kennedy</p>
+> <p>- John Steinbeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
