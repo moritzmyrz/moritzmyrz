@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+> How far that little candle throws its beams! So shines a good deed in a naughty world.
 >
-> <p>- Barbara De Angelis</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
