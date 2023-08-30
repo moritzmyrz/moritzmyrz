@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
