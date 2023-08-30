@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Confucius</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
