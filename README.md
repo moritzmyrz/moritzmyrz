@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
 >
-> <p>- Confucius</p>
+> <p>- Barbara De Angelis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
