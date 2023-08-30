@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- William Shakespeare</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
