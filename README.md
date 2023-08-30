@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All wisdom does not reside in Delhi.
+> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
 >
-> <p>- P. Chidambaram</p>
+> <p>- Democritus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
