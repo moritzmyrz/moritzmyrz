@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> Many men go fishing all of their lives without knowing that it is not fish they are after.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
