@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Nelson Mandela</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
