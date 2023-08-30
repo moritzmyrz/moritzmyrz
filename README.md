@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
+> The pine stays green in winter... wisdom in hardship.
 >
-> <p>- Democritus</p>
+> <p>- Norman Douglas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
