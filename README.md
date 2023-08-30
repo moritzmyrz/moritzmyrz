@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- John Steinbeck</p>
+> <p>- Moncure D. Conway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
