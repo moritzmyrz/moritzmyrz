@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> Don't look back. Something might be gaining on you.
 >
-> <p>- Sophocles</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
