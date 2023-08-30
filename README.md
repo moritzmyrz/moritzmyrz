@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Pope Paul VI</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
