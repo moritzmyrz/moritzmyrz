@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has been my experience that folks who have no vices have very few virtues.
+> A friend in power is a friend lost.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henry Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
