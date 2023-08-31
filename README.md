@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> If you have knowledge, let others light their candles in it.
 >
-> <p>- Willa Cather</p>
+> <p>- Margaret Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
