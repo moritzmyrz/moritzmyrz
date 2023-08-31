@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
