@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Morihei Ueshiba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
