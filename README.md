@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> You were not born a winner, and you were not born a loser. You are what you make yourself be.
 >
-> <p>- William Blake</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
