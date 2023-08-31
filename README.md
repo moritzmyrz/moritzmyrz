@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> Many men go fishing all of their lives without knowing that it is not fish they are after.
 >
-> <p>- Margaret Fuller</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
