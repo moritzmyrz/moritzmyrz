@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> Two persons cannot long be friends if they cannot forgive each other's little failings.
 >
-> <p>- Francis de Sales</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
