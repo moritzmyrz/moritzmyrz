@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
+> Having nothing, nothing can he lose.
 >
-> <p>- The Buddha</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
