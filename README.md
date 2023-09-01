@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- George Orwell</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
