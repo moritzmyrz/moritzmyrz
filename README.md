@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
+> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
 >
-> <p>- Hugh Jackman</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
