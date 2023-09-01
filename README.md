@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> Maxim for life: You get treated in life the way you teach people to treat you.
 >
-> <p>- Ernie Banks</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
