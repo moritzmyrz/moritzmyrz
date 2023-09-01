@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before God we are all equally wise - and equally foolish.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
