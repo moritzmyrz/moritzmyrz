@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Maxim for life: You get treated in life the way you teach people to treat you.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Wayne Dyer</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
