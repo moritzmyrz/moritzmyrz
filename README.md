@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Francis Bacon</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
