@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Harold Geneen</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
