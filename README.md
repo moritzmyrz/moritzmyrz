@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
 >
-> <p>- Walter Lippmann</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
