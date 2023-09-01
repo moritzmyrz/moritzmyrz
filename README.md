@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fewer rules a coach has, the fewer rules there are for players to break.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- John Madden</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
