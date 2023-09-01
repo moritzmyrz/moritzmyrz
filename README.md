@@ -24,9 +24,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- Michelangelo</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
