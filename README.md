@@ -6,10 +6,9 @@
 
 - 🌍 I'm based in Norway
 - 🖥️ See my portfolio at [myrseth.dev](https://www.myrseth.dev)
-- 🎓 Currently pursuing a B.Sc. in Software engineering at OsloMet
-- 🤓 Read my blog at [blog.myrseth.dev](https://blog.myrseth.dev)
+- 🎓 Currently pursuing a B.Sc. in Software Engineering at OsloMet
 - ✉️ You can contact me at [moritz@myrseth.dev](mailto:moritz@myrseth.dev)
-- 🚀 I'm currently working at [Fjordmail Technologies AS](https://www.fjordmail.no/)
+- 🚀 I'm currently working at [Inbox.com AS](https://www.inbox.com)
 
 ### Skills
 
@@ -24,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Confucius</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
