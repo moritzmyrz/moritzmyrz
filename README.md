@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
