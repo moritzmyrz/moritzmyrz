@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
