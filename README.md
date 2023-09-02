@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
