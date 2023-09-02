@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> Don't watch the clock; do what it does. Keep going.
 >
-> <p>- Laozi</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
