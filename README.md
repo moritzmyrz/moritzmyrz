@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Plato</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
