@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> All children are artists. The problem is how to remain an artist once he grows up.
 >
-> <p>- Napoleon</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
