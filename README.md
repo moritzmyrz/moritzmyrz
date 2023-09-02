@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Thomas Edison</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
