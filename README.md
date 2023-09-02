@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- William Penn</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
