@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> To study and not think is a waste. To think and not study is dangerous.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
