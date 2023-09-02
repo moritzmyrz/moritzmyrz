@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> Victory belongs to the most persevering.
 >
-> <p>- Robert Frost</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
