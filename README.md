@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- Napoleon</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
