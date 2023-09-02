@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
