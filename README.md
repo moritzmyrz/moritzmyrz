@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> Doing what you love is the cornerstone of having abundance in your life.
 >
-> <p>- John Lennon</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
