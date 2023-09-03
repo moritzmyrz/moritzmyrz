@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Well done is better than well said.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
