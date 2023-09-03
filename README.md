@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- George Sand</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
