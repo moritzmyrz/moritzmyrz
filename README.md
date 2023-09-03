@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> The simplest things are often the truest.
 >
-> <p>- Aesop</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
