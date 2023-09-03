@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
