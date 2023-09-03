@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
+> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
 >
-> <p>- Colette</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
