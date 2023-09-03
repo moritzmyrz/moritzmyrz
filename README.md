@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are made wise not by the recollection of our past, but by the responsibility for our future.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
