@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Zhuang Zhou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
