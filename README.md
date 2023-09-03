@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
