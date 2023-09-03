@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- The Buddha</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
