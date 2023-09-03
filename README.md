@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Hal Abelson</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
