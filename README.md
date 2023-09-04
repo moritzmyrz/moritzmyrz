@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Seneca the Younger</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
