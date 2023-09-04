@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Albert Einstein</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
