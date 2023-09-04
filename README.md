@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
