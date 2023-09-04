@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> Technology is a word that describes something that doesn't work yet.
 >
-> <p>- Carl Jung</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
