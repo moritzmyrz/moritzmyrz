@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- John Burroughs</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
