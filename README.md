@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- David McCullough</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
