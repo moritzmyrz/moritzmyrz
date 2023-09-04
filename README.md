@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
