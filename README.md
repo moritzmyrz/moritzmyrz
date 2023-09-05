@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Winston Churchill</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
