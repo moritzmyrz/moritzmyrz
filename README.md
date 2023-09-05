@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
