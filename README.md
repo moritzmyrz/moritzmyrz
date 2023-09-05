@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> A short saying often contains much wisdom.
 >
-> <p>- Tony Robbins</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
