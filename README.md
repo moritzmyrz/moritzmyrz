@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Alexander Chalmers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
