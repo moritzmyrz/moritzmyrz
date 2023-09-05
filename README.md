@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
 > <p>- Epictetus</p>
 
