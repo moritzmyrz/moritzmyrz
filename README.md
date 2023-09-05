@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Amy Bloom</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
