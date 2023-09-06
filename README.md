@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.
 >
-> <p>- Will Durant</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
