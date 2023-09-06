@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
+> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
 >
-> <p>- Richard Bach</p>
+> <p>- Abigail Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
