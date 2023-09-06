@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Steven Van Zandt</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
