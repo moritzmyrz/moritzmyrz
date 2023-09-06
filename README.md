@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> Love demands infinitely less than friendship.
 >
-> <p>- Albert Einstein</p>
+> <p>- George Jean Nathan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
