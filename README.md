@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
+> If you do what you've always done, you'll get what you've always gotten.
 >
-> <p>- Confucius</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
