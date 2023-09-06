@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
+> If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.
 >
-> <p>- Richard Bach</p>
+> <p>- Caterina Fake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
