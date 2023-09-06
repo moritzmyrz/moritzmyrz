@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
 >
-> <p>- Will Rogers</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
