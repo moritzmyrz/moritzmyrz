@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
