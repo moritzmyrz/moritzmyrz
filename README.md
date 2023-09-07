@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Marcel Proust</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
