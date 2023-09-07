@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> All great achievements require time.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
