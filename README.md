@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> There is nothing impossible to him who will try.
 >
-> <p>- Helen Keller</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
