@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Mark Twain</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
