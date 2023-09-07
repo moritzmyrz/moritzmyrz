@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> Think as a wise man but communicate in the language of the people.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
