@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Elisabeth Kübler-Ross</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
