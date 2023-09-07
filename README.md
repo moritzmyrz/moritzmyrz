@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
