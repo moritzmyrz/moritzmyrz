@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
