@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- The Buddha</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
