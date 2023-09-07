@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> When you learn, teach. When you get, give.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
