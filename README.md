@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Learning never exhausts the mind.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
