@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Charles Dickens</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
