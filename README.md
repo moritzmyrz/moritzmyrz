@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Helen Keller</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
