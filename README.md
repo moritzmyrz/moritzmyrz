@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> The most effective way to do it, is to do it.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
