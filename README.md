@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge without justice ought to be called cunning rather than wisdom.
+> He who fears being conquered is sure of defeat.
 >
-> <p>- Plato</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
