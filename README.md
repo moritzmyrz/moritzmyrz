@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> Knowledge without justice ought to be called cunning rather than wisdom.
 >
-> <p>- George Orwell</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
