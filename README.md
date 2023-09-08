@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must not say every mistake is a foolish one.
+> Science gives us knowledge, but only philosophy can give us wisdom.
 >
-> <p>- Cicero</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
