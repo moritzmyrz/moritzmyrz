@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
+> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
 >
-> <p>- The Buddha</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
