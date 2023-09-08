@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Myths which are believed in tend to become true.
 >
-> <p>- Paul Tillich</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
