@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most effective way to do it, is to do it.
+> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
 >
-> <p>- Amelia Earhart</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
