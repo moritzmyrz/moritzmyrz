@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- The Buddha</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
