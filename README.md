@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
