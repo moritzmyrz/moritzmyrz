@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Sydney J. Harris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
