@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Demosthenes</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
