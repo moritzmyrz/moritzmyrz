@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> All difficult things have their origin in that which is easy, and great things in that which is small.
 >
 > <p>- Laozi</p>
 
