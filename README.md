@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> Wherever you go, go with all your heart.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
