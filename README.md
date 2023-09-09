@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Confucius</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
