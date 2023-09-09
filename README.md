@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Sydney J. Harris</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
