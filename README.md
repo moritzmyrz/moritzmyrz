@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Richard Bach</p>
+> <p>- Kathleen Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
