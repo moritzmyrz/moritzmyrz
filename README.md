@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- Elon Musk</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
