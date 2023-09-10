@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
