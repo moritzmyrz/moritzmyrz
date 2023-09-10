@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>- Billie Jean King</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
