@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
 >
-> <p>- Plato</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
