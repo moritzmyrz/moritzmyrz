@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you doubt your power, you give power to your doubt.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
