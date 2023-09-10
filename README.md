@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
