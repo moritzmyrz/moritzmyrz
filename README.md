@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom often times consists of knowing what to do next.
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
-> <p>- Herbert Hoover</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
