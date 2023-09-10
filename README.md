@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> Be as you wish to seem.
 >
-> <p>- Mother Teresa</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
