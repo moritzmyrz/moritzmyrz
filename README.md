@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> Friendship is one mind in two bodies.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Mencius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
