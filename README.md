@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Billy Wilder</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
