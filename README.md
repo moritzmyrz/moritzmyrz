@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's easy to make a buck. It's a lot tougher to make a difference.
+> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
 >
-> <p>- Tom Brokaw</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
