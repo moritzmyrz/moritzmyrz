@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
