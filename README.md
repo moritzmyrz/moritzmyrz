@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are masters of the unsaid words, but slaves of those we let slip out.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- Winston Churchill</p>
+> <p>- Billy Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
