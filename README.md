@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Jim Elliot</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
