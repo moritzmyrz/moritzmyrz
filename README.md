@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The bird of paradise alights only upon the hand that does not grasp.
+> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- John Berry</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
