@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Liberty, taking the word in its concrete sense, consists in the ability to choose.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Simone Weil</p>
+> <p>- Martha Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
