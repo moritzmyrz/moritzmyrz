@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Absence makes the heart grow fonder.
+> There are two kinds of failures: those who thought and never did, and those who did and never thought.
 >
-> <p>- Thomas Haynes Bayly</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
