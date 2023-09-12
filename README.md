@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
