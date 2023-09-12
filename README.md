@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> So long as a person is capable of self-renewal they are a living being.
 >
-> <p>- Richard Bach</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
