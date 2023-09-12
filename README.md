@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Tony Robbins</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
