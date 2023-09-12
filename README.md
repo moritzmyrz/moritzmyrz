@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
