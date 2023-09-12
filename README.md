@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> The pain passes, but the beauty remains.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
