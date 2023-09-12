@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
+> Happiness mainly comes from our own attitude, rather than from external factors.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
