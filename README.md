@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest healing therapy is friendship and love.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
