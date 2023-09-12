@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
+> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
 >
-> <p>- Robert Southey</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
