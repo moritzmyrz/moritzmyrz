@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
 >
-> <p>- Henry James</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
