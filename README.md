@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> Every gift from a friend is a wish for your happiness.
 >
-> <p>- Woody Allen</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
