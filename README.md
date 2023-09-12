@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> The greatest healing therapy is friendship and love.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
