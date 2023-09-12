@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Lou Holtz</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
