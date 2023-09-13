@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
