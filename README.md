@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Doing what you love is the cornerstone of having abundance in your life.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
