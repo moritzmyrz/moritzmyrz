@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
 >
-> <p>- Will Rogers</p>
+> <p>- Niccolò Machiavelli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
