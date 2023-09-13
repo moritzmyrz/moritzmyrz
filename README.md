@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Joe Paterno</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
