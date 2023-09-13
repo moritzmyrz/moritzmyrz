@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
