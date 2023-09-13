@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Pericles</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
