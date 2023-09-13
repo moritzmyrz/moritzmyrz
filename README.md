@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> You cannot step twice into the same river, for other waters are continually flowing in.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
