@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Epictetus</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
