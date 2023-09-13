@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
