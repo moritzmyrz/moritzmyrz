@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Take things as they are. Punch when you have to punch. Kick when you have to kick.
 >
-> <p>- Ansel Adams</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
