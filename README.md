@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Mother Teresa</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
