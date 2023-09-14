@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
