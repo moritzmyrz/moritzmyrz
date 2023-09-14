@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> The greater our knowledge increases the more our ignorance unfolds.
 >
-> <p>- Confucius</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
