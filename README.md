@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
