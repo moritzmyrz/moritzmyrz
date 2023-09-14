@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All is flux; nothing stays still.
+> Sports do not build character. They reveal it.
 >
-> <p>- Heraclitus</p>
+> <p>- Heywood Broun</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
