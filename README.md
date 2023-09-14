@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sports do not build character. They reveal it.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Heywood Broun</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
