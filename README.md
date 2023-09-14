@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
