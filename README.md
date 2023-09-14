@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Josh Billings</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
