@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
