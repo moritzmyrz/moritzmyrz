@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is more wisdom in your body than in your deepest philosophy.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Niels Bohr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
