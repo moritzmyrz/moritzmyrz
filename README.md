@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is where preparation and opportunity meet.
+> There is more wisdom in your body than in your deepest philosophy.
 >
-> <p>- Bobby Unser</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
