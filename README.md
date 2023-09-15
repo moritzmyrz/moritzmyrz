@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Appearances are often deceiving.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Aesop</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
