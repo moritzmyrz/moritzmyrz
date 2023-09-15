@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> There never was a good knife made of bad steel.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
