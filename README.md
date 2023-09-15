@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> Appearances are often deceiving.
 >
-> <p>- George Washington</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
