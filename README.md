@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
