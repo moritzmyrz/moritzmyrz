@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There never was a good knife made of bad steel.
+> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
