@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
