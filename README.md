@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
