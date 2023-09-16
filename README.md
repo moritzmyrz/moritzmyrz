@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- John Pierrakos</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
