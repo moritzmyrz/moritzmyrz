@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- George Sand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
