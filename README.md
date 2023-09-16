@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
