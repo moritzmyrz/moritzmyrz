@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Isocrates</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
