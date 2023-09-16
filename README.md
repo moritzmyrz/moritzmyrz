@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Laozi</p>
+> <p>- Howard H. Aiken</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
