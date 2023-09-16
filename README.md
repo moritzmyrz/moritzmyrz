@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> Go put your creed into the deed. Nor speak with double tongue.
 >
-> <p>- Maya Angelou</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
