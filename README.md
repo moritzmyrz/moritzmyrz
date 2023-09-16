@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Abigail Adams</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
