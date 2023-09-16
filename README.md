@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Hugh Miller</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
