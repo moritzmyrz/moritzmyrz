@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Epictetus</p>
+> <p>- John Pierrakos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
