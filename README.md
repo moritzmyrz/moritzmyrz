@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
