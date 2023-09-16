@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- James Freeman Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
