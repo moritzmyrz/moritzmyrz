@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Havelock Ellis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
