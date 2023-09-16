@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
