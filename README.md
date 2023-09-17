@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man who trusts men will make fewer mistakes than he who distrusts them.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Camillo Benso, Count of Cavour</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
