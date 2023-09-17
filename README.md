@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
