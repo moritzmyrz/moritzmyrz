@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> The superior man acts before he speaks, and afterwards speaks according to his action.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
