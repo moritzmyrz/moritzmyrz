@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Daniel J. Boorstin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
