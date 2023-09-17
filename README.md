@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- William Saroyan</p>
+> <p>- Liberace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
