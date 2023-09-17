@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many cares one loses when one decides not to be something but to be someone.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Coco Chanel</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
