@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man acts before he speaks, and afterwards speaks according to his action.
+> Believe you can and you're halfway there.
 >
-> <p>- Confucius</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
