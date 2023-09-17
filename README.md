@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> You're never a loser until you quit trying.
 >
-> <p>- James M. Beggs</p>
+> <p>- Mike Ditka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
