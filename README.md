@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Napoleon Hill</p>
+> <p>- James M. Beggs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
