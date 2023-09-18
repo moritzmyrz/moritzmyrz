@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meditate … do not delay, lest you later regret it.
+> Of all possessions a friend is the most precious.
 >
-> <p>- The Buddha</p>
+> <p>- Herodotus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
