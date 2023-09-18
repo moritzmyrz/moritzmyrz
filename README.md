@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> Meditate … do not delay, lest you later regret it.
 >
-> <p>- Euripides</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
