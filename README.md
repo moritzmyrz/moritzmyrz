@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
+> The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Simon Sinek</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
