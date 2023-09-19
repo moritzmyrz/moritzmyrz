@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Begin, be bold, and venture to be wise.
+> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
 >
-> <p>- Horace</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
