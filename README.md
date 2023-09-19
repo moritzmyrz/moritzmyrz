@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
