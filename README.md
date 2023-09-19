@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is not started today is never finished tomorrow.
+> To profit from good advice requires more wisdom than to give it.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Wilson Mizner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
