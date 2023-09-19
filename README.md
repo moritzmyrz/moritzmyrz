@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
 >
-> <p>- Barack Obama</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
