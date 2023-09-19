@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
