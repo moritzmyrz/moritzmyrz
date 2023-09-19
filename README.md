@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> Begin, be bold, and venture to be wise.
 >
-> <p>- Euripides</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
