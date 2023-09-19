@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- Voltaire</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
