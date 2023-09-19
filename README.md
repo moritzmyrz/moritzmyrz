@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let yourself be silently drawn by the stronger pull of what you really love.
+> The best way to predict your future is to create it.
 >
-> <p>- Rumi</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
