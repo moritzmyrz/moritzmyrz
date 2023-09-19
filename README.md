@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- William Shakespeare</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
