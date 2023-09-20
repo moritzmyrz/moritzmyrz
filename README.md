@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
