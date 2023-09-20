@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
