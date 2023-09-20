@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?
+> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
