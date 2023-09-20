@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> Men are disturbed not by things, but by the view which they take of them.
 >
-> <p>- Anna Pavlova</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
