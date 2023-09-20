@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- The Buddha</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
