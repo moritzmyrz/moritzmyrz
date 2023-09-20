@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> Commitment is an act, not a word.
 >
-> <p>- Andy Rooney</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
