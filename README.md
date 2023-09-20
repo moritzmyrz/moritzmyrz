@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Confucius</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
