@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way to predict your future is to create it.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Peter Drucker</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
