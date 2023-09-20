@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Well done is better than well said.
+> Do not go where the path may lead, go instead where there is no path and leave a trail.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
