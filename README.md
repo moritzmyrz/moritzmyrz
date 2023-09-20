@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Epictetus</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
