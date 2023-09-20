@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
