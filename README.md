@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+> How we spend our days is, of course, how we spend our lives.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Annie Dillard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
