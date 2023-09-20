@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Isaac D'Israeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
