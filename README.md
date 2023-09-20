@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- The Buddha</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
