@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Tony Robbins</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
