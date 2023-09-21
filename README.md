@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Denis Waitley</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
