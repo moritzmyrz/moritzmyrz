@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
+> When people are like each other they tend to like each other.
 >
-> <p>- Rowan Williams</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
