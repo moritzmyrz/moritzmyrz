@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
