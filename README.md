@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> At the center of your being, you have the answer; you know who you are, and you know what you want.
 >
-> <p>- Winston Churchill</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
