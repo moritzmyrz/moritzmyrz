@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
 >
-> <p>- Thomas Edison</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
