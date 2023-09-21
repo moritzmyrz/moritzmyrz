@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
