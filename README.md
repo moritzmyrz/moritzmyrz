@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> Opportunity is missed by most because it is dressed in overalls and looks like work.
 >
-> <p>- Audre Lorde</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
