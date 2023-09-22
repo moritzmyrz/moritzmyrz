@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Aristotle</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
