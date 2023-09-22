@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
 >
-> <p>- Epictetus</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
