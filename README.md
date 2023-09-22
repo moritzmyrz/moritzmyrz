@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good judgment comes from experience, and a lot of that comes from bad judgment.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Will Rogers</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
