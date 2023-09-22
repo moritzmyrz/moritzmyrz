@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Good judgment comes from experience, and a lot of that comes from bad judgment.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
