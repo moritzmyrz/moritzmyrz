@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> Do more than dream: work.
 >
-> <p>- Albert Camus</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
