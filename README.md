@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> Think like a man of action; act like a man of thought.
 >
-> <p>- Dalai Lama</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
