@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> I'm a great believer in luck and I find the harder I work, the more I have of it.
 >
-> <p>- Alan Watts</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
