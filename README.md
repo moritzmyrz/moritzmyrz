@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
