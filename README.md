@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
