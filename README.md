@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- The Buddha</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
