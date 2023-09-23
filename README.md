@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
