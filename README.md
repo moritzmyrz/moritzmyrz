@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't judge each day by the harvest you reap but by the seeds that you plant.
+> Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Maria Montessori</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
