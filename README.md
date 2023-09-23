@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Herbert Bayard Swope</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
