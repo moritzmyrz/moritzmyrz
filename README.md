@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has long been an axiom of mine that the little things are infinitely the most important.
+> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
