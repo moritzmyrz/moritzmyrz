@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- Maya Angelou</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
