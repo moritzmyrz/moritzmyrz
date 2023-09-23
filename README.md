@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Confucius</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
