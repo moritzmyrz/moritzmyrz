@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
 >
-> <p>- David McCullough</p>
+> <p>- Herbert Bayard Swope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
