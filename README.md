@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- The Buddha</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
