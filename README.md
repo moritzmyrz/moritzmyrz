@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We cannot be more sensitive to pleasure without being more sensitive to pain.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Alan Watts</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
