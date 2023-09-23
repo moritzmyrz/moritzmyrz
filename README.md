@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> Allow the world to live as it chooses, and allow yourself to live as you choose.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
