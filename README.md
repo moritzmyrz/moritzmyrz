@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Mother Teresa</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
