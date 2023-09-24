@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+> Life is just a chance to grow a soul.
 >
-> <p>- Bruce Lee</p>
+> <p>- A. Powell Davies</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
