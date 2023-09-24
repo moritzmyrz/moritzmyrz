@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
