@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> Value your friendship. Value your relationships.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
