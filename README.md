@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- George Washington</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
