@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> I don't want to achieve immortality through my work... I want to achieve it through not dying.
 >
-> <p>- Albert Einstein</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
