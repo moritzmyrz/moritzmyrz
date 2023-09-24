@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
 >
-> <p>- Princess Diana</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
