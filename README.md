@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.
+> And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
 >
-> <p>- Maria Montessori</p>
+> <p>- Rowan Williams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
