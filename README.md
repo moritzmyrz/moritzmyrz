@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
+> A true friend is someone who is there for you when he'd rather be anywhere else.
 >
-> <p>- Jane Addams</p>
+> <p>- Len Wein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
