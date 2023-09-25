@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
