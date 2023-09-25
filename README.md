@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Napoleon</p>
+> <p>- Shakti Gawain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
