@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- The Buddha</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
