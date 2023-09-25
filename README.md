@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Harriet Lerner</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
