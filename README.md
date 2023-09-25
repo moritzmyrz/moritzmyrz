@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
