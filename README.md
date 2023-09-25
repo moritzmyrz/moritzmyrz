@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Think how hard physics would be if particles could think.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Murray Gell-Mann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
