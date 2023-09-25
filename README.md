@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
 >
-> <p>- Shakti Gawain</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
