@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
