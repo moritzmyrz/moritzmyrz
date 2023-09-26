@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> A house divided against itself cannot stand.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
