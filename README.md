@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Harvey Mackay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
