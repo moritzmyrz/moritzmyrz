@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- George Sand</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
