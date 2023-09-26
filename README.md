@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> Some people go to priests; others to poetry; I to my friends.
 >
-> <p>- Richard Burton</p>
+> <p>- Virginia Woolf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
