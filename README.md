@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Napoleon</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
