@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
