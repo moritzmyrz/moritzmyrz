@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- William Penn</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
