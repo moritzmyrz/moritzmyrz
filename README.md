@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
