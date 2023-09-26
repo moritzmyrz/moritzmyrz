@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man cannot be said to succeed in this life who does not satisfy one friend.
+> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
