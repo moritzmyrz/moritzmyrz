@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.
+> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
 >
-> <p>- Mary Pickford</p>
+> <p>- Ralph Abernathy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
