@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
