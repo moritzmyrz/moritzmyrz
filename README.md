@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- The Buddha</p>
+> <p>- Max Planck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
