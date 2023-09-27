@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
+> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
 >
-> <p>- Ralph Abernathy</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
