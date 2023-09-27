@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
