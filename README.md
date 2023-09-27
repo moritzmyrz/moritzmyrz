@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Agatha Christie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
