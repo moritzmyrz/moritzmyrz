@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Joseph Joubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
