@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Elizabeth Kapu'uwailani Lindsey</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
