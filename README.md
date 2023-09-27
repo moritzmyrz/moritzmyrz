@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- Judy Garland</p>
+> <p>- Doris Day</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
