@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+> I have not failed. I've just found 10,000 ways that won't work.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
