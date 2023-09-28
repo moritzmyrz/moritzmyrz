@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- Audre Lorde</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
