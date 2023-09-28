@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
