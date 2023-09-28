@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> Be great in act, as you have been in thought.
 >
-> <p>- David McCullough</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
