@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
 >
-> <p>- Laozi</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
