@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have not failed. I've just found 10,000 ways that won't work.
+> I allow my intuition to lead my path.
 >
-> <p>- Thomas Edison</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
