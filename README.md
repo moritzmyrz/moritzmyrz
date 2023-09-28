@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
