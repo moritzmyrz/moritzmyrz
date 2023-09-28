@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
