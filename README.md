@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Gail Sheehy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
