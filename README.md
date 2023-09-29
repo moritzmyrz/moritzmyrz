@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those that know, do. Those that understand, teach.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Aristotle</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
