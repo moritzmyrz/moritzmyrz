@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- The Buddha</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
