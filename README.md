@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
