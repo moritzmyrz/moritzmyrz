@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> Those that know, do. Those that understand, teach.
 >
-> <p>- Alan Watts</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
