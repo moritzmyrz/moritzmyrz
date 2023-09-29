@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
-> <p>- Plato</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
