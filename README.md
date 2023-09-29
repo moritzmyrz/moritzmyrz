@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
 >
-> <p>- Hannah More</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
