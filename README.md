@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
