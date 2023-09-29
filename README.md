@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to kill any idea in the world, get a committee working on it.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
