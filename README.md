@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Robert Frost</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
