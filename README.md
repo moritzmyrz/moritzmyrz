@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> A good plan violently executed now is better than a perfect plan executed next week.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
