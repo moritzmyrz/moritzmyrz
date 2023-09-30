@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never mistake activity for achievement.
+> Whoso loves, believes the impossible.
 >
-> <p>- John Wooden</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
