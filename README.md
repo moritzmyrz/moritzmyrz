@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- Laozi</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
