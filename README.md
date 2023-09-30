@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
