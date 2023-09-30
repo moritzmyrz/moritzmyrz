@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- George S. Patton</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
