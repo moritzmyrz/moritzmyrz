@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- Plato</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
