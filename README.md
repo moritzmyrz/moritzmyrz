@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We cannot be more sensitive to pleasure without being more sensitive to pain.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- Alan Watts</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
