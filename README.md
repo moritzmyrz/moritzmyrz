@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- Brooks Adams</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
