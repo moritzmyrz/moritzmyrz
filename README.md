@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Albert Einstein</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
