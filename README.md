@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- Phil Jackson</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
