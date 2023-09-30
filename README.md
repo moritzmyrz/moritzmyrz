@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> The only limit to our realization of tomorrow will be our doubts of today.
 >
-> <p>- Sam Levenson</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
