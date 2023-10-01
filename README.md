@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
