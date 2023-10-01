@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- Albert Einstein</p>
+> <p>- Warren Bennis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
