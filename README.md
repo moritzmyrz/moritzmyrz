@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 >
-> <p>- Warren Bennis</p>
+> <p>- Elisabeth Kübler-Ross</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
