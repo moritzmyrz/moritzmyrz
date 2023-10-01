@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
