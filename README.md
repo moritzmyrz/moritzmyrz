@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Epictetus</p>
+> <p>- Joseph Prince</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
