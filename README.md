@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Helen Keller</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
