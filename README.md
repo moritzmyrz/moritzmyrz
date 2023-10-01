@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
 >
-> <p>- George S. Patton</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
