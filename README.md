@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
 >
-> <p>- Sun Tzu</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
