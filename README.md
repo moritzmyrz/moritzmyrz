@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Elisabeth Kübler-Ross</p>
+> <p>- Montesquieu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
