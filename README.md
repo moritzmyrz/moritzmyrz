@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> A house divided against itself cannot stand.
 >
-> <p>- Albert Einstein</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
