@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
