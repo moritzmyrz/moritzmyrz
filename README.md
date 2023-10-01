@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> When the solution is simple, God is answering.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
