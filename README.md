@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make our own fortunes and we call them fate.
+> Nothing but heaven itself is better than a friend who is really a friend.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Plautus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
