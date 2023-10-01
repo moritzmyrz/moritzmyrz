@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Isocrates</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
