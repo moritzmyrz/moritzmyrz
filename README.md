@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+> To fly, we have to have resistance.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
