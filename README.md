@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
