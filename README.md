@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Motivation is the art of getting people to do what you want them to do because they want to do it.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
