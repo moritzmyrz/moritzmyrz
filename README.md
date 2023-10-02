@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- George Sand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
