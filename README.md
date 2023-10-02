@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
 >
 > <p>- Elbert Hubbard</p>
 
