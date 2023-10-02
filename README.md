@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Albert Camus</p>
+> <p>- Gustave Flaubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
