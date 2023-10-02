@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> Life is a succession of lessons, which must be lived to be understood.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
