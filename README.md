@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
