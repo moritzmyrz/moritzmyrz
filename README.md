@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Laozi</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
