@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be as you wish to seem.
+> They can do all because they think they can.
 >
-> <p>- Socrates</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
