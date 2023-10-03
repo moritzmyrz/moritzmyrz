@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Jean Cocteau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
