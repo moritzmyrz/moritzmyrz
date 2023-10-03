@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
