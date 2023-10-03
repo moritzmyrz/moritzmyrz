@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Virgil</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
