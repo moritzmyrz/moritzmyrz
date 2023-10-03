@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
