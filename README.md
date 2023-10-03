@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> Nothing but heaven itself is better than a friend who is really a friend.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Plautus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
