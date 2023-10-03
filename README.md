@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
