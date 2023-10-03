@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fortune favors the brave.
+> The superior man is modest in his speech but exceeds in his actions.
 >
-> <p>- Virgil</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
