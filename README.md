@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
