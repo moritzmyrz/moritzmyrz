@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> Luck is what happens when preparation meets opportunity.
 >
-> <p>- George Santayana</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
