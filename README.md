@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- The Buddha</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
