@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all something, but none of us are everything.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Blaise Pascal</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
