@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
