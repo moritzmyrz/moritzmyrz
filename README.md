@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- Dalai Lama</p>
+> <p>- Melody Beattie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
