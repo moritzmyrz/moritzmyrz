@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Melody Beattie</p>
+> <p>- Kathleen Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
