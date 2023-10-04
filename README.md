@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
