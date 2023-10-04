@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
