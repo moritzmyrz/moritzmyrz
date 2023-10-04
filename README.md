@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Bill Bradley</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
