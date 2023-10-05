@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> No man is free who is not master of himself.
 >
-> <p>- Anne Lamott</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
