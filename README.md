@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> The most successful people are those who are good at plan B.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
