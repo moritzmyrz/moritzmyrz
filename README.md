@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Albert Einstein</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
