@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
 >
-> <p>- George Santayana</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
