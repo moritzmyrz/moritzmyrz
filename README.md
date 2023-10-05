@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
