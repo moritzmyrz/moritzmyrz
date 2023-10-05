@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
