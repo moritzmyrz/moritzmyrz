@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
