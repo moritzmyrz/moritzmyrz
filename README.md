@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is fatal to enter any war without the will to win it.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Douglas MacArthur</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
