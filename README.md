@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> The person born with a talent they are meant to use will find their greatest happiness in using it.
 >
-> <p>- Sophocles</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
