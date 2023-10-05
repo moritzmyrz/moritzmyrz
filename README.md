@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man is free who is not master of himself.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Epictetus</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
