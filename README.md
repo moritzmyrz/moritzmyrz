@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- Giotto</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
