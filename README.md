@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> Never mistake activity for achievement.
 >
-> <p>- James A. Yorke</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
