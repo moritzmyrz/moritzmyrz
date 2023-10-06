@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Francis Bacon</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
