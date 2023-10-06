@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- George Washington</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
