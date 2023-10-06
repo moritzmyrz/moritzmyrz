@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
