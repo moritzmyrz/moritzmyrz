@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Henry Ford</p>
+> <p>- Amy Tan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
