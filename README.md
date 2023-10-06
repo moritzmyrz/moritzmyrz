@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
+> It is far better to be alone, than to be in bad company.
 >
-> <p>- Volker Grassmuck</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
