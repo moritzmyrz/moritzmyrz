@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
