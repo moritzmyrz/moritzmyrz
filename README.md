@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
 >
-> <p>- Carl Jung</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
