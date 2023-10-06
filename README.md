@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
