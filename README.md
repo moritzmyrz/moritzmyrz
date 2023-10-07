@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> Reality leaves a lot to the imagination.
 >
-> <p>- Alan Watts</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
