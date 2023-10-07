@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
