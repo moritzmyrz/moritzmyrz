@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Thomas Edison</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
