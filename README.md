@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> It is in the nature of things that joy arises in a person free from remorse.
 >
-> <p>- Confucius</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
