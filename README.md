@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
