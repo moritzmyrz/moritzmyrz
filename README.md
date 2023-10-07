@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- Alan Watts</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
