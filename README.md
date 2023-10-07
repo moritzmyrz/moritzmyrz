@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- John Keats</p>
+> <p>- Sri Chinmoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
