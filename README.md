@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
