@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
