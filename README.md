@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> You teach best what you most need to learn.
 >
-> <p>- Northrop Frye</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
