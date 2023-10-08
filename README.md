@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 >
-> <p>- Richard Bach</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
