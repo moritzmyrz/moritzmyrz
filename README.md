@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> A day of worry is more exhausting than a day of work.
 >
-> <p>- Laozi</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
