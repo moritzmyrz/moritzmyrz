@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A day of worry is more exhausting than a day of work.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- John Lubbock</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
