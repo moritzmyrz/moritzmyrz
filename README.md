@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> Meditate … do not delay, lest you later regret it.
 >
-> <p>- Napoleon</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
