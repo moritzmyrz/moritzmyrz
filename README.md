@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
