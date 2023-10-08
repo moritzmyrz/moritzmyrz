@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
