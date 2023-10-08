@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
