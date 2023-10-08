@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Albert Einstein</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
