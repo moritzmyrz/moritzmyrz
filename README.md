@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
+> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
 >
-> <p>- The Buddha</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
