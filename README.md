@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> No one has ever become poor by giving.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
