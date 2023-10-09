@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God made me fast. And when I run, I feel His pleasure.
+> The smaller the mind the greater the conceit.
 >
-> <p>- Eric Liddell</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
