@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
