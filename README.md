@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
