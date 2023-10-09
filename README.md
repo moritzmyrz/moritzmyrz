@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> God made me fast. And when I run, I feel His pleasure.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Eric Liddell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
