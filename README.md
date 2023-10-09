@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Morris West</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
