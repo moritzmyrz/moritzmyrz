@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a travelling to the edge of knowledge, then a leap taken.
+> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
