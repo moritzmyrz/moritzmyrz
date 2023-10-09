@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have a harem of 40 women, you never get to know any of them very well.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Warren Buffett</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
