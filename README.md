@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- John Burroughs</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
