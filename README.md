@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> Ask yourself the secret of your success. Listen to your answer and practice it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
