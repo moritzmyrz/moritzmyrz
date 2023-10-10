@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Confucius</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
