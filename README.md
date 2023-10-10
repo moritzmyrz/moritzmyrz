@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- The Buddha</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
