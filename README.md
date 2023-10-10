@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
+> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
 >
-> <p>- Anne Frank</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
