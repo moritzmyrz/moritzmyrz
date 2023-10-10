@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
