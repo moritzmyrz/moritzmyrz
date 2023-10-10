@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 >
-> <p>- Plato</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
