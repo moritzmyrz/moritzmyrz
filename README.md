@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Amber Valletta</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
