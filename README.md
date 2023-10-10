@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let yourself be silently drawn by the stronger pull of what you really love.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Rumi</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
