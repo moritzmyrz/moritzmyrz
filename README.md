@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Harriet Tubman</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
