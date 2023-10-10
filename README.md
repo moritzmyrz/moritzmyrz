@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can always count on Americans to do the right thing - after they've tried everything else.
+> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
 >
-> <p>- Winston Churchill</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
