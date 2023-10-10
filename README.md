@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Colin Powell</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
