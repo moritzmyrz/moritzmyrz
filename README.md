@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who hath many friends hath none.
+> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
 >
-> <p>- Aristotle</p>
+> <p>- Reinhold Niebuhr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
