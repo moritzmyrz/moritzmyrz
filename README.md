@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
