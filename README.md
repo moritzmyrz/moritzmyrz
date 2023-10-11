@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
