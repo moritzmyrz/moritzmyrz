@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
