@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
+> Mountains cannot be surmounted except by winding paths.
 >
-> <p>- The Buddha</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
