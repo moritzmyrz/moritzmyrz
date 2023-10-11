@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Brian O'Driscoll</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
