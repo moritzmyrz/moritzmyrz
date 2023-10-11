@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
+> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
 >
-> <p>- Rowan Williams</p>
+> <p>- Orson Welles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
