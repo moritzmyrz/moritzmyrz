@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Orson Welles</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
