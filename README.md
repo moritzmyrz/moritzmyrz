@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
