@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can always count on Americans to do the right thing - after they've tried everything else.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- Winston Churchill</p>
+> <p>- Jessamyn West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
