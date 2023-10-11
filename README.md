@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
