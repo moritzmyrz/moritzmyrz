@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> Imagination rules the world.
 >
-> <p>- Satchel Paige</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
