@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
