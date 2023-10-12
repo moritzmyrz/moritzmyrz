@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
