@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
