@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> Independence is happiness.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Susan B. Anthony</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
