@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
 >
-> <p>- Dee Hock</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
