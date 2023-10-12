@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
