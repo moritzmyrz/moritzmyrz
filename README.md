@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
