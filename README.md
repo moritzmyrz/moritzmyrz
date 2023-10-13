@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
 >
-> <p>- Yogi Berra</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
