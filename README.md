@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> Imagination will often carry us to worlds that never were. But without it we go nowhere.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Carl Sagan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
