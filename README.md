@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
