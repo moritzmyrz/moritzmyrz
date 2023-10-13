@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Corita Kent</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
