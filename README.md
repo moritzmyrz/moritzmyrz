@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> We can only learn to love by loving.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
