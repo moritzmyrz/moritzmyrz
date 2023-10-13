@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Laozi</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
