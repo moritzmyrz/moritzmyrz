@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Confucius</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
