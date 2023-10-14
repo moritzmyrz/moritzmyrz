@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's most persistent and urgent question is, 'What are you doing for others?'
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Farhan Akhtar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
