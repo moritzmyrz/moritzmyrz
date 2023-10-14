@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
+> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
 >
-> <p>- Peter Abelard</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
