@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- John Wooden</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
