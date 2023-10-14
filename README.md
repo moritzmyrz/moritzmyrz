@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> Creativity comes from trust. Trust your instincts. And never hope more than you work.
 >
-> <p>- Albert Einstein</p>
+> <p>- Rita Mae Brown</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
