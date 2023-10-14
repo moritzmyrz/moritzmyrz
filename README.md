@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person born with a talent they are meant to use will find their greatest happiness in using it.
+> It is good even for old men to learn wisdom.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
