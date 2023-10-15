@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Business, you know, may bring you money, but friendship hardly ever does.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Jane Austen</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
