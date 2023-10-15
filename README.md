@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> Memory is the mother of all wisdom.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
