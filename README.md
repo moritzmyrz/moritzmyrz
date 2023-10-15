@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
 >
-> <p>- Winston Churchill</p>
+> <p>- David Rockefeller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
