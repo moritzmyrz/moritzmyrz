@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
+> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
 >
-> <p>- Confucius</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
