@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
