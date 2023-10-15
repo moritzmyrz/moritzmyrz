@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Dalai Lama</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
