@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge is of no value unless you put it into practice.
+> Business, you know, may bring you money, but friendship hardly ever does.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
