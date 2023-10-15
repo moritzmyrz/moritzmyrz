@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Chuck Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
