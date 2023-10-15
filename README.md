@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Laozi</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
