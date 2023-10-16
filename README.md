@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> If you are out to describe the truth, leave elegance to the tailor.
 >
-> <p>- Albert Camus</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
