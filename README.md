@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> Ideas pull the trigger, but instinct loads the gun.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Don Marquis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
