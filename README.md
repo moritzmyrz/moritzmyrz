@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The personal life deeply lived always expands into truths beyond itself.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Laurie Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
