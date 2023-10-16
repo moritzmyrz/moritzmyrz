@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
