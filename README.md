@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is one mind in two bodies.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Mencius</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
