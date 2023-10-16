@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- Chanakya</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
