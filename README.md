@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
