@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
