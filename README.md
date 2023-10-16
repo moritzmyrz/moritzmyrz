@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Henry Ford</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
