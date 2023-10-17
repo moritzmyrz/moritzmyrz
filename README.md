@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
 >
-> <p>- Wayne Dyer</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
