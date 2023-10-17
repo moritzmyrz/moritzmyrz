@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Laozi</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
