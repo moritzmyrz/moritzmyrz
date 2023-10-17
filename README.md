@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
