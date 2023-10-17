@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
