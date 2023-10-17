@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
