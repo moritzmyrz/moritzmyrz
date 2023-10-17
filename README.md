@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
