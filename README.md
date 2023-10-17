@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Action is the foundational key to all success.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Pablo Picasso</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
