@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Og Mandino</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
