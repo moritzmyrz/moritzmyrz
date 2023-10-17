@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fine words and an insinuating appearance are seldom associated with true virtue
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
 >
-> <p>- Confucius</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
