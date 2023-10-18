@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
