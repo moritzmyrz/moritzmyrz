@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Avery Brooks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
