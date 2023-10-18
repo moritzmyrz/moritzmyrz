@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
 >
-> <p>- Judy Garland</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
