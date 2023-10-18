@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
