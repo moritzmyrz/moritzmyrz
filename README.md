@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
