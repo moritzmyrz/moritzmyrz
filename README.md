@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- William James</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
