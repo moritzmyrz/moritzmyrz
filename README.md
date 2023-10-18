@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is anything that wasn't around when you were born.
+> Always be smarter than the people who hire you.
 >
-> <p>- Man Ray</p>
+> <p>- Lena Horne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
