@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> Most people never run far enough on their first wind to find out they've got a second.
 >
-> <p>- Virginia Woolf</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
