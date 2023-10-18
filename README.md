@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How far that little candle throws its beams! So shines a good deed in a naughty world.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- William Shakespeare</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
