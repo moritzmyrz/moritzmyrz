@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Confucius</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
