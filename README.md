@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is a serious mental disease.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- Plato</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
