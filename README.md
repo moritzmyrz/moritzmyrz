@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is good even for old men to learn wisdom.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Aeschylus</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
