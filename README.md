@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> Love is a serious mental disease.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
