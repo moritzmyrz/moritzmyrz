@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Confucius</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
