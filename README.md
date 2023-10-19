@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Paavo Nurmi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
