@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ballot is stronger than the bullet.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
