@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
