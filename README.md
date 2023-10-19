@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Dalai Lama</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
