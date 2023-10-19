@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- John McCain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
