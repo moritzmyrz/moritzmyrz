@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Thomas Edison</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
