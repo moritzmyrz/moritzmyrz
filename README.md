@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
