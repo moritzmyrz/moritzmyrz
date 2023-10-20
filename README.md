@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is like a sewer. What you get out of it depends on what you put into it.
+> Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
 >
-> <p>- Tom Lehrer</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
