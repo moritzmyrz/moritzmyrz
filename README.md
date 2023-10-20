@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> Once you choose hope, anything's possible.
 >
-> <p>- Laozi</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
