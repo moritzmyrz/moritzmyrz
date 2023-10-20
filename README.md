@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> We have two ears and one mouth so that we can listen twice as much as we speak.
 >
-> <p>- Satchel Paige</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
