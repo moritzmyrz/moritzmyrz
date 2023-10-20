@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> There is nothing impossible to him who will try.
 >
-> <p>- Clay Shirky</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
