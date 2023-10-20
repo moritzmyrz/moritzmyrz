@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character develops itself in the stream of life.
+> A short saying often contains much wisdom.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
