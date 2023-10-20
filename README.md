@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who talks more is sooner exhausted.
+> No alibi will save you from accepting the responsibility.
 >
-> <p>- Laozi</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
