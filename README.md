@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+> Unless one is able to live fully in the present, the future is a hoax.
 >
-> <p>- Harriet Tubman</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
