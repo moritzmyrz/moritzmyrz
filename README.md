@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> Character develops itself in the stream of life.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
