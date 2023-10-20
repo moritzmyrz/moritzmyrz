@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> Anticipate the difficult by managing the easy.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
