@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Max Planck</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
