@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
