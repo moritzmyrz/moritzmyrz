@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
