@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Gustave Flaubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
