@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> Fans don't boo nobodies.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
