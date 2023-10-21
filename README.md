@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> Aim for the moon. If you miss, you may hit a star.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
