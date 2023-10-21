@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Mark Twain</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
