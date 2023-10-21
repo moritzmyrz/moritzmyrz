@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who wishes to secure the good of others, has already secured his own.
+> Doing what you love is the cornerstone of having abundance in your life.
 >
-> <p>- Confucius</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
