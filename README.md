@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
