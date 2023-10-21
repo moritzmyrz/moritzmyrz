@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> Never, never, never give up.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
