@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
