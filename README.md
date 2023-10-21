@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> To see things in the seed, that is genius.
 >
-> <p>- Bo Jackson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
