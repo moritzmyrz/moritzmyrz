@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+> Think big thoughts but relish small pleasures.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
