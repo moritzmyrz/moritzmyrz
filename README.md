@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
