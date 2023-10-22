@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+> You win the victory when you yield to friends.
 >
-> <p>- Dalai Lama</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
