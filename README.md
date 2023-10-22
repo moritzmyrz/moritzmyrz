@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To choose what is difficult all one's days, as if it were easy, that is faith.
+> The man of knowledge must be able not only to love his enemies but also to hate his friends.
 >
-> <p>- W. H. Auden</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
