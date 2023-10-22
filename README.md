@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep your face always toward the sunshine - and shadows will fall behind you.
+> Those who cling to perceptions and views wander the world offending people.
 >
-> <p>- Walt Whitman</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
