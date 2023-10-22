@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> I'm a great believer in luck and I find the harder I work, the more I have of it.
 >
-> <p>- John Keats</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
