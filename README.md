@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
