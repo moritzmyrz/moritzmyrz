@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> The only way to have a friend is to be one.
 >
-> <p>- John Dewey</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
