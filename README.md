@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
