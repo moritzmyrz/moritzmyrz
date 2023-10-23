@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything comes to him who hustles while he waits.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Thomas Edison</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
