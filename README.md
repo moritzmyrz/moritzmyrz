@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot escape the responsibility of tomorrow by evading it today.
+> Leave no stone unturned.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
