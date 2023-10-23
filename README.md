@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
