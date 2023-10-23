@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.
+> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
 >
-> <p>- Samuel Richardson</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
