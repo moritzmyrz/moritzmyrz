@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
