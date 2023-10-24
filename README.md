@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Maya Angelou</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
