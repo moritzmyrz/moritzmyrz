@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Will Rogers</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
