@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Albert Einstein</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
