@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Epicurus</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
