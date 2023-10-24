@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
