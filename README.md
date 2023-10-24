@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only those who dare to fail greatly can ever achieve greatly.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
