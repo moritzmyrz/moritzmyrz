@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> There is no greater harm than that of time wasted.
 >
-> <p>- William James</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
