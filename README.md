@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> You can't win unless you learn how to lose.
 >
-> <p>- Woody Allen</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
