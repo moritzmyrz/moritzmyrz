@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> Think for yourselves and let others enjoy the privilege to do so too.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
