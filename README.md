@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> The beginning is always today.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mary Wollstonecraft</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
