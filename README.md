@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
