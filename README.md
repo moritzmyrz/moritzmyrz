@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Albert Camus</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
