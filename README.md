@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
