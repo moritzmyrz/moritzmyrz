@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- H. G. Wells</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
