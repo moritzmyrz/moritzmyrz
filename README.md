@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
