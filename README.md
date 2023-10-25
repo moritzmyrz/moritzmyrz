@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
