@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When in doubt, tell the truth.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Mark Twain</p>
+> <p>- H. G. Wells</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
