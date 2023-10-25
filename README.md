@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest obstacle to connecting with our joy is resentment.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
