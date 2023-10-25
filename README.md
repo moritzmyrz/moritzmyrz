@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
