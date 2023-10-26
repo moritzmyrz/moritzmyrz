@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True friendship ought never to conceal what it thinks.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Jerome</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
