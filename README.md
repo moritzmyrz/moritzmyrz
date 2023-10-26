@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
-> <p>- Lucille Ball</p>
+> <p>- Immanuel Kant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
