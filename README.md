@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Laozi</p>
+> <p>- Ezra Stiles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
