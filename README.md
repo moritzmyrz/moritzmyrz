@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
 >
-> <p>- Henri Bergson</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
