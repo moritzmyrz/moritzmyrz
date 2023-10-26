@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
