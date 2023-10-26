@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Plutarch</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
