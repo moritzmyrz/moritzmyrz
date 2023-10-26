@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom.
 >
-> <p>- Henry Ford</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
