@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two kinds of failures: those who thought and never did, and those who did and never thought.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
