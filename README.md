@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
