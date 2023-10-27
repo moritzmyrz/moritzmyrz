@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Herman Melville</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
