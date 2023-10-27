@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
