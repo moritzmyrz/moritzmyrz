@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
