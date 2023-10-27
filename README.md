@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
 >
-> <p>- Herman Melville</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
