@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Wayne Gretzky</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
