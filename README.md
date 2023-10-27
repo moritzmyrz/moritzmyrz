@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> The most certain sign of wisdom is cheerfulness.
 >
-> <p>- Lou Holtz</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
