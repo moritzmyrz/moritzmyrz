@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.
+> The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.
 >
-> <p>- Colin Powell</p>
+> <p>- William Hurt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
