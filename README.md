@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> You cannot step twice into the same river, for other waters are continually flowing in.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
