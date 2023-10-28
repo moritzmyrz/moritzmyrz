@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Jared Diamond</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
