@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- Voltaire</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
