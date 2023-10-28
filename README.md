@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot step twice into the same river, for other waters are continually flowing in.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- Heraclitus</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
