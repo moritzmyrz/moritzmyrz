@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> Technology has to be invented or adopted.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
