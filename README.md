@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Epictetus</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
