@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never did a day's work in my life.  It was all fun.
+> Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.
 >
-> <p>- Thomas Edison</p>
+> <p>- Richard Needham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
