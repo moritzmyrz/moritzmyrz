@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> Eighty percent of success is showing up.
 >
-> <p>- Winston Churchill</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
