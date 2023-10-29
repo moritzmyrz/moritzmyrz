@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man cannot be said to succeed in this life who does not satisfy one friend.
+> All know the way; few actually walk it.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Bodhidharma</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
