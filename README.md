@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
