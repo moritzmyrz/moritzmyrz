@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> When you learn, teach. When you get, give.
 >
-> <p>- Woody Allen</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
