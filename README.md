@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> I never worry about action, but only inaction.
 >
-> <p>- Agatha Christie</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
