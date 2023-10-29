@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person born with a talent they are meant to use will find their greatest happiness in using it.
+> I never did a day's work in my life.  It was all fun.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
