@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Elie Wiesel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
