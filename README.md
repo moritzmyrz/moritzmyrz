@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
