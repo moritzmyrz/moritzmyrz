@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
