@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
