@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> May all beings have happy minds.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- The Buddha</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
