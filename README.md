@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Man Ray</p>
+> <p>- Cynthia Ozick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
