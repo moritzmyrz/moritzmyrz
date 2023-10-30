@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Richard Bach</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
