@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
 >
-> <p>- Helen Keller</p>
+> <p>- Mother Angelica</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
