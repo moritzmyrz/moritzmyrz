@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man who trusts men will make fewer mistakes than he who distrusts them.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- Camillo Benso, Count of Cavour</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
