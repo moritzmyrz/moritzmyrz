@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He has no enemies, but is intensely disliked by his friends.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
