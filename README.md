@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- The Buddha</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
