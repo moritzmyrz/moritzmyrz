@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> The man who trusts men will make fewer mistakes than he who distrusts them.
 >
-> <p>- Bo Jackson</p>
+> <p>- Camillo Benso, Count of Cavour</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
