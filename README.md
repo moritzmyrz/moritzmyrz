@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Willa Cather</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
