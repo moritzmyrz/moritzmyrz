@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- The Buddha</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
