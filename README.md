@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> Myths which are believed in tend to become true.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
