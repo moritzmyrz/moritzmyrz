@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> Those that know, do. Those that understand, teach.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
