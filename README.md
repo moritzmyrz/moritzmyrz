@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
