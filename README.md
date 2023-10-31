@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Mother Teresa</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
