@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Today you are you! That is truer than true! There is no one alive who is you-er than you!
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
