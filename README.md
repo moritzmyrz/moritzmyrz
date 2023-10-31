@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
