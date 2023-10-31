@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Jack Buck</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
