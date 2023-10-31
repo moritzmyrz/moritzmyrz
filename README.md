@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
