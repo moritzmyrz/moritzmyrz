@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Jack Buck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
