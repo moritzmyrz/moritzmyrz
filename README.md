@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those that know, do. Those that understand, teach.
+> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
 >
-> <p>- Aristotle</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
