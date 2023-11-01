@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
