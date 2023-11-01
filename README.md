@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
