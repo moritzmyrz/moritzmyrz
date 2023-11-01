@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
