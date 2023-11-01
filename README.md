@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> If you wish to be a writer, write.
 >
-> <p>- Alan Watts</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
