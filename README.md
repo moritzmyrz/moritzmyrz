@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't compromise yourself. You are all you've got.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
-> <p>- Janis Joplin</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
