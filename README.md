@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> You can't win unless you learn how to lose.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
