@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+> When you learn, teach. When you get, give.
 >
-> <p>- The Buddha</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
