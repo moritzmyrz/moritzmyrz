@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
