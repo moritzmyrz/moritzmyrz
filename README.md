@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
