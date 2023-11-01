@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
 >
-> <p>- Seneca the Younger</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
