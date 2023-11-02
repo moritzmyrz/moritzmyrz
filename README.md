@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> Wisdom is the power to put our time and our knowledge to the proper use.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Thomas J. Watson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
