@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
+> There is nothing impossible to him who will try.
 >
-> <p>- Joe Adcock</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
