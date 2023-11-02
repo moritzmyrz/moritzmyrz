@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
 >
-> <p>- Frank Herbert</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
