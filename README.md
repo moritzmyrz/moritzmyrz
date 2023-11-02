@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> You can't choose up sides on a round world.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
