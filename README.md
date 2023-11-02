@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
