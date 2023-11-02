@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Dalai Lama</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
