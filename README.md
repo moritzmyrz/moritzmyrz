@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> Action is eloquence.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
