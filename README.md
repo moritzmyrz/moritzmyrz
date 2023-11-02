@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing impossible to him who will try.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Alexander the Great</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
