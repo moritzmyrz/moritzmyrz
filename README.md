@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
