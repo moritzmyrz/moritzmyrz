@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> Love, friendship and respect do not unite people as much as a common hatred for something.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
