@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Woody Allen</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
