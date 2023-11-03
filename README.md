@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
