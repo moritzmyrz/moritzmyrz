@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+> In all things of nature there is something of the marvelous.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
