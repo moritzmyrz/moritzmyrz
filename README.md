@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you correct your mind, the rest of your life will fall into place.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Laozi</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
