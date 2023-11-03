@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Eustace Budgell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
