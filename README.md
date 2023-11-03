@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In all things of nature there is something of the marvelous.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Aristotle</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
