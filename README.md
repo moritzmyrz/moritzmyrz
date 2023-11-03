@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Michael Jordan</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
