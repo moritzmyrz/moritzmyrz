@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
