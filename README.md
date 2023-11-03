@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Franz Grillparzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
