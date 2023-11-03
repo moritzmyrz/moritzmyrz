@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
+> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
 >
-> <p>- Ravi Zacharias</p>
+> <p>- Paramahansa Yogananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
