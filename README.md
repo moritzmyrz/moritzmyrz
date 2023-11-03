@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Paramahansa Yogananda</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
