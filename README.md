@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port is sailing, no wind is favorable.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Dale Earnhardt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
