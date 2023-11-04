@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
