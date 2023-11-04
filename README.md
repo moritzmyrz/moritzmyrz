@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
