@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> If one does not know to which port is sailing, no wind is favorable.
 >
-> <p>- George Santayana</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
