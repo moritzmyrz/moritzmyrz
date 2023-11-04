@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Carl Jung</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
