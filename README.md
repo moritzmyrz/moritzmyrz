@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
+> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 >
-> <p>- Sophocles</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
