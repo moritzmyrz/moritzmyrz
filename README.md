@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- The Buddha</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
