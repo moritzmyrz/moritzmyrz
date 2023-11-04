@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
