@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
