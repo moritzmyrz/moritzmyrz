@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Babe Ruth</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
