@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
