@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> The beginning is always today.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Mary Wollstonecraft</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
