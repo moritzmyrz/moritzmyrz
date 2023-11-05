@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
