@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
