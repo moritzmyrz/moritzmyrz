@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
