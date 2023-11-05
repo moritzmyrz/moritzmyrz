@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorance and bungling with love are better than wisdom and skill without.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
