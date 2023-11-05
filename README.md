@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> Ignorance never settles a question.
 >
-> <p>- Confucius</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
