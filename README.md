@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The price of greatness is responsibility.
+> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
