@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Tony Robbins</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
