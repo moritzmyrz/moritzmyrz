@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> No day in which you learn something is a complete loss.
 >
-> <p>- Winston Churchill</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
