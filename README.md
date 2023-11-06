@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Tony Robbins</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
