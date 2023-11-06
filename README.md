@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
 >
-> <p>- Albert Einstein</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
