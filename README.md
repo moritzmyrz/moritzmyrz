@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
+> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Hank Aaron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
