@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Don Miguel Ruiz</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
