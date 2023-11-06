@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Amy Tan</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
