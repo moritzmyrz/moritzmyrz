@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
