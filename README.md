@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The journey of a thousand miles begins with one step.
+> The person born with a talent they are meant to use will find their greatest happiness in using it.
 >
-> <p>- Laozi</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
