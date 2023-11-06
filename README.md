@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
 >
-> <p>- Confucius</p>
+> <p>- Abigail Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
