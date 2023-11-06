@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Hank Aaron</p>
+> <p>- Amy Tan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
