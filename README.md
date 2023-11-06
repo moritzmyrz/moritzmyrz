@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
