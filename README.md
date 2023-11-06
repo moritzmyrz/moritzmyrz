@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.
+> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
 >
-> <p>- Shaquille O'Neal</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
