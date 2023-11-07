@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To accomplish great things, we must dream as well as act.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Anatole France</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
