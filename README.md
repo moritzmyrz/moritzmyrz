@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
