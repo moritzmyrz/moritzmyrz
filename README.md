@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Anna Pavlova</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
