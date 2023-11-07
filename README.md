@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
