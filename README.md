@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
