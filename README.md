@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
