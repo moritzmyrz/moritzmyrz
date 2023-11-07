@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Václav Havel</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
