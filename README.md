@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Mike Singletary (basketball)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
