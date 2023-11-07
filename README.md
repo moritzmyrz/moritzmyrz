@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Philip Sidney</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
