@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Jim Rohn</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
