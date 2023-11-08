@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You give before you get.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
