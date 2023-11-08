@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- John Dryden</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
