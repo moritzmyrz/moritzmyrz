@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
 >
-> <p>- John Wooden</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
