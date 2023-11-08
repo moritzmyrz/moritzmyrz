@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- John Wooden</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
