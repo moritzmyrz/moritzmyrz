@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Laozi</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
