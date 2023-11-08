@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let yourself be silently drawn by the stronger pull of what you really love.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- Rumi</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
