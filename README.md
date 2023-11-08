@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- William Shakespeare</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
