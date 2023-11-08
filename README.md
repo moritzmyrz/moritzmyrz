@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To avoid criticism, do nothing, say nothing, be nothing.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
