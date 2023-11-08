@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> To avoid criticism, do nothing, say nothing, be nothing.
 >
-> <p>- Voltaire</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
