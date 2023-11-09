@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
