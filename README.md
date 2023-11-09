@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> You give before you get.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
