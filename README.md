@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
