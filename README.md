@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person.
+> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
 >
-> <p>- The Buddha</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
