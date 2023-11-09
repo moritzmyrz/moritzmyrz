@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You give before you get.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
