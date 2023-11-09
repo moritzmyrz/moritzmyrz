@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
