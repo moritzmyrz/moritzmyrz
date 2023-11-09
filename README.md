@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> Life is about timing.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Carl Lewis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
