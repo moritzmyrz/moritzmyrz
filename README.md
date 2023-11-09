@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- George Sand</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
