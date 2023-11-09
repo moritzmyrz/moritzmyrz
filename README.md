@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With pride, there are many curses. With humility, there come many blessings.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Ezra Taft Benson</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
