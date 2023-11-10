@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
+> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
 >
-> <p>- Winston Churchill</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
