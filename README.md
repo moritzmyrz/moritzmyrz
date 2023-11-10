@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
