@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Maya Angelou</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
