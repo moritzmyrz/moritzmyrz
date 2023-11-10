@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Franz Grillparzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
