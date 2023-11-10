@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>- Edmund Burke</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
