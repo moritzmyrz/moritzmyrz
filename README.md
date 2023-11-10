@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trouble is only opportunity in work clothes.
+> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
 >
-> <p>- Henry J. Kaiser</p>
+> <p>- Rollo May</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
