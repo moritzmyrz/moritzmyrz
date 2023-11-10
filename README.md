@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- Rollo May</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
