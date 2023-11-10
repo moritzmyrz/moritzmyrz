@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Charles Kingsley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
