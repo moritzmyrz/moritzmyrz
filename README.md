@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
 >
-> <p>- Pablo Picasso</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
