@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not dispute with the world; rather it is the world that disputes with me.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- The Buddha</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
