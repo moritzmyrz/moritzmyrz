@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Dalai Lama</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
