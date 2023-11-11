@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
