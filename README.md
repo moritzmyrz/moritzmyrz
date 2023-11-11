@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> All is flux; nothing stays still.
 >
-> <p>- Karl Menninger</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
