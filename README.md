@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
