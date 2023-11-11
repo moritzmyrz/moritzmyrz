@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> The function of wisdom is to discriminate between good and evil.
 >
-> <p>- Billie Jean King</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
