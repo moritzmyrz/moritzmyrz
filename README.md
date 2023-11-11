@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> I gave my life to become the person I am right now. Was it worth it?
 >
-> <p>- Bruce Lee</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
