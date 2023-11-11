@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- George Herbert</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
