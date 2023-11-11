@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
