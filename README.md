@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
 >
-> <p>- Epictetus</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
