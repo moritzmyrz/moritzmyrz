@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can do it if you believe you can!
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
