@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
