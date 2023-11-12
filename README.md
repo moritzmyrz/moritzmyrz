@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
+> You can do it if you believe you can!
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
