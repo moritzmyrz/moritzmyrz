@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
