@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
+> Never mistake activity for achievement.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
