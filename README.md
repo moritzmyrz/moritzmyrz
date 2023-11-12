@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
 >
-> <p>- Phil Jackson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
