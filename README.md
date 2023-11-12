@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Will Rogers</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
