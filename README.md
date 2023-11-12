@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
+> Whatever happens, take responsibility.
 >
-> <p>- The Buddha</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
