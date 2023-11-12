@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Wayne Dyer</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
