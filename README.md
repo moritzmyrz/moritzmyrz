@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever happens, take responsibility.
+> All I can say about life is, Oh God, enjoy it!
 >
-> <p>- Tony Robbins</p>
+> <p>- Bob Newhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
