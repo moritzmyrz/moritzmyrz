@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never mistake activity for achievement.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- John Wooden</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
