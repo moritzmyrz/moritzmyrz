@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Plotinus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
