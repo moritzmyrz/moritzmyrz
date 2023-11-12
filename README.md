@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Henry Ford</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
