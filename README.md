@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
