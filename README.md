@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Og Mandino</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
