@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we are no longer able to change a situation - we are challenged to change ourselves.
+> A failure is a man who has blundered but is not capable of cashing in on the experience.
 >
-> <p>- Viktor Frankl</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
