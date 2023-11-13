@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
