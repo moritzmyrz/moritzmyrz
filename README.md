@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> Technology is teaching us to be human again.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Simon Mainwaring</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
