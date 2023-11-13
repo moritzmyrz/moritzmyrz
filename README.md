@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Thomas Edison</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
