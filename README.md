@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Plotinus</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
