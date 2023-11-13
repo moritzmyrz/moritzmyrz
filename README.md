@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
