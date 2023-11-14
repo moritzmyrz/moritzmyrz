@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
