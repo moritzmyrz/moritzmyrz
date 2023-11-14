@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in the nature of things that joy arises in a person free from remorse.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- The Buddha</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
