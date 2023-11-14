@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Sophocles</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
