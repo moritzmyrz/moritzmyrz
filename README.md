@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> It is in the nature of things that joy arises in a person free from remorse.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
