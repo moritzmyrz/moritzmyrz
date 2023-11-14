@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> Always remember that you are absolutely unique. Just like everyone else.
 >
-> <p>- Libby Larsen</p>
+> <p>- Margaret Mead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
