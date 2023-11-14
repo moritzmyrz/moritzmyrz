@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+> The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Henri Nouwen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
