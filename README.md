@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> Friends are the siblings God never gave us.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Mencius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
