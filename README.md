@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is more wisdom in your body than in your deepest philosophy.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
