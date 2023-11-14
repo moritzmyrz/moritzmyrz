@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> Memory is the mother of all wisdom.
 >
-> <p>- Voltaire</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
