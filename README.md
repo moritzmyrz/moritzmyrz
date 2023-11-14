@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> Action is eloquence.
 >
-> <p>- Mencius</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
