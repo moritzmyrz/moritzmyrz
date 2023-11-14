@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
