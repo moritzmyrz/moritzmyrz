@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
