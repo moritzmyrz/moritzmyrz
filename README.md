@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- Alan Watts</p>
+> <p>- Ravi Zacharias</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
