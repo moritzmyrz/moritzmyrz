@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- Henri Bergson</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
