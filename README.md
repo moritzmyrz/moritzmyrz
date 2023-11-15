@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
