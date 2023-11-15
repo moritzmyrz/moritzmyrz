@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Jim Rohn</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
