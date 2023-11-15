@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Alan Cohen</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
