@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- Winston Churchill</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
