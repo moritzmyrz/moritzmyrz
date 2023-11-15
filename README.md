@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
