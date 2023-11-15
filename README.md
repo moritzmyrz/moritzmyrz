@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
