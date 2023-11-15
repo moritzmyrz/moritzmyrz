@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
