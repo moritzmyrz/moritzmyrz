@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the world.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
