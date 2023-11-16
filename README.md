@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
