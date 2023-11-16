@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> Between saying and doing, many a pair of shoes is worn out.
 >
-> <p>- William James</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
