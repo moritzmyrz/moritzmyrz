@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 >
-> <p>- Tony Robbins</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
