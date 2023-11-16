@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Bruce Lee</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
