@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
+> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
 >
-> <p>- Plutarch</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
