@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love has no age, no limit; and no death.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- John Galsworthy</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
