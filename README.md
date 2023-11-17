@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
