@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
 >
-> <p>- Epictetus</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
