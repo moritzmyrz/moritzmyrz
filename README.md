@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Molière</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
