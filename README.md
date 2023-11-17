@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
