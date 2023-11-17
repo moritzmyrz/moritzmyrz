@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The deepest craving of human nature is the need to be appreciated.
+> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
 >
-> <p>- William James</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
