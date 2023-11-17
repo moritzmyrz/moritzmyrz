@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
