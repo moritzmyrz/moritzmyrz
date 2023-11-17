@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
