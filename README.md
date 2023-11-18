@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Salman Rushdie</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
