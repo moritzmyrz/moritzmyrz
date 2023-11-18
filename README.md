@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
 >
-> <p>- Richard Bach</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
