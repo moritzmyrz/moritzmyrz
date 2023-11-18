@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
