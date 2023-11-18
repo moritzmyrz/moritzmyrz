@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character develops itself in the stream of life.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
