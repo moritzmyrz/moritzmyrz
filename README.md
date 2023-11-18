@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
 >
-> <p>- Barack Obama</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
