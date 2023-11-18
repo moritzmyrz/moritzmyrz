@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Tony Robbins</p>
+> <p>- Sidney Hook</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
