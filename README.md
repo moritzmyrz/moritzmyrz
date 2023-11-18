@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> From wonder into wonder existence opens.
 >
-> <p>- Giotto</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
