@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Winston Churchill</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
