@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Laozi</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
