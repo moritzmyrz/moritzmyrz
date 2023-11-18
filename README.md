@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- John Lennon</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
