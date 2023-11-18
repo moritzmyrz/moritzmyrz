@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Reality leaves a lot to the imagination.
 >
-> <p>- William Arthur Ward</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
