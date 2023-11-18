@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> Character develops itself in the stream of life.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
