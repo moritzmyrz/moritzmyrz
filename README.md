@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
 >
-> <p>- Lisa Alther</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
