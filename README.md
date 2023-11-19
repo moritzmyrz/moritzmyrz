@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
