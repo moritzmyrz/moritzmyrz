@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
