@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Abraham Lincoln</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
