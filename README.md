@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trouble is only opportunity in work clothes.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Henry J. Kaiser</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
