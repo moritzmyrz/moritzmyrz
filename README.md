@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
