@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Aesop</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
