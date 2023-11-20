@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is like money, easier made than kept.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Samuel Butler</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
