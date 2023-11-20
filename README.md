@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
+> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
 >
-> <p>- Chuck Norris</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
