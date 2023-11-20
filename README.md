@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
+> Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.
 >
-> <p>- Confucius</p>
+> <p>- Maria Montessori</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
