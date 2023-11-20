@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no great genius without some touch of madness.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Samuel Butler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
