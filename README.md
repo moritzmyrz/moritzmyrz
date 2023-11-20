@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
