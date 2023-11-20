@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
