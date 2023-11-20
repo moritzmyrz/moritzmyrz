@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Aim for the moon. If you miss, you may hit a star.
+> We never live; we are always in the expectation of living.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
