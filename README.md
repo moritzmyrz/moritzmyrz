@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
