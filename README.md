@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
