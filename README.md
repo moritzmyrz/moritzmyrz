@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Carl Jung</p>
+> <p>- Lin Yutang</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
