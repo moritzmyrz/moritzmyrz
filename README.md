@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> Whenever something negative happens to you, there is a deep lesson concealed within it.
 >
-> <p>- Epictetus</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
