@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
