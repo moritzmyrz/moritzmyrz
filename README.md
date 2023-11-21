@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Aristotle</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
