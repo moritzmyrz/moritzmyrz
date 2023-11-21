@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
