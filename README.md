@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one has a finer command of language than the person who keeps his mouth shut.
+> It is in your moments of decision that your destiny is shaped.
 >
-> <p>- Sam Rayburn</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
