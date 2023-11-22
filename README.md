@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Richard Bach</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
