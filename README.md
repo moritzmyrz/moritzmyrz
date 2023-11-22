@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- James M. Beggs</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
