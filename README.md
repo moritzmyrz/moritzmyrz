@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Laozi</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
