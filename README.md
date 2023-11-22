@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am always ready to learn although I do not always like being taught.
+> Be content with your lot; one cannot be first in everything.
 >
-> <p>- Winston Churchill</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
