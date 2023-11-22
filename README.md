@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
