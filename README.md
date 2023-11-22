@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
