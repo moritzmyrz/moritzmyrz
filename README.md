@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Barack Obama</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
