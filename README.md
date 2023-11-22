@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Og Mandino</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
