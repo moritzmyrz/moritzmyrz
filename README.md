@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> Ethics change with technology.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Larry Niven</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
