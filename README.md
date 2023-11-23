@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Václav Havel</p>
+> <p>- Charles Du Bos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
