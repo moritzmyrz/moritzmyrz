@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> Love demands infinitely less than friendship.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- George Jean Nathan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
