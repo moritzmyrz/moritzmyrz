@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> No one can make you feel inferior without your consent.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
