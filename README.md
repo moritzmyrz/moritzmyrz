@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
