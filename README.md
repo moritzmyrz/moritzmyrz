@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- Thomas Edison</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
