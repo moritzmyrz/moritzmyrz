@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A hero is no braver than an ordinary man, but he is braver five minutes longer.
+> Either I will find a way, or I will make one.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
