@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The foolish man seeks happiness in the distance, the wise grows it under his feet.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- James Oppenheim</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
