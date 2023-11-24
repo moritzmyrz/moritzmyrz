@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> If you have knowledge, let others light their candles in it.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Margaret Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
