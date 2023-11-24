@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The World is my country, all mankind are my brethren, and to do good is my religion.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Thomas Paine</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
