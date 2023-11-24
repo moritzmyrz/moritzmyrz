@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- John Locke</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
