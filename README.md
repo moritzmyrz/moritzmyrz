@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Confucius</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
