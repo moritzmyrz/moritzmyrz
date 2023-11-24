@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any one thing.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Billy Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
