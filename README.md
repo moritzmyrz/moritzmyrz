@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Confucius</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
