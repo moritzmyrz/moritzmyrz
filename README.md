@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> The cautious seldom err.
 >
-> <p>- Margaret Fuller</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
