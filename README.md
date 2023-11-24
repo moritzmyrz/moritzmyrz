@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
