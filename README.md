@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
