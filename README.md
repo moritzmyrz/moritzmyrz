@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Lou Holtz</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
