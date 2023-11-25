@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
+> The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
 >
-> <p>- Robert Fulghum</p>
+> <p>- Michelle Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
