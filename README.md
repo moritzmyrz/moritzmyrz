@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Hannah Szenes</p>
+> <p>- Alfred Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
