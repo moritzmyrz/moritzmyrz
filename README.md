@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is the right to live as we wish.
+> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
 >
-> <p>- Epictetus</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
