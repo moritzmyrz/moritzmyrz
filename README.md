@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust only movement. Life happens at the level of events, not of words. Trust movement.
+> Freedom is the right to live as we wish.
 >
-> <p>- Alfred Adler</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
