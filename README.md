@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
