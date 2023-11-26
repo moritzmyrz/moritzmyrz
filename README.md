@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Michael Korda</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
