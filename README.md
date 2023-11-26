@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Persuasion is often more effectual than force.
+> Truth is generally the best vindication against slander.
 >
-> <p>- Aesop</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
