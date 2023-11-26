@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
