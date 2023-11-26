@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Change in all things is sweet.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
