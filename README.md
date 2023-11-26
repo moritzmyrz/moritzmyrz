@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Leave no stone unturned.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Euripides</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
