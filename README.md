@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> Technology has to be invented or adopted.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
