@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Ray Bradbury</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
