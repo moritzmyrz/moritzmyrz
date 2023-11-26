@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the living power and prime agent of all human perception.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
