@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Doug Larson</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
