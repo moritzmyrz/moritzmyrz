@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> When in doubt, tell the truth.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
