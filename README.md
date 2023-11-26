@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
 >
-> <p>- Albert Camus</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
