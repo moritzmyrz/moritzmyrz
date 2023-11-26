@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> Leave no stone unturned.
 >
-> <p>- William Blake</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
