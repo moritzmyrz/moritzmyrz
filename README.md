@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
