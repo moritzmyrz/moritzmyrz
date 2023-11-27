@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
 >
-> <p>- Jack Buck</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
