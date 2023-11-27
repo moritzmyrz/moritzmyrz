@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> If the stars should appear but one night every thousand years how man would marvel and adore.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
