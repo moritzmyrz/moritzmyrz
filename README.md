@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The friendship that can cease has never been real.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Jerome</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
