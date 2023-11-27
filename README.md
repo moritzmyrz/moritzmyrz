@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Jack Buck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
