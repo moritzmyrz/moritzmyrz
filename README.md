@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
 >
-> <p>- Tony Robbins</p>
+> <p>- Sam Keen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
