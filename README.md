@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
+> Computers are useless. They can only give you answers.
 >
-> <p>- Sam Keen</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
