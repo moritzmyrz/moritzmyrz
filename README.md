@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> You always succeed in producing a result.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
