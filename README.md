@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anybody can make history. Only a great man can write it.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
