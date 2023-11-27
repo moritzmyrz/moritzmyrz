@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> The friendship that can cease has never been real.
 >
-> <p>- William Blake</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
