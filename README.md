@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
