@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Our intention creates our reality.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
