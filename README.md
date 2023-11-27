@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
