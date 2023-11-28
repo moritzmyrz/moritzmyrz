@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Giotto</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
