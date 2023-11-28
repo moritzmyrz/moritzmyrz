@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
 >
-> <p>- Norman Schwarzkopf</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
