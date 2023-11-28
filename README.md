@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
 >
-> <p>- Bruce Lee</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
