@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
