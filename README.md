@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Robert Schuller</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
