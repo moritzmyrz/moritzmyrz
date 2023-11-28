@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> The years teach much which the days never know.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
