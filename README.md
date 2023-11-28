@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> No man has a good enough memory to be a successful liar.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
