@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Epictetus</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
