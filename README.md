@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better be ignorant of a matter than half know it.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
