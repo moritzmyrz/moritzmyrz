@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
