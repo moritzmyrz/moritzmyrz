@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Richard Bach</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
