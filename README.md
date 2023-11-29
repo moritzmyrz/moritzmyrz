@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> Blessed are the hearts that can bend; they shall never be broken.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
