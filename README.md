@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
