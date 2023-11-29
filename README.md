@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
