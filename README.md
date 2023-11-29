@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> Study the past, if you would divine the future.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
