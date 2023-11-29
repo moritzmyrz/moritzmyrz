@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Laurie Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
