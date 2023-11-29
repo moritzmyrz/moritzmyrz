@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Donald Trump</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
