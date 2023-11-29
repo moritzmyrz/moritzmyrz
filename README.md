@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Don Shula</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
