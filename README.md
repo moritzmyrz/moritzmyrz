@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Friendship is Love without his wings!
 >
-> <p>- Carl Jung</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
