@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Laozi</p>
+> <p>- Anne Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
