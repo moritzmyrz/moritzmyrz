@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> Don't leave a stone unturned. It's always something, to know you have done the most you could.
 >
-> <p>- Anne Brontë</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
