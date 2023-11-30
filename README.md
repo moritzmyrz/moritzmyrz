@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the business world, the rearview mirror is always clearer than the windshield.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Warren Buffett</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
