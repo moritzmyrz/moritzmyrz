@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
