@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> Knowing is not enough; we must apply!
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
