@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
 >
-> <p>- E. M. Forster</p>
+> <p>- Audrey Hepburn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
