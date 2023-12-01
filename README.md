@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is in the nature of things that joy arises in a person free from remorse.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- The Buddha</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
