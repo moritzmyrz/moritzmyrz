@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- The Buddha</p>
+> <p>- John Junor</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
