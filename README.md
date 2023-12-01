@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- The Buddha</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
