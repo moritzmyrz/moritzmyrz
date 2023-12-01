@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Independence is happiness.
+> What we see depends mainly on what we look for.
 >
-> <p>- Susan B. Anthony</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
