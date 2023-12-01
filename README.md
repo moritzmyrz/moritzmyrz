@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
