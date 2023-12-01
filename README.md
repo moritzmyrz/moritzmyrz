@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Those who are free of resentful thoughts surely find peace.
 >
-> <p>- Louise Hay</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
