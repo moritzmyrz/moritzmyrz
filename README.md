@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Peter Drucker</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
