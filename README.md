@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> Independence is happiness.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Susan B. Anthony</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
