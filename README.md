@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
+> Compassion and happiness are not a sign of weakness but a sign of strength.
 >
-> <p>- William C. Menninger</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
