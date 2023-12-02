@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Ralph Marston</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
