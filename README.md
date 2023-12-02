@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> You really can change the world if you care enough.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
