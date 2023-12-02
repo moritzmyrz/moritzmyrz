@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Peter Drucker</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
