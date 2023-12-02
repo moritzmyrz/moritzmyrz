@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> You always succeed in producing a result.
 >
-> <p>- John Lubbock</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
