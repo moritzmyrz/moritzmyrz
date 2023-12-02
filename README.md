@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
