@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Aim for the moon. If you miss, you may hit a star.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- W. Clement Stone</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
