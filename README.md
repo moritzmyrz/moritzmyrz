@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
 >
-> <p>- Aristotle</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
