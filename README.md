@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 >
-> <p>- Pericles</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
