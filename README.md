@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do all things with love.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Og Mandino</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
