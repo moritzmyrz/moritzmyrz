@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
+> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 >
-> <p>- Barack Obama</p>
+> <p>- John Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
