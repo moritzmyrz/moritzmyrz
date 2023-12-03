@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
+> To succeed, we must first believe that we can.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
