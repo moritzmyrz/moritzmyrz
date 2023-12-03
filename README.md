@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
