@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> If I know what love is, it is because of you.
 >
-> <p>- Colin Powell</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
