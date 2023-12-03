@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> Our strength grows out of our weaknesses.
 >
-> <p>- John Adams</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
