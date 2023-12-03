@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
