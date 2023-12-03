@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- Babe Ruth</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
