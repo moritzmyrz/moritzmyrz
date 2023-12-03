@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> The energy of the mind is the essence of life.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
