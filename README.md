@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> Change your thoughts and you change your world.
 >
-> <p>- David Bader</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
