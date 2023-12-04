@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> Everything that exists is in a manner the seed of that which will be.
 >
-> <p>- Dalai Lama</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
