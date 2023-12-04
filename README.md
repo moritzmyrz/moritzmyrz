@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that exists is in a manner the seed of that which will be.
+> Loss is nothing else but change, and change is Nature's delight.
 >
 > <p>- Marcus Aurelius</p>
 
