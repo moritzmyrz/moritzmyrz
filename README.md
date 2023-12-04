@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
