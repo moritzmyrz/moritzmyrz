@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Don't watch the clock; do what it does. Keep going.
 >
-> <p>- Jack Dixon</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
