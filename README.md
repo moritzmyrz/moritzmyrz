@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- George Washington</p>
+> <p>- Warren Bennis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
