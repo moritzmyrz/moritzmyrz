@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
-> <p>- Plato</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
