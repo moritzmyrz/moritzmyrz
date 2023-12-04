@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Think as a wise man but communicate in the language of the people.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
