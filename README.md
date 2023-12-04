@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think as a wise man but communicate in the language of the people.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
