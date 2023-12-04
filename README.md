@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- Jack Dixon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
