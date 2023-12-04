@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
