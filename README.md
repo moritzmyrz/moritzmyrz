@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> To change one's life, start immediately, do it flamboyantly, no exceptions.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
