@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> Nothing great was ever achieved without enthusiasm.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
