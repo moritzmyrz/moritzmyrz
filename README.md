@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Albert Einstein</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
