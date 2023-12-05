@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
