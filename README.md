@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one has a finer command of language than the person who keeps his mouth shut.
+> No yesterdays are ever wasted for those who give themselves to today.
 >
-> <p>- Sam Rayburn</p>
+> <p>- Brendan Behan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
