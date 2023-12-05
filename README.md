@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Richard Bach</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
