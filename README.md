@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am always ready to learn although I do not always like being taught.
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- Winston Churchill</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
