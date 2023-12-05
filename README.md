@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't look out there for God, something in the sky, you look in you.
+> He who knows himself is enlightened.
 >
-> <p>- Alan Watts</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
