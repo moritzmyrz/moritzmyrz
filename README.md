@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Winston Churchill</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
