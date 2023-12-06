@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Mark Twain</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
