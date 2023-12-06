@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> We can only learn to love by loving.
 >
-> <p>- Cicero</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
