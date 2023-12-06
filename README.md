@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> I allow my intuition to lead my path.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
