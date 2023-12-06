@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
