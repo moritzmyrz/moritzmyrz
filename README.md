@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Maya Angelou</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
