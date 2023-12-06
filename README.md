@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Laozi</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
