@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> When people are like each other they tend to like each other.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
