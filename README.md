@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only Zen you find on the tops of mountains is the Zen you bring up there.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
