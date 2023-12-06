@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+> Joy is the best makeup.
 >
-> <p>- Anne Lindbergh</p>
+> <p>- Anne Lamott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
