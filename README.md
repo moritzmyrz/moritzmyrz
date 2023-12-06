@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Anatole France</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
