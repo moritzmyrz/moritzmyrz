@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Anticipate the difficult by managing the easy.
 >
-> <p>- Tony Robbins</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
