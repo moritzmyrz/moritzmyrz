@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
