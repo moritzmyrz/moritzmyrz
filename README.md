@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Tony Robbins</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
