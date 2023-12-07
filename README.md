@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Woody Allen</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
