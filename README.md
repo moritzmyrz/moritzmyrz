@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
