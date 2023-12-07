@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
 >
-> <p>- Marcel Proust</p>
+> <p>- Sam Keen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
