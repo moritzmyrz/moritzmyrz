@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
+> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
 >
-> <p>- Cecil B. DeMille</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
