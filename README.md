@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> The path to success is to take massive, determined action.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
