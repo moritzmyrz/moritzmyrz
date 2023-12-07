@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
 >
-> <p>- George Washington</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
