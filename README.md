@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> The cautious seldom err.
 >
 > <p>- Confucius</p>
 
