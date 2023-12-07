@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
 >
-> <p>- Isocrates</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
