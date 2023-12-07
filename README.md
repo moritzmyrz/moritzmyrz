@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Lord Byron</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
