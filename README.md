@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
