@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Albert Camus</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
