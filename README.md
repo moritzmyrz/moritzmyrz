@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
