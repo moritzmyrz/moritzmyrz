@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
+> Waste no more time arguing about what a good man should be. Be one.
 >
-> <p>- The Buddha</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
