@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> If one way be better than another, that you may be sure is nature's way.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
