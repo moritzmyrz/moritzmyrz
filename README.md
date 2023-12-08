@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
+> Applause is a receipt, not a bill.
 >
-> <p>- Morihei Ueshiba</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
