@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
