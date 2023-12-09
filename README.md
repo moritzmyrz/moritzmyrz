@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
 >
-> <p>- E. M. Forster</p>
+> <p>- Democritus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
