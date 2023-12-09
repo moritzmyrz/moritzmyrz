@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
