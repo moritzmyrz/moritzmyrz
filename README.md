@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
 >
-> <p>- Dalai Lama</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
