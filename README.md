@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- Anatole France</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
