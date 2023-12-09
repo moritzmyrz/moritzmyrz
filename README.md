@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
 >
-> <p>- Václav Havel</p>
+> <p>- Afrika Bambaataa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
