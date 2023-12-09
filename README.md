@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
