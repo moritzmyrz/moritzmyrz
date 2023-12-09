@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Afrika Bambaataa</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
