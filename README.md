@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> Irony is the gaiety of reflection and the joy of wisdom.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
