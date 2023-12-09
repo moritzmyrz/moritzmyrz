@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
 >
-> <p>- Carl Jung</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
