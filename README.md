@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I let go of what I am, I become what I might be.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Laozi</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
