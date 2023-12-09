@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
