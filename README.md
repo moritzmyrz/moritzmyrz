@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
