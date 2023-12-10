@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
