@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
+> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
 >
-> <p>- Joseph Roux</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
