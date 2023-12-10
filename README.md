@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
+> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
 >
-> <p>- Warren Buffett</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
