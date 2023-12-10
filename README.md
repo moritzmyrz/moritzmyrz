@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Helen Keller</p>
+> <p>- Gustave Flaubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
