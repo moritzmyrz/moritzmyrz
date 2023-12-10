@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Colette</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
