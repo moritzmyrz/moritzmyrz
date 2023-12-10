@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
 >
-> <p>- William Blake</p>
+> <p>- Joseph Roux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
