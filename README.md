@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
