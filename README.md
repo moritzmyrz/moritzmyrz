@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
