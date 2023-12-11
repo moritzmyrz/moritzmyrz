@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Alexander Pope</p>
+> <p>- Vernon Cooper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
