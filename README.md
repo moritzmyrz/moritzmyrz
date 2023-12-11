@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Vernon Cooper</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
