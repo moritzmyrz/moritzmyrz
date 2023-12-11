@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Winston Churchill</p>
+> <p>- Bob Knight</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
