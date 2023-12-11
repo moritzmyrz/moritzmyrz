@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Forrest Church</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
