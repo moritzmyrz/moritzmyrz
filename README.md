@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> Do what you can. Want what you have. Be who you are.
 >
-> <p>- Satchel Paige</p>
+> <p>- Forrest Church</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
