@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
