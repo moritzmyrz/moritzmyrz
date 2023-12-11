@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
