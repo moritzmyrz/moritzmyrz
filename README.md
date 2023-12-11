@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
 >
-> <p>- Larry Page</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
