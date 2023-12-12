@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
