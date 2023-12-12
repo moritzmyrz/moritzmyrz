@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's important to know that words don't move mountains. Work, exacting work moves mountains.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Danilo Dolci</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
