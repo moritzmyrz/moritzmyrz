@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> Study the past, if you would divine the future.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
