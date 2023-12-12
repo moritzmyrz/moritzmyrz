@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Bob Feller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
