@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things that were hard to bear are sweet to remember.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
