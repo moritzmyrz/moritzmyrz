@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The future is completely open, and we are writing it moment to moment.
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
