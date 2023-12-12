@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Confucius</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
