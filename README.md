@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- David McCullough</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
