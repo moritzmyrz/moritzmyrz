@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> It's important to know that words don't move mountains. Work, exacting work moves mountains.
 >
-> <p>- William Blake</p>
+> <p>- Danilo Dolci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
