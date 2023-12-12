@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
