@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Albert Einstein</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
