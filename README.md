@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Andy Rooney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
