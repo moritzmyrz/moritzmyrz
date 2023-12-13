@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- The Buddha</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
