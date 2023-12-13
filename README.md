@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man sees in the world what he carries in his heart.
+> Respect should be earned by actions, and not acquired by years.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Frank Lloyd Wright</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
