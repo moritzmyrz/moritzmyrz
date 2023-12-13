@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is easy to be brave from a safe distance.
+> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
 >
-> <p>- Aesop</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
