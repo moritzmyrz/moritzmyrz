@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 >
-> <p>- Confucius</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
