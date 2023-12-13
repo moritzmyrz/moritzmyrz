@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Respect should be earned by actions, and not acquired by years.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
