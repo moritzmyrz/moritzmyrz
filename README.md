@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- Carl Jung</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
