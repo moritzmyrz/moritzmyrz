@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
 >
-> <p>- Brendan Behan</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
