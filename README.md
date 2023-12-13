@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
