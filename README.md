@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
