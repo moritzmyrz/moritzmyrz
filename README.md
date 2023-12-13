@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cleverness is not wisdom.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Euripides</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
