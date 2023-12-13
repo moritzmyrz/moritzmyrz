@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The price of greatness is responsibility.
+> It is easy to be brave from a safe distance.
 >
-> <p>- Winston Churchill</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
