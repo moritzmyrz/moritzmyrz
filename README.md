@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
