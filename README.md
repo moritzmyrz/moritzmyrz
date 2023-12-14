@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> The smaller the mind the greater the conceit.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
