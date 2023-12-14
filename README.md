@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
