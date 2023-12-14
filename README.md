@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- Bruce Lee</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
