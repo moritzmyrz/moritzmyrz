@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
