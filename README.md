@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
 >
-> <p>- Woody Allen</p>
+> <p>- Jack Welch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
