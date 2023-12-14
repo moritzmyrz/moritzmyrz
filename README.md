@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+> With the new day comes new strength and new thoughts.
 >
-> <p>- Confucius</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
