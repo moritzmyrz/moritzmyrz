@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Sam Ewing</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
