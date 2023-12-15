@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> Life is 10% what happens to you and 90% how you react to it.
 >
-> <p>- Lord Byron</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
