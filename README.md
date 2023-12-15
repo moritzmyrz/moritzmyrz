@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
 >
-> <p>- Lisa Alther</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
