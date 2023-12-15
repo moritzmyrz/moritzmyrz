@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is 10% what happens to you and 90% how you react to it.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
