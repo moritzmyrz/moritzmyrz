@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
