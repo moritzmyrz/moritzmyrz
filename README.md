@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> The best way to predict your future is to create it.
 >
-> <p>- Erasmus</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
