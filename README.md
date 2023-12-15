@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
+> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
 >
-> <p>- Parker Palmer</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
