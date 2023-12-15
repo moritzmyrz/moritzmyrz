@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Feeling and longing are the motive forces behind all human endeavor and human creations.
+> A goal is a dream with a deadline.
 >
-> <p>- Albert Einstein</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
