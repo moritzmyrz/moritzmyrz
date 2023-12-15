@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
