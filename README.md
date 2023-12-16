@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
