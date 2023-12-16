@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
