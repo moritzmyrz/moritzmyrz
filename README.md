@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
