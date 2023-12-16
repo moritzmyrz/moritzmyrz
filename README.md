@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you learn, teach. When you get, give.
+> A failure is a man who has blundered but is not capable of cashing in on the experience.
 >
-> <p>- Maya Angelou</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
