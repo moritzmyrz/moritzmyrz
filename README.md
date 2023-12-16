@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
