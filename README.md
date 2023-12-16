@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Independence is happiness.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Susan B. Anthony</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
