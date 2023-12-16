@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
 >
-> <p>- Muhammad Ali</p>
+> <p>- David Rockefeller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
