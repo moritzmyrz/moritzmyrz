@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Joseph Addison</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
