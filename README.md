@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A failure is a man who has blundered but is not capable of cashing in on the experience.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
