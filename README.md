@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
