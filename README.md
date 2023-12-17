@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
