@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> If one is lucky, a solitary fantasy can totally transform one million realities.
 >
-> <p>- Tony Robbins</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
