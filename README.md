@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Og Mandino</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
