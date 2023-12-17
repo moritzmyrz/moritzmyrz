@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> Science gives us knowledge, but only philosophy can give us wisdom.
 >
-> <p>- Demosthenes</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
