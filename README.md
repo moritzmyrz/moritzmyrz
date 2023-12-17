@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Dalai Lama</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
