@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
