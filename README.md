@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> Don't wait. The time will never be just right.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
