@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has long been an axiom of mine that the little things are infinitely the most important.
+> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
