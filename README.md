@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
+> The only way to have a friend is to be one.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
