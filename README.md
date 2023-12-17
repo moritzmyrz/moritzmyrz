@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True knowledge exists in knowing that you know nothing.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Isocrates</p>
+> <p>- Havelock Ellis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
