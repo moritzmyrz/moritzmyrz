@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science gives us knowledge, but only philosophy can give us wisdom.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Will Durant</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
