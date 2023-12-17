@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
