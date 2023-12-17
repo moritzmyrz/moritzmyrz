@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
 >
-> <p>- Maya Angelou</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
