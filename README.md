@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- The Buddha</p>
+> <p>- Mignon McLaughlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
