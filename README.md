@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> Happiness mainly comes from our own attitude, rather than from external factors.
 >
-> <p>- Maya Angelou</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
