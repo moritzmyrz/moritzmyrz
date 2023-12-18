@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
