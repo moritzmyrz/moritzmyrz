@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?
 >
-> <p>- Janet Jackson</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
