@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
 >
-> <p>- Laozi</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
