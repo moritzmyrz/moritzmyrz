@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> All is flux; nothing stays still.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
