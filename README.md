@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
 >
-> <p>- Epictetus</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
