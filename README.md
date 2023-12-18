@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
