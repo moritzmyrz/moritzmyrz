@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
