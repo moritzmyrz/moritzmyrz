@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
