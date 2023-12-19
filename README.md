@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- The Buddha</p>
+> <p>- Niels Bohr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
