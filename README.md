@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Niels Bohr</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
