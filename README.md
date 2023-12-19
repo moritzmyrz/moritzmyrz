@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> The world is but a canvas to the imagination.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
