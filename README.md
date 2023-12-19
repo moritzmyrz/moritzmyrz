@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Alan Watts</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
