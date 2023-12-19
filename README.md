@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Napoleon</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
