@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- John Lennon</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
