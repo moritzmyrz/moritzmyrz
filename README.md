@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
+> Life is divided into the horrible and the miserable.
 >
-> <p>- The Buddha</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
