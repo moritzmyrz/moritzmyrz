@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
 >
-> <p>- Dale Carnegie</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
