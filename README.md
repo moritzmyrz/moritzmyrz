@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
+> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
 >
-> <p>- Muhammad Ali</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
