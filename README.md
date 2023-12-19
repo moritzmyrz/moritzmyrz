@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Patience is the companion of wisdom.
+> Nothing in life is so exhilarating as to be shot at without result.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
