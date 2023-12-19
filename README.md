@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Pablo Picasso</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
