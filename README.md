@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- The Buddha</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
