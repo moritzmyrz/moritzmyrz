@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> Imagination is not a talent of some men but is the health of every man.
 >
-> <p>- Helen Keller</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
