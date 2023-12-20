@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> Beware of missing chances; otherwise it may be altogether too late someday.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Franz Liszt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
