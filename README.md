@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
