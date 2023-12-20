@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> Remember that failure is an event, not a person.
 >
-> <p>- Richard Whately</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
