@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a thing is done, it's done. Don't look back. Look forward to your next objective.
+> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
 >
-> <p>- George Marshall</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
