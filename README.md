@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
+> There is no failure except in no longer trying.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
