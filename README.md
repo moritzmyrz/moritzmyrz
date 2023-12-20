@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Michael Korda</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
