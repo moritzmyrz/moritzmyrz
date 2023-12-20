@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Unless one is able to live fully in the present, the future is a hoax.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Alan Watts</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
