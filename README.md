@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are people who have money and people who are rich.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Coco Chanel</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
