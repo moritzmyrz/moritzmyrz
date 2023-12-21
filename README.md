@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Stay committed to your decisions, but stay flexible in your approach.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Tony Robbins</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
