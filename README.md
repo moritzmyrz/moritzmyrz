@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Albert Einstein</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
