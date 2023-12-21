@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Libby Larsen</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
