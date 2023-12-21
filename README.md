@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men make more opportunities than they find.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Francis Bacon</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
