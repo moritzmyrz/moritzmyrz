@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Helen Keller</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
