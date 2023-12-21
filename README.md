@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
 > <p>- Martin Luther King Jr.</p>
 
