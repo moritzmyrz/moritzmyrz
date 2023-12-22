@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
