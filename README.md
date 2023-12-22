@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
