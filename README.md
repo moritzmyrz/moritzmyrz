@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
