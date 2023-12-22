@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Formula for success: under promise and over deliver.
+> Freedom is the right to live as we wish.
 >
-> <p>- Tom Peters</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
