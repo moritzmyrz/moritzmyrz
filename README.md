@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> A prudent question is one half of wisdom.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
