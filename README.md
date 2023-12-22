@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> He who angers you conquers you.
 >
-> <p>- Francis Bacon</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
