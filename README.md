@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- J. Paul Getty</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
