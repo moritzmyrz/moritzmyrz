@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- J. Paul Getty</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
