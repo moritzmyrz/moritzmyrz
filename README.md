@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Thomas Edison</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
