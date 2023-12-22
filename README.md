@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
