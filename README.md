@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has long been an axiom of mine that the little things are infinitely the most important.
+> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
