@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
 >
-> <p>- Richard Whately</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
