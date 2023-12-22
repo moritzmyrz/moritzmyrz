@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
 >
-> <p>- Robert Schuller</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
