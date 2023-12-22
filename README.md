@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
