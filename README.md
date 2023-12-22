@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never mistake activity for achievement.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- John Wooden</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
