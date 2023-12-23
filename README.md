@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Tony Robbins</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
