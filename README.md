@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
