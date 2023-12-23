@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
+> Difficulties are things that show a person what they are.
 >
-> <p>- The Buddha</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
