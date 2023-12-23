@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
