@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Carlos Castaneda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
