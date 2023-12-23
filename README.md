@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- John Marshall</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
