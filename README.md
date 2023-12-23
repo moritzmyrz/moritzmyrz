@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a miracle that curiosity survives formal education.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Albert Einstein</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
