@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who hath many friends hath none.
+> Wisdom is found only in truth.
 >
-> <p>- Aristotle</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
