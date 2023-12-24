@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Charles Henry Parkhurst</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
