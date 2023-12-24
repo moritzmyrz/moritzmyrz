@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> <p>- Cicero</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
