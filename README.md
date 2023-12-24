@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To fly as fast as thought, you must begin by knowing that you have already arrived.
+> Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
 >
-> <p>- Richard Bach</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
