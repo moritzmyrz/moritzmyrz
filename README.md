@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- Washington Irving</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
