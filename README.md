@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- John Lennon</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
