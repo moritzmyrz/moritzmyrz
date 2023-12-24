@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Tony Robbins</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
