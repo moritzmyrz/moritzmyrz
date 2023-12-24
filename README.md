@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Winston Churchill</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
