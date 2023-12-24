@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
