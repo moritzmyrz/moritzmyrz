@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
