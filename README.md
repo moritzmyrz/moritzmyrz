@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
