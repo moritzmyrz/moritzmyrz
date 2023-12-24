@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
