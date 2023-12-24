@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> The gambling known as business looks with austere disfavor upon the business known as gambling.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
