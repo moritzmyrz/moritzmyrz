@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The gambling known as business looks with austere disfavor upon the business known as gambling.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
