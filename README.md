@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
