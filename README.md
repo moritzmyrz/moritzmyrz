@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> There are people who have money and people who are rich.
 >
-> <p>- Herodotus</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
