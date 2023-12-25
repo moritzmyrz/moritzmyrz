@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> Friendship is Love without his wings!
 >
-> <p>- Richard Bach</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
