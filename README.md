@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
