@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Effort only fully releases its reward after a person refuses to quit.
+> The simplest things are often the truest.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
