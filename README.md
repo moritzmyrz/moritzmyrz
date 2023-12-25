@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> Of all possessions a friend is the most precious.
 >
-> <p>- Dalai Lama</p>
+> <p>- Herodotus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
