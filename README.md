@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
