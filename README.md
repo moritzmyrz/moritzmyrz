@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- George Eliot</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
