@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Agatha Christie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
