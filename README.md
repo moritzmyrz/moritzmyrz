@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
