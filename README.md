@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> Happiness mainly comes from our own attitude, rather than from external factors.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
