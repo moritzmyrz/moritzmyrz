@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> If you correct your mind, the rest of your life will fall into place.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
