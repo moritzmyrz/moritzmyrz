@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
