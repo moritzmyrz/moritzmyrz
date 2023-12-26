@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Margaret Mead</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
