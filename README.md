@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is with our passions, as it is with fire and water, they are good servants but bad masters.
+> Creativity comes from trust. Trust your instincts. And never hope more than you work.
 >
-> <p>- Aesop</p>
+> <p>- Rita Mae Brown</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
