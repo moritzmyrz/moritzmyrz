@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Confucius</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
