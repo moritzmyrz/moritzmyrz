@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Torquato Tasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
