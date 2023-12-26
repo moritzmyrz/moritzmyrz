@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- Agatha Christie</p>
+> <p>- Samuel Beckett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
