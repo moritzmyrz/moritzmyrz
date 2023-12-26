@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Maya Angelou</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
