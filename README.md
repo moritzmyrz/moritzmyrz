@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> Learning without reflection is a waste, reflection without learning is dangerous.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
