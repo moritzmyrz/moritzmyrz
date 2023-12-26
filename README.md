@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> It is with our passions, as it is with fire and water, they are good servants but bad masters.
 >
-> <p>- Dalai Lama</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
