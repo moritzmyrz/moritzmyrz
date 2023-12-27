@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Ted Williams</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
