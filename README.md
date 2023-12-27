@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> Smile, breathe and go slowly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
