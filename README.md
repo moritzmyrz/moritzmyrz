@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
