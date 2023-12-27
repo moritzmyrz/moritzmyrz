@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
+> The wisest men follow their own direction.
 >
-> <p>- John Burroughs</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
