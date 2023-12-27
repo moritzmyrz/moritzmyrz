@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Basil of Caesarea</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
