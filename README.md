@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
