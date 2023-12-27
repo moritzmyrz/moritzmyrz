@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Albert Einstein</p>
+> <p>- Amy Tan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
