@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- The Buddha</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
