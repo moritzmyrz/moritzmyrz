@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Confucius</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
