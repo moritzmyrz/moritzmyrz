@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
