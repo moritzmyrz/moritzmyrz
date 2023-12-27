@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- Amy Tan</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
