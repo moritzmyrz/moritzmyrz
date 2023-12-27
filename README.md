@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Ted Williams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
