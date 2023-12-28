@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Winston Churchill</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
