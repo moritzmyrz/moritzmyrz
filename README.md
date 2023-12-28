@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Og Mandino</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
