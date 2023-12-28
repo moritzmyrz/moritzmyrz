@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Alice Walker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
