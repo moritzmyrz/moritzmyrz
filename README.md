@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.
+> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
