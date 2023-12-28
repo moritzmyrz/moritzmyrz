@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
+> Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
 >
-> <p>- John Dewey</p>
+> <p>- Morihei Ueshiba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
