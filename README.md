@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
