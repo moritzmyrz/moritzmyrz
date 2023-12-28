@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- Michelangelo</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
