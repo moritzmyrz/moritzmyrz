@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- Alan Watts</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
