@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
