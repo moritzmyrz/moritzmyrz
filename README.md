@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
