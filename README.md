@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Plato</p>
+> <p>- Lily Tomlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
