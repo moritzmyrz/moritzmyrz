@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> Either I will find a way, or I will make one.
 >
-> <p>- David Eddings</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
