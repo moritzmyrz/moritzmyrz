@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> Love is a friendship set to music.
 >
-> <p>- Philip Sidney</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
