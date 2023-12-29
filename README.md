@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
