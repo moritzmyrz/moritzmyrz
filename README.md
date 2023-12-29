@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
 >
-> <p>- Thomas Paine</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
