@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
+> A creative man is motivated by the desire to achieve, not by the desire to beat others.
 >
-> <p>- Margaret Laurence</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
