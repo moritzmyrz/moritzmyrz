@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- Henry James</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
