@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- George S. Patton</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
