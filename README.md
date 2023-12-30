@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Salman Rushdie</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
