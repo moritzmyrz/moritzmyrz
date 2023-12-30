@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A creative man is motivated by the desire to achieve, not by the desire to beat others.
+> If one does not know to which port one is sailing, no wind is favorable.
 >
-> <p>- Ayn Rand</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
