@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port one is sailing, no wind is favorable.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Salman Rushdie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
