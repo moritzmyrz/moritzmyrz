@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- David Bader</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
