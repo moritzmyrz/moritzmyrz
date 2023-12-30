@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> A goal without a plan is just a wish.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Larry Elder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
