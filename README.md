@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> The greater our knowledge increases the more our ignorance unfolds.
 >
-> <p>- Confucius</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
