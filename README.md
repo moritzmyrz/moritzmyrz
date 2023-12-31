@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> If you only have a hammer, you tend to see every problem as a nail.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
