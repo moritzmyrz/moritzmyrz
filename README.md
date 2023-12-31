@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
 >
-> <p>- Denis Waitley</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
