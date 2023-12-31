@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art of progress is to preserve order amid change, and to preserve change amid order.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- Alfred North Whitehead</p>
+> <p>- Ben Hogan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
