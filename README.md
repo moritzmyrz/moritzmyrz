@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only when the mind and character slumber that the dress can be seen.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
