@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to a man. It is what a man does with what happens to him.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
