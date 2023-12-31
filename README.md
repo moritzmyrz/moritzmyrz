@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
