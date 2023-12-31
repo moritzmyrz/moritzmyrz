@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Albert Camus</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
