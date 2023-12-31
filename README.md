@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
