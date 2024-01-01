@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is like a sewer. What you get out of it depends on what you put into it.
+> To be great is to be misunderstood.
 >
-> <p>- Tom Lehrer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
