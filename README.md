@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
