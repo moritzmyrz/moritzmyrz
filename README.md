@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> Know how to listen, and you will profit even from those who talk badly.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
