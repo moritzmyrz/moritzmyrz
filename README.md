@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.
 >
-> <p>- Henri Bergson</p>
+> <p>- Neil Gaiman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
