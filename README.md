@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Whoopi Goldberg</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
