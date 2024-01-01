@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> It is more shameful to distrust our friends than to be deceived by them.
 >
 > <p>- Confucius</p>
 
