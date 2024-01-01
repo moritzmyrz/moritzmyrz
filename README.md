@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
