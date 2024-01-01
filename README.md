@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> God has given you one face, and you make yourself another.
 >
-> <p>- Confucius</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
