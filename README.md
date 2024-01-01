@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 >
-> <p>- Jim Rohn</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
