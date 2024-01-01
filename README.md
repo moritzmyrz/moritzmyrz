@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
