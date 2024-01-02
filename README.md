@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> I never worry about action, but only inaction.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
