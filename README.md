@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Those who cling to perceptions and views wander the world offending people.
 >
-> <p>- Marianne Williamson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
