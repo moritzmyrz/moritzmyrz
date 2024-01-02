@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
