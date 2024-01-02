@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> You can't blame gravity for falling in love.
 >
-> <p>- Winston Churchill</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
