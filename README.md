@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
