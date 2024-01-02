@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> He who is contented is rich.
 >
-> <p>- David Eddings</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
