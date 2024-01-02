@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
