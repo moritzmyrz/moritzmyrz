@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Alan Watts</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
