@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> Those who are free of resentful thoughts surely find peace.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
