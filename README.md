@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Spread love everywhere you go. Let no one ever come to you without leaving happier.
+> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
