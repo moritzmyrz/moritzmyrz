@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time changes everything except something within us which is always surprised by change.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Thomas Hardy</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
