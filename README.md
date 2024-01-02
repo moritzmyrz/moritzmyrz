@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Sri Chinmoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
