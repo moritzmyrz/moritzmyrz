@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
