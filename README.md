@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
 >
-> <p>- George Orwell</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
