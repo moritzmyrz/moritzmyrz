@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> Freedom is the right to live as we wish.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
