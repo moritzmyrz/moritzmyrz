@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to go east, don't go west.
+> Luck is what happens when preparation meets opportunity.
 >
-> <p>- Ramakrishna</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
