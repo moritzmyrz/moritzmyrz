@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
