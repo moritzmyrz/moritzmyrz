@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
+> The only time to buy these is on a day with no 'y' in it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
