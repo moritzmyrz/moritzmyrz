@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- Henry Ford</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
