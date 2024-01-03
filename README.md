@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is full of magical things, patiently waiting for our wits to grow sharper.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Eden Phillpotts</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
