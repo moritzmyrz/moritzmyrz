@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
