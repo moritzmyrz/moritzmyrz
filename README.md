@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> Science gives us knowledge, but only philosophy can give us wisdom.
 >
-> <p>- Jim Rohn</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
