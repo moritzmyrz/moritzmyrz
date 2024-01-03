@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> Give whatever you are doing and whoever you are with the gift of your attention.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
