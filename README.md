@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only time to buy these is on a day with no 'y' in it.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Warren Buffett</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
