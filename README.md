@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
