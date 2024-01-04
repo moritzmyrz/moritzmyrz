@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Albert Einstein</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
