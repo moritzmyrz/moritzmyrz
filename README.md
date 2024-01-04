@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
