@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great minds discuss ideas; average minds discuss events; small minds discuss people.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
