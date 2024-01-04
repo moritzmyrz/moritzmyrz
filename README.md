@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> Wherever you go, go with all your heart.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
