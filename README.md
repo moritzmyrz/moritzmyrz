@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> I owe my solitude to other people.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
