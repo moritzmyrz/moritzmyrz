@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be content with your lot; one cannot be first in everything.
+> In order to succeed, we must first believe that we can.
 >
-> <p>- Aesop</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
