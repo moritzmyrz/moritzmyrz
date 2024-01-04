@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In order to succeed, we must first believe that we can.
+> Winners never quit and quitters never win.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
