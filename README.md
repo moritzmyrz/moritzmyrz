@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> No man was ever wise by chance.
 >
-> <p>- Confucius</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
