@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> From error to error one discovers the entire truth.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
