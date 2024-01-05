@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- Dhammapada</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
