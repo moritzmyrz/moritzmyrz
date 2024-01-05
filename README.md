@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Helen Keller</p>
+> <p>- Howard H. Aiken</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
