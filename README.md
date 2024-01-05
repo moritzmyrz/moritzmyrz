@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Francis Bacon</p>
+> <p>- Pope Paul VI</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
