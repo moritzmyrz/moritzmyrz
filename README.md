@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
