@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A goal without a plan is just a wish.
+> Science gives us knowledge, but only philosophy can give us wisdom.
 >
-> <p>- Larry Elder</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
