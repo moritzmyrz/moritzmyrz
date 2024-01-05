@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> Remember that failure is an event, not a person.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
