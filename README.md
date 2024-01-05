@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
 >
-> <p>- Erasmus</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
