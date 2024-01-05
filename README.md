@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> It is more shameful to distrust our friends than to be deceived by them.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
