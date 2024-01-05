@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Gail Sheehy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
