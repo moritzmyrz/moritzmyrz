@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
