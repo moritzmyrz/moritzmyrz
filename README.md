@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
