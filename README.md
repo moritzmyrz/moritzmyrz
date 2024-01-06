@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- Richard Bach</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
