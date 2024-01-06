@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> Experience is not what happens to a man. It is what a man does with what happens to him.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
