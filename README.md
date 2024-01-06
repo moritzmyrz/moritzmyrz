@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Francis Bacon</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
