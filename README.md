@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is not what happens to a man. It is what a man does with what happens to him.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Aldous Huxley</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
