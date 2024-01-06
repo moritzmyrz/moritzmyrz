@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- John Acosta</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
