@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- William James</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
