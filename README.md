@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Salman Rushdie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
