@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> Ask yourself the secret of your success. Listen to your answer and practice it.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
