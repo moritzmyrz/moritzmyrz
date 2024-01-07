@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
 >
-> <p>- Thomas Edison</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
