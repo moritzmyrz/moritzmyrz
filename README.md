@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
