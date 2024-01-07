@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> Never find fault with the absent.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
