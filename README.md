@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- George Orwell</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
