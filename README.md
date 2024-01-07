@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> But man is not made for defeat. A man can be destroyed but not defeated.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
