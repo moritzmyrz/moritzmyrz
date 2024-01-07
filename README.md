@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> The most certain sign of wisdom is cheerfulness.
 >
-> <p>- Confucius</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
