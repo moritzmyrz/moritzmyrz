@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> If a man watches three football games in a row, he should be declared legally dead.
 >
-> <p>- John Updike</p>
+> <p>- Erma Bombeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
