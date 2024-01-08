@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Lasseter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
