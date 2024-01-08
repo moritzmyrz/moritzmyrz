@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We don't know a millionth of one percent about anything.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Thomas Edison</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
