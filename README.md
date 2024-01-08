@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
+> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
