@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- John Acosta</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
