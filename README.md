@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> By accepting yourself and being fully what you are, your presence can make others happy.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Jane Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
