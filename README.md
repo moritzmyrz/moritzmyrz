@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> You cannot have what you do not want.
 >
-> <p>- Philip Sidney</p>
+> <p>- John Acosta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
