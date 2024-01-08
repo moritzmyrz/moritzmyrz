@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Alexander Pope</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
