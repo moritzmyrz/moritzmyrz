@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> We do not quit playing because we grow old, we grow old because we quit playing.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
