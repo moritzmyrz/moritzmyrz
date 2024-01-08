@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Eric Hoffer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
