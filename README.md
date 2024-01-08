@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
