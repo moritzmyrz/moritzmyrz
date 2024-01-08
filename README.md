@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Isaac Asimov</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
