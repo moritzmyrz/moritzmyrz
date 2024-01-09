@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
