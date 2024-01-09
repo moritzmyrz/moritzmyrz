@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- The Buddha</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
