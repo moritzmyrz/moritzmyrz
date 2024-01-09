@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
