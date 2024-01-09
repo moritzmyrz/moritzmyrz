@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
