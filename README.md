@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I hear and I forget. I see and I remember. I do and I understand.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Confucius</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
