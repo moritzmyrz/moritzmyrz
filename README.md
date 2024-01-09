@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
