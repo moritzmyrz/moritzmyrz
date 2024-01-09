@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Mark Twain</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
