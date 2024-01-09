@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
