@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
-> <p>- B. F. Skinner</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
