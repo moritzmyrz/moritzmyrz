@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
