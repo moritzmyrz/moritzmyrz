@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
