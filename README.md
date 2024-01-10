@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.
+> So long as a person is capable of self-renewal they are a living being.
 >
-> <p>- Isocrates</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
