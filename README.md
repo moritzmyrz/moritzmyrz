@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- Carl Jung</p>
+> <p>- Doris Day</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
