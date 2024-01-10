@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
