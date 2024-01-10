@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- The Buddha</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
