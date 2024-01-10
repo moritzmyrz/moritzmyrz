@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Satchel Paige</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
