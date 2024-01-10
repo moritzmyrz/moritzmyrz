@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
