@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Pat Riley</p>
+> <p>- Lucretius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
