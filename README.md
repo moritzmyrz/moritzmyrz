@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fall of dropping water wears away the Stone.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Lucretius</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
