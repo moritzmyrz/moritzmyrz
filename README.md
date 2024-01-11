@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- John Brunner</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
