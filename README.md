@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Alan Watts</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
