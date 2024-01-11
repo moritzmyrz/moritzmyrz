@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Silence is a source of great strength.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
