@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
