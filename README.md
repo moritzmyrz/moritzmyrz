@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge is of no value unless you put it into practice.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Anton Chekhov</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
