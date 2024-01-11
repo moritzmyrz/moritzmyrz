@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't leave a stone unturned. It's always something, to know you have done the most you could.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Charles Dickens</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
