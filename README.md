@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
