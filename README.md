@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is when what you think, what you say, and what you do are in harmony.
+> The great myth of our times is that technology is communication.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Libby Larsen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
