@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All this modern technology just makes people try to do everything at once.
+> Wrinkles should merely indicate where smiles have been.
 >
-> <p>- Bill Watterson</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
