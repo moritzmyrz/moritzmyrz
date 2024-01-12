@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't compromise yourself. You are all you've got.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- Janis Joplin</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
