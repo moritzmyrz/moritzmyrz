@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
