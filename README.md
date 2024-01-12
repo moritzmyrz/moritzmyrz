@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
