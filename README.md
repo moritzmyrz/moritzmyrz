@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- Charles Dickens</p>
+> <p>- Michael Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
