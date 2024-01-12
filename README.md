@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's important to know that words don't move mountains. Work, exacting work moves mountains.
+> The ballot is stronger than the bullet.
 >
-> <p>- Danilo Dolci</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
