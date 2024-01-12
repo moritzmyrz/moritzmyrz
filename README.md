@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> It's important to know that words don't move mountains. Work, exacting work moves mountains.
 >
-> <p>- Michael Phelps</p>
+> <p>- Danilo Dolci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
