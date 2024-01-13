@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Bruce Lee</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
