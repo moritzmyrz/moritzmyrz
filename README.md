@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Persuasion is often more effectual than force.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Aesop</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
