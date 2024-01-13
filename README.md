@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows himself is enlightened.
+> You'll see it when you believe it.
 >
-> <p>- Laozi</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
