@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Thomas à Kempis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
