@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- George Foreman</p>
+> <p>- Ella Fitzgerald</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
