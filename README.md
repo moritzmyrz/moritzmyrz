@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
