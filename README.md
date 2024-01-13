@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> Wherever a man turns he can find someone who needs him.
 >
-> <p>- Helen Keller</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
