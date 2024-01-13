@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+> The world is round so that friendship may encircle it.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
