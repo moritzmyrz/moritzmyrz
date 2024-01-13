@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> He who knows himself is enlightened.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
