@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Hannah Arendt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
