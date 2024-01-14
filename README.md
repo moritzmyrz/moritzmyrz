@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Pablo Picasso</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
