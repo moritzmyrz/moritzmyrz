@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Fawn M. Brodie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
