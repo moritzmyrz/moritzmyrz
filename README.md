@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- John Locke</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
