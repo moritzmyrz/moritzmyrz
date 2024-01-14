@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
 >
-> <p>- Plato</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
