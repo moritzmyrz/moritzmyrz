@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Akhenaten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
