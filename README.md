@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
