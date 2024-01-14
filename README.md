@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Milton Berle</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
