@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
