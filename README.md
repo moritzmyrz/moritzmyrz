@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Albert Einstein</p>
+> <p>- Milton Berle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
