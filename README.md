@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
