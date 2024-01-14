@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come from having much, but from being attached to little.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Cheng Yen</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
