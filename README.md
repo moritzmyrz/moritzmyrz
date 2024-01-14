@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> Happiness does not come from having much, but from being attached to little.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Cheng Yen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
