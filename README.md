@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> Action is eloquence.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
