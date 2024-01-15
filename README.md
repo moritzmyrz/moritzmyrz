@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- Winston Churchill</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
