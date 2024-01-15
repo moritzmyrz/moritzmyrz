@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
