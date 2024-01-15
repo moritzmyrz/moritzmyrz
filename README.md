@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
+> A friend in power is a friend lost.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henry Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
