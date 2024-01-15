@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Billy Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
