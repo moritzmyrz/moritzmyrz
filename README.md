@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> Nothing but heaven itself is better than a friend who is really a friend.
 >
-> <p>- Confucius</p>
+> <p>- Plautus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
