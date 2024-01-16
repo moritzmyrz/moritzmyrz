@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Business, you know, may bring you money, but friendship hardly ever does.
+> One should not hurt others if one loves oneself.
 >
-> <p>- Jane Austen</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
