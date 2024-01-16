@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Injuries may be forgiven, but not forgotten.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- Aesop</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
