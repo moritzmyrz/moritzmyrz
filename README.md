@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- Agatha Christie</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
