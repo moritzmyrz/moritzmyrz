@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Charles W. Chesnutt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
