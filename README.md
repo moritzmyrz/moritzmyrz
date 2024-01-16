@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
