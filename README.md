@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> Think how hard physics would be if particles could think.
 >
-> <p>- Aristotle</p>
+> <p>- Murray Gell-Mann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
