@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't compromise yourself. You are all you've got.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Janis Joplin</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
