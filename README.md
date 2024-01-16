@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
 >
-> <p>- Richard Bach</p>
+> <p>- Ken Venturi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
