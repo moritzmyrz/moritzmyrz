@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Man Ray</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
