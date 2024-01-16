@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Albert Einstein</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
