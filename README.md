@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> Business, you know, may bring you money, but friendship hardly ever does.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
