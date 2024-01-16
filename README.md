@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- John Marshall</p>
+> <p>- John Barrymore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
