@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
