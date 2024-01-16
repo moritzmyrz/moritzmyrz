@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> To study and not think is a waste. To think and not study is dangerous.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
