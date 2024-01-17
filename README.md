@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> A business that makes nothing but money is a poor business.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
