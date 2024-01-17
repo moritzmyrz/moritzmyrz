@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A business that makes nothing but money is a poor business.
+> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
 >
-> <p>- Henry Ford</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
