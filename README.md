@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- The Buddha</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
