@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
