@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- John F. Kennedy</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
