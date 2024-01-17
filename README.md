@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
 >
-> <p>- Francis Bacon</p>
+> <p>- William Cowper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
