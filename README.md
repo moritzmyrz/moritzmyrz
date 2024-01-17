@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> The person born with a talent they are meant to use will find their greatest happiness in using it.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
