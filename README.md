@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+> Having nothing, nothing can he lose.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
