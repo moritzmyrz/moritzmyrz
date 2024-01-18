@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Mary Pickford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
