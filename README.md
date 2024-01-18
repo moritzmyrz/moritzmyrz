@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
