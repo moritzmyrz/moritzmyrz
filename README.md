@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> It is far better to be alone, than to be in bad company.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
