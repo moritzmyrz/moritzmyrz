@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meetings are indispensable when you don't want to do anything.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- John Kenneth Galbraith</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
