@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> Meetings are indispensable when you don't want to do anything.
 >
-> <p>- William Shakespeare</p>
+> <p>- John Kenneth Galbraith</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
