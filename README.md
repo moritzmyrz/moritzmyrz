@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Purity and impurity depend on oneself; no one can purify another.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- The Buddha</p>
+> <p>- Marilyn vos Savant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
