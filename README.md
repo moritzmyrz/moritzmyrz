@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
