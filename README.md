@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- George Eliot</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
