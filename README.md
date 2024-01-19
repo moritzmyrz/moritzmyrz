@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
