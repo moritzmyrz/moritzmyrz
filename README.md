@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science gives us knowledge, but only philosophy can give us wisdom.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Will Durant</p>
+> <p>- Jean François Paul de Gondi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
