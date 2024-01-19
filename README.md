@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
