@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man who doesn't trust himself can never really trust anyone else.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Jean François Paul de Gondi</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
