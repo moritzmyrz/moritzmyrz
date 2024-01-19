@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> Science gives us knowledge, but only philosophy can give us wisdom.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
