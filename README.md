@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
