@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
