@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
