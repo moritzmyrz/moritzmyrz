@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- Laozi</p>
+> <p>- Doris Day</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
