@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
