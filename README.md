@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Epictetus</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
