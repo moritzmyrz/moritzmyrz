@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- Thomas Edison</p>
+> <p>- Moncure D. Conway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
