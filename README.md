@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.
+> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
 >
-> <p>- Richard Needham</p>
+> <p>- Audre Lorde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
