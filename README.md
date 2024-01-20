@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Mark Twain</p>
+> <p>- Havelock Ellis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
