@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Dhammapada</p>
+> <p>- Norman Schwarzkopf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
