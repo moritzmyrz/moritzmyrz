@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Ralph Marston</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
