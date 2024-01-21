@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- The Buddha</p>
+> <p>- Franz Grillparzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
