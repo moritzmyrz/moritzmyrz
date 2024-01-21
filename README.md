@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> He that is giddy thinks the world turns round.
 >
-> <p>- Richard Bach</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
