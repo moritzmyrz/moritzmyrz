@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
