@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You were not born a winner, and you were not born a loser. You are what you make yourself be.
+> Men are disturbed not by things, but by the view which they take of them.
 >
-> <p>- Lou Holtz</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
