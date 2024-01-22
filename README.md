@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
+> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
 >
-> <p>- Sam Walton</p>
+> <p>- Edward de Bono</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
