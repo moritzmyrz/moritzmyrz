@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- Clay Shirky</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
