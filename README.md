@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
