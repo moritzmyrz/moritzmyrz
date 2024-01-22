@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Albert Einstein</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
