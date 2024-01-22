@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
