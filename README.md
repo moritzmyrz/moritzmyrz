@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- Christopher Morley</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
