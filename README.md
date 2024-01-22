@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
