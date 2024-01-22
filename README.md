@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
