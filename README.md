@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- Edward de Bono</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
