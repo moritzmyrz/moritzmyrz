@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
