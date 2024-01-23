@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meetings are indispensable when you don't want to do anything.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- John Kenneth Galbraith</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
