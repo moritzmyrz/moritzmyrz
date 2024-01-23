@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> Meetings are indispensable when you don't want to do anything.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Kenneth Galbraith</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
