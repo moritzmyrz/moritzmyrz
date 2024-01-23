@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Albert Camus</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
