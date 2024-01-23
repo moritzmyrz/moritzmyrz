@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Aesop</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
