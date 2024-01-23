@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> I'll prepare and someday my chance will come.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
