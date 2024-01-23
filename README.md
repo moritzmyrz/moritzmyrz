@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Confucius</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
