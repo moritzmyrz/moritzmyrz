@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
