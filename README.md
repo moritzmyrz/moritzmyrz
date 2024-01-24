@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
