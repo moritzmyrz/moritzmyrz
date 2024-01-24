@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- Alan Watts</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
