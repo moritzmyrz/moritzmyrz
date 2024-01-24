@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
