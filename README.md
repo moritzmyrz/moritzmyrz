@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> What is not started today is never finished tomorrow.
 >
-> <p>- George S. Patton</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
