@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Liberace</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
