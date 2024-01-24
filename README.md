@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward.
 >
-> <p>- Lucille Ball</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
