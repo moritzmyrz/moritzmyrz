@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> Marriage: A friendship recognized by the police.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
