@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
