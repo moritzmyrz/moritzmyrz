@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Joseph Prince</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
