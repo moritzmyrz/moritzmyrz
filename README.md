@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
