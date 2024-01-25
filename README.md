@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know how to listen, and you will profit even from those who talk badly.
+> It is impossible to love and to be wise.
 >
-> <p>- Plutarch</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
