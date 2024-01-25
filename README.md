@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
