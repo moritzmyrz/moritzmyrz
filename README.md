@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no fear for one whose mind is not filled with desires.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- The Buddha</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
