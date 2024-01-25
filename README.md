@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> He who conquers others is strong; He who conquers himself is mighty.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
