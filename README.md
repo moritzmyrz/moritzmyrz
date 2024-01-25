@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.
 >
-> <p>- Carl Jung</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
