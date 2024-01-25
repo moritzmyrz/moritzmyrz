@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Epicurus</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
