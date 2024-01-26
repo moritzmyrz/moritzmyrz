@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> Persuasion is often more effectual than force.
 >
-> <p>- Carl Jung</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
