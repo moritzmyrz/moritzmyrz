@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
