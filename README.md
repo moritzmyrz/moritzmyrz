@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
