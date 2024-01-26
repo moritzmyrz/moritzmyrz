@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
