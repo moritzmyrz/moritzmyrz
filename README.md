@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> I never did a day's work in my life.  It was all fun.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
