@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
