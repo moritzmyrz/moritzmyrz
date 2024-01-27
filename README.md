@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
