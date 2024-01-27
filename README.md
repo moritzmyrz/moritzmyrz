@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Thomas à Kempis</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
