@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> Begin at once to live and count each separate day as a separate life.
 >
-> <p>- Max Frisch</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
