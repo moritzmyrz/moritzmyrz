@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
