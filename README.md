@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
