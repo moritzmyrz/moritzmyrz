@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Norman Schwarzkopf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
