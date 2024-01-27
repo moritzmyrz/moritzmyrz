@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+> Persuasion is often more effectual than force.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
