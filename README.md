@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.
 >
-> <p>- Anaïs Nin</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
