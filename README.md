@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> It's better to be a lion for a day than a sheep all your life.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
