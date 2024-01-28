@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Tony Robbins</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
