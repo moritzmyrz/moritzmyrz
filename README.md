@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Joan Rivers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
