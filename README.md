@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Laozi</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
