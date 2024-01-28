@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
