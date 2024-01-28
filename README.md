@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
