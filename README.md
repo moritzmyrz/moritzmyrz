@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Franz Kafka</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
