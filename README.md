@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Richard Bach</p>
+> <p>- Franz Kafka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
