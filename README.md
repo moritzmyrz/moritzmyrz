@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Martha Washington</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
