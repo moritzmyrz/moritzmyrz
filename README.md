@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think as a wise man but communicate in the language of the people.
+> Happiness does not come from having much, but from being attached to little.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Cheng Yen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
