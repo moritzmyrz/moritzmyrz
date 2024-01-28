@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> Music in the soul can be heard by the universe.
 >
-> <p>- Joan Rivers</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
