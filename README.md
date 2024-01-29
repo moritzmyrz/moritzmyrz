@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
+> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
 >
-> <p>- Woody Allen</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
