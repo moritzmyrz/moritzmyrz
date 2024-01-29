@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
 >
-> <p>- Dalai Lama</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
