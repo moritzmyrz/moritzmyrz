@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you doubt your power, you give power to your doubt.
+> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
