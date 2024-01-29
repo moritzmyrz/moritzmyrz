@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The personal life deeply lived always expands into truths beyond itself.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
