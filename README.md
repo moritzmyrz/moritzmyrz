@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more man meditates upon good thoughts, the better will be his world and the world at large.
+> One today is worth two tomorrows.
 >
-> <p>- Confucius</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
