@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.
+> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
 >
-> <p>- Alan Watts</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
