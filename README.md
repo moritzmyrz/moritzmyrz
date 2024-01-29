@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- J. Paul Getty</p>
+> <p>- Alfred Tennyson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
