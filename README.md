@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
