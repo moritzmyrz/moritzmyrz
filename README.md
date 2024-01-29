@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> The personal life deeply lived always expands into truths beyond itself.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
