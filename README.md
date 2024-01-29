@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> We aim above the mark to hit the mark.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
