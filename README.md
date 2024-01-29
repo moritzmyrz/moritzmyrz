@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
