@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
