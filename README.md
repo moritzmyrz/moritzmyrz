@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Edmund Burke</p>
+> <p>- Mignon McLaughlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
