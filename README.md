@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
+> It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
