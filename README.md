@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Richard Bach</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
