@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Jonas Salk</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
