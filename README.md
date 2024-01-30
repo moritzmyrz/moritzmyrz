@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a succession of lessons, which must be lived to be understood.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
