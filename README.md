@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> To fly, we have to have resistance.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
