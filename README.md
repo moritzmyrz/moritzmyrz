@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
+> Life is a succession of lessons, which must be lived to be understood.
 >
-> <p>- Mignon McLaughlin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
