@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
