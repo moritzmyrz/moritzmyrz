@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- Billy Wilder</p>
+> <p>- Jean Cocteau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
