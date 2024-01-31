@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> The universe is made of stories, not atoms.
 >
-> <p>- Michael Korda</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
