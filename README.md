@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Maya Angelou</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
