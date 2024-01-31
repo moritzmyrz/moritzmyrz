@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Michelangelo</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
