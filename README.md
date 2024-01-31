@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
+> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
 >
-> <p>- Sophocles</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
