@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
