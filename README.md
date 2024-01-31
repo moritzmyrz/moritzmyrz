@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
