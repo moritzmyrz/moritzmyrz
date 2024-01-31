@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> Inspiration exists, but it has to find us working.
 >
-> <p>- Karl Menninger</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
