@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
+> All great achievements require time.
 >
-> <p>- The Buddha</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
