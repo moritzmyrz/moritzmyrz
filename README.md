@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
