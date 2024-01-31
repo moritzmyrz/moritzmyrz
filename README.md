@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always seek out the seed of triumph in every adversity.
+> To succeed, we must first believe that we can.
 >
-> <p>- Og Mandino</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
