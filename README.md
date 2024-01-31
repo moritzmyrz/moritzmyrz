@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> You are that vast thing that you see far, far off with great telescopes.
 >
-> <p>- Jean Cocteau</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
