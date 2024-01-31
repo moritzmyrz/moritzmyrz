@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
+> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
 >
-> <p>- Washington Irving</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
