@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Karl Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
