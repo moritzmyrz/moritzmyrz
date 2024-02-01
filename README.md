@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Loretta Young</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
