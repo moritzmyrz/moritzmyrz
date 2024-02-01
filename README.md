@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To conquer fear is the beginning of wisdom.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Loretta Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
