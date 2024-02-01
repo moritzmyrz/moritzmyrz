@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+> Those who cling to perceptions and views wander the world offending people.
 >
-> <p>- Alan Watts</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
