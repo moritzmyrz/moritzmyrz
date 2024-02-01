@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character develops itself in the stream of life.
+> Much wisdom often goes with fewest words.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
