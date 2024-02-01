@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who cling to perceptions and views wander the world offending people.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- The Buddha</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
