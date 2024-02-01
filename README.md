@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
 >
-> <p>- Tony Robbins</p>
+> <p>- Charles Eastman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
