@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- Laozi</p>
+> <p>- Billy Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
