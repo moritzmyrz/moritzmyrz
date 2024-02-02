@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the flower you've got to let grow.
+> Do one thing every day that scares you.
 >
-> <p>- John Lennon</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
