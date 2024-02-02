@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- Napoleon Hill</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
