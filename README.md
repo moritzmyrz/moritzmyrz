@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
