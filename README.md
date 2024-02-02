@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
+> Every man is a volume if you know how to read him.
 >
-> <p>- Epictetus</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
