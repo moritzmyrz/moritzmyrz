@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- William Shakespeare</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
