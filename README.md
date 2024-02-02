@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
+> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
 >
-> <p>- Hannah Szenes</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
