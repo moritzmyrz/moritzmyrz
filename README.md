@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> Self-trust is the first secret of success.
 >
-> <p>- Sophocles</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
