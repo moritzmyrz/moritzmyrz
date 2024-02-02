@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When in doubt, don't.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Daniel J. Boorstin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
