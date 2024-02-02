@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
