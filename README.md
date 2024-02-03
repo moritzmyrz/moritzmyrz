@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- Tony Robbins</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
