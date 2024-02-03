@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
+> Reality leaves a lot to the imagination.
 >
-> <p>- Peter Abelard</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
