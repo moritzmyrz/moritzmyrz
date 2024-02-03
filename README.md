@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Lucretius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
