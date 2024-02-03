@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- John Brunner</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
