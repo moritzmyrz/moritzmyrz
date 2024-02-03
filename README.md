@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
