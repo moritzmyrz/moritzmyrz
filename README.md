@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
