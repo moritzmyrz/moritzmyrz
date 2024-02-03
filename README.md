@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> May our hearts garden of awakening bloom with hundreds of flowers.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
