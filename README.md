@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
