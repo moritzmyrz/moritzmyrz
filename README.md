@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Havelock Ellis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
