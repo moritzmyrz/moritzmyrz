@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> Along with success comes a reputation for wisdom.
 >
-> <p>- Mother Teresa</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
