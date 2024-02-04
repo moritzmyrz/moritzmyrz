@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
