@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
