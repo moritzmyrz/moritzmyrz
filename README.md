@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
