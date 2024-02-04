@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Charles Kingsley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
