@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
 >
-> <p>- Napoleon</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
