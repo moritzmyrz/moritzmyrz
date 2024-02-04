@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> The doors of wisdom are never shut.
 >
-> <p>- Alan Watts</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
