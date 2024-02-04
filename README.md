@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> No valid plans for the future can be made by those who have no capacity for living now.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
