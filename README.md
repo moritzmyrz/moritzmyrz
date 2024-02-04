@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> So much technology, so little talent.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
