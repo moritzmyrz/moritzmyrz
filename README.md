@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+> Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?
 >
-> <p>- M. Scott Peck</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
