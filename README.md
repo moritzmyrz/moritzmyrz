@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
