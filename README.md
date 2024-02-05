@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> The language of friendship is not words but meanings.
 >
-> <p>- Mother Teresa</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
