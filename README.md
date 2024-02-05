@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+> Don't watch the clock; do what it does. Keep going.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
