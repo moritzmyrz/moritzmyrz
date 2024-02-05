@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
+> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
