@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> Be faithful in small things because it is in them that your strength lies.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
