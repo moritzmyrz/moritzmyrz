@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Confucius</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
