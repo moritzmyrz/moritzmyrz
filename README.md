@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be wronged is nothing unless you continue to remember it.
+> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
 >
-> <p>- Confucius</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
