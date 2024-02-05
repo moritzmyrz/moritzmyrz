@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- William Hazlitt</p>
+> <p>- Bernadette Devlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
