@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't watch the clock; do what it does. Keep going.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 >
-> <p>- Sam Levenson</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
