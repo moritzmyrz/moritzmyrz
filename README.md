@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> Take things as they are. Punch when you have to punch. Kick when you have to kick.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
