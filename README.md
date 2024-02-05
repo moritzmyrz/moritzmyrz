@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is a word that describes something that doesn't work yet.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Douglas Adams</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
