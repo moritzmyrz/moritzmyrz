@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Laozi</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
