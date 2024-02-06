@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
+> A wise man will make more opportunities than he finds.
 >
-> <p>- Woody Allen</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
