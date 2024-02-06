@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
