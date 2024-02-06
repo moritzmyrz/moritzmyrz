@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Francis Bacon</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
