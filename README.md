@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
