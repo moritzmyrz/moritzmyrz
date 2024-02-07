@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
 >
-> <p>- Andy Warhol</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
