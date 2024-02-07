@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Plato</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
