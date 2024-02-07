@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
