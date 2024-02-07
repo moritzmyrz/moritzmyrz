@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- John Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
