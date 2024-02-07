@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Og Mandino</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
