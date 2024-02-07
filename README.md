@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Robert Southey</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
