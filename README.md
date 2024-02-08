@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Margaret Chase Smith</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
