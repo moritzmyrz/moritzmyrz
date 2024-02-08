@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> Victory belongs to the most persevering.
 >
-> <p>- John Lubbock</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
