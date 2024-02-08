@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> Either I will find a way, or I will make one.
 >
-> <p>- Clay Shirky</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
