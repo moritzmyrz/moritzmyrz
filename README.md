@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> A quarrel between friends, when made up, adds a new tie to friendship.
 >
-> <p>- Voltaire</p>
+> <p>- Francis de Sales</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
