@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Philip Sidney</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
