@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise person should be urgently moved on occasions that make for urgency.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- The Buddha</p>
+> <p>- Uta Hagen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
