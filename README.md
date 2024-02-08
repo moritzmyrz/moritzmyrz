@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Helen Keller</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
