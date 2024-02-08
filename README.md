@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
