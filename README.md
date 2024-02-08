@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Laozi</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
