@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Richard Bach</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
