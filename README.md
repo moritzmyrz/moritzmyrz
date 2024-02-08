@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- Uta Hagen</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
