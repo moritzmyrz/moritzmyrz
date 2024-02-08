@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
 >
-> <p>- Walter Winchell</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
