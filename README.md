@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more man meditates upon good thoughts, the better will be his world and the world at large.
+> A wise person should be urgently moved on occasions that make for urgency.
 >
-> <p>- Confucius</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
