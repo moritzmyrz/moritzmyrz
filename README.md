@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
