@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
