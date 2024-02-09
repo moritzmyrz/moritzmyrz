@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Northrop Frye</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
