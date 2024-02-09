@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Wayne Dyer</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
