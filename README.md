@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> If a man does his best, what else is there?
 >
-> <p>- Dalai Lama</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
