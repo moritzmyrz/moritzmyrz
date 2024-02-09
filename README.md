@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
