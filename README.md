@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
