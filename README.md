@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
