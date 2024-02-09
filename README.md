@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's the little details that are vital. Little things make big things happen.
+> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
 >
-> <p>- John Wooden</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
