@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- George Santayana</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
