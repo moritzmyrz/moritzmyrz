@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Tony Robbins</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
