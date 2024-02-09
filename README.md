@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you doubt your power, you give power to your doubt.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
