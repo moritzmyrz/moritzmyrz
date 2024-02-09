@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
