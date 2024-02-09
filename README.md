@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
