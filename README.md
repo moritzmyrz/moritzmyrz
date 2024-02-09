@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
