@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
 >
-> <p>- Albert Einstein</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
