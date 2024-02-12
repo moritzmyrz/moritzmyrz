@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- Anne Lamott</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
