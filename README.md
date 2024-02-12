@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's only when the tide goes out that you discover who's been swimming naked.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Warren Buffett</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
