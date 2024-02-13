@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- Richard Bach</p>
+> <p>- Sogyal Rinpoche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
