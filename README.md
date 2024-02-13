@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
 >
-> <p>- William Burroughs</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
