@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
