@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- The Buddha</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
