@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+> We don't stop playing because we grow old; we grow old because we stop playing.
 >
-> <p>- Archimedes</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
