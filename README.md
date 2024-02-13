@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
