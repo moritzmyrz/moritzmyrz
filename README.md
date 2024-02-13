@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Rachel Carson</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
