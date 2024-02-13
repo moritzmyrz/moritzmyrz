@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
