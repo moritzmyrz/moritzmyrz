@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great minds discuss ideas; average minds discuss events; small minds discuss people.
+> When the solution is simple, God is answering.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
