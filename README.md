@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Elizabeth Kapu'uwailani Lindsey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
