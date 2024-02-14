@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
+> Life is really simple, but we insist on making it complicated.
 >
-> <p>- Alan Watts</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
