@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Frank Herbert</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
