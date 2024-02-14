@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Albert Camus</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
