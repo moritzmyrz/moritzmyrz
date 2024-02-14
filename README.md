@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most formidable weapon against errors of every kind is reason.
+> Sooner or later, those who win are those who think they can.
 >
-> <p>- Thomas Paine</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
