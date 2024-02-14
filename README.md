@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Confucius</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
