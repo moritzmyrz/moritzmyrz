@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Chanakya</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
