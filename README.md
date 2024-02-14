@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Charles Darwin</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
