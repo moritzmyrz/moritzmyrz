@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> The best way to predict your future is to create it.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
