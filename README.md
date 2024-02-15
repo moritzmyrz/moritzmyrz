@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+> We are all something, but none of us are everything.
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
