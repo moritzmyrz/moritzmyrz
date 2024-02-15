@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> We are stuck with technology when what we really want is just stuff that works.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
