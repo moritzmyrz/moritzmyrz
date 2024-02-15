@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Hannah More</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
