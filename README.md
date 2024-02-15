@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Thomas Edison</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
