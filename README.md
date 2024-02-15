@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Betty Friedan</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
