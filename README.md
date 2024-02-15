@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
