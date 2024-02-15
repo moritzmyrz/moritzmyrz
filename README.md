@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Satchel Paige</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
