@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
