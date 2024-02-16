@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> Where there is love there is life.
 >
-> <p>- Euripides</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
