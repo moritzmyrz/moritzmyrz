@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
 >
-> <p>- Jimmy Dean</p>
+> <p>- Herbert Bayard Swope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
