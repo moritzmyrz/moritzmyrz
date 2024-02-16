@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
