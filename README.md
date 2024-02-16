@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?
 >
-> <p>- Washington Irving</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
