@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Albert Einstein</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
