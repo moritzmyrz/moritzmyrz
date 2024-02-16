@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> As you think, so shall you become.
 >
-> <p>- Joseph Joubert</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
