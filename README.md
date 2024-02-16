@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Absence makes the heart grow fonder.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Thomas Haynes Bayly</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
