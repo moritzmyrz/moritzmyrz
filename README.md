@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> Winners never quit and quitters never win.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
