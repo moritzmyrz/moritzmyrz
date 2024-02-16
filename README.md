@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.
 >
-> <p>- Jack Dixon</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
