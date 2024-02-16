@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
 >
-> <p>- Walt Whitman</p>
+> <p>- Carlos Castaneda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
