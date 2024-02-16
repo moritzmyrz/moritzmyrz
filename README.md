@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- Albert Einstein</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
