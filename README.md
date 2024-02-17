@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Silence is a source of great strength.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
