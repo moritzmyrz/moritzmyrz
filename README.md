@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
