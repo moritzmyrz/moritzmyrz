@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you wish to be a writer, write.
+> Appearances are often deceiving.
 >
-> <p>- Epictetus</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
