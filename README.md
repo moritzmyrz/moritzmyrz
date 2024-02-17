@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Albert Einstein</p>
+> <p>- Howard H. Aiken</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
