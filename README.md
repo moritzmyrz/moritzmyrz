@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet.
+> Life without love is like a tree without blossoms or fruit.
 >
-> <p>- The Buddha</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
