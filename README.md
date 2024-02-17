@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
 >
-> <p>- Albert Einstein</p>
+> <p>- Joseph Roux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
