@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
