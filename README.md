@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- Joseph Roux</p>
+> <p>- Thomas à Kempis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
