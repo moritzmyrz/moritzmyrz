@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One loyal friend is worth ten thousand relatives.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Euripides</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
