@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Laozi</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
