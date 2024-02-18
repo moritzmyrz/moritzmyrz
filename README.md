@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
