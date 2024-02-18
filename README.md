@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mia Hamm</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
