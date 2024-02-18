@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Brian Tracy</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
