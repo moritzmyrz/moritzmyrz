@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Hugh Miller</p>
+> <p>- Milton Berle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
