@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> The most I can do for my friend is simply be his friend.
 >
-> <p>- Cicero</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
