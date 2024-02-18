@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
