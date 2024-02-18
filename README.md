@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Mia Hamm</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
