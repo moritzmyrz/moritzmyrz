@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We have committed the Golden Rule to memory; let us now commit it to life.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Edwin Markham</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
