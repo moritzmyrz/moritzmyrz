@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
