@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Ralph Marston</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
