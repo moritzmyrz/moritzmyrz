@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> We have committed the Golden Rule to memory; let us now commit it to life.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Edwin Markham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
