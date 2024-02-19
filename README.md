@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Sophocles</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
