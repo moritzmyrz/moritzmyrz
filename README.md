@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
