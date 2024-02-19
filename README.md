@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
