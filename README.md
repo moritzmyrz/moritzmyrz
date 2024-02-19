@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
