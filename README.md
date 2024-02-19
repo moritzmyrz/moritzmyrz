@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Hell, there are no rules here-- we're trying to accomplish something.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Thomas Edison</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
