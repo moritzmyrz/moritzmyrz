@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
