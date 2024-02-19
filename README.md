@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
+> Everything that happens as it should, and if you observe carefully, you will find this to be so.
 >
-> <p>- Winston Churchill</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
