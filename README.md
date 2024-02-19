@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
