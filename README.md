@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Anaïs Nin</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
