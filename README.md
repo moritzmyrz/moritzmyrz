@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Richard Bach</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
