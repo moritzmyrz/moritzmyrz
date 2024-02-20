@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Plutarch</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
