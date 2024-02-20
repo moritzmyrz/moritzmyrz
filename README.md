@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing in a caterpillar that tells you it's going to be a butterfly.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
