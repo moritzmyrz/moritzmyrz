@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+> It has been my experience that folks who have no vices have very few virtues.
 >
-> <p>- Brian Tracy</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
