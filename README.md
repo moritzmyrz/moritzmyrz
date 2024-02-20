@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has been my experience that folks who have no vices have very few virtues.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
