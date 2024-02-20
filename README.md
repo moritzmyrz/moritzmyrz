@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Charles Du Bos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
