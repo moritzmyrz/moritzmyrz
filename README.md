@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> A single rose can be my garden... a single friend, my world.
 >
-> <p>- Laozi</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
