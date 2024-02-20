@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
