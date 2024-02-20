@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The bird of paradise alights only upon the hand that does not grasp.
+> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
 >
-> <p>- John Berry</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
