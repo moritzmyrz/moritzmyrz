@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
