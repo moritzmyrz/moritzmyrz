@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
