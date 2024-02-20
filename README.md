@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+> A friend in power is a friend lost.
 >
-> <p>- Cicero</p>
+> <p>- Henry Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
