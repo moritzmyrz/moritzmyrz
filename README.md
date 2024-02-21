@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All wisdom does not reside in Delhi.
+> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
 >
-> <p>- P. Chidambaram</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
