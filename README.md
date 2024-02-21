@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
