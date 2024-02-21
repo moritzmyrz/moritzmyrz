@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To accomplish great things, we must dream as well as act.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- Anatole France</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
