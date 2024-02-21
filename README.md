@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
