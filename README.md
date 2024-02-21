@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> The pine stays green in winter... wisdom in hardship.
 >
-> <p>- Satchel Paige</p>
+> <p>- Norman Douglas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
