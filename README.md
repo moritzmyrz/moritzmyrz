@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
