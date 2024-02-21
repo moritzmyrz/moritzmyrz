@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Dag Hammarskjöld</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
