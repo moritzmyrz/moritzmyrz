@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend in power is a friend lost.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Henry Adams</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
