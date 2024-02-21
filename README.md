@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep silence for the most part, and speak only when you must, and then briefly.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- Epictetus</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
