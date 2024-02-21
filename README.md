@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 >
-> <p>- Norman Douglas</p>
+> <p>- Nikola Tesla</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
