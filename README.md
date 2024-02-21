@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+> Don't look back. Something might be gaining on you.
 >
-> <p>- Thomas Edison</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
