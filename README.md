@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Bob Knight</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
