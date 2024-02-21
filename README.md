@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is always an overmatch for strength.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Phil Jackson</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
