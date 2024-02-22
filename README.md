@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
 >
-> <p>- Will Rogers</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
