@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
