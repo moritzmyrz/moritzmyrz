@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most formidable weapon against errors of every kind is reason.
+> Do all things with love.
 >
-> <p>- Thomas Paine</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
