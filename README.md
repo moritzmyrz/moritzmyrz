@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do all things with love.
+> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 >
-> <p>- Og Mandino</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
