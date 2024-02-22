@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- John Ruskin</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
