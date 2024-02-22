@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Alan Watts</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
