@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> Opportunity does not knock, it presents itself when you beat down the door.
 >
-> <p>- B. F. Skinner</p>
+> <p>- Kyle Chandler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
