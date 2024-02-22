@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Opportunity does not knock, it presents itself when you beat down the door.
+> Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
 >
-> <p>- Kyle Chandler</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
