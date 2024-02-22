@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Doris Day</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
