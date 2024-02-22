@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
