@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Charles Kingsley</p>
+> <p>- Alexander Chalmers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
