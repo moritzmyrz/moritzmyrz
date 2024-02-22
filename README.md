@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> No valid plans for the future can be made by those who have no capacity for living now.
 >
-> <p>- Horace</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
