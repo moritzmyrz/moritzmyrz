@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
