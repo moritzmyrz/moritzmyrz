@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Doris Day</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
