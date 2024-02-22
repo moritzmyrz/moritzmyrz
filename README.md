@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> I owe my solitude to other people.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
