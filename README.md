@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
 >
-> <p>- Aristotle</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
