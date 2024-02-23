@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
+> Every great advance in science has issued from a new audacity of the imagination.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
