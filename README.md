@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
+> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
 >
-> <p>- Confucius</p>
+> <p>- Paramahansa Yogananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
