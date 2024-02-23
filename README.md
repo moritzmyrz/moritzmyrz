@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Error is discipline through which we advance.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
