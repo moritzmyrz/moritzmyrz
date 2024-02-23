@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Alan Watts</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
