@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Louise Hay</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
