@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
