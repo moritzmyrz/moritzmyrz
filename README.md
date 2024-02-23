@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- John Dewey</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
