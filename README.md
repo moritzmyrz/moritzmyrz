@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
