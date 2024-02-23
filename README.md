@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
+> Do something wonderful, people may imitate it.
 >
-> <p>- William James</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
