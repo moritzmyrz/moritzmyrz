@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
