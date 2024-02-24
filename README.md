@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> Go put your creed into the deed. Nor speak with double tongue.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
