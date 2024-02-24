@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Mike Singletary (basketball)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
