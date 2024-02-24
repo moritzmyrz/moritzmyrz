@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> If a man does his best, what else is there?
 >
-> <p>- Milton Berle</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
