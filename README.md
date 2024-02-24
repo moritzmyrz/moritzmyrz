@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> Ignorance never settles a question.
 >
-> <p>- Chanakya</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
