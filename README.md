@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
