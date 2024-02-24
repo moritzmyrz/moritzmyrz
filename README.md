@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
