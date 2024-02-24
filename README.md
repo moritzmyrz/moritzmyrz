@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> Think how hard physics would be if particles could think.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Murray Gell-Mann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
