@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- George S. Patton</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
