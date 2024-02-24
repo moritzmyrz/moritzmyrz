@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How many cares one loses when one decides not to be something but to be someone.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Coco Chanel</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
