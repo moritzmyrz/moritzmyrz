@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
