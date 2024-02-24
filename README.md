@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Amber Valletta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
