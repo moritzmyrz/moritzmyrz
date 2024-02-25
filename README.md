@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What worries you masters you.
+> Genius is one per cent inspiration, ninety-nine per cent perspiration.
 >
-> <p>- Haddon Robinson</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
