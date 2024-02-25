@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A true friend is one who overlooks your failures and tolerates your success!
+> Knowing others is wisdom, knowing yourself is Enlightenment.
 >
-> <p>- Doug Larson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
