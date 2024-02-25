@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- The Buddha</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
