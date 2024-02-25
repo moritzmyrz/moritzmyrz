@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that is giddy thinks the world turns round.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- William Shakespeare</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
