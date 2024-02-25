@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
