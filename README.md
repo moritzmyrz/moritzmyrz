@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we are not fully ourselves, truly in the present moment, we miss everything.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
