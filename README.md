@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The World is my country, all mankind are my brethren, and to do good is my religion.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- Thomas Paine</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
