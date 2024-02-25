@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> The two most powerful warriors are patience and time.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
