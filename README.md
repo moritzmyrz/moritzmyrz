@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
