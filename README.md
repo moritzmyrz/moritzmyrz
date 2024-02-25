@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> What worries you masters you.
 >
-> <p>- Norman Cousins</p>
+> <p>- Haddon Robinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
