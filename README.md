@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> The universe is transformation; our life is what our thoughts make it.
 >
-> <p>- Voltaire</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
