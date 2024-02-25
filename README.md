@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Genius is one per cent inspiration, ninety-nine per cent perspiration.
+> When I let go of what I am, I become what I might be.
 >
-> <p>- Thomas Edison</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
