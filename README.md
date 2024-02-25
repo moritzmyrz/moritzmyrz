@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Laozi</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
