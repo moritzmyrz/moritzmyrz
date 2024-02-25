@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> I can, therefore I am.
 >
-> <p>- Jane Wyman</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
