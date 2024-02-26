@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> Ethics change with technology.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Larry Niven</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
