@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Accept the challenges so that you can feel the exhilaration of victory.
+> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
 >
-> <p>- George S. Patton</p>
+> <p>- Swami Vivekananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
