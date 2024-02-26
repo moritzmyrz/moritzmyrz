@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+> We aim above the mark to hit the mark.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
