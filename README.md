@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ethics change with technology.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Larry Niven</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
