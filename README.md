@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> Swim upstream. Go the other way. Ignore the conventional wisdom.
 >
-> <p>- Yogi Berra</p>
+> <p>- Sam Walton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
