@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Og Mandino</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
