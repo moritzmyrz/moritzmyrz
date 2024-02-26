@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology made large populations possible; large populations now make technology indispensable.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Joseph Wood Krutch</p>
+> <p>- John Junor</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
