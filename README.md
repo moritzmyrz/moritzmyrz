@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want a thing done well, do it yourself.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Napoleon</p>
+> <p>- Henri Poincaré</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
