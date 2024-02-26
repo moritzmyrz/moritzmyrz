@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Jim Rohn</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
