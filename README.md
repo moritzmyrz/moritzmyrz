@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Technology made large populations possible; large populations now make technology indispensable.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Joseph Wood Krutch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
