@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.
 >
-> <p>- Harriet Woods</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
