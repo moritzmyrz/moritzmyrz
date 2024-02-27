@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> Wisdom begins in wonder.
 >
-> <p>- Richard Bach</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
