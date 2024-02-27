@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Paul Tillich</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
