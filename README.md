@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Richard Burton</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
