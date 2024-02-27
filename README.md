@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- William Shakespeare</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
