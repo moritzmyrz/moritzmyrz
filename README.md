@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> As you think, so shall you become.
 >
-> <p>- Edith Wharton</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
