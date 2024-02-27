@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Stephen Covey</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
