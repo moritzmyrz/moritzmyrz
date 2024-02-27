@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> Most great people have attained their greatest success just one step beyond their greatest failure.
 >
-> <p>- Socrates</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
