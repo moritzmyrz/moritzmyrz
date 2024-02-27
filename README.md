@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Bruce Lee</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
