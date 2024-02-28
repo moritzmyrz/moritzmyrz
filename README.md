@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Tony Robbins</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
