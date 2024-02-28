@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Billy Wilder</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
