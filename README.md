@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am always ready to learn although I do not always like being taught.
+> You're never a loser until you quit trying.
 >
-> <p>- Winston Churchill</p>
+> <p>- Mike Ditka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
