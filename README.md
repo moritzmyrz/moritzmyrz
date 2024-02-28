@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> I am always ready to learn although I do not always like being taught.
 >
-> <p>- Confucius</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
