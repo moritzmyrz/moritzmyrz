@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Carol Burnett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
