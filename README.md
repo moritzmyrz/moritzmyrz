@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Carol Burnett</p>
+> <p>- E. M. Forster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
