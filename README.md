@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- Grandma Moses</p>
+> <p>- Thomas Hobbes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
