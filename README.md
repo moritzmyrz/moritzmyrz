@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Voltaire</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
