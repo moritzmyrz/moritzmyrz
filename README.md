@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Good judgment comes from experience, and a lot of that comes from bad judgment.
 >
-> <p>- Phil Jackson</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
