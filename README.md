@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
