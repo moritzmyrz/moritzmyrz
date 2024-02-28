@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- E. M. Forster</p>
+> <p>- Billy Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
