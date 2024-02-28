@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Mike Ditka</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
