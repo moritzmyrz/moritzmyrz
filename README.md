@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
