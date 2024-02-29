@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+> Not all those who wander are lost.
 >
-> <p>- Daniel J. Boorstin</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
