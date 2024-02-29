@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
