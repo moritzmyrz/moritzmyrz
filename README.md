@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
 >
-> <p>- Napoleon</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
