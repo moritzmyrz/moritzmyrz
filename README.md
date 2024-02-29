@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
