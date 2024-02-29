@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
