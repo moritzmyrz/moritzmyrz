@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
+> Be great in act, as you have been in thought.
 >
-> <p>- Charles Dickens</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
