@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> I know but one freedom and that is the freedom of the mind.
 >
-> <p>- Stewart Brand</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
