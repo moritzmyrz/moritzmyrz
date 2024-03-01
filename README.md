@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
