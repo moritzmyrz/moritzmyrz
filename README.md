@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You just can't beat the person who never gives up.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Babe Ruth</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
