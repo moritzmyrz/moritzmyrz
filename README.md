@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Aristotle</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
