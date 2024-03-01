@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> At the center of your being, you have the answer; you know who you are, and you know what you want.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Laozi</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
