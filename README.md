@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Tony Robbins</p>
+> <p>- John Pierrakos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
