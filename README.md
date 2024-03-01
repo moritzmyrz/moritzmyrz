@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
