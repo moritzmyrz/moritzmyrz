@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.
+> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
 >
-> <p>- Aeschylus</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
