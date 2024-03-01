@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> At the center of your being, you have the answer; you know who you are, and you know what you want.
 >
-> <p>- Loretta Young</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
