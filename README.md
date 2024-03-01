@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
+> You just can't beat the person who never gives up.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
