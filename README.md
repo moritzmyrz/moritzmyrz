@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> You can't shake hands with a clenched fist.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Indira Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
