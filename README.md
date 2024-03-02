@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> We have committed the Golden Rule to memory; let us now commit it to life.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Edwin Markham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
