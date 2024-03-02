@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
+> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Joseph Roux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
