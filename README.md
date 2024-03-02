@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Stewart Brand</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
