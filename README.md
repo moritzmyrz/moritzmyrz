@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
