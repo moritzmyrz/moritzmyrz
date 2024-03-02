@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I hear and I forget. I see and I remember. I do and I understand.
+> When I let go of what I am, I become what I might be.
 >
-> <p>- Confucius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
