@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you correct your mind, the rest of your life will fall into place.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Laozi</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
