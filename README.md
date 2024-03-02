@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- Laozi</p>
+> <p>- Carrie Snow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
