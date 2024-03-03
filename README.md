@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Carol Burnett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
