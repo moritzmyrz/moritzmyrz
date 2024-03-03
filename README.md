@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> The great myth of our times is that technology is communication.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Libby Larsen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
