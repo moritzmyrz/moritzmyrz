@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Carl Jung</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
