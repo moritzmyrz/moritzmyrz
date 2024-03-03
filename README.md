@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
