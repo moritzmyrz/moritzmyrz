@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Laozi</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
