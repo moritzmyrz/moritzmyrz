@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Walt Disney</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
