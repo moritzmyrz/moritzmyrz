@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 >
 > <p>- Laozi</p>
 
