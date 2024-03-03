@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Joseph Joubert</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
