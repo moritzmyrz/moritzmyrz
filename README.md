@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Albert Einstein</p>
+> <p>- Harry Kemp</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
