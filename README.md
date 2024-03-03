@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- Harry Kemp</p>
+> <p>- Joseph Joubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
