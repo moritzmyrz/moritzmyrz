@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Libby Larsen</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
