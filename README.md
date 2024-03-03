@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
