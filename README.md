@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
 >
-> <p>- Confucius</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
