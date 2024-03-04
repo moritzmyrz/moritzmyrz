@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
+> If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.
 >
-> <p>- Albert Einstein</p>
+> <p>- Caterina Fake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
