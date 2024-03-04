@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
