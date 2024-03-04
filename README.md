@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Albert Einstein</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
