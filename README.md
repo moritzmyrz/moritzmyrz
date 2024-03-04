@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True knowledge exists in knowing that you know nothing.
+> Happiness can exist only in acceptance.
 >
-> <p>- Isocrates</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
