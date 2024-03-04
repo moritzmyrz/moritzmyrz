@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
