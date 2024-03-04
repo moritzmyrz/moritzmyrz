@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- Mia Hamm</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
