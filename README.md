@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
 >
-> <p>- Václav Havel</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
