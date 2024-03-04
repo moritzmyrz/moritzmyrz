@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
