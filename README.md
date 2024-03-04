@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- George Orwell</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
