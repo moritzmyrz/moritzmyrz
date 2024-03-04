@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Clay Shirky</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
