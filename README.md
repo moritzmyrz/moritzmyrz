@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- John Lennon</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
