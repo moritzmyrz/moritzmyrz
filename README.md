@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
