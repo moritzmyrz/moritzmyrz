@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
