@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
