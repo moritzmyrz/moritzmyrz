@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
