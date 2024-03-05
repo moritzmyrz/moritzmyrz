@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
 >
-> <p>- Dee Hock</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
