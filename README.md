@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Jim Rohn</p>
+> <p>- Thornton Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
