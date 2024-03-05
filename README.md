@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
