@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> The truest greatness lies in being kind, the truest wisdom in a happy mind.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
