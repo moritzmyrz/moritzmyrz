@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Lou Holtz</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
