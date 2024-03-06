@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To fly, we have to have resistance.
+> To know oneself is to study oneself in action with another person.
 >
-> <p>- Maya Lin</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
