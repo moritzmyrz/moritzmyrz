@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Richard Bach</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
