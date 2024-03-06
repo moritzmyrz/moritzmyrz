@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- René Descartes</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
