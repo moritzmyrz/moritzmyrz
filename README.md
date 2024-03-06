@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
+> To fly, we have to have resistance.
 >
-> <p>- Orson Welles</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
