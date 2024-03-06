@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
+> What do we live for, if it is not to make life less difficult for each other?
 >
-> <p>- Rowan Williams</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
