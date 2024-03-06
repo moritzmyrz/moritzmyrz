@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Spread love everywhere you go. Let no one ever come to you without leaving happier.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Mother Teresa</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
