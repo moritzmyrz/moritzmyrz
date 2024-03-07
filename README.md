@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.
 >
-> <p>- Clay Shirky</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
