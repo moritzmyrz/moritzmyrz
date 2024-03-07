@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Mike Singletary (basketball)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
