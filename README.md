@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> Only do what your heart tells you.
 >
-> <p>- Tony Robbins</p>
+> <p>- Princess Diana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
