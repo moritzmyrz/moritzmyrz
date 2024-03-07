@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> Hell, there are no rules here-- we're trying to accomplish something.
 >
-> <p>- Horace</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
