@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
