@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one success: to be able to spend your life in your own way.
+> So much technology, so little talent.
 >
-> <p>- Christopher Morley</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
