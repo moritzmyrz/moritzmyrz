@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
