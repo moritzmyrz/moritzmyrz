@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> Action is eloquence.
 >
-> <p>- Vernor Vinge</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
