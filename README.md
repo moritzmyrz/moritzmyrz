@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
+> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
