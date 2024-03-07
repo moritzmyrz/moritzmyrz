@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Lin Yutang</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
