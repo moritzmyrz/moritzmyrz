@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
