@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nobody made a greater mistake than he who did nothing because he could do only a little.
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- Edmund Burke</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
