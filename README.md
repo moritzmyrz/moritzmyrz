@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one can make you feel inferior without your consent.
+> It is fatal to enter any war without the will to win it.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Douglas MacArthur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
