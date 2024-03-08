@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He has no enemies, but is intensely disliked by his friends.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
