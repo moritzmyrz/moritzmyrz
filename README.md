@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There never was a good knife made of bad steel.
+> They can conquer who believe they can.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
