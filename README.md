@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
+> There never was a good knife made of bad steel.
 >
-> <p>- Tony Robbins</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
