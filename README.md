@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.
+> No one can make you feel inferior without your consent.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
