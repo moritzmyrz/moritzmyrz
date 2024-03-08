@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Richard Bach</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
