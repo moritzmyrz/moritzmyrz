@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
