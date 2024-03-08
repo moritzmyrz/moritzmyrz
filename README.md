@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is fatal to enter any war without the will to win it.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Douglas MacArthur</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
