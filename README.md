@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
 >
-> <p>- John Lennon</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
