@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+> Joy is the best makeup.
 >
-> <p>- Morris West</p>
+> <p>- Anne Lamott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
