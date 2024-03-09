@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Helen Keller</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
