@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
 >
-> <p>- J. M. Barrie</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
