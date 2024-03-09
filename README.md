@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Colin Powell</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
