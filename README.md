@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- The Buddha</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
