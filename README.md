@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
