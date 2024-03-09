@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Confucius</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
