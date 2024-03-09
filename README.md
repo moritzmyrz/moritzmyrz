@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Morris West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
