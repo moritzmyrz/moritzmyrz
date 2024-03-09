@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> To succeed, we must first believe that we can.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
