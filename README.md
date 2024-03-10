@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- Warren Bennis</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
