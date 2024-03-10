@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination is the living power and prime agent of all human perception.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
