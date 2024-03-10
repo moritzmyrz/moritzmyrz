@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without courage, wisdom bears no fruit.
+> Nothing is at last sacred but the integrity of your own mind.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
