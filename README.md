@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> An ant on the move does more than a dozing ox
 >
-> <p>- Aldous Huxley</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
