@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An ant on the move does more than a dozing ox
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- Laozi</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
