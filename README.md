@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My friends are my estate.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Emily Dickinson</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
