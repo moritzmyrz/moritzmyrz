@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
