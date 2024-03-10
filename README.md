@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- Anne Lamott</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
