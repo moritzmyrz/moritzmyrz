@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+> The most successful people are those who are good at plan B.
 >
-> <p>- Albert Camus</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
