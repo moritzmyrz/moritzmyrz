@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
+> Myths which are believed in tend to become true.
 >
-> <p>- Albert Einstein</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
