@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> To bring anything into your life, imagine that it's already there.
 >
 > <p>- Richard Bach</p>
 
