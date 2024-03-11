@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
 >
-> <p>- Walter Lippmann</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
