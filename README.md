@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Epictetus</p>
+> <p>- Charles Lamb</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
