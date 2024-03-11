@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
