@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
