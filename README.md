@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Holly Near</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
