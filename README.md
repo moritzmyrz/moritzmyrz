@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 >
-> <p>- Confucius</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
