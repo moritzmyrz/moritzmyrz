@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
