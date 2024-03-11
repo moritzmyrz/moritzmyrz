@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Eric Hoffer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
