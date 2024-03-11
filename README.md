@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 >
-> <p>- Bruce Lee</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
