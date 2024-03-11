@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
+> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Parker Palmer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
