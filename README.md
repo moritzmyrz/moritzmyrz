@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
