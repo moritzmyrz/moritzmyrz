@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Richard Bach</p>
+> <p>- Ed Cunningham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
