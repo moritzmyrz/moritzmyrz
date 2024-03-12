@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Things that were hard to bear are sweet to remember.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
