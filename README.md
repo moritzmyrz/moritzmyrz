@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things that were hard to bear are sweet to remember.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Seneca the Younger</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
