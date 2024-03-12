@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a travelling to the edge of knowledge, then a leap taken.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
