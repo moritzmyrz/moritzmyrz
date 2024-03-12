@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> So long as a person is capable of self-renewal they are a living being.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
