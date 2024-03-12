@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Washington Irving</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
