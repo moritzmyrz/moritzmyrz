@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Sophocles</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
