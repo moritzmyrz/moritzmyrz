@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
 >
-> <p>- John Wooden</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
