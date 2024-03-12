@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
 >
-> <p>- Richard Bach</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
