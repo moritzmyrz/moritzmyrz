@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Euripides</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
