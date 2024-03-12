@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Nothing is at last sacred but the integrity of your own mind.
 >
-> <p>- Aristotle</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
