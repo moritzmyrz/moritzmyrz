@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
