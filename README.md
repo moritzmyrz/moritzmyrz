@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many sophisticated, intelligent people lack wisdom and common sense.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Joyce Meyer</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
