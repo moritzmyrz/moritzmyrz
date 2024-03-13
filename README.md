@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
+> None knows the weight of another's burden.
 >
-> <p>- Dalai Lama</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
