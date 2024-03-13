@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- George Herbert</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
