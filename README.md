@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- The Buddha</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
