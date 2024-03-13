@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> A man is great by deeds, not by birth.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
