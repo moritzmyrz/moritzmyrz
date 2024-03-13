@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
