@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> A goal without a plan is just a wish.
 >
-> <p>- Albert Einstein</p>
+> <p>- Larry Elder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
