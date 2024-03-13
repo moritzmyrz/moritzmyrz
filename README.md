@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The superior man understands what is right; the inferior man understands what will sell.
+> We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
 >
-> <p>- Confucius</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
