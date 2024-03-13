@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> Technology has to be invented or adopted.
 >
-> <p>- Carl Jung</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
