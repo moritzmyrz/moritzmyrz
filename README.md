@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
