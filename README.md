@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- John Locke</p>
+> <p>- Alexander Chalmers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
