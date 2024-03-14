@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 >
-> <p>- Stephen King</p>
+> <p>- Maria Shriver</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
