@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> Wisdom is found only in truth.
 >
-> <p>- Henry Ford</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
