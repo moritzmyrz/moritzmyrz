@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Kurt Vonnegut</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
