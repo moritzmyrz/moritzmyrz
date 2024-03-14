@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> From wonder into wonder existence opens.
 >
-> <p>- Confucius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
