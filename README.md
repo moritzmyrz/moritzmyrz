@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
 >
-> <p>- Marie Curie</p>
+> <p>- Stephen Hawking</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
