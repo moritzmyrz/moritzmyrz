@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Charles Lamb</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
