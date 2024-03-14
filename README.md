@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
 >
-> <p>- Kurt Vonnegut</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
