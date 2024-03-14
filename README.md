@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
 >
-> <p>- The Buddha</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
