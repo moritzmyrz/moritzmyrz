@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Only put off until tomorrow what you are willing to die having left undone.
+> Be sure you put your feet in the right place, then stand firm.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
