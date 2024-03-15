@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> He who talks more is sooner exhausted.
 >
-> <p>- Mother Teresa</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
