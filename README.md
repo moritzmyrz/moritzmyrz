@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+> Peace begins with a smile.
 >
-> <p>- Laozi</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
