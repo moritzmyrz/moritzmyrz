@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> God has given you one face, and you make yourself another.
 >
-> <p>- Will Rogers</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
