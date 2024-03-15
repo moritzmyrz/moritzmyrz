@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> Technology is teaching us to be human again.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Simon Mainwaring</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
