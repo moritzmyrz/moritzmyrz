@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
