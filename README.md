@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Woody Allen</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
