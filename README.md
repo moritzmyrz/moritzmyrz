@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing in life is to be feared. It is only to be understood.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Marie Curie</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
