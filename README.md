@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Frank Abagnale</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
