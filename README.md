@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You give before you get.
+> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
