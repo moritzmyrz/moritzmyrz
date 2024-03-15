@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God has given you one face, and you make yourself another.
+> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
 >
-> <p>- William Shakespeare</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
