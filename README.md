@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> When the solution is simple, God is answering.
 >
-> <p>- Hugh Miller</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
