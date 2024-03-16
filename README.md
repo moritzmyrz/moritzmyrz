@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Nelson Mandela</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
