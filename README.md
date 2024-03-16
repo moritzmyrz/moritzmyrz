@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Dalai Lama</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
