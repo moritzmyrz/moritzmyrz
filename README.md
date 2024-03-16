@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one has a finer command of language than the person who keeps his mouth shut.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Sam Rayburn</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
