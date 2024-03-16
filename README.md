@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be yourself; everyone else is already taken.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
