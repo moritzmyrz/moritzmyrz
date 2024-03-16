@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> No one has a finer command of language than the person who keeps his mouth shut.
 >
-> <p>- Bob Knight</p>
+> <p>- Sam Rayburn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
