@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
