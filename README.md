@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
