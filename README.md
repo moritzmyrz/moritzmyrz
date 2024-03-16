@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
