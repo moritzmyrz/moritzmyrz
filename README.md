@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
 >
-> <p>- Jerome</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
