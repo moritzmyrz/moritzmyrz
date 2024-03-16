@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you can't explain it simply, you don't understand it well enough.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
