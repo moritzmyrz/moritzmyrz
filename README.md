@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
