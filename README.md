@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without some goals and some efforts to reach it, no man can live.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- John Dewey</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
