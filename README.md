@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
+> Minds are like parachutes. They only function when open.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Thomas Dewar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
