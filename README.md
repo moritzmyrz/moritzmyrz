@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Nargis Fakhri</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
