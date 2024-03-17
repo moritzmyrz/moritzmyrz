@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>- Epicurus</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
