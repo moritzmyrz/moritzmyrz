@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 >
-> <p>- Alan Watts</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
