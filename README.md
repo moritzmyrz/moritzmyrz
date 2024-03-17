@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> It is impossible to love and to be wise.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
