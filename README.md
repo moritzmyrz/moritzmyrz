@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The personal life deeply lived always expands into truths beyond itself.
+> Difficulties are things that show a person what they are.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
