@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- Francis Bacon</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
