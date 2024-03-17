@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> If we all did the things we are capable of doing, we would literally astound ourselves.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
