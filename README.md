@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Albert Camus</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
