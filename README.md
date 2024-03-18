@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
