@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Louisa May Alcott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
