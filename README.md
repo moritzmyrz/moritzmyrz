@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Basil of Caesarea</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
