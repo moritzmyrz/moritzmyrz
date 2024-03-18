@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port is sailing, no wind is favorable.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
