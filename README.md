@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Carl Jung</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
