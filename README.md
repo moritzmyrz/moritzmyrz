@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
