@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
