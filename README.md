@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
 >
-> <p>- Tony Blair</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
