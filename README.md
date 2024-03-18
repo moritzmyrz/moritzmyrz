@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> The price of greatness is responsibility.
 >
-> <p>- Jim Rohn</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
