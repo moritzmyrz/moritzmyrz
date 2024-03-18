@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Richard Garriott</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
