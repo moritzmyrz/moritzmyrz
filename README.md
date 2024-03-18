@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- The Buddha</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
