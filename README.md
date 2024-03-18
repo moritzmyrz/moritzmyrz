@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Lord Byron</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
