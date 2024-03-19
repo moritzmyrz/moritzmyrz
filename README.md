@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- The Buddha</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
