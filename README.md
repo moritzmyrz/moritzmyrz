@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Bob Feller</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
