@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> A wise man will make more opportunities than he finds.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
