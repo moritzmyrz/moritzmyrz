@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+> You have to believe in yourself.
 >
-> <p>- Jerome</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
