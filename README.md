@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
