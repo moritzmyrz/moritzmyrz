@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Francis Bacon</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
