@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- Lord Byron</p>
+> <p>- Alfred Tennyson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
