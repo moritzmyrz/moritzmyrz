@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Bob Feller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
