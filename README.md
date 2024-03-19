@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
