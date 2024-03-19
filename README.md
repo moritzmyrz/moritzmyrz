@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> You can stand tall without standing on someone. You can be a victor without having victims.
 >
-> <p>- Hannah More</p>
+> <p>- Harriet Woods</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
