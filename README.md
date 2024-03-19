@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
