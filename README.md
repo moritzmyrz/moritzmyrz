@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> The pine stays green in winter... wisdom in hardship.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Norman Douglas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
