@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> How far that little candle throws its beams! So shines a good deed in a naughty world.
 >
-> <p>- Gloria Steinem</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
