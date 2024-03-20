@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I prefer the folly of enthusiasm to the indifference of wisdom.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Anatole France</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
