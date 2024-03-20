@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Our passion is our strength.
 >
-> <p>- Confucius</p>
+> <p>- Billie Armstrong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
