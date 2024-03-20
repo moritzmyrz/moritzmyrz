@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- William Burroughs</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
