@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
