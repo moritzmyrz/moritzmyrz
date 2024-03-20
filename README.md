@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+> If I know what love is, it is because of you.
 >
-> <p>- Dalai Lama</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
