@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Norman Douglas</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
