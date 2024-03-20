@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Jane Addams</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
