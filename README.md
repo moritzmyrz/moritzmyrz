@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no expedient to which a man will not go to avoid the labor of thinking.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Thomas Edison</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
