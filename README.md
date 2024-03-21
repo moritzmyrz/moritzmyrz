@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
