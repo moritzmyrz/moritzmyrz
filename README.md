@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> Our work is the presentation of our capabilities.
 >
-> <p>- David Brinkley</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
