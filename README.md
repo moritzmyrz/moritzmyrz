@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Jane Wyman</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
