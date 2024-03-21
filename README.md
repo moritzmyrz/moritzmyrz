@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
