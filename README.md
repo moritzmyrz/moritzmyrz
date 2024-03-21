@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always seek out the seed of triumph in every adversity.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Og Mandino</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
