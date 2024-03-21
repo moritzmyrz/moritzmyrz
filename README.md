@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Wayne Dyer</p>
+> <p>- David Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
