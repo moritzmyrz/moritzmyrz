@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Albert Einstein</p>
+> <p>- Yolanda Hadid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
