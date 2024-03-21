@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
