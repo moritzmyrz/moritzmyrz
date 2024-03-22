@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Yogi Berra</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
