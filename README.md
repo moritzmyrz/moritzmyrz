@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
