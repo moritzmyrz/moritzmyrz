@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
