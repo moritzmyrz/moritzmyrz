@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> But man is not made for defeat. A man can be destroyed but not defeated.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
