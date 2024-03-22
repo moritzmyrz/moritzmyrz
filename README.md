@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- The Buddha</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
