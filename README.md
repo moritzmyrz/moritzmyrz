@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- E. M. Forster</p>
+> <p>- Charlotte Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
