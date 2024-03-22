@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like credit, is highest when it is not used.
+> But man is not made for defeat. A man can be destroyed but not defeated.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
