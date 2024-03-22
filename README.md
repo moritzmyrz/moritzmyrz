@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
