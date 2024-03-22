@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> You can observe a lot just by watching.
 >
-> <p>- Edith Wharton</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
