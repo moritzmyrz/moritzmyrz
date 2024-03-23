@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Anna Pavlova</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
