@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
+> The only limit to our realization of tomorrow will be our doubts of today.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
