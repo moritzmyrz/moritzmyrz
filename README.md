@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things do not happen. Things are made to happen.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
