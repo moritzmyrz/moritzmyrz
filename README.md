@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is oftentimes nearer when we stoop than when we soar.
+> Things do not happen. Things are made to happen.
 >
-> <p>- William Wordsworth</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
