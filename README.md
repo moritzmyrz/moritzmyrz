@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
