@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
 >
-> <p>- Dalai Lama</p>
+> <p>- Carlos Castaneda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
