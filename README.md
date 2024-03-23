@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
+> People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.
 >
-> <p>- Mother Angelica</p>
+> <p>- Masayoshi Son</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
