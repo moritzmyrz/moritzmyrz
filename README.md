@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> Victory belongs to the most persevering.
 >
-> <p>- Edith Wharton</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
