@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
