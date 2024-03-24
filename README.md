@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
