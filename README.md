@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> Fans don't boo nobodies.
 >
-> <p>- Confucius</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
