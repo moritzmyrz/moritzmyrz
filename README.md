@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> Everything you can imagine is real.
 >
-> <p>- Dalai Lama</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
