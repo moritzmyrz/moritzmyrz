@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Confucius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
