@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Albert Einstein</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
