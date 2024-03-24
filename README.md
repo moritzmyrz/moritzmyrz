@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> What you do not want done to yourself, do not do to others.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
