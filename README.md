@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Harvey Mackay</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
