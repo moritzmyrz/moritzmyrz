@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> Everything that irritates us about others can lead us to a better understanding of ourselves.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
