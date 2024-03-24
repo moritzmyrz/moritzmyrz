@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> Whoever is happy will make others happy, too.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
