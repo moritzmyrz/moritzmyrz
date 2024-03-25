@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Charles Eastman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
