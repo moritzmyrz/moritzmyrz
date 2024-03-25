@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
