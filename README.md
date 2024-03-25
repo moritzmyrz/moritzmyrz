@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
