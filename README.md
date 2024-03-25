@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
+> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
 >
-> <p>- Dalai Lama</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
