@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
+> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
 >
-> <p>- Napoleon</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
