@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
 >
-> <p>- Albert Einstein</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
