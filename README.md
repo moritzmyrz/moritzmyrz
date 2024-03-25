@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> I have always thought the actions of men the best interpreters of their thoughts.
 >
-> <p>- Richard Bach</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
