@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Habit, if not resisted, soon becomes necessity.
 >
-> <p>- Winston Churchill</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
