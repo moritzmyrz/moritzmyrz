@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Barack Obama</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
