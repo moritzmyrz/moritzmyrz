@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Robert Schuller</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
