@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
 >
-> <p>- John Locke</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
