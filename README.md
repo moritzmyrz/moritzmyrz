@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
