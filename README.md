@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
