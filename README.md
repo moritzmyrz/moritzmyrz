@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
