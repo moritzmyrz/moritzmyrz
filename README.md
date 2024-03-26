@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to prove that you're a good sport is to lose.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Ernie Banks</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
