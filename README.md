@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Laozi</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
