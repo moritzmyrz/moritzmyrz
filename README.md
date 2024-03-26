@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> What do we live for, if it is not to make life less difficult for each other?
 >
-> <p>- Richard Bach</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
