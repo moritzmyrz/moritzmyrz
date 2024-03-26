@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
