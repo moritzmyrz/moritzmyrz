@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- George Eliot</p>
+> <p>- Jonathan Kozol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
