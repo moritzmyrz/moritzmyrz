@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> Wisdom begins at the end.
 >
-> <p>- Epictetus</p>
+> <p>- Daniel Webster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
