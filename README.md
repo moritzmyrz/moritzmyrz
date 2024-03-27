@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
