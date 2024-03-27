@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- Confucius</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
