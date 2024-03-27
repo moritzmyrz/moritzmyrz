@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> Wise men make more opportunities than they find.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
