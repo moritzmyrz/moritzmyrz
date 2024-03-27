@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Dalai Lama</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
