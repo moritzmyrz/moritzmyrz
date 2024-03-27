@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> If you only have a hammer, you tend to see every problem as a nail.
 >
-> <p>- Richard Bach</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
