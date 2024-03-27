@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Richard Bach</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
