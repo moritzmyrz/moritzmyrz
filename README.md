@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Henri Bergson</p>
+> <p>- Robert Griffin III</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
