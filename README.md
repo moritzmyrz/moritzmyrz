@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- William Shakespeare</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
