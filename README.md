@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> All experiences are preceded by mind, having mind as their master, created by mind.
 >
-> <p>- Abraham Maslow</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
