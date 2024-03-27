@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> Think like a man of action; act like a man of thought.
 >
-> <p>- John Burroughs</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
