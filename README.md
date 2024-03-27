@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
