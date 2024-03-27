@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
