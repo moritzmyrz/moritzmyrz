@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All experiences are preceded by mind, having mind as their master, created by mind.
+> Life is about timing.
 >
-> <p>- The Buddha</p>
+> <p>- Carl Lewis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
