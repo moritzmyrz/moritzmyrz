@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Louise Hay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
