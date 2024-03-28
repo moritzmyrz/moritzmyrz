@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
