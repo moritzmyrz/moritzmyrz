@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Aristotle</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
