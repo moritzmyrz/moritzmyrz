@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
