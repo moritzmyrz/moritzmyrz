@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> If you're going through hell, keep going.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
