@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
