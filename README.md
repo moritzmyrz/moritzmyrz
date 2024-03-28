@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
