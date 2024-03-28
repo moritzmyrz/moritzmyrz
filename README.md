@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Brooks Adams</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
