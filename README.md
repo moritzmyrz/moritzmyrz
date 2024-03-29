@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is not final; failure is not fatal: it is the courage to continue that counts.
+> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
 >
-> <p>- Winston Churchill</p>
+> <p>- Sam Walton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
