@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man sees in the world what he carries in his heart.
+> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
