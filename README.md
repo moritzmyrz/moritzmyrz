@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our work is the presentation of our capabilities.
+> How we spend our days is, of course, how we spend our lives.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Annie Dillard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
