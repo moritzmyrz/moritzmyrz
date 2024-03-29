@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fortune befriends the bold.
+> Sooner or later, those who win are those who think they can.
 >
-> <p>- John Dryden</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
