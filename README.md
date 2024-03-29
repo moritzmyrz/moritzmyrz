@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
+> Our work is the presentation of our capabilities.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
