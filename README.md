@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
+> Fortune befriends the bold.
 >
-> <p>- The Buddha</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
