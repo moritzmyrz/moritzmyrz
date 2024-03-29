@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Sam Walton</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
