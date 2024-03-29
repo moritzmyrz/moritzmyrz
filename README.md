@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
