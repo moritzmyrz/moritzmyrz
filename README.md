@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sooner or later, those who win are those who think they can.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Richard Bach</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
