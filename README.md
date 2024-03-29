@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- John Eliot</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
