@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- David Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
