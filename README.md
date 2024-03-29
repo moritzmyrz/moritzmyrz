@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> The secret of success is constancy to purpose.
 >
-> <p>- Denis Waitley</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
