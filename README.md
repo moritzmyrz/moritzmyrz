@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In all things of nature there is something of the marvelous.
+> Not engaging in ignorance is wisdom.
 >
-> <p>- Aristotle</p>
+> <p>- Bodhidharma</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
