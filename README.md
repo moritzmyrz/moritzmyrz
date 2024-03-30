@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's most persistent and urgent question is, 'What are you doing for others?'
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
