@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Richard Whately</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
