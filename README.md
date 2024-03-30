@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Dalai Lama</p>
+> <p>- Walter Inglis Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
