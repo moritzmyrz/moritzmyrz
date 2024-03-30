@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You were not born a winner, and you were not born a loser. You are what you make yourself be.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Lou Holtz</p>
+> <p>- Marilyn vos Savant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
