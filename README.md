@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> Wise men make more opportunities than they find.
 >
-> <p>- Confucius</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
