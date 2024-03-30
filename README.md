@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
