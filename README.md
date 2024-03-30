@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
