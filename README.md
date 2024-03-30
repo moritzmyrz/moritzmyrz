@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wise men make more opportunities than they find.
+> They can do all because they think they can.
 >
-> <p>- Francis Bacon</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
