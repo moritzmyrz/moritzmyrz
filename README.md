@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Love is a serious mental disease.
 >
-> <p>- Epictetus</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
