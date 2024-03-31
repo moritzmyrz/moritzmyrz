@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
