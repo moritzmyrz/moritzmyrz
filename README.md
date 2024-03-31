@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Bruce Lee</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
