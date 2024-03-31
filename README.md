@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Confucius</p>
+> <p>- Julie Morgenstern</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
