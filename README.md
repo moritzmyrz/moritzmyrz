@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- John Keats</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
