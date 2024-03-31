@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When in doubt, don't.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
