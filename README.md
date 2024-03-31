@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Joan Rivers</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
