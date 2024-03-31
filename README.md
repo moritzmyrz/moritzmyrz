@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Mother Teresa</p>
+> <p>- Kathleen Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
