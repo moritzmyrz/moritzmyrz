@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Philip Sidney</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
