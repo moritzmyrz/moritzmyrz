@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Bob Knight</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
