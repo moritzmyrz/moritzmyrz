@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Dalai Lama</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
