@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> I have always thought the actions of men the best interpreters of their thoughts.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
