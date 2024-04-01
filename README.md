@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Well done is better than well said.
+> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
