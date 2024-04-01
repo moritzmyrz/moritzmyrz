@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> A friend is, as it were, a second self.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
