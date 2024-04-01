@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> Well done is better than well said.
 >
-> <p>- The Buddha</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
