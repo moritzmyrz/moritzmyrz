@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
