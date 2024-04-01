@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Bob Knight</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
