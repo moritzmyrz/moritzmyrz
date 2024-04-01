@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Tony Robbins</p>
+> <p>- Charles Du Bos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
