@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- Henry Reed</p>
+> <p>- Holly Near</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
