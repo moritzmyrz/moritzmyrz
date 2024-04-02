@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> Life is 10% what happens to you and 90% how you react to it.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
