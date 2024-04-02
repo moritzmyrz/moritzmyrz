@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
+> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
 >
-> <p>- Confucius</p>
+> <p>- Charles Eastman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
