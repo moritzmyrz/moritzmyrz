@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is 10% what happens to you and 90% how you react to it.
+> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
