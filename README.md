@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
