@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
