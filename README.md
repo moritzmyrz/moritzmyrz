@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
 >
-> <p>- David Brinkley</p>
+> <p>- Cecil B. DeMille</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
