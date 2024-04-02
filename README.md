@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A hero is no braver than an ordinary man, but he is braver five minutes longer.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
