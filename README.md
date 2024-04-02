@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- Lucille Ball</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
