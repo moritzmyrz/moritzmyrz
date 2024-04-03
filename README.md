@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
