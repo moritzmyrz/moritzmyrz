@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Laozi</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
