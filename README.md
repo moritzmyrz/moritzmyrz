@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
