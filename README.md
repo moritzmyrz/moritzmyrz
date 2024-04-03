@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> I have never been hurt by anything I didn't say.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
