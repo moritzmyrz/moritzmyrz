@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> I allow my intuition to lead my path.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
