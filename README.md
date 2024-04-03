@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
