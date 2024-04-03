@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> You yourself must strive. The Buddhas only point the way.
+> May all beings have happy minds.
 >
 > <p>- The Buddha</p>
 
