@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- Laozi</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
