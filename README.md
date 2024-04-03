@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Arriving at one point is the starting point to another.
 >
-> <p>- Ansel Adams</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
