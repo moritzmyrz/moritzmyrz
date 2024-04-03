@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is the golden chain by which society is bound together.
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
