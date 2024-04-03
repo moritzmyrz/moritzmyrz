@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Louis Pasteur</p>
+> <p>- May Sarton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
