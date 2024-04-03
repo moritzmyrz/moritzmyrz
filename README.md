@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I allow my intuition to lead my path.
+> Kind words can be short and easy to speak, but their echoes are truly endless.
 >
-> <p>- Manuel Puig</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
