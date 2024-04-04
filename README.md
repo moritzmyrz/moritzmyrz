@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- Dalai Lama</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
