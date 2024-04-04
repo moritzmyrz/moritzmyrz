@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> We are wiser than we know.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
