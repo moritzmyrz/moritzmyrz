@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
 >
-> <p>- Charles Darwin</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
