@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- The Buddha</p>
+> <p>- Agatha Christie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
