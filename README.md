@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do one thing every day that scares you.
+> A short saying often contains much wisdom.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
