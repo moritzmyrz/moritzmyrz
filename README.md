@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
 >
-> <p>- Sophocles</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
