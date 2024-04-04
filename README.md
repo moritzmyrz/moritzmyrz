@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
