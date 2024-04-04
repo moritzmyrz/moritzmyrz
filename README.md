@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> May all beings have happy minds.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- The Buddha</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
