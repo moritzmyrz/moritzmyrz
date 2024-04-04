@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> Do one thing every day that scares you.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
