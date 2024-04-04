@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
+> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
 >
-> <p>- Anne Frank</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
