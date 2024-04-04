@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
+> Build a better mousetrap and the world will beat a path to your door.
 >
-> <p>- Carl Jung</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
