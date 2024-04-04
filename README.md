@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
 >
-> <p>- Willa Cather</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
