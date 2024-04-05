@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nobody made a greater mistake than he who did nothing because he could do only a little.
+> Fans don't boo nobodies.
 >
-> <p>- Edmund Burke</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
