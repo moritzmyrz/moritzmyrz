@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Albert Einstein</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
