@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- The Buddha</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
