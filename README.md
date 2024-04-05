@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
