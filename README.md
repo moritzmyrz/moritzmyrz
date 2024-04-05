@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Richard Bach</p>
+> <p>- George Foreman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
