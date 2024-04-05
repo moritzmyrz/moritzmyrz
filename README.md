@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
 >
-> <p>- The Buddha</p>
+> <p>- Wolfgang Amadeus Mozart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
