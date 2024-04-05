@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Albert Einstein</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
