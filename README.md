@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
