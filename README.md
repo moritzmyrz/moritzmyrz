@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has long been an axiom of mine that the little things are infinitely the most important.
+> He who angers you conquers you.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
