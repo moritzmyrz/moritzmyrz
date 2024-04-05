@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
