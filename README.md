@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> Your worst enemy cannot harm you as much as your own unguarded thoughts.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
