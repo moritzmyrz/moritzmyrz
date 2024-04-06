@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> If one does not know to which port one is sailing, no wind is favorable.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
