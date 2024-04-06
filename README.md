@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
