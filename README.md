@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Dee Hock</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
