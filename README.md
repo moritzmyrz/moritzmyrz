@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
