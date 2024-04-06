@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Accept challenges, so that you may feel the exhilaration of victory.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- George S. Patton</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
