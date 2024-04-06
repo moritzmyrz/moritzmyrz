@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Winston Churchill</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
