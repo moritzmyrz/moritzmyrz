@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
+> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
 >
-> <p>- Elizabeth Arden</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
