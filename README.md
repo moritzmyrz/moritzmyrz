@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
 >
-> <p>- Thomas Edison</p>
+> <p>- Elizabeth Arden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
