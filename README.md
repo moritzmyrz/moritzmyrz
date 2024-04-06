@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
