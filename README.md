@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
 > <p>- Carl Jung</p>
 
