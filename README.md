@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
