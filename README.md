@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
 >
-> <p>- Carl Jung</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
