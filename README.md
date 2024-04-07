@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is the golden chain by which society is bound together.
+> Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
