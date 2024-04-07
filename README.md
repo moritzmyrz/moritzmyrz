@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Ralph Marston</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
