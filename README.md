@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.
+> Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.
 >
-> <p>- Alan Watts</p>
+> <p>- Swami Vivekananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
