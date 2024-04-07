@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> The cautious seldom err.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
