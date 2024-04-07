@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
+> Technology is a word that describes something that doesn't work yet.
 >
-> <p>- Basil of Caesarea</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
