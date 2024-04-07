@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
+> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
