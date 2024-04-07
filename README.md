@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With pride, there are many curses. With humility, there come many blessings.
+> Wherever you go, go with all your heart.
 >
-> <p>- Ezra Taft Benson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
