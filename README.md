@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> Try not to become a man of success, but rather try to become a man of value.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
