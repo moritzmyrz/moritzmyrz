@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
