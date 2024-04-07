@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
