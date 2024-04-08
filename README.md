@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is easy to be brave from a safe distance.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- Aesop</p>
+> <p>- Akhenaten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
