@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I gave my life to become the person I am right now. Was it worth it?
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Richard Bach</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
