@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
