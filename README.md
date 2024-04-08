@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
 >
-> <p>- Daniel J. Boorstin</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
