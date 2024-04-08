@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
+> It is easy to be brave from a safe distance.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
