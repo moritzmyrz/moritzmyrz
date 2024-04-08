@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> Your mind will answer most questions if you learn to relax and wait for the answer.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- William Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
