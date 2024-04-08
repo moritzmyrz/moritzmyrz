@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Epictetus</p>
+> <p>- Samuel Butler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
