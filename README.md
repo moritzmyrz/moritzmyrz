@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Lucretius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
