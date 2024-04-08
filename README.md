@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
+> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
 >
-> <p>- Plato</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
