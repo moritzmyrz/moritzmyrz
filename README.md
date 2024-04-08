@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> I gave my life to become the person I am right now. Was it worth it?
 >
-> <p>- Napoleon</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
