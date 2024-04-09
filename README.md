@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> Anything you really want, you can attain, if you really go after it.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
