@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
