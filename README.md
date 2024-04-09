@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> We don't know a millionth of one percent about anything.
 >
-> <p>- Henry Reed</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
