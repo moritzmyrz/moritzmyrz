@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
+> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
 >
-> <p>- Paramahansa Yogananda</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
