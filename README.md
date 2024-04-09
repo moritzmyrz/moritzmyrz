@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
