@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> Without hard work, nothing grows but weeds.
 >
-> <p>- Joseph Joubert</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
