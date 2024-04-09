@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the middle of every difficulty lies opportunity.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ray Bradbury</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
