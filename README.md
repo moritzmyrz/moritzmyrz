@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is like money, easier made than kept.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Samuel Butler</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
