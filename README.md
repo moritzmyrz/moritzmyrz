@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
