@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
