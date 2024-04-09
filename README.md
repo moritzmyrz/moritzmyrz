@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- William Shakespeare</p>
+> <p>- Hannah Arendt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
