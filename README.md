@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- John Dewey</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
