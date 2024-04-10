@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
