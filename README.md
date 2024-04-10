@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Jack Buck</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
