@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
