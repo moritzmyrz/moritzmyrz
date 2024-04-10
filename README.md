@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- The Buddha</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
