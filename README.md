@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Torquato Tasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
