@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Lasseter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
