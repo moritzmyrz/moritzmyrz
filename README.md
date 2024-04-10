@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> Truth is generally the best vindication against slander.
 >
-> <p>- Tony Robbins</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
