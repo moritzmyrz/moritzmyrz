@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Edward Young</p>
+> <p>- Sidney Hook</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
