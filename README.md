@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> If you have knowledge, let others light their candles in it.
 >
-> <p>- William Shakespeare</p>
+> <p>- Margaret Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
