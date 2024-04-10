@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> Fans don't boo nobodies.
 >
-> <p>- Sidney Hook</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
