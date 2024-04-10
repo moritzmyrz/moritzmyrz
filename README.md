@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is anything that wasn't around when you were born.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Man Ray</p>
+> <p>- Jack Buck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
