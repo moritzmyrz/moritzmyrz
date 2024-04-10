@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
