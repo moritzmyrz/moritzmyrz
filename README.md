@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- John Keats</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
