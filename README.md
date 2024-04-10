@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
 >
-> <p>- Margaret Fuller</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
