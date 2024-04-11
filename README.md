@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Charles Du Bos</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
