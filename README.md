@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
