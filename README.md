@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
