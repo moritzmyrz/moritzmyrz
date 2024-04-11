@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> Things do not change; we change.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
