@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
