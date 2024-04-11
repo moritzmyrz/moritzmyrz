@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
