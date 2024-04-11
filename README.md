@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
