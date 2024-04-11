@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Lasseter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
