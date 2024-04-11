@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Confucius</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
