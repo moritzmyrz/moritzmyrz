@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
 >
-> <p>- Rumi</p>
+> <p>- Woodrow Wilson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
