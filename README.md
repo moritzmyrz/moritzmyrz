@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Doing nothing is better than being busy doing nothing.
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- Laozi</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
