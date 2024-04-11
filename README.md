@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> If you wish to be a writer, write.
 >
-> <p>- Christopher Morley</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
