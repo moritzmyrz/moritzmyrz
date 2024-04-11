@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How is it possible to find meaning in a finite world, given my waist and shirt size?
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Woody Allen</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
