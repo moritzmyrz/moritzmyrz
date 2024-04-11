@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- John Lasseter</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
