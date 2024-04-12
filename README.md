@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- Barack Obama</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
