@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> In order to win, you must expect to win.
 >
-> <p>- Pericles</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
