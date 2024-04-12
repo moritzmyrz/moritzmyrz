@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
