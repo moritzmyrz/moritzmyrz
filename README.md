@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
 >
-> <p>- Bruce Lee</p>
+> <p>- Avery Brooks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
