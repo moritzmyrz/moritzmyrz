@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Richard Bach</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
