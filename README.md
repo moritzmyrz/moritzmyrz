@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Brian Tracy</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
