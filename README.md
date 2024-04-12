@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- The Buddha</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
