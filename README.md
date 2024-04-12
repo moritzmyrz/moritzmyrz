@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Isocrates</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
