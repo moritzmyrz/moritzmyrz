@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>- Mark Twain</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
