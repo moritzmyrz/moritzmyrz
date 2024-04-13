@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Mencius</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
