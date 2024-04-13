@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Lucretius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
