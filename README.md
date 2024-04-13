@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> Truth is generally the best vindication against slander.
 >
-> <p>- Maya Angelou</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
