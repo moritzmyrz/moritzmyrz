@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Respect should be earned by actions, and not acquired by years.
+> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
