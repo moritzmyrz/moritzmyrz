@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Jane Wyman</p>
+> <p>- Pope Paul VI</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
