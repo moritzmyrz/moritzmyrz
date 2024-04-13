@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
 >
-> <p>- Og Mandino</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
