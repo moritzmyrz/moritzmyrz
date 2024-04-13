@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Alan Watts</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
