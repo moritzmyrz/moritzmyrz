@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+> There is nothing permanent except change.
 >
-> <p>- Napoleon</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
