@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> Life is what happens while you are making other plans.
 >
-> <p>- Mark Twain</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
