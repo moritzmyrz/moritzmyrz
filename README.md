@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
