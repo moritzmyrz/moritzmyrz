@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> Our character is what we do when we think no one is looking.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
