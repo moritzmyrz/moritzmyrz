@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Marcel Proust</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
