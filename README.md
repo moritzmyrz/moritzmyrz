@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
