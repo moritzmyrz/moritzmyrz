@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You cannot step twice into the same river, for other waters are continually flowing in.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Heraclitus</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
