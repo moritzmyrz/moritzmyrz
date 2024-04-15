@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port is sailing, no wind is favorable.
+> If you aren't going all the way, why go at all?
 >
-> <p>- Seneca the Younger</p>
+> <p>- Joe Namath</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
