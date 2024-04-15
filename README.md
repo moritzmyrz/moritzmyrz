@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> The secret of success is constancy to purpose.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
