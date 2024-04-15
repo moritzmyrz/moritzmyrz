@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is about timing.
+> Time is the wisest counsellor of all.
 >
-> <p>- Carl Lewis</p>
+> <p>- Pericles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
