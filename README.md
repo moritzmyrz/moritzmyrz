@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
 >
-> <p>- Billie Jean King</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
