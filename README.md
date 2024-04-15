@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Jonathan Swift</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
