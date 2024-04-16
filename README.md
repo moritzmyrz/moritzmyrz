@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
