@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great minds discuss ideas; average minds discuss events; small minds discuss people.
+> Smile, breathe and go slowly.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
