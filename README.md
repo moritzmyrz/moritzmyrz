@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- Margaret Fuller</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
