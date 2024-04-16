@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> Never mistake activity for achievement.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
