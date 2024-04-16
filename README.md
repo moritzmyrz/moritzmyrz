@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
+> If you have knowledge, let others light their candles in it.
 >
-> <p>- Bill Bradley</p>
+> <p>- Margaret Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
