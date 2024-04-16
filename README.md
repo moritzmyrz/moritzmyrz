@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
