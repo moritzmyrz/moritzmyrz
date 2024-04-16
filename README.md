@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- John Dewey</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
