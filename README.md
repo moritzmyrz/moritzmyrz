@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> If it is not right do not do it; if it is not true do not say it.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
