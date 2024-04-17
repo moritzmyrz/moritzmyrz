@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
