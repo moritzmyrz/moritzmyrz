@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> Keep yourself to the sunshine and you cannot see the shadow.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
