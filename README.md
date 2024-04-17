@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One is not called noble who harms living beings. By not harming living beings one is called noble.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- The Buddha</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
