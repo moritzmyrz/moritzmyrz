@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we are not fully ourselves, truly in the present moment, we miss everything.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
