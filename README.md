@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Keep yourself to the sunshine and you cannot see the shadow.
+> You just can't beat the person who never gives up.
 >
-> <p>- Helen Keller</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
