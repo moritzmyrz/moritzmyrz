@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> He who knows himself is enlightened.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
