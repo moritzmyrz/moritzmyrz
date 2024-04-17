@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- Earl Monroe</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
