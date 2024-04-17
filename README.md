@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Albert Einstein</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
