@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
 >
-> <p>- Og Mandino</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
