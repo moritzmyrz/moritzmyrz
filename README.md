@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
