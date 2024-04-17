@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
