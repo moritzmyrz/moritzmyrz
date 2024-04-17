@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
