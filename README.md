@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
