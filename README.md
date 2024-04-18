@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
