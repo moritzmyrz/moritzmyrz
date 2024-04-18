@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
