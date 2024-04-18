@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Things that were hard to bear are sweet to remember.
+> It is impossible to love and to be wise.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
