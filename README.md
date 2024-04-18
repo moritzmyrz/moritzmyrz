@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
