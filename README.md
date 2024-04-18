@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Laozi</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
