@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Henry Reed</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
