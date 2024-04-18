@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> Ideas are the beginning points of all fortunes.
 >
 > <p>- Napoleon Hill</p>
 
