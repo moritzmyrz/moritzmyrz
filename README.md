@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> Attitude is a little thing that makes a big difference.
 >
-> <p>- Jared Diamond</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
