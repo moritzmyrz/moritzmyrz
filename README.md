@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
