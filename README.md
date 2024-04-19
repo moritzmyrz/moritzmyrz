@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you can dream it, you can do it.
+> We lost because we told ourselves we lost.
 >
-> <p>- Walt Disney</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
