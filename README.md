@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is with our passions, as it is with fire and water, they are good servants but bad masters.
+> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
 >
-> <p>- Aesop</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
