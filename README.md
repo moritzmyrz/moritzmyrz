@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> A man is not old as long as he is seeking something.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Edmond Rostand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
