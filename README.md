@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way out is always through.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Robert Frost</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
