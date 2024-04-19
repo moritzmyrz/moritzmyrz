@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> Be content with your lot; one cannot be first in everything.
 >
-> <p>- Hal Abelson</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
