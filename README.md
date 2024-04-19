@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Walt Disney</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
