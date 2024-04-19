@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Hannah Arendt</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
