@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Salman Rushdie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
