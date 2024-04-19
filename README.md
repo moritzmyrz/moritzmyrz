@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- The Buddha</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
