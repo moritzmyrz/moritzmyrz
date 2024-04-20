@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Begin, be bold, and venture to be wise.
+> Doing what you love is the cornerstone of having abundance in your life.
 >
-> <p>- Horace</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
