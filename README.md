@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> He who fears being conquered is sure of defeat.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
