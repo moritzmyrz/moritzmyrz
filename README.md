@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
