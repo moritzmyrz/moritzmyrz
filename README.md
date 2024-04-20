@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> Train up a fig tree in the way it should go, and when you are old sit under the shade of it.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
