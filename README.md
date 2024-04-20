@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> Memory is the mother of all wisdom.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
