@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> Not all those who wander are lost.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
