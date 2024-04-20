@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> There is nothing in a caterpillar that tells you it's going to be a butterfly.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
