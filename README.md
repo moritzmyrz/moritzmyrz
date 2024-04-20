@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
