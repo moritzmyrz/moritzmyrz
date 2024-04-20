@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Dalai Lama</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
