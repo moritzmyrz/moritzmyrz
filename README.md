@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> Luck is what happens when preparation meets opportunity.
 >
-> <p>- Napoleon</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
