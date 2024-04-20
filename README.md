@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
