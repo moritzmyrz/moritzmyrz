@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is nothing in a caterpillar that tells you it's going to be a butterfly.
+> I violated the Noah rule: Predicting rain doesn't count; building arks does.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
