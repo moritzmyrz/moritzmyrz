@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
