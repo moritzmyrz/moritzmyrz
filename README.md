@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> They can do all because they think they can.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
