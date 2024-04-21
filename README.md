@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+> I do not know the American gentleman, god forgive me for putting two such words together.
 >
-> <p>- Amber Valletta</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
