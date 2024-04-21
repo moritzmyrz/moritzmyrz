@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> No alibi will save you from accepting the responsibility.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
