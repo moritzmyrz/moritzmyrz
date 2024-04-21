@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Amber Valletta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
