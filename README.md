@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
+> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
 >
-> <p>- Og Mandino</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
