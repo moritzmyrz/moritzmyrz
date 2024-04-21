@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not know the American gentleman, god forgive me for putting two such words together.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Charles Dickens</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
