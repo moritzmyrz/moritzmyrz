@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
 >
-> <p>- Woody Allen</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
