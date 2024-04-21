@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Richard Bach</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
