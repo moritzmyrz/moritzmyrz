@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
