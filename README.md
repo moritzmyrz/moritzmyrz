@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you have a harem of 40 women, you never get to know any of them very well.
+> Technology is a word that describes something that doesn't work yet.
 >
-> <p>- Warren Buffett</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
