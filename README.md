@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
+> We cannot solve our problems with the same thinking we used when we created them.
 >
-> <p>- George Santayana</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
