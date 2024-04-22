@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Brian O'Driscoll</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
