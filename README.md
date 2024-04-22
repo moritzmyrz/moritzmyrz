@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> If you have one true friend, you have more than your share.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
