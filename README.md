@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> To see things in the seed, that is genius.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
