@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 >
-> <p>- Bruce Lee</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
