@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
