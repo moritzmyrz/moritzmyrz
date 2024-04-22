@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Laozi</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
