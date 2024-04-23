@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
