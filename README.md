@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Confucius</p>
+> <p>- Betty Friedan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
