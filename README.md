@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
