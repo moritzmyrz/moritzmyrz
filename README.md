@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
