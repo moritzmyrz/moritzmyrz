@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
