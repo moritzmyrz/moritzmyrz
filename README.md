@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
+> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
 >
-> <p>- Alan Watts</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
