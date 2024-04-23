@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
