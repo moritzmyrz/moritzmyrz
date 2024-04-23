@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> So much technology, so little talent.
 >
-> <p>- Betty Friedan</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
