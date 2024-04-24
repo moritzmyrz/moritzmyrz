@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Those that know, do. Those that understand, teach.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
