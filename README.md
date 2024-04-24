@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The fall of dropping water wears away the Stone.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Lucretius</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
