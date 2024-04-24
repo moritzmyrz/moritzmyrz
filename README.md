@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Dalai Lama</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
