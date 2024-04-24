@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> Compassion and happiness are not a sign of weakness but a sign of strength.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
