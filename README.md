@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> He who is contented is rich.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
