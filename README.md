@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Rose Kennedy</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
