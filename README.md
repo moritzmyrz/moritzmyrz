@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Pope John XXIII</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
