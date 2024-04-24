@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Laozi</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
