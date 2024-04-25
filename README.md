@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Denis Waitley</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
