@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Morris West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
