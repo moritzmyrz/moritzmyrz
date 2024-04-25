@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Dhammapada</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
