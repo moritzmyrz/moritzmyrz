@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
