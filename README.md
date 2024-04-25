@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Henry Miller</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
