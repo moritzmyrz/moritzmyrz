@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
