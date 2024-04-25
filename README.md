@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If the stars should appear but one night every thousand years how man would marvel and adore.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
