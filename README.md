@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everyone thinks of changing the world, but no one thinks of changing himself.
+> Do all things with love.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
