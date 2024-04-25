@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History is written by the victors.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- Winston Churchill</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
