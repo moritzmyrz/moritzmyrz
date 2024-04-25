@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
