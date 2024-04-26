@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
