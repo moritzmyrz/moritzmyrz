@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Cory Doctorow</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
