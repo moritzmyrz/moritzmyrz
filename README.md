@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
