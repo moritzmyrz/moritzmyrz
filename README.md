@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> Independence is happiness.
 >
-> <p>- Charles Péguy</p>
+> <p>- Susan B. Anthony</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
