@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Og Mandino</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
