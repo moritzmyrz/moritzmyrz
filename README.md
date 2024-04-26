@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
