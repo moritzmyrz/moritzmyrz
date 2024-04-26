@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> With the new day comes new strength and new thoughts.
+> You can stand tall without standing on someone. You can be a victor without having victims.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Harriet Woods</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
