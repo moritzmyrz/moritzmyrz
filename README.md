@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Betty Friedan</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
