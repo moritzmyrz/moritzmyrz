@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Alan Watts</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
