@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Independence is happiness.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Susan B. Anthony</p>
+> <p>- Betty Friedan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
