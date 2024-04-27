@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Accept challenges, so that you may feel the exhilaration of victory.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- George S. Patton</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
