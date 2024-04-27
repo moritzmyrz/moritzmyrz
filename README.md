@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Will Rogers</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
