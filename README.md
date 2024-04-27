@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Desmond Tutu</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
