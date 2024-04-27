@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> TV and the Internet are good because they keep stupid people from spending too much time out in public.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Douglas Coupland</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
