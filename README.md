@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
 >
-> <p>- Confucius</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
