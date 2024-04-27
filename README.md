@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
+> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
