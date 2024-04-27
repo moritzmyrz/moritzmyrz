@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So is cheerfulness, or a good temper, the more it is spent, the more remains.
+> No valid plans for the future can be made by those who have no capacity for living now.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
