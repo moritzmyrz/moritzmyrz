@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Milton Berle</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
