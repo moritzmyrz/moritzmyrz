@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> TV and the Internet are good because they keep stupid people from spending too much time out in public.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Douglas Coupland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
