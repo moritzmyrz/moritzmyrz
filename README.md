@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
