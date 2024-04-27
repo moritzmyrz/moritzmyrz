@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
