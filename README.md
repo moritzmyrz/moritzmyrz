@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> All children are artists. The problem is how to remain an artist once he grows up.
 >
 > <p>- Pablo Picasso</p>
 
