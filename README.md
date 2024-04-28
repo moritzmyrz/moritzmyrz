@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Epictetus</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
