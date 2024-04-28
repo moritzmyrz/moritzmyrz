@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
 >
-> <p>- Thomas Edison</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
