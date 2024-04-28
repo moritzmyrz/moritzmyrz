@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- The Buddha</p>
+> <p>- Herman Melville</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
