@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> Do more than dream: work.
 >
-> <p>- Charles Du Bos</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
