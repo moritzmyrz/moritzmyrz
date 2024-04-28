@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Woody Allen</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
