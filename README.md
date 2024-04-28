@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port one is sailing, no wind is favorable.
+> Begin, be bold, and venture to be wise.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
