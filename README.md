@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- Robert Frost</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
