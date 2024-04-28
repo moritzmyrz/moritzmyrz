@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> Life is divided into the horrible and the miserable.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
