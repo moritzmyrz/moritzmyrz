@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> If one does not know to which port one is sailing, no wind is favorable.
 >
-> <p>- Richard Bach</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
