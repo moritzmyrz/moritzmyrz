@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
