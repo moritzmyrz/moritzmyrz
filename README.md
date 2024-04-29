@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
