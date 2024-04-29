@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Begin at once to live and count each separate day as a separate life.
+> Never promise more than you can perform.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
