@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- John Barrymore</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
