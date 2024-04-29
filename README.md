@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- John Barrymore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
