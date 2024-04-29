@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Orson Welles</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
