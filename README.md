@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
