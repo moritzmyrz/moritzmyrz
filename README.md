@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- Samuel Johnson</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
