@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Albert Einstein</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
