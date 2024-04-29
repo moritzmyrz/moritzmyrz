@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When a thing is done, it's done. Don't look back. Look forward to your next objective.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- George Marshall</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
