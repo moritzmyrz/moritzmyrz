@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+> Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
 >
-> <p>- The Buddha</p>
+> <p>- John Cleese</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
