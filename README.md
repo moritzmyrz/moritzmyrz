@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
