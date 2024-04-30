@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
