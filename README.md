@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
