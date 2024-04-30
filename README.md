@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
