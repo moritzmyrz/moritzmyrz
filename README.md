@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- Peter Drucker</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
