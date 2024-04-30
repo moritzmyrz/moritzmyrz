@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- William Blake</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
