@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
