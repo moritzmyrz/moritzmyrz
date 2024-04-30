@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want to kill any idea in the world, get a committee working on it.
+> Efficiency is doing things right; effectiveness is doing the right things.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
