@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- H. G. Wells</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
