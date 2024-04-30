@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
