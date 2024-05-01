@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All I required to be happy was friendship and people I could admire.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Christian Dior</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
