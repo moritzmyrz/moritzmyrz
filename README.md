@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Seneca the Younger</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
