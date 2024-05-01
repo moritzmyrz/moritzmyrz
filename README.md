@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Rollo May</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
