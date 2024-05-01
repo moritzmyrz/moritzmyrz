@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> If one does not know to which port one is sailing, no wind is favorable.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
