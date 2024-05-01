@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man who trusts men will make fewer mistakes than he who distrusts them.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- Camillo Benso, Count of Cavour</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
