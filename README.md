@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Value your friendship. Value your relationships.
+> The greatest healing therapy is friendship and love.
 >
-> <p>- Barbara Bush</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
