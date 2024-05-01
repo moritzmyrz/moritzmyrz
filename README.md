@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If one does not know to which port one is sailing, no wind is favorable.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Robert Kiyosaki</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
