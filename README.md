@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> Value your friendship. Value your relationships.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
