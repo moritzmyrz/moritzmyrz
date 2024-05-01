@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
