@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- Grandma Moses</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
