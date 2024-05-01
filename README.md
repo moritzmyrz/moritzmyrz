@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You are that vast thing that you see far, far off with great telescopes.
+> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
 >
-> <p>- Alan Watts</p>
+> <p>- Rollo May</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
