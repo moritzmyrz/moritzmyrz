@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I do good I feel good, when I do bad I feel bad, and that's my religion.
+> Love is the attempt to form a friendship inspired by beauty.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
