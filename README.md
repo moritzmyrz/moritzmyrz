@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Voltaire</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
