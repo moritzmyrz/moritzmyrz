@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
