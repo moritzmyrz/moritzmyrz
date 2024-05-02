@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The best way to predict your future is to create it.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Peter Drucker</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
