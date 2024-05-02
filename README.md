@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
