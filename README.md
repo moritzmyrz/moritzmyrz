@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- William Hazlitt</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
