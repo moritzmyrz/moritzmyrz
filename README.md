@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is where preparation and opportunity meet.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Bobby Unser</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
