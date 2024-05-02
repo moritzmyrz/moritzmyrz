@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A single lamp may light hundreds of thousands of lamps without itself being diminished.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- The Buddha</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
