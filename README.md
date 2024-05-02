@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Mark Twain</p>
+> <p>- Charles Henry Parkhurst</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
