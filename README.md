@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
