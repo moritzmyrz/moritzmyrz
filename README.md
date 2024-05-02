@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When I let go of what I am, I become what I might be.
+> May all beings have happy minds.
 >
-> <p>- Laozi</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
