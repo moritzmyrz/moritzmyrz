@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> May all beings have happy minds.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- The Buddha</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
