@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
+> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
 >
-> <p>- The Buddha</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
