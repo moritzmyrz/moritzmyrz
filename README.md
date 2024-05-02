@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Confucius</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
