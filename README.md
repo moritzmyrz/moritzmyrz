@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Michelangelo</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
