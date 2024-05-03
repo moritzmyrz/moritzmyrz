@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> Attitude is a little thing that makes a big difference.
 >
-> <p>- Virgil</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
