@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
