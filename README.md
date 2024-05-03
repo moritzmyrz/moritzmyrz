@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is always a sweet responsibility, never an opportunity.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
