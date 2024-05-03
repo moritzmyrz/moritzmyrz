@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Reinhold Niebuhr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
