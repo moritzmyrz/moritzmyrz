@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is good even for old men to learn wisdom.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Aeschylus</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
