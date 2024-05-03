@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
