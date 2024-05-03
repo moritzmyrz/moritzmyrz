@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> They can do all because they think they can.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
