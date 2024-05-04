@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+> You were not born a winner, and you were not born a loser. You are what you make yourself be.
 >
-> <p>- Confucius</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
