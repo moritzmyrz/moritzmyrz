@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> Quality is not an act; it is a habit.
 >
-> <p>- Hal Abelson</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
