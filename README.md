@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
