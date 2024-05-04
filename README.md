@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
