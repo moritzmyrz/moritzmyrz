@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The sum of wisdom is that time is never lost that is devoted to work.
+> No one has a finer command of language than the person who keeps his mouth shut.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sam Rayburn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
