@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> Only put off until tomorrow what you are willing to die having left undone.
 >
-> <p>- Richard Whately</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
