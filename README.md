@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Cicero</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
