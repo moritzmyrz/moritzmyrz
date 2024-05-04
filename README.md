@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Grandma Moses</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
