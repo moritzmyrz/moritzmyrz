@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't watch the clock; do what it does. Keep going.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Sam Levenson</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
