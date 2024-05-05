@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be yourself; everyone else is already taken.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
