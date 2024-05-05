@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
