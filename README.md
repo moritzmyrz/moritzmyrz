@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
