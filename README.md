@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Albert Einstein</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
