@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want a thing done well, do it yourself.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Napoleon</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
