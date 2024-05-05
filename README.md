@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> But man is not made for defeat. A man can be destroyed but not defeated.
 >
-> <p>- Aristotle</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
