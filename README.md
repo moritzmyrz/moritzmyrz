@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Success is where preparation and opportunity meet.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Bobby Unser</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
