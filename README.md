@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Sam Ewing</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
