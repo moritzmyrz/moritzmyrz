@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Laozi</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
