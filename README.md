@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- Confucius</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
