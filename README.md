@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> No garden is without its weeds.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
