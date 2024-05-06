@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> Computers are like bikinis. They save people a lot of guesswork.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Sam Ewing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
