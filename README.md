@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
