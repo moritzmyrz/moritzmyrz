@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you want a thing done well, do it yourself.
+> All difficult things have their origin in that which is easy, and great things in that which is small.
 >
-> <p>- Napoleon</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
