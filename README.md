@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Napoleon</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
