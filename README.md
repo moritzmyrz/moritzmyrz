@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All truths are easy to understand once they are discovered; the point is to discover them.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Galileo Galilei</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
