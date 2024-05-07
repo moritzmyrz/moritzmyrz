@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> Everything comes to him who hustles while he waits.
 >
-> <p>- Dalai Lama</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
