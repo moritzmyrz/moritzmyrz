@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- William Hazlitt</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
