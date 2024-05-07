@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I never did anything worth doing by accident, nor did any of my inventions come by accident
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- Thomas Edison</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
