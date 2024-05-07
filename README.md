@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> We gain the strength of the temptation we resist.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
