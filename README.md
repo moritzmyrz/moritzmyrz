@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Confucius</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
