@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
