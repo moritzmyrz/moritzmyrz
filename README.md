@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Benjamin Haydon</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
