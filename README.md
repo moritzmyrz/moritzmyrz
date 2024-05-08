@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
