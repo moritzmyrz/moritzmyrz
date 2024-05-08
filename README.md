@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
