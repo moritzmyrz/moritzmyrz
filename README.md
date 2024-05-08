@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
 >
-> <p>- Seneca the Younger</p>
+> <p>- James Freeman Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
