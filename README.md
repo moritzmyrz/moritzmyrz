@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> Wrinkles should merely indicate where smiles have been.
 >
-> <p>- John Dewey</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
