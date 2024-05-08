@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- Winston Churchill</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
