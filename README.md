@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Napoleon</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
