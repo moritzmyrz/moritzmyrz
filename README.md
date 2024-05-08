@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
