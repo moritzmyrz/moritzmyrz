@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- Maya Angelou</p>
+> <p>- Niels Bohr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
