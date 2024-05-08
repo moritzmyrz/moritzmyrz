@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Robert Frost</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
