@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Lena Horne</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
