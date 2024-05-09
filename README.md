@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Your friend is your needs answered.
+> Aim for the moon. If you miss, you may hit a star.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
