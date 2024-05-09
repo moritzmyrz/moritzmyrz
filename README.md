@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> The real problem is not whether machines think but whether men do.
 >
-> <p>- George Santayana</p>
+> <p>- B. F. Skinner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
