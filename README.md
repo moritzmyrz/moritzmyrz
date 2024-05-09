@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- William Hazlitt</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
