@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> Your friend is your needs answered.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
