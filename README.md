@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> Life is about timing.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Carl Lewis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
