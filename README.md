@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> Wherever a man turns he can find someone who needs him.
 >
-> <p>- Albert Einstein</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
