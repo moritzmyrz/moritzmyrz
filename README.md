@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is just a chance to grow a soul.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
