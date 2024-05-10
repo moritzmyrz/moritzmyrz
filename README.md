@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> So is cheerfulness, or a good temper, the more it is spent, the more remains.
+> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
