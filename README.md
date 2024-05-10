@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
