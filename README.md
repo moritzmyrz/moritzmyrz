@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> Life is just a chance to grow a soul.
 >
-> <p>- Seneca the Younger</p>
+> <p>- A. Powell Davies</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
