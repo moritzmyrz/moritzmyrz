@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
