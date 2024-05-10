@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
