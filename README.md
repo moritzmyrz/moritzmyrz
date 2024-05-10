@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> The greatest remedy for anger is delay.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
