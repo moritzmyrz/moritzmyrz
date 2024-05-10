@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> Friendship, like credit, is highest when it is not used.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
