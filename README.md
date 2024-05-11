@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Herbert Hoover</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
