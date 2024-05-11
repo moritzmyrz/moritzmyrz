@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> I will prepare and some day my chance will come.
 >
-> <p>- William Shakespeare</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
