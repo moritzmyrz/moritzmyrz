@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We are masters of the unsaid words, but slaves of those we let slip out.
+> Love is the attempt to form a friendship inspired by beauty.
 >
-> <p>- Winston Churchill</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
