@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> One man practicing sportsmanship is far better than a hundred teaching it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Knute Rockne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
