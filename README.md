@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
