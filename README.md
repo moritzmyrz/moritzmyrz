@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Sophocles</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
