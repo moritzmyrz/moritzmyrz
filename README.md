@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
