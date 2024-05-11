@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A creative man is motivated by the desire to achieve, not by the desire to beat others.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Ayn Rand</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
