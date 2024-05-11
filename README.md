@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.
+> Music is a higher revelation than all wisdom and philosophy.
 >
-> <p>- Francis Bacon</p>
+> <p>- Ludwig van Beethoven</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
