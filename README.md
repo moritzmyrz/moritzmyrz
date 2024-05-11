@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
