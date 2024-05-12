@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- Lou Holtz</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
