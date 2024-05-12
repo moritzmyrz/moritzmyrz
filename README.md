@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- William Shakespeare</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
