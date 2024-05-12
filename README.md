@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Sports do not build character. They reveal it.
+> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
 >
-> <p>- Heywood Broun</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
