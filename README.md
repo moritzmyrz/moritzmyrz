@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
