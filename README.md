@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
