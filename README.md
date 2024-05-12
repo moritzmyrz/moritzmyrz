@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the attempt to form a friendship inspired by beauty.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- Cicero</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
