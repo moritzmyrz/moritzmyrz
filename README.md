@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
