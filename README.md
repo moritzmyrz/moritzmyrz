@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> Study the past, if you would divine the future.
 >
-> <p>- Maya Angelou</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
