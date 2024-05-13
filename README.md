@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Francis of Assisi</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
