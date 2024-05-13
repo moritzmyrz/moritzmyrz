@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Robert Schuller</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
