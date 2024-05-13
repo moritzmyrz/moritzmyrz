@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- Carrie Snow</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
