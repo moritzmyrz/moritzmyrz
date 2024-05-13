@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> The only journey is the one within.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Rainer Maria Rilke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
