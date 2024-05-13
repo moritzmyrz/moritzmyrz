@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The truth is not for all men, but only for those who seek it.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Ayn Rand</p>
+> <p>- Julie Morgenstern</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
