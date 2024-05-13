@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- David Bader</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
