@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
