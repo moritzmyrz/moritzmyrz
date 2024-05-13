@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The calmed say that what is well-spoken is best; second, that one should say what is right, not unrighteous; third, what's pleasing, not displeasing; fourth, what is true, not false.
+> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
 >
-> <p>- The Buddha</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
