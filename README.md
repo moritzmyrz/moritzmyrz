@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- Bruce Lee</p>
+> <p>- Carrie Snow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
