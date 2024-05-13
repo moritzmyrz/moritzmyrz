@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Elon Musk</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
