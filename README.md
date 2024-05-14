@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He has no enemies, but is intensely disliked by his friends.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
