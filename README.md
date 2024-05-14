@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Hank Aaron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
