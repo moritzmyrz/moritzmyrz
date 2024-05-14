@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> To succeed, we must first believe that we can.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
