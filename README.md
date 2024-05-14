@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I do not know the American gentleman, god forgive me for putting two such words together.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Charles Dickens</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
