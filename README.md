@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Winners never quit and quitters never win.
+> A poem begins in delight and ends in wisdom.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
