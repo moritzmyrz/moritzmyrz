@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Hank Aaron</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
