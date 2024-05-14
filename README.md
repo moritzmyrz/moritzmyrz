@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The only Zen you find on the tops of mountains is the Zen you bring up there.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Yolanda Hadid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
