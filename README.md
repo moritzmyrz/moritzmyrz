@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
+> Winners never quit and quitters never win.
 >
-> <p>- Laozi</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
