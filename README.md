@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> I do not know the American gentleman, god forgive me for putting two such words together.
 >
-> <p>- Laozi</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
