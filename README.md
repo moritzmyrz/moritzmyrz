@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
