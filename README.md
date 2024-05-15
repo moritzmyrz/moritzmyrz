@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- John Lennon</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
