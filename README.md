@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Meetings are indispensable when you don't want to do anything.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- John Kenneth Galbraith</p>
+> <p>- Montesquieu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
