@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
+> We are masters of the unsaid words, but slaves of those we let slip out.
 >
-> <p>- Denis Waitley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
