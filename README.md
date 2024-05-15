@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Agatha Christie</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
