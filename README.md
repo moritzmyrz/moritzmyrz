@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Winston Churchill</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
