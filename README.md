@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
