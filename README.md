@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
