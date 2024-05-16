@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+> How we spend our days is, of course, how we spend our lives.
 >
-> <p>- Robert Schuller</p>
+> <p>- Annie Dillard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
