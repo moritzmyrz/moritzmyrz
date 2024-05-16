@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> How we spend our days is, of course, how we spend our lives.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Annie Dillard</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
