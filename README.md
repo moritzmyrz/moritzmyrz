@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I am always ready to learn although I do not always like being taught.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Winston Churchill</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
