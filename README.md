@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
-> <p>- Steve Jobs</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
