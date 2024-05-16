@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Laozi</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
