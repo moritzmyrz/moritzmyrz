@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History will be kind to me for I intend to write it.
+> Time is the wisest counsellor of all.
 >
-> <p>- Winston Churchill</p>
+> <p>- Pericles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
