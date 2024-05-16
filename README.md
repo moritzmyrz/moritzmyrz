@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
 >
-> <p>- Helen Keller</p>
+> <p>- Steve Jobs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
