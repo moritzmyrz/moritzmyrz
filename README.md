@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
