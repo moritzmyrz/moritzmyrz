@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Henry Ford</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
