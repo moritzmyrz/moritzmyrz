@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
