@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Winston Churchill</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
