@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.
 >
-> <p>- Bob Knight</p>
+> <p>- Richard Needham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
