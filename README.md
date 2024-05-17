@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Margaret Chase Smith</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
