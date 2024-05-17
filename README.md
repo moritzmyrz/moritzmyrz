@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Will Rogers</p>
+> <p>- Bob Knight</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
