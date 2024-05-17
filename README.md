@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
