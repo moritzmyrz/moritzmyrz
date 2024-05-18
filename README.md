@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> Whenever something negative happens to you, there is a deep lesson concealed within it.
 >
-> <p>- Josh Billings</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
