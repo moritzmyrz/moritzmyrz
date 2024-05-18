@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Absence makes the heart grow fonder.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Thomas Haynes Bayly</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
