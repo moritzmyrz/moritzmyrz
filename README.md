@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Carl Jung</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
