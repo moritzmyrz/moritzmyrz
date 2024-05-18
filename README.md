@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
