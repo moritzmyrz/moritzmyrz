@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
