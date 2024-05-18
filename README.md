@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> History is written by the victors.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Winston Churchill</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
