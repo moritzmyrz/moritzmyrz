@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
