@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Sophocles</p>
+> <p>- Rudolf Arnheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
