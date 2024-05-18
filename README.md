@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> Whether you think you can or you think you can't, you are right.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
