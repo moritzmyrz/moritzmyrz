@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whether you think you can or you think you can't, you are right.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Henry Ford</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
