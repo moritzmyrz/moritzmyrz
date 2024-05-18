@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
