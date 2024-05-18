@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> History is written by the victors.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
