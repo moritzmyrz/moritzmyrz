@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
