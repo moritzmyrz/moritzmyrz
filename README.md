@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
