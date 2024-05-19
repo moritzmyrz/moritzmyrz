@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
