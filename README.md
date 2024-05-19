@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Love is the attempt to form a friendship inspired by beauty.
+> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
 >
-> <p>- Cicero</p>
+> <p>- Sam Walton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
