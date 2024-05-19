@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> Love is the attempt to form a friendship inspired by beauty.
 >
-> <p>- Herman Melville</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
