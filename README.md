@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
