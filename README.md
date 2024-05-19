@@ -23,7 +23,7 @@
 
 ## 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> A goal is a dream with a deadline.
 >
 > <p>- Napoleon Hill</p>
 
