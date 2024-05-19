@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
