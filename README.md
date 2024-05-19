@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
