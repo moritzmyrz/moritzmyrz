@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> No one can make you feel inferior without your consent.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
