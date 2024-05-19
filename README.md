@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Woody Allen</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
