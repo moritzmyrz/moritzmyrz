@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Sai Baba</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
