@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> To hell with circumstances, I create opportunities.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
