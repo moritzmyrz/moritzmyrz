@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No one can make you feel inferior without your consent.
+> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
