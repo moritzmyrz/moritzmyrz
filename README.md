@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Confucius</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
