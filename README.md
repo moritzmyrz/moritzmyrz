@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
