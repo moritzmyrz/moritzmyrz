@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> Well done is better than well said.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
