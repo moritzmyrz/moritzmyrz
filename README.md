@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
