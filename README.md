@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
