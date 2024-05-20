@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> Those who cling to perceptions and views wander the world offending people.
 >
-> <p>- Winston Churchill</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
