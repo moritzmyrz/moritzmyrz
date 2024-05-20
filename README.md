@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
