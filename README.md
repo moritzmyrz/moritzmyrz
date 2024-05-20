@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Those who cling to perceptions and views wander the world offending people.
+> Computers are useless. They can only give you answers.
 >
-> <p>- The Buddha</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
