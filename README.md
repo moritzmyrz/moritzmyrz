@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 >
-> <p>- Charles Dickens</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
