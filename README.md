@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> Irony is the gaiety of reflection and the joy of wisdom.
 >
-> <p>- Thomas Edison</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
