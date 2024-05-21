@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Og Mandino</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
