@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> Friendship, like credit, is highest when it is not used.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
