@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Where there is great love, there are always miracles.
 >
-> <p>- Epictetus</p>
+> <p>- Willa Cather</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
