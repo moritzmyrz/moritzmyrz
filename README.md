@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Bo Jackson</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
