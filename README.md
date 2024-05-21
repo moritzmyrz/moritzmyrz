@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
