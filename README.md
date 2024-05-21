@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
