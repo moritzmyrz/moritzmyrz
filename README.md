@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
