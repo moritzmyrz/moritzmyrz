@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- Mother Teresa</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
