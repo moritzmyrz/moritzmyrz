@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Tony Robbins</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
