@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
