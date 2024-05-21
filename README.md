@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Niccolò Machiavelli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
