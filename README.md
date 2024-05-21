@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Aesop</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
