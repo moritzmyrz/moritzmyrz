@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
