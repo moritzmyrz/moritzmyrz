@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> Get busy living or get busy dying.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Stephen King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
