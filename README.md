@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
