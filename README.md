@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Joseph Addison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
