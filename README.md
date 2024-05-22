@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
 >
-> <p>- Mike Ditka</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
