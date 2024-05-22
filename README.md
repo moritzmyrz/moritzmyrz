@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Opportunity is missed by most because it is dressed in overalls and looks like work.
 >
-> <p>- Paul Tillich</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
