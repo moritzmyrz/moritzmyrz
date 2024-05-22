@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> The world makes way for the man who knows where he is going.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
