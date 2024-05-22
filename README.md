@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
