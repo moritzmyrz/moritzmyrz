@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Confucius</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
