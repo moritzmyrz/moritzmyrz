@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
