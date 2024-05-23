@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> If you want a thing done well, do it yourself.
 >
-> <p>- Henry Moore</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
