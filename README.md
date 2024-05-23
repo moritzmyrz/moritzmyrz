@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
 >
-> <p>- Ansel Adams</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
