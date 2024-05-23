@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Joseph Addison</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
