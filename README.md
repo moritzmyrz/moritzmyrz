@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> If it is not right do not do it; if it is not true do not say it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
