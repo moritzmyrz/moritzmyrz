@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> We are wiser than we know.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
