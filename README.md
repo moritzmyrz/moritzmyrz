@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> He who fears being conquered is sure of defeat.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
