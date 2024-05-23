@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Albert Einstein</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
