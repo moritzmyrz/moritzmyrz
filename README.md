@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> I never did anything worth doing by accident, nor did any of my inventions come by accident
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
