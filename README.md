@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- Napoleon</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
