@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
 >
-> <p>- Eustace Budgell</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
