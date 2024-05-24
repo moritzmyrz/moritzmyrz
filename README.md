@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- John Lennon</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
