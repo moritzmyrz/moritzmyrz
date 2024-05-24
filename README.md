@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> If you want to go east, don't go west.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ramakrishna</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
