@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> The only real valuable thing is intuition.
 >
-> <p>- Charles Dickens</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
