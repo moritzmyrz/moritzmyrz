@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> Stay committed to your decisions, but stay flexible in your approach.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Tony Robbins</p>
+> <p>- Eustace Budgell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
