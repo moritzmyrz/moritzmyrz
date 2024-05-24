@@ -23,9 +23,9 @@
 
 ## 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Will Rogers</p>
+> <p>- Sri Chinmoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
 
