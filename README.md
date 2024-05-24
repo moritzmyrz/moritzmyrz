@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
