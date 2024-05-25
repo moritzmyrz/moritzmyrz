@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
 >
-> <p>- Montesquieu</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
