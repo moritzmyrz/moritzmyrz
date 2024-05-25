@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man acts before he speaks, and afterwards speaks according to his action.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Confucius</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
