@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Lucille Ball</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
