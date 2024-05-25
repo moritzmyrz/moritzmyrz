@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
 >
-> <p>- Albert Einstein</p>
+> <p>- Earl Monroe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
