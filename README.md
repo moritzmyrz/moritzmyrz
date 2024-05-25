@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
