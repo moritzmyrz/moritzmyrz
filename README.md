@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> The superior man acts before he speaks, and afterwards speaks according to his action.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
