@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
