@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How is it possible to find meaning in a finite world, given my waist and shirt size?
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Woody Allen</p>
+> <p>- Jonathan Swift</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
