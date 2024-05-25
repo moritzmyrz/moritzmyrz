@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
