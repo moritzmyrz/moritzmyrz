@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
