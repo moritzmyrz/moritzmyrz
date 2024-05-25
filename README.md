@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Laozi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
