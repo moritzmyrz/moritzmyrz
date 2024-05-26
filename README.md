@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
+> Knowledge speaks, but wisdom listens.
 >
-> <p>- Don DeLillo</p>
+> <p>- Jimi Hendrix</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
