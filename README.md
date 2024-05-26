@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Paul Theroux</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
