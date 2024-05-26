@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As a cure for worrying, work is better than whisky.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Thomas Edison</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
