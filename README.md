@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Eric Hoffer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
