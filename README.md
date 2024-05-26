@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
 >
-> <p>- Lisa Alther</p>
+> <p>- Don DeLillo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
