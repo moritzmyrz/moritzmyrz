@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> Waste no more time arguing about what a good man should be. Be one.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
