@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
