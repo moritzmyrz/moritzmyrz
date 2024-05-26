@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
