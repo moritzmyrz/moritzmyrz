@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
 >
-> <p>- Edith Wharton</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
