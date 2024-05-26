@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Laozi</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
