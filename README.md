@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
