@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
