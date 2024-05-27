@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wisest men follow their own direction.
+> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
 >
-> <p>- Euripides</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
