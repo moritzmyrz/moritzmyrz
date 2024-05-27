@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Julie Morgenstern</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
