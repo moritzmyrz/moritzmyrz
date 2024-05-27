@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future is completely open, and we are writing it moment to moment.
+> We make our own fortunes and we call them fate.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
