@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> Wise men speak because they have something to say; Fools because they have to say something.
 >
-> <p>- Denis Waitley</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
