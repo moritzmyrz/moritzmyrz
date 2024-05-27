@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
 >
-> <p>- Edith Wharton</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
