@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Plato</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
