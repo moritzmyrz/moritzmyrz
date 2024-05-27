@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Thomas Edison</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
