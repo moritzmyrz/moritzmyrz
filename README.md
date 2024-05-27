@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> Wisdom has its root in goodness, not goodness its root in wisdom.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
