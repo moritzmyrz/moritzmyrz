@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When in doubt, tell the truth.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Mark Twain</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
