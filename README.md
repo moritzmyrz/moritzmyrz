@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Laozi</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
