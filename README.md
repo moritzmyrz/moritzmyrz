@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> The wisest men follow their own direction.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
