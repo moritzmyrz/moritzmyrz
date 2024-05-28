@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
