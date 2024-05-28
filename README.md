@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
