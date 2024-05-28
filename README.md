@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> Imagination rules the world.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
