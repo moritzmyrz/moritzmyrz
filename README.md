@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
