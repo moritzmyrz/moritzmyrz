@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> Value your friendship. Value your relationships.
 >
-> <p>- Napoleon</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
