@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
