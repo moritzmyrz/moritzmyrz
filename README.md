@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- Rumi</p>
+> <p>- Andy Rooney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
