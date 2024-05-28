@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> A prudent question is one half of wisdom.
 >
-> <p>- Andy Rooney</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
