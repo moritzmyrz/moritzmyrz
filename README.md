@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- Laozi</p>
+> <p>- Babatunde Olatunji</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
