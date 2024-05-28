@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
