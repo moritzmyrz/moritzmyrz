@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good thoughts are no better than good dreams, unless they be executed.
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
