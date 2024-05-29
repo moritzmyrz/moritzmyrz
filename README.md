@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be content with your lot; one cannot be first in everything.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Aesop</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
