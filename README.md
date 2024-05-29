@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> Life is about timing.
 >
-> <p>- Princess Diana</p>
+> <p>- Carl Lewis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
