@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Virgil</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
