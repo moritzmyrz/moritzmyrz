@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> You are the only person on earth who can use your ability.
 >
-> <p>- John Muir</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
