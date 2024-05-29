@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Carl Jung</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
