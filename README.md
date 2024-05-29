@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- Hugh Miller</p>
+> <p>- Liberace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
