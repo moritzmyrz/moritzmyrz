@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- William Wordsworth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
