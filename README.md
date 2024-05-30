@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> Things that were hard to bear are sweet to remember.
 >
-> <p>- Tony Robbins</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
