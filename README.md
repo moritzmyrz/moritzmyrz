@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
