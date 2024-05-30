@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Aristotle</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
