@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things that were hard to bear are sweet to remember.
+> Time is the wisest counsellor of all.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Pericles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
