@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+> Everything that exists is in a manner the seed of that which will be.
 >
-> <p>- The Buddha</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
