@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> Wisdom is the power to put our time and our knowledge to the proper use.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Thomas J. Watson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
