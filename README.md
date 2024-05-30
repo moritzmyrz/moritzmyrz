@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is oftentimes nearer when we stoop than when we soar.
+> A house divided against itself cannot stand.
 >
-> <p>- William Wordsworth</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
