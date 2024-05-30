@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Pericles</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
