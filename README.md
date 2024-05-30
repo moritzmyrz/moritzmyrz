@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
+> Imagination is the highest kite one can fly.
 >
-> <p>- The Buddha</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
