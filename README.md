@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> The price of greatness is responsibility.
 >
-> <p>- Mark Twain</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
