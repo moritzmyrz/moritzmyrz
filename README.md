@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The price of greatness is responsibility.
+> Give whatever you are doing and whoever you are with the gift of your attention.
 >
-> <p>- Winston Churchill</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
