@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
