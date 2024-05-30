@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
