@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
