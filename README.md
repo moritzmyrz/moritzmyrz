@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- John Muir</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
