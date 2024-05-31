@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> To lead people walk behind them.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
