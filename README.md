@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm a great believer in luck and I find the harder I work, the more I have of it.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
