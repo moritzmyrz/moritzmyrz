@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> As a cure for worrying, work is better than whisky.
 >
-> <p>- Napoleon</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
