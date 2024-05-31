@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Ernie Banks</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
