@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> I'm a great believer in luck and I find the harder I work, the more I have of it.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
