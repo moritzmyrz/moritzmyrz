@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
+> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
 >
-> <p>- Ken Venturi</p>
+> <p>- Reinhold Niebuhr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
