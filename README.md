@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> The real problem is not whether machines think but whether men do.
 >
-> <p>- Dalai Lama</p>
+> <p>- B. F. Skinner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
