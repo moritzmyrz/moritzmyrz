@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Daniel J. Boorstin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
