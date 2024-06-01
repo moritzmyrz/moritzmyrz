@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
 >
-> <p>- Joseph Joubert</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
