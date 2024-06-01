@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> Whatever happens, take responsibility.
 >
-> <p>- Willa Cather</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
