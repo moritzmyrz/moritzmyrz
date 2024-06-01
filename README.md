@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
