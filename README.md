@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- B. F. Skinner</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
