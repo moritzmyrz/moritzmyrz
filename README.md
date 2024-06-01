@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't compromise yourself. You are all you've got.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Janis Joplin</p>
+> <p>- Julie Morgenstern</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
