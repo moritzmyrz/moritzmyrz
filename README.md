@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- Laozi</p>
+> <p>- Thomas à Kempis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
