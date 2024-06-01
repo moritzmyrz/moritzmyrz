@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are stuck with technology when what we really want is just stuff that works.
+> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
 >
-> <p>- Douglas Adams</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
