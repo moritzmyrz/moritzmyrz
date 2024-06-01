@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
