@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Dalai Lama</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
