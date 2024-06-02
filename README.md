@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
