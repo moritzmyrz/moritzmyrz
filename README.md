@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> Many men go fishing all of their lives without knowing that it is not fish they are after.
 >
-> <p>- Doris Mortman</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
