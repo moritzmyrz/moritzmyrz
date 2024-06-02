@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship ought never to conceal what it thinks.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Jerome</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
