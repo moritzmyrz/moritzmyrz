@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Albert Einstein</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
