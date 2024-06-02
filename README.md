@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Dalai Lama</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
