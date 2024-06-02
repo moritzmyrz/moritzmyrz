@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An invasion of armies can be resisted, but not an idea whose time has come.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- Victor Hugo</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
