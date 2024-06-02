@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our strength grows out of our weaknesses.
+> Pitching is the art of instilling fear.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
