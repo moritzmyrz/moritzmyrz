@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
 >
-> <p>- Brian Tracy</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
