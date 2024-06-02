@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
