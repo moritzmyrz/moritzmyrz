@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Richard Bach</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
