@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
