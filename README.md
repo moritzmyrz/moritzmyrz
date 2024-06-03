@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Isocrates</p>
+> <p>- Elie Wiesel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
