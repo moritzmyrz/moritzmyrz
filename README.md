@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Voltaire</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
