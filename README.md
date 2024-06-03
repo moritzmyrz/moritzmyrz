@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> The universe is transformation; our life is what our thoughts make it.
 >
-> <p>- Aesop</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
