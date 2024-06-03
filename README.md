@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the world is so complicated, the simple gift of friendship is within all of our hands.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Maria Shriver</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
