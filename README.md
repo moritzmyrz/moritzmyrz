@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Warren Bennis</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
