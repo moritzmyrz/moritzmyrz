@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
