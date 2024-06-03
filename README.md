@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- The Buddha</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
