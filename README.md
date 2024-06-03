@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
