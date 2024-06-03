@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest obstacle to connecting with our joy is resentment.
+> Think how hard physics would be if particles could think.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Murray Gell-Mann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
