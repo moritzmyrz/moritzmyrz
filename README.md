@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
