@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Thomas Hobbes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
