@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting an example is not the main means of influencing another, it is the only means.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- Albert Einstein</p>
+> <p>- Warren Bennis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
