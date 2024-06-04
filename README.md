@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Jared Diamond</p>
+> <p>- John Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
