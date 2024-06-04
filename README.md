@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- Woody Allen</p>
+> <p>- Hanya Yanagihara</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
