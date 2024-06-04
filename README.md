@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Edith Wharton</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
