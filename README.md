@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> Technology has to be invented or adopted.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
