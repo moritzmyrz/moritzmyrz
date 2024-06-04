@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
+> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
 >
-> <p>- Harriet Lerner</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
