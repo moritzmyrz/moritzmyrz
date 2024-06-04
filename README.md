@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
