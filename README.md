@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Laozi</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
