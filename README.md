@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
 >
-> <p>- Don Shula</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
