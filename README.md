@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
