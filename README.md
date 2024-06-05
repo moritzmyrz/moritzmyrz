@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The first step to getting the things you want out of life is this: decide what you want.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- Ben Stein</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
