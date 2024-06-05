@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> Sports do not build character. They reveal it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Heywood Broun</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
