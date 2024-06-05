@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
