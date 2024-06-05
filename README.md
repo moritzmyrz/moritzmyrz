@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Charles Lamb</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
