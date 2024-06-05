@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> Life without love is like a tree without blossoms or fruit.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
