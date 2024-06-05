@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
 >
-> <p>- Woody Allen</p>
+> <p>- Charles Kingsley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
