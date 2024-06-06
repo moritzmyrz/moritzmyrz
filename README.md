@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows himself is enlightened.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Laozi</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
