@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
