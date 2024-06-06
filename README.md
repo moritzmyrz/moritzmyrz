@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> The superior man acts before he speaks, and afterwards speaks according to his action.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
