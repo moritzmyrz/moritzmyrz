@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> No man has a good enough memory to be a successful liar.
 >
-> <p>- Jane Austen</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
