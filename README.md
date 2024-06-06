@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
