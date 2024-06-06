@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
 >
-> <p>- Dalai Lama</p>
+> <p>- Eknath Easwaran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
