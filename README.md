@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
