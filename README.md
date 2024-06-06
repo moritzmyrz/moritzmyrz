@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Virgil</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
