@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> It is good even for old men to learn wisdom.
 >
-> <p>- Dalai Lama</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
