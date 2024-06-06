@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> He who knows himself is enlightened.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
