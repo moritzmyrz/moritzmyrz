@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Albert Einstein</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
