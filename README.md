@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once you label me you negate me.
+> It is good even for old men to learn wisdom.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
