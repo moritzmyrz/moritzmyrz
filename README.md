@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Tony Robbins</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
