@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> Almost everything comes from nothing.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
