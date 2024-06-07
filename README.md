@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
