@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A disciplined mind brings happiness.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- The Buddha</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
