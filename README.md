@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> A quarrel between friends, when made up, adds a new tie to friendship.
 >
-> <p>- Confucius</p>
+> <p>- Francis de Sales</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
