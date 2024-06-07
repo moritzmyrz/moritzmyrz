@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> Formula for success: under promise and over deliver.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Tom Peters</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
