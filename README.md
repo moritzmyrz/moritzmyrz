@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Formula for success: under promise and over deliver.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Tom Peters</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
