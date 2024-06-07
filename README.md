@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
