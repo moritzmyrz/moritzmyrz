@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 >
-> <p>- Sophocles</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
