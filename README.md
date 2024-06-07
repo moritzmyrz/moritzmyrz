@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Francis de Sales</p>
+> <p>- Marilyn vos Savant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
