@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Albert Einstein</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
