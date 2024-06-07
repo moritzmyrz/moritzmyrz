@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come from having much, but from being attached to little.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Cheng Yen</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
