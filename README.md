@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
+> Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
