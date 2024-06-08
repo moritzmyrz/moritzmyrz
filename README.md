@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
 >
-> <p>- Walt Disney</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
