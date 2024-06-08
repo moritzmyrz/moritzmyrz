@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Tony Robbins</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
