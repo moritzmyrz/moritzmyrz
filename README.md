@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the stars should appear but one night every thousand years how man would marvel and adore.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
