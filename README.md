@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have a harem of 40 women, you never get to know any of them very well.
+> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
 >
-> <p>- Warren Buffett</p>
+> <p>- Dag Hammarskjöld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
