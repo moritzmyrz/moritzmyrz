@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> You can't win unless you learn how to lose.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
