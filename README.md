@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Jimmy Dean</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
