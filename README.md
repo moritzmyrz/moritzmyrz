@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> If you do what you've always done, you'll get what you've always gotten.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
