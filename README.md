@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> How we spend our days is, of course, how we spend our lives.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Annie Dillard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
