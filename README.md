@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
