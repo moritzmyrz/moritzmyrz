@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
