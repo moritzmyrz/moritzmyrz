@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Tony Robbins</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
