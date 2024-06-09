@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
