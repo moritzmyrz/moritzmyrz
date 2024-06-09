@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> How we spend our days is, of course, how we spend our lives.
 >
-> <p>- Richard Bach</p>
+> <p>- Annie Dillard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
