@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> A goal without a plan is just a wish.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Larry Elder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
