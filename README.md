@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything comes to him who hustles while he waits.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Thomas Edison</p>
+> <p>- Cynthia Ozick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
