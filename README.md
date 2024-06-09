@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> The two most powerful warriors are patience and time.
 >
-> <p>- Diogenes</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
