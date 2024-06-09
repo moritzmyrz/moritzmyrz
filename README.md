@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> Bad times have a scientific value. These are occasions a good learner would not miss.
 >
-> <p>- Aristotle</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
