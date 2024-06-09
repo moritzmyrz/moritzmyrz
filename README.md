@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How we spend our days is, of course, how we spend our lives.
+> There are three faithful friends - an old wife, an old dog, and ready money.
 >
-> <p>- Annie Dillard</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
