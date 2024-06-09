@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
