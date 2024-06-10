@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Albert Einstein</p>
+> <p>- William Wordsworth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
