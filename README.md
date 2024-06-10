@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Laozi</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
