@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> To fly, we have to have resistance.
 >
-> <p>- Bo Jackson</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
