@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
