@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
