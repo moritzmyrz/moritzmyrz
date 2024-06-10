@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship, like credit, is highest when it is not used.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
