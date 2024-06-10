@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
