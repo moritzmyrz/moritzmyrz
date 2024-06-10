@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth is not for all men, but only for those who seek it.
+> Friendship, like credit, is highest when it is not used.
 >
-> <p>- Ayn Rand</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
