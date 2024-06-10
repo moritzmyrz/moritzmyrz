@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- The Buddha</p>
+> <p>- Farhan Akhtar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
