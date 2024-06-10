@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Allow the world to live as it chooses, and allow yourself to live as you choose.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Richard Bach</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
