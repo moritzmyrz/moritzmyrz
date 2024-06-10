@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- John Astin</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
