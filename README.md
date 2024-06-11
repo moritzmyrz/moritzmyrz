@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
