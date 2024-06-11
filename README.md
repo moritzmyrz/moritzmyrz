@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Sun Tzu</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
