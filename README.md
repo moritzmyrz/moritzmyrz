@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science is organized knowledge. Wisdom is organized life.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
