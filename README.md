@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
