@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Plato</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
