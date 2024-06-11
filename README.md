@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- Thomas Edison</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
