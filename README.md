@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> There is nothing impossible to him who will try.
 >
-> <p>- Jack Buck</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
