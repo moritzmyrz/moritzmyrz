@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Walter Scott</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
