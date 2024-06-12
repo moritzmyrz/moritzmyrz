@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good judgment comes from experience, and a lot of that comes from bad judgment.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- Will Rogers</p>
+> <p>- Zhuang Zhou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
