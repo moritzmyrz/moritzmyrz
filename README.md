@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
 >
-> <p>- Albert Einstein</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
