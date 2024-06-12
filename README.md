@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+> No man was ever wise by chance.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
