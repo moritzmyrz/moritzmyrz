@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
