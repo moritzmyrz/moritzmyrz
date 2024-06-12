@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't know a millionth of one percent about anything.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- Thomas Edison</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
