@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Ralph Marston</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
