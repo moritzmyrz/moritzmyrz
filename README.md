@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Mark Twain</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
