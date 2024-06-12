@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When deeds and words are in accord, the whole world is transformed.
+> To succeed, we must first believe that we can.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
