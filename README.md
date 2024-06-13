@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
 >
-> <p>- Bruce Lee</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
