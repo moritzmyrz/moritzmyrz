@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- Will Durant</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
