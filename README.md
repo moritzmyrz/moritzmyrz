@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
