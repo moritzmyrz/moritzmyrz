@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
 >
-> <p>- Harry Kemp</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
