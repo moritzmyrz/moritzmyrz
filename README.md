@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Confucius</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
