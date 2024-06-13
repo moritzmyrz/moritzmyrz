@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+> Wherever a man turns he can find someone who needs him.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
