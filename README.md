@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
