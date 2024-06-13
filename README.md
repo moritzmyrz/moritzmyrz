@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Princess Diana</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
