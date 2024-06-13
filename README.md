@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- Babe Ruth</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
