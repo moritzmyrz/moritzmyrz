@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
