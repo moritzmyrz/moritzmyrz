@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
+> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
 >
-> <p>- J. Paul Getty</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
