@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
 >
-> <p>- Laozi</p>
+> <p>- J. Paul Getty</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
