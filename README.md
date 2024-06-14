@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- A. A. Milne</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
