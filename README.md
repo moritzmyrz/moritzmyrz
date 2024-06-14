@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
