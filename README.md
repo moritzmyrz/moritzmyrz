@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Epictetus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
