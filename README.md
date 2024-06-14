@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All wisdom does not reside in Delhi.
+> To profit from good advice requires more wisdom than to give it.
 >
-> <p>- P. Chidambaram</p>
+> <p>- Wilson Mizner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
