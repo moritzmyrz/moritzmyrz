@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> Error is discipline through which we advance.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
