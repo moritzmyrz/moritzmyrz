@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
