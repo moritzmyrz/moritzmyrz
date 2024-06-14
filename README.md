@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> Everything that happens as it should, and if you observe carefully, you will find this to be so.
 >
-> <p>- Epictetus</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
