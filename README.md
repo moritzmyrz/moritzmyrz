@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
 >
-> <p>- Jim Elliot</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
