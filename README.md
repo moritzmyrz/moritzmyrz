@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> He is no fool who gives what he cannot keep to gain what he cannot lose.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Jim Elliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
