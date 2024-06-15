@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+> Accept the challenges so that you can feel the exhilaration of victory.
 >
-> <p>- Confucius</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
