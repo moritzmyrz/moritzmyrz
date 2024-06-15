@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
