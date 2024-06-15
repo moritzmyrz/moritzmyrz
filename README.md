@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Epictetus</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
