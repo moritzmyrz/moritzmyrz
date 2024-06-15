@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
 >
-> <p>- Hannah More</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
