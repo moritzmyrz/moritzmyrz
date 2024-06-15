@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- Confucius</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
