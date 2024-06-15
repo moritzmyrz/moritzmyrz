@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
+> A really great talent finds its happiness in execution.
 >
-> <p>- The Buddha</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
