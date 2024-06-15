@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Kurt Vonnegut</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
