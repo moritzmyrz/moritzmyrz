@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Colin Powell</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
