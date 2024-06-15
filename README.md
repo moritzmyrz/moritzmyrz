@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
