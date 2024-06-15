@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+> Never promise more than you can perform.
 >
-> <p>- Kurt Vonnegut</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
