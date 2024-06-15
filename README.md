@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let yourself be silently drawn by the stronger pull of what you really love.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Rumi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
