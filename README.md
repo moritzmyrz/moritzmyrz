@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's easier to resist at the beginning than at the end.
+> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
