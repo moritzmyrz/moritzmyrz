@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
