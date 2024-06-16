@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
