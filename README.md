@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
