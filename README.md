@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- David Bader</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
