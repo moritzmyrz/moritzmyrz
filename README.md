@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
