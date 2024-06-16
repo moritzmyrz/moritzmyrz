@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 >
-> <p>- Babe Ruth</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
