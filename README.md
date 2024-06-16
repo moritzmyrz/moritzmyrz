@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Lewis Cass</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
