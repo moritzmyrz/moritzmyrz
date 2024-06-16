@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Sophocles</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
