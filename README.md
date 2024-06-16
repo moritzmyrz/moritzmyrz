@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
