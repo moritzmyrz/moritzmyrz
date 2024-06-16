@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
