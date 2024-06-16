@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- John Powell</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
