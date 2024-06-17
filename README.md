@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Formula for success: under promise and over deliver.
+> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
 >
-> <p>- Tom Peters</p>
+> <p>- Robert Graves</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
