@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the best use of what is in your power and take the rest as it happens.
+> There are two kinds of failures: those who thought and never did, and those who did and never thought.
 >
-> <p>- Epictetus</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
