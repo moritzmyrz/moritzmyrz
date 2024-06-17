@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smaller the mind the greater the conceit.
+> It is impossible to love and to be wise.
 >
-> <p>- Aesop</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
