@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Laozi</p>
+> <p>- Julie Morgenstern</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
