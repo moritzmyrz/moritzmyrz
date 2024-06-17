@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Henri Nouwen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
