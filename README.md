@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+> Make the best use of what is in your power and take the rest as it happens.
 >
-> <p>- Colin Powell</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
