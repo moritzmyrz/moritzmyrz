@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Richard Whately</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
