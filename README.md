@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Agatha Christie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
