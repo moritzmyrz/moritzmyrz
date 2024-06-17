@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Agatha Christie</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
