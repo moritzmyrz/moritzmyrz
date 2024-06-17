@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
