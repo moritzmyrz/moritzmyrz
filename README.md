@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
