@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
