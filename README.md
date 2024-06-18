@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> If a man does his best, what else is there?
 >
-> <p>- William Shakespeare</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
