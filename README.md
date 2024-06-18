@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Susan Orlean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
