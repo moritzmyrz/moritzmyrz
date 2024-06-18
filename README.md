@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Dalai Lama</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
