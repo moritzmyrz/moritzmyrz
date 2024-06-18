@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> Don't talk about what you have done or what you are going to do.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
