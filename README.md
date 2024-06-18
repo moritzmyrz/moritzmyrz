@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Laozi</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
