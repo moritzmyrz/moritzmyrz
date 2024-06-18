@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
