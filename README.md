@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> Ignorance never settles a question.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
