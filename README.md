@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Margaret Laurence</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
