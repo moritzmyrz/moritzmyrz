@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Barbara De Angelis</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
