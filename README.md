@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All know the way; few actually walk it.
+> The ballot is stronger than the bullet.
 >
-> <p>- Bodhidharma</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
