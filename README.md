@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All I can say about life is, Oh God, enjoy it!
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- Bob Newhart</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
