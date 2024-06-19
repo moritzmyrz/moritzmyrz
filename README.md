@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> The superior man acts before he speaks, and afterwards speaks according to his action.
 >
-> <p>- Thomas Edison</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
