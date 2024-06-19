@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He has no enemies, but is intensely disliked by his friends.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
