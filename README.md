@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single lamp may light hundreds of thousands of lamps without itself being diminished.
+> Problems are not stop signs, they are guidelines.
 >
-> <p>- The Buddha</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
