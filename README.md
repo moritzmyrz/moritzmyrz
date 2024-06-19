@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fortune befriends the bold.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- John Dryden</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
