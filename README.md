@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Winston Churchill</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
