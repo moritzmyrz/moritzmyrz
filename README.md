@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Woody Allen</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
