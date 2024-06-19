@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art of progress is to preserve order amid change, and to preserve change amid order.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Alfred North Whitehead</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
