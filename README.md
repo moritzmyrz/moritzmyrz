@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> Time is the most valuable thing a man can spend.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Theophrastus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
