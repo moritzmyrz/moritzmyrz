@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> The most successful people are those who are good at plan B.
 >
-> <p>- Alan Watts</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
