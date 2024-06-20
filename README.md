@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
