@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
