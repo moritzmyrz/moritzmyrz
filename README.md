@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> You always succeed in producing a result.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
