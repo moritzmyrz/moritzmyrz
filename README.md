@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Dalai Lama</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
