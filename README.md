@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- John Dryden</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
