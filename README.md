@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who wishes to secure the good of others, has already secured his own.
+> He who talks more is sooner exhausted.
 >
-> <p>- Confucius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
