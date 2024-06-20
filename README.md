@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- René Descartes</p>
+> <p>- John Barrymore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
