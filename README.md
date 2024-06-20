@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
 >
-> <p>- John Barrymore</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
