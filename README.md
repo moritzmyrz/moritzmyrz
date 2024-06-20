@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- James A. Yorke</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
