@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
