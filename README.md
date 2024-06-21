@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Yolanda Hadid</p>
+> <p>- Caroline Myss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
