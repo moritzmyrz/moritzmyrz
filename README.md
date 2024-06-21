@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Thomas à Kempis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
