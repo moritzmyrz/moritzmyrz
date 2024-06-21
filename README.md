@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Tony Robbins</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
