@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Barack Obama</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
