@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Epictetus</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
