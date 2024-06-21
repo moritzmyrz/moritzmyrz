@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
