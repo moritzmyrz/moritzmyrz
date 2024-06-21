@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest mistake you can make in life is to be continually fearing you will make one.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Yolanda Hadid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
