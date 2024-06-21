@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> If you have knowledge, let others light their candles in it.
 >
-> <p>- Confucius</p>
+> <p>- Margaret Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
