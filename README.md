@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
