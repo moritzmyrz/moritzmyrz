@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Elie Wiesel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
