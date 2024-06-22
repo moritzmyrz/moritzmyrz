@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
