@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
+> To study and not think is a waste. To think and not study is dangerous.
 >
 > <p>- Confucius</p>
 
