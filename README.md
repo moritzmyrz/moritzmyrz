@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is great by deeds, not by birth.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Chanakya</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
