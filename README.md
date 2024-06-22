@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> We do not quit playing because we grow old, we grow old because we quit playing.
 >
-> <p>- Thomas Edison</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
