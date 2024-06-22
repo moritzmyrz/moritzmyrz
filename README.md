@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Janet Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
