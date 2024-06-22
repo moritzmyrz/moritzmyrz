@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> If you have one true friend, you have more than your share.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
