@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you doubt your power, you give power to your doubt.
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
