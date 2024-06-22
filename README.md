@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Confucius</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
