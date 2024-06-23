@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
