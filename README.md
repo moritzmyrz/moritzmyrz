@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> Radiate boundless love towards the entire world…
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
