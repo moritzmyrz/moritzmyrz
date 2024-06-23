@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Paul Tillich</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
