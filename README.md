@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> Life isn't about finding yourself. Life is about creating yourself.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
