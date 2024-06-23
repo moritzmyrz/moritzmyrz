@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world…
+> Along with success comes a reputation for wisdom.
 >
-> <p>- The Buddha</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
