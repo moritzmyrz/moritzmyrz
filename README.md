@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Euripides</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
