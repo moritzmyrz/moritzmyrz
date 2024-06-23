@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> I do not dispute with the world; rather it is the world that disputes with me.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
