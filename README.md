@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
+> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
 >
 > <p>- Oprah Winfrey</p>
 
