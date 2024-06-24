@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- The Buddha</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
