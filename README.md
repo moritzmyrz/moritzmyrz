@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Mark Twain</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
