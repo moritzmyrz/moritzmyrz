@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So is cheerfulness, or a good temper, the more it is spent, the more remains.
+> Ignorance never settles a question.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
