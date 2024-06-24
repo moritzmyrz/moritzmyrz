@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
