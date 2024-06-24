@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+> You yourself must strive. The Buddhas only point the way.
 >
-> <p>- Joseph Campbell</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
