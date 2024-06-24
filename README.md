@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You yourself must strive. The Buddhas only point the way.
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
-> <p>- The Buddha</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
