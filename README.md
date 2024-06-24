@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Carl Jung</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
