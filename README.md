@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Shakti Gawain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
