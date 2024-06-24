@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> When the solution is simple, God is answering.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
