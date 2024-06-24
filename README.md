@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always seek out the seed of triumph in every adversity.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Og Mandino</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
