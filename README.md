@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- George Orwell</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
