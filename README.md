@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
