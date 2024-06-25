@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> Nothing happens unless first we dream.
 >
-> <p>- Maya Angelou</p>
+> <p>- Carl Sandburg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
