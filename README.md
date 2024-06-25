@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Albert Einstein</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
