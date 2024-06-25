@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- Socrates</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
