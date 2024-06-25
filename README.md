@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
+> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
