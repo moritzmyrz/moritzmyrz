@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
