@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We make our own fortunes and we call them fate.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
