@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
