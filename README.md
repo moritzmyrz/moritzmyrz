@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow in choosing a friend, slower in changing.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
