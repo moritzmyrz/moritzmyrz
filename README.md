@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- George Santayana</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
