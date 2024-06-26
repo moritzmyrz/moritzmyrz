@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
