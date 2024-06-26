@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> Be slow in choosing a friend, slower in changing.
 >
-> <p>- Northrop Frye</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
