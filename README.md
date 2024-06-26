@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> Life is really simple, but we insist on making it complicated.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
