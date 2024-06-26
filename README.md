@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Mother Teresa</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
