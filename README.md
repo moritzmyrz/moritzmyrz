@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
