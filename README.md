@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- The Buddha</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
