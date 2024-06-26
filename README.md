@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Correction does much, but encouragement does more.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
