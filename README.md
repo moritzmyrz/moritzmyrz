@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All wisdom does not reside in Delhi.
+> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
 >
-> <p>- P. Chidambaram</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
