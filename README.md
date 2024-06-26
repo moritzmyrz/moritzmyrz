@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
