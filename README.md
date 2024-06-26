@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
