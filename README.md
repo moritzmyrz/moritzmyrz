@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am an optimist. It does not seem too much use being anything else.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Winston Churchill</p>
+> <p>- Alexis Carrel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
