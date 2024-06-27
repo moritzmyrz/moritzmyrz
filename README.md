@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
