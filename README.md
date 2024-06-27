@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
