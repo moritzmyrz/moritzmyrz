@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> A friend is a gift you give yourself.
 >
-> <p>- Confucius</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
