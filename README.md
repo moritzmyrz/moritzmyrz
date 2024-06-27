@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Pope John XXIII</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
