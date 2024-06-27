@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Confucius</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
