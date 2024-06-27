@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Orson Welles</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
