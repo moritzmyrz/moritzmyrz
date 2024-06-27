@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One loyal friend is worth ten thousand relatives.
+> The personal life deeply lived always expands into truths beyond itself.
 >
-> <p>- Euripides</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
