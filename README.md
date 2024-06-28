@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- Diogenes</p>
+> <p>- Joan Rivers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
