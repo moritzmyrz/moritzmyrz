@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
