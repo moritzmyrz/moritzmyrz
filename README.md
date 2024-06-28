@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
 >
-> <p>- Joan Rivers</p>
+> <p>- Avery Brooks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
