@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Avery Brooks</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
