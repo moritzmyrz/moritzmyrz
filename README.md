@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our work is the presentation of our capabilities.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
