@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many men go fishing all of their lives without knowing that it is not fish they are after.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
