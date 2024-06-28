@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> He who angers you conquers you.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
