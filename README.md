@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
