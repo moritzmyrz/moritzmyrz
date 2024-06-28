@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
+> Our work is the presentation of our capabilities.
 >
-> <p>- Alan Watts</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
