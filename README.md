@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- Mark Twain</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
