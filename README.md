@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> To succeed, we must first believe that we can.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
