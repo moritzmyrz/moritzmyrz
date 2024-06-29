@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+> A friend is, as it were, a second self.
 >
-> <p>- Harriet Tubman</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
