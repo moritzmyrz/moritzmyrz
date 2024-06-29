@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that exists is in a manner the seed of that which will be.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
