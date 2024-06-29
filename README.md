@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting an example is not the main means of influencing another, it is the only means.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Albert Einstein</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
