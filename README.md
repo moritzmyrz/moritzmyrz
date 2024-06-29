@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
+> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
 >
-> <p>- Elon Musk</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
