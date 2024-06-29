@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Cicero</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
