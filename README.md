@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> Everything that exists is in a manner the seed of that which will be.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
