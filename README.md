@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>- Francis Bacon</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
