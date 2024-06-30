@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Julie Morgenstern</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
