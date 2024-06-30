@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great acts are made up of small deeds.
+> Victory belongs to the most persevering.
 >
-> <p>- Laozi</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
