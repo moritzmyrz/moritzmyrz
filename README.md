@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
