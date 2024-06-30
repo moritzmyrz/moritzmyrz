@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
