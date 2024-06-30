@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
