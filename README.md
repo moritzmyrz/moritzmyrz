@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
