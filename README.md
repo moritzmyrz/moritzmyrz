@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> We lost because we told ourselves we lost.
 >
-> <p>- Lord Byron</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
