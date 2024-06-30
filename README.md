@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- The Buddha</p>
+> <p>- Charles Henry Parkhurst</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
