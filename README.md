@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> All children are artists. The problem is how to remain an artist once he grows up.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
