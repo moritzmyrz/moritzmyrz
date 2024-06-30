@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
