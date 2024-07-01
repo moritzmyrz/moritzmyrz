@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All is flux; nothing stays still.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 >
-> <p>- Heraclitus</p>
+> <p>- Julian Casablancas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
