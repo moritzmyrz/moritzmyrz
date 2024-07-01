@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
