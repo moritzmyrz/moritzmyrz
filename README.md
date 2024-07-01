@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> All is flux; nothing stays still.
 >
-> <p>- Laozi</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
