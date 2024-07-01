@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is of no value unless you put it into practice.
+> Anticipate the difficult by managing the easy.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
