@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
