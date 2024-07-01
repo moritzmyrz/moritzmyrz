@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
