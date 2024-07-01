@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to predict your future is to create it.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Peter Drucker</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
