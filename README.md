@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's easy to make a buck. It's a lot tougher to make a difference.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Tom Brokaw</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
