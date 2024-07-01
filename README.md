@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Vanity can easily overtake wisdom. It usually overtakes common sense.
+> A house divided against itself cannot stand.
 >
-> <p>- Julian Casablancas</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
