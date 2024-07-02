@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
 >
-> <p>- Mother Teresa</p>
+> <p>- Morihei Ueshiba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
