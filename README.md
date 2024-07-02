@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- Mother Teresa</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
