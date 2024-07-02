@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
+> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
 >
 > <p>- The Buddha</p>
 
