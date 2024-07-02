@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
