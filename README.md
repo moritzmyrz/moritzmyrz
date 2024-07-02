@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
