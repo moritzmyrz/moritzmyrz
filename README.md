@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
