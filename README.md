@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way you see people is the way you treat them, and the way you treat them is what they become.
+> To climb steep hills requires a slow pace at first.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
