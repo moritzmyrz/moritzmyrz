@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- The Buddha</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
