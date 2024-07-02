@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
