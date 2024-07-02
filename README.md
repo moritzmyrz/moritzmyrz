@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Marie Curie</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
