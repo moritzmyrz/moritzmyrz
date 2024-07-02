@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideals are an imaginative understanding of that which is desirable in that which is possible.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
