@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Winston Churchill</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
