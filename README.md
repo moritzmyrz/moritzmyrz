@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- Aristotle</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
