@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing in a caterpillar that tells you it's going to be a butterfly.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
