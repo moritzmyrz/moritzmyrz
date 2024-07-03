@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who talks more is sooner exhausted.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Laozi</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
