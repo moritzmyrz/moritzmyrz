@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
