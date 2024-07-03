@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Dalai Lama</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
