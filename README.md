@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
