@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
