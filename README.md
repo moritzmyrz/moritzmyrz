@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is full of magical things, patiently waiting for our wits to grow sharper.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- Eden Phillpotts</p>
+> <p>- Michael Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
