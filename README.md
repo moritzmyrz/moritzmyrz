@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
 >
-> <p>- William Shakespeare</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
