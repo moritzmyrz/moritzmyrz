@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> I violated the Noah rule: Predicting rain doesn't count; building arks does.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
