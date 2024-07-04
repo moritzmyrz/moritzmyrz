@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
