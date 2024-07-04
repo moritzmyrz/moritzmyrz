@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge rests not upon truth alone, but upon error also.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Carl Jung</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
