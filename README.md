@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Hank Aaron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
