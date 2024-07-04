@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Hank Aaron</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
