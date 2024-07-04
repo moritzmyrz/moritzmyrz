@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is one mind in two bodies.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- Mencius</p>
+> <p>- Fawn M. Brodie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
