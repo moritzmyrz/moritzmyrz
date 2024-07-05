@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
