@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- William Ellery Channing</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
