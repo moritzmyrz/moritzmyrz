@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept challenges, so that you may feel the exhilaration of victory.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- George S. Patton</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
