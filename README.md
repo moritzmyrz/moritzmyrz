@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Anne Lindbergh</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
