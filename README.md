@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
