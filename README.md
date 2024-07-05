@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Albert Einstein</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
