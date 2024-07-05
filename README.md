@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> Happiness is found in doing, not merely possessing.
 >
-> <p>- Winston Churchill</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
