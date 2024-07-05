@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We could never learn to be brave and patient if there were only joy in the world.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Helen Keller</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
