@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Anne Lindbergh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
