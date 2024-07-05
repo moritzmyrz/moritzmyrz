@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Joan Didion</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
