@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
