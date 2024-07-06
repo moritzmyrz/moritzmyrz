@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You just can't beat the person who never gives up.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- Babe Ruth</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
