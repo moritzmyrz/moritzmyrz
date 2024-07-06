@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> A goal without a plan is just a wish.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Larry Elder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
