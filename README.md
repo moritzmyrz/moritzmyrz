@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Laozi</p>
+> <p>- J. M. Barrie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
