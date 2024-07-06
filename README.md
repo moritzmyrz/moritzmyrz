@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the world is so complicated, the simple gift of friendship is within all of our hands.
+> The most certain sign of wisdom is cheerfulness.
 >
-> <p>- Maria Shriver</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
