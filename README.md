@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Richard Bach</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
