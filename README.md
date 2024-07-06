@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> Better be wise by the misfortunes of others than by your own.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
