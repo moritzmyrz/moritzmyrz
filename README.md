@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> The gambling known as business looks with austere disfavor upon the business known as gambling.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
