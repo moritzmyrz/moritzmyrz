@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be wise by the misfortunes of others than by your own.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Aesop</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
