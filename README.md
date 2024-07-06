@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> To fly as fast as thought, you must begin by knowing that you have already arrived.
 >
-> <p>- Mark Twain</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
