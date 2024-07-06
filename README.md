@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The gambling known as business looks with austere disfavor upon the business known as gambling.
+> You just can't beat the person who never gives up.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
