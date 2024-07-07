@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
 >
-> <p>- Lucille Ball</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
