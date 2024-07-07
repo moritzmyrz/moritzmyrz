@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
