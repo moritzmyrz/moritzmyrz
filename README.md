@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
 >
-> <p>- Thomas Edison</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
