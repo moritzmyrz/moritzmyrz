@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
