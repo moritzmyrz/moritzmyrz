@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
