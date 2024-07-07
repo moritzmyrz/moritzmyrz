@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
