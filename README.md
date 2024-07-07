@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> I gave my life to become the person I am right now. Was it worth it?
 >
-> <p>- John Lennon</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
