@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Tony Robbins</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
