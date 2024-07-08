@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> No garden is without its weeds.
 >
-> <p>- Albert Camus</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
