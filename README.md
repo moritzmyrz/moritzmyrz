@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 >
-> <p>- Plato</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
