@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
