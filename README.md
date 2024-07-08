@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Lucille Ball</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
