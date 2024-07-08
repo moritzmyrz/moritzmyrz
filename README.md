@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
