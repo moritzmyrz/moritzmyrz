@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Will Rogers</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
