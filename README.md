@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No garden is without its weeds.
+> Never mistake activity for achievement.
 >
-> <p>- Thomas Fuller</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
