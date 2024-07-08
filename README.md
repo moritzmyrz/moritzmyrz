@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Edward de Bono</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
