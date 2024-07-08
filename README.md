@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- Edward de Bono</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
