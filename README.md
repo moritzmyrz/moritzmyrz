@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
