@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
