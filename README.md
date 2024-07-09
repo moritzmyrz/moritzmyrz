@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Napoleon</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
