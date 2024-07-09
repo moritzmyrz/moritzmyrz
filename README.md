@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
