@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak low, if you speak love.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- William Shakespeare</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
