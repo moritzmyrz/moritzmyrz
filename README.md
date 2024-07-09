@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
+> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
 >
-> <p>- Denis Waitley</p>
+> <p>- Ken Venturi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
