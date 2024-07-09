@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> Speak low, if you speak love.
 >
-> <p>- Francis Bacon</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
