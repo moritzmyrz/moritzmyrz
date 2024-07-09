@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Carl Jung</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
