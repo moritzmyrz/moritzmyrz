@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> Joy is the best makeup.
 >
-> <p>- Confucius</p>
+> <p>- Anne Lamott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
