@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> Wisdom comes alone through suffering.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
