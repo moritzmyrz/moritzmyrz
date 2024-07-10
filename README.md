@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
