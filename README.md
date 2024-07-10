@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> To know oneself is to study oneself in action with another person.
 >
-> <p>- Henry Ford</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
