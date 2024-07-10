@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
