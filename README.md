@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just because something doesn't do what you planned it to do doesn't mean it's useless.
+> Where there is great love, there are always miracles.
 >
-> <p>- Thomas Edison</p>
+> <p>- Willa Cather</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
