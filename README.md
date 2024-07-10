@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- Bruce Lee</p>
+> <p>- Charlotte Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
