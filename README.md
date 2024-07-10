@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
+> Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
 >
-> <p>- Yoko Ono</p>
+> <p>- Harriet Lerner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
