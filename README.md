@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- William Inge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
