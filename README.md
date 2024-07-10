@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom often times consists of knowing what to do next.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Herbert Hoover</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
