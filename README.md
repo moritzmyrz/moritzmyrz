@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Willa Cather</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
