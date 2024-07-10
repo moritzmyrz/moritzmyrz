@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success: to be able to spend your life in your own way.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Christopher Morley</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
