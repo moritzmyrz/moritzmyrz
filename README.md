@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Peter Elbow</p>
+> <p>- Herbert Hoover</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
