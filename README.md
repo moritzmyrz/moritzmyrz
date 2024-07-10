@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> Remember that failure is an event, not a person.
 >
-> <p>- John Burroughs</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
