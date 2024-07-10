@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> The smallest deed is better than the greatest intention.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
