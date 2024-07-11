@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always seek out the seed of triumph in every adversity.
+> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
 >
-> <p>- Og Mandino</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
