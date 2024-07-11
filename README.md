@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Mike Ditka</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
