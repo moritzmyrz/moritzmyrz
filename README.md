@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't explain it simply, you don't understand it well enough.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Albert Einstein</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
