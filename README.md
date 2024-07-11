@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to predict your future is to create it.
+> A creative man is motivated by the desire to achieve, not by the desire to beat others.
 >
-> <p>- Peter Drucker</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
