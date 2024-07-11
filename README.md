@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> The best way to predict your future is to create it.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
