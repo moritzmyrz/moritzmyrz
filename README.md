@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> To find a man's true character, play golf with him.
 >
-> <p>- Abraham Maslow</p>
+> <p>- P. G. Wodehouse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
