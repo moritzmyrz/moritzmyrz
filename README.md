@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Ray Bradbury</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
