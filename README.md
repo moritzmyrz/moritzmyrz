@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
