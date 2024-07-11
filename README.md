@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
