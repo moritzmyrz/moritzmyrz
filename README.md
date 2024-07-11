@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Doris Mortman</p>
+> <p>- Edmond Rostand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
