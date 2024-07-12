@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
