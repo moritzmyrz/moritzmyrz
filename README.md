@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Andy Warhol</p>
+> <p>- Jack Buck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
