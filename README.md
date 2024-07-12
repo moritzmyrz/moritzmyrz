@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- Jack Buck</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
