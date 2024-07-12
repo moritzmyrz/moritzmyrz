@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Laozi</p>
+> <p>- Anne Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
