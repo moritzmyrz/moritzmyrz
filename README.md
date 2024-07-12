@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Laozi</p>
+> <p>- Shakti Gawain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
