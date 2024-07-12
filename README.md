@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Mark Twain</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
