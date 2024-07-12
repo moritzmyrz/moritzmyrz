@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing in life is to be feared. It is only to be understood.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- Marie Curie</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
