@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Woody Allen</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
