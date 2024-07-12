@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
