@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> Most powerful is he who has himself in his own power.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
