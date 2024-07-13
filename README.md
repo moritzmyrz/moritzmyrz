@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> To fly, we have to have resistance.
 >
-> <p>- Hannah More</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
