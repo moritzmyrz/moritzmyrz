@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
