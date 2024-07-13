@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
