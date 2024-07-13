@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
