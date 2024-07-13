@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
