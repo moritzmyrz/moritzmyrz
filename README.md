@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
