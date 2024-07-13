@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genius is one per cent inspiration, ninety-nine per cent perspiration.
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- Thomas Edison</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
