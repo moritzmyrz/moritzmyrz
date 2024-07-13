@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Napoleon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
