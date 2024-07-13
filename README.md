@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- John Burroughs</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
