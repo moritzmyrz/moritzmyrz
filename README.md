@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly, we have to have resistance.
+> No man is free who is not master of himself.
 >
-> <p>- Maya Lin</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
