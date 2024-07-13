@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
