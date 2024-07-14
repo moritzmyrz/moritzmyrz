@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Goals are the fuel in the furnace of achievement.
+> The secret of success is constancy to purpose.
 >
-> <p>- Brian Tracy</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
