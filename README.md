@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- Sophocles</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
