@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Conditions fall apart. Persist with diligence.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- The Buddha</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
