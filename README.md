@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Thomas Paine</p>
+> <p>- George Sand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
