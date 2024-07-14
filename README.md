@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Michelangelo</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
