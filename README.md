@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be wronged is nothing unless you continue to remember it.
+> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
 >
-> <p>- Confucius</p>
+> <p>- David Rockefeller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
