@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- Melody Beattie</p>
+> <p>- John Quincy Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
