@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
 >
-> <p>- Lucille Ball</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
