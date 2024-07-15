@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- Winston Churchill</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
