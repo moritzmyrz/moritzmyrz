@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> One man practicing sportsmanship is far better than a hundred teaching it.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Knute Rockne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
