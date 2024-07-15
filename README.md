@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
