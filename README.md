@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Albert Einstein</p>
+> <p>- George Foreman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
