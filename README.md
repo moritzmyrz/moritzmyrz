@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never do things others can do and will do, if there are things others cannot do or will not do.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
