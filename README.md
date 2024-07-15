@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
