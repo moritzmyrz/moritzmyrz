@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
