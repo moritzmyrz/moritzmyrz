@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
