@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The sum of wisdom is that time is never lost that is devoted to work.
+> Never do things others can do and will do, if there are things others cannot do or will not do.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
