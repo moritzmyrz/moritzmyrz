@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Woody Allen</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
