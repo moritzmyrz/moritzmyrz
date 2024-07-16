@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Stephen King</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
