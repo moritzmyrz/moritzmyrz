@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
