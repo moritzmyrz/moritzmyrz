@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Mother Teresa</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
