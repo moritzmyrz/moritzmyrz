@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
