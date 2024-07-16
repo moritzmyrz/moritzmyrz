@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> Get busy living or get busy dying.
 >
-> <p>- William Shakespeare</p>
+> <p>- Stephen King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
