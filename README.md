@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
 >
-> <p>- Richard Bach</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
