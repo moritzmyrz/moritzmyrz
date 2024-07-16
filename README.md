@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To command is to serve, nothing more and nothing less.
+> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
 >
-> <p>- André Malraux</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
