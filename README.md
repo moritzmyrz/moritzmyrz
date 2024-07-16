@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> Love demands infinitely less than friendship.
 >
-> <p>- Winston Churchill</p>
+> <p>- George Jean Nathan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
