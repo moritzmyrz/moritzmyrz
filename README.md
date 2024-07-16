@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
