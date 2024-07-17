@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Phil Jackson</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
