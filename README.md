@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
