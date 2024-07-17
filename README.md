@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
 > <p>- Confucius</p>
 
