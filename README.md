@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> You teach best what you most need to learn.
 >
 > <p>- Richard Bach</p>
 
