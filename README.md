@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Richard Bach</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
