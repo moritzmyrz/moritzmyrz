@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> Better be ignorant of a matter than half know it.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
