@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Princess Diana</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
