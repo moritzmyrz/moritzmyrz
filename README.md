@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- Confucius</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
