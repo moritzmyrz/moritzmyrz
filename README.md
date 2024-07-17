@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+> A rolling stone gathers no moss.
 >
-> <p>- Brian Tracy</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
