@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Confucius</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
