@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
 >
-> <p>- Albert Einstein</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
