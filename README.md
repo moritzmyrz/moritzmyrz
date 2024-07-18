@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> In order to win, you must expect to win.
 >
-> <p>- Woody Allen</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
