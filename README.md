@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
