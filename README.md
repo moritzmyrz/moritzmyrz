@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The deepest craving of human nature is the need to be appreciated.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- William James</p>
+> <p>- Jean François Paul de Gondi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
