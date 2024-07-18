@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- John Pierrakos</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
