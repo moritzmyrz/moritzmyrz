@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's easier to resist at the beginning than at the end.
+> I violated the Noah rule: Predicting rain doesn't count; building arks does.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
