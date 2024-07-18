@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Henry Reed</p>
+> <p>- John Pierrakos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
