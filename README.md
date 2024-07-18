@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
