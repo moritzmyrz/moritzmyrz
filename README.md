@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
