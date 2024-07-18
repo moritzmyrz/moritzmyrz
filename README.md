@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> The man who trusts men will make fewer mistakes than he who distrusts them.
 >
-> <p>- Albert Einstein</p>
+> <p>- Camillo Benso, Count of Cavour</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
