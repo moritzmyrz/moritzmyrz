@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
