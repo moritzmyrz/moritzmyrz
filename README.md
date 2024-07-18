@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
