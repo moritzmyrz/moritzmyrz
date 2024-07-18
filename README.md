@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man who trusts men will make fewer mistakes than he who distrusts them.
+> The simplest things are often the truest.
 >
-> <p>- Camillo Benso, Count of Cavour</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
