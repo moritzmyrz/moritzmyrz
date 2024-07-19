@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
