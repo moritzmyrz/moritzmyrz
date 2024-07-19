@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is 10% what happens to you and 90% how you react to it.
+> There is more wisdom in your body than in your deepest philosophy.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
