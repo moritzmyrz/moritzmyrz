@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I hear and I forget. I see and I remember. I do and I understand.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Confucius</p>
+> <p>- Mignon McLaughlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
