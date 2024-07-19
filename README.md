@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
+> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
 >
-> <p>- Charles Dickens</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
