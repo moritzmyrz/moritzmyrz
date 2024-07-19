@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Confucius</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
