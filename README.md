@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> I can, therefore I am.
 >
-> <p>- Confucius</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
