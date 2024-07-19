@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
 >
-> <p>- Woody Allen</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
