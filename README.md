@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> I hear and I forget. I see and I remember. I do and I understand.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
