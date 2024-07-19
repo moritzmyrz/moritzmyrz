@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- Sigmund Freud</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
