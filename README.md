@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> It is a miracle that curiosity survives formal education.
 >
-> <p>- Laozi</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
