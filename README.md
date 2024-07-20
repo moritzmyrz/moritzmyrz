@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
+> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
 >
-> <p>- Carl Jung</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
