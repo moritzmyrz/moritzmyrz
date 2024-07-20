@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Denis Waitley</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
