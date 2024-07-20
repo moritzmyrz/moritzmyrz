@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> It is in the nature of things that joy arises in a person free from remorse.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
