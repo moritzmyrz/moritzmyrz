@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> Your worst enemy cannot harm you as much as your own unguarded thoughts.
 >
-> <p>- Aristotle</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
