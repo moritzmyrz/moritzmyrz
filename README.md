@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Winston Churchill</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
