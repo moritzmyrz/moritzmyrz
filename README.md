@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Bruce Lee</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
