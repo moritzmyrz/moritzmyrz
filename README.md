@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> The cause is hidden. The effect is visible to all.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
