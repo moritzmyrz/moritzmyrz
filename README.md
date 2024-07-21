@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our distrust is very expensive.
+> Knowledge without justice ought to be called cunning rather than wisdom.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
