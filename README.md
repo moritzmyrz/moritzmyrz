@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience keeps a dear school, but fools will learn in no other.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
