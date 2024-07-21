@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you wish to be a writer, write.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Epictetus</p>
+> <p>- Paulo Coelho</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
