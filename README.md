@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
