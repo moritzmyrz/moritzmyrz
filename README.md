@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Maya Angelou</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
