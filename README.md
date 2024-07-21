@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
