@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> The universe is made of stories, not atoms.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
