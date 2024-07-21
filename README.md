@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Motivation is the art of getting people to do what you want them to do because they want to do it.
+> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
