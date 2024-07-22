@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
