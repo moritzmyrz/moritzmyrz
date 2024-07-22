@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
