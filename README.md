@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a travelling to the edge of knowledge, then a leap taken.
+> We gain the strength of the temptation we resist.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
