@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
