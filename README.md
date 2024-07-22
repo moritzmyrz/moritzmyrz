@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
