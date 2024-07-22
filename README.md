@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Dalai Lama</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
