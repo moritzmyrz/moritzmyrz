@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> Sooner or later, those who win are those who think they can.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
