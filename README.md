@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows himself is enlightened.
+> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
 >
-> <p>- Laozi</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
