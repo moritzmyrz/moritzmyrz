@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- The Buddha</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
