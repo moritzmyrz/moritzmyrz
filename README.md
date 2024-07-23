@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> He that is giddy thinks the world turns round.
 >
-> <p>- John Wooden</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
