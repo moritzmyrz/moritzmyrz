@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
+> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
