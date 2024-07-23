@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In action a great heart is the chief qualification. In work, a great head.
+> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
