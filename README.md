@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's easier to resist at the beginning than at the end.
+> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
