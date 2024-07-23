@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> You might well remember that nothing can bring you success but yourself.
 >
-> <p>- Confucius</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
