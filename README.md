@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
 >
-> <p>- Ovid</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
