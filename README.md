@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Get busy living or get busy dying.
 >
-> <p>- Mark Twain</p>
+> <p>- Stephen King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
