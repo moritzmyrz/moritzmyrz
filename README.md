@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> I have never been hurt by anything I didn't say.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
