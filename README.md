@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- George Foreman</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
