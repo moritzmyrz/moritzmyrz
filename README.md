@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> Appearances are often deceiving.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
