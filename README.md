@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
