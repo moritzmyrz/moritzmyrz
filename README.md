@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
