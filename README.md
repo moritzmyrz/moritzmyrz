@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
