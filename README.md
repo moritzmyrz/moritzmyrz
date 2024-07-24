@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing in life is to be feared. It is only to be understood.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- Marie Curie</p>
+> <p>- Uta Hagen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
