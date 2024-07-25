@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
