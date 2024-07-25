@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
