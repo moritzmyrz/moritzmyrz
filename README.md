@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> Happiness does not come from having much, but from being attached to little.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Cheng Yen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
