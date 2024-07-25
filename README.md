@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- A. Powell Davies</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
