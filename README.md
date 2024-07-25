@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come from having much, but from being attached to little.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Cheng Yen</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
