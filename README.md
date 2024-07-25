@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Laozi</p>
+> <p>- Paavo Nurmi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
