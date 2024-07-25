@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I violated the Noah rule: Predicting rain doesn't count; building arks does.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Warren Buffett</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
