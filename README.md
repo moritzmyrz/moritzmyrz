@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
