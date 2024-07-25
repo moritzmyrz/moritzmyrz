@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
+> Reason and free inquiry are the only effectual agents against error.
 >
-> <p>- Dalai Lama</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
