@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest gift of life is friendship, and I have received it.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
