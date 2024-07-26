@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
+> What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
 >
 > <p>- The Buddha</p>
 
