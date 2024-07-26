@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
 >
-> <p>- Brian Tracy</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
