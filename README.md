@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> Truth is generally the best vindication against slander.
 >
-> <p>- Mother Teresa</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
