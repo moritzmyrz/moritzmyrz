@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Cicero</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
