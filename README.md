@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
