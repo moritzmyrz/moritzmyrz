@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- The Buddha</p>
+> <p>- Ben Hogan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
