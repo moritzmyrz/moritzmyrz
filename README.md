@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- William Shakespeare</p>
+> <p>- Jessamyn West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
