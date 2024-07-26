@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
