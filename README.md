@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Etty Hillesum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
