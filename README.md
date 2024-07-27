@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
+> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
 >
-> <p>- Peter Abelard</p>
+> <p>- Victoria Osteen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
