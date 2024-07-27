@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> Either I will find a way, or I will make one.
 >
-> <p>- John Locke</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
