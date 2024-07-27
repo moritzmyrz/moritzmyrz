@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
