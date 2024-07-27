@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+> I never think of the future. It comes soon enough.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
