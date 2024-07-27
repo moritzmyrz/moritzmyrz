@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+> Don't settle for a relationship that won't let you be yourself.
 >
-> <p>- Stephen Covey</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
