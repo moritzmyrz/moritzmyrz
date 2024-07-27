@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Mike Ditka</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
