@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> You're never a loser until you quit trying.
 >
-> <p>- Henry James</p>
+> <p>- Mike Ditka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
