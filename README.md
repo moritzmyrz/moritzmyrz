@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
 >
-> <p>- Judy Garland</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
