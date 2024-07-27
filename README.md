@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- William Blake</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
