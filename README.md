@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
+> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
 >
-> <p>- Etty Hillesum</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
