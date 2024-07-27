@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
 >
-> <p>- Richard Bach</p>
+> <p>- Stephen Covey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
