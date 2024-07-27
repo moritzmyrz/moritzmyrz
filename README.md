@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Victoria Osteen</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
