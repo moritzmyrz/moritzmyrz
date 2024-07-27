@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> I have always thought the actions of men the best interpreters of their thoughts.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
