@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> Wisdom begins at the end.
 >
-> <p>- Albert Einstein</p>
+> <p>- Daniel Webster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
