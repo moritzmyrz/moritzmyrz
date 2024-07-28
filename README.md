@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think somehow, we learn who we really are and then live with that decision.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
