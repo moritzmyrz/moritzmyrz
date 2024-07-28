@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Woodrow Wilson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
