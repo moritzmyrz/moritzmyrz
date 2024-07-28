@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
