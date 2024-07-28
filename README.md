@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Mark Twain</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
