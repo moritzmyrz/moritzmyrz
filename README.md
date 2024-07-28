@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The first step to getting the things you want out of life is this: decide what you want.
+> Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal.
 >
-> <p>- Ben Stein</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
