@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- Peter Drucker</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
