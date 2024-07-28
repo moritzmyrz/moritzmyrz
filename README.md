@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
