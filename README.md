@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> <p>- Thomas Edison</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
