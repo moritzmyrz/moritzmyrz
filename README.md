@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
