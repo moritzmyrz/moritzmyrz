@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
+> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
 >
-> <p>- The Buddha</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
