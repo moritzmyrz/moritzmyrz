@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
 >
-> <p>- John Quincy Adams</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
