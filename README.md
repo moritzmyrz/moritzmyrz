@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no expedient to which a man will not go to avoid the labor of thinking.
+> The truest greatness lies in being kind, the truest wisdom in a happy mind.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
