@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is the right to live as we wish.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Epictetus</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
