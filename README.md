@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
