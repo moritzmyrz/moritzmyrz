@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
