@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Forrest Church</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
