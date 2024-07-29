@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> Don't leave a stone unturned. It's always something, to know you have done the most you could.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
