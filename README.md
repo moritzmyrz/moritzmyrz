@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Confucius</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
