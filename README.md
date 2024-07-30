@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not engaging in ignorance is wisdom.
+> Your big opportunity may be right where you are now.
 >
-> <p>- Bodhidharma</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
