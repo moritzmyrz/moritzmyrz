@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
