@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.
+> You are always free to change your mind and choose a different future, or a different past.
 >
-> <p>- Albert Einstein</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
