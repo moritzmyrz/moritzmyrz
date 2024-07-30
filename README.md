@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Sophocles</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
