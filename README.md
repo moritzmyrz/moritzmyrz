@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 >
-> <p>- Will Rogers</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
