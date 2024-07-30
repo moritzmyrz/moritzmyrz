@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
