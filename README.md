@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Richard Bach</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
