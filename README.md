@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
