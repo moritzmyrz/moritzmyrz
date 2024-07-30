@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is a serious mental disease.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- Plato</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
