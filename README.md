@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
