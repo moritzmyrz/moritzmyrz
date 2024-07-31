@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
