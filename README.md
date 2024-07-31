@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- George Foreman</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
