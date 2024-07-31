@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> A friend in power is a friend lost.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Henry Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
