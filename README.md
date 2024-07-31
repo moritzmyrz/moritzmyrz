@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm a great believer in luck and I find the harder I work, the more I have of it.
+> We can do no great things, only small things with great love.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
