@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> Peace begins with a smile.
 >
 > <p>- Mother Teresa</p>
 
