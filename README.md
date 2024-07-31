@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
