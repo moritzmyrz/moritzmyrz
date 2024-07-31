@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- John Cleese</p>
+> <p>- John Quincy Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
