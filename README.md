@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Maya Angelou</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
