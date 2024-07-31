@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- Hannah More</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
