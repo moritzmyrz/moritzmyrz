@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything comes to him who hustles while he waits.
+> We are all something, but none of us are everything.
 >
-> <p>- Thomas Edison</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
