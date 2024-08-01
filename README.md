@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> Your worst enemy cannot harm you as much as your own unguarded thoughts.
 >
-> <p>- Mark Twain</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
