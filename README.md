@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great acts are made up of small deeds.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Laozi</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
