@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Confucius</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
