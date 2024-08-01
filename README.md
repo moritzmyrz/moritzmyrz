@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend in power is a friend lost.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Henry Adams</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
