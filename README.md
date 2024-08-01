@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
 >
-> <p>- Richard Bach</p>
+> <p>- William Cowper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
