@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
