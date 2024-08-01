@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A disciplined mind brings happiness.
+> You are that vast thing that you see far, far off with great telescopes.
 >
-> <p>- The Buddha</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
