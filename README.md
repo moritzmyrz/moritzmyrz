@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> The secret of getting ahead is getting started.
 >
-> <p>- William Shakespeare</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
