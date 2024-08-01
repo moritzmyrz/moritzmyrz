@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward.
+> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
 >
-> <p>- Thomas Edison</p>
+> <p>- Basil of Caesarea</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
