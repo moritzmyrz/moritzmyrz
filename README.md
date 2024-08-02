@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Jim Elliot</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
