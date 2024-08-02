@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> The only Zen you find on the tops of mountains is the Zen you bring up there.
 >
-> <p>- Tony Robbins</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
