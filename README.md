@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Jim Elliot</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
