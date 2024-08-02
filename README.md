@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Jeff Bezos</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
