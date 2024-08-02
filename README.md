@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- George Santayana</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
