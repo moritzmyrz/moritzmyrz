@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> It is in your moments of decision that your destiny is shaped.
 >
-> <p>- Confucius</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
