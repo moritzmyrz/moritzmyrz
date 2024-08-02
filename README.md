@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Alfred Korzybski</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
