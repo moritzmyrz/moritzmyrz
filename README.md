@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> If you aren't going all the way, why go at all?
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Joe Namath</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
