@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are that vast thing that you see far, far off with great telescopes.
+> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
 >
-> <p>- Alan Watts</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
