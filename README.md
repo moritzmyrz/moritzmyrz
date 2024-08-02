@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Confucius</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
