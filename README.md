@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> From error to error one discovers the entire truth.
 >
-> <p>- Alan Watts</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
