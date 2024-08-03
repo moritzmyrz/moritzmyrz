@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Archimedes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
