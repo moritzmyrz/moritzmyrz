@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> He that is giddy thinks the world turns round.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
