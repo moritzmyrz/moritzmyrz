@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
