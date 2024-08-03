@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- Confucius</p>
+> <p>- Harold Geneen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
