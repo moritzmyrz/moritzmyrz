@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- William Cowper</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
