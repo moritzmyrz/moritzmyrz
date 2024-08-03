@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Hannah More</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
