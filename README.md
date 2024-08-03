@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
