@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Harold Geneen</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
