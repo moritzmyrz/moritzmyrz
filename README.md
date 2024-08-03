@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- John Lasseter</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
