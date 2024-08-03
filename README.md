@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom begins at the end.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- Daniel Webster</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
