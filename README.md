@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> Inspiration exists, but it has to find us working.
 >
-> <p>- Sophocles</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
