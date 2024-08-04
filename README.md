@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What we achieve inwardly will change outer reality.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Plutarch</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
