@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> The only limit to your impact is your imagination and commitment.
 >
-> <p>- Norman Douglas</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
