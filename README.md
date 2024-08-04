@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> God made me fast. And when I run, I feel His pleasure.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Eric Liddell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
