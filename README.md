@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God made me fast. And when I run, I feel His pleasure.
+> Keep your face always toward the sunshine - and shadows will fall behind you.
 >
-> <p>- Eric Liddell</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
