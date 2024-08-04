@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
+> The pine stays green in winter... wisdom in hardship.
 >
-> <p>- George Herbert</p>
+> <p>- Norman Douglas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
