@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No alibi will save you from accepting the responsibility.
+> What we achieve inwardly will change outer reality.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
