@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> No alibi will save you from accepting the responsibility.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
