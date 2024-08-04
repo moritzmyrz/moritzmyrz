@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
