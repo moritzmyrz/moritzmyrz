@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Rumi</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
