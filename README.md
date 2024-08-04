@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep your face always toward the sunshine - and shadows will fall behind you.
+> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
 >
-> <p>- Walt Whitman</p>
+> <p>- Don DeLillo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
