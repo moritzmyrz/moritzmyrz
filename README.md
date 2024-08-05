@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> The friendship that can cease has never been real.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
