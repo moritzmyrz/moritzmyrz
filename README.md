@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before God we are all equally wise - and equally foolish.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Bercow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
