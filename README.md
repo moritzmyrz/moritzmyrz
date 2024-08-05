@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> Every man is a volume if you know how to read him.
 >
-> <p>- Christie Brinkley</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
