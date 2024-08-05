@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two kinds of failures: those who thought and never did, and those who did and never thought.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
