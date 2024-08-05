@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The friendship that can cease has never been real.
+> Computers are like bikinis. They save people a lot of guesswork.
 >
-> <p>- Jerome</p>
+> <p>- Sam Ewing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
