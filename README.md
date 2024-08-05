@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> Those who dream by day are cognizant of many things which escape those who dream only by night.
 >
-> <p>- Norman Douglas</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
