@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Hannah Szenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
