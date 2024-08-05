@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+> Before God we are all equally wise - and equally foolish.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
