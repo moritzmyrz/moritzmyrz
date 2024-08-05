@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> There are two kinds of failures: those who thought and never did, and those who did and never thought.
 >
 > <p>- Laurence J. Peter</p>
 
