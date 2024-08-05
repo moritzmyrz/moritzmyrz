@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 >
-> <p>- Morihei Ueshiba</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
