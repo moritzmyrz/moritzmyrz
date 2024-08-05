@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fine words and an insinuating appearance are seldom associated with true virtue
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Confucius</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
