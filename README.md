@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Hannah Szenes</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
