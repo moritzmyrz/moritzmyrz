@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be wise by the misfortunes of others than by your own.
+> Patience is the companion of wisdom.
 >
-> <p>- Aesop</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
