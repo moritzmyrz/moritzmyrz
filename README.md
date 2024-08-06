@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Dale Carnegie</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
