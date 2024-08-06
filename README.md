@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> Once you choose hope, anything's possible.
 >
-> <p>- Alexis Carrel</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
