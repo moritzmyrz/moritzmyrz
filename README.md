@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
 >
-> <p>- Isocrates</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
