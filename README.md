@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Sigmund Freud</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
