@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
