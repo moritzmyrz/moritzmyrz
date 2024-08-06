@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
