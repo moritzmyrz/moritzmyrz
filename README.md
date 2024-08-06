@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing in a caterpillar that tells you it's going to be a butterfly.
+> If one does not know to which port is sailing, no wind is favorable.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
