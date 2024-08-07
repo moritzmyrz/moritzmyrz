@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
