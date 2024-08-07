@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
