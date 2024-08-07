@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Kurt Vonnegut</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
