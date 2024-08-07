@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Winston Churchill</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
