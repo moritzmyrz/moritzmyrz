@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- Kurt Vonnegut</p>
+> <p>- Babatunde Olatunji</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
