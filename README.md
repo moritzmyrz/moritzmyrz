@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is Love without his wings!
+> Once you choose hope, anything's possible.
 >
-> <p>- Lord Byron</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
