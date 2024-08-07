@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your talent is God's gift to you. What you do with it is your gift back to God.
+> A day of worry is more exhausting than a day of work.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
