@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- Francis Bacon</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
