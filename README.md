@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
