@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- Jimmy Dean</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
