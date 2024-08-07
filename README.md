@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
+> It is with our passions, as it is with fire and water, they are good servants but bad masters.
 >
-> <p>- Caroline Myss</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
