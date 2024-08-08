@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Ideas pull the trigger, but instinct loads the gun.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Don Marquis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
