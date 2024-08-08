@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Avery Brooks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
