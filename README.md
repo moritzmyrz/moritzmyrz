@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Wayne Dyer</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
