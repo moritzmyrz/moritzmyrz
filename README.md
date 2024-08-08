@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most great people have attained their greatest success just one step beyond their greatest failure.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Sri Chinmoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
