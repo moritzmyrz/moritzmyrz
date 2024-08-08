@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Albert Camus</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
