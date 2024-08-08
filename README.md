@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You yourself must strive. The Buddhas only point the way.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- The Buddha</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
