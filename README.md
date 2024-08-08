@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideas pull the trigger, but instinct loads the gun.
+> From wonder into wonder existence opens.
 >
-> <p>- Don Marquis</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
