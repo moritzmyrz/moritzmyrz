@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> You yourself must strive. The Buddhas only point the way.
 >
-> <p>- Laozi</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
