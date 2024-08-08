@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
