@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> The least of things with a meaning is worth more in life than the greatest of things without it.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
