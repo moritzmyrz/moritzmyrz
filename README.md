@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
