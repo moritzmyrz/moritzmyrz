@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
