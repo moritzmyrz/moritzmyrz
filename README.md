@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How we spend our days is, of course, how we spend our lives.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Annie Dillard</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
