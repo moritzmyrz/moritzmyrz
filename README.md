@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Ella Fitzgerald</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
