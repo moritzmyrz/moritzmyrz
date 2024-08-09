@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
