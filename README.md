@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- Bruce Lee</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
