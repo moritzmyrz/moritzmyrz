@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> The best preparation for tomorrow is doing your best today.
 >
-> <p>- Edward Gibbon</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
