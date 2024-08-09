@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no expedient to which a man will not go to avoid the labor of thinking.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Thomas Edison</p>
+> <p>- Woodrow Wilson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
