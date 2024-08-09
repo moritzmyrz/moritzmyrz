@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
