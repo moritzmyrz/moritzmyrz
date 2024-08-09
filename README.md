@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Dalai Lama</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
