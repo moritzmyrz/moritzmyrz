@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those that know, do. Those that understand, teach.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Aristotle</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
