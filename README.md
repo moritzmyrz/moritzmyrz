@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Albert Einstein</p>
+> <p>- Vernon Cooper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
