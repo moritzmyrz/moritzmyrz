@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- John Wooden</p>
+> <p>- Dale Turner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
