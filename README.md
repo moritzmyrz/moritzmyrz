@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> Nature is a mutable cloud which is always and never the same.
 >
-> <p>- John Lubbock</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
