@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Parker Palmer</p>
+> <p>- Jawaharlal Nehru</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
