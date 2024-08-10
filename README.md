@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Alexander Chalmers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
