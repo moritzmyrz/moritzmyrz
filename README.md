@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- Vernon Cooper</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
