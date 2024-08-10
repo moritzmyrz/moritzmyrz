@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Lou Holtz</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
