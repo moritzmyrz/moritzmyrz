@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Tony Blair</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
