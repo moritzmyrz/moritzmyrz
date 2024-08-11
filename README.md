@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Dale Turner</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
