@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Lord Byron</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
