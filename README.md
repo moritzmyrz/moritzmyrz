@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> A friend is, as it were, a second self.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
