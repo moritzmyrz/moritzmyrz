@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Rumi</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
