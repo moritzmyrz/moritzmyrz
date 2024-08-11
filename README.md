@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+> Those who cling to perceptions and views wander the world offending people.
 >
-> <p>- Dr. Seuss</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
