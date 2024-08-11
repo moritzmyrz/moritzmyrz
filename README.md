@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Sidney Hook</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
