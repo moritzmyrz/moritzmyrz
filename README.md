@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
