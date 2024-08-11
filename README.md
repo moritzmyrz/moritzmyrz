@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The World is my country, all mankind are my brethren, and to do good is my religion.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Thomas Paine</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
