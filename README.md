@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> If you're changing the world, you're working on important things. You're excited to get up in the morning.
 >
-> <p>- Mark Twain</p>
+> <p>- Larry Page</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
