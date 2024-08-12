@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
