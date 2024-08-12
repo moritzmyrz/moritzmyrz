@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
+> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
 >
-> <p>- Ralph Marston</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
