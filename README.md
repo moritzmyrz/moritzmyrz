@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> Whether you think you can or you think you can't, you are right.
 >
-> <p>- Vernon Cooper</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
