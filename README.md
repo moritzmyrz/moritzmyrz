@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> No man is free who is not master of himself.
 >
-> <p>- Winston Churchill</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
