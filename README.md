@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't feed a hundred people, then feed just one.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Mother Teresa</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
