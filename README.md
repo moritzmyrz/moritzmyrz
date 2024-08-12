@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
