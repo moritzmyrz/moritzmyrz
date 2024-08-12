@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> Technology has to be invented or adopted.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
