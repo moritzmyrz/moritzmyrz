@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> Be faithful in small things because it is in them that your strength lies.
 >
-> <p>- Jared Diamond</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
