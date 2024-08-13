@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Democritus</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
