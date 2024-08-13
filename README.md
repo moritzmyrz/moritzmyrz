@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
