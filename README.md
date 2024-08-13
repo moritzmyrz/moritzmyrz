@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> Fortune favors the brave.
 >
-> <p>- Aristotle</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
