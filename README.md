@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fortune favors the brave.
+> I have never been hurt by anything I didn't say.
 >
-> <p>- Virgil</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
