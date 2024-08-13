@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Mother Teresa</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
