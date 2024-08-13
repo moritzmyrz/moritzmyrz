@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
