@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
