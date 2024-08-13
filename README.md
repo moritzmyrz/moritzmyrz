@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Francis of Assisi</p>
+> <p>- J. M. Barrie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
