@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> Happiness depends upon ourselves.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
