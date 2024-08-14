@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Whatever has the nature of arising has the nature of ceasing.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
 > <p>- The Buddha</p>
 
