@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
