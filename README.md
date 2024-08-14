@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> Our lives are a sum total of the choices we have made.
 >
-> <p>- Voltaire</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
