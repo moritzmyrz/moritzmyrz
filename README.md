@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- The Buddha</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
