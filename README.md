@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness depends upon ourselves.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Aristotle</p>
+> <p>- William Inge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
