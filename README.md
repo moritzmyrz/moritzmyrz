@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can dream it, you can do it.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- Walt Disney</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
