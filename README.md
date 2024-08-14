@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a miracle that curiosity survives formal education.
+> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
