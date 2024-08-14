@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> If you can dream it, you can do it.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
