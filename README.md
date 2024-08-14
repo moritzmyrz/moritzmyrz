@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- William Inge</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
