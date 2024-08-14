@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
