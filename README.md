@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- John Keats</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
