@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
 >
-> <p>- Molière</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
