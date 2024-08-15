@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.
 >
-> <p>- John Quincy Adams</p>
+> <p>- Caterina Fake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
