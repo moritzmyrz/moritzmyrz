@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> Either I will find a way, or I will make one.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
