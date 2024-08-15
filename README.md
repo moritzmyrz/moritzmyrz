@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 >
-> <p>- Caterina Fake</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
