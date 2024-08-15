@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Philip Sidney</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
