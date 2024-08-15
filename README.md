@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Charles Du Bos</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
