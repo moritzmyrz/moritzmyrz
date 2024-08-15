@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.
+> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
 >
-> <p>- Mary Pickford</p>
+> <p>- Audre Lorde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
