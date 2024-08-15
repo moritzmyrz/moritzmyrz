@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
 >
-> <p>- Mark Twain</p>
+> <p>- Sam Keen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
