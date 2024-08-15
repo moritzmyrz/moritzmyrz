@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Audre Lorde</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
