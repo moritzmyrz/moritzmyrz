@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- The Buddha</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
