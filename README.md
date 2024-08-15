@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Plotinus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
