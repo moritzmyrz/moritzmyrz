@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Voltaire</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
