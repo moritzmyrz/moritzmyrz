@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Euripides</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
