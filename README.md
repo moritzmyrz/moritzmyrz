@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
