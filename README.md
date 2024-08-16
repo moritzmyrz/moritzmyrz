@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Alan Watts</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
