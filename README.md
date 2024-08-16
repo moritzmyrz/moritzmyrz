@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning is always today.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
