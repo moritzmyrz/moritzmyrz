@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Henry Ford</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
