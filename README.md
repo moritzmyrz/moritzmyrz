@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge rests not upon truth alone, but upon error also.
+> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
 >
-> <p>- Carl Jung</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
