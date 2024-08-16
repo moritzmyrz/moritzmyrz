@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> Honesty is the first chapter in the book of wisdom.
 >
-> <p>- Thomas Edison</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
