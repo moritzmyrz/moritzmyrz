@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> Opportunity is missed by most because it is dressed in overalls and looks like work.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
