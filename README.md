@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
