@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> God made me fast. And when I run, I feel His pleasure.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Eric Liddell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
