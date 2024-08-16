@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> Think for yourselves and let others enjoy the privilege to do so too.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
