@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
 >
-> <p>- Dalai Lama</p>
+> <p>- Cecil B. DeMille</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
