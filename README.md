@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> I never think of the future - it comes soon enough.
 >
-> <p>- Jane Austen</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
