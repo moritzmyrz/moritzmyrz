@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Richard Garriott</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
