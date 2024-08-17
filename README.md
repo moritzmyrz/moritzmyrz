@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Russia is a riddle wrapped in a mystery inside an enigma.
 >
-> <p>- Paul Tillich</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
