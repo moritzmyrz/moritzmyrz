@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You just can't beat the person who never gives up.
+> There never was a good knife made of bad steel.
 >
-> <p>- Babe Ruth</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
