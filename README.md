@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Effort only fully releases its reward after a person refuses to quit.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
