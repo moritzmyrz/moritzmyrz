@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Jane Austen</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
