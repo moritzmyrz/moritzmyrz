@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- John Keats</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
