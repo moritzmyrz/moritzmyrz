@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Francis Bacon</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
