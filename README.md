@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
