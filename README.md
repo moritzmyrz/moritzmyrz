@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- Bruce Lee</p>
+> <p>- James Oppenheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
