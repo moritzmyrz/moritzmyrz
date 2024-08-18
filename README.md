@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Corita Kent</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
