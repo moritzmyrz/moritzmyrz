@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> The man who trusts men will make fewer mistakes than he who distrusts them.
 >
-> <p>- John Dryden</p>
+> <p>- Camillo Benso, Count of Cavour</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
