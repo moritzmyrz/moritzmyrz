@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> A quarrel between friends, when made up, adds a new tie to friendship.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Francis de Sales</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
