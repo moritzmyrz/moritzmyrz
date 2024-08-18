@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
