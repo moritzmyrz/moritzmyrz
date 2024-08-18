@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend in power is a friend lost.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- Henry Adams</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
