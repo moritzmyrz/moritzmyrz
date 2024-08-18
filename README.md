@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's the little details that are vital. Little things make big things happen.
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
-> <p>- John Wooden</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
