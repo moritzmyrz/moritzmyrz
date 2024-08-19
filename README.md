@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Washington Irving</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
