@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> Friends are the siblings God never gave us.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Mencius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
