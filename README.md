@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- Peter Drucker</p>
+> <p>- Ben Hogan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
