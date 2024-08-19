@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> I have learned that to be with those I like is enough.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
