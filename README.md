@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> If you are out to describe the truth, leave elegance to the tailor.
 >
-> <p>- Ben Hogan</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
