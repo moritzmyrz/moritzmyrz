@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Walt Whitman</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
