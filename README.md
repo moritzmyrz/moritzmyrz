@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Will Durant</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
