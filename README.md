@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 >
-> <p>- John Burroughs</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
