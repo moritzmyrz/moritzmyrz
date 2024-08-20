@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
+> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
