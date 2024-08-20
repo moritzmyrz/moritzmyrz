@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
