@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
