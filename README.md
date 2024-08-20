@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
