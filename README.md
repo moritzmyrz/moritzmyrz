@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Aristotle</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
