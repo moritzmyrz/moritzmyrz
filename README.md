@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
