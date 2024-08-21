@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- William James</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
