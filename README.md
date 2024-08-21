@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> Do all things with love.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
