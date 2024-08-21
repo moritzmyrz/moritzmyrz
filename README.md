@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
 >
-> <p>- Mother Teresa</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
