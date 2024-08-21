@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only put off until tomorrow what you are willing to die having left undone.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
