@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> If you do what you've always done, you'll get what you've always gotten.
 >
-> <p>- Martha Washington</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
