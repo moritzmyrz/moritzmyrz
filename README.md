@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> The things that one most wants to do are the things that are probably most worth doing.
 >
-> <p>- Elon Musk</p>
+> <p>- Winifred Holtby</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
