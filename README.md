@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Sandy Koufax</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
