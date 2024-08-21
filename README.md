@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> Faith in oneself is the best and safest course.
 >
-> <p>- Tony Robbins</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
