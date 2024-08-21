@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> I gave my life to become the person I am right now. Was it worth it?
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
