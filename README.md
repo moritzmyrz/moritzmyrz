@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Henry Moore</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
