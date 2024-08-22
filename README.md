@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
 >
-> <p>- Jane Austen</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
