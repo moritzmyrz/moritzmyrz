@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+> Nothing happens unless first we dream.
 >
-> <p>- Bruce Lee</p>
+> <p>- Carl Sandburg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
