@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
