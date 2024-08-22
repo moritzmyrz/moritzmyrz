@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
