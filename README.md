@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> Technology presumes there's just one right way to do things and there never is.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
