@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- Ernie Banks</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
