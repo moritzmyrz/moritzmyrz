@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Betty Friedan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
