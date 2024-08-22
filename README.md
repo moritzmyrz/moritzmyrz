@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- Isocrates</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
