@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology presumes there's just one right way to do things and there never is.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
