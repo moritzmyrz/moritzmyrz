@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge...
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Albert Einstein</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
