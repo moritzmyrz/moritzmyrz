@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> The man of knowledge must be able not only to love his enemies but also to hate his friends.
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
