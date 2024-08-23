@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Horace</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
