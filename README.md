@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- Plato</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
