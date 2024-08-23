@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Denis Waitley</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
