@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Between saying and doing, many a pair of shoes is worn out.
+> Knowledge speaks, but wisdom listens.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Jimi Hendrix</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
