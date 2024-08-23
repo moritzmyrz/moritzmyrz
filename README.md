@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Jack Welch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
