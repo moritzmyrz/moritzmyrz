@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> Things that were hard to bear are sweet to remember.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
