@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
