@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
