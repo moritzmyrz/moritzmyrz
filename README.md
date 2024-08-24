@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> When a thing is done, it's done. Don't look back. Look forward to your next objective.
 >
-> <p>- William Arthur Ward</p>
+> <p>- George Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
