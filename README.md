@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When a thing is done, it's done. Don't look back. Look forward to your next objective.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- George Marshall</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
