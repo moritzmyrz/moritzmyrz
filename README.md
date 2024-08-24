@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Love is the flower you've got to let grow.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
