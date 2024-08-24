@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
 >
-> <p>- Thomas Edison</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
