@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> Wisdom is the power to put our time and our knowledge to the proper use.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Thomas J. Watson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
