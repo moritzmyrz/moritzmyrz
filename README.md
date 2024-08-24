@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Audrey Hepburn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
