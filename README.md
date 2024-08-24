@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
