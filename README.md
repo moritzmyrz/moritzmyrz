@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future is completely open, and we are writing it moment to moment.
+> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
