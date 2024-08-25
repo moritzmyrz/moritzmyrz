@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
