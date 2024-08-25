@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- Aristotle</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
