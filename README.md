@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
