@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
