@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
