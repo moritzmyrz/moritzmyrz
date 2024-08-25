@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
