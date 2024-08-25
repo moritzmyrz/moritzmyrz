@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> If you only have a hammer, you tend to see every problem as a nail.
 >
-> <p>- Dalai Lama</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
