@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.
+> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
 >
-> <p>- Theodore H. White</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
