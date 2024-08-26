@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Robert Schuller</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
