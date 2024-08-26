@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
