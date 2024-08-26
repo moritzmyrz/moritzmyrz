@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
