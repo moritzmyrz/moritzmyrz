@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 >
-> <p>- Winston Churchill</p>
+> <p>- Nikola Tesla</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
