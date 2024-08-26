@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Jane Austen</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
