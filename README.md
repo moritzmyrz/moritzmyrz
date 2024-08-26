@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
+> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
