@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The eye sees only what the mind is prepared to comprehend.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Henri Bergson</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
