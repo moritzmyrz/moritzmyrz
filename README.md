@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
+> We are all something, but none of us are everything.
 >
-> <p>- The Buddha</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
