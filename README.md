@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> If there is no struggle, there is no progress.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
