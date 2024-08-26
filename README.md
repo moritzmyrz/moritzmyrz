@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
 >
-> <p>- Frederick Douglass</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
