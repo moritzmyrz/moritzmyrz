@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
