@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> To hell with circumstances, I create opportunities.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
