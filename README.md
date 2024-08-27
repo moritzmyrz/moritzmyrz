@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Satchel Paige</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
