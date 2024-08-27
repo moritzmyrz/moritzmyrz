@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thomas Hobbes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
