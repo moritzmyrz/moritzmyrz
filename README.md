@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Bad times have a scientific value. These are occasions a good learner would not miss.
+> Do good by stealth, and blush to find it fame.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
