@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
