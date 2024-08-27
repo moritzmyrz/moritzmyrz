@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- The Buddha</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
