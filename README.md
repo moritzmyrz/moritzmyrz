@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> From error to error one discovers the entire truth.
 >
-> <p>- Richard Burton</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
