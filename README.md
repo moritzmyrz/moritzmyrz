@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- Betty Friedan</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
