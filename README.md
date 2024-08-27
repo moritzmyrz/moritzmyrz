@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Alexander Pope</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
