@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all something, but none of us are everything.
+> The man who trusts men will make fewer mistakes than he who distrusts them.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Camillo Benso, Count of Cavour</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
