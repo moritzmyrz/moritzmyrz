@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I let go of what I am, I become what I might be.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- Laozi</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
