@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Laozi</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
