@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do something wonderful, people may imitate it.
+> Leave no stone unturned.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
