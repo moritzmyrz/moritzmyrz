@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
