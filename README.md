@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
 >
-> <p>- Bruce Lee</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
