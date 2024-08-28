@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
