@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 >
-> <p>- Samuel Richardson</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
