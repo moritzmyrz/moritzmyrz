@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Alan Watts</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
