@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Cicero</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
