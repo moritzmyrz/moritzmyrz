@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
