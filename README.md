@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> Radiate boundless love towards the entire world…
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
