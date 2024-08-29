@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- Richard Bach</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
