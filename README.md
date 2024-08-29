@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware of missing chances; otherwise it may be altogether too late someday.
+> You are always free to change your mind and choose a different future, or a different past.
 >
-> <p>- Franz Liszt</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
