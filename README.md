@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Independence is happiness.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Susan B. Anthony</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
