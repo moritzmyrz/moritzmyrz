@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To avoid criticism, do nothing, say nothing, be nothing.
+> Silence is the true friend that never betrays.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
