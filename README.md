@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Louise Hay</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
