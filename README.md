@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
 >
-> <p>- Tony Robbins</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
