@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- David McCullough</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
