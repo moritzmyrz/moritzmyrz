@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
