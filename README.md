@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Richard Whately</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
