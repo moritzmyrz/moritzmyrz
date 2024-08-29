@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
