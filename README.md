@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- John Lennon</p>
+> <p>- John Junor</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
