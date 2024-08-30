@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- Michael Korda</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
