@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+> Excellence is to do a common thing in an uncommon way.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
