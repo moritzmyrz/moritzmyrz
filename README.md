@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An ounce of emotion is equal to a ton of facts.
+> To succeed, we must first believe that we can.
 >
-> <p>- John Junor</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
