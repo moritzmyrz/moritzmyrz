@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Robert Graves</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
