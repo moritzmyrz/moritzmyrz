@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Havelock Ellis</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
