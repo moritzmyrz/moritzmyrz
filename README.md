@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
