@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>- Anatole France</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
