@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Torquato Tasso</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
