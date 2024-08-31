@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
+> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
 >
-> <p>- Peter Abelard</p>
+> <p>- Don DeLillo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
