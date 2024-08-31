@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
 >
-> <p>- George Sand</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
