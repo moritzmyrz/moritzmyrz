@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Bruce Lee</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
