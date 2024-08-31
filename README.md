@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I allow my intuition to lead my path.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Manuel Puig</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
