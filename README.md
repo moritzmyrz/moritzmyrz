@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- The Buddha</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
