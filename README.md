@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+> Never pretend to a love which you do not actually feel, for love is not ours to command.
 >
-> <p>- John Locke</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
