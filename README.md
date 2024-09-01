@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Smile, breathe and go slowly.
 >
-> <p>- Laozi</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
