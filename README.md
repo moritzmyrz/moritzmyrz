@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
