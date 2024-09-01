@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> I never worry about action, but only inaction.
 >
-> <p>- Sophocles</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
