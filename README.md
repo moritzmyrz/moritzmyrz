@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- Mark Twain</p>
+> <p>- Herman Melville</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
