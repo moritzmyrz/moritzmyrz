@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
