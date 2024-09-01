@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- Epictetus</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
