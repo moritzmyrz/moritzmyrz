@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In action a great heart is the chief qualification. In work, a great head.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
