@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
