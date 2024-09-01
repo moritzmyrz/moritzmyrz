@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> Happiness is found in doing, not merely possessing.
 >
-> <p>- Winston Churchill</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
