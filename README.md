@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
