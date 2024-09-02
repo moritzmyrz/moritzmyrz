@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to predict your future is to create it.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Peter Drucker</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
