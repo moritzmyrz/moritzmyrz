@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Jack Buck</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
