@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Vanity can easily overtake wisdom. It usually overtakes common sense.
+> The best way to predict your future is to create it.
 >
-> <p>- Julian Casablancas</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
