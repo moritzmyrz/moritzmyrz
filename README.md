@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- René Descartes</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
