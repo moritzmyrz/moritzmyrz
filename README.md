@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> Life is really simple, but we insist on making it complicated.
 >
-> <p>- John Astin</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
