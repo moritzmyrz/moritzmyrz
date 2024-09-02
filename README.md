@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Richard Bach</p>
+> <p>- Farhan Akhtar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
