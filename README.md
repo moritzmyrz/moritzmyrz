@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
