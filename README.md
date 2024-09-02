@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Confucius</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
