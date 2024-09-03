@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
