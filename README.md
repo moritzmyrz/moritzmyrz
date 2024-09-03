@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
