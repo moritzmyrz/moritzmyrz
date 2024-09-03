@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Confucius</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
