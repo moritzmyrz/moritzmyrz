@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- Blaise Pascal</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
