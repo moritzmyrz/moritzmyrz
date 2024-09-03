@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The gambling known as business looks with austere disfavor upon the business known as gambling.
+> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
