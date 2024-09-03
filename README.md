@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> Happiness is the reward we get for living to the highest right we know.
 >
-> <p>- Euripides</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
