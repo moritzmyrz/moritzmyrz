@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
