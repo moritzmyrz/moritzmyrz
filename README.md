@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> We are wiser than we know.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
