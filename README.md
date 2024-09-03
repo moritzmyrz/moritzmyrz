@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- William C. Menninger</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
