@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Edward Young</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
