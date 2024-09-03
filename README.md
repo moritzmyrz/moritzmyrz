@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Richard Bach</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
