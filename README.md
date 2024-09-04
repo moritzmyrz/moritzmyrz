@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Pat Riley</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
