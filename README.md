@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly, we have to have resistance.
+> Learning is finding out what you already know.
 >
-> <p>- Maya Lin</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
