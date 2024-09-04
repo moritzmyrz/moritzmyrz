@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> The gambling known as business looks with austere disfavor upon the business known as gambling.
 >
-> <p>- Stewart Brand</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
