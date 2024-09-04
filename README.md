@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> He who hath many friends hath none.
 >
-> <p>- William James</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
