@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
