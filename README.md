@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Richard Bach</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
