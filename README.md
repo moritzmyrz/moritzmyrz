@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
 >
-> <p>- Confucius</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
