@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Sai Baba</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
