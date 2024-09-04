@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Alan Watts</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
