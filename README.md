@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- Albert Einstein</p>
+> <p>- Harvey Mackay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
