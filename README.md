@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
+> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
 >
-> <p>- Harvey Mackay</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
