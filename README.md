@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is finding out what you already know.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Richard Bach</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
