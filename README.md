@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
 >
-> <p>- Ovid</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
