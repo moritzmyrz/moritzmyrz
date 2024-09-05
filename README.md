@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
 >
-> <p>- Henry Ford</p>
+> <p>- Susan Orlean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
