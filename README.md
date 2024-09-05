@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> Take rest; a field that has rested gives a bountiful crop.
 >
-> <p>- Laozi</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
