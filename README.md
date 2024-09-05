@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Laozi</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
