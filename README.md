@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- George Herbert</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
