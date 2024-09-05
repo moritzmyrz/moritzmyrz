@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
 >
-> <p>- Napoleon Hill</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
