@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Susan Orlean</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
