@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- The Buddha</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
