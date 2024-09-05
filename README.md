@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
 >
-> <p>- Dalai Lama</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
