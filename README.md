@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Andy Warhol</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
