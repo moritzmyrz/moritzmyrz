@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
