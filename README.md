@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> The friendship that can cease has never been real.
 >
-> <p>- Euripides</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
