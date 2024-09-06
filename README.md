@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A goal without a plan is just a wish.
+> Ask yourself the secret of your success. Listen to your answer and practice it.
 >
-> <p>- Larry Elder</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
