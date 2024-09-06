@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
