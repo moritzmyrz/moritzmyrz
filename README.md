@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ask yourself the secret of your success. Listen to your answer and practice it.
+> The most successful people are those who are good at plan B.
 >
-> <p>- Richard Bach</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
