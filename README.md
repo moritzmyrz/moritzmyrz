@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> 'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.
+> Life has no blessing like a prudent friend.
 >
-> <p>- The Buddha</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
