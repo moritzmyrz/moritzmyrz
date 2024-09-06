@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom.
+> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
 >
-> <p>- The Buddha</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
