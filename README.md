@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that exists is in a manner the seed of that which will be.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
