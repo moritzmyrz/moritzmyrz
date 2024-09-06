@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Chuck Norris</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
