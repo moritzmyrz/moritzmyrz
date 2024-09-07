@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> What we see depends mainly on what we look for.
 >
-> <p>- Dalai Lama</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
