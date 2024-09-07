@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Aim for the moon. If you miss, you may hit a star.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
