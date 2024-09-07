@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
