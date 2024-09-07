@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.
 >
-> <p>- Bernice Reagon</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
