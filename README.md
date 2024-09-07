@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- The Buddha</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
