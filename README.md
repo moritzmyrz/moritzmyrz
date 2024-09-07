@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who conquers others is strong; He who conquers himself is mighty.
+> Aim for the moon. If you miss, you may hit a star.
 >
-> <p>- Laozi</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
