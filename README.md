@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Diogenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
