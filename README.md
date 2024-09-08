@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Jim Bouton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
