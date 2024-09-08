@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
 > <p>- Ralph Waldo Emerson</p>
 
