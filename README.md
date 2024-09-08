@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
