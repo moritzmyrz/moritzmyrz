@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
