@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Tom Krause</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
