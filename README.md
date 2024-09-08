@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
