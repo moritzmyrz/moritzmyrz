@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Diogenes</p>
+> <p>- Jon Kabat-Zinn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
