@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
