@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- Harriet Tubman</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
