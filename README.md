@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- Epictetus</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
