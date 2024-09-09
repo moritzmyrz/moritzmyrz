@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Victor Hugo</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
