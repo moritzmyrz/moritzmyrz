@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
 >
-> <p>- The Buddha</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
