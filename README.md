@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we are no longer able to change a situation - we are challenged to change ourselves.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Viktor Frankl</p>
+> <p>- Maureen Dowd</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
