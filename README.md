@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Norman Schwarzkopf</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
