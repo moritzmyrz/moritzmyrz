@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is someone who gives you total freedom to be yourself.
+> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
 >
-> <p>- Jim Morrison</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
