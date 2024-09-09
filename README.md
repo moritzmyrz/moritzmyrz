@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Confucius</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
