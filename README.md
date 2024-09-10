@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> Every problem has a gift for you in its hands.
 >
-> <p>- John Lennon</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
