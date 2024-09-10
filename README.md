@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
+> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
 >
-> <p>- Amy Bloom</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
