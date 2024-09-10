@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most formidable weapon against errors of every kind is reason.
+> Irony is the gaiety of reflection and the joy of wisdom.
 >
-> <p>- Thomas Paine</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
