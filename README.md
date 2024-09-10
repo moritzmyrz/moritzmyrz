@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every problem has a gift for you in its hands.
+> You have to believe in yourself.
 >
-> <p>- Richard Bach</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
