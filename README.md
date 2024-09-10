@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> A disciplined mind brings happiness.
 >
-> <p>- Mark Twain</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
