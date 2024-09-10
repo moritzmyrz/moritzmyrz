@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
