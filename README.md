@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- Oscar Wilde</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
