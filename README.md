@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Sun Tzu</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
