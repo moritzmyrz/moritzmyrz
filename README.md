@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A disciplined mind brings happiness.
+> Technology is teaching us to be human again.
 >
-> <p>- The Buddha</p>
+> <p>- Simon Mainwaring</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
