@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> The secret of success is constancy to purpose.
 >
-> <p>- Robert Schuller</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
