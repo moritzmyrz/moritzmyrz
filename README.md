@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 >
-> <p>- Dalai Lama</p>
+> <p>- Harriet Tubman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
