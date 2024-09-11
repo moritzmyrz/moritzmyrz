@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
