@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No bird soars too high if he soars with his own wings.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- William Blake</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
