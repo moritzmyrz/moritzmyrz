@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
+> Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
 >
-> <p>- Confucius</p>
+> <p>- Thomas Aquinas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
