@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
