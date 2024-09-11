@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> No bird soars too high if he soars with his own wings.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
