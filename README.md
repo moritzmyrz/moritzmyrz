@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you learn, teach. When you get, give.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- Maya Angelou</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
