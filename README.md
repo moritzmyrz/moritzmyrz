@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> Life is what happens while you are making other plans.
 >
-> <p>- Publilius Syrus</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
