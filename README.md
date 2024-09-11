@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Blessed is the man who expects nothing, for he shall never be disappointed.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Alexander Pope</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
