@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
