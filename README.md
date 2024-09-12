@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> Some people go to priests; others to poetry; I to my friends.
 >
-> <p>- Winston Churchill</p>
+> <p>- Virginia Woolf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
