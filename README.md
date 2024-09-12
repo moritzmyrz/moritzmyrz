@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
