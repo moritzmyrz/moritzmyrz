@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Plato</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
