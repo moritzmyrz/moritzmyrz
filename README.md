@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
