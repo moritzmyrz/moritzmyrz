@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> Silence is the true friend that never betrays.
 >
-> <p>- Marcel Proust</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
