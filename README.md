@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Woody Allen</p>
+> <p>- Paulo Coelho</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
