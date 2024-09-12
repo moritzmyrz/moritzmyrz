@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Franz Grillparzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
