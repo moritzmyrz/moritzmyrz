@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> Every man is a volume if you know how to read him.
 >
-> <p>- Mark Twain</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
