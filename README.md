@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Ezra Stiles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
