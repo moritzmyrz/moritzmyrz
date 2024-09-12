@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+> If you're going through hell, keep going.
 >
-> <p>- Brian Tracy</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
