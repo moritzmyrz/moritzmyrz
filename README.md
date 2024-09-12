@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no fear for one whose mind is not filled with desires.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- The Buddha</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
