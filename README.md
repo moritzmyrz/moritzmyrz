@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
