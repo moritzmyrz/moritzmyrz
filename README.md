@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Confucius</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
