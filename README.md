@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
