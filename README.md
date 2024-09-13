@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ravi Zacharias</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
