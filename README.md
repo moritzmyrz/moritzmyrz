@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
+> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
