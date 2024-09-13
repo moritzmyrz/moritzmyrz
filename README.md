@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> Love and friendship exclude each other.
 >
-> <p>- Erasmus</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
