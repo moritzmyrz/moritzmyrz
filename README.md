@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be yourself; everyone else is already taken.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
