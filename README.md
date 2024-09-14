@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Euripides</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
