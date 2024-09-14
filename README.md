@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
