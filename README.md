@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Lou Holtz</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
