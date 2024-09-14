@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
+> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
 >
-> <p>- Denis Waitley</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
