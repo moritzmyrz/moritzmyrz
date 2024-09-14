@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
