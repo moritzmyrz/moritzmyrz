@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> There is no charm equal to tenderness of heart.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
