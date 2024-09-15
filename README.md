@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Jim Rohn</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
