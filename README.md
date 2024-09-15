@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> Music is a higher revelation than all wisdom and philosophy.
 >
-> <p>- The Buddha</p>
+> <p>- Ludwig van Beethoven</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
