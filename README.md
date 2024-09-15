@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> I do not know the American gentleman, god forgive me for putting two such words together.
+> Train up a fig tree in the way it should go, and when you are old sit under the shade of it.
 >
 > <p>- Charles Dickens</p>
 
