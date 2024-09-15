@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- Peter Drucker</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
