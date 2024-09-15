@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- John Locke</p>
+> <p>- Joseph Prince</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
