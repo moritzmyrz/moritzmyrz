@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Laozi</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
