@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
+> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
 >
-> <p>- The Buddha</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
