@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> Give whatever you are doing and whoever you are with the gift of your attention.
 >
-> <p>- Joseph Prince</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
