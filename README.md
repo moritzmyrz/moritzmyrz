@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The first step to getting the things you want out of life is this: decide what you want.
+> Our intention creates our reality.
 >
-> <p>- Ben Stein</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
