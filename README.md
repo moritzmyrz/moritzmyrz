@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> The price of greatness is responsibility.
 >
-> <p>- Confucius</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
