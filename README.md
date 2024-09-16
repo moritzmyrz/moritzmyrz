@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
