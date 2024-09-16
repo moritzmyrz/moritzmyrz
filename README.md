@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
