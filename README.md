@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> Believe you can and you're halfway there.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
