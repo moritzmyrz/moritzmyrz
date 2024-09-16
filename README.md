@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
