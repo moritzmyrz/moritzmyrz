@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The price of greatness is responsibility.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- Winston Churchill</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
