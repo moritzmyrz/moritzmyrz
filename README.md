@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Vernon Cooper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
