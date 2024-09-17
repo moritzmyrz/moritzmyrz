@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
+> I never did anything worth doing by accident, nor did any of my inventions come by accident
 >
-> <p>- Winston Churchill</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
