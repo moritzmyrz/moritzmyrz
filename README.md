@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
+> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
 >
 > <p>- Winston Churchill</p>
 
