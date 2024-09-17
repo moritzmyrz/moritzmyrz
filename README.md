@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
