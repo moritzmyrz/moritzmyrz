@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> The best preparation for tomorrow is doing your best today.
 >
-> <p>- Pema Chödrön</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
