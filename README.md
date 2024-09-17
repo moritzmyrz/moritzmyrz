@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
 >
-> <p>- Horace</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
