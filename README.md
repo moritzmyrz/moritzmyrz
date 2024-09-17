@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 >
-> <p>- Francis of Assisi</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
