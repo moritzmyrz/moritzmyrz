@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never did anything worth doing by accident, nor did any of my inventions come by accident
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Thomas Edison</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
