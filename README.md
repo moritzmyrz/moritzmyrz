@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Paramahansa Yogananda</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
