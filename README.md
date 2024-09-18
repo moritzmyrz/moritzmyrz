@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> The young man knows the rules, but the old man knows the exceptions.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
