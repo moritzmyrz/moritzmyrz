@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
