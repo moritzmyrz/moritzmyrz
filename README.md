@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Lewis Cass</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
