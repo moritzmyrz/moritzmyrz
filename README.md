@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we are no longer able to change a situation - we are challenged to change ourselves.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Viktor Frankl</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
