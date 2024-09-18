@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
