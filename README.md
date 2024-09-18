@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
+> We can do no great things, only small things with great love.
 >
-> <p>- The Buddha</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
