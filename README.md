@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Alfred Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
