@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Richard Bach</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
