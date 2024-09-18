@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
