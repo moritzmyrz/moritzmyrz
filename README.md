@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Laozi</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
