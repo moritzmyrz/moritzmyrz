@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Doug Horton</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
