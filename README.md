@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Robert Kiyosaki</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
