@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
