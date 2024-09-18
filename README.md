@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Go for it now. The future is promised to no one.
 >
-> <p>- Epictetus</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
