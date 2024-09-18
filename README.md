@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
