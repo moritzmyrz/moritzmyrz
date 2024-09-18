@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Aristotle</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
