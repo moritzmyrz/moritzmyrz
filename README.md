@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust only movement. Life happens at the level of events, not of words. Trust movement.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Alfred Adler</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
