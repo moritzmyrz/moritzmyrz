@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Richard Bach</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
