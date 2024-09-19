@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whether you think you can or you think you can't, you are right.
+> Your friend is your needs answered.
 >
-> <p>- Henry Ford</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
