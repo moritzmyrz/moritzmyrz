@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
 >
-> <p>- Dhammapada</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
