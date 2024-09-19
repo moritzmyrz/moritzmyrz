@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All I required to be happy was friendship and people I could admire.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Christian Dior</p>
+> <p>- Dhammapada</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
