@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
+> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
 >
-> <p>- Edward de Bono</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
