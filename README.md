@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> All I required to be happy was friendship and people I could admire.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Christian Dior</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
