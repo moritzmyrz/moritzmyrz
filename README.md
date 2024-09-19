@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Erasmus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
