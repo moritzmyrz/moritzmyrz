@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
+> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
 >
-> <p>- John Lennon</p>
+> <p>- Ralph Abernathy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
