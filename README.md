@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Isocrates</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
