@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
 >
-> <p>- Erasmus</p>
+> <p>- Edward de Bono</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
