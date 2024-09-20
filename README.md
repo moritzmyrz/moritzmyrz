@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> Not all those who wander are lost.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
