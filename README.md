@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> Ignorance never settles a question.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
