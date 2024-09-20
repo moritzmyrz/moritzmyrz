@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
