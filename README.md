@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
