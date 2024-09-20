@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Feeling and longing are the motive forces behind all human endeavor and human creations.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
 > <p>- Albert Einstein</p>
 
