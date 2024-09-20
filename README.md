@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
