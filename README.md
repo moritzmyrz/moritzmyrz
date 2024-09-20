@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Carl Jung</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
