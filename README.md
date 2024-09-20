@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
+> Life is a progress, and not a station.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
