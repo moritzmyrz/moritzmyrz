@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Charles Lamb</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
