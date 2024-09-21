@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- René Descartes</p>
+> <p>- Charles Darwin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
