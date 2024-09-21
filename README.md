@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Maya Angelou</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
