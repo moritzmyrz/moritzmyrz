@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You might well remember that nothing can bring you success but yourself.
+> One today is worth two tomorrows.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
