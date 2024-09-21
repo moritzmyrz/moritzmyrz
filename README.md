@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
