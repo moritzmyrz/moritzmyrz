@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Laozi</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
