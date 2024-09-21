@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
+> You might well remember that nothing can bring you success but yourself.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
