@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great minds discuss ideas; average minds discuss events; small minds discuss people.
+> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
