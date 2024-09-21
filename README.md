@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All this modern technology just makes people try to do everything at once.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Bill Watterson</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
