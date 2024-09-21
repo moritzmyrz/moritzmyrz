@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
