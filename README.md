@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> As an organizer I start from where the world is, as it is, not as I would like it to be.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Saul Alinsky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
