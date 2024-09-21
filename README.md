@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep yourself to the sunshine and you cannot see the shadow.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Helen Keller</p>
+> <p>- Charles Lamb</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
