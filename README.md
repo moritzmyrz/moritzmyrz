@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
