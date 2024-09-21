@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Bruce Lee</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
