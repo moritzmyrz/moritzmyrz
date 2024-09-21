@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
