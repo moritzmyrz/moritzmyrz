@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Alan Watts</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
