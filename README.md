@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
