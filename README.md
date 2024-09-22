@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- John Keats</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
