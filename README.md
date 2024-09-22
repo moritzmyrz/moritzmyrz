@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> The least of things with a meaning is worth more in life than the greatest of things without it.
 >
-> <p>- The Buddha</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
