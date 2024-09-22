@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
 >
-> <p>- Will Durant</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
