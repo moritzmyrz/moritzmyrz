@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- Woody Allen</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
