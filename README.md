@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Doug Horton</p>
+> <p>- E. E. Cummings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
