@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Bruce Lee</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
