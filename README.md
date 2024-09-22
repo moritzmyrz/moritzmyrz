@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All I required to be happy was friendship and people I could admire.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Christian Dior</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
