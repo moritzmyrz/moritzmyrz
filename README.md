@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
