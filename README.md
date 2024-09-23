@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
