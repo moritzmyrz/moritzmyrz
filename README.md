@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Albert Einstein</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
