@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Efficiency is doing things right; effectiveness is doing the right things.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
