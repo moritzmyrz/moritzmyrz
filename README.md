@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> Your friend is your needs answered.
 >
-> <p>- Mother Teresa</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
