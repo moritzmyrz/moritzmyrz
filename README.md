@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> Be faithful in small things because it is in them that your strength lies.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
