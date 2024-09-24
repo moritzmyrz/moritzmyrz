@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
