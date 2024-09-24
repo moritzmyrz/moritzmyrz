@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> Anybody can make history. Only a great man can write it.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
