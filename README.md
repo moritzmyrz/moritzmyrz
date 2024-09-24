@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Albert Camus</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
