@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never, never, never give up.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Winston Churchill</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
