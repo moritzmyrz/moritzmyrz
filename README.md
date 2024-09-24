@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
