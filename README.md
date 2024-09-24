@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Maya Angelou</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
