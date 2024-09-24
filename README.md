@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is someone who is there for you when he'd rather be anywhere else.
+> We shall never know all the good that a simple smile can do.
 >
-> <p>- Len Wein</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
