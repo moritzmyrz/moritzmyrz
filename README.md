@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> A true friend is someone who is there for you when he'd rather be anywhere else.
 >
-> <p>- Mother Teresa</p>
+> <p>- Len Wein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
