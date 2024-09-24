@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> Accept the challenges so that you can feel the exhilaration of victory.
 >
-> <p>- Lucille Ball</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
