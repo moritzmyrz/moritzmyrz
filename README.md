@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anybody can make history. Only a great man can write it.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
