@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
+> It is impossible to love and to be wise.
 >
-> <p>- Epictetus</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
