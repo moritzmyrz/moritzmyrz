@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Today you are you! That is truer than true! There is no one alive who is you-er than you!
+> Don't wait. The time will never be just right.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
