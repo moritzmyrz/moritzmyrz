@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Brendan Behan</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
