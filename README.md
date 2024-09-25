@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
