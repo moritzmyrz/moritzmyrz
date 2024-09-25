@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Laozi</p>
+> <p>- Grandma Moses</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
