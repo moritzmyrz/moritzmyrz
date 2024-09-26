@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
