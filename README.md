@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship ought never to conceal what it thinks.
+> There are three faithful friends - an old wife, an old dog, and ready money.
 >
-> <p>- Jerome</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
