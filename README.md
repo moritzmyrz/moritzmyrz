@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> If you want a thing done well, do it yourself.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
