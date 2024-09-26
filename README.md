@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Mother Teresa</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
