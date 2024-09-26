@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
