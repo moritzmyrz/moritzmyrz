@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
+> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
 >
-> <p>- Alan Watts</p>
+> <p>- Elizabeth Kapu'uwailani Lindsey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
