@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- Stewart Brand</p>
+> <p>- Sogyal Rinpoche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
