@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
