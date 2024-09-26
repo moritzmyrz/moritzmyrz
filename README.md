@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
