@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
 >
-> <p>- Francis Bacon</p>
+> <p>- Tryon Edwards</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
