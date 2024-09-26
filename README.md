@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want a thing done well, do it yourself.
+> True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
 >
-> <p>- Napoleon</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
