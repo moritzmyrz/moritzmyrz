@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Wolfgang Amadeus Mozart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
