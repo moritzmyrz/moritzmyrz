@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wisest men follow their own direction.
+> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
 >
-> <p>- Euripides</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
