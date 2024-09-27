@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
