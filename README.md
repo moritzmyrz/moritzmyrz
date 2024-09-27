@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- Francis de Sales</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
