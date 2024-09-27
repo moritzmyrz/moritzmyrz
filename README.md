@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Maya Angelou</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
