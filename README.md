@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Albert Einstein</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
