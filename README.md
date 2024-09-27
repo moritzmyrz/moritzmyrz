@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> A quarrel between friends, when made up, adds a new tie to friendship.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Francis de Sales</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
