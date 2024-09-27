@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest way to live with honor in this world is to be what we pretend to be.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Socrates</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
