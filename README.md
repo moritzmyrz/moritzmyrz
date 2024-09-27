@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> If I know what love is, it is because of you.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
