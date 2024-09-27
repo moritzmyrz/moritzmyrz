@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Edith Wharton</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
