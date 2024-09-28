@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
