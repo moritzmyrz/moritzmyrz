@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
+> Applause is a receipt, not a bill.
 >
-> <p>- The Buddha</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
