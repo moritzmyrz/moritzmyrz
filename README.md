@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- William Hazlitt</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
