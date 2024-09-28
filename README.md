@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- Epictetus</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
