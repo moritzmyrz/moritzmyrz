@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
