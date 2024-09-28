@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- Amy Tan</p>
+> <p>- Harvey Mackay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
