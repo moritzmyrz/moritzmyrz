@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The bird of paradise alights only upon the hand that does not grasp.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- John Berry</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
