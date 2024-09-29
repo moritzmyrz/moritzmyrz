@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- Laozi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
