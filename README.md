@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
 >
-> <p>- Richard Bach</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
