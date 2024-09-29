@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
