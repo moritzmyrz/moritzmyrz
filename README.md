@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Aristotle</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
