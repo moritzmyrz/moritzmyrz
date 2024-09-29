@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
+> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
 >
-> <p>- Anaïs Nin</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
