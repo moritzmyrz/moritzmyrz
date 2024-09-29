@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All things change; nothing perishes.
+> Memory is the mother of all wisdom.
 >
-> <p>- Ovid</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
