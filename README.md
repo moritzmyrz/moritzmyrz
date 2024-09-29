@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
