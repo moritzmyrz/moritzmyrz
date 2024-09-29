@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> There is nothing permanent except change.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
