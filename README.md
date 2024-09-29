@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> Friendship is Love without his wings!
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
