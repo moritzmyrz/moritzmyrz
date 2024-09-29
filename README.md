@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Richard Bach</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
