@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- William Penn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
