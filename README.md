@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
 >
-> <p>- Confucius</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
