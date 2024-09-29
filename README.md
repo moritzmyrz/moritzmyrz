@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> All things change; nothing perishes.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
