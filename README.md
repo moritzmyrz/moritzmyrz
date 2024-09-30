@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Lucille Ball</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
