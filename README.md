@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Carl Jung</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
