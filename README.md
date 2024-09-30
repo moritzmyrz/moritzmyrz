@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> In order to succeed, we must first believe that we can.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
