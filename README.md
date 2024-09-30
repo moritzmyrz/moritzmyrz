@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep yourself to the sunshine and you cannot see the shadow.
+> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 >
-> <p>- Helen Keller</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
