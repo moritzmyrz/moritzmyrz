@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Betty Friedan</p>
+> <p>- Thornton Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
