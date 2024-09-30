@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
 >
-> <p>- Jane Austen</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
