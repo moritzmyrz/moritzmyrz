@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to succeed, we must first believe that we can.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
