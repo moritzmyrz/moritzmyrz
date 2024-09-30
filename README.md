@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Sophocles</p>
+> <p>- Henri Poincaré</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
