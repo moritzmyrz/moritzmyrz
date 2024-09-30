@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
