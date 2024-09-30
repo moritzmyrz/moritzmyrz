@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one does not know to which port one is sailing, no wind is favorable.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
