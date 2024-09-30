@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> There is no charm equal to tenderness of heart.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
