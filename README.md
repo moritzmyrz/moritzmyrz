@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> Value your friendship. Value your relationships.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
