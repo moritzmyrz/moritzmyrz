@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Václav Havel</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
