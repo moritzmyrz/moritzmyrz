@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Carl Jung</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
