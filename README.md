@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
