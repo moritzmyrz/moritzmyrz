@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Peace begins with a smile.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
