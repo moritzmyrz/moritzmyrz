@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Cecil B. DeMille</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
