@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
