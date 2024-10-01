@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow in choosing a friend, slower in changing.
+> The only journey is the one within.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Rainer Maria Rilke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
