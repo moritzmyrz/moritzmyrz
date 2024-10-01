@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> Be slow in choosing a friend, slower in changing.
 >
-> <p>- Tony Robbins</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
