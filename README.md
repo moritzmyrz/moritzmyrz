@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
