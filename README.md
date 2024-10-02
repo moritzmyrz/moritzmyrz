@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
