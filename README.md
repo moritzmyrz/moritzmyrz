@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't compromise yourself. You are all you've got.
+> To fly as fast as thought, you must begin by knowing that you have already arrived.
 >
-> <p>- Janis Joplin</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
