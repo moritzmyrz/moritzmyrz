@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly as fast as thought, you must begin by knowing that you have already arrived.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Richard Bach</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
