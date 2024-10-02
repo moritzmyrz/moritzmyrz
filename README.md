@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
