@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do all things with love.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Og Mandino</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
