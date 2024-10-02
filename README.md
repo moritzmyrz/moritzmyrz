@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust only movement. Life happens at the level of events, not of words. Trust movement.
+> A failure is a man who has blundered but is not capable of cashing in on the experience.
 >
-> <p>- Alfred Adler</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
