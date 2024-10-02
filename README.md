@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is like a sewer. What you get out of it depends on what you put into it.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- Tom Lehrer</p>
+> <p>- Jessamyn West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
