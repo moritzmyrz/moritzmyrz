@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> Do all things with love.
 >
-> <p>- Woody Allen</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
