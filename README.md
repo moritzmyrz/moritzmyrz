@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Henry Ford</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
