@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
