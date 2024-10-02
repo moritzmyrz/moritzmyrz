@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A failure is a man who has blundered but is not capable of cashing in on the experience.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
