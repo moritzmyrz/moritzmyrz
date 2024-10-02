@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
