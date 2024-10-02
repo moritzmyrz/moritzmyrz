@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more man meditates upon good thoughts, the better will be his world and the world at large.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Confucius</p>
+> <p>- Alfred Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
