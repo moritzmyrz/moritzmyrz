@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What we achieve inwardly will change outer reality.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Plutarch</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
