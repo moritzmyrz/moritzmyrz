@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
 >
-> <p>- Henry Miller</p>
+> <p>- Don DeLillo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
