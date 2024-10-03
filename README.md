@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- Edith Wharton</p>
+> <p>- Alfred Tennyson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
