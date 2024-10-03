@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Sam Walton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
