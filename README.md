@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
+> Be great in act, as you have been in thought.
 >
-> <p>- Alfred Tennyson</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
