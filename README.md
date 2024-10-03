@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
+> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
 >
-> <p>- Don DeLillo</p>
+> <p>- Hugo Black</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
