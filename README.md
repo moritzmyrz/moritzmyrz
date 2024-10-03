@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Mark Twain</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
