@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
+> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Mother Angelica</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
