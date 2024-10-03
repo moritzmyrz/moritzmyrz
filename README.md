@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> In order to win, you must expect to win.
 >
-> <p>- William Blake</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
