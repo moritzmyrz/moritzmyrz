@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Edith Wharton</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
