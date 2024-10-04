@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
 >
-> <p>- Robert Schuller</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
