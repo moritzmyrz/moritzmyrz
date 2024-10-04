@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Paavo Nurmi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
