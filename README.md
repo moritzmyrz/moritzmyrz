@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Cicero</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
