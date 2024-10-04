@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Doris Mortman</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
