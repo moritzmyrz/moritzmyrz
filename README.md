@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- William Shakespeare</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
