@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- John Locke</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
