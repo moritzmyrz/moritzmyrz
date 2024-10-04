@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Albert Einstein</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
