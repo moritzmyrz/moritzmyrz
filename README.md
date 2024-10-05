@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Dalai Lama</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
