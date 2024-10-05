@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- Princess Diana</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
