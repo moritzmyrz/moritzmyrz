@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep yourself to the sunshine and you cannot see the shadow.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Helen Keller</p>
+> <p>- Grandma Moses</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
