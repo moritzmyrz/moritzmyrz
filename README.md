@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Spread love everywhere you go. Let no one ever come to you without leaving happier.
+> They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
