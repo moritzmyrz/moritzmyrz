@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 >
-> <p>- Winston Churchill</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
