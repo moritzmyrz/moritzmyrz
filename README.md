@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
