@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
+> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
 >
-> <p>- Winston Churchill</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
