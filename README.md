@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
