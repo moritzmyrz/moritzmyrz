@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The deepest craving of human nature is the need to be appreciated.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- William James</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
