@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Grandma Moses</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
