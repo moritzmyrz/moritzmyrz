@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
+> Keep yourself to the sunshine and you cannot see the shadow.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
