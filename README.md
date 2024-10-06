@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Dalai Lama</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
