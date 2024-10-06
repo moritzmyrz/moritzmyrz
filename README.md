@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
