@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
 >
-> <p>- Demosthenes</p>
+> <p>- Alfred Korzybski</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
