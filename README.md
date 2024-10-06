@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is the sleep that nourishes wisdom.
+> All great achievements require time.
 >
-> <p>- Francis Bacon</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
