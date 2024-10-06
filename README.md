@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not so much our friends' help that helps us, as the confidence of their help.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Epicurus</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
