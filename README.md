@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Judy Collins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
