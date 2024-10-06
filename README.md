@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is just a chance to grow a soul.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
