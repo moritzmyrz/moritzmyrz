@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
