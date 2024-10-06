@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> No man is free who is not master of himself.
 >
-> <p>- George Herbert</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
