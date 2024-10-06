@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
