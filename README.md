@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- Anne Frank</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
