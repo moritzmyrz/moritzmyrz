@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man is free who is not master of himself.
+> Small opportunities are often the beginning of great enterprises.
 >
-> <p>- Epictetus</p>
+> <p>- Demosthenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
