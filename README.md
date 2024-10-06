@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
