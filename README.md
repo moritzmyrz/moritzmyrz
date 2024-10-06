@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
 >
-> <p>- Barack Obama</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
