@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great achievements require time.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Maya Angelou</p>
+> <p>- Ella Fitzgerald</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
