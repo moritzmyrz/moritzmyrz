@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is of no value unless you put it into practice.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
