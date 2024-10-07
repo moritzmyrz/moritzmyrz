@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Jim Rohn</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
