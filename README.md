@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man is free who is not master of himself.
+> You're never a loser until you quit trying.
 >
-> <p>- Epictetus</p>
+> <p>- Mike Ditka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
