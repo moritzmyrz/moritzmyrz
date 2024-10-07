@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
+> Either you run the day or the day runs you.
 >
-> <p>- Jonathan Swift</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
