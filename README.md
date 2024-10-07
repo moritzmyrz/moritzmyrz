@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+> The world is but a canvas to the imagination.
 >
-> <p>- Dalai Lama</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
