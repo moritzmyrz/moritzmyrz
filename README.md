@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Woody Allen</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
