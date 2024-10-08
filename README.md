@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who hath many friends hath none.
+> Genuine sincerity opens people's hearts, while manipulation causes them to close.
 >
-> <p>- Aristotle</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
