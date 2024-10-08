@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
+> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 >
-> <p>- The Buddha</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
