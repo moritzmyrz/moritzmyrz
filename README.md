@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Mark Twain</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
