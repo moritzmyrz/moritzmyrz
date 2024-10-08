@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Epictetus</p>
+> <p>- Maureen Dowd</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
