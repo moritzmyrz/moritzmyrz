@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Resolutely train yourself to attain peace.
+> He who hath many friends hath none.
 >
-> <p>- The Buddha</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
