@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> Fans don't boo nobodies.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
