@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> Do what you can. Want what you have. Be who you are.
 >
-> <p>- Aristotle</p>
+> <p>- Forrest Church</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
