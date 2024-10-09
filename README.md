@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never promise more than you can perform.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
