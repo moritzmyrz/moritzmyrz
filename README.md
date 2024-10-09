@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Milton Berle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
