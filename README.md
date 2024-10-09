@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The root of suffering is attachment.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- The Buddha</p>
+> <p>- Nargis Fakhri</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
