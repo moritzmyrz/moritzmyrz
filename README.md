@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 >
-> <p>- Milton Berle</p>
+> <p>- Janet Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
