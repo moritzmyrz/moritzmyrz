@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
