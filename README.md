@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Tom Krause</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
