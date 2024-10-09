@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Laozi</p>
+> <p>- Samuel Butler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
