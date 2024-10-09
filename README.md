@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- Jane Addams</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
