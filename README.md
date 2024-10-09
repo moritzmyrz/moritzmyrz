@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
 >
-> <p>- Janet Jackson</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
