@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> I will prepare and some day my chance will come.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
