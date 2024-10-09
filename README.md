@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> Never promise more than you can perform.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
