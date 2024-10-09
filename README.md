@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Napoleon</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
