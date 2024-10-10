@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
