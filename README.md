@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Alexander Pope</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
