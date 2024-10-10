@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Thornton Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
