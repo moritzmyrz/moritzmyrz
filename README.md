@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- Dalai Lama</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
