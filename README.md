@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men make more opportunities than they find.
+> Never find fault with the absent.
 >
-> <p>- Francis Bacon</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
