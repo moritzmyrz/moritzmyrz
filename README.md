@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> Wise men make more opportunities than they find.
 >
-> <p>- Aristotle</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
