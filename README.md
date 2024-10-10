@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> True friends stab you in the front.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
