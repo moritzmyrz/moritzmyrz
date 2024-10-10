@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 >
-> <p>- Richard Bach</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
