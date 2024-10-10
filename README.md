@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+> Better to have loved and lost, than to have never loved at all.
 >
-> <p>- The Buddha</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
