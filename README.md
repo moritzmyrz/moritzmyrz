@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> Quality is not an act; it is a habit.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
