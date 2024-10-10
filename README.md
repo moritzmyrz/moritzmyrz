@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> So much technology, so little talent.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
