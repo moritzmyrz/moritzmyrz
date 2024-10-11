@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever happens, take responsibility.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Tony Robbins</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
