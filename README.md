@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
