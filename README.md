@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Hugh Miller</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
