@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> Knowing is not enough; we must apply!
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
