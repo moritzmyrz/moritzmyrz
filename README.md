@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
