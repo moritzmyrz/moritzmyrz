@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
