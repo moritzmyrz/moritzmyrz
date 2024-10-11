@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who talks more is sooner exhausted.
+> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
 >
-> <p>- Laozi</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
