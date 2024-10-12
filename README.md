@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> To profit from good advice requires more wisdom than to give it.
 >
-> <p>- Sam Ewing</p>
+> <p>- Wilson Mizner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
