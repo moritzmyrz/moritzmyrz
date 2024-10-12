@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Harold Geneen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
