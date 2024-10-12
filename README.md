@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Paulo Coelho</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
