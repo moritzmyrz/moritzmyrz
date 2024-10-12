@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Mike Ditka</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
