@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> You're never a loser until you quit trying.
 >
-> <p>- Richard Bach</p>
+> <p>- Mike Ditka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
