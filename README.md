@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Cicero</p>
+> <p>- Charles W. Chesnutt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
