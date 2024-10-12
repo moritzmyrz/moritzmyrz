@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> Speak low, if you speak love.
 >
-> <p>- William Arthur Ward</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
