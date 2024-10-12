@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The longer we dwell on our misfortunes, the greater is their power to harm us.
+> Computers are like bikinis. They save people a lot of guesswork.
 >
-> <p>- Voltaire</p>
+> <p>- Sam Ewing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
