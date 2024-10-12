@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
 >
-> <p>- Elizabeth Arden</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
