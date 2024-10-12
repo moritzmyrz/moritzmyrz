@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> No one is useless in this world who lightens the burdens of another.
 >
-> <p>- Henry Miller</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
