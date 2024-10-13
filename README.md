@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> From error to error one discovers the entire truth.
 >
-> <p>- Confucius</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
