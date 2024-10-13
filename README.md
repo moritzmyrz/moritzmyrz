@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Vernon Cooper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
