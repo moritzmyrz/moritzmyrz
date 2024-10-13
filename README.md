@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
