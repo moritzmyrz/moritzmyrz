@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Erasmus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
