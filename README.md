@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
 >
-> <p>- Vernon Cooper</p>
+> <p>- William Lyon Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
