@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have a harem of 40 women, you never get to know any of them very well.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Warren Buffett</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
