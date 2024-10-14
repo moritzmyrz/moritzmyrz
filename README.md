@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be content with your lot; one cannot be first in everything.
+> Your big opportunity may be right where you are now.
 >
-> <p>- Aesop</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
