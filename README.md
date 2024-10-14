@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
