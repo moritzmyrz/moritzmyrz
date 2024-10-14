@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One that desires to excel should endeavor in those things that are in themselves most excellent.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Epictetus</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
