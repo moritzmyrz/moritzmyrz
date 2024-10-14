@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
 >
-> <p>- Jane Austen</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
