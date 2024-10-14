@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> Most great people have attained their greatest success just one step beyond their greatest failure.
 >
-> <p>- Aristotle</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
