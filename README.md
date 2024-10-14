@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep yourself to the sunshine and you cannot see the shadow.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- Helen Keller</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
