@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
