@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Zhuang Zhou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
