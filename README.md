@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When deeds and words are in accord, the whole world is transformed.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
