@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Richard Bach</p>
+> <p>- Nargis Fakhri</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
