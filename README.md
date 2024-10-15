@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> The language of friendship is not words but meanings.
 >
-> <p>- Isocrates</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
