@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
