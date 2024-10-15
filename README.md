@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- The Buddha</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
