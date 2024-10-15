@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- The Buddha</p>
+> <p>- Melody Beattie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
