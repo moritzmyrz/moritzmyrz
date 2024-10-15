@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
 >
-> <p>- Melody Beattie</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
