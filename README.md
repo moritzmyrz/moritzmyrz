@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> The language of friendship is not words but meanings.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
