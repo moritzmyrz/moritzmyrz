@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> I believe in one thing only, the power of human will.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Joseph Stalin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
