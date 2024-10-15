@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
