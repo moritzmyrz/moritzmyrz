@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
