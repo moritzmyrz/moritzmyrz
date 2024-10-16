@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> I believe in one thing only, the power of human will.
 >
-> <p>- Henry Moore</p>
+> <p>- Joseph Stalin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
