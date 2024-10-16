@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
