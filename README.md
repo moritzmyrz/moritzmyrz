@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Aristotle</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
