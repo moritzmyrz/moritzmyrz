@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> From wonder into wonder existence opens.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
