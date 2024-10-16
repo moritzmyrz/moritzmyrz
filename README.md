@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
+> The energy of the mind is the essence of life.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
