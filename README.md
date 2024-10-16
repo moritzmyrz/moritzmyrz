@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
