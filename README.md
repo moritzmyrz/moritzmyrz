@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> Fortune favors the brave.
 >
-> <p>- Laozi</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
