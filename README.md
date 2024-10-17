@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
-> <p>- Thornton Wilder</p>
+> <p>- Immanuel Kant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
