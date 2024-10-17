@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
