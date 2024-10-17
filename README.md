@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- John Lennon</p>
+> <p>- Liberace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
