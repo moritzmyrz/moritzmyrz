@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> Love and friendship exclude each other.
 >
-> <p>- Anatole France</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
