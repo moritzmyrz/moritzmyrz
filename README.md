@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
