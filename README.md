@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- George Santayana</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
