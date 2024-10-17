@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To choose what is difficult all one's days, as if it were easy, that is faith.
+> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
 >
-> <p>- W. H. Auden</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
