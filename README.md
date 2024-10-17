@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.
 >
-> <p>- Tryon Edwards</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
