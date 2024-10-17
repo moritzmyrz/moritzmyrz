@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Lord Byron</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
