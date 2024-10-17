@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Helen Keller</p>
+> <p>- Thornton Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
