@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm not afraid of storms, for I'm learning how to sail my ship.
+> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
 >
-> <p>- Louisa May Alcott</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
