@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> Leave no stone unturned.
 >
-> <p>- Plato</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
