@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- Liberace</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
