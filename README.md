@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Jane Austen</p>
+> <p>- Erasmus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
