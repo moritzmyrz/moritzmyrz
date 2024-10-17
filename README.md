@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
