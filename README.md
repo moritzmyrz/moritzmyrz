@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Walt Disney</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
