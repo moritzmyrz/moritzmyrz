@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> The way you see people is the way you treat them, and the way you treat them is what they become.
 >
-> <p>- Erasmus</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
