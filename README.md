@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I allow my intuition to lead my path.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Manuel Puig</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
