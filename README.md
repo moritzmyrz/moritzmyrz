@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
