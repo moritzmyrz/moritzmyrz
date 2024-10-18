@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Frank Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
