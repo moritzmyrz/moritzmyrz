@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> I allow my intuition to lead my path.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
