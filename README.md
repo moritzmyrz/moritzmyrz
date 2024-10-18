@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
