@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
