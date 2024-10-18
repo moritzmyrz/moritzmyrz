@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
 >
-> <p>- Frank Herbert</p>
+> <p>- Basil of Caesarea</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
