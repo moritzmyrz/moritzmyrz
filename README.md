@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want your life to be more rewarding, you have to change the way you think.
+> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
