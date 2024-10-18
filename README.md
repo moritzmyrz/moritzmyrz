@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> And as we let our own light shine, we unconsciously give other people permission to do the same.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
