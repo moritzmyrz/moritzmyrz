@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom consists of the anticipation of consequences.
+> Ignorance never settles a question.
 >
-> <p>- Norman Cousins</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
