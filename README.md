@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Dalai Lama</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
