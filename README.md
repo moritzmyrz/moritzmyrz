@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- The Buddha</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
