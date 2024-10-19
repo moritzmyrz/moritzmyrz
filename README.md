@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend to all is a friend to none.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- Aristotle</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
