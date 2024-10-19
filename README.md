@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Nothing great was ever achieved without enthusiasm.
 >
-> <p>- Walter Winchell</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
