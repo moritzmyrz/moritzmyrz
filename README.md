@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- Confucius</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
