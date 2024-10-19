@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
