@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- John Astin</p>
+> <p>- Morris West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
