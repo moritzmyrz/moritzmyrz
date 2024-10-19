@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
