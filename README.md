@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
