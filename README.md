@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Laozi</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
