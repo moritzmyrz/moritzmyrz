@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
