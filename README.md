@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- William Hazlitt</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
