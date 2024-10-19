@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
