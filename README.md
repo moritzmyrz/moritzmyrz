@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
