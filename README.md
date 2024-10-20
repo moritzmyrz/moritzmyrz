@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
