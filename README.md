@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Pablo Picasso</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
