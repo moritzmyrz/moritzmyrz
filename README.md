@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> When you learn, teach. When you get, give.
 >
-> <p>- Francis Bacon</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
