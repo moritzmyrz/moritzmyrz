@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+> What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.
 >
-> <p>- Richard Bach</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
