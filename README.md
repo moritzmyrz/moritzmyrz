@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> Character develops itself in the stream of life.
 >
-> <p>- William Shakespeare</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
