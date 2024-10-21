@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without courage, wisdom bears no fruit.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
