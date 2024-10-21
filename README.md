@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Epicurus</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
