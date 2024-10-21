@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> Freedom is the right to live as we wish.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
