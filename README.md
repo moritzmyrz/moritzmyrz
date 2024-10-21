@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you learn, teach. When you get, give.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- Maya Angelou</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
