@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 >
-> <p>- Parker Palmer</p>
+> <p>- Harriet Tubman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
