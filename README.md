@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- John Lennon</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
