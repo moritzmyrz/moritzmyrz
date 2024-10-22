@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
 >
-> <p>- Michelangelo</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
