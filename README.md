@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Billie Jean King</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
