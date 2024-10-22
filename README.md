@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+> A true friend is one who overlooks your failures and tolerates your success!
 >
-> <p>- Salman Rushdie</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
