@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is one who overlooks your failures and tolerates your success!
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Doug Larson</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
