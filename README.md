@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Peter Abelard</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
