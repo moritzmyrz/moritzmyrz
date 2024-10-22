@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Blaise Pascal</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
