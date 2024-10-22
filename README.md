@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> Champions keep playing until they get it right.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
