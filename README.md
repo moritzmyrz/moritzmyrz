@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Stephen Covey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
