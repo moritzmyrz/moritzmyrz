@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
 >
-> <p>- Epictetus</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
