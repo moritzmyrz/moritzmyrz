@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 >
-> <p>- Cicero</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
