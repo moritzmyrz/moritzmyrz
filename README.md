@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Stephen Covey</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
