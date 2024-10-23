@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
