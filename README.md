@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Dalai Lama</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
