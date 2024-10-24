@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
