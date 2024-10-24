@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> As an organizer I start from where the world is, as it is, not as I would like it to be.
 >
-> <p>- Carl Jung</p>
+> <p>- Saul Alinsky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
