@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> Wrinkles should merely indicate where smiles have been.
 >
-> <p>- Milton Berle</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
