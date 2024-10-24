@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
