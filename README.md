@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As an organizer I start from where the world is, as it is, not as I would like it to be.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- Saul Alinsky</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
