@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
