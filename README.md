@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
