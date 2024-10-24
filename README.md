@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> If you want to go east, don't go west.
 >
-> <p>- Rumi</p>
+> <p>- Ramakrishna</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
