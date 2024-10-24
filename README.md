@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
