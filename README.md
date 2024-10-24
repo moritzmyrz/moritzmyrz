@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> You need chaos in your soul to give birth to a dancing star.
 >
-> <p>- Pat Riley</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
