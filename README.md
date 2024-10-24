@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> Wherever a man turns he can find someone who needs him.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
