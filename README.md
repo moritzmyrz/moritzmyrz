@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Albert Einstein</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
