@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
 >
-> <p>- Jared Diamond</p>
+> <p>- Colette</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
