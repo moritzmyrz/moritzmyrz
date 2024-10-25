@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.
 >
-> <p>- Brian Tracy</p>
+> <p>- Theodore H. White</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
