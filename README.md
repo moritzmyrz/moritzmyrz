@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
