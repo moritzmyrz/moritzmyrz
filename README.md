@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Napoleon</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
