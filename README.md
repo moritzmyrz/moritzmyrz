@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- William Cowper</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
