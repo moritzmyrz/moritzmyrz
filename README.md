@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Octavia E. Butler</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
