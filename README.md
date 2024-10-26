@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Conditions fall apart. Persist with diligence.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- The Buddha</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
