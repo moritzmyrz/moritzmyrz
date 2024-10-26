@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> As a cure for worrying, work is better than whisky.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
