@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> Conditions fall apart. Persist with diligence.
 >
-> <p>- Tony Robbins</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
