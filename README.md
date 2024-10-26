@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- David Eddings</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
