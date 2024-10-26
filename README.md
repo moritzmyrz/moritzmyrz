@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The winner ain't the one with the fastest car it's the one who refuses to lose.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Dale Earnhardt</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
