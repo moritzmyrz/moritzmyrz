@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+> We shall never know all the good that a simple smile can do.
 >
-> <p>- Napoleon</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
