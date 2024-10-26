@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As a cure for worrying, work is better than whisky.
+> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
 >
-> <p>- Thomas Edison</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
