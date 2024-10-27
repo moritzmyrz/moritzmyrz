@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> The biggest room in the world is room for improvement.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Helmut Schmidt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
