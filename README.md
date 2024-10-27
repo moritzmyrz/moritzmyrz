@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- William Burroughs</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
