@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- The Buddha</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
