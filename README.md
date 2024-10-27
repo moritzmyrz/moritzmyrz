@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> Fortune favors the brave.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
