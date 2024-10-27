@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
