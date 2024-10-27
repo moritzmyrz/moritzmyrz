@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
