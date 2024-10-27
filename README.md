@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
