@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
