@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
+> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
