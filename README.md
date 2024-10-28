@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> Be slow in choosing a friend, slower in changing.
 >
-> <p>- Richard Bach</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
