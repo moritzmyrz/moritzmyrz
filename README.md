@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> Never do things others can do and will do, if there are things others cannot do or will not do.
 >
-> <p>- Laozi</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
