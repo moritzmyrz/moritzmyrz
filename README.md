@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
