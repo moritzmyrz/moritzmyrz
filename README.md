@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
