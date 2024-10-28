@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> The best way to predict your future is to create it.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
