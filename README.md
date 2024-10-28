@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
 >
-> <p>- Helen Keller</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
