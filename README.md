@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow in choosing a friend, slower in changing.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
