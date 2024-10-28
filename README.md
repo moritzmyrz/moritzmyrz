@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> In order to win, you must expect to win.
 >
-> <p>- Herodotus</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
