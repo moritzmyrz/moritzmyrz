@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Elon Musk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
