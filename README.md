@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Confucius</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
