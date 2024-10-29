@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
