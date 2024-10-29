@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
