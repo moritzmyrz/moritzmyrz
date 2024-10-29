@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think as a wise man but communicate in the language of the people.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
