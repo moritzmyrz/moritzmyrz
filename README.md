@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest mistake you can make in life is to be continually fearing you will make one.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
