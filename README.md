@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything comes to him who hustles while he waits.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Thomas Edison</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
