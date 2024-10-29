@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
