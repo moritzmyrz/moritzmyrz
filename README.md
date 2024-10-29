@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Max Planck</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
