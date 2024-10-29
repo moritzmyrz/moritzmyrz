@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
