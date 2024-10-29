@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Benjamin Spock</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
