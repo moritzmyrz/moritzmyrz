@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> Wisdom is found only in truth.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
