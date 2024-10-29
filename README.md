@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Bruce Lee</p>
+> <p>- Henri Poincaré</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
