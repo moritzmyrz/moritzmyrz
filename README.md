@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> The superior man is modest in his speech but exceeds in his actions.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
