@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Liberace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
