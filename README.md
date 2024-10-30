@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
 >
-> <p>- John Ruskin</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
