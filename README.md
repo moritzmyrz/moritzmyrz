@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the stars should appear but one night every thousand years how man would marvel and adore.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
