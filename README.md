@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- Liberace</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
