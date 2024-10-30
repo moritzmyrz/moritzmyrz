@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
+> No one has ever become poor by giving.
 >
-> <p>- Alan Watts</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
