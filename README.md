@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> If the stars should appear but one night every thousand years how man would marvel and adore.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
