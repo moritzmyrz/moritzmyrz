@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> Sadness flies away on the wings of time.
 >
-> <p>- Plutarch</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
