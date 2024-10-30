@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> The most successful people are those who are good at plan B.
 >
-> <p>- Anne Frank</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
