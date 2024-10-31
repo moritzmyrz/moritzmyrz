@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is the sleep that nourishes wisdom.
+> I do not dispute with the world; rather it is the world that disputes with me.
 >
-> <p>- Francis Bacon</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
