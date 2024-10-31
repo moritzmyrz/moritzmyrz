@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sports do not build character. They reveal it.
+> All things change; nothing perishes.
 >
-> <p>- Heywood Broun</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
