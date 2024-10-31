@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> Silence is the sleep that nourishes wisdom.
 >
-> <p>- Charles Dickens</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
