@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All truths are easy to understand once they are discovered; the point is to discover them.
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Galileo Galilei</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
