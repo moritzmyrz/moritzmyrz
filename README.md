@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Laozi</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
