@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> Either you run the day or the day runs you.
 >
-> <p>- Franz Kafka</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
