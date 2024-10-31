@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust only movement. Life happens at the level of events, not of words. Trust movement.
+> Sports do not build character. They reveal it.
 >
-> <p>- Alfred Adler</p>
+> <p>- Heywood Broun</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
