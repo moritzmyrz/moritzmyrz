@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> Fortune befriends the bold.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
