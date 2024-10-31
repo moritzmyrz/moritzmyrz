@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- Edmund Burke</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
