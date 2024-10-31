@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
