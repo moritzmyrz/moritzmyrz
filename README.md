@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are made wise not by the recollection of our past, but by the responsibility for our future.
+> If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
