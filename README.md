@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
