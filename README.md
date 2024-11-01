@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
