@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great acts are made up of small deeds.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Laozi</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
