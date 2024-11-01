@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 >
-> <p>- Walter Winchell</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
