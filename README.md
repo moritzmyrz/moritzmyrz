@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is Love without his wings!
+> Courage is going from failure to failure without losing enthusiasm.
 >
-> <p>- Lord Byron</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
