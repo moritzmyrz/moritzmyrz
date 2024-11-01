@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Napoleon</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
