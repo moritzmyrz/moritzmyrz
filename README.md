@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Johann Kaspar Lavater</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
