@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
+> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
