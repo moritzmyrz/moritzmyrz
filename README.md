@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> Always do your best. What you plant now, you will harvest later.
 >
-> <p>- Winston Churchill</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
