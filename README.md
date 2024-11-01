@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
+> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
