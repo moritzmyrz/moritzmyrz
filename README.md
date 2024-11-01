@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the best use of what is in your power and take the rest as it happens.
+> Great acts are made up of small deeds.
 >
-> <p>- Epictetus</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
