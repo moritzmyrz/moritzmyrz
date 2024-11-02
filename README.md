@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing impossible to him who will try.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Alexander the Great</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
