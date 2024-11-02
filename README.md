@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed.
 >
-> <p>- Brooks Adams</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
