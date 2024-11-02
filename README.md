@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
 >
-> <p>- Rumi</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
