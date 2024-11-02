@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
+> There is nothing impossible to him who will try.
 >
-> <p>- Sydney J. Harris</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
