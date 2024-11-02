@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
