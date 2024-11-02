@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- William Shakespeare</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
