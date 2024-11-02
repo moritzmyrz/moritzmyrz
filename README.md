@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> Setting an example is not the main means of influencing another, it is the only means.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
