@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting an example is not the main means of influencing another, it is the only means.
+> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
