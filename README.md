@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> Make it your habit not to be critical about small things.
 >
-> <p>- Plato</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
