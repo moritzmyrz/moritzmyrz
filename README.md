@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- John Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
