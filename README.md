@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Winston Churchill</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
