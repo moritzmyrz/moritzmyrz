@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> No day in which you learn something is a complete loss.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
