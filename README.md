@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
 >
-> <p>- David Eddings</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
