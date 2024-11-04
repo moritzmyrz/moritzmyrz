@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
