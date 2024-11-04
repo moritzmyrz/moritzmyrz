@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Well begun is half done.
+> We can only learn to love by loving.
 >
-> <p>- Aristotle</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
