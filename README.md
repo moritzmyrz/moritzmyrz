@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Napoleon Hill</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
