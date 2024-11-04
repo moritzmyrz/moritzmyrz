@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> A rolling stone gathers no moss.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
