@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Between saying and doing, many a pair of shoes is worn out.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
