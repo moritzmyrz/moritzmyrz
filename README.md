@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those that know, do. Those that understand, teach.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Aristotle</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
