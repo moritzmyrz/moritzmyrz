@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Helen Keller</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
