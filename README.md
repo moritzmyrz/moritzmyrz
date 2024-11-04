@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- John Locke</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
