@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
