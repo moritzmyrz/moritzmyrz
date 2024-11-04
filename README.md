@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
