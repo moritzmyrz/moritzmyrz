@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Dag Hammarskjöld</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
