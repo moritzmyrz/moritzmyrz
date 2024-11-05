@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Alan Watts</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
