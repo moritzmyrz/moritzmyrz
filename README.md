@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Stephen King</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
