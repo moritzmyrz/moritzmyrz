@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> The secret of getting ahead is getting started.
 >
-> <p>- George S. Patton</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
