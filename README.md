@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> Be slow in choosing a friend, slower in changing.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
