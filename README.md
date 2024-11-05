@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> A good plan violently executed now is better than a perfect plan executed next week.
 >
-> <p>- Marcel Proust</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
