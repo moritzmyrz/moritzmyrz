@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of getting ahead is getting started.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Mark Twain</p>
+> <p>- Samuel Butler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
