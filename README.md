@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Judy Garland</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
