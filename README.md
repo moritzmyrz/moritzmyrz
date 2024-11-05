@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Winston Churchill</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
