@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is like money, easier made than kept.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Samuel Butler</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
