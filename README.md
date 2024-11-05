@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
