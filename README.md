@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Charles Kingsley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
