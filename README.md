@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Maya Angelou</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
