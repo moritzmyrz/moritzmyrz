@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
