@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Charles Kingsley</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
