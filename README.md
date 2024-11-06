@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
