@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+> We have committed the Golden Rule to memory; let us now commit it to life.
 >
-> <p>- Aristotle</p>
+> <p>- Edwin Markham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
