@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not engaging in ignorance is wisdom.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Bodhidharma</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
