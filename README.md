@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the world.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
