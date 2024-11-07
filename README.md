@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are masters of the unsaid words, but slaves of those we let slip out.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Winston Churchill</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
