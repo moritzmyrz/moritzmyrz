@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A failure is a man who has blundered but is not capable of cashing in on the experience.
+> We are masters of the unsaid words, but slaves of those we let slip out.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
