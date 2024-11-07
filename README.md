@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Aristotle</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
