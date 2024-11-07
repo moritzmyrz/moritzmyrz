@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> A failure is a man who has blundered but is not capable of cashing in on the experience.
 >
-> <p>- Lou Holtz</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
