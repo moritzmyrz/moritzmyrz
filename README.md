@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
