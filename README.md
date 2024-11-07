@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> Reality leaves a lot to the imagination.
 >
-> <p>- Robert Schuller</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
