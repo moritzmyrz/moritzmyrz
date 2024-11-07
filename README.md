@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> Problems are not stop signs, they are guidelines.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
