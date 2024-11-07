@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> The man of knowledge must be able not only to love his enemies but also to hate his friends.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
