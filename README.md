@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Christopher Morley</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
