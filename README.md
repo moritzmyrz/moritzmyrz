@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
