@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> Be sure you put your feet in the right place, then stand firm.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
