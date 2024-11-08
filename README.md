@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
