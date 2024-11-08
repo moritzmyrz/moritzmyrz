@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- John Steinbeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
