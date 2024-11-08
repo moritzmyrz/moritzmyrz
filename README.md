@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> He who is contented is rich.
 >
-> <p>- Maya Angelou</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
