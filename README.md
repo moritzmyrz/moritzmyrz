@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> If the stars should appear but one night every thousand years how man would marvel and adore.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
