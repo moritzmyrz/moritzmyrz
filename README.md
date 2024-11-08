@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
