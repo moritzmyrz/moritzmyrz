@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> Knowing your own darkness is the best method for dealing with the darkness of other people.
 >
-> <p>- Dalai Lama</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
