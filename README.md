@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is contented is rich.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Laozi</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
