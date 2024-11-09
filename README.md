@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Ovid</p>
+> <p>- Walter Inglis Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
