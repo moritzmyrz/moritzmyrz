@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Plato</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
