@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Samuel Johnson</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
