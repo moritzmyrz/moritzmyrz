@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
