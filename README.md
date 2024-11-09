@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Robert Southey</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
