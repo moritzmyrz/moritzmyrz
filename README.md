@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Vernon Cooper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
