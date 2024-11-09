@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> Take rest; a field that has rested gives a bountiful crop.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
