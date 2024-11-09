@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
 >
-> <p>- Mark Twain</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
