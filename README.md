@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- Vernon Cooper</p>
+> <p>- Babatunde Olatunji</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
