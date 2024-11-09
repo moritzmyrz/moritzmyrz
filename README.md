@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Dalai Lama</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
