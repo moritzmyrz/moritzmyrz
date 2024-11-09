@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
 >
-> <p>- John Astin</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
