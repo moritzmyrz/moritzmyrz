@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Carl Jung</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
