@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- William Shakespeare</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
