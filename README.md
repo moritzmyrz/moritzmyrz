@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
 >
-> <p>- Charles Péguy</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
