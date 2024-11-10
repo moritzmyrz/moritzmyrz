@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
