@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
