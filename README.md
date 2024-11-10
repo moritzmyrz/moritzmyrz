@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
