@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+> It is not in the stars to hold our destiny but in ourselves.
 >
-> <p>- Epictetus</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
