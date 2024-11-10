@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
