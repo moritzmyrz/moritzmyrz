@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Goals are the fuel in the furnace of achievement.
+> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Brian Tracy</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
