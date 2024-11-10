@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> Formula for success: under promise and over deliver.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Tom Peters</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
