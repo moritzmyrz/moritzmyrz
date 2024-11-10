@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give, even if you only have a little.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- The Buddha</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
