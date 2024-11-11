@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Joe Paterno</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
