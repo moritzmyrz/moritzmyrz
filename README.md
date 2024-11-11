@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Woody Allen</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
