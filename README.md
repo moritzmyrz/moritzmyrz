@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Albert Einstein</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
