@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
