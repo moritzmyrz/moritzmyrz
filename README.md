@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.
+> We should all be thankful for those people who rekindle the inner spirit.
 >
-> <p>- Bruce Lee</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
