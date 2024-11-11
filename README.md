@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Harbhajan Singh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
