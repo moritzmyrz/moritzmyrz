@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Kurt Vonnegut</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
