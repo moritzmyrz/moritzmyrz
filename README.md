@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Judy Garland</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
