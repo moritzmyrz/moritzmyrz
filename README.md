@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alice Walker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
