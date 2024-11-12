@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Epictetus</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
