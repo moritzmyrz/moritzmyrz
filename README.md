@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> The years teach much which the days never know.
 >
 > <p>- Ralph Waldo Emerson</p>
 
