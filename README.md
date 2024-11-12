@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> Your big opportunity may be right where you are now.
 >
-> <p>- Cicero</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
