@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No person is your friend who demands your silence or denies your right to grow.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- Alice Walker</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
