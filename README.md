@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
