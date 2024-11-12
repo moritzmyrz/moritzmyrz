@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- Charles Dickens</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
