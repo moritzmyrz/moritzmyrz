@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> There is no fear for one whose mind is not filled with desires.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
