@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Harold Nicolson</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
