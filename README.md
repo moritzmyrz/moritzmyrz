@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
