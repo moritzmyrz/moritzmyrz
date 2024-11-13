@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>- Winston Churchill</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
