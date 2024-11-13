@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Thomas Edison</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
