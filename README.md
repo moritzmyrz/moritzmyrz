@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Eustace Budgell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
