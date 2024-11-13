@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
