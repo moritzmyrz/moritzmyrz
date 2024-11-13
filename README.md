@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
