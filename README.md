@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
