@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- Albert Camus</p>
+> <p>- Volker Grassmuck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
