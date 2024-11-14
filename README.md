@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Dalai Lama</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
