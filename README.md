@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
