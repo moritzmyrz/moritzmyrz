@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Confucius</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
