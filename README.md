@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Dalai Lama</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
