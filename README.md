@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- Laozi</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
