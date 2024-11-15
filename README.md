@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Liberty, taking the word in its concrete sense, consists in the ability to choose.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Simone Weil</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
