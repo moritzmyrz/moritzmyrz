@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
+> Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.
 >
-> <p>- George Orwell</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
