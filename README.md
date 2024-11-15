@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.
+> Friends are the siblings God never gave us.
 >
-> <p>- John Ruskin</p>
+> <p>- Mencius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
