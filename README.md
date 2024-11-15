@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Mother Teresa</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
