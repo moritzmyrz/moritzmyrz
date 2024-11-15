@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.
+> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
 >
-> <p>- Albert Einstein</p>
+> <p>- Charles Eastman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
