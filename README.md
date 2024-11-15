@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Tony Robbins</p>
+> <p>- Kurt Vonnegut</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
