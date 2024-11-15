@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Bo Jackson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
