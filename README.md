@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful it is that nobody need wait a single moment before starting to improve the world.
+> If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.
 >
-> <p>- Anne Frank</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
