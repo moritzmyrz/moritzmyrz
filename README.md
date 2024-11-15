@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+> Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.
 >
-> <p>- Kurt Vonnegut</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
