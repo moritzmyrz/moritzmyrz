@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man sees in the world what he carries in his heart.
+> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
