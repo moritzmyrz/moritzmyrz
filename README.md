@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> Be the chief but never the lord.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
