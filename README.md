@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Mark Twain</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
