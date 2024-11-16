@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Tony Robbins</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
