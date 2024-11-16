@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> A day of worry is more exhausting than a day of work.
 >
-> <p>- William Blake</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
