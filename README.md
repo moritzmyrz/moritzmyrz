@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A day of worry is more exhausting than a day of work.
+> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
 >
-> <p>- John Lubbock</p>
+> <p>- William Cowper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
