@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly, we have to have resistance.
+> Correction does much, but encouragement does more.
 >
-> <p>- Maya Lin</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
