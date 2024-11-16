@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
