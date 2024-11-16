@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We could never learn to be brave and patient if there were only joy in the world.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Helen Keller</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
