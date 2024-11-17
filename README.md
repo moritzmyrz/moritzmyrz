@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
 >
-> <p>- Harry Kemp</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
