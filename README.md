@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
