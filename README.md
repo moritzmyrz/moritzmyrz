@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
