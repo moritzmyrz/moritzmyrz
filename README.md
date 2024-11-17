@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What worries you masters you.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Haddon Robinson</p>
+> <p>- Anna Pavlova</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
