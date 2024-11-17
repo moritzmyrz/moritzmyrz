@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
