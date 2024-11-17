@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do something wonderful, people may imitate it.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
