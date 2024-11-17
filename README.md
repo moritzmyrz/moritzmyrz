@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Diogenes</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
