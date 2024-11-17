@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal.
+> People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Rogers Hornsby</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
