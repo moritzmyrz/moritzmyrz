@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Jeff Bezos</p>
+> <p>- Harry Kemp</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
