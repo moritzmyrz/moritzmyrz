@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Plato</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
