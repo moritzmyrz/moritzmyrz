@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
