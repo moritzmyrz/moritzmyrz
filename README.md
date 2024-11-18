@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- Tony Robbins</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
