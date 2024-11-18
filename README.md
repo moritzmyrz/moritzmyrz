@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To avoid criticism, do nothing, say nothing, be nothing.
+> Love and friendship exclude each other.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
