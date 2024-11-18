@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> Time is the wisest counsellor of all.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Pericles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
