@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Robert Schuller</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
