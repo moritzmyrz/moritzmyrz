@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- Franz Kafka</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
