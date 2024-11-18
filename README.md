@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- Confucius</p>
+> <p>- Akhenaten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
