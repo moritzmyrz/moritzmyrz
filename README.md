@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man who trusts men will make fewer mistakes than he who distrusts them.
+> Government of the people, by the people, for the people, shall not perish from the Earth.
 >
-> <p>- Camillo Benso, Count of Cavour</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
