@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
