@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
