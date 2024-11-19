@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> Where all think alike, no one thinks very much.
 >
-> <p>- Og Mandino</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
