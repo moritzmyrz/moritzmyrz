@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
