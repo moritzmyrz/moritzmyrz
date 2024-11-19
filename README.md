@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a travelling to the edge of knowledge, then a leap taken.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
