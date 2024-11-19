@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
