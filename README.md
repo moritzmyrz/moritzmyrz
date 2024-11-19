@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> Meaning is not what you start with but what you end up with.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Peter Elbow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
