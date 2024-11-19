@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
 >
-> <p>- Václav Havel</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
