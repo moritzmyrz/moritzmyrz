@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> No one is useless in this world who lightens the burdens of another.
 >
-> <p>- Sidney Hook</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
