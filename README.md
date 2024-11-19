@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> You must do the things you think you cannot do.
 >
-> <p>- Aristotle</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
