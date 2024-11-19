@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Peter Elbow</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
