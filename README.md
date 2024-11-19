@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> The pine stays green in winter... wisdom in hardship.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Norman Douglas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
