@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> You won't skid if you stay in a rut.
 >
-> <p>- Epictetus</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
