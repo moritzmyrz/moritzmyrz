@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- George S. Patton</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
