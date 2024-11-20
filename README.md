@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Winston Churchill</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
