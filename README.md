@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Woody Allen</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
