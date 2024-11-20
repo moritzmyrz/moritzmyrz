@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future is completely open, and we are writing it moment to moment.
+> To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
