@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Pat Riley</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
