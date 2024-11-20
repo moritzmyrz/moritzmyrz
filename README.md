@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If a man watches three football games in a row, he should be declared legally dead.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Erma Bombeck</p>
+> <p>- Amy Bloom</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
