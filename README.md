@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
