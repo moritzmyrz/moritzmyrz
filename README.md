@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
+> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
 >
-> <p>- Amy Bloom</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
