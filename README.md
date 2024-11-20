@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- Charles Dickens</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
