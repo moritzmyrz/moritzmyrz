@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- George Foreman</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
