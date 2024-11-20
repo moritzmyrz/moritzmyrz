@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
