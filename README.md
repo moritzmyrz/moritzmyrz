@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> If a man watches three football games in a row, he should be declared legally dead.
 >
-> <p>- Confucius</p>
+> <p>- Erma Bombeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
