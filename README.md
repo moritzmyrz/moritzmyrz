@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
