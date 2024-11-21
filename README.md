@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Henry Ford</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
