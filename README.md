@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
