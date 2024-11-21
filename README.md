@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Bruce Lee</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
