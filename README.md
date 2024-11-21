@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> You win the victory when you yield to friends.
 >
-> <p>- Maya Angelou</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
