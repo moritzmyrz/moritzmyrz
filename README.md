@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
