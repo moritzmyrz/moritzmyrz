@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay committed to your decisions, but stay flexible in your approach.
+> He who knows himself is enlightened.
 >
-> <p>- Tony Robbins</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
