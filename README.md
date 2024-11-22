@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To lead people walk behind them.
+> A friend to all is a friend to none.
 >
-> <p>- Laozi</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
