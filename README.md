@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> Life without love is like a tree without blossoms or fruit.
 >
-> <p>- Virgil</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
