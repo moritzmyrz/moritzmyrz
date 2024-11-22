@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fortune favors the brave.
+> Life isn't about finding yourself. Life is about creating yourself.
 >
-> <p>- Virgil</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
