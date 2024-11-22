@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
 >
 > <p>- The Buddha</p>
 
