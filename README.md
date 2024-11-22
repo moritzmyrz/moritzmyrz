@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Amy Tan</p>
+> <p>- John Steinbeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
