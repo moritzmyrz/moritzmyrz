@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Salman Rushdie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
