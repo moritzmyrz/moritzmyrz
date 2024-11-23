@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
