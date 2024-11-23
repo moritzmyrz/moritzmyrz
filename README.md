@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- John Barrymore</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
