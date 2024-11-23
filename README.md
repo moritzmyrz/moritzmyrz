@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- Socrates</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
