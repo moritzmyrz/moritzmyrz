@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
