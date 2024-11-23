@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single lamp may light hundreds of thousands of lamps without itself being diminished.
+> The world makes way for the man who knows where he is going.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
