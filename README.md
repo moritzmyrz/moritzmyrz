@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> The best preparation for tomorrow is doing your best today.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
