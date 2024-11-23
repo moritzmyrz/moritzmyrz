@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Alan Watts</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
