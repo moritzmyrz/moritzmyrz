@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Alan Watts</p>
+> <p>- John Barrymore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
