@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
