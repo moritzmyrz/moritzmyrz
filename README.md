@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
 >
-> <p>- Albert Einstein</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
