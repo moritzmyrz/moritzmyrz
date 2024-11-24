@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- Dhammapada</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
