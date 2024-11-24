@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.
 >
-> <p>- Tony Robbins</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
