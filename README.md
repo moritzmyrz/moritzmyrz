@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Mark Twain</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
