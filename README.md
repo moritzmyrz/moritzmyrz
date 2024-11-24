@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has been my experience that folks who have no vices have very few virtues.
+> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
