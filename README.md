@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Montesquieu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
