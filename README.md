@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
 >
-> <p>- Marcel Proust</p>
+> <p>- William Saroyan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
