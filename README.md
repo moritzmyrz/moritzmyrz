@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
