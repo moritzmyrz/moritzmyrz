@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Thomas Hobbes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
