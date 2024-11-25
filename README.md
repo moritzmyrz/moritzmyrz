@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Sydney J. Harris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
