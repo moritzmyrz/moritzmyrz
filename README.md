@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorance and bungling with love are better than wisdom and skill without.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
