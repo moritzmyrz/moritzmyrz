@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> I know but one freedom and that is the freedom of the mind.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
