@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Thornton Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
