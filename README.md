@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> Not all those who wander are lost.
 >
-> <p>- Louis Pasteur</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
