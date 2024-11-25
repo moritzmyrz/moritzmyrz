@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
