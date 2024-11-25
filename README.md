@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> Of all possessions a friend is the most precious.
 >
-> <p>- Sandy Koufax</p>
+> <p>- Herodotus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
