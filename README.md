@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Volker Grassmuck</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
