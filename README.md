@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is someone who gives you total freedom to be yourself.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Jim Morrison</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
