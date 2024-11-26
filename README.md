@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
