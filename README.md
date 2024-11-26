@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
