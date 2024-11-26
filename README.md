@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> No day in which you learn something is a complete loss.
 >
-> <p>- Laozi</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
