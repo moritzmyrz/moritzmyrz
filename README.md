@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> If you can't feed a hundred people, then feed just one.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
