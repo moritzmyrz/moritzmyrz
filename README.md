@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
