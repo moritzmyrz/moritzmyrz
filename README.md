@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> Believe you can and you're halfway there.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
