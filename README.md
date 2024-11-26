@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
+> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
 >
-> <p>- Mark Twain</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
