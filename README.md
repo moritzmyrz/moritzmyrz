@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't feed a hundred people, then feed just one.
+> If one is lucky, a solitary fantasy can totally transform one million realities.
 >
-> <p>- Mother Teresa</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
