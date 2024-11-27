@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> Inspiration exists, but it has to find us working.
 >
-> <p>- Alexander Pope</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
