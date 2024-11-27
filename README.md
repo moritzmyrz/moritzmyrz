@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Norman Cousins</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
