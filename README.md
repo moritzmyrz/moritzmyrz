@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Sophocles</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
