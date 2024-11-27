@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Bad times have a scientific value. These are occasions a good learner would not miss.
+> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
