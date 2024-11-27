@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> You win the victory when you yield to friends.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
