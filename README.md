@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
+> We are all something, but none of us are everything.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
