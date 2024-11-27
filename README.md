@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Andy Rooney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
