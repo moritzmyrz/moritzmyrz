@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Eknath Easwaran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
