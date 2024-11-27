@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> I hear and I forget. I see and I remember. I do and I understand.
 >
-> <p>- Epictetus</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
