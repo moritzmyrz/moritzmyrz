@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Maya Angelou</p>
+> <p>- Pope Paul VI</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
