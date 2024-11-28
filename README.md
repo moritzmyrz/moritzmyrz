@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Give, even if you only have a little.
 >
-> <p>- Bruce Lee</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
