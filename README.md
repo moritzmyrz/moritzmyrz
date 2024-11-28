@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- The Buddha</p>
+> <p>- Casey Stengel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
