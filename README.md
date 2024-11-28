@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Henry Ford</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
