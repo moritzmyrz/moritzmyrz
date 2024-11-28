@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- Alan Watts</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
