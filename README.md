@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Cicero</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
