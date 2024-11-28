@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
