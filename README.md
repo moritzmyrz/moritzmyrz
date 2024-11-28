@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> It's easy to make a buck. It's a lot tougher to make a difference.
 >
-> <p>- Casey Stengel</p>
+> <p>- Tom Brokaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
