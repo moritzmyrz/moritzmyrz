@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- Epictetus</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
