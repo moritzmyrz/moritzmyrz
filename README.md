@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A rolling stone gathers no moss.
+> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Isaac D'Israeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
