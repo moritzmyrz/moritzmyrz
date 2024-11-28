@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> Never, never, never give up.
 >
-> <p>- George Herbert</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
