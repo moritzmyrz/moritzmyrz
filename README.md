@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Will Rogers</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
