@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Albert Einstein</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
