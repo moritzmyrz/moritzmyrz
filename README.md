@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
