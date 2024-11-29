@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- George Herbert</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
