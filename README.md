@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- Alan Watts</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
