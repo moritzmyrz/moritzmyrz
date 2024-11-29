@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Ralph Marston</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
