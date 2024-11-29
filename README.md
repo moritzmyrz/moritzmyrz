@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
 >
-> <p>- John Eliot</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
