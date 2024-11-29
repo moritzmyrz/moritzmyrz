@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
