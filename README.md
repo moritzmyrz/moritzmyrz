@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Epictetus</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
