@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work while you have the light. You are responsible for the talent that has been entrusted to you.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- John Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
