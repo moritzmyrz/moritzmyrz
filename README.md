@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Loretta Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
