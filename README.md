@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- Aristotle</p>
+> <p>- Alfred Tennyson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
