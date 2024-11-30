@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
