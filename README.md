@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> You need chaos in your soul to give birth to a dancing star.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
