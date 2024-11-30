@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
