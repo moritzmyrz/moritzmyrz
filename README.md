@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
+> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
 >
-> <p>- Plotinus</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
