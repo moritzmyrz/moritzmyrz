@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
