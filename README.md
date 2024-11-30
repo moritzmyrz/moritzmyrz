@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
