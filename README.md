@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to succeed, we must first believe that we can.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
