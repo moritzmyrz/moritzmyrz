@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
 >
 > <p>- Laozi</p>
 
