@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Anne Brontë</p>
+> <p>- Kathleen Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
