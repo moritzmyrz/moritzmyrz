@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
