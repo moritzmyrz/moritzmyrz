@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
