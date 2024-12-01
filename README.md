@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One should not hurt others if one loves oneself.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- The Buddha</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
