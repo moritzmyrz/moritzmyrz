@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> A friend is one who knows you and loves you just the same.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
