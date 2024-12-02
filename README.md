@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> You might well remember that nothing can bring you success but yourself.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
