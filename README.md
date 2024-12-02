@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> One fails forward toward success.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
