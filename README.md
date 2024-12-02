@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> You have to believe in yourself.
 >
-> <p>- Socrates</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
