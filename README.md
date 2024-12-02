@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> The doors of wisdom are never shut.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
