@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
