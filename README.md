@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My friends are my estate.
+> Wisdom begins in wonder.
 >
-> <p>- Emily Dickinson</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
