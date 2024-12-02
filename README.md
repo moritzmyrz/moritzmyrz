@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- Sun Tzu</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
