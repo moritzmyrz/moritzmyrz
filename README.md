@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You might well remember that nothing can bring you success but yourself.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Zhuang Zhou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
