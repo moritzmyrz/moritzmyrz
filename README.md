@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
