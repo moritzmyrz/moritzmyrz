@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- Richard Bach</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
