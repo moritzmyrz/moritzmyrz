@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
