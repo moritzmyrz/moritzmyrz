@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> My friends are my estate.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Emily Dickinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
