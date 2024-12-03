@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Voltaire</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
