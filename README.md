@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- The Buddha</p>
+> <p>- Johann Kaspar Lavater</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
