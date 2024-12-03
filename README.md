@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> Remember that failure is an event, not a person.
 >
-> <p>- Carl Jung</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
