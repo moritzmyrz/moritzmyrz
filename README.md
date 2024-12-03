@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> All know the way; few actually walk it.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Bodhidharma</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
