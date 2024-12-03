@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- Anatole France</p>
+> <p>- Thomas Hobbes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
