@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Billie Jean King</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
