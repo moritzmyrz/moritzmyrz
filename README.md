@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
 >
-> <p>- Robert Frost</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
