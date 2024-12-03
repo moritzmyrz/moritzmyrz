@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
