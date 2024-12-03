@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+> Well begun is half done.
 >
-> <p>- Johann Kaspar Lavater</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
