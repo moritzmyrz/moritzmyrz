@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Epictetus</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
