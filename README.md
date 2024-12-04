@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One loyal friend is worth ten thousand relatives.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Euripides</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
