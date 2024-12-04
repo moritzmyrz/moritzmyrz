@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Albert Einstein</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
