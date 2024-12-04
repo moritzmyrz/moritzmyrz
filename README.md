@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
