@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing permanent except change.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Heraclitus</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
