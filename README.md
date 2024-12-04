@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
