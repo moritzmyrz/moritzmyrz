@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have a harem of 40 women, you never get to know any of them very well.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Warren Buffett</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
