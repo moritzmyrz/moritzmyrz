@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Willa Cather</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
