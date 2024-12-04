@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
