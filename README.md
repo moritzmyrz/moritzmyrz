@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You yourself must strive. The Buddhas only point the way.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
