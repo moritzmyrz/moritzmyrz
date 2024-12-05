@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
