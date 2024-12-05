@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- Napoleon</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
