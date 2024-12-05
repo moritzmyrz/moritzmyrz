@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Washington Irving</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
