@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Dalai Lama</p>
+> <p>- H. G. Wells</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
