@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
