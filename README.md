@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
