@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Richard Whately</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
