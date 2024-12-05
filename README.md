@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
+> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
 >
-> <p>- Cecil B. DeMille</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
