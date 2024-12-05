@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> We can do no great things, only small things with great love.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
