@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> You yourself must strive. The Buddhas only point the way.
 >
-> <p>- Sophocles</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
