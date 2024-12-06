@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Plato</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
