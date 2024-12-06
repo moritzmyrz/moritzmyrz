@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- H. G. Wells</p>
+> <p>- Michael Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
