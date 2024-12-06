@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a miracle that curiosity survives formal education.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Albert Einstein</p>
+> <p>- H. G. Wells</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
