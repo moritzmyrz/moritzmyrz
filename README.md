@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Michelle Obama</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
