@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
