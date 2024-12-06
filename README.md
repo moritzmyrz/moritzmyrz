@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
