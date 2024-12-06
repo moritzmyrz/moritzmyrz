@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
 >
-> <p>- Bruce Lee</p>
+> <p>- William Lyon Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
