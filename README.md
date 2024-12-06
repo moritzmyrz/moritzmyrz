@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the world.
+> Wherever you go, go with all your heart.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
