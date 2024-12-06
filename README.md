@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you aren't going all the way, why go at all?
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Joe Namath</p>
+> <p>- Jonathan Swift</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
