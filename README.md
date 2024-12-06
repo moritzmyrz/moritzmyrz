@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Jonathan Swift</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
