@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The young man knows the rules, but the old man knows the exceptions.
+> Great ideas often receive violent opposition from mediocre minds.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
