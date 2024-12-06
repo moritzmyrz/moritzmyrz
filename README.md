@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Michael Phelps</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
