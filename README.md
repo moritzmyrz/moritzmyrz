@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
