@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot step twice into the same river, for other waters are continually flowing in.
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- Heraclitus</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
