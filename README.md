@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> You cannot step twice into the same river, for other waters are continually flowing in.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
