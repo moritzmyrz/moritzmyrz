@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
-> <p>- Don Miguel Ruiz</p>
+> <p>- Immanuel Kant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
