@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Henry Ford</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
