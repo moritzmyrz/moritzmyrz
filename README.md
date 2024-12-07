@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
+> TV and the Internet are good because they keep stupid people from spending too much time out in public.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Douglas Coupland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
