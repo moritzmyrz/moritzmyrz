@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Walter Winchell</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
