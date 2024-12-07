@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- John Lennon</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
