@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
-> <p>- John Brunner</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
