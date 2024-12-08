@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Helen Keller</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
