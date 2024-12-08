@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Today you are you! That is truer than true! There is no one alive who is you-er than you!
+> Speak low, if you speak love.
 >
-> <p>- Dr. Seuss</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
