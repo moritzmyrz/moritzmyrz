@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Casey Stengel</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
