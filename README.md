@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Lisa Alther</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
