@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An ant on the move does more than a dozing ox
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Laozi</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
