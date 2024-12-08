@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- Winston Churchill</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
