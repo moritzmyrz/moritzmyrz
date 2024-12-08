@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Clay Shirky</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
