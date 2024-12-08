@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience keeps a dear school, but fools will learn in no other.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
