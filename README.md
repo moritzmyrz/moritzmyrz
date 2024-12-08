@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friends stab you in the front.
+> Friendship, like credit, is highest when it is not used.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
