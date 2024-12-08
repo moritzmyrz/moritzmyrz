@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Lisa Alther</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
