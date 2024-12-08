@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Brian Tracy</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
