@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship often ends in love, but love in friendship - never.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Albert Camus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
