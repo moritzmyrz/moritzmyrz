@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Thomas Edison</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
