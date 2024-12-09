@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
