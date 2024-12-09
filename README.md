@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> Wherever a man turns he can find someone who needs him.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
