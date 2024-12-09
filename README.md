@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> In the business world, the rearview mirror is always clearer than the windshield.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
