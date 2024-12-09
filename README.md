@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> Commitment is an act, not a word.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
