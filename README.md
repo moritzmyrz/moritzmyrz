@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> Imagination is the highest kite one can fly.
 >
-> <p>- B. F. Skinner</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
