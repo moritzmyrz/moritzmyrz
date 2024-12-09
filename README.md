@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Commitment is an act, not a word.
+> Where all think alike, no one thinks very much.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
