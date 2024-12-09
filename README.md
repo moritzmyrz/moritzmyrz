@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
 > <p>- Plato</p>
 
