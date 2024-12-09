@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- John Keats</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
