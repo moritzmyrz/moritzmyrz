@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Plato</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
