@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I let go of what I am, I become what I might be.
+> Your big opportunity may be right where you are now.
 >
-> <p>- Laozi</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
