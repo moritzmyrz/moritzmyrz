@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All I can say about life is, Oh God, enjoy it!
+> The path to success is to take massive, determined action.
 >
-> <p>- Bob Newhart</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
