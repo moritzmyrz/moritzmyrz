@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Zig Ziglar</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
