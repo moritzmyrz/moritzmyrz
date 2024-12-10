@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> All I can say about life is, Oh God, enjoy it!
 >
-> <p>- John Astin</p>
+> <p>- Bob Newhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
