@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Walter Scott</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
