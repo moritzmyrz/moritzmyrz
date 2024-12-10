@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
