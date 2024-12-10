@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
