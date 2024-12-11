@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Elizabeth Montagu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
