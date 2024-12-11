@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- Carl Jung</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
