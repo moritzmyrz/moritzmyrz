@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
