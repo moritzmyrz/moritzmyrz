@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Neil Gaiman</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
