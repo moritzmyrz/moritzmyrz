@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> Our character is what we do when we think no one is looking.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
