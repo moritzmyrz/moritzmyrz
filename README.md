@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Ralph Marston</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
