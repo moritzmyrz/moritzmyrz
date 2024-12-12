@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- Henry Miller</p>
+> <p>- Nora Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
