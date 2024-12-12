@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
