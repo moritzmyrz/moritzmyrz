@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- Albert Camus</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
