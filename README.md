@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Anna Pavlova</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
