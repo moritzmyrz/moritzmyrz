@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> To climb steep hills requires a slow pace at first.
 >
-> <p>- Wilson Mizner</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
