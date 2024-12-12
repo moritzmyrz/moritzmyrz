@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
