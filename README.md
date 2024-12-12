@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Forrest Church</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
