@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Michael Jordan</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
