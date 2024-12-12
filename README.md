@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Paulo Coelho</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
