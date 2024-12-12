@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> Don't wait. The time will never be just right.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
