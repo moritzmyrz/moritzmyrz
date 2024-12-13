@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
