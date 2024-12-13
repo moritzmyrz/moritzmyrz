@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Isocrates</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
