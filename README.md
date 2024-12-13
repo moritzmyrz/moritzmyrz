@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> You always succeed in producing a result.
 >
-> <p>- Plutarch</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
