@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination will often carry us to worlds that never were. But without it we go nowhere.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Carl Sagan</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
