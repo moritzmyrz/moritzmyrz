@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?
 >
-> <p>- Richard Bach</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
