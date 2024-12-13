@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> Applause is a receipt, not a bill.
 >
-> <p>- Woody Allen</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
