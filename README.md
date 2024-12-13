@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
