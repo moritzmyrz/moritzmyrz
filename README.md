@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> God has given you one face, and you make yourself another.
 >
-> <p>- Winifred Holtby</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
