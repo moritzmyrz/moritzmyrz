@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
