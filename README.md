@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Cecil B. DeMille</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
