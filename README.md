@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
