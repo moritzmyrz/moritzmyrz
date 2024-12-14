@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
