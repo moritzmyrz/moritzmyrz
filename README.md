@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Mother Teresa</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
