@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
