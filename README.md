@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science is organized knowledge. Wisdom is organized life.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Immanuel Kant</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
