@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Albert Einstein</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
