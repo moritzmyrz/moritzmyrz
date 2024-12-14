@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
