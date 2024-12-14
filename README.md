@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
