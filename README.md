@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Ansel Adams</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
