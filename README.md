@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Anne Bradstreet</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
