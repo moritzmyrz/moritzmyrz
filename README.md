@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All this modern technology just makes people try to do everything at once.
+> They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.
 >
-> <p>- Bill Watterson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
