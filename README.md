@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
