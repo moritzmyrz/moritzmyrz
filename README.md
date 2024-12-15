@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> A goal is a dream with a deadline.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
