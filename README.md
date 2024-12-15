@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alice Walker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
