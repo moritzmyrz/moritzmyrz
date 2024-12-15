@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My friends are my estate.
+> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
 >
-> <p>- Emily Dickinson</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
