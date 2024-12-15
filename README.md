@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
