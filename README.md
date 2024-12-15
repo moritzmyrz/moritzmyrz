@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+> Do more than dream: work.
 >
-> <p>- Laozi</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
