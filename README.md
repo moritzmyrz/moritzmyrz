@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No person is your friend who demands your silence or denies your right to grow.
+> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
 >
-> <p>- Alice Walker</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
