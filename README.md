@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Will Rogers</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
