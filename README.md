@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> By accepting yourself and being fully what you are, your presence can make others happy.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Jane Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
