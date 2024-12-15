@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
