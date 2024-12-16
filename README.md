@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> A day of worry is more exhausting than a day of work.
 >
-> <p>- Anaïs Nin</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
