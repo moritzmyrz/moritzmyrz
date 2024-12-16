@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- Maya Angelou</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
