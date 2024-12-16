@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
