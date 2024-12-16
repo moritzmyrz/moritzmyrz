@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- John Locke</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
