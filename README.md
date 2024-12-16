@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Epicurus</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
