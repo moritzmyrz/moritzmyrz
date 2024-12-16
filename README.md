@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+> You must do the things you think you cannot do.
 >
-> <p>- Bruce Lee</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
