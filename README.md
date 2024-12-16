@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
