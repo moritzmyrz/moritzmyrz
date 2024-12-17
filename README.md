@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> I hear and I forget. I see and I remember. I do and I understand.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
