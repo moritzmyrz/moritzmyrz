@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
