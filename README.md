@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
