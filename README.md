@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before we acquire great power, we must acquire wisdom to use it well.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
