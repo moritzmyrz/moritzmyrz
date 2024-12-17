@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Judy Garland</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
