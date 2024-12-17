@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- John Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
