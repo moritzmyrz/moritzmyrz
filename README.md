@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Ben Fountain</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
