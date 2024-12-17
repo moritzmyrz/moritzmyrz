@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+> Things that were hard to bear are sweet to remember.
 >
-> <p>- Brian Tracy</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
