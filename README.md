@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+> Everything that irritates us about others can lead us to a better understanding of ourselves.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
