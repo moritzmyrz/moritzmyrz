@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- Edward Young</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
