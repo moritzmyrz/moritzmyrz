@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> We shall never know all the good that a simple smile can do.
 >
-> <p>- Confucius</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
