@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Ravi Zacharias</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
