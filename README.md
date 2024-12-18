@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Mother Teresa</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
