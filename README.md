@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Alfred North Whitehead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
