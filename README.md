@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Milton Berle</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
