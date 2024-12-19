@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> No day in which you learn something is a complete loss.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
