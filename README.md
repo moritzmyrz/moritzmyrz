@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When deeds and words are in accord, the whole world is transformed.
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- Zhuang Zhou</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
