@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are that vast thing that you see far, far off with great telescopes.
+> Nothing will work unless you do.
 >
-> <p>- Alan Watts</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
