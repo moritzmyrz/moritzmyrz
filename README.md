@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> You are that vast thing that you see far, far off with great telescopes.
 >
-> <p>- Yogi Berra</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
