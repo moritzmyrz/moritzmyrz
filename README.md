@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
