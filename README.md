@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Maya Angelou</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
