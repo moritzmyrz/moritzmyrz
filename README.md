@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
