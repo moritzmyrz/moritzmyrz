@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Cicero</p>
+> <p>- Marilyn vos Savant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
