@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- Laozi</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
