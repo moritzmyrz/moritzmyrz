@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom has its root in goodness, not goodness its root in wisdom.
+> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
