@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
