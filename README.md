@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Hugh Jackman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
