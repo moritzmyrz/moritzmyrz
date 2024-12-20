@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+> Love and friendship exclude each other.
 >
-> <p>- John Locke</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
