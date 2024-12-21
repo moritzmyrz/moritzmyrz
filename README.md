@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Charles Dickens</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
