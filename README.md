@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I prefer the folly of enthusiasm to the indifference of wisdom.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Anatole France</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
