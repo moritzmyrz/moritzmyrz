@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> Smile, breathe and go slowly.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
