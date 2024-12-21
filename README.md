@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> Be the chief but never the lord.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
