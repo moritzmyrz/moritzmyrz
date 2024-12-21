@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> Allow the world to live as it chooses, and allow yourself to live as you choose.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
