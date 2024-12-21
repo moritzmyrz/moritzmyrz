@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Albert Einstein</p>
+> <p>- Nargis Fakhri</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
