@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Wisdom begins in wonder.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
