@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> Beware of missing chances; otherwise it may be altogether too late someday.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Franz Liszt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
