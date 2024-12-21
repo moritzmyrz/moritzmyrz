@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+> We need never be ashamed of our tears.
 >
-> <p>- Lucille Ball</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
