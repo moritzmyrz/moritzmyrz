@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
 >
-> <p>- Pablo Picasso</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
