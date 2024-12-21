@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware of missing chances; otherwise it may be altogether too late someday.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Franz Liszt</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
