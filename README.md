@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
