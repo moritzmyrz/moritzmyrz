@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Brooks Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
