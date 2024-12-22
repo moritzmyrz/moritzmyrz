@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
+> Computers are useless. They can only give you answers.
 >
-> <p>- The Buddha</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
