@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> Pitching is the art of instilling fear.
 >
-> <p>- René Descartes</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
