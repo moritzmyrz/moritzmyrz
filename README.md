@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Absence makes the heart grow fonder.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Thomas Haynes Bayly</p>
+> <p>- Torquato Tasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
