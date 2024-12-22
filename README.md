@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
+> Along with success comes a reputation for wisdom.
 >
-> <p>- Volker Grassmuck</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
