@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- Dan Gable</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
