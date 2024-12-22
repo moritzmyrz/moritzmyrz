@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Agatha Christie</p>
+> <p>- Diogenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
