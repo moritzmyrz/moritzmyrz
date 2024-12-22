@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- Helen Keller</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
