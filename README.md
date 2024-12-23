@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> The beginning is always today.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Mary Wollstonecraft</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
