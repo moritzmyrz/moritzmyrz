@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
