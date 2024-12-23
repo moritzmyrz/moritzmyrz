@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Walt Whitman</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
