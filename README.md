@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
