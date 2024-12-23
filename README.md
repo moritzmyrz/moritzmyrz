@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our distrust is very expensive.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
