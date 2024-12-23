@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> Sadness flies away on the wings of time.
 >
-> <p>- Confucius</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
