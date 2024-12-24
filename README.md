@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With pride, there are many curses. With humility, there come many blessings.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Ezra Taft Benson</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
