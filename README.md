@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- John Lennon</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
