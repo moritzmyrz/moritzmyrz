@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- Dalai Lama</p>
+> <p>- Moncure D. Conway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
