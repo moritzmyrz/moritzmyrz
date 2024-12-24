@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great achievements require time.
+> The more you care, the stronger you can be.
 >
-> <p>- Maya Angelou</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
