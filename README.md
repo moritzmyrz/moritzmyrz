@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Sophocles</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
