@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
 >
-> <p>- Lucille Ball</p>
+> <p>- Benjamin Haydon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
