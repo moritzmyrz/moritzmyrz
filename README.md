@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> Effort only fully releases its reward after a person refuses to quit.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
