@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Effort only fully releases its reward after a person refuses to quit.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
