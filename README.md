@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
