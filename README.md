@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
