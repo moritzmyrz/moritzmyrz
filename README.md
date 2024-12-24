@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Richard Bach</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
