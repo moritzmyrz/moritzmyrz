@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Laozi</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
