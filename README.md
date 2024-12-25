@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Laozi</p>
+> <p>- Charles Lamb</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
