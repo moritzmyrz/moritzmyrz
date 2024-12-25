@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
