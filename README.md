@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Niels Bohr</p>
+> <p>- E. M. Forster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
