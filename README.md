@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
 >
-> <p>- James A. Yorke</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
