@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Respect should be earned by actions, and not acquired by years.
+> The most successful people are those who are good at plan B.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
