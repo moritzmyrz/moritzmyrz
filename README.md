@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Smile, breathe and go slowly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
