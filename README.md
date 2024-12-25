@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
+> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
 >
-> <p>- Og Mandino</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
