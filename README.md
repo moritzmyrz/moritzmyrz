@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Harriet Lerner</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
