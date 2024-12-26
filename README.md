@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Aristotle</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
