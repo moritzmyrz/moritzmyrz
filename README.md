@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Thomas Paine</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
