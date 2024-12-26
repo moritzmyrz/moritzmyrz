@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Michael Phelps</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
