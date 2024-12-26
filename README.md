@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> You teach best what you most need to learn.
 >
-> <p>- Plato</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
