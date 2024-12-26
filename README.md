@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Henry Moore</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
