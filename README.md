@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Confucius</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
