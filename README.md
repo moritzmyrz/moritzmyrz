@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a travelling to the edge of knowledge, then a leap taken.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
