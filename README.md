@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
