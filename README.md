@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom consists of the anticipation of consequences.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Norman Cousins</p>
+> <p>- James M. Beggs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
