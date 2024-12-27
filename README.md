@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> Know how to listen, and you will profit even from those who talk badly.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
