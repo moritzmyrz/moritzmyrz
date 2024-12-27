@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- The Buddha</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
