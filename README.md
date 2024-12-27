@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing in life is to be feared. It is only to be understood.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- Marie Curie</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
