@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
