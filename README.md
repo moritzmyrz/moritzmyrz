@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
