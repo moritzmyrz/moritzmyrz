@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You just can't beat the person who never gives up.
+> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
 >
-> <p>- Babe Ruth</p>
+> <p>- Charles Kingsley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
