@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
