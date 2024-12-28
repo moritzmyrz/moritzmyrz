@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- William Blake</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
