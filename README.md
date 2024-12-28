@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- Confucius</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
