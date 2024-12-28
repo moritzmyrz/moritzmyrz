@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are people who have money and people who are rich.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Coco Chanel</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
