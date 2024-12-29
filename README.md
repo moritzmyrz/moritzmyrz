@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Nargis Fakhri</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
