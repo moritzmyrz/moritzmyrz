@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
