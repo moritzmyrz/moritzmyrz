@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- Winston Churchill</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
