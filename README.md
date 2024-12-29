@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
