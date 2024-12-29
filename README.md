@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> Change your thoughts and you change your world.
 >
-> <p>- Bruce Lee</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
