@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- Dalai Lama</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
