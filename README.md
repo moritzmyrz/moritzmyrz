@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep yourself to the sunshine and you cannot see the shadow.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Helen Keller</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
