@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
 >
-> <p>- Margaret Chase Smith</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
