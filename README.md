@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+> I know but one freedom and that is the freedom of the mind.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
