@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Rumi</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
