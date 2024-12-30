@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Isocrates</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
