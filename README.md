@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful it is that nobody need wait a single moment before starting to improve the world.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Anne Frank</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
