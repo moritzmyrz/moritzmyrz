@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Steve Jobs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
