@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
