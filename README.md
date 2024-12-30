@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
