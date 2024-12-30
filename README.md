@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
