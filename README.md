@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> We should all be thankful for those people who rekindle the inner spirit.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
