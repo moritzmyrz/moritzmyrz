@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Steve Jobs</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
