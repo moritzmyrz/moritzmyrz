@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>- Léon Blum</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
