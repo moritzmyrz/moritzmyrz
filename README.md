@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> Some do not understand that we must die, But those who do realize this settle their quarrels.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
