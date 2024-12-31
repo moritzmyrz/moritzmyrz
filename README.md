@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> You won't skid if you stay in a rut.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
