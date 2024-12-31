@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
