@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Perfection of means and confusion of ends seems to characterize our age.
+> A true friend is one who overlooks your failures and tolerates your success!
 >
-> <p>- Albert Einstein</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
