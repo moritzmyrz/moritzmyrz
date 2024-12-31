@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> Life isn't about finding yourself. Life is about creating yourself.
 >
-> <p>- Lord Byron</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
