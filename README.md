@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Carl Jung</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
