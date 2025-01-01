@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without some goals and some efforts to reach it, no man can live.
+> I'll prepare and someday my chance will come.
 >
-> <p>- John Dewey</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
