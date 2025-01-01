@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+> As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.
 >
-> <p>- John Wooden</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
