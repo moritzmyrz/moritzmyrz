@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> There is no failure except in no longer trying.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
