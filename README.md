@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
