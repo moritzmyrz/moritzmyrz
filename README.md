@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- John Locke</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
