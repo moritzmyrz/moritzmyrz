@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Albert Einstein</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
