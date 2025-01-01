@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
 >
-> <p>- Winston Churchill</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
