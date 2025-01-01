@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Between saying and doing, many a pair of shoes is worn out.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Amy Bloom</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
