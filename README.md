@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to predict your future is to create it.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Peter Drucker</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
