@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+> Happiness mainly comes from our own attitude, rather than from external factors.
 >
-> <p>- The Buddha</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
