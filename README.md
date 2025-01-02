@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never mistake motion for action.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
