@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good judgment comes from experience, and a lot of that comes from bad judgment.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Will Rogers</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
