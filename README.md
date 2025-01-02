@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
