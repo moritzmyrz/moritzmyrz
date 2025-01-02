@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
