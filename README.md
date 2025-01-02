@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
