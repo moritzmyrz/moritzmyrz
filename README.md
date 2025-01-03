@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> A lie gets halfway around the world before the truth has a chance to get its pants on.
 >
-> <p>- Bo Jackson</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
