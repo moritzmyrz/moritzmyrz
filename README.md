@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is not final; failure is not fatal: it is the courage to continue that counts.
+> Happiness is the reward we get for living to the highest right we know.
 >
-> <p>- Winston Churchill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
