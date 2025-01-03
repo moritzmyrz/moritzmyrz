@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- John Locke</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
