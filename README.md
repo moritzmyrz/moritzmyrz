@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Confucius</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
