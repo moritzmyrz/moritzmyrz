@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Carl Jung</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
