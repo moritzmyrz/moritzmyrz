@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A lie gets halfway around the world before the truth has a chance to get its pants on.
+> Learning is finding out what you already know.
 >
-> <p>- Winston Churchill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
