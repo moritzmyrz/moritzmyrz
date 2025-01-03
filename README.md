@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The cause is hidden. The effect is visible to all.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Ovid</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
