@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Learn from yesterday, live for today, hope for tomorrow.
 >
-> <p>- Phil Jackson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
