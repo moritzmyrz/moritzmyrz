@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we are no longer able to change a situation - we are challenged to change ourselves.
+> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
 >
-> <p>- Viktor Frankl</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
