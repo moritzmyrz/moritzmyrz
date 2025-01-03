@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> The cause is hidden. The effect is visible to all.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
