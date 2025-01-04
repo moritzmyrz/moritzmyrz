@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> Friendship is always a sweet responsibility, never an opportunity.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
