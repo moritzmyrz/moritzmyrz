@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is finding out what you already know.
+> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
 >
-> <p>- Richard Bach</p>
+> <p>- James Freeman Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
