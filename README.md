@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One that desires to excel should endeavor in those things that are in themselves most excellent.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Epictetus</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
