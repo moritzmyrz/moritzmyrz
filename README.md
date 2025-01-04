@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
