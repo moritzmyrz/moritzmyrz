@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- J. M. Barrie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
