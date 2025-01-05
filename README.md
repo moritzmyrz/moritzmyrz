@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
