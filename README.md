@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Francis Bacon</p>
+> <p>- James M. Beggs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
