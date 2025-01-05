@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- James M. Beggs</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
