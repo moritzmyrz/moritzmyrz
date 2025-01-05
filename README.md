@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
 >
-> <p>- Laozi</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
