@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
