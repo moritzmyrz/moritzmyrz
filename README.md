@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- Cory Doctorow</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
