@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> A single rose can be my garden... a single friend, my world.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
