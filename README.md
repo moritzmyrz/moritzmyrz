@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Napoleon</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
