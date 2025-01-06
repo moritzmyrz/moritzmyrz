@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Alice Walker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
