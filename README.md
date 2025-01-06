@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- David Bader</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
