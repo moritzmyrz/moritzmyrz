@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> Love is a friendship set to music.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
