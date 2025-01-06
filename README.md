@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- William C. Menninger</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
