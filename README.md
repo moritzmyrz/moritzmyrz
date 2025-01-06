@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Joseph Campbell</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
