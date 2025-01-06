@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Liberace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
