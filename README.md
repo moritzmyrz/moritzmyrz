@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
 >
-> <p>- Og Mandino</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
