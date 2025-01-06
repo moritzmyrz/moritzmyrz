@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> What worries you masters you.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Haddon Robinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
