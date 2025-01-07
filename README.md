@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- Martha Washington</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
