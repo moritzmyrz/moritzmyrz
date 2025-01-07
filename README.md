@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> You win the victory when you yield to friends.
 >
-> <p>- Ralph Marston</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
