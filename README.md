@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> As you think, so shall you become.
 >
-> <p>- Sophocles</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
