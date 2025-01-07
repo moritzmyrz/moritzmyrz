@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can, therefore I am.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- Simone Weil</p>
+> <p>- Samuel Beckett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
