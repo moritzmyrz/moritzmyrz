@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> Between saying and doing, many a pair of shoes is worn out.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
