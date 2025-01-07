@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
 >
-> <p>- Harry Kemp</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
