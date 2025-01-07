@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- Bruce Lee</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
