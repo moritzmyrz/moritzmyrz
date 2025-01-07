@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Harry Kemp</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
