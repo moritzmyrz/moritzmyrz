@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- Helen Keller</p>
+> <p>- Fawn M. Brodie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
