@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay committed to your decisions, but stay flexible in your approach.
+> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
 >
-> <p>- Tony Robbins</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
