@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
