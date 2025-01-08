@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can dream it, you can do it.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Walt Disney</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
