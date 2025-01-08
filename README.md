@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Woody Allen</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
