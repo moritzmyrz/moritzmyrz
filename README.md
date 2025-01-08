@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- Ralph Marston</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
