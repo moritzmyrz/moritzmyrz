@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not so important to know everything as to appreciate what we learn.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Hannah More</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
