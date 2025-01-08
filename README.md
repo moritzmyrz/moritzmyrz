@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> I owe my solitude to other people.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
