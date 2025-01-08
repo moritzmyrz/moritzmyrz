@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is where preparation and opportunity meet.
+> Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
 >
-> <p>- Bobby Unser</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
