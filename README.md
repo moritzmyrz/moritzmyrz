@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To command is to serve, nothing more and nothing less.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- André Malraux</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
