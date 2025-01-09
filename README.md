@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The young man knows the rules, but the old man knows the exceptions.
+> No valid plans for the future can be made by those who have no capacity for living now.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
