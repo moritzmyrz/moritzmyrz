@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
