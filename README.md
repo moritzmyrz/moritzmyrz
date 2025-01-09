@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- Maya Angelou</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
