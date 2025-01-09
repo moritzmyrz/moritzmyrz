@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Sam Levenson</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
