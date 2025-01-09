@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> The young man knows the rules, but the old man knows the exceptions.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
