@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
