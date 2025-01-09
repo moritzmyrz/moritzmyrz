@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Well begun is half done.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Aristotle</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
