@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you doubt your power, you give power to your doubt.
+> Well begun is half done.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
