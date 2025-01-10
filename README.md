@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
