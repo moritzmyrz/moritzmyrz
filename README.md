@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> Luck is what happens when preparation meets opportunity.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
