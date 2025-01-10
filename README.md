@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness depends upon ourselves.
+> The most successful people are those who are good at plan B.
 >
-> <p>- Aristotle</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
