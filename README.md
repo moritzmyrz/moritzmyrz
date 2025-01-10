@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology made large populations possible; large populations now make technology indispensable.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Joseph Wood Krutch</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
