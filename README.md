@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No one can make you feel inferior without your consent.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
