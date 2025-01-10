@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> Happiness depends upon ourselves.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
