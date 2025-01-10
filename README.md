@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Joan Didion</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
