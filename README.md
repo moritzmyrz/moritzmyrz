@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> Fans don't boo nobodies.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
