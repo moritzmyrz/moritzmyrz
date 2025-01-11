@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- Maya Angelou</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
