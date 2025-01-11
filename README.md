@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing permanent except change.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Heraclitus</p>
+> <p>- Franz Kafka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
