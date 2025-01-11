@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Error is discipline through which we advance.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
