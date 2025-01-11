@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
