@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> Whether you think you can or you think you can't, you are right.
 >
-> <p>- Warren Bennis</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
