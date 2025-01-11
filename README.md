@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
