@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> There is nothing permanent except change.
 >
-> <p>- Richard Bach</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
