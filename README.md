@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Robert Frost</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
