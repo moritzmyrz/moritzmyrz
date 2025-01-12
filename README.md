@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Confucius</p>
+> <p>- John Pierrakos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
