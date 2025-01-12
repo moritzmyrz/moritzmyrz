@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- William Penn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
