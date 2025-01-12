@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Harvey Mackay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
