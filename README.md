@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
