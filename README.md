@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
+> Most folks are as happy as they make up their minds to be.
 >
-> <p>- John McCain</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
