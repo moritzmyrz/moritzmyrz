@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+> You are that vast thing that you see far, far off with great telescopes.
 >
-> <p>- Thomas Edison</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
