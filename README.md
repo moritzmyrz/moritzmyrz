@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Forrest Church</p>
+> <p>- Elie Wiesel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
