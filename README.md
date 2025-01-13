@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
