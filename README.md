@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has long been an axiom of mine that the little things are infinitely the most important.
+> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
