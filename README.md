@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
