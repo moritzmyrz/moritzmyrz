@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
