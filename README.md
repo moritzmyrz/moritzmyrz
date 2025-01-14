@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Plato</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
