@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- The Buddha</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
