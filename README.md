@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+> Between saying and doing, many a pair of shoes is worn out.
 >
-> <p>- Epictetus</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
