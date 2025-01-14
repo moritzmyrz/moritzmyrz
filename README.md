@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> Learning without reflection is a waste, reflection without learning is dangerous.
 >
-> <p>- Billy Wilder</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
