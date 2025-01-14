@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is with our passions, as it is with fire and water, they are good servants but bad masters.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Aesop</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
