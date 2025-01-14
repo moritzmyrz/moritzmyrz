@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- Harriet Tubman</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
