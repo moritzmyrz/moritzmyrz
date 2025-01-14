@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Billy Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
