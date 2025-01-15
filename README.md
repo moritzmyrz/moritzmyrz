@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- David Brinkley</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
