@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- William Burroughs</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
