@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
 >
-> <p>- Aristotle</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
