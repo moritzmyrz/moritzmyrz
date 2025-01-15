@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.
 >
-> <p>- Confucius</p>
+> <p>- Charles Lindbergh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
