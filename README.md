@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
 >
-> <p>- William Shakespeare</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
