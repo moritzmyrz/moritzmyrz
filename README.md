@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Plotinus</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
