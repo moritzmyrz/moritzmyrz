@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
