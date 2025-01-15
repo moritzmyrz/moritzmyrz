@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Mother Teresa</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
