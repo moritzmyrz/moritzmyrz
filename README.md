@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Epictetus</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
