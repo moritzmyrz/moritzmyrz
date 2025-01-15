@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no expedient to which a man will not go to avoid the labor of thinking.
+> The universe is made of stories, not atoms.
 >
-> <p>- Thomas Edison</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
