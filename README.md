@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> Your mind will answer most questions if you learn to relax and wait for the answer.
 >
-> <p>- Seneca the Younger</p>
+> <p>- William Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
