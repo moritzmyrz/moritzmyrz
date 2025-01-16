@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I prefer the folly of enthusiasm to the indifference of wisdom.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Anatole France</p>
+> <p>- Bernadette Devlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
