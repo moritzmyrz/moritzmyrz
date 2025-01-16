@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
 >
-> <p>- Francis Bacon</p>
+> <p>- Reinhold Niebuhr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
