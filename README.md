@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to succeed, we must first believe that we can.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Brooks Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
