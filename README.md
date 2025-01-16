@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
