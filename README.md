@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Norman Schwarzkopf</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
