@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
+> In order to succeed, we must first believe that we can.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
