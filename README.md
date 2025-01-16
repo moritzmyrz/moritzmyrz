@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- John Adams</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
