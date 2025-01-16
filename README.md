@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> I allow my intuition to lead my path.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
