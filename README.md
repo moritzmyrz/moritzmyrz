@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> Delight in heedfulness! Guard well your thoughts!
 >
 > <p>- The Buddha</p>
 
