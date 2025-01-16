@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
