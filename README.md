@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I allow my intuition to lead my path.
+> I prefer the folly of enthusiasm to the indifference of wisdom.
 >
-> <p>- Manuel Puig</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
