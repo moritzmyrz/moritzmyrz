@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
