@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> If you have one true friend, you have more than your share.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
