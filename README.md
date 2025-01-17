@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be content with your lot; one cannot be first in everything.
+> When you learn, teach. When you get, give.
 >
-> <p>- Aesop</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
