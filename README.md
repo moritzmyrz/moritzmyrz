@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are people who have money and people who are rich.
+> The first step to getting the things you want out of life is this: decide what you want.
 >
-> <p>- Coco Chanel</p>
+> <p>- Ben Stein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
