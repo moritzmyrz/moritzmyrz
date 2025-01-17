@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Desmond Tutu</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
