@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> Be great in act, as you have been in thought.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
