@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
