@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Be content with your lot; one cannot be first in everything.
 >
-> <p>- Marie Curie</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
