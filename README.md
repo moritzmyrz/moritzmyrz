@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't leave a stone unturned. It's always something, to know you have done the most you could.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Charles Dickens</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
