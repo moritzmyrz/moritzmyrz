@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
