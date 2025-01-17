@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> The world makes way for the man who knows where he is going.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
