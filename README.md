@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
