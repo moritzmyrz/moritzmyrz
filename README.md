@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Albert Einstein</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
