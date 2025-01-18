@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> A prudent question is one half of wisdom.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
