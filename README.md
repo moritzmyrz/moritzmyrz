@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
