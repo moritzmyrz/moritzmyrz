@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
