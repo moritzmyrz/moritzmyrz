@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
+> So much technology, so little talent.
 >
-> <p>- Bill Bradley</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
