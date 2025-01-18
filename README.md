@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
+> Russia is a riddle wrapped in a mystery inside an enigma.
 >
-> <p>- Denis Waitley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
