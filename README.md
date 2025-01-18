@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Jane Wyman</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
