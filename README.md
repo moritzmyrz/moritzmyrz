@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You give before you get.
+> Do more than dream: work.
 >
-> <p>- Napoleon Hill</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
