@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Tony Robbins</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
