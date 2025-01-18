@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Francis Bacon</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
