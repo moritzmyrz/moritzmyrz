@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
