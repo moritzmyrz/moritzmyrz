@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Tom Krause</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
