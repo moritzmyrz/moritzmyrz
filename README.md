@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> At the center of your being, you have the answer; you know who you are, and you know what you want.
 >
-> <p>- Will Rogers</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
