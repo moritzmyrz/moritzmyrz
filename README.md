@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- John Barrymore</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
