@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
