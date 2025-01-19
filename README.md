@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
 >
 > <p>- Albert Einstein</p>
 
