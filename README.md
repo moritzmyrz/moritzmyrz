@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who can curb his wrath as soon as it arises, as a timely antidote will check snake's venom that so quickly spreads, — such a monk gives up the here and the beyond, just as a serpent sheds its worn-out skin.
+> To change one's life, start immediately, do it flamboyantly, no exceptions.
 >
-> <p>- The Buddha</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
