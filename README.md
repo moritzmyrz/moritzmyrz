@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> To be wronged is nothing unless you continue to remember it.
 >
-> <p>- Richard Garriott</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
