@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Northrop Frye</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
