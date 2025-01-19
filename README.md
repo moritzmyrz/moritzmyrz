@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
