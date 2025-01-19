@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Confucius</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
