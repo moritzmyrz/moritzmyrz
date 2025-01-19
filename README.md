@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Albert Einstein</p>
+> <p>- E. E. Cummings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
