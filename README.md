@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
