@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Susan Orlean</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
