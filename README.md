@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
