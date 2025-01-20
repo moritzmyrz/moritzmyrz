@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no strangers here; Only friends you haven't yet met.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
