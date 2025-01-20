@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> As an organizer I start from where the world is, as it is, not as I would like it to be.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Saul Alinsky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
