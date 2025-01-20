@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> Anybody can make history. Only a great man can write it.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
