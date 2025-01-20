@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
