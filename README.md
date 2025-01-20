@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
