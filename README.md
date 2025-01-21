@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The bird of paradise alights only upon the hand that does not grasp.
+> Your friend is your needs answered.
 >
-> <p>- John Berry</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
