@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your friend is your needs answered.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
