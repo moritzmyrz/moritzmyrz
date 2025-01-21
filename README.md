@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> If you spend too much time thinking about a thing, you'll never get it done.
 >
-> <p>- Albert Einstein</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
