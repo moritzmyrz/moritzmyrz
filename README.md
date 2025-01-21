@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Richard Whately</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
