@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> Error is discipline through which we advance.
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
