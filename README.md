@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
