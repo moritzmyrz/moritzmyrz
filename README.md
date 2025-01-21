@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How is it possible to find meaning in a finite world, given my waist and shirt size?
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Woody Allen</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
