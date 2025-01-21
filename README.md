@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
 >
-> <p>- Marcel Proust</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
