@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Sammy Davis Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
