@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Walt Disney</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
