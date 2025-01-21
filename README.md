@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Niels Bohr</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
