@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
