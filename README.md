@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
+> I have not failed. I've just found 10,000 ways that won't work.
 >
-> <p>- Robert Fulghum</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
