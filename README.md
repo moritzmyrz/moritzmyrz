@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 >
-> <p>- Abigail Adams</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
