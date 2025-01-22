@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> Be great in act, as you have been in thought.
 >
-> <p>- Lucille Ball</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
