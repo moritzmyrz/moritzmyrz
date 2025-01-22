@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Mao Zedong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
