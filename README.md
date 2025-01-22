@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
