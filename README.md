@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Patience is the companion of wisdom.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
