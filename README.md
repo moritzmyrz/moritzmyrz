@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> Life is a progress, and not a station.
 >
-> <p>- Plato</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
