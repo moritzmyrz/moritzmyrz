@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Bernard Shaw</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
