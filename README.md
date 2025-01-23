@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> The wisest men follow their own direction.
 >
-> <p>- Stephen King</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
