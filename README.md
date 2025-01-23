@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> He who hath many friends hath none.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
