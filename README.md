@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
