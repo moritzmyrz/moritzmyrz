@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anybody can make history. Only a great man can write it.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
