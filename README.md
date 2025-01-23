@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All wisdom does not reside in Delhi.
+> But man is not made for defeat. A man can be destroyed but not defeated.
 >
-> <p>- P. Chidambaram</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
