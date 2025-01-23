@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Alan Watts</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
