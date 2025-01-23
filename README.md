@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Patience is the companion of wisdom.
 >
-> <p>- Aristotle</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
