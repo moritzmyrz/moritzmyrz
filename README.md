@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> The energy of the mind is the essence of life.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
