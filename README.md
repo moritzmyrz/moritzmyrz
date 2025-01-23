@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Mark Twain</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
