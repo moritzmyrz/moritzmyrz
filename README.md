@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
+> Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.
 >
-> <p>- Warren Buffett</p>
+> <p>- Marilyn Monroe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
