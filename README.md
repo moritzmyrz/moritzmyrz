@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> All children are artists. The problem is how to remain an artist once he grows up.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
