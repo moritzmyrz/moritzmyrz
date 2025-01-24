@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
 >
-> <p>- John Adams</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
