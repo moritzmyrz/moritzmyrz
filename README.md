@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
