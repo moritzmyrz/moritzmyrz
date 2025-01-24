@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- John Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
