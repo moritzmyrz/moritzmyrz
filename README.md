@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
 >
-> <p>- Laozi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
