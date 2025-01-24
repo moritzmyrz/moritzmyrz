@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> From error to error one discovers the entire truth.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
