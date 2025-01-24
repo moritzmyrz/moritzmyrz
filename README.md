@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
