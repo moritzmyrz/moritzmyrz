@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> Reason and free inquiry are the only effectual agents against error.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
