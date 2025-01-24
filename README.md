@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Napoleon Hill</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
