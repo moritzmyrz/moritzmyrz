@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Mark Twain</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
