@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
