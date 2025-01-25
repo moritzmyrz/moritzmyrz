@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Well done is better than well said.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
