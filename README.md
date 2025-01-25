@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- Amy Tan</p>
+> <p>- Chuck Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
