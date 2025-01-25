@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Fawn M. Brodie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
