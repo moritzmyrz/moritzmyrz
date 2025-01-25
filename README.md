@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.
+> Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others
 >
-> <p>- Octavia E. Butler</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
