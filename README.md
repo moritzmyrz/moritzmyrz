@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only put off until tomorrow what you are willing to die having left undone.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
