@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easy to be brave from a safe distance.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Aesop</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
