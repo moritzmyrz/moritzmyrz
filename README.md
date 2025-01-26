@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
