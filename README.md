@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Joseph Joubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
