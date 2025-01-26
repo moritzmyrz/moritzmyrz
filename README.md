@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
