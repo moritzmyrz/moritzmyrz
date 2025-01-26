@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- George Herbert</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
