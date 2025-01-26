@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always remember that you are absolutely unique. Just like everyone else.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Margaret Mead</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
