@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
