@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more man meditates upon good thoughts, the better will be his world and the world at large.
+> It is easy to be brave from a safe distance.
 >
-> <p>- Confucius</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
