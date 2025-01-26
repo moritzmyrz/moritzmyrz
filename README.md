@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Mike Singletary (basketball)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
