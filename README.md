@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
 >
-> <p>- Laozi</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
