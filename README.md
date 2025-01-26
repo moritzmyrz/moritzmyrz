@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is of no value unless you put it into practice.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
