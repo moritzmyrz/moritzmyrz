@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- James Freeman Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
