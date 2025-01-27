@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
