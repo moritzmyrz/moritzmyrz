@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
 >
-> <p>- Ansel Adams</p>
+> <p>- William Saroyan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
