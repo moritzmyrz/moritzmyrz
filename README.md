@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- John Steinbeck</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
