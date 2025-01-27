@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> Do more than dream: work.
 >
-> <p>- Seneca the Younger</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
