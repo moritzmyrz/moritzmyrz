@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> You cannot escape the responsibility of tomorrow by evading it today.
 >
-> <p>- William Saroyan</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
