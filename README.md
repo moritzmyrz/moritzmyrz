@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
 >
-> <p>- Laozi</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
