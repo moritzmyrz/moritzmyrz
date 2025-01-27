@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> You cannot escape the responsibility of tomorrow by evading it today.
+> If I were two-faced, would I be wearing this one?
 >
 > <p>- Abraham Lincoln</p>
 
