@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> The greatest remedy for anger is delay.
 >
-> <p>- William Inge</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
