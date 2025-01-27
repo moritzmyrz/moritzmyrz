@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Epictetus</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
