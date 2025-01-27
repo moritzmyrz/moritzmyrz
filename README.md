@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
+> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
 >
-> <p>- Winston Churchill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
