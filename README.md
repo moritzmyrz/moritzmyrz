@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
