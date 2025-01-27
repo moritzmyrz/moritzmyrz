@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Jonathan Kozol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
