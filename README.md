@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
