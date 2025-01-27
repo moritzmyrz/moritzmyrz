@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept challenges, so that you may feel the exhilaration of victory.
+> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
 >
-> <p>- George S. Patton</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
