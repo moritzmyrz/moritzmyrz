@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+> But man is not made for defeat. A man can be destroyed but not defeated.
 >
-> <p>- Richard Bach</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
