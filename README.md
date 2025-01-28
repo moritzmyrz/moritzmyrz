@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
