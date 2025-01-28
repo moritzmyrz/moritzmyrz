@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Epictetus</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
