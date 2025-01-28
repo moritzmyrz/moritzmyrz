@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- Bruce Lee</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
