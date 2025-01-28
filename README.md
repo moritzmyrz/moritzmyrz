@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
