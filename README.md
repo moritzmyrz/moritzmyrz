@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.
+> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.
 >
-> <p>- Rogers Hornsby</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
