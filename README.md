@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> What we achieve inwardly will change outer reality.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
