@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> Marriage: A friendship recognized by the police.
 >
-> <p>- Confucius</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
