@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
