@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> Men are disturbed not by things, but by the view which they take of them.
 >
-> <p>- Billie Jean King</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
