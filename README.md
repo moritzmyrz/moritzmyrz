@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
+> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
 >
-> <p>- Margaret Mead</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
