@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- Anne Brontë</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
