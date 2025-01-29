@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
