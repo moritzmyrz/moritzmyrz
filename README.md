@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You don't look out there for God, something in the sky, you look in you.
+> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
 >
-> <p>- Alan Watts</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
