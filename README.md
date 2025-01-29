@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> The world is round so that friendship may encircle it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
