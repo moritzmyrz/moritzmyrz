@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Og Mandino</p>
+> <p>- Havelock Ellis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
