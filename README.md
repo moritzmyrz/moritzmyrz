@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To avoid criticism, do nothing, say nothing, be nothing.
+> I'll prepare and someday my chance will come.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
