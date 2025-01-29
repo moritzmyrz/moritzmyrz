@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Albert Einstein</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
