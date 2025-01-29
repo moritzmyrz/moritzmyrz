@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We make our own fortunes and we call them fate.
+> I violated the Noah rule: Predicting rain doesn't count; building arks does.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
