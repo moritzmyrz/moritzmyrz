@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every problem has a gift for you in its hands.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Richard Bach</p>
+> <p>- Howard H. Aiken</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
