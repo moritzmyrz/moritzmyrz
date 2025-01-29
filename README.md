@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
