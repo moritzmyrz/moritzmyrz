@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
