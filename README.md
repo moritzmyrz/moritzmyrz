@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Anne Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
