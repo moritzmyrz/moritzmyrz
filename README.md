@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
+> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
 >
-> <p>- Laozi</p>
+> <p>- Margaret Mead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
