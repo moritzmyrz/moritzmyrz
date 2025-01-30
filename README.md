@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> Without hard work, nothing grows but weeds.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
