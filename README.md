@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is finding out what you already know.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Richard Bach</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
