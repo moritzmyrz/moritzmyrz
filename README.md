@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> Our passion is our strength.
 >
-> <p>- Tony Robbins</p>
+> <p>- Billie Armstrong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
