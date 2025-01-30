@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> Learning is finding out what you already know.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
