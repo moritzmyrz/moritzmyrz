@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Libby Larsen</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
