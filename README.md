@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
