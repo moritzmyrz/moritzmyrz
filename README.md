@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> Ignorance never settles a question.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
