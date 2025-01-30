@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
 >
-> <p>- Arthur Ashe</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
