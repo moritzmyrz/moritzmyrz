@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Jonas Salk</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
