@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> There is nothing impossible to him who will try.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Alexander the Great</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
