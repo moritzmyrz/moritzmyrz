@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- Jean Cocteau</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
