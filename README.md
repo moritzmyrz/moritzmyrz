@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> Not all those who wander are lost.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
