@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Robert Schuller</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
