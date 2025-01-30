@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
