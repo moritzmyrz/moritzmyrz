@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> The best way out is always through.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
