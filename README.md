@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
 >
-> <p>- John Muir</p>
+> <p>- Avery Brooks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
