@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Lily Tomlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
