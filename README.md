@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- Sigmund Freud</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
