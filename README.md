@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
