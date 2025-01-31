@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> The personal life deeply lived always expands into truths beyond itself.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
