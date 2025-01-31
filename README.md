@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
