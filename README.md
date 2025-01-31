@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
