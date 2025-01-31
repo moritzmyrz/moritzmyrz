@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Edward Young</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
