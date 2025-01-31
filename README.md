@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Abigail Adams</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
