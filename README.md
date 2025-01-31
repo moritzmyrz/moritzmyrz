@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way out is always through.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Robert Frost</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
