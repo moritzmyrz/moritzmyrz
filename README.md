@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Alan Watts</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
