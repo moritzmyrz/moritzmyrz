@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
