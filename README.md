@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
