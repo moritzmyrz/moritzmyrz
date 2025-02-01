@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- Horace</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
