@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Christopher Morley</p>
+> <p>- Alexander Chalmers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
