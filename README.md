@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
