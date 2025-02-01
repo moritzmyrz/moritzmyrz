@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
+> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Margaret Mead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
