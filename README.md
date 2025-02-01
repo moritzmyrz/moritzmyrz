@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
 >
-> <p>- Richard Bach</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
