@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
