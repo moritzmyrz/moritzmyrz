@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> When you learn, teach. When you get, give.
 >
-> <p>- Laozi</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
