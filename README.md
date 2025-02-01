@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- Voltaire</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
