@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> I am an optimist. It does not seem too much use being anything else.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
