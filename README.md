@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Margaret Chase Smith</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
