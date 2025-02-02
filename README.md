@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
