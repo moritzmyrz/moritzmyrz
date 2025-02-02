@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 >
-> <p>- Dalai Lama</p>
+> <p>- Maria Shriver</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
