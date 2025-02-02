@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am an optimist. It does not seem too much use being anything else.
+> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
