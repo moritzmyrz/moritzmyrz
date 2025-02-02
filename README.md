@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
