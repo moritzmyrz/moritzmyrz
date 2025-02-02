@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Lord Byron</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
