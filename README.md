@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
 >
-> <p>- Robert Schuller</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
