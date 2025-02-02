@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> Meetings are indispensable when you don't want to do anything.
 >
-> <p>- The Buddha</p>
+> <p>- John Kenneth Galbraith</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
