@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- The Buddha</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
