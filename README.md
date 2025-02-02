@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
