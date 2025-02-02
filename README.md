@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many men go fishing all of their lives without knowing that it is not fish they are after.
+> We are stuck with technology when what we really want is just stuff that works.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
