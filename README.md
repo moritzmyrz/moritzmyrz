@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The gambling known as business looks with austere disfavor upon the business known as gambling.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
