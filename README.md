@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will prepare and someday my chance will come.
+> Arriving at one point is the starting point to another.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
