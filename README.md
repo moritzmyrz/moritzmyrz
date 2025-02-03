@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
 >
-> <p>- Norman Douglas</p>
+> <p>- Margaret Mead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
