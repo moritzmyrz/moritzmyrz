@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
+> Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.
 >
-> <p>- Margaret Mead</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
