@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
 >
-> <p>- Margaret Cousins</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
