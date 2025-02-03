@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> A failure is a man who has blundered but is not capable of cashing in on the experience.
 >
-> <p>- Epictetus</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
