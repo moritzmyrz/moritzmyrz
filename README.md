@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Laozi</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
