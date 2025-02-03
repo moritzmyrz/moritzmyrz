@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- Aristotle</p>
+> <p>- Margaret Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
