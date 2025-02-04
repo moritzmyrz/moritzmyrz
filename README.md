@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
 >
-> <p>- Epictetus</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
