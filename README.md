@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
