@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Dalai Lama</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
