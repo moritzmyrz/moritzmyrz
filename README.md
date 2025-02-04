@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Samuel Beckett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
