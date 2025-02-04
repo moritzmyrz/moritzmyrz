@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> There are three faithful friends - an old wife, an old dog, and ready money.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
