@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
