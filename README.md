@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
