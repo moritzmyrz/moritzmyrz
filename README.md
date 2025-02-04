@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Michelangelo</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
