@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
 >
-> <p>- Harriet Woods</p>
+> <p>- Isaac D'Israeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
