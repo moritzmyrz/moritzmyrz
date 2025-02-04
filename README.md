@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
