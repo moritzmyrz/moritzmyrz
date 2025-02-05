@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
