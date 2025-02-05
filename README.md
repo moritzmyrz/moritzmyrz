@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Margaret Thatcher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
