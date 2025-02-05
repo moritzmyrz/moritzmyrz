@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+> No day in which you learn something is a complete loss.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
