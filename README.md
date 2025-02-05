@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will prepare and someday my chance will come.
+> A goal without a plan is just a wish.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Larry Elder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
