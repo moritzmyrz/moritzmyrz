@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Charles Lamb</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
