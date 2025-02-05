@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
