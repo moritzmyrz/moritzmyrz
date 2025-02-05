@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- David Eddings</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
