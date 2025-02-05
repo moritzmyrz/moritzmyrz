@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Loretta Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
