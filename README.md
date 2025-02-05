@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> I will prepare and someday my chance will come.
 >
-> <p>- Loretta Young</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
