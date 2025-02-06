@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
