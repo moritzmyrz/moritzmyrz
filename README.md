@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
