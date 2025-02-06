@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> Small opportunities are often the beginning of great enterprises.
 >
-> <p>- John Burroughs</p>
+> <p>- Demosthenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
