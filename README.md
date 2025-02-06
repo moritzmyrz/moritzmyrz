@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Bruce Lee</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
