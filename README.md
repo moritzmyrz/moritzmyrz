@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Albert Einstein</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
