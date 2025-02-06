@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
+> Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
 >
 > <p>- The Buddha</p>
 
