@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> Sports do not build character. They reveal it.
 >
-> <p>- Denis Waitley</p>
+> <p>- Heywood Broun</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
