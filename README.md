@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- The Buddha</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
