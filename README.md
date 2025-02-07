@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is full of magical things, patiently waiting for our wits to grow sharper.
+> Computers are like bikinis. They save people a lot of guesswork.
 >
-> <p>- Eden Phillpotts</p>
+> <p>- Sam Ewing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
