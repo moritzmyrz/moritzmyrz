@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One should not hurt others if one loves oneself.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- The Buddha</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
