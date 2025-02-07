@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Laozi</p>
+> <p>- Eden Phillpotts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
