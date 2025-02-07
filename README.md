@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Sam Keen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
