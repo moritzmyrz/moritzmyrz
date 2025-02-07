@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+> Those that know, do. Those that understand, teach.
 >
-> <p>- Brian Tracy</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
