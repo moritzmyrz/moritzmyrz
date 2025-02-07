@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Albert Einstein</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
