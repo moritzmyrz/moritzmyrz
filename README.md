@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
+> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
