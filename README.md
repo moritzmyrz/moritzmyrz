@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Robert Schuller</p>
+> <p>- George Foreman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
