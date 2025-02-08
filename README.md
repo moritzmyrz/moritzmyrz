@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
