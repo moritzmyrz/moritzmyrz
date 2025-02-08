@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Ovid</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
