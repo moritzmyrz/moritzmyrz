@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Colin Powell</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
