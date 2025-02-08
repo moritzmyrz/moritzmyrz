@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Sun Tzu</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
