@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Appearances are often deceiving.
+> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
 >
-> <p>- Aesop</p>
+> <p>- Dan Gable</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
