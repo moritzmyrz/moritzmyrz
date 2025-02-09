@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who are free of resentful thoughts surely find peace.
+> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 >
-> <p>- The Buddha</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
