@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
+> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
 >
-> <p>- The Buddha</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
