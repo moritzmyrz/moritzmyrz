@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- Henry Miller</p>
+> <p>- Uta Hagen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
