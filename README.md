@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- Henry James</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
