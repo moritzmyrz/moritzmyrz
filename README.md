@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Richard Bach</p>
+> <p>- E. M. Forster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
