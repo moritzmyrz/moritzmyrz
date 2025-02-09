@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Walt Disney</p>
+> <p>- Eustace Budgell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
