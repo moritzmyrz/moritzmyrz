@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
