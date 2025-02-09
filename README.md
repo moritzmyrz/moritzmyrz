@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whether you think you can or you think you can't, you are right.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- Henry Ford</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
