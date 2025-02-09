@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I let go of what I am, I become what I might be.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Laozi</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
