@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
+> When the solution is simple, God is answering.
 >
-> <p>- John Burroughs</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
