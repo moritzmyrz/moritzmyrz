@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- William Blake</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
