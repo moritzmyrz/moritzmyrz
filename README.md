@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- William C. Menninger</p>
+> <p>- Chuck Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
