@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
 >
-> <p>- Thomas Edison</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
