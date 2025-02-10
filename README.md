@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
