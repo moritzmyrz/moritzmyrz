@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Cicero</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
