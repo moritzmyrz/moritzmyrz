@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
