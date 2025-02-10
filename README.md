@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
