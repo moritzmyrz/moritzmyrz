@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Agatha Christie</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
