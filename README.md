@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Robert Schuller</p>
+> <p>- Gustave Flaubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
