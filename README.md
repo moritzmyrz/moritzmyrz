@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Richard Whately</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
