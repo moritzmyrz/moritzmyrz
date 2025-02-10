@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Winston Churchill</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
