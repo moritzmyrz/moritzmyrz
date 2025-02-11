@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> Technology has to be invented or adopted.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
