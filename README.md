@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> You might well remember that nothing can bring you success but yourself.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
