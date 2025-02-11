@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
