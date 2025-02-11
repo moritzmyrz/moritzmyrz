@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> The doors of wisdom are never shut.
 >
-> <p>- Michael Korda</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
