@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> Speak low, if you speak love.
 >
-> <p>- Jared Diamond</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
