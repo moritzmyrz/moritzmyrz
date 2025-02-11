@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
