@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> Life is a learning experience, only if you learn.
 >
-> <p>- René Descartes</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
