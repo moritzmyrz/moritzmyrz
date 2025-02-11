@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
