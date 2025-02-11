@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
