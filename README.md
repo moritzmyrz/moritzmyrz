@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- Margaret Fuller</p>
+> <p>- Sogyal Rinpoche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
