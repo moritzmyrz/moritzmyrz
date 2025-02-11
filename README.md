@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> If you have knowledge, let others light their candles in it.
 >
-> <p>- Tony Robbins</p>
+> <p>- Margaret Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
