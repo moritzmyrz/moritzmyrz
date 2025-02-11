@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> Remember that failure is an event, not a person.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
