@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
+> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
 >
-> <p>- Dalai Lama</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
