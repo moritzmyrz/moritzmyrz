@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is Love without his wings!
+> Most great people have attained their greatest success just one step beyond their greatest failure.
 >
-> <p>- Lord Byron</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
