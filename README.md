@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+> The pain passes, but the beauty remains.
 >
-> <p>- Alan Watts</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
