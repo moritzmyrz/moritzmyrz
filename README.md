@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
