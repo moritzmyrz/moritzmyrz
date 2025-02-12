@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
