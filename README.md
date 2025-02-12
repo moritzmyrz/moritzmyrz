@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Jane Wyman</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
