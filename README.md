@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Epictetus</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
