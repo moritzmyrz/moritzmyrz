@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Cory Doctorow</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
