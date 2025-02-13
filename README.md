@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Napoleon</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
