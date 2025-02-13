@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 >
-> <p>- Henry Ford</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
