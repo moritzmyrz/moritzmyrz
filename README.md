@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> When I let go of what I am, I become what I might be.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
