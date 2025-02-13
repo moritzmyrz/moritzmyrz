@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
