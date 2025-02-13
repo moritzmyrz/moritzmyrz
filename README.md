@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
