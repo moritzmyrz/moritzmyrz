@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How we spend our days is, of course, how we spend our lives.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Annie Dillard</p>
+> <p>- Ella Fitzgerald</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
