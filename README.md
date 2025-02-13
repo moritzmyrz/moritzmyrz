@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+> So much technology, so little talent.
 >
-> <p>- Henry James</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
