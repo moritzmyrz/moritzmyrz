@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I let go of what I am, I become what I might be.
+> Truth is generally the best vindication against slander.
 >
-> <p>- Laozi</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
