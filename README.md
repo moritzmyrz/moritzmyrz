@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Archimedes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
