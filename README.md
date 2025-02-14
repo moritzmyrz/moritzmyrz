@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.
 >
-> <p>- William Blake</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
