@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
+> Happiness is the reward we get for living to the highest right we know.
 >
-> <p>- Ovid</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
