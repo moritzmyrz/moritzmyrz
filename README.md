@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+> The two most powerful warriors are patience and time.
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
