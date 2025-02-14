@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> Wisdom comes alone through suffering.
 >
-> <p>- Aristotle</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
