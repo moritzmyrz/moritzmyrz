@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- Anatole France</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
