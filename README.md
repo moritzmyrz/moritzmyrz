@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 >
-> <p>- Charles Eastman</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
