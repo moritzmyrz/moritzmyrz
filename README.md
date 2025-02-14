@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
