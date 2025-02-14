@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Peter Drucker</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
