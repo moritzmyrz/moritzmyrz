@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
+> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Thornton Wilder</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
