@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Jack Dixon</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
