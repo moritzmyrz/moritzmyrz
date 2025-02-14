@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Confucius</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
