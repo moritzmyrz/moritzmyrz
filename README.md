@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
