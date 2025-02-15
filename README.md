@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
 >
-> <p>- Libby Larsen</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
