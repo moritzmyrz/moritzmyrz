@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- Bruce Lee</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
