@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Joe Adcock</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
