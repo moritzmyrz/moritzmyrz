@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Jack Welch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
