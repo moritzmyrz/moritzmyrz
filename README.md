@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way you see people is the way you treat them, and the way you treat them is what they become.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
