@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- Laozi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
