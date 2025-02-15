@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> The way you see people is the way you treat them, and the way you treat them is what they become.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
