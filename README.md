@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
+> If there is no struggle, there is no progress.
 >
-> <p>- Jack Welch</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
