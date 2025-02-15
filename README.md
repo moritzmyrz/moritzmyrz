@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
 >
-> <p>- Mark Twain</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
