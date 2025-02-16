@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- Man Ray</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
