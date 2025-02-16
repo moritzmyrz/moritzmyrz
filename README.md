@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
