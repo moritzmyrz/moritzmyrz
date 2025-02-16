@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Frank Herbert</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
