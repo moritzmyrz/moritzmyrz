@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
