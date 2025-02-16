@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
