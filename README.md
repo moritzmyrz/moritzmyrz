@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
