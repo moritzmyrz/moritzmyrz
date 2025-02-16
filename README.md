@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 >
-> <p>- Stewart Brand</p>
+> <p>- Harriet Tubman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
