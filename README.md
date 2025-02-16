@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Dale Turner</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
