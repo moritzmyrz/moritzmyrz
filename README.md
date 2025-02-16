@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> You always succeed in producing a result.
 >
-> <p>- Sophocles</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
