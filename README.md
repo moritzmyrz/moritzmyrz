@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- Tony Robbins</p>
+> <p>- Dale Turner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
