@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> Nothing in life is to be feared. It is only to be understood.
 >
-> <p>- Léon Blum</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
