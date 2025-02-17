@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
