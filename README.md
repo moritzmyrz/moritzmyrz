@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Confucius</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
