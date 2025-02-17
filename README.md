@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
+> If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.
 >
-> <p>- Alan Watts</p>
+> <p>- Caterina Fake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
