@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> It is more shameful to distrust our friends than to be deceived by them.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
