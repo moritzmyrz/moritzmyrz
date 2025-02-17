@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- George Washington</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
