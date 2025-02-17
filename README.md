@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
 >
-> <p>- Satchel Paige</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
