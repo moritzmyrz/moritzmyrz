@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Voltaire</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
