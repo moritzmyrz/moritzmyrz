@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Elisabeth Kübler-Ross</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
