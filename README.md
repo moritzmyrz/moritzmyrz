@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
