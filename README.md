@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is anything that wasn't around when you were born.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Man Ray</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
