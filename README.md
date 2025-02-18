@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- John Lennon</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
