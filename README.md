@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> From error to error one discovers the entire truth.
 >
-> <p>- Milton Berle</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
