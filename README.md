@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Woody Allen</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
