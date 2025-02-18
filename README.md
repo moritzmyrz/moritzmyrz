@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> Reality leaves a lot to the imagination.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
