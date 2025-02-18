@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
