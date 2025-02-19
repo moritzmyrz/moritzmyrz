@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
