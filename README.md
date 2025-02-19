@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
