@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> Life is a progress, and not a station.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
