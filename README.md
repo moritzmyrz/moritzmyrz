@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Robert Southey</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
