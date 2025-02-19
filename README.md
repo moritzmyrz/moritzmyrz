@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In action a great heart is the chief qualification. In work, a great head.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
