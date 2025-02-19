@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
