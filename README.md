@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's a good thing to be satisfied with what one has.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- The Buddha</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
