@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Dalai Lama</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
