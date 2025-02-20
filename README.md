@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A failure is a man who has blundered but is not capable of cashing in on the experience.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Franz Kafka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
