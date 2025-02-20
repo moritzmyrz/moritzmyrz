@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Lily Tomlin</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
