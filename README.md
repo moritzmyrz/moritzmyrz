@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
