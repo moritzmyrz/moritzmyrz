@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> You give before you get.
 >
-> <p>- Laozi</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
