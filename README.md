@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> I have always thought the actions of men the best interpreters of their thoughts.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
