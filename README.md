@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Franz Kafka</p>
+> <p>- Lily Tomlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
