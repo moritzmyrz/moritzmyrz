@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
+> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
