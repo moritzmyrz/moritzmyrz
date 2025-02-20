@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> A failure is a man who has blundered but is not capable of cashing in on the experience.
 >
-> <p>- John Locke</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
