@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
