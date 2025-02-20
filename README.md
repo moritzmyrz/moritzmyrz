@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- The Buddha</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
