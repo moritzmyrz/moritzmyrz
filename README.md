@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Robert Frost</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
