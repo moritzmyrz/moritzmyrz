@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> If you have one true friend, you have more than your share.
 >
-> <p>- Julie Morgenstern</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
