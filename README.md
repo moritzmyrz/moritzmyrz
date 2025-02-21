@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
 >
-> <p>- Man Ray</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
