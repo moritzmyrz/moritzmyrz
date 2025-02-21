@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Quality is not an act; it is a habit.
 >
-> <p>- Mark Twain</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
