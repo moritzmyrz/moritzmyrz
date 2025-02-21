@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- Tony Robbins</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
