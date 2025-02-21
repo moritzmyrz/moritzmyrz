@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
+> Bad times have a scientific value. These are occasions a good learner would not miss.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
