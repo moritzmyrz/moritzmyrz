@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Dalai Lama</p>
+> <p>- George Foreman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
