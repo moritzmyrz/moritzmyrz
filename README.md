@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- John Dewey</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
