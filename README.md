@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
