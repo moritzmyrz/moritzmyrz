@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> The only way to have a friend is to be one.
 >
-> <p>- Bruce Lee</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
