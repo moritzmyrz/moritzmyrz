@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The cautious seldom err.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Confucius</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
