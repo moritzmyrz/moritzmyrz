@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Casey Stengel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
