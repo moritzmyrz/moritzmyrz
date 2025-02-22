@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
+> I never worry about action, but only inaction.
 >
-> <p>- The Buddha</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
