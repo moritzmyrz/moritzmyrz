@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> Marriage: A friendship recognized by the police.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
