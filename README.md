@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want your life to be more rewarding, you have to change the way you think.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
