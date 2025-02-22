@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
