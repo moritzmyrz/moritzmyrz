@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
