@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> The cautious seldom err.
 >
-> <p>- Richard Whately</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
