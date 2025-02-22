@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Winston Churchill</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
