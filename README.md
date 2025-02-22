@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- Laozi</p>
+> <p>- Melody Beattie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
