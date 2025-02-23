@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> The awareness of our own strength makes us modest.
 >
-> <p>- David Brinkley</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
