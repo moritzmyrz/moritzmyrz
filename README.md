@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 >
-> <p>- Ovid</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
