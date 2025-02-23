@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
 >
-> <p>- Epicurus</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
