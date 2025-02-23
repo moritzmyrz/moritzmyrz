@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fine words and an insinuating appearance are seldom associated with true virtue
+> Blessed are the hearts that can bend; they shall never be broken.
 >
-> <p>- Confucius</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
