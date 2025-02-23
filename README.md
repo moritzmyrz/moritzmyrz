@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
