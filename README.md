@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- Laozi</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
