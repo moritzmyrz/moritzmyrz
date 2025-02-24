@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
