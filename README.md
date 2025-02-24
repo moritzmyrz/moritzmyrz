@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
