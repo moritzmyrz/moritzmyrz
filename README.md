@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+> The world is but a canvas to the imagination.
 >
-> <p>- Winston Churchill</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
