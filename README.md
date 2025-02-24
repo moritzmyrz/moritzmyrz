@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> Don't wait. The time will never be just right.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
