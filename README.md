@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> Do what you can. Want what you have. Be who you are.
 >
-> <p>- Winston Churchill</p>
+> <p>- Forrest Church</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
