@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
