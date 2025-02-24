@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> Be great in act, as you have been in thought.
 >
-> <p>- Laozi</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
