@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> The universe is made of stories, not atoms.
 >
-> <p>- William Shakespeare</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
