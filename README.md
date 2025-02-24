@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> Be the chief but never the lord.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
