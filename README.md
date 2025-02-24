@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
