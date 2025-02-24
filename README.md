@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
