@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Hanya Yanagihara</p>
+> <p>- Jean François Paul de Gondi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
