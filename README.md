@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> Think like a man of action; act like a man of thought.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
