@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Think how hard physics would be if particles could think.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Murray Gell-Mann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
