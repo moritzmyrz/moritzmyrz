@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> The best preparation for tomorrow is doing your best today.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
