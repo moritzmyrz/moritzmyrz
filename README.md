@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
 >
-> <p>- Richard Bach</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
