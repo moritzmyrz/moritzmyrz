@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
