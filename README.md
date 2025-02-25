@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work while you have the light. You are responsible for the talent that has been entrusted to you.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
