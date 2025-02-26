@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man who doesn't trust himself can never really trust anyone else.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Jean François Paul de Gondi</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
