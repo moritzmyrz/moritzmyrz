@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm not afraid of storms, for I'm learning how to sail my ship.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Louisa May Alcott</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
