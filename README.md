@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
