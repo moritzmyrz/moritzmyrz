@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> A goal is a dream with a deadline.
 >
-> <p>- Confucius</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
