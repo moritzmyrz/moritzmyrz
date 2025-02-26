@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
