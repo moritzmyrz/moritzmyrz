@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
 >
-> <p>- Mother Teresa</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
