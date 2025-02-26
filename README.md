@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- Don DeLillo</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
