@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
