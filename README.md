@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+> Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
