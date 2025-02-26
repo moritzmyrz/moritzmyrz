@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many sophisticated, intelligent people lack wisdom and common sense.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Joyce Meyer</p>
+> <p>- Louisa May Alcott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
