@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
