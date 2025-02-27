@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
