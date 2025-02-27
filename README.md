@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Mark Twain</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
