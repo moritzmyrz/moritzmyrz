@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
 >
-> <p>- Mother Teresa</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
