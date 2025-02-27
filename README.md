@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves.
 >
-> <p>- William Arthur Ward</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
