@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest gift of life is friendship, and I have received it.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
