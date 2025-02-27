@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> A house divided against itself cannot stand.
 >
-> <p>- Peter Drucker</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
