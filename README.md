@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
