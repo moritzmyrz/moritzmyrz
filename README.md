@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
