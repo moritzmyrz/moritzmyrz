@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Albert Einstein</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
