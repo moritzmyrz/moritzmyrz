@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Dalai Lama</p>
+> <p>- Walter Inglis Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
