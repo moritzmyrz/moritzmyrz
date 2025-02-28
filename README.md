@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
