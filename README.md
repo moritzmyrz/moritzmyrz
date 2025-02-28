@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> We do not quit playing because we grow old, we grow old because we quit playing.
 >
-> <p>- Albert Einstein</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
