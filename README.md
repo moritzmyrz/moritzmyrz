@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Martha Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
