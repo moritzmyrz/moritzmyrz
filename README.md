@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Lou Holtz</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
