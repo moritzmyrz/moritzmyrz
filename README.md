@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is 10% what happens to you and 90% how you react to it.
+> Love is flower like; Friendship is like a sheltering tree.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
