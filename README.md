@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
