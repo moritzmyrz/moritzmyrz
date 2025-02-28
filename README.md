@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
