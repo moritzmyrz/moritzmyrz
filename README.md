@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Thomas Edison</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
