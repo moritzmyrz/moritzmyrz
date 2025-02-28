@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So is cheerfulness, or a good temper, the more it is spent, the more remains.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
