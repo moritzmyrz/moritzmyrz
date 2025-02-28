@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
