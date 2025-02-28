@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Martha Washington</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
