@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
