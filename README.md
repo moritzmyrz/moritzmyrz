@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
