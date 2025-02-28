@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
