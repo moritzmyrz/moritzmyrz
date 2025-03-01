@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
