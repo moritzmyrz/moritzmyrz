@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
