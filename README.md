@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Karl Menninger</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
