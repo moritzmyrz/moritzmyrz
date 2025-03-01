@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
