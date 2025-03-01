@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> Nothing in life is to be feared. It is only to be understood.
 >
-> <p>- Lord Byron</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
