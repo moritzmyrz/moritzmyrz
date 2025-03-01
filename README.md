@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
