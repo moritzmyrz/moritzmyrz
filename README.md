@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Karl Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
