@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> Build a better mousetrap and the world will beat a path to your door.
 >
-> <p>- René Descartes</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
