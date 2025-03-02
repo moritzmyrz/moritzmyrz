@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+> Skill to do comes of doing.
 >
-> <p>- William C. Menninger</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
