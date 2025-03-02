@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> If one way be better than another, that you may be sure is nature's way.
 >
-> <p>- Lucille Ball</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
