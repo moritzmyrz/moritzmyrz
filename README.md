@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- Anne Lindbergh</p>
+> <p>- Hanya Yanagihara</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
