@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> The universe is made of stories, not atoms.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
