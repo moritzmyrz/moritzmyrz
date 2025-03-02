@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> Your big opportunity may be right where you are now.
 >
-> <p>- John Eliot</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
