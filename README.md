@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Hanya Yanagihara</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
