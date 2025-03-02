@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Aristotle</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
