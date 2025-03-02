@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
+> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
 >
-> <p>- Edmund Burke</p>
+> <p>- Anne Lindbergh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
