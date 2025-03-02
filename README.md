@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Mark Twain</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
