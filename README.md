@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
