@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Alexander Chalmers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
