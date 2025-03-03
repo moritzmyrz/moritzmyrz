@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
