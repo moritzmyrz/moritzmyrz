@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward.
+> Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
 >
-> <p>- Thomas Edison</p>
+> <p>- Pauline Kael</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
