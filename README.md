@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
