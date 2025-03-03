@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a travelling to the edge of knowledge, then a leap taken.
+> It's better to be a lion for a day than a sheep all your life.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
