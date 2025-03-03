@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Francis de Sales</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
