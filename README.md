@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Jane Addams</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
