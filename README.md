@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Alan Watts</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
