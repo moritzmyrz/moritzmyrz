@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
 >
-> <p>- Jane Wyman</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
