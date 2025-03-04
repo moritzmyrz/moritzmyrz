@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 >
-> <p>- Albert Einstein</p>
+> <p>- Bill Bradley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
