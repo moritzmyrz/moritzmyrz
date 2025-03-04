@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
+> Learning never exhausts the mind.
 >
-> <p>- Bill Bradley</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
