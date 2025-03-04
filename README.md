@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
