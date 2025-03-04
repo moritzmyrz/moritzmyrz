@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest way to live with honor in this world is to be what we pretend to be.
+> If one way be better than another, that you may be sure is nature's way.
 >
-> <p>- Socrates</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
