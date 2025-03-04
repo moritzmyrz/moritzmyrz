@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- Carl Jung</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
