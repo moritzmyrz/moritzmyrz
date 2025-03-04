@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> Friendship is essentially a partnership.
 >
-> <p>- Albert Einstein</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
