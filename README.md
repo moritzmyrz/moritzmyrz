@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Goals are the fuel in the furnace of achievement.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- Brian Tracy</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
