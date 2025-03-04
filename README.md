@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Aristotle</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
