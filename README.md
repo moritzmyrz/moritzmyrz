@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
+> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
 >
-> <p>- Winston Churchill</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
