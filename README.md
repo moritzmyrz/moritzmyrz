@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> The man who trusts men will make fewer mistakes than he who distrusts them.
 >
-> <p>- Albert Einstein</p>
+> <p>- Camillo Benso, Count of Cavour</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
