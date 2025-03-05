@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
