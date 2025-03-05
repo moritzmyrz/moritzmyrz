@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
