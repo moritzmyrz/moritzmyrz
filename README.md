@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Many men go fishing all of their lives without knowing that it is not fish they are after.
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
 > <p>- Henry David Thoreau</p>
 
