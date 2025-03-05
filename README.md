@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> The more you know yourself, the more you forgive yourself.
 >
 > <p>- Confucius</p>
 
