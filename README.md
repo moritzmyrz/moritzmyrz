@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
