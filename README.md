@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
