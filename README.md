@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> Correction does much, but encouragement does more.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
