@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
+> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
 >
-> <p>- Albert Einstein</p>
+> <p>- Orson Welles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
