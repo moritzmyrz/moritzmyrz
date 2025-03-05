@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Jack Dixon</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
