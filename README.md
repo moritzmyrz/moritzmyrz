@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- Confucius</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
