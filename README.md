@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
