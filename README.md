@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man who trusts men will make fewer mistakes than he who distrusts them.
+> Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
 >
-> <p>- Camillo Benso, Count of Cavour</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
