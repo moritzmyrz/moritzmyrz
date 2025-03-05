@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Dalai Lama</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
