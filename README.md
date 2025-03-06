@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
 >
-> <p>- Peter Elbow</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
