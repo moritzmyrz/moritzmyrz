@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
 >
-> <p>- Dalai Lama</p>
+> <p>- Herbert Bayard Swope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
