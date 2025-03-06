@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Brian O'Driscoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
