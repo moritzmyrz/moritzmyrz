@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
 >
-> <p>- Albert Camus</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
