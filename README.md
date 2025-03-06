@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
