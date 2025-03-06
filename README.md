@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- William Blake</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
