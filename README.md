@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
