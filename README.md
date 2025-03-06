@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Walt Whitman</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
