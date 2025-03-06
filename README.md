@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Compassion and happiness are not a sign of weakness but a sign of strength.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
