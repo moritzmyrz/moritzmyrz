@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those that know, do. Those that understand, teach.
+> A day of worry is more exhausting than a day of work.
 >
-> <p>- Aristotle</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
