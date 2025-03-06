@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Brian O'Driscoll</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
