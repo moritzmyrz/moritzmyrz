@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom has its root in goodness, not goodness its root in wisdom.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
