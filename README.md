@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
