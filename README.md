@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> You must do the things you think you cannot do.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
