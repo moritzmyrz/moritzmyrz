@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> What happens is not as important as how you react to what happens.
 >
-> <p>- William Shakespeare</p>
+> <p>- Ellen Glasgow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
