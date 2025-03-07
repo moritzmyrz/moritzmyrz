@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Charles W. Chesnutt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
