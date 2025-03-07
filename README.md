@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Joseph Prince</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
