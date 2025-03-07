@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- Lucille Ball</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
