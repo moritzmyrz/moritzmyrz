@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> A friend is a gift you give yourself.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
