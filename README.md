@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot be more sensitive to pleasure without being more sensitive to pain.
+> Marriage: A friendship recognized by the police.
 >
-> <p>- Alan Watts</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
