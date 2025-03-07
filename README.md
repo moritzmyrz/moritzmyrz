@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- Albert Einstein</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
