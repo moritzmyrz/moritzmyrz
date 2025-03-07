@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> One today is worth two tomorrows.
 >
-> <p>- Joseph Prince</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
