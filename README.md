@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> Wisdom has its root in goodness, not goodness its root in wisdom.
 >
-> <p>- Helen Keller</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
