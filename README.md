@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
