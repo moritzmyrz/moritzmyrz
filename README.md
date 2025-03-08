@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
+> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
 >
-> <p>- Orson Welles</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
