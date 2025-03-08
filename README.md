@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Virginia Woolf</p>
+> <p>- Paulo Coelho</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
