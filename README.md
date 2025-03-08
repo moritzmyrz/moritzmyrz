@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
