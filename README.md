@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
 >
-> <p>- Helen Keller</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
