@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> Whether you think you can or you think you can't, you are right.
 >
-> <p>- George Orwell</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
