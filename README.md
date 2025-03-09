@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> Think big thoughts but relish small pleasures.
 >
-> <p>- Satchel Paige</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
