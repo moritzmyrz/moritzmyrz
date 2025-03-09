@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- William James</p>
+> <p>- Hanya Yanagihara</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
