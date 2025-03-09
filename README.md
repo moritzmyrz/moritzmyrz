@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Hanya Yanagihara</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
