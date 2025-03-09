@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Lewis Cass</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
