@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Confucius</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
