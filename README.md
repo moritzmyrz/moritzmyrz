@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Hannah Arendt</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
