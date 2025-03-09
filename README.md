@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> Technology is teaching us to be human again.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Simon Mainwaring</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
