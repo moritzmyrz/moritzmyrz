@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> I'll prepare and someday my chance will come.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
