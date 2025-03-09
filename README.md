@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is teaching us to be human again.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Simon Mainwaring</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
