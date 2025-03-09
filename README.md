@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The World is my country, all mankind are my brethren, and to do good is my religion.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Thomas Paine</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
