@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge...
+> Life is the flower for which love is the honey.
 >
-> <p>- Albert Einstein</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
