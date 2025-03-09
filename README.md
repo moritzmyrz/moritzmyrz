@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> Most people never run far enough on their first wind to find out they've got a second.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
