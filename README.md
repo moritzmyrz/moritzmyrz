@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
