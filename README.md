@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
