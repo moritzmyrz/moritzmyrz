@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
+> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
 >
-> <p>- Helen Keller</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
