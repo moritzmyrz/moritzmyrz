@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Dalai Lama</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
