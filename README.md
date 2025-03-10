@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
