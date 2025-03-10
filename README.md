@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> The biggest room in the world is room for improvement.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Helmut Schmidt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
