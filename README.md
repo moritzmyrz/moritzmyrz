@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
