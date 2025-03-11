@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Keats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
