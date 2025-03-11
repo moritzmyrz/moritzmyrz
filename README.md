@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
