@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> Knowing your own darkness is the best method for dealing with the darkness of other people.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
