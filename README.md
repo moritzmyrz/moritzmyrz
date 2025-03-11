@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
+> As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.
 >
-> <p>- Jane Addams</p>
+> <p>- James Gleick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
