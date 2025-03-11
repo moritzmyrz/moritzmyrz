@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.
+> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Hugh Jackman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
