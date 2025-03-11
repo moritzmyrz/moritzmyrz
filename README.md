@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- John Wooden</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
