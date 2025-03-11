@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
+> All great achievements require time.
 >
-> <p>- William C. Menninger</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
