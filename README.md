@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> Knowing is not enough; we must apply!
 >
-> <p>- Betty Friedan</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
