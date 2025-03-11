@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
 >
-> <p>- Barbara De Angelis</p>
+> <p>- Dhammapada</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
