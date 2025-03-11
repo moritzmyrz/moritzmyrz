@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Maya Angelou</p>
+> <p>- Ed Cunningham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
