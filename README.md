@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- Dhammapada</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
