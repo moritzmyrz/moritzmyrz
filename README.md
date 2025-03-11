@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
