@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
