@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
