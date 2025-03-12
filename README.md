@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> Most powerful is he who has himself in his own power.
 >
-> <p>- Mother Teresa</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
