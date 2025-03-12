@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Jimmy Dean</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
