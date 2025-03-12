@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Martha Washington</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
