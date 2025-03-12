@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> The greater our knowledge increases the more our ignorance unfolds.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
