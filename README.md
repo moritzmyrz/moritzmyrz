@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Og Mandino</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
