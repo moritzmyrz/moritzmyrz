@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
 >
 > <p>- Richard Bach</p>
 
