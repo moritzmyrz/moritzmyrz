@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- Don Shula</p>
+> <p>- Eric Hoffer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
