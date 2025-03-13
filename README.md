@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Virgil</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
