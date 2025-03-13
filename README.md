@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
