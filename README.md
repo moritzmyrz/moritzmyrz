@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am always ready to learn although I do not always like being taught.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Winston Churchill</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
