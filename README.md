@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
