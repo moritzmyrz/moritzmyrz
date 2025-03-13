@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Confucius</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
