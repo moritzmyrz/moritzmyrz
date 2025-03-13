@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
