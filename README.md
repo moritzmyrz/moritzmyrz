@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
