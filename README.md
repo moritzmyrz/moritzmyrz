@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Confucius</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
