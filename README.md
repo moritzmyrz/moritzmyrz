@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Sun Tzu</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
