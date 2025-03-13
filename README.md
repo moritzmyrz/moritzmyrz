@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
