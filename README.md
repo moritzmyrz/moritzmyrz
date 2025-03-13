@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> Love, friendship and respect do not unite people as much as a common hatred for something.
 >
-> <p>- Horace</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
