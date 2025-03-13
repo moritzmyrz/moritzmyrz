@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
