@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
 >
-> <p>- William Blake</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
