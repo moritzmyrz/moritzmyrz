@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
