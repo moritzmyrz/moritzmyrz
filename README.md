@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Akhenaten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
