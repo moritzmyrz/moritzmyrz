@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> A lie gets halfway around the world before the truth has a chance to get its pants on.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
