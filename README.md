@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
 >
-> <p>- Bruce Lee</p>
+> <p>- Paramahansa Yogananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
