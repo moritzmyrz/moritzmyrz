@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
+> Success is where preparation and opportunity meet.
 >
-> <p>- The Buddha</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
