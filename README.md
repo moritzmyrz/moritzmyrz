@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> I have not failed. I've just found 10,000 ways that won't work.
 >
-> <p>- Will Rogers</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
