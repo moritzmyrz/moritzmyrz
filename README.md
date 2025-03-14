@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Never promise more than you can perform.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
