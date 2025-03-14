@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Helen Keller</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
