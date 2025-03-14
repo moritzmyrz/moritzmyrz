@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.
+> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
