@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- John Steinbeck</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
