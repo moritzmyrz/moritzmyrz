@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A lie gets halfway around the world before the truth has a chance to get its pants on.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Winston Churchill</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
