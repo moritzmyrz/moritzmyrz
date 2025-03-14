@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- Laozi</p>
+> <p>- Holly Near</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
