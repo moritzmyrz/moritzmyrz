@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow in choosing a friend, slower in changing.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
