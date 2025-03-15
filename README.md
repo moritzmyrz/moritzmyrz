@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can do it if you believe you can!
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
