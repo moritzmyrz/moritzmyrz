@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- John Dewey</p>
+> <p>- E. M. Forster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
