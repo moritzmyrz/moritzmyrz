@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
