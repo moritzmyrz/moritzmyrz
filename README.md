@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> Every great advance in science has issued from a new audacity of the imagination.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
