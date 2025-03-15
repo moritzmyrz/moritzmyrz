@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Action is the foundational key to all success.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Havelock Ellis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
