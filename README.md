@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
