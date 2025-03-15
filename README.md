@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Jonas Salk</p>
+> <p>- Lauren Bacall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
