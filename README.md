@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> You can do it if you believe you can!
 >
-> <p>- Havelock Ellis</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
