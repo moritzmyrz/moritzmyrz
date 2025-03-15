@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Corita Kent</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
