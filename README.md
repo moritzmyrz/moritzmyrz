@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
 >
-> <p>- Francis Bacon</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
