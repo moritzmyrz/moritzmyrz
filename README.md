@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
 >
-> <p>- Laozi</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
