@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Charles Kingsley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
