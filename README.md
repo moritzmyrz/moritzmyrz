@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
