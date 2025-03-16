@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing impossible to him who will try.
+> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
 >
-> <p>- Alexander the Great</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
