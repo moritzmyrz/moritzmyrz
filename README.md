@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
