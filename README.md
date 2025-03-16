@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> Arriving at one point is the starting point to another.
 >
-> <p>- E. M. Forster</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
