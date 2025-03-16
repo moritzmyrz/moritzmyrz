@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
