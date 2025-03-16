@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.
+> Everything comes to him who hustles while he waits.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
