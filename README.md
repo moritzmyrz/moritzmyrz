@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
