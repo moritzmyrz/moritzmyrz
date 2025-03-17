@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> It's a good thing to be satisfied with what one has.
 >
-> <p>- Mark Twain</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
