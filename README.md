@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Audrey Hepburn</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
