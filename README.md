@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
 >
-> <p>- Hannah Arendt</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
