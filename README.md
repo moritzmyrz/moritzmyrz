@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Aristotle</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
