@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Plutarch</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
