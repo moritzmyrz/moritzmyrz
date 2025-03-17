@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Jonathan Kozol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
