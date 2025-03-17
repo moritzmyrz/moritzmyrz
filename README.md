@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
