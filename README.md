@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> It is impossible to love and to be wise.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
