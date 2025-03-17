@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
+> I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world.
 >
-> <p>- Avery Brooks</p>
+> <p>- Judy Collins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
