@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
