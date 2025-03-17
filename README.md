@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Henry Miller</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
