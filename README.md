@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's a good thing to be satisfied with what one has.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- The Buddha</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
