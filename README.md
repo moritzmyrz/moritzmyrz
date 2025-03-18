@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Farhan Akhtar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
