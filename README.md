@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> Without some goals and some efforts to reach it, no man can live.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
