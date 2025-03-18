@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
