@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Albert Einstein</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
