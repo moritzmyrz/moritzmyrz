@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
