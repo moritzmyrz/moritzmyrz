@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
