@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Jim Rohn</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
