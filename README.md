@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Mother Teresa</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
