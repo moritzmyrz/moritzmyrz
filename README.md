@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >
-> <p>- Euripides</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
