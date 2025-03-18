@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No snowflake in an avalanche ever feels responsible.
+> Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
 >
-> <p>- Voltaire</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
