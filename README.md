@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Your mind will answer most questions if you learn to relax and wait for the answer.
 >
-> <p>- Louise Hay</p>
+> <p>- William Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
