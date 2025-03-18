@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Dorothy Thompson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
