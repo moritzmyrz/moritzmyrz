@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot escape the responsibility of tomorrow by evading it today.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
