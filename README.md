@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Absence makes the heart grow fonder.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Thomas Haynes Bayly</p>
+> <p>- Louise Hay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
