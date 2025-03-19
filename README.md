@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
+> We should all be thankful for those people who rekindle the inner spirit.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
