@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Margaret Chase Smith</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
