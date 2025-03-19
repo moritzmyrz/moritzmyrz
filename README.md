@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Robert Graves</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
