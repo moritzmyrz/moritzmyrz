@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Bruce Lee</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
