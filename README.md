@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- John Wooden</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
