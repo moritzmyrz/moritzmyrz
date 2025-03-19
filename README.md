@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
