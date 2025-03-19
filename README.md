@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
