@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+> Setting an example is not the main means of influencing another, it is the only means.
 >
-> <p>- Laozi</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
