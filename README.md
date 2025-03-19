@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is good even for old men to learn wisdom.
+> Always remember that you are absolutely unique. Just like everyone else.
 >
-> <p>- Aeschylus</p>
+> <p>- Margaret Mead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
