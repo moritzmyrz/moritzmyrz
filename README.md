@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> Happiness depends upon ourselves.
 >
-> <p>- Sophocles</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
