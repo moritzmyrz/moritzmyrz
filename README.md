@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- John Updike</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
