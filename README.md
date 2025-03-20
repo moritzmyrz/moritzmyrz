@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
