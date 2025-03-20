@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Bruce Lee</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
