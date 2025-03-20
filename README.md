@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> He who conquers others is strong; He who conquers himself is mighty.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
