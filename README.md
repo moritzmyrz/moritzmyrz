@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- The Buddha</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
