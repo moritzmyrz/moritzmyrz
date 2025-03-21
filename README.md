@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- Olivier Messiaen</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
