@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Richard Whately</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
