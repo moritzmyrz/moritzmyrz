@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
+> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
 >
-> <p>- Jane Addams</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
