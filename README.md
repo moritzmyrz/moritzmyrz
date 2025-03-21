@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We lost because we told ourselves we lost.
+> Everything that happens as it should, and if you observe carefully, you will find this to be so.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
