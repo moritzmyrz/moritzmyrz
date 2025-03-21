@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
