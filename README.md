@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Karl Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
