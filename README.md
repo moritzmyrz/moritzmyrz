@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
