@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
