@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is the power to put our time and our knowledge to the proper use.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Thomas J. Watson</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
