@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Zig Ziglar</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
