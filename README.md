@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He has no enemies, but is intensely disliked by his friends.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Oscar Wilde</p>
+> <p>- John Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
