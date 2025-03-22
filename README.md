@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> Wisdom is the power to put our time and our knowledge to the proper use.
 >
-> <p>- Richard Bach</p>
+> <p>- Thomas J. Watson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
