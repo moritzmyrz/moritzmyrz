@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All experiences are preceded by mind, having mind as their master, created by mind.
+> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
 >
-> <p>- The Buddha</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
