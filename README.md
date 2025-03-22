@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
