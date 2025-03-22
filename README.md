@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Billy Wilder</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
