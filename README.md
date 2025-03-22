@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
+> All I can say about life is, Oh God, enjoy it!
 >
-> <p>- The Buddha</p>
+> <p>- Bob Newhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
