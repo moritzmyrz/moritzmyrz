@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> All experiences are preceded by mind, having mind as their master, created by mind.
 >
-> <p>- Lou Holtz</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
