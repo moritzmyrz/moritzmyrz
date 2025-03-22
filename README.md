@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
