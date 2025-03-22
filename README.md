@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
