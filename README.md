@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Dalai Lama</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
