@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Lily Tomlin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
