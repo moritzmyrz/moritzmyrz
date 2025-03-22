@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
