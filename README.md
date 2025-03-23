@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Robert Griffin III</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
