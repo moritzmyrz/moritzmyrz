@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
+> Government of the people, by the people, for the people, shall not perish from the Earth.
 >
-> <p>- Babatunde Olatunji</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
