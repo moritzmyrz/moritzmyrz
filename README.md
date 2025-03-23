@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Government of the people, by the people, for the people, shall not perish from the Earth.
+> All things change; nothing perishes.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
