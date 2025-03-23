@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> Either I will find a way, or I will make one.
 >
-> <p>- Walt Whitman</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
