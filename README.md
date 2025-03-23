@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Sogyal Rinpoche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
