@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Herbert Bayard Swope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
