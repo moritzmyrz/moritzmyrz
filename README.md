@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
