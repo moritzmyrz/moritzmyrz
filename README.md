@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
