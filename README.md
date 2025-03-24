@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
