@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
 >
-> <p>- Laozi</p>
+> <p>- Afrika Bambaataa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
