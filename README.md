@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
