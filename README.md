@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
