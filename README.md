@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
