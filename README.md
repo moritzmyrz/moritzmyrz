@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No one has a finer command of language than the person who keeps his mouth shut.
+> Smile, breathe and go slowly.
 >
-> <p>- Sam Rayburn</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
