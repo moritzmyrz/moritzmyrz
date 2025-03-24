@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Helen Keller</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
