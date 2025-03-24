@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> Music in the soul can be heard by the universe.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
