@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom comes alone through suffering.
+> No one has a finer command of language than the person who keeps his mouth shut.
 >
-> <p>- Aeschylus</p>
+> <p>- Sam Rayburn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
