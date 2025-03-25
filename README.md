@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> There never was a good knife made of bad steel.
 >
-> <p>- James M. Beggs</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
