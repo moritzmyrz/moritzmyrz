@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+> One who is too insistent on his own views, finds few to agree with him.
 >
-> <p>- Brian Tracy</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
