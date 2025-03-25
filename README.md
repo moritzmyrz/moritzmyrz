@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> Life is what happens while you are making other plans.
 >
-> <p>- Anaïs Nin</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
