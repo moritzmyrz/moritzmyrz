@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Benjamin Spock</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
