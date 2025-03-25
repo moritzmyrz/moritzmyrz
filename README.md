@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- E. M. Forster</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
