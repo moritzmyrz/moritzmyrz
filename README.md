@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Benjamin Spock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
