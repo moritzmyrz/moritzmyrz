@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- William Inge</p>
+> <p>- Uta Hagen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
