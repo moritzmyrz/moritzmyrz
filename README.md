@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- John Lennon</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
