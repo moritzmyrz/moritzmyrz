@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
