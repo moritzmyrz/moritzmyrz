@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> We must become the change we want to see.
 >
-> <p>- Peter Drucker</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
