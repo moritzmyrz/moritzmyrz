@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
