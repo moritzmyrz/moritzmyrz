@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we are no longer able to change a situation - we are challenged to change ourselves.
+> Take things as they are. Punch when you have to punch. Kick when you have to kick.
 >
-> <p>- Viktor Frankl</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
