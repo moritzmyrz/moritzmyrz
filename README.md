@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The eye sees only what the mind is prepared to comprehend.
+> Do not go where the path may lead, go instead where there is no path and leave a trail.
 >
-> <p>- Henri Bergson</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
