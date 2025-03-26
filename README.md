@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom alone is the science of other sciences.
+> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
 >
-> <p>- Plato</p>
+> <p>- Stephen Hawking</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
