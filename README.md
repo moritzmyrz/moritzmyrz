@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
 >
-> <p>- George Orwell</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
