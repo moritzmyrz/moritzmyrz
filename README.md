@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
