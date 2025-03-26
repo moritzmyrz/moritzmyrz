@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> The eye sees only what the mind is prepared to comprehend.
 >
-> <p>- Albert Einstein</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
