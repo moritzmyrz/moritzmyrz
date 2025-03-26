@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We could never learn to be brave and patient if there were only joy in the world.
+> Meaning is not what you start with but what you end up with.
 >
-> <p>- Helen Keller</p>
+> <p>- Peter Elbow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
