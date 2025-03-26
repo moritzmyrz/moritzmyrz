@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Edmund Burke</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
