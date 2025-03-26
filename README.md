@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> Myths which are believed in tend to become true.
 >
-> <p>- Epictetus</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
