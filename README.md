@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- George S. Patton</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
