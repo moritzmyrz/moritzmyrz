@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
 >
-> <p>- Sophocles</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
