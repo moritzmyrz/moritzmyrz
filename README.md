@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> Arriving at one point is the starting point to another.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
