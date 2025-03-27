@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Plato</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
