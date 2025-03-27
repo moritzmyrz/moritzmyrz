@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> Technology is teaching us to be human again.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Simon Mainwaring</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
