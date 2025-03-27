@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
