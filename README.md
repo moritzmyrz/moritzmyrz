@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease.
+> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
 >
-> <p>- Thomas Edison</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
