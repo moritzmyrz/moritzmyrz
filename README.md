@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Albert Einstein</p>
+> <p>- Charles Du Bos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
