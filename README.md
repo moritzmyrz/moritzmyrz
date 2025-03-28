@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
