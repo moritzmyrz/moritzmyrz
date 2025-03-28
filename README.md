@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- Charles Du Bos</p>
+> <p>- Harvey Mackay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
