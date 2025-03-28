@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Laozi</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
