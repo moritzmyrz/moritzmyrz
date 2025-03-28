@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> No man is free who is not master of himself.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
