@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
