@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> The human spirit must prevail over technology.
 >
-> <p>- Martha Washington</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
