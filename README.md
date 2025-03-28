@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> Things do not happen. Things are made to happen.
 >
-> <p>- Sai Baba</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
