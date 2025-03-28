@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The sum of wisdom is that time is never lost that is devoted to work.
+> What worries you masters you.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Haddon Robinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
