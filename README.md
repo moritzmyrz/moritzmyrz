@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man is free who is not master of himself.
+> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
 >
-> <p>- Epictetus</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
