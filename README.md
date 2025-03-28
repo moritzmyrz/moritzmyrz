@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> You are always free to change your mind and choose a different future, or a different past.
 >
 > <p>- Richard Bach</p>
 
