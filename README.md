@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> Champions keep playing until they get it right.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
