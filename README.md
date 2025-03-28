@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Richard Bach</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
