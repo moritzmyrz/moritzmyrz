@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- René Descartes</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
