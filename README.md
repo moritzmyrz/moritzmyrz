@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The human spirit must prevail over technology.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Albert Einstein</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
