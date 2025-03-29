@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> If I were two-faced, would I be wearing this one?
 >
-> <p>- Albert Einstein</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
