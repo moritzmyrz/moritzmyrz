@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Nothing but heaven itself is better than a friend who is really a friend.
 >
-> <p>- Mark Twain</p>
+> <p>- Plautus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
