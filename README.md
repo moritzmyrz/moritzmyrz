@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Immanuel Kant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
