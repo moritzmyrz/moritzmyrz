@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing but heaven itself is better than a friend who is really a friend.
+> We must become the change we want to see.
 >
-> <p>- Plautus</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
