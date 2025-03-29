@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Rumi</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
