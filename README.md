@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
