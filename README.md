@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Archimedes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
