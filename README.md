@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fortune favors the brave.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- Virgil</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
