@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One that desires to excel should endeavor in those things that are in themselves most excellent.
+> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
 >
-> <p>- Epictetus</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
