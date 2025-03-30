@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> Do what you can. Want what you have. Be who you are.
 >
-> <p>- Victor Hugo</p>
+> <p>- Forrest Church</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
