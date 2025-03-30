@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> Those who are free of resentful thoughts surely find peace.
 >
-> <p>- John Wooden</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
