@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Purity and impurity depend on oneself; no one can purify another.
+> Life is the flower for which love is the honey.
 >
-> <p>- The Buddha</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
