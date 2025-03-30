@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who are free of resentful thoughts surely find peace.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
 >
-> <p>- The Buddha</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
