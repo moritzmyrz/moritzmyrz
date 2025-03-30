@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- Rumi</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
