@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> Purity and impurity depend on oneself; no one can purify another.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
