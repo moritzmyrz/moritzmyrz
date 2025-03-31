@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
