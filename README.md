@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Confucius</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
