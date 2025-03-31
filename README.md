@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Mark Twain</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
