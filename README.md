@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> Where there is great love, there are always miracles.
 >
-> <p>- Joe Paterno</p>
+> <p>- Willa Cather</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
