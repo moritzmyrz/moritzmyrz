@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- Elon Musk</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
