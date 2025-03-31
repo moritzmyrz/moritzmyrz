@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the best policy.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
