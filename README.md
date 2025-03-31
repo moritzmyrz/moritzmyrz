@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anything you really want, you can attain, if you really go after it.
+> The biggest room in the world is room for improvement.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Helmut Schmidt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
