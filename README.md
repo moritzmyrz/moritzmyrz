@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Richard Bach</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
