@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> No man was ever wise by chance.
 >
-> <p>- Willa Cather</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
