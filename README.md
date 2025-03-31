@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
