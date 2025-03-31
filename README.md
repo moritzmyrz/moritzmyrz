@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is anything that wasn't around when you were born.
+> Know how to listen, and you will profit even from those who talk badly.
 >
-> <p>- Man Ray</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
