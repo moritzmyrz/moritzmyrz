@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
 >
-> <p>- Albert Einstein</p>
+> <p>- Olivier Messiaen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
