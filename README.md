@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge rests not upon truth alone, but upon error also.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Carl Jung</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
