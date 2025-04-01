@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> Experience is not what happens to a man. It is what a man does with what happens to him.
 >
-> <p>- Norman Cousins</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
