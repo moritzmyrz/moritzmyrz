@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change in all things is sweet.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Aristotle</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
