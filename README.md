@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is not what happens to a man. It is what a man does with what happens to him.
+> I am an optimist. It does not seem too much use being anything else.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
