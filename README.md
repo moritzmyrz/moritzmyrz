@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Euripides</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
