@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
