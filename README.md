@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
+> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
 >
-> <p>- Olivier Messiaen</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
