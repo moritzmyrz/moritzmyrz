@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
 >
-> <p>- Amelia Earhart</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
