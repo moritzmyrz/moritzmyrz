@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am an optimist. It does not seem too much use being anything else.
+> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
 >
-> <p>- Winston Churchill</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
