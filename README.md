@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
+> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- David Rockefeller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
