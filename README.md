@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> Do more than dream: work.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
