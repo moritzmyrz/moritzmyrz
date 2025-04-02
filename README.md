@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Feeling and longing are the motive forces behind all human endeavor and human creations.
+> Resolutely train yourself to attain peace.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
