@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The cause is hidden. The effect is visible to all.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Ovid</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
