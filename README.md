@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> I believe in one thing only, the power of human will.
 >
-> <p>- Helen Keller</p>
+> <p>- Joseph Stalin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
