@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
 >
-> <p>- Richard Bach</p>
+> <p>- Niccolò Machiavelli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
