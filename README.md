@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Anne Lamott</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
