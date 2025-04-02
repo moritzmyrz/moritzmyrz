@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> Joy is the best makeup.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Anne Lamott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
