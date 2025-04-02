@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Resolutely train yourself to attain peace.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- The Buddha</p>
+> <p>- Samuel Beckett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
