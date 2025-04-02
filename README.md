@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Albert Camus</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
