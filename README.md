@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> Music is a higher revelation than all wisdom and philosophy.
 >
-> <p>- Joe Paterno</p>
+> <p>- Ludwig van Beethoven</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
