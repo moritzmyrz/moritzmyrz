@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
