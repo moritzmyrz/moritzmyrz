@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 >
-> <p>- Mark Twain</p>
+> <p>- Julian Casablancas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
