@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> He that is giddy thinks the world turns round.
 >
-> <p>- Sophocles</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
