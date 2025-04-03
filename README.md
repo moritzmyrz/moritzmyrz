@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
