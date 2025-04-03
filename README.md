@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> Wrinkles should merely indicate where smiles have been.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
