@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Nelson Mandela</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
