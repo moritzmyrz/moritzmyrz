@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
