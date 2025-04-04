@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
