@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> The only time to buy these is on a day with no 'y' in it.
 >
-> <p>- Sophocles</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
