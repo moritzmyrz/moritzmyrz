@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> Be the change that you want to see in the world.
 >
-> <p>- Lena Horne</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
