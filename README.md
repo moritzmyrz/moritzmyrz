@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Unless one is able to live fully in the present, the future is a hoax.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Alan Watts</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
