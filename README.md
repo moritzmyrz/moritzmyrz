@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
+> Always be smarter than the people who hire you.
 >
-> <p>- Winston Churchill</p>
+> <p>- Lena Horne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
