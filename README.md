@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> The universe is transformation; our life is what our thoughts make it.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
