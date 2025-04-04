@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A disciplined mind brings happiness.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- The Buddha</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
