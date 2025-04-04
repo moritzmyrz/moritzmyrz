@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only time to buy these is on a day with no 'y' in it.
+> Knowing is not enough; we must apply!
 >
-> <p>- Warren Buffett</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
