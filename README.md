@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
