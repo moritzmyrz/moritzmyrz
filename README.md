@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is the right to live as we wish.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Epictetus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
