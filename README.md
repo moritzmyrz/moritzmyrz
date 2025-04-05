@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> The most I can do for my friend is simply be his friend.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
