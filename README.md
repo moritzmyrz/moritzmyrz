@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> No one can make you feel inferior without your consent.
 >
-> <p>- Confucius</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
