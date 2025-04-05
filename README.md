@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> Men are disturbed not by things, but by the view which they take of them.
 >
-> <p>- Laozi</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
