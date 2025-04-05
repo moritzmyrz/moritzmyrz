@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> Once you label me you negate me.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
