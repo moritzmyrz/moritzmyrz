@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
 >
-> <p>- Confucius</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
