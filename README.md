@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Masayoshi Son</p>
+> <p>- Erasmus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
