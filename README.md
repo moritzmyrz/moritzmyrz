@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
