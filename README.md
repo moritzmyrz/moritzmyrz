@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most I can do for my friend is simply be his friend.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
