@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> Skill to do comes of doing.
 >
-> <p>- Carol Burnett</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
