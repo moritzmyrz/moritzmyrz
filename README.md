@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Bruce Lee</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
