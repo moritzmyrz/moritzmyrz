@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> I'm a great believer in luck and I find the harder I work, the more I have of it.
 >
-> <p>- Maya Angelou</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
