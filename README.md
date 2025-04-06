@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
