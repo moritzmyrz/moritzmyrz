@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm a great believer in luck and I find the harder I work, the more I have of it.
+> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
