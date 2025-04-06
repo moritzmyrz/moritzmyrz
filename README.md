@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> No valid plans for the future can be made by those who have no capacity for living now.
 >
-> <p>- Sophocles</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
