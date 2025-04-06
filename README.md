@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Alan Watts</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
