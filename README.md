@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
