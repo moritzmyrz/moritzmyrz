@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
+> Imagination is not a talent of some men but is the health of every man.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
