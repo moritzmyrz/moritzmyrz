@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
