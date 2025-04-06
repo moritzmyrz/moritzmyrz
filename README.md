@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> Take rest; a field that has rested gives a bountiful crop.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
