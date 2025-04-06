@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Thomas Edison</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
