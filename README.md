@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
