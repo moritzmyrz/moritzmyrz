@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your friend is your needs answered.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
