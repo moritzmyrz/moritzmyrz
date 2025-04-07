@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Always do your best. What you plant now, you will harvest later.
 >
-> <p>- Tony Robbins</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
