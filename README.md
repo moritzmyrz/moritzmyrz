@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let yourself be silently drawn by the stronger pull of what you really love.
+> When people are like each other they tend to like each other.
 >
-> <p>- Rumi</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
