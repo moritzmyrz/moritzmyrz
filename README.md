@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> Beware lest you lose the substance by grasping at the shadow.
 >
-> <p>- William Shakespeare</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
