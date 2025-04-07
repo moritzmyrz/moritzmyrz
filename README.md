@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> One today is worth two tomorrows.
 >
-> <p>- John Burroughs</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
