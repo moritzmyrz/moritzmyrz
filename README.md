@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
