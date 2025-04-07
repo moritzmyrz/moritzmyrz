@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
