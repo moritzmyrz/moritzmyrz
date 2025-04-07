@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is where preparation and opportunity meet.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Bobby Unser</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
