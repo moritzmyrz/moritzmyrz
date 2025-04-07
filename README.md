@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History is written by the victors.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Winston Churchill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
