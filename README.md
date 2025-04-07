@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not only for what we do that we are held responsible, but also for what we do not do.
+> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
 >
-> <p>- Molière</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
