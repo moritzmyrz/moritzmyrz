@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> Nothing great was ever achieved without enthusiasm.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
