@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is one mind in two bodies.
+> History is written by the victors.
 >
-> <p>- Mencius</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
