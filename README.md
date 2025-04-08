@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> Wisdom is found only in truth.
 >
-> <p>- Charles Dickens</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
