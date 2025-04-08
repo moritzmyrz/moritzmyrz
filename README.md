@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> Learn from yesterday, live for today, hope for tomorrow.
 >
-> <p>- John Lasseter</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
