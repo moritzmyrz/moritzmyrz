@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
