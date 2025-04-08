@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
 >
-> <p>- Confucius</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
