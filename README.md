@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
