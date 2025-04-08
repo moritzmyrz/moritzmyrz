@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whether you think you can or you think you can't, you are right.
+> The pain passes, but the beauty remains.
 >
-> <p>- Henry Ford</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
