@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay committed to your decisions, but stay flexible in your approach.
+> It is good even for old men to learn wisdom.
 >
-> <p>- Tony Robbins</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
