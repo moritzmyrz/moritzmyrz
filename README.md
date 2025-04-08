@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
