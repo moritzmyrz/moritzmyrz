@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learn from yesterday, live for today, hope for tomorrow.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
