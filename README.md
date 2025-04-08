@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Max Frisch</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
