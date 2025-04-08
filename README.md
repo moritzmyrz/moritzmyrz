@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is found only in truth.
+> Whether you think you can or you think you can't, you are right.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
