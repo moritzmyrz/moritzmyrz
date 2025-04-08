@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Max Planck</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
