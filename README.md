@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Anatole France</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
