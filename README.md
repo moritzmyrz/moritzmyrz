@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Lucille Ball</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
