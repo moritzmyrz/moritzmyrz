@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
 >
-> <p>- Sandy Koufax</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
