@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.
+> You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person.
 >
-> <p>- Og Mandino</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
