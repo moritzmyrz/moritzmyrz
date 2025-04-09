@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> Life is a succession of lessons, which must be lived to be understood.
 >
 > <p>- Ralph Waldo Emerson</p>
 
