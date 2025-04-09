@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Nothing in life is so exhilarating as to be shot at without result.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
