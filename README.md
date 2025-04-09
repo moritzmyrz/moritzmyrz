@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
 >
-> <p>- Jane Addams</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
