@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> Without some goals and some efforts to reach it, no man can live.
 >
-> <p>- Earl Monroe</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
