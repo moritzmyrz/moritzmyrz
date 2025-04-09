@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
