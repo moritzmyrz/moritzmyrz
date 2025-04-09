@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without some goals and some efforts to reach it, no man can live.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- John Dewey</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
