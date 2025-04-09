@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> Memory is the mother of all wisdom.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
