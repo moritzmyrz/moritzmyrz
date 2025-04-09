@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Earl Monroe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
