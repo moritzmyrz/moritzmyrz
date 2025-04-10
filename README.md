@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
