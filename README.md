@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Aristotle</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
