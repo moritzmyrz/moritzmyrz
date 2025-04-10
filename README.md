@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
