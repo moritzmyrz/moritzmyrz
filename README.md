@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- David Rockefeller</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
