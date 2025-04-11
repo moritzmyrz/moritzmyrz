@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.
+> Music is a higher revelation than all wisdom and philosophy.
 >
-> <p>- Cicero</p>
+> <p>- Ludwig van Beethoven</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
