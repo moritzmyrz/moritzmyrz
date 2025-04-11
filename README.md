@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Muhammad Ali</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
