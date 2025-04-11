@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> The path to success is to take massive, determined action.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
