@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Dalai Lama</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
