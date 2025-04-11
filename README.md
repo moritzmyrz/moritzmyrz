@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
