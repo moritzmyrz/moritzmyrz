@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- William Shakespeare</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
