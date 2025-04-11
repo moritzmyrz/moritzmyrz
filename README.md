@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
