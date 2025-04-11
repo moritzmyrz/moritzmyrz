@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> True friends stab you in the front.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
