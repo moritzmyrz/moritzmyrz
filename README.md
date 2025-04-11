@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friends stab you in the front.
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
