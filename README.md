@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The human spirit must prevail over technology.
+> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
 >
-> <p>- Albert Einstein</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
