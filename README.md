@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- E. E. Cummings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
