@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- René Descartes</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
