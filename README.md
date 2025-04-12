@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As a cure for worrying, work is better than whisky.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>- Thomas Edison</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
