@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Dalai Lama</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
