@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
 >
-> <p>- Alan Watts</p>
+> <p>- Isaac D'Israeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
