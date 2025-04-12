@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> The years teach much which the days never know.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
