@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Epictetus</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
