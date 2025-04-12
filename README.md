@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Rachel Carson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
