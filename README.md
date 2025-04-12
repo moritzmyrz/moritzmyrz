@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Thomas Edison</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
