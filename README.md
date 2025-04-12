@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man acts before he speaks, and afterwards speaks according to his action.
+> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
 >
-> <p>- Confucius</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
