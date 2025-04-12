@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do one thing every day that scares you.
+> If a man watches three football games in a row, he should be declared legally dead.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Erma Bombeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
