@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
