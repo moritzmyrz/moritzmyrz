@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> No garden is without its weeds.
 >
-> <p>- Doris Mortman</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
