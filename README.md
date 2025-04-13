@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Aristotle</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
