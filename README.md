@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
 >
-> <p>- Aristotle</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
