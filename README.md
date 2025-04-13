@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Og Mandino</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
