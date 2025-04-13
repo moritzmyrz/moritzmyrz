@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- John Lennon</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
