@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> Well begun is half done.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
