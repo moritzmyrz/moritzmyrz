@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Anybody can make history. Only a great man can write it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
