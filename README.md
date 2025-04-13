@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- Richard Bach</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
