@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Winston Churchill</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
