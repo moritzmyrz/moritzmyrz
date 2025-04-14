@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 >
-> <p>- Billie Jean King</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
