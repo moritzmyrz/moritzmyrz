@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- Elisabeth Kübler-Ross</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
