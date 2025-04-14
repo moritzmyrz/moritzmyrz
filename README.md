@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
