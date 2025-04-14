@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- Francis Bacon</p>
+> <p>- Morris West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
