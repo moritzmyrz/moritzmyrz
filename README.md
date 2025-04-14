@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't want to achieve immortality through my work... I want to achieve it through not dying.
+> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
 >
-> <p>- Woody Allen</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
