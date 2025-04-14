@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
