@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only put off until tomorrow what you are willing to die having left undone.
+> Love is the flower you've got to let grow.
 >
-> <p>- Pablo Picasso</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
