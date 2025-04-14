@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot be more sensitive to pleasure without being more sensitive to pain.
+> The only journey is the one within.
 >
-> <p>- Alan Watts</p>
+> <p>- Rainer Maria Rilke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
