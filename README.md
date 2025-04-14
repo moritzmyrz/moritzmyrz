@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Morris West</p>
+> <p>- Bob Knight</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
