@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> Leave no stone unturned.
 >
-> <p>- John Lasseter</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
