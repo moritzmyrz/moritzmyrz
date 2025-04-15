@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> Experience is not what happens to a man. It is what a man does with what happens to him.
 >
-> <p>- George Santayana</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
