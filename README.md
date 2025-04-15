@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- J. M. Barrie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
