@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- J. M. Barrie</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
