@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Leave no stone unturned.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Euripides</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
