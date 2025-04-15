@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> Good thoughts are no better than good dreams, unless they be executed.
 >
-> <p>- Sun Tzu</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
