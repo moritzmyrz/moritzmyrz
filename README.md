@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good thoughts are no better than good dreams, unless they be executed.
+> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
