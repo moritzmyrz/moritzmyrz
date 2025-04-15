@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is the marriage of the soul, and this marriage is liable to divorce.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Voltaire</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
