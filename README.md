@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- William C. Menninger</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
