@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> The two most powerful warriors are patience and time.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
