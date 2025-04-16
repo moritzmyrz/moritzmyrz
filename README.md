@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
