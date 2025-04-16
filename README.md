@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are wiser than we know.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
