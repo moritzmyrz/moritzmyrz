@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
