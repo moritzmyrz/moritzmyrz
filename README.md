@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Susan Orlean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
