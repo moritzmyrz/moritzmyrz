@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> Friendship is essentially a partnership.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
