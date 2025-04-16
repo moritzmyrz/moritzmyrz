@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
+> A friend is one who knows you and loves you just the same.
 >
-> <p>- The Buddha</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
