@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Dalai Lama</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
