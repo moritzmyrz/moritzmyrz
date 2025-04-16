@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> Blessed are the hearts that can bend; they shall never be broken.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
