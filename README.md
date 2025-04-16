@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> The most certain sign of wisdom is cheerfulness.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
