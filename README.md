@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
