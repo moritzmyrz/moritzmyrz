@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm a great believer in luck and I find the harder I work, the more I have of it.
+> Waste no more time arguing about what a good man should be. Be one.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
