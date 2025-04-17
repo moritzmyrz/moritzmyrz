@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> Thought is the blossom; language the bud; action the fruit behind it.
 >
-> <p>- Epictetus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
