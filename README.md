@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> There is nothing permanent except change.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
