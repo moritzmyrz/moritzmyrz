@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Philip Sidney</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
