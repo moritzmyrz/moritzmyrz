@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- Robert Frost</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
