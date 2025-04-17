@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is contented is rich.
+> A friend is, as it were, a second self.
 >
-> <p>- Laozi</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
