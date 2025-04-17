@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
