@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Alexis Carrel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
