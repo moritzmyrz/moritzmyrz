@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Peter Abelard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
