@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> Fortune befriends the bold.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
