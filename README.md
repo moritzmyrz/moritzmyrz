@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> Sadness flies away on the wings of time.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
