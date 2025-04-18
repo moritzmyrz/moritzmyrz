@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
+> The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
 >
-> <p>- John Keats</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
