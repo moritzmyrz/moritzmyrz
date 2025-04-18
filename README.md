@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
