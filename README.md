@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> Much wisdom often goes with fewer words.
 >
-> <p>- William Blake</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
