@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that exists is in a manner the seed of that which will be.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Amy Bloom</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
