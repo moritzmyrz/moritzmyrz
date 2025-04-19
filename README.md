@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't know a millionth of one percent about anything.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Thomas Edison</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
