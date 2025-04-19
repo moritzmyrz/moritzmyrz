@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When in doubt, don't.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
