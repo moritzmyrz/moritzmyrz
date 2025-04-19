@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> Everything that exists is in a manner the seed of that which will be.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
