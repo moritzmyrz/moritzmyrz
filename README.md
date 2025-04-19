@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
