@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
