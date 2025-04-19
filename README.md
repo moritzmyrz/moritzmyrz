@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
 >
-> <p>- Epictetus</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
