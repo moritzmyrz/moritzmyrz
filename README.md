@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> Be as you wish to seem.
 >
-> <p>- Anne Frank</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
