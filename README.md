@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> One fails forward toward success.
 >
-> <p>- Napoleon</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
