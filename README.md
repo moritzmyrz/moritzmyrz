@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Dale Turner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
