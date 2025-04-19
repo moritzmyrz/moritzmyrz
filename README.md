@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> Nothing will work unless you do.
 >
-> <p>- William Shakespeare</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
