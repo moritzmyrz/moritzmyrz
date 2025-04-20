@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> There never was a good knife made of bad steel.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
