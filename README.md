@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There never was a good knife made of bad steel.
+> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
