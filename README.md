@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
