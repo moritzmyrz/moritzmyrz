@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+> Everything you can imagine is real.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
