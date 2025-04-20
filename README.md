@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History is written by the victors.
+> He who knows himself is enlightened.
 >
-> <p>- Winston Churchill</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
