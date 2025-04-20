@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Cicero</p>
+> <p>- James M. Beggs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
