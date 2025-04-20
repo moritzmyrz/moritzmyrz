@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- Horace</p>
+> <p>- Jonathan Kozol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
