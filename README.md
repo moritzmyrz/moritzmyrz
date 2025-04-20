@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> I can, therefore I am.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
