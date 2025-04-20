@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> Great acts are made up of small deeds.
 >
-> <p>- James M. Beggs</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
