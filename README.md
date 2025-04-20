@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great acts are made up of small deeds.
+> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Laozi</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
