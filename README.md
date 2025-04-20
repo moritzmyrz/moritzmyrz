@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
 >
-> <p>- Peter Elbow</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
