@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is someone who is there for you when he'd rather be anywhere else.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 >
-> <p>- Len Wein</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
