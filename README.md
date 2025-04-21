@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
