@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
