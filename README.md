@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
