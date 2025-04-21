@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Abigail Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
