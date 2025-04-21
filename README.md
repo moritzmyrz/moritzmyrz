@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
 >
-> <p>- Dalai Lama</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
