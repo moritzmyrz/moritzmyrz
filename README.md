@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's the little details that are vital. Little things make big things happen.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- John Wooden</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
