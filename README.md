@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you surrender to the wind, you can ride it.
+> Memory is the mother of all wisdom.
 >
-> <p>- Toni Morrison</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
