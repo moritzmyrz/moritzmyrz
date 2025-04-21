@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
