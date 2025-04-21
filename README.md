@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> Most powerful is he who has himself in his own power.
 >
-> <p>- Confucius</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
