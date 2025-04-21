@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
