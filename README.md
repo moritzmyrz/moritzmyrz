@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
