@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
