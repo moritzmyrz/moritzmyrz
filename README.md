@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
