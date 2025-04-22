@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> Swim upstream. Go the other way. Ignore the conventional wisdom.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Sam Walton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
