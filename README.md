@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
 >
-> <p>- Satchel Paige</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
