@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Confucius</p>
+> <p>- Thornton Wilder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
