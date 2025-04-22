@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Carl Jung</p>
+> <p>- Alice Walker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
