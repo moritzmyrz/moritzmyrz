@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> The thing always happens that you really believe in; and the belief in a thing makes it happen.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Frank Lloyd Wright</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
