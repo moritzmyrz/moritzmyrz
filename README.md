@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Mother Angelica</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
