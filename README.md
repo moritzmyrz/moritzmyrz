@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
 >
-> <p>- Marie Curie</p>
+> <p>- Mother Angelica</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
