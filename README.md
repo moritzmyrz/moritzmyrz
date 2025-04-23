@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
