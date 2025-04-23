@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
