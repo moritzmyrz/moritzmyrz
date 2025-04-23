@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
