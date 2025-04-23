@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are stuck with technology when what we really want is just stuff that works.
+> The language of friendship is not words but meanings.
 >
-> <p>- Douglas Adams</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
