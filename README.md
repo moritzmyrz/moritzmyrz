@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Andy Warhol</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
