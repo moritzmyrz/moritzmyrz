@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Tony Robbins</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
