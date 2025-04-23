@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
