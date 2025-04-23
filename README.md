@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Margaret Fuller</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
