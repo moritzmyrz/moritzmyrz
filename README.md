@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
 >
-> <p>- Léon Blum</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
