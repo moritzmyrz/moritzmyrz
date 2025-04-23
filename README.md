@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> The biggest room in the world is room for improvement.
 >
-> <p>- Mother Teresa</p>
+> <p>- Helmut Schmidt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
