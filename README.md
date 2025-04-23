@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> When people are like each other they tend to like each other.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
