@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> Sadness flies away on the wings of time.
 >
-> <p>- John Dewey</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
