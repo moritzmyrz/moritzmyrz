@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- Plato</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
