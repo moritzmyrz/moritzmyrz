@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Corita Kent</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
