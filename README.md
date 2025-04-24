@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth is not for all men, but only for those who seek it.
+> Great acts are made up of small deeds.
 >
-> <p>- Ayn Rand</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
