@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> To improve is to change; to be perfect is to change often.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
