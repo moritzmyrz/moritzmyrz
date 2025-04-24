@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
