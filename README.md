@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Thomas Edison</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
