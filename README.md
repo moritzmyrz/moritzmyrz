@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I prefer the folly of enthusiasm to the indifference of wisdom.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Anatole France</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
