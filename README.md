@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
