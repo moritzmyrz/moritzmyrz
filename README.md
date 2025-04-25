@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that is giddy thinks the world turns round.
+> The more you care, the stronger you can be.
 >
-> <p>- William Shakespeare</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
