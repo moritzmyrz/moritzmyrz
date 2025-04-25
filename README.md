@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly as fast as thought, you must begin by knowing that you have already arrived.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Richard Bach</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
