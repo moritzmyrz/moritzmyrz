@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Jane Austen</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
