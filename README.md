@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> He that is giddy thinks the world turns round.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
