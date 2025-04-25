@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
