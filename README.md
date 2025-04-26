@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- Albert Einstein</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
