@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Jim Rohn</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
