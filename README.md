@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Thomas Edison</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
