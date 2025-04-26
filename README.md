@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> We have two ears and one mouth so that we can listen twice as much as we speak.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
