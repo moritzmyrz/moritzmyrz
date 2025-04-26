@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take things as they are. Punch when you have to punch. Kick when you have to kick.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Bruce Lee</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
