@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ask yourself the secret of your success. Listen to your answer and practice it.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Richard Bach</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
