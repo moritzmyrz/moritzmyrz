@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Liberty, taking the word in its concrete sense, consists in the ability to choose.
+> I walk slowly, but I never walk backward.
 >
-> <p>- Simone Weil</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
