@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 >
-> <p>- Plato</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
