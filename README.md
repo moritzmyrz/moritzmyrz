@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most effective way to do it, is to do it.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
