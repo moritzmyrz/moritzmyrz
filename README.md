@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend to all is a friend to none.
+> Never mistake activity for achievement.
 >
-> <p>- Aristotle</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
