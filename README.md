@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> Take things as they are. Punch when you have to punch. Kick when you have to kick.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
