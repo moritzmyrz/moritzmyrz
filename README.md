@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
