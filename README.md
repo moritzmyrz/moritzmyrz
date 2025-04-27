@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
 >
-> <p>- John Eliot</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
