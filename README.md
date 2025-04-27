@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> Efficiency is doing things right; effectiveness is doing the right things.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
