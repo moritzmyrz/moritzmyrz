@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Joseph Addison</p>
+> <p>- Ed Cunningham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
