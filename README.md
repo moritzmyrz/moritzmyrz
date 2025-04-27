@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
