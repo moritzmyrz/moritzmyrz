@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
+> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 >
-> <p>- Dalai Lama</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
