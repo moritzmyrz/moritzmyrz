@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- Epictetus</p>
+> <p>- Joseph Addison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
