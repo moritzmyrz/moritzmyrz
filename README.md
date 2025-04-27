@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
