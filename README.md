@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
 >
-> <p>- John Wooden</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
