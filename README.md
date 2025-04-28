@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> Great acts are made up of small deeds.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
