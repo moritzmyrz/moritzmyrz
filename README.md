@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> So much technology, so little talent.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
