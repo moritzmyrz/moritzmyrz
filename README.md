@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
