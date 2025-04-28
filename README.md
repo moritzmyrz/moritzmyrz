@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think as a wise man but communicate in the language of the people.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
