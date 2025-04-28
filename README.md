@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am an optimist. It does not seem too much use being anything else.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
