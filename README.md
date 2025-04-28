@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Everything that irritates us about others can lead us to a better understanding of ourselves.
 >
-> <p>- Louise Hay</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
