@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> There never was a good knife made of bad steel.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
