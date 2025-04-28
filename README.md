@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Ovid</p>
+> <p>- Louise Hay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
