@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nobody made a greater mistake than he who did nothing because he could do only a little.
+> When a thing is done, it's done. Don't look back. Look forward to your next objective.
 >
-> <p>- Edmund Burke</p>
+> <p>- George Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
