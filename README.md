@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every problem has a gift for you in its hands.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Richard Bach</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
