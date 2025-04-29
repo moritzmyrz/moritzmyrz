@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- René Descartes</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
