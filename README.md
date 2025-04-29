@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- The Buddha</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
