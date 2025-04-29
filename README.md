@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Corita Kent</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
