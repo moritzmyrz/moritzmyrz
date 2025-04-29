@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Sophocles</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
