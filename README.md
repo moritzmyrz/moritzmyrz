@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> True friends stab you in the front.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
