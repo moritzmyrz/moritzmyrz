@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
