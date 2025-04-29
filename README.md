@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friends stab you in the front.
+> May all beings have happy minds.
 >
-> <p>- Oscar Wilde</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
