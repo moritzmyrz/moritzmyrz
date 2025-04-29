@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> You cannot have what you do not want.
 >
-> <p>- Aristotle</p>
+> <p>- John Acosta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
