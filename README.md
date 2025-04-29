@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> May all beings have happy minds.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
