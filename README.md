@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Hannah Arendt</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
