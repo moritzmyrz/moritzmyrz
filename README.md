@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
 >
-> <p>- The Buddha</p>
+> <p>- Plotinus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
