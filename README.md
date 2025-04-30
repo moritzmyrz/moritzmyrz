@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> Love is a friendship set to music.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
