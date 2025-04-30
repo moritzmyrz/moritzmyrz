@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Carrie Snow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
