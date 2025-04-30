@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
