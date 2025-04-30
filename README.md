@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
