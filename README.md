@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- Joseph Campbell</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
