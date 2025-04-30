@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> How far that little candle throws its beams! So shines a good deed in a naughty world.
 >
-> <p>- Bernard Shaw</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
