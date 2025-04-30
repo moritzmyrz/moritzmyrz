@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is the marriage of the soul, and this marriage is liable to divorce.
+> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
 >
-> <p>- Voltaire</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
