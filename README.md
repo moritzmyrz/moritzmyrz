@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+> Habit, if not resisted, soon becomes necessity.
 >
-> <p>- William Shakespeare</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
