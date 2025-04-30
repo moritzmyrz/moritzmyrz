@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Plotinus</p>
+> <p>- Hannah Arendt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
