@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> Life is 10% what happens to you and 90% how you react to it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
