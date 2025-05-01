@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
