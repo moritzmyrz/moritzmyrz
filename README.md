@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
