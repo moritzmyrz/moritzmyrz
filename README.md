@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Sam Keen</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
