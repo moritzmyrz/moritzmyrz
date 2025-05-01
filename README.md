@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
