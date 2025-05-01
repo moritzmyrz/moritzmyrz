@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- Doris Mortman</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
