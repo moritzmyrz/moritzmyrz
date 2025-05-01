@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
