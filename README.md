@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- George S. Patton</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
