@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
