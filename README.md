@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never give up, for that is just the place and time that the tide will turn.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Paavo Nurmi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
