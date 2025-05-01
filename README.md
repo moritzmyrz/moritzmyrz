@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
