@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> Take rest; a field that has rested gives a bountiful crop.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
