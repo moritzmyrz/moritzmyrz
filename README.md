@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Amy Bloom</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
