@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Ovid</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
