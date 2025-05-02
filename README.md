@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the living power and prime agent of all human perception.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
