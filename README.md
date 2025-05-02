@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easy to be brave from a safe distance.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Aesop</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
