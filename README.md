@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> To find a man's true character, play golf with him.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- P. G. Wodehouse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
