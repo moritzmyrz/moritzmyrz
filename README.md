@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
 >
-> <p>- Laozi</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
