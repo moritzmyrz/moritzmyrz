@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is where preparation and opportunity meet.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Bobby Unser</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
