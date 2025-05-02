@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If a man watches three football games in a row, he should be declared legally dead.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- Erma Bombeck</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
