@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two ways of spreading light: to be the candle or the mirror that reflects it.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Edith Wharton</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
