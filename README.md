@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> It is easy to be brave from a safe distance.
 >
-> <p>- Charles Darwin</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
