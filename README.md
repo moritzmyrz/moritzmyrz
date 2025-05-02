@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Jim Rohn</p>
+> <p>- Bobby Unser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
