@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One is not called noble who harms living beings. By not harming living beings one is called noble.
+> The best preparation for tomorrow is doing your best today.
 >
-> <p>- The Buddha</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
