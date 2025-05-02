@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- Tom Krause</p>
+> <p>- Charles Darwin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
