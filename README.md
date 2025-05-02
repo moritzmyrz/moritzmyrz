@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Never interrupt your enemy when he is making a mistake.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
