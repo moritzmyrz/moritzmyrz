@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> He who talks more is sooner exhausted.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
