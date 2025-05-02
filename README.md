@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
