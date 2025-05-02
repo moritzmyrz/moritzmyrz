@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> To hell with circumstances, I create opportunities.
 >
-> <p>- Euripides</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
