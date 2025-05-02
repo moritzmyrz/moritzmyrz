@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Bruce Lee</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
