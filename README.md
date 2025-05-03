@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
