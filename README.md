@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> In life, all good things come hard, but wisdom is the hardest to come by.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
