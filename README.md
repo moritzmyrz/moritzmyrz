@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only time to buy these is on a day with no 'y' in it.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Warren Buffett</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
