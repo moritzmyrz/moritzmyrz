@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- May Sarton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
