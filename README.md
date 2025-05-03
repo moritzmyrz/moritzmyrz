@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
