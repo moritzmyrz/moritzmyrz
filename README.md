@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
