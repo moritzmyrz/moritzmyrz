@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> The only time to buy these is on a day with no 'y' in it.
 >
-> <p>- Lucille Ball</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
