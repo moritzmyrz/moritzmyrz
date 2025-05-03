@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
 >
-> <p>- Albert Einstein</p>
+> <p>- Peter Abelard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
