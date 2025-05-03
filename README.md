@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- Peter Abelard</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
