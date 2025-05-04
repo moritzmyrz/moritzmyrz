@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man has a good enough memory to be a successful liar.
+> Friendship is Love without his wings!
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
