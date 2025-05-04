@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
 >
-> <p>- John Lubbock</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
