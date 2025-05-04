@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
