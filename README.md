@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> What we see depends mainly on what we look for.
 >
-> <p>- John Brunner</p>
+> <p>- John Lubbock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
