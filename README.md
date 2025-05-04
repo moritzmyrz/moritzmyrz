@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> Reason and free inquiry are the only effectual agents against error.
 >
-> <p>- Confucius</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
