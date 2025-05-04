@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
