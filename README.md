@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
