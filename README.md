@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love has no age, no limit; and no death.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- John Galsworthy</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
