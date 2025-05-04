@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Love has no age, no limit; and no death.
 >
-> <p>- Tony Robbins</p>
+> <p>- John Galsworthy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
