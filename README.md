@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.
+> When people are like each other they tend to like each other.
 >
 > <p>- Tony Robbins</p>
 
