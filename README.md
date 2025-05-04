@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
