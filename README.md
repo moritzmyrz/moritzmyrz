@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> Once we accept our limits, we go beyond them.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
