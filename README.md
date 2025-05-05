@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> The most complicated achievements of thought are possible without the assistance of consciousness.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
