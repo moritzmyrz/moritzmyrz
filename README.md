@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> To fly, we have to have resistance.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
