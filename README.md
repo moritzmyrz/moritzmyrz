@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
