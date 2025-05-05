@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
