@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- William Shakespeare</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
