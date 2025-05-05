@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most complicated achievements of thought are possible without the assistance of consciousness.
+> Be the change that you want to see in the world.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
