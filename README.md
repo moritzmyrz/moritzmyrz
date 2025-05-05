@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Richard Bach</p>
+> <p>- Herbert Hoover</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
