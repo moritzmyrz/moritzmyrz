@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Stewart Brand</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
