@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly, we have to have resistance.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Maya Lin</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
