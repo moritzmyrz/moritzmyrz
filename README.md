@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
