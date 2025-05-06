@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
