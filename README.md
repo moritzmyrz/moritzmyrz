@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Richard Bach</p>
+> <p>- Farhan Akhtar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
