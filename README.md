@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> He is no fool who gives what he cannot keep to gain what he cannot lose.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Jim Elliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
