@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
 >
-> <p>- John Steinbeck</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
