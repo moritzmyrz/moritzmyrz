@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Richard Bach</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
