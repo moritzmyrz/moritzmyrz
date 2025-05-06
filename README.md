@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- John Muir</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
