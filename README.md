@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> All serious daring starts from within.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
