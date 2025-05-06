@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Niels Bohr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
