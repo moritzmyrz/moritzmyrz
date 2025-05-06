@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
