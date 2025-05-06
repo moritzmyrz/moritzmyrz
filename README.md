@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
