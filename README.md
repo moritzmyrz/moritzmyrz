@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
