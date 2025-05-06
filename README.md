@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Niels Bohr</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
