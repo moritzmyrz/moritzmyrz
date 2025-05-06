@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is someone who is there for you when he'd rather be anywhere else.
+> You teach best what you most need to learn.
 >
-> <p>- Len Wein</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
