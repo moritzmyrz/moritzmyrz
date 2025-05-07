@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Bruce Lee</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
