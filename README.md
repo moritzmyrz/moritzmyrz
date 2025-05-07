@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man should look for what is, and not for what he thinks should be.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Albert Einstein</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
