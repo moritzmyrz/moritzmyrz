@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't feed a hundred people, then feed just one.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Mother Teresa</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
