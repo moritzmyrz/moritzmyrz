@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> Myths which are believed in tend to become true.
 >
-> <p>- Harold Nicolson</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
