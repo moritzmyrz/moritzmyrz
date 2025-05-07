@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
