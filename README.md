@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
 >
-> <p>- George Orwell</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
