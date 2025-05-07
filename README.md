@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Mark Twain</p>
+> <p>- Charles Lamb</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
