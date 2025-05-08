@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> What other people may find in poetry or art museums, I find in the flight of a good drive.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Arnold Palmer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
