@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Michael Phelps</p>
+> <p>- Joseph Prince</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
