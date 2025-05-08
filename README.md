@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just because something doesn't do what you planned it to do doesn't mean it's useless.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Thomas Edison</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
