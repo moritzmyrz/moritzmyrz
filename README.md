@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is one who overlooks your failures and tolerates your success!
+> A prudent question is one half of wisdom.
 >
-> <p>- Doug Larson</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
