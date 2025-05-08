@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before God we are all equally wise - and equally foolish.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
