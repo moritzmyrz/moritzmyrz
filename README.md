@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- Francis Bacon</p>
+> <p>- Michael Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
