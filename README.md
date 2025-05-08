@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Joseph Prince</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
