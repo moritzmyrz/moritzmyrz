@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
+> The world is but a canvas to the imagination.
 >
-> <p>- The Buddha</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
