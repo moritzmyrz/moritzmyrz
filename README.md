@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
