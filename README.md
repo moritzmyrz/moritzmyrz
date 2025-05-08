@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
