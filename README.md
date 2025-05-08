@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> I have always found that mercy bears richer fruits than strict justice.
 >
-> <p>- Mark Twain</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
