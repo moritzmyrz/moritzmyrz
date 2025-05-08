@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> Before God we are all equally wise - and equally foolish.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
