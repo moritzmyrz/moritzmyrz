@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
