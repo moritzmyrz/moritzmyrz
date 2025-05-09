@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- William C. Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
