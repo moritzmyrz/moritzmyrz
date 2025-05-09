@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
+> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
 >
-> <p>- Harvey Mackay</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
