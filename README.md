@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Robert Schuller</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
