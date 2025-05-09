@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Henry Moore</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
