@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Léon Blum</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
