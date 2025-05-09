@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
