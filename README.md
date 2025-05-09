@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
