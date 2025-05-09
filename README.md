@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
+> Nothing in life is to be feared. It is only to be understood.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
