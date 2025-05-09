@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- John Keats</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
