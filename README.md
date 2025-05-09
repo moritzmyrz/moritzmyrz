@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work while you have the light. You are responsible for the talent that has been entrusted to you.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
