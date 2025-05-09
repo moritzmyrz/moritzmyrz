@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Anatole France</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
