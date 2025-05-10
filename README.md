@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Ernie Banks</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
