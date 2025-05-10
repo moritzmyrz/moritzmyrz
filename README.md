@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You won't skid if you stay in a rut.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Kin Hubbard</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
