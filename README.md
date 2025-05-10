@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> You won't skid if you stay in a rut.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
