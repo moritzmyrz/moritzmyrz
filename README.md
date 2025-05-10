@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Carl Jung</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
