@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
+> The man of knowledge must be able not only to love his enemies but also to hate his friends.
 >
-> <p>- Dag Hammarskjöld</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
