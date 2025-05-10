@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> No one has ever become poor by giving.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
