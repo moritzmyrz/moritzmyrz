@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> If you can dream it, you can do it.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
