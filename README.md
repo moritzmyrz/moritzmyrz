@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be wise by the misfortunes of others than by your own.
+> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
 >
-> <p>- Aesop</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
