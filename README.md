@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
