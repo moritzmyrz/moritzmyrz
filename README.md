@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- John McCain</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
