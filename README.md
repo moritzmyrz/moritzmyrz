@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can dream it, you can do it.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Walt Disney</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
