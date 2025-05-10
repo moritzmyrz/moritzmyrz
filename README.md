@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
 >
-> <p>- Anne Frank</p>
+> <p>- John McCain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
