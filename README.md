@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> The only way to have a friend is to be one.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
