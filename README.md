@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
