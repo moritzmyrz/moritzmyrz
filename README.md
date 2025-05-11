@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
+> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
 >
-> <p>- The Buddha</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
