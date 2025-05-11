@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has long been an axiom of mine that the little things are infinitely the most important.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
