@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
