@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
