@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Confucius</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
