@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Mark Twain</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
