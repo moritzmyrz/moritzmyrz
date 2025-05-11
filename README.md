@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends are those rare people who ask how we are and then wait to hear the answer.
+> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
 >
-> <p>- Ed Cunningham</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
