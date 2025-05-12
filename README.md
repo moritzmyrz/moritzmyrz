@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
