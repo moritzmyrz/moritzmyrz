@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> Wisdom comes alone through suffering.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aeschylus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
