@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't want to achieve immortality through my work... I want to achieve it through not dying.
+> Love is a serious mental disease.
 >
-> <p>- Woody Allen</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
