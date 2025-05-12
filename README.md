@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
