@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> Anybody can make history. Only a great man can write it.
 >
-> <p>- Tom Krause</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
