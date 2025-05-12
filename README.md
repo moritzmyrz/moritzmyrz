@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
