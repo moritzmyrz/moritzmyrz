@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+> Our lives are a sum total of the choices we have made.
 >
-> <p>- Bruce Lee</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
