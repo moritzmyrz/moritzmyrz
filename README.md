@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anybody can make history. Only a great man can write it.
+> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
