@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I let go of what I am, I become what I might be.
+> Habit, if not resisted, soon becomes necessity.
 >
-> <p>- Laozi</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
