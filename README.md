@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Man Ray</p>
+> <p>- Edmond Rostand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
