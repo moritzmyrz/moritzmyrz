@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Virgil</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
