@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> At the center of your being, you have the answer; you know who you are, and you know what you want.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
