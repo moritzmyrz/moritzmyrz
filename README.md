@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
