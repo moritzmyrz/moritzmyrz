@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
