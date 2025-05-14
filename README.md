@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
