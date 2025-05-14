@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
