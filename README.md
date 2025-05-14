@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is with our passions, as it is with fire and water, they are good servants but bad masters.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Aesop</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
