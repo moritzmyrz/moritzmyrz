@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Carl Jung</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
