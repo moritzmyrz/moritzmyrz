@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Harry Kemp</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
