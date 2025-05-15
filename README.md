@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>- Plutarch</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
