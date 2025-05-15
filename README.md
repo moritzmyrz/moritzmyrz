@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Woody Allen</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
