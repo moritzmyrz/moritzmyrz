@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> If we open a quarrel between past and present, we shall find that we have lost the future.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
