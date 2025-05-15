@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
