@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
+> Take rest; a field that has rested gives a bountiful crop.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
