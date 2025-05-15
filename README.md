@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- William Arthur Ward</p>
+> <p>- J. M. Barrie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
