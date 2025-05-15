@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The root of suffering is attachment.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- The Buddha</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
