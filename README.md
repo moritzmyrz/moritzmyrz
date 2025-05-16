@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
