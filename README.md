@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Herbert Bayard Swope</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
