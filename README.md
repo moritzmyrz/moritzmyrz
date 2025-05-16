@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Voltaire</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
