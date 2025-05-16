@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideas pull the trigger, but instinct loads the gun.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Don Marquis</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
