@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+> Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
 >
-> <p>- Alan Watts</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
