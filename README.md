@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> God always takes the simplest way.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
