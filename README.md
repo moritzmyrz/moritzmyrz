@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> It is impossible to love and to be wise.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
