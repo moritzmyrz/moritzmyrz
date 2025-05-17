@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History will be kind to me for I intend to write it.
+> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
 >
-> <p>- Winston Churchill</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
