@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
