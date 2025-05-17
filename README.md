@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Price is what you pay. Value is what you get.
+> Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.
 >
-> <p>- Warren Buffett</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
