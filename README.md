@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
