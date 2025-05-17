@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Price is what you pay. Value is what you get.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
