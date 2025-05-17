@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Lucille Ball</p>
+> <p>- Torquato Tasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
