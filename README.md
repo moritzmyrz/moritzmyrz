@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> History will be kind to me for I intend to write it.
 >
-> <p>- Giotto</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
