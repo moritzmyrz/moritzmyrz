@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> Wise men speak because they have something to say; Fools because they have to say something.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
