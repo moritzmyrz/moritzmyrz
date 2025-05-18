@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- Earl Monroe</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
