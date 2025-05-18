@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Richard Bach</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
