@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Alan Watts</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
