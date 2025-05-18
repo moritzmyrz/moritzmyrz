@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> Never promise more than you can perform.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
