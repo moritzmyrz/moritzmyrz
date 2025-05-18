@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future is completely open, and we are writing it moment to moment.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
