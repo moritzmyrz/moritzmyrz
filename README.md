@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom alone is the science of other sciences.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Plato</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
