@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> My friends are my estate.
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Emily Dickinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
