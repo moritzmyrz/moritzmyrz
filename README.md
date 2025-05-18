@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never promise more than you can perform.
+> Good thoughts are no better than good dreams, unless they be executed.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
