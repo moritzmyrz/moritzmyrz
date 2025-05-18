@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> Nothing is at last sacred but the integrity of your own mind.
 >
-> <p>- Stephen King</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
