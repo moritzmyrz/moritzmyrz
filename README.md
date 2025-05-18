@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Joe Paterno</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
