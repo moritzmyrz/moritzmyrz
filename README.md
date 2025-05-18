@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
