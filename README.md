@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- Sydney J. Harris</p>
+> <p>- James Oppenheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
