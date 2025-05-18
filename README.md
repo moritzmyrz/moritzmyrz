@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> The cause is hidden. The effect is visible to all.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
