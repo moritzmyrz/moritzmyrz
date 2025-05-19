@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
 >
-> <p>- Helen Keller</p>
+> <p>- Orson Welles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
