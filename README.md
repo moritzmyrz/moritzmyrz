@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
+> Imagination will often carry us to worlds that never were. But without it we go nowhere.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Carl Sagan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
