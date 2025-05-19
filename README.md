@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
