@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
