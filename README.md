@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All is flux; nothing stays still.
+> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 >
-> <p>- Heraclitus</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
