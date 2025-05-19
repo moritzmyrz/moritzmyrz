@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination will often carry us to worlds that never were. But without it we go nowhere.
+> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
 >
-> <p>- Carl Sagan</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
