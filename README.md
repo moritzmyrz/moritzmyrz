@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A goal without a plan is just a wish.
+> If you can dream it, you can do it.
 >
-> <p>- Larry Elder</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
