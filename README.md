@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+> We can only learn to love by loving.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
