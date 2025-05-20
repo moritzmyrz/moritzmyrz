@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- A. A. Milne</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
