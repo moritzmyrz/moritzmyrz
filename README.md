@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Og Mandino</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
