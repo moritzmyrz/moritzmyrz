@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- William Penn</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
