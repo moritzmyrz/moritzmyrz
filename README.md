@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work while you have the light. You are responsible for the talent that has been entrusted to you.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
