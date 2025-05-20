@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
