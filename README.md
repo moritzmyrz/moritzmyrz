@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
