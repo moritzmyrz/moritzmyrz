@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
