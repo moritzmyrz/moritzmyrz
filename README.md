@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Kurt Vonnegut</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
