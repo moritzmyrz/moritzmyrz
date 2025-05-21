@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+> It is in your moments of decision that your destiny is shaped.
 >
-> <p>- William Blake</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
