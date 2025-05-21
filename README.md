@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
+> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
