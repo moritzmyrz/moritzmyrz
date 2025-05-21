@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
