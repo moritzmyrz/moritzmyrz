@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The invariable mark of wisdom is to see the miraculous in the common.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
