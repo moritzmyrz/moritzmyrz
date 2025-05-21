@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> Leave no stone unturned.
 >
-> <p>- William Shakespeare</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
