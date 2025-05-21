@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Francis de Sales</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
