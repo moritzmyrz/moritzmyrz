@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Carol Burnett</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
