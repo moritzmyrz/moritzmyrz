@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is fatal to enter any war without the will to win it.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Douglas MacArthur</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
