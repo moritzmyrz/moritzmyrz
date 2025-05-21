@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 >
-> <p>- Winston Churchill</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
