@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> If you want to go east, don't go west.
 >
-> <p>- Voltaire</p>
+> <p>- Ramakrishna</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
