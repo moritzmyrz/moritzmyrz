@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
