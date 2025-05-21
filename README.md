@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want to go east, don't go west.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Ramakrishna</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
