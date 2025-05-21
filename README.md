@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
