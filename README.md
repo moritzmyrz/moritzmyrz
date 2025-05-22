@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Richard Bach</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
