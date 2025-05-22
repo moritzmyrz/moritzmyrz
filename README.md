@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are stuck with technology when what we really want is just stuff that works.
+> To fly, we have to have resistance.
 >
-> <p>- Douglas Adams</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
