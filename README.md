@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
