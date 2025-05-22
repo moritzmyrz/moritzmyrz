@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
