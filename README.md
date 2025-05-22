@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
