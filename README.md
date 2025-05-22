@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> Subdue your appetites, my dears, and you've conquered human nature.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
