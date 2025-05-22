@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
+> Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
 >
-> <p>- Mark Twain</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
