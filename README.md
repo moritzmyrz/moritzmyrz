@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a miracle that curiosity survives formal education.
+> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
 >
-> <p>- Albert Einstein</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
