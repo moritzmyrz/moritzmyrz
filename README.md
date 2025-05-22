@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly, we have to have resistance.
+> I prefer the folly of enthusiasm to the indifference of wisdom.
 >
-> <p>- Maya Lin</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
