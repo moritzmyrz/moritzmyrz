@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> We are stuck with technology when what we really want is just stuff that works.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
