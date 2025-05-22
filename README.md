@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> Your big opportunity may be right where you are now.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
