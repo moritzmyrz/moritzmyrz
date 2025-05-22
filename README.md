@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- George Eliot</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
