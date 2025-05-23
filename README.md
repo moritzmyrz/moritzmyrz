@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence is to do a common thing in an uncommon way.
+> Appearances are often deceiving.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
