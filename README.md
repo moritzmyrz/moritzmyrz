@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> It is not in the stars to hold our destiny but in ourselves.
 >
-> <p>- Anaïs Nin</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
