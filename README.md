@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> The friendship that can cease has never been real.
 >
-> <p>- William James</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
