@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> When I let go of what I am, I become what I might be.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
