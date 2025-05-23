@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> To change one's life, start immediately, do it flamboyantly, no exceptions.
 >
-> <p>- Winston Churchill</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
