@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> To find a man's true character, play golf with him.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- P. G. Wodehouse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
