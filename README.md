@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The friendship that can cease has never been real.
+> Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
 >
-> <p>- Jerome</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
