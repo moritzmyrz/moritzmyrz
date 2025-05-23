@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
