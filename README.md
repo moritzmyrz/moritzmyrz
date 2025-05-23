@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> Always do your best. What you plant now, you will harvest later.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
