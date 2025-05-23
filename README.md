@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Who sows virtue reaps honor.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
