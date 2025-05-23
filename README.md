@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Walter Inglis Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
