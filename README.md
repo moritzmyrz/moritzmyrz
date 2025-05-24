@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
