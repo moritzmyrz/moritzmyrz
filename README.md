@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
