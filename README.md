@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
