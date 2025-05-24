@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Isocrates</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
