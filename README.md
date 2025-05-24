@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> Never mistake motion for action.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
