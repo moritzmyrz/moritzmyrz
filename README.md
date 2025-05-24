@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
+> Knowledge speaks, but wisdom listens.
 >
-> <p>- The Buddha</p>
+> <p>- Jimi Hendrix</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
