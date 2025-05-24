@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> When you come to the end of your rope, tie a knot and hang on.
 >
-> <p>- George Sand</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
