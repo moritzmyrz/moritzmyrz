@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
