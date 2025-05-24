@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Northrop Frye</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
