@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
