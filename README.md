@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> Life is 10% what happens to you and 90% how you react to it.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
