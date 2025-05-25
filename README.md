@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We lost because we told ourselves we lost.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
