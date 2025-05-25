@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
