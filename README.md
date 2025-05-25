@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
