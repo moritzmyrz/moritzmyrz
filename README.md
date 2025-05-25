@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
+> Winners never quit and quitters never win.
 >
-> <p>- The Buddha</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
