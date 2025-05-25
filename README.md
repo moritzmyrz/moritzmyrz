@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Winners never quit and quitters never win.
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
