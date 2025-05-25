@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
