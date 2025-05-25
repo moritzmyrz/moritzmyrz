@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
