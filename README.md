@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Confucius</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
