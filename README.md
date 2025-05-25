@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In action a great heart is the chief qualification. In work, a great head.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Loretta Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
