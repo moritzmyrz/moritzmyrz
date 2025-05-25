@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness depends upon ourselves.
+> The world is but a canvas to the imagination.
 >
-> <p>- Aristotle</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
