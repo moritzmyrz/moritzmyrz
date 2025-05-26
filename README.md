@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> To hell with circumstances, I create opportunities.
 >
-> <p>- John Acosta</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
