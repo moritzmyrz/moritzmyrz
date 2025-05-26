@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fewer rules a coach has, the fewer rules there are for players to break.
+> Absence makes the heart grow fonder.
 >
-> <p>- John Madden</p>
+> <p>- Thomas Haynes Bayly</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
