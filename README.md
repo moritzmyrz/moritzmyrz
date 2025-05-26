@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> To profit from good advice requires more wisdom than to give it.
 >
-> <p>- Socrates</p>
+> <p>- Wilson Mizner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
