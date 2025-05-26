@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
 > <p>- Ralph Waldo Emerson</p>
 
