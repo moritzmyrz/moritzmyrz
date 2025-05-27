@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
