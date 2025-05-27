@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> Without some goals and some efforts to reach it, no man can live.
 >
-> <p>- Josh Billings</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
