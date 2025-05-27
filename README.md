@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
