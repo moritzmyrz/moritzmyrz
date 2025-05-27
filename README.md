@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Thomas Edison</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
