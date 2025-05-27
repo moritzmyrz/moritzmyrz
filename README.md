@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> A single rose can be my garden... a single friend, my world.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
