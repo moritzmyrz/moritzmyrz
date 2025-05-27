@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Rudolf Arnheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
