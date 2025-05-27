@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
