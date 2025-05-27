@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> What other people may find in poetry or art museums, I find in the flight of a good drive.
 >
-> <p>- Laozi</p>
+> <p>- Arnold Palmer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
