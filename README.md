@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> Where there is love there is life.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
