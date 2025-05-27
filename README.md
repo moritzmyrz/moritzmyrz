@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the stars should appear but one night every thousand years how man would marvel and adore.
+> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
