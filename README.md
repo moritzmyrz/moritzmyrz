@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
