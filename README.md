@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> The truest greatness lies in being kind, the truest wisdom in a happy mind.
 >
-> <p>- Hannah Arendt</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
