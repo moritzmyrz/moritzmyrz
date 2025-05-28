@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
 >
-> <p>- Robert Schuller</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
