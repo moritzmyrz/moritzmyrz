@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
+> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
