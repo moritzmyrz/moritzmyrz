@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> Problems are not stop signs, they are guidelines.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
