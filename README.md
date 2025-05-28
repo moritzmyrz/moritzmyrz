@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every problem has a gift for you in its hands.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Richard Bach</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
