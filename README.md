@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
 >
-> <p>- John Acosta</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
