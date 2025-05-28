@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Winston Churchill</p>
+> <p>- Robert Kiyosaki</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
