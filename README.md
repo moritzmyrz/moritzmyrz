@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An invasion of armies can be resisted, but not an idea whose time has come.
+> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
 >
-> <p>- Victor Hugo</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
