@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
