@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
 >
-> <p>- Earl Monroe</p>
+> <p>- Elizabeth Montagu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
