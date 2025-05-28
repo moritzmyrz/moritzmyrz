@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> You really can change the world if you care enough.
 >
-> <p>- Confucius</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
