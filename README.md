@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All experiences are preceded by mind, having mind as their master, created by mind.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- The Buddha</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
