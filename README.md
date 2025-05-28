@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
