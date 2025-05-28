@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> All experiences are preceded by mind, having mind as their master, created by mind.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
