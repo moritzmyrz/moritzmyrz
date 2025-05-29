@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Mia Hamm</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
