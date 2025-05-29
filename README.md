@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- William Hazlitt</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
