@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
