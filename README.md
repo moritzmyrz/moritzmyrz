@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
