@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.
+> Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't.
 >
-> <p>- Og Mandino</p>
+> <p>- Mark Goulston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
