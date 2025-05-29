@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
 >
-> <p>- Giotto</p>
+> <p>- Olivier Messiaen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
