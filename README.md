@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- William James</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
