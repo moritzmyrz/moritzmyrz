@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> The personal life deeply lived always expands into truths beyond itself.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
