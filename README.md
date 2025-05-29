@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+> It's easy to make a buck. It's a lot tougher to make a difference.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Tom Brokaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
