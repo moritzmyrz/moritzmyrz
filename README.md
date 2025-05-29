@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Mia Hamm</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
