@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
 >
-> <p>- Hal Abelson</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
