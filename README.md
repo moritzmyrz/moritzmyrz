@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Where there is great love, there are always miracles.
 >
-> <p>- Ansel Adams</p>
+> <p>- Willa Cather</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
