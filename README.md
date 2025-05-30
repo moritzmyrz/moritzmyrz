@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You might well remember that nothing can bring you success but yourself.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
