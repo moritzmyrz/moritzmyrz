@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> Think as a wise man but communicate in the language of the people.
 >
-> <p>- Grandma Moses</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
