@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
+> We make our own fortunes and we call them fate.
 >
-> <p>- Carlos Castaneda</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
