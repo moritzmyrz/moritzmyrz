@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Peace begins with a smile.
 >
-> <p>- Sophocles</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
