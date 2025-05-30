@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- William Lyon Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
