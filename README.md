@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
