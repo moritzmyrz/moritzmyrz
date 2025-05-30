@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Grandma Moses</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
