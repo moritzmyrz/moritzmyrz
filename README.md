@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we are not fully ourselves, truly in the present moment, we miss everything.
+> Technology… the knack of so arranging the world that we don't have to experience it.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Max Frisch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
