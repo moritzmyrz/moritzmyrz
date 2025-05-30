@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> Skill to do comes of doing.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
