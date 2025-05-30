@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> To fly, we have to have resistance.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
