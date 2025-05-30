@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
