@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
+> Reality leaves a lot to the imagination.
 >
-> <p>- Dag Hammarskjöld</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
