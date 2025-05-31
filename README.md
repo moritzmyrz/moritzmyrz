@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
