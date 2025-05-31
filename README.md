@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only when the mind and character slumber that the dress can be seen.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
