@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
