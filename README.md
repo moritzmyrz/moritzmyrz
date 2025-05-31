@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- Woody Allen</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
