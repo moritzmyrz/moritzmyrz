@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
