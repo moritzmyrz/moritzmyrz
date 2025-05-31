@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- George Foreman</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
