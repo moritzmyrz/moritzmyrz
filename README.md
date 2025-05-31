@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Andy Warhol</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
