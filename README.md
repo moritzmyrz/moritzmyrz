@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- John Lennon</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
