@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
 >
-> <p>- Christopher Morley</p>
+> <p>- Dag Hammarskjöld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
