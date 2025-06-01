@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> Patience is the companion of wisdom.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
