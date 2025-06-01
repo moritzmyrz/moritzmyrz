@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Herman Melville</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
