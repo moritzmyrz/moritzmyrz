@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> Kind words can be short and easy to speak, but their echoes are truly endless.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
