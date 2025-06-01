@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
+> They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
