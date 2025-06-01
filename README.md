@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's most persistent and urgent question is, 'What are you doing for others?'
+> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Audre Lorde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
