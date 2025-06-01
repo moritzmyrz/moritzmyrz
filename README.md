@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Plato</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
