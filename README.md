@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
 >
-> <p>- Victor Hugo</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
