@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Albert Einstein</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
