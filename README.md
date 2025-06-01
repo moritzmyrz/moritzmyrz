@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
