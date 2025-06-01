@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> Whoso loves, believes the impossible.
 >
-> <p>- Dalai Lama</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
