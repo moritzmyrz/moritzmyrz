@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Mother Teresa</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
