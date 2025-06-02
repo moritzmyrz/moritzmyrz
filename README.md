@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Patience is the companion of wisdom.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- J. Willard Marriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
