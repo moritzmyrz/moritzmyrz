@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Janet Jackson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
