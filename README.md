@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+> Skill to do comes of doing.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
