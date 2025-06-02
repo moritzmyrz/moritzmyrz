@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> If a man does his best, what else is there?
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
