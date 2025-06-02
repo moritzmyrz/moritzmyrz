@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
