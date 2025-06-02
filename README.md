@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> Whatever happens, take responsibility.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
