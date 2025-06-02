@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> When you doubt your power, you give power to your doubt.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
