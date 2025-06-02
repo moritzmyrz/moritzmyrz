@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
