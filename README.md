@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must embrace pain and burn it as fuel for our journey.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Kenji Miyazawa</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
