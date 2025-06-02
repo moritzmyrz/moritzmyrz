@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Kenji Miyazawa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
