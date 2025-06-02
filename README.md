@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- Laozi</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
