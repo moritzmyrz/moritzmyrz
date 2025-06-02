@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you doubt your power, you give power to your doubt.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
