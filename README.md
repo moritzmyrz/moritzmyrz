@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
+> Either I will find a way, or I will make one.
 >
-> <p>- Carl Jung</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
