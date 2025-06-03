@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> Whenever something negative happens to you, there is a deep lesson concealed within it.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
