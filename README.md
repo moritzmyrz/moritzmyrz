@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> Sooner or later, those who win are those who think they can.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
