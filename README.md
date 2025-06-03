@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
