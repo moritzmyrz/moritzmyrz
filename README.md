@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sooner or later, those who win are those who think they can.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- Richard Bach</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
