@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything you are against weakens you. Everything you are for empowers you.
+> Beware lest you lose the substance by grasping at the shadow.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
