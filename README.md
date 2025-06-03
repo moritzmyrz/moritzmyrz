@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Laozi</p>
+> <p>- Calvin Coolidge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
