@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Albert Einstein</p>
+> <p>- Torquato Tasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
