@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> The most successful people are those who are good at plan B.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- James A. Yorke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
