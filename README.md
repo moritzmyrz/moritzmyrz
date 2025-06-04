@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Albert Einstein</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
