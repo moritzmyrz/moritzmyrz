@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science gives us knowledge, but only philosophy can give us wisdom.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Will Durant</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
