@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Henry Ford</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
