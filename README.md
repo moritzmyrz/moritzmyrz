@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is teaching us to be human again.
+> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
 >
-> <p>- Simon Mainwaring</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
