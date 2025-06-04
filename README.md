@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Aristotle</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
