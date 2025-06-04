@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> Do something wonderful, people may imitate it.
 >
-> <p>- James A. Yorke</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
