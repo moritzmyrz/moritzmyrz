@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
