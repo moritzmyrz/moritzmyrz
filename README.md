@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Woody Allen</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
