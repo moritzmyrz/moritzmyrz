@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> History is written by the victors.
+> The price of greatness is responsibility.
 >
 > <p>- Winston Churchill</p>
 
