@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The price of greatness is responsibility.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- Winston Churchill</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
