@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
+> A single rose can be my garden... a single friend, my world.
 >
-> <p>- John McCain</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
