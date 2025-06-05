@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
