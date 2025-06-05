@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
