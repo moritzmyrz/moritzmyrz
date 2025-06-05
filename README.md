@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Winston Churchill</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
