@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
