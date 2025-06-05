@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To choose what is difficult all one's days, as if it were easy, that is faith.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- W. H. Auden</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
