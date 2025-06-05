@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> You can't shake hands with a clenched fist.
 >
-> <p>- Brendan Behan</p>
+> <p>- Indira Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
