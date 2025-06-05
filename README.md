@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> Don't compromise yourself. You are all you've got.
 >
-> <p>- Lou Holtz</p>
+> <p>- Janis Joplin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
