@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> If we open a quarrel between past and present, we shall find that we have lost the future.
 >
-> <p>- Helen Keller</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
