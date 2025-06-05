@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
