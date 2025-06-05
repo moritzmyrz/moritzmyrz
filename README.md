@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
