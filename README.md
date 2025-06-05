@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> No yesterdays are ever wasted for those who give themselves to today.
 >
-> <p>- Sun Tzu</p>
+> <p>- Brendan Behan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
