@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- John Lennon</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
