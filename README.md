@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Helen Keller</p>
+> <p>- Herbert Hoover</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
