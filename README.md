@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
