@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- George S. Patton</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
