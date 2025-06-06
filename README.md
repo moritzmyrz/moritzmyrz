@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom often times consists of knowing what to do next.
+> I gave my life to become the person I am right now. Was it worth it?
 >
-> <p>- Herbert Hoover</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
