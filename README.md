@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
 > <p>- Ralph Waldo Emerson</p>
 
