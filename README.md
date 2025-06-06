@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- Molière</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
