@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
