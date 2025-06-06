@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I gave my life to become the person I am right now. Was it worth it?
+> To be great is to be misunderstood.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
