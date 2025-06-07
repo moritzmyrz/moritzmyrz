@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
