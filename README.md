@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Alan Watts</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
