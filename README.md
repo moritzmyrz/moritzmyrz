@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
