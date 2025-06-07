@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Demosthenes</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
