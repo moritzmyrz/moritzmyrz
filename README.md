@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No snowflake in an avalanche ever feels responsible.
+> You are always free to change your mind and choose a different future, or a different past.
 >
-> <p>- Voltaire</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
