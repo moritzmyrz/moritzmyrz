@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- David McCullough</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
