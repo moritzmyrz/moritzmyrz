@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no limitations to the mind except those we acknowledge.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
