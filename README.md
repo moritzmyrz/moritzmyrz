@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- René Descartes</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
