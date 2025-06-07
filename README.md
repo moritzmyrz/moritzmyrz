@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
