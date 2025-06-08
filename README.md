@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Aristotle</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
