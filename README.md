@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Laozi</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
