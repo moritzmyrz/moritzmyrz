@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To accomplish great things, we must dream as well as act.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- Anatole France</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
