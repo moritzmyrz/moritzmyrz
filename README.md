@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Laozi</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
