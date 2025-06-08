@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
