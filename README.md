@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
 >
-> <p>- Don Shula</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
