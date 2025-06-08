@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> To see things in the seed, that is genius.
 >
-> <p>- John Bercow</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
