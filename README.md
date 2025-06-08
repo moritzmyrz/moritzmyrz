@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Sophocles</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
