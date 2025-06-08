@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
