@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Well begun is half done.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- Aristotle</p>
+> <p>- Doris Day</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
