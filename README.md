@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
