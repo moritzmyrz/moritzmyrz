@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
