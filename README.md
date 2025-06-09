@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Doris Day</p>
+> <p>- Nargis Fakhri</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
