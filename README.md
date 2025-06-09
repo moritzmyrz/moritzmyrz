@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I do not know the American gentleman, god forgive me for putting two such words together.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Charles Dickens</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
