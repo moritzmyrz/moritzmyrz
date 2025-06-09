@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>- Confucius</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
