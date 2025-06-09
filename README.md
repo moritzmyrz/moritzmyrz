@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- John Marshall</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
