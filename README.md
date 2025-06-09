@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the best policy.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
