@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Archimedes</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
