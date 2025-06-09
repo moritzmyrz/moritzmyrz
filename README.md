@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Sai Baba</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
