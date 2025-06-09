@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> To listen well is as powerful a means of communication and influence as to talk well.
 >
-> <p>- Epictetus</p>
+> <p>- John Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
