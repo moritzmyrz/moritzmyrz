@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> Honesty is the best policy.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
