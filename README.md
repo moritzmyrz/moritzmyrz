@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm a great believer in luck and I find the harder I work, the more I have of it.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
