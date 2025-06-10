@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
