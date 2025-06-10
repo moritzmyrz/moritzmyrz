@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> The best way out is always through.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
