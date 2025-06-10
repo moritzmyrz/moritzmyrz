@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 >
-> <p>- Winston Churchill</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
