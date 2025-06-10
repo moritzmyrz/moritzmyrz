@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
+> Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
 >
-> <p>- Ovid</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
