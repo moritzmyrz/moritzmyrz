@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
