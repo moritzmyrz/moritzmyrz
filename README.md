@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Laozi</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
