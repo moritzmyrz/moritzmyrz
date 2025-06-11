@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Herbert Bayard Swope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
