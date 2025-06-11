@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- M. Scott Peck</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
