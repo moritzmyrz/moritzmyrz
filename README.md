@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The calmed say that what is well-spoken is best; second, that one should say what is right, not unrighteous; third, what's pleasing, not displeasing; fourth, what is true, not false.
+> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 >
-> <p>- The Buddha</p>
+> <p>- M. Scott Peck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
