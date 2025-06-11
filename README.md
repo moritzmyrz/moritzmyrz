@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Etty Hillesum</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
