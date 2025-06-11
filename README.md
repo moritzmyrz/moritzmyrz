@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
