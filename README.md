@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- John McCain</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
