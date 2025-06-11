@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
