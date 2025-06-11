@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Loretta Young</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
