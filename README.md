@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> A quarrel between friends, when made up, adds a new tie to friendship.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Francis de Sales</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
