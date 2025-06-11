@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> We are stuck with technology when what we really want is just stuff that works.
 >
-> <p>- Colin Powell</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
