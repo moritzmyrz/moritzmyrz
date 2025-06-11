@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
 >
-> <p>- Aristotle</p>
+> <p>- John McCain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
