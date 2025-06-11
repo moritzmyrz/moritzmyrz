@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> The energy of the mind is the essence of life.
 >
-> <p>- Hugh Miller</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
