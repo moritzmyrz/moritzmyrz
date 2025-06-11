@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Ovid</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
