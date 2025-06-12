@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it.
+> Everything that happens as it should, and if you observe carefully, you will find this to be so.
 >
-> <p>- The Buddha</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
