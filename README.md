@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
