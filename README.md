@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
