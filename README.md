@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You just can't beat the person who never gives up.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Babe Ruth</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
