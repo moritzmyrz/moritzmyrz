@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Alexis Carrel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
