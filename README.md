@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
