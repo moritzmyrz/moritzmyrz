@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> The person born with a talent they are meant to use will find their greatest happiness in using it.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
