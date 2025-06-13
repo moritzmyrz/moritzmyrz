@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom comes alone through suffering.
+> Hell, there are no rules here-- we're trying to accomplish something.
 >
-> <p>- Aeschylus</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
