@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Blaise Pascal</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
