@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Albert Einstein</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
