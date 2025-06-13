@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not so much our friends' help that helps us, as the confidence of their help.
+> Happiness can exist only in acceptance.
 >
-> <p>- Epicurus</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
