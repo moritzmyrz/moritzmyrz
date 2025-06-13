@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> Not all those who wander are lost.
 >
-> <p>- Richard Bach</p>
+> <p>- J. R. R. Tolkien</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
