@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- George Orwell</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
