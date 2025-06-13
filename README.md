@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Lucille Ball</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
