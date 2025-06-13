@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All I can say about life is, Oh God, enjoy it!
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Bob Newhart</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
