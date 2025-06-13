@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Henry James</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
