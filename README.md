@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> Never find fault with the absent.
 >
-> <p>- Epictetus</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
