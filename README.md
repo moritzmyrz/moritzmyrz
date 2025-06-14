@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Archimedes</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
