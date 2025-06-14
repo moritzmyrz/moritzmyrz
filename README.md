@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> To fly, we have to have resistance.
 >
-> <p>- William Blake</p>
+> <p>- Maya Lin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
