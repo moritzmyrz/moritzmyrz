@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Hell, there are no rules here-- we're trying to accomplish something.
+> If I were two-faced, would I be wearing this one?
 >
-> <p>- Thomas Edison</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
