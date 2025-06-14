@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We could never learn to be brave and patient if there were only joy in the world.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Helen Keller</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
