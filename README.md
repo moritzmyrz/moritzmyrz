@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Alexander Pope</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
