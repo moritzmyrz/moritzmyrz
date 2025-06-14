@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Thomas Fuller</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
