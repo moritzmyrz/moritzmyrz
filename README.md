@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Archimedes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
