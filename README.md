@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
