@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Charles Dickens</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
