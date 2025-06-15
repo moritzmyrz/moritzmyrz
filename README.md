@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
