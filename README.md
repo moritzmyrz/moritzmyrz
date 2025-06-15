@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> To profit from good advice requires more wisdom than to give it.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Wilson Mizner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
