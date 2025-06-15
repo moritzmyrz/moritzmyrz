@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
