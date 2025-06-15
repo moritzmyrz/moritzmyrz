@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
