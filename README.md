@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
+> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
 >
-> <p>- William Shakespeare</p>
+> <p>- Elizabeth Arden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
