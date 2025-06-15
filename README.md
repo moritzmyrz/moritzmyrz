@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
+> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
 >
-> <p>- Babe Ruth</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
