@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> You always succeed in producing a result.
 >
-> <p>- Dalai Lama</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
