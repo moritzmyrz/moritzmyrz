@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>- The Buddha</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
