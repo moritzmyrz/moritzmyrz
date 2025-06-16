@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 >
-> <p>- Plato</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
