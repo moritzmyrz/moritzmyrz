@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> What we achieve inwardly will change outer reality.
 >
-> <p>- Judy Garland</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
