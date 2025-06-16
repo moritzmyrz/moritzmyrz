@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Thomas Edison</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
