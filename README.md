@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
