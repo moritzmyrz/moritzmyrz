@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> Minds are like parachutes. They only function when open.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Dewar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
