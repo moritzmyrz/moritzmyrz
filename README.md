@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Helen Keller</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
