@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
