@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
