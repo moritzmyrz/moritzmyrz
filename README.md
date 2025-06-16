@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Edith Wharton</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
