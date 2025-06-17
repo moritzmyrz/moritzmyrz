@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once you label me you negate me.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
