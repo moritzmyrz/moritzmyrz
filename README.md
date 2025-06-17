@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> Once you label me you negate me.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
