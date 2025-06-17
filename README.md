@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- The Buddha</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
