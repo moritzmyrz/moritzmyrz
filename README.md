@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
 >
-> <p>- Woody Allen</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
