@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
+> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
 >
-> <p>- Denis Waitley</p>
+> <p>- John McCain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
