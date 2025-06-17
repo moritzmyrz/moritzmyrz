@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Agatha Christie</p>
+> <p>- William Hazlitt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
