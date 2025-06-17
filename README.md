@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
