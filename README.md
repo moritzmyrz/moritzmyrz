@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> Leave no stone unturned.
 >
-> <p>- Loretta Young</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
