@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
