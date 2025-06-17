@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Agatha Christie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
