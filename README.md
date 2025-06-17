@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good judgment comes from experience, and a lot of that comes from bad judgment.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Will Rogers</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
