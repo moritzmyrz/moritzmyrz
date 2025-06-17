@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone thinks of changing the world, but no one thinks of changing himself.
+> Wise men make more opportunities than they find.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
