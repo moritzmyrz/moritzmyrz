@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> Good judgment comes from experience, and a lot of that comes from bad judgment.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
