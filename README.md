@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Edgar Allan Poe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
