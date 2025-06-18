@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
