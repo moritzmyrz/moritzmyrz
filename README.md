@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- George Santayana</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
