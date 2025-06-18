@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> The world is but a canvas to the imagination.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
