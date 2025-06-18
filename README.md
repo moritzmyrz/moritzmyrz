@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
 >
-> <p>- Laozi</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
