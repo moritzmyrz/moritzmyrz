@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- William Hazlitt</p>
+> <p>- Dale Earnhardt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
