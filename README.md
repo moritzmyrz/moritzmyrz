@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love has no age, no limit; and no death.
+> The young man knows the rules, but the old man knows the exceptions.
 >
-> <p>- John Galsworthy</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
