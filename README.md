@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some do not understand that we must die, But those who do realize this settle their quarrels.
+> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
 >
-> <p>- The Buddha</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
