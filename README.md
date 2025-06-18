@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
+> If you want a thing done well, do it yourself.
 >
-> <p>- Epictetus</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
