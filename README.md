@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want a thing done well, do it yourself.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Napoleon</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
