@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
+> Wisdom begins at the end.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Daniel Webster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
