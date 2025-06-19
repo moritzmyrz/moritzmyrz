@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
