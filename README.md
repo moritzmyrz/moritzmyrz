@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Albert Camus</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
