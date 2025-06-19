@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
