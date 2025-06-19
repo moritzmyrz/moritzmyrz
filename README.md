@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- George Eliot</p>
+> <p>- Margaret Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
