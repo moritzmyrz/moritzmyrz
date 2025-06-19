@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> Never complain and never explain.
 >
-> <p>- Confucius</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
