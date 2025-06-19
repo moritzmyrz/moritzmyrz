@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Alfred Korzybski</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
