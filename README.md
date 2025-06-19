@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Lucille Ball</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
