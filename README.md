@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
