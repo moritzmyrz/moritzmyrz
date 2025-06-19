@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Will Durant</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
