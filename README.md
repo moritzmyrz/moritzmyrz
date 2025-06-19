@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom begins at the end.
+> The human spirit must prevail over technology.
 >
-> <p>- Daniel Webster</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
