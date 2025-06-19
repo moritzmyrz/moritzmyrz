@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Marie Curie</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
