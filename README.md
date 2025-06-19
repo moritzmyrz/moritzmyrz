@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- The Buddha</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
