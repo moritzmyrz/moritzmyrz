@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is in the nature of things that joy arises in a person free from remorse.
+> Always be smarter than the people who hire you.
 >
-> <p>- The Buddha</p>
+> <p>- Lena Horne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
