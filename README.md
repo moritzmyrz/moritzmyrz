@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
