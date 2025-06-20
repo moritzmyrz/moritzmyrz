@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Mark Twain</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
