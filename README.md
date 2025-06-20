@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you aren't going all the way, why go at all?
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Joe Namath</p>
+> <p>- Yolanda Hadid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
