@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cleverness is not wisdom.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Euripides</p>
+> <p>- Kathleen Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
