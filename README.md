@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
