@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- George Orwell</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
