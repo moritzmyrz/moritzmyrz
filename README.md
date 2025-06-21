@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
