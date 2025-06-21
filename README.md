@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> Some do not understand that we must die, But those who do realize this settle their quarrels.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
