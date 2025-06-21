@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
+> You can't choose up sides on a round world.
 >
-> <p>- Alan Watts</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
