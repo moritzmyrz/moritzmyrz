@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+> Happiness can exist only in acceptance.
 >
-> <p>- Pema Chödrön</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
