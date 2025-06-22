@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- Thomas Edison</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
