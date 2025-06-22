@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> Character develops itself in the stream of life.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
