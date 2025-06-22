@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 >
-> <p>- Anaïs Nin</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
