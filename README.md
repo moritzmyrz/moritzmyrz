@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
