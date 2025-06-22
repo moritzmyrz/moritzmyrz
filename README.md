@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
+> Be sure you put your feet in the right place, then stand firm.
 >
-> <p>- Ovid</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
