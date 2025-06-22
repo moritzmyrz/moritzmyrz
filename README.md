@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is someone who gives you total freedom to be yourself.
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- Jim Morrison</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
