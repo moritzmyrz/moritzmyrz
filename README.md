@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
