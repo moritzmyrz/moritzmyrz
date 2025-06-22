@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
