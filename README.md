@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Wayne Dyer</p>
+> <p>- David McCullough</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
