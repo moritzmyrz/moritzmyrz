@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- Rollo May</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
