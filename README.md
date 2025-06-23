@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- René Descartes</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
