@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
