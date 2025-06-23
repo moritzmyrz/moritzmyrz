@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- John Acosta</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
