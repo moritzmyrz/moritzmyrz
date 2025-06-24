@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
+> If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha
 >
-> <p>- Woody Allen</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
