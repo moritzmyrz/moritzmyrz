@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
