@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> Value your friendship. Value your relationships.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Barbara Bush</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
