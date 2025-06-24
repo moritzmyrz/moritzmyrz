@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> Smile, breathe and go slowly.
 >
-> <p>- Laozi</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
