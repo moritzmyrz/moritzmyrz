@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Winston Churchill</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
