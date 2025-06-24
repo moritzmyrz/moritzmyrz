@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
