@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> The path to success is to take massive, determined action.
 >
-> <p>- Laozi</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
