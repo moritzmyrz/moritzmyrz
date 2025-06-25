@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
