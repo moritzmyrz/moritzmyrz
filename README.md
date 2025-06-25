@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
