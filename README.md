@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
