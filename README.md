@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Be the change that you want to see in the world.
 >
-> <p>- Confucius</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
