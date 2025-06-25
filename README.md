@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
