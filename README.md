@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never give up, for that is just the place and time that the tide will turn.
+> Compassion and happiness are not a sign of weakness but a sign of strength.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
