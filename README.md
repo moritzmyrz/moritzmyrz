@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
