@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
