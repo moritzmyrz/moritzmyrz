@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> Appearances are often deceiving.
 >
-> <p>- Cicero</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
