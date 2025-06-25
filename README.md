@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
