@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> Each day provides its own gifts.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
