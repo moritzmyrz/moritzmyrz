@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> Don't settle for a relationship that won't let you be yourself.
 >
-> <p>- Laozi</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
