@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Joan Rivers</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
