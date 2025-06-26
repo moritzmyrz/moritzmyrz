@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Mia Hamm</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
