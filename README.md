@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> Always be smarter than the people who hire you.
 >
-> <p>- Woody Allen</p>
+> <p>- Lena Horne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
