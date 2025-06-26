@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Spread love everywhere you go. Let no one ever come to you without leaving happier.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- Mother Teresa</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
