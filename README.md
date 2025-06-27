@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> Love has no age, no limit; and no death.
 >
-> <p>- Abraham Maslow</p>
+> <p>- John Galsworthy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
