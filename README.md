@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- E. M. Forster</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
