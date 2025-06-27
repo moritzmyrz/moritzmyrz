@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- E. M. Forster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
