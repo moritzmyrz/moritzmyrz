@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always thought the actions of men the best interpreters of their thoughts.
+> Don't look back. Something might be gaining on you.
 >
-> <p>- John Locke</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
