@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Dalai Lama</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
