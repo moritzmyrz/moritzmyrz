@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Marcel Proust</p>
+> <p>- Ray Bradbury</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
