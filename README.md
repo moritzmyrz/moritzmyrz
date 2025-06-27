@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most I can do for my friend is simply be his friend.
+> If we all did the things we are capable of doing, we would literally astound ourselves.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
