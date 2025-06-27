@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love has no age, no limit; and no death.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- John Galsworthy</p>
+> <p>- Arthur C. Clarke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
