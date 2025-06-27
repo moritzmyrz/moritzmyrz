@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Charles Kingsley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
