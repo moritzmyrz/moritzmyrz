@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+> Friendship is always a sweet responsibility, never an opportunity.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
