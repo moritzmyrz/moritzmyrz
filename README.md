@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- Confucius</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
