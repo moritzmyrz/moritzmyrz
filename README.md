@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
+> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
 >
-> <p>- Mark Twain</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
