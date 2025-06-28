@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Albert Einstein</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
