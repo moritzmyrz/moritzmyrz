@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Tony Robbins</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
