@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
