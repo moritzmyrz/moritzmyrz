@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> Commitment is an act, not a word.
 >
-> <p>- Voltaire</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
