@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 >
-> <p>- Francis Bacon</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
