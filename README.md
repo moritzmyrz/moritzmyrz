@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
 >
-> <p>- Helen Keller</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
