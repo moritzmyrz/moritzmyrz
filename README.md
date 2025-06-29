@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Price is what you pay. Value is what you get.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Warren Buffett</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
