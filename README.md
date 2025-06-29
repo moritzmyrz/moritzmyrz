@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
