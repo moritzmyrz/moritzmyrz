@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
