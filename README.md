@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> The smallest deed is better than the greatest intention.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
