@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- Plutarch</p>
+> <p>- Jim Bouton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
