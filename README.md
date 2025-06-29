@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
