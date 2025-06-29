@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Vusi Mahlasela</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
