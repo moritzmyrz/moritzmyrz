@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
+> In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
 >
-> <p>- Confucius</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
