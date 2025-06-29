@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> Our lives are a sum total of the choices we have made.
 >
-> <p>- Confucius</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
