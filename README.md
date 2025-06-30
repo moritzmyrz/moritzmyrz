@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Thomas Edison</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
