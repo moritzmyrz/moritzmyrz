@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- William Cowper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
