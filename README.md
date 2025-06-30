@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
+> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
 >
-> <p>- Mignon McLaughlin</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
