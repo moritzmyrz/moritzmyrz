@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- Torquato Tasso</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
