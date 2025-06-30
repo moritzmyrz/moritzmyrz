@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man cannot be said to succeed in this life who does not satisfy one friend.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Torquato Tasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
