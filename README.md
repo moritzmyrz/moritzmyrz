@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Lisa Alther</p>
+> <p>- Julie Morgenstern</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
