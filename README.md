@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
+> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
 >
-> <p>- Uta Hagen</p>
+> <p>- Vusi Mahlasela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
