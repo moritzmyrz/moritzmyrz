@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> Love and friendship exclude each other.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
