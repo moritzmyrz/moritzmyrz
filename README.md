@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Carrie Snow</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
