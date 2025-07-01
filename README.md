@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Brendan Behan</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
