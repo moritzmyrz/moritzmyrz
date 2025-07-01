@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
 >
-> <p>- M. Scott Peck</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
