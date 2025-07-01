@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.
 >
-> <p>- Andy Warhol</p>
+> <p>- Charles Lindbergh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
