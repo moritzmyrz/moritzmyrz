@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
+> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
 >
-> <p>- Peter Abelard</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
