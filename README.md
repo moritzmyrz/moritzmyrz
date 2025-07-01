@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
