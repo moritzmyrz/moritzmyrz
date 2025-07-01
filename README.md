@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
