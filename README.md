@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Charles W. Chesnutt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
