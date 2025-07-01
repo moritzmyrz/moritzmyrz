@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bill Bradley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
