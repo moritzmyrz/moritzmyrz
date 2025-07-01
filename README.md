@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
