@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is not final; failure is not fatal: it is the courage to continue that counts.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Winston Churchill</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
