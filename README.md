@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
