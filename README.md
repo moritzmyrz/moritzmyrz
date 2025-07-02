@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
