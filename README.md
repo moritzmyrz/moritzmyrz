@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Lucille Ball</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
