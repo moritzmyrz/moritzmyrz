@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
+> Things do not change; we change.
 >
-> <p>- Harold Geneen</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
