@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
