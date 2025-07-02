@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- James A. Yorke</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
