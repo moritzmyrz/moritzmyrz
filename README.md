@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> Most powerful is he who has himself in his own power.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
