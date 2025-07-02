@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Cynthia Ozick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
