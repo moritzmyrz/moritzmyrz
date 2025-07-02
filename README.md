@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> A man is great by deeds, not by birth.
 >
-> <p>- Richard Bach</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
