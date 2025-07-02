@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is great by deeds, not by birth.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Chanakya</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
