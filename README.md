@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> How we spend our days is, of course, how we spend our lives.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Annie Dillard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
