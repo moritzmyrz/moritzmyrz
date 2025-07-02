@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
+> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
 >
-> <p>- The Buddha</p>
+> <p>- Tryon Edwards</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
