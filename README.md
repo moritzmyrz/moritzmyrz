@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> Every gift from a friend is a wish for your happiness.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
