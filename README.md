@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Farhan Akhtar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
