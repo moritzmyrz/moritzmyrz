@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
