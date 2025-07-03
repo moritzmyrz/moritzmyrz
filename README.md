@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Laozi</p>
+> <p>- Etty Hillesum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
