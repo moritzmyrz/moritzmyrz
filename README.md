@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Today you are you! That is truer than true! There is no one alive who is you-er than you!
+> The truest wisdom is a resolute determination.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
