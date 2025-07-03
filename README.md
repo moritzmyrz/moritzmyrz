@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
