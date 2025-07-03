@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
