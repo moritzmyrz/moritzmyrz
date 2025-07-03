@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> We know what we are but know not what we may be.
 >
-> <p>- Sun Tzu</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
