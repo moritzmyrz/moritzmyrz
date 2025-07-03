@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
