@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> The universe is transformation; our life is what our thoughts make it.
 >
-> <p>- Niels Bohr</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
