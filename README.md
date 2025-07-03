@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> There is only one success: to be able to spend your life in your own way.
 >
-> <p>- Sophocles</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
