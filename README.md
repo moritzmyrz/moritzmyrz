@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> Between saying and doing, many a pair of shoes is worn out.
 >
-> <p>- Cicero</p>
+> <p>- Iris Murdoch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
