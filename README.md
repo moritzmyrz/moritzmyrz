@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those that know, do. Those that understand, teach.
+> One today is worth two tomorrows.
 >
-> <p>- Aristotle</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
