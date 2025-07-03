@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
