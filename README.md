@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Zig Ziglar</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
