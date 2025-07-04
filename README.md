@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
