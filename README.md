@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Bruce Lee</p>
+> <p>- Bill Watterson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
