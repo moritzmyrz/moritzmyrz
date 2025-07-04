@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- The Buddha</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
