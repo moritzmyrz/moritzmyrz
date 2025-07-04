@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go for it now. The future is promised to no one.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
