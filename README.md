@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Study the past, if you would divine the future.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
