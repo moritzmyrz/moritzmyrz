@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
