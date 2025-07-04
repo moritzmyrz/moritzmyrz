@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- René Descartes</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
