@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Helen Keller</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
