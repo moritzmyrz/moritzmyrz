@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> Efficiency is doing things right; effectiveness is doing the right things.
 >
-> <p>- Carl Jung</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
