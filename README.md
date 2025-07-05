@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Woody Allen</p>
+> <p>- Kenji Miyazawa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
