@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Goals are the fuel in the furnace of achievement.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- Brian Tracy</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
