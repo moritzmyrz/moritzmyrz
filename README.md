@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
 >
-> <p>- M. Scott Peck</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
