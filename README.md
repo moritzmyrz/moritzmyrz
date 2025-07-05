@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Ben Hogan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
