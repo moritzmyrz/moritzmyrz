@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt your enemy when he is making a mistake.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- Napoleon</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
