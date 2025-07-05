@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
