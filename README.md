@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must embrace pain and burn it as fuel for our journey.
+> I can, therefore I am.
 >
-> <p>- Kenji Miyazawa</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
