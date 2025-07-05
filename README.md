@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Richard Bach</p>
+> <p>- Karl Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
