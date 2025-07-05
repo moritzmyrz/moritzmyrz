@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Ben Hogan</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
