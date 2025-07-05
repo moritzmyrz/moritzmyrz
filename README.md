@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
+> No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
