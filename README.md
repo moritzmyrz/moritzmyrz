@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> A prudent question is one half of wisdom.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
