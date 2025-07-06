@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- Caroline Myss</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
