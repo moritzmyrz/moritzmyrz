@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
