@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
