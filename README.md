@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> Anything you really want, you can attain, if you really go after it.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
