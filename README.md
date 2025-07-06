@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> Marriage: A friendship recognized by the police.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
