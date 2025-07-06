@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Francis Bacon</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
