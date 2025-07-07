@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Hank Aaron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
