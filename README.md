@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
