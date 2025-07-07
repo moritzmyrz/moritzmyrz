@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anything you really want, you can attain, if you really go after it.
+> Our character is what we do when we think no one is looking.
 >
-> <p>- Wayne Dyer</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
