@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
