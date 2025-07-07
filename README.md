@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
