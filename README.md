@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Oscar Wilde</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
