@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is always an overmatch for strength.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Phil Jackson</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
