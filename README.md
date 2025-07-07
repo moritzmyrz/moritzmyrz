@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
