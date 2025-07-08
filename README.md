@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no fear for one whose mind is not filled with desires.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- The Buddha</p>
+> <p>- Bernice Reagon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
