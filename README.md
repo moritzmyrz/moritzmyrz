@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Laozi</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
