@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
