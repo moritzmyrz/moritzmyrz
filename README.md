@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Albert Einstein</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
