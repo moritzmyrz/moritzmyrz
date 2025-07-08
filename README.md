@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.
+> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
 >
 > <p>- Albert Einstein</p>
 
