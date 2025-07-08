@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easy to be brave from a safe distance.
+> There is no fear for one whose mind is not filled with desires.
 >
-> <p>- Aesop</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
