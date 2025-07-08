@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Richard Bach</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
