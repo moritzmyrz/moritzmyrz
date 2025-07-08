@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
