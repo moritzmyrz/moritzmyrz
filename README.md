@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Action is eloquence.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- William Shakespeare</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
