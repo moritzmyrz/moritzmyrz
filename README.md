@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- The Buddha</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
