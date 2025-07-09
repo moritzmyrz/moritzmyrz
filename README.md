@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind.
+> It's better to be a lion for a day than a sheep all your life.
 >
-> <p>- Albert Einstein</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
