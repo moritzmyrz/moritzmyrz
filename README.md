@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- Norman Schwarzkopf</p>
+> <p>- James Oppenheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
