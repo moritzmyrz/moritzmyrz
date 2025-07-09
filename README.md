@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Denis Waitley</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
