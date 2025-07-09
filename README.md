@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> Action is eloquence.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
