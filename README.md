@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- Joe Paterno</p>
+> <p>- Warren Bennis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
