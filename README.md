@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- A. A. Milne</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
