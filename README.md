@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Lucille Ball</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
