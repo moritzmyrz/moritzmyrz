@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
