@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- Laozi</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
