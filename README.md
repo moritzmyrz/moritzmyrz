@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The foolish man seeks happiness in the distance, the wise grows it under his feet.
+> Begin, be bold, and venture to be wise.
 >
-> <p>- James Oppenheim</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
