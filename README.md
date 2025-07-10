@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> Luck is what happens when preparation meets opportunity.
 >
-> <p>- Maya Angelou</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
