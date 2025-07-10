@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Commitment is an act, not a word.
+> Peace begins with a smile.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
