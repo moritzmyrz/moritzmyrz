@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most great people have attained their greatest success just one step beyond their greatest failure.
+> The bird of paradise alights only upon the hand that does not grasp.
 >
-> <p>- Napoleon Hill</p>
+> <p>- John Berry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
