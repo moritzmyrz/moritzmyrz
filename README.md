@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
