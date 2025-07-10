@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Voltaire</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
