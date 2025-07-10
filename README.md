@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
