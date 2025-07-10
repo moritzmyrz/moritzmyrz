@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends are those rare people who ask how we are and then wait to hear the answer.
+> A friend is, as it were, a second self.
 >
-> <p>- Ed Cunningham</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
