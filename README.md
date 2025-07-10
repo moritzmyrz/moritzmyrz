@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> Don't settle for a relationship that won't let you be yourself.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
