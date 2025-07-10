@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Cicero</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
