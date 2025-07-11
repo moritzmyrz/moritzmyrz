@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
 >
-> <p>- Anne Bradstreet</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
