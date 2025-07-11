@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
 >
-> <p>- Judy Garland</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
