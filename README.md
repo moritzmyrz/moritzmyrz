@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Confucius</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
