@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
