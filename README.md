@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
+> If there is no struggle, there is no progress.
 >
-> <p>- The Buddha</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
