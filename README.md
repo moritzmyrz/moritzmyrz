@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is the marriage of the soul, and this marriage is liable to divorce.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Voltaire</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
