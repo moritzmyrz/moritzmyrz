@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> If I were two-faced, would I be wearing this one?
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
