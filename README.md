@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> All achievements, all earned riches, have their beginning in an idea.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
