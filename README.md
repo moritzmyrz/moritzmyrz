@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> Do more than dream: work.
 >
-> <p>- Victor Hugo</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
