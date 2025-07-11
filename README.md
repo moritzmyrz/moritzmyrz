@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+> The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.
 >
-> <p>- Steven Van Zandt</p>
+> <p>- Neil Gaiman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
