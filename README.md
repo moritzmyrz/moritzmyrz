@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- John Brunner</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
