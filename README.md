@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> I allow my intuition to lead my path.
 >
-> <p>- Richard Bach</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
