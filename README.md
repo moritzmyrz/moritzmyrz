@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is really simple, but we insist on making it complicated.
+> Remember that sometimes not getting what you want is a wonderful stroke of luck.
 >
-> <p>- Confucius</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
