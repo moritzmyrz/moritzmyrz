@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
