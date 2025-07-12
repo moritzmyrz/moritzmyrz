@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- William Burroughs</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
