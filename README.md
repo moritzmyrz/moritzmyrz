@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> Your mind will answer most questions if you learn to relax and wait for the answer.
 >
-> <p>- Jane Addams</p>
+> <p>- William Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
