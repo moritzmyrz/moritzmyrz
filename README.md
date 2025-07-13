@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
