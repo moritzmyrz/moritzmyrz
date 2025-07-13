@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
