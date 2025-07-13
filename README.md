@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Whoever is happy will make others happy, too.
 >
-> <p>- Jack Dixon</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
