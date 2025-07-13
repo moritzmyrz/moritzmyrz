@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
