@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Howard H. Aiken</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
