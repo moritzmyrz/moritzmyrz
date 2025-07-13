@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Mark Twain</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
