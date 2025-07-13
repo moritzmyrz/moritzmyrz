@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
 >
-> <p>- Richard Burton</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
