@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> Nothing ever goes away until it has taught us what we need to know.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
