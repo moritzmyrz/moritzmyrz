@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are masters of the unsaid words, but slaves of those we let slip out.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Winston Churchill</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
