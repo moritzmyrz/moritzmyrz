@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
