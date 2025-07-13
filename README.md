@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Sophocles</p>
+> <p>- Jack Dixon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
