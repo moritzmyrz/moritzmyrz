@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> Stay committed to your decisions, but stay flexible in your approach.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
