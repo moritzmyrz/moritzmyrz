@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
