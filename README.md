@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Rumi</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
