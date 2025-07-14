@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> When in doubt, don't.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
