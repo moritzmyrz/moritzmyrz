@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
