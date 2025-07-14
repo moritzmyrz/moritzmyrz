@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> When in doubt, don't.
+> There are three faithful friends - an old wife, an old dog, and ready money.
 >
 > <p>- Benjamin Franklin</p>
 
