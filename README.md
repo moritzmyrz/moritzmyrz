@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
