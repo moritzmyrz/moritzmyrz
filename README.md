@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Benjamin Haydon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
