@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
 >
-> <p>- Confucius</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
