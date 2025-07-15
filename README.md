@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> Life is about timing.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Carl Lewis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
