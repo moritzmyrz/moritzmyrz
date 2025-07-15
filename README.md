@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Audrey Hepburn</p>
+> <p>- Charles Caleb Colton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
