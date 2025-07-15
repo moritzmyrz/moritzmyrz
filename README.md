@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Sun Tzu</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
