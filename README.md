@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always do your best. What you plant now, you will harvest later.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Og Mandino</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
