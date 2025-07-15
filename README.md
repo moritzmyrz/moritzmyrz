@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- Robert Schuller</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
