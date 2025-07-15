@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
 >
-> <p>- Charles Lamb</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
