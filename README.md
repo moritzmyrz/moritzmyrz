@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Michelangelo</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
