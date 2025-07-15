@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
