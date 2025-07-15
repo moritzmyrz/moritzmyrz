@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is about timing.
+> He who is contented is rich.
 >
-> <p>- Carl Lewis</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
