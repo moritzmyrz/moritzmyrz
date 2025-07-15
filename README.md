@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is finding out what you already know.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- Richard Bach</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
