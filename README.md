@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Albert Einstein</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
