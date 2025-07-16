@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Lucille Ball</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
