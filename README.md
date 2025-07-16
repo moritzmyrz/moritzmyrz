@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
