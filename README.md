@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you aren't going all the way, why go at all?
+> The function of wisdom is to discriminate between good and evil.
 >
-> <p>- Joe Namath</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
