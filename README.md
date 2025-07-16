@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Albert Einstein</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
