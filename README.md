@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
