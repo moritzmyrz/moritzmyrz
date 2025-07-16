@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- Volker Grassmuck</p>
+> <p>- Margaret Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
