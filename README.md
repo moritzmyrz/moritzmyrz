@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is Love without his wings!
+> Think like a man of action; act like a man of thought.
 >
-> <p>- Lord Byron</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
