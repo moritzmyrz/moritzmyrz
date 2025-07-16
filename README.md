@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
