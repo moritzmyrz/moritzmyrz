@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Henri Bergson</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
