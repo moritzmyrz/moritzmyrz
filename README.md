@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 >
-> <p>- Confucius</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
