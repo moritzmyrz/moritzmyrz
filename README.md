@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
 >
-> <p>- Bruce Lee</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
