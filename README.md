@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- Michelangelo</p>
+> <p>- Mao Zedong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
