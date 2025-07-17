@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> I gave my life to become the person I am right now. Was it worth it?
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
