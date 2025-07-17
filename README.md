@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- Mao Zedong</p>
+> <p>- Andy Rooney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
