@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Thomas Paine</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
