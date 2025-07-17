@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> And as we let our own light shine, we unconsciously give other people permission to do the same.
+> Speak low, if you speak love.
 >
-> <p>- Nelson Mandela</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
