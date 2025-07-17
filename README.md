@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work while you have the light. You are responsible for the talent that has been entrusted to you.
+> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Sam Walton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
