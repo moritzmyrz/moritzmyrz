@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only when the mind and character slumber that the dress can be seen.
+> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
