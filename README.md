@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- Andy Rooney</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
