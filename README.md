@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
