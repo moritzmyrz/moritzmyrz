@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
