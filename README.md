@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
