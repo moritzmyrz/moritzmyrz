@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
