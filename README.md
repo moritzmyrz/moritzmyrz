@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
