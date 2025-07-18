@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
