@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Orson Welles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
