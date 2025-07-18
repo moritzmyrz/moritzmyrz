@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
