@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
