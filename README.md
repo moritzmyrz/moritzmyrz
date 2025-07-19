@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Babe Ruth</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
