@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
 >
-> <p>- George S. Patton</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
