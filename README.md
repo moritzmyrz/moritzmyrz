@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Try not to become a man of success, but rather try to become a man of value.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
