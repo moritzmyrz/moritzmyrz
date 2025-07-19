@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
