@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
+> Try not to become a man of success, but rather try to become a man of value.
 >
-> <p>- Cecil B. DeMille</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
