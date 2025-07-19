@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Woodrow Wilson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
