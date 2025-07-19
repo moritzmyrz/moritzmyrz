@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Casey Stengel</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
