@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
+> He that is giddy thinks the world turns round.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
