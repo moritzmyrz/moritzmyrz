@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Casey Stengel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
