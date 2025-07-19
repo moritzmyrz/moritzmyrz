@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Cecil B. DeMille</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
