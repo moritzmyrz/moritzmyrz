@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Jim Rohn</p>
+> <p>- Joseph Campbell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
