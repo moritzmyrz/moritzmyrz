@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't judge each day by the harvest you reap but by the seeds that you plant.
+> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
