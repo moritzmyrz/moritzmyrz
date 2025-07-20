@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 >
-> <p>- Albert Camus</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
