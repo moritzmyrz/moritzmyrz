@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> Love is a serious mental disease.
 >
-> <p>- Helen Keller</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
