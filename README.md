@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is found only in truth.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
