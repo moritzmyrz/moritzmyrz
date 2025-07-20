@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
