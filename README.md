@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
