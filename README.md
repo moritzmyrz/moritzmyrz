@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Northrop Frye</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
