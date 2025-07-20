@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?
 >
-> <p>- Nelson Mandela</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
