@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do something wonderful, people may imitate it.
+> There is nothing permanent except change.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
