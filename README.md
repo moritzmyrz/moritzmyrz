@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> Silence is a source of great strength.
 >
 > <p>- Laozi</p>
 
