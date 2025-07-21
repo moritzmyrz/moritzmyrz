@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> I never did anything worth doing by accident, nor did any of my inventions come by accident
 >
-> <p>- Marcel Proust</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
