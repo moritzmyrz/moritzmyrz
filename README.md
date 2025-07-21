@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Jimmy Dean</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
