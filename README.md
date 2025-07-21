@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men make more opportunities than they find.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Francis Bacon</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
