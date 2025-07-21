@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
