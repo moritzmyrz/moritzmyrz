@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- Tony Robbins</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
