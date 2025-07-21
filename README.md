@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> Myths which are believed in tend to become true.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
