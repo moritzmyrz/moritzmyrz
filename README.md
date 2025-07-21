@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
