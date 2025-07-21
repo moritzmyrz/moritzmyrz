@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
