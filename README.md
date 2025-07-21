@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is not what happens to a man. It is what a man does with what happens to him.
+> When people are like each other they tend to like each other.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
