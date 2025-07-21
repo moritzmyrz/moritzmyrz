@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
