@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is someone who gives you total freedom to be yourself.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Jim Morrison</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
