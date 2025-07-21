@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Janet Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
