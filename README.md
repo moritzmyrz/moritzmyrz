@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Janet Jackson</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
