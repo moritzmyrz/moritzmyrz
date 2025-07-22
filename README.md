@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 >
-> <p>- Tony Robbins</p>
+> <p>- Maria Shriver</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
