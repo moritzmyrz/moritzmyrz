@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the world is so complicated, the simple gift of friendship is within all of our hands.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Maria Shriver</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
