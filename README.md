@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Lin Yutang</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
