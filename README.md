@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- Lin Yutang</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
