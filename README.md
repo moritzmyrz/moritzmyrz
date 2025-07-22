@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Winston Churchill</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
