@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
