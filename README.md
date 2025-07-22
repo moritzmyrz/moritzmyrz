@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us sacrifice our today so that our children can have a better tomorrow.
+> When people are like each other they tend to like each other.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
