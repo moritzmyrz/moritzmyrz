@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Edith Wharton</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
