@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
