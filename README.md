@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Independence is happiness.
+> He who is contented is rich.
 >
-> <p>- Susan B. Anthony</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
