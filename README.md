@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is contented is rich.
+> Never promise more than you can perform.
 >
-> <p>- Laozi</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
