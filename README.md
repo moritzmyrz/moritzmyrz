@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only time to buy these is on a day with no 'y' in it.
+> We don't know a millionth of one percent about anything.
 >
-> <p>- Warren Buffett</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
