@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Laozi</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
