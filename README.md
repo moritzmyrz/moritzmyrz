@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
