@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is great by deeds, not by birth.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Chanakya</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
