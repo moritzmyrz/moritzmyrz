@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future is completely open, and we are writing it moment to moment.
+> Myths which are believed in tend to become true.
 >
-> <p>- Pema Chödrön</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
