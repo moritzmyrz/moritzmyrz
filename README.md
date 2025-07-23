@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
 >
-> <p>- Epictetus</p>
+> <p>- Benjamin Haydon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
