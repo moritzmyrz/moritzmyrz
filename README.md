@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you surrender to the wind, you can ride it.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Toni Morrison</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
