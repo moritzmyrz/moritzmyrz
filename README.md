@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- Napoleon</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
