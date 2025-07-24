@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Dee Hock</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
