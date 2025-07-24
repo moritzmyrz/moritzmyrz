@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Opportunity does not knock, it presents itself when you beat down the door.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Kyle Chandler</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
