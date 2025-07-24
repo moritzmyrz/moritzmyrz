@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- Isocrates</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
