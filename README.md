@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
