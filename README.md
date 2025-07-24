@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
