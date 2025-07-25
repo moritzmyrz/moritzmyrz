@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Dalai Lama</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
