@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
+> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
 >
-> <p>- Jim Rohn</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
