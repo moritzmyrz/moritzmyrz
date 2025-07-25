@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship ought never to conceal what it thinks.
+> The more you care, the stronger you can be.
 >
-> <p>- Jerome</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
