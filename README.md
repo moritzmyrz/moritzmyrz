@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
