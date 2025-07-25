@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
