@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
+> The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
 >
-> <p>- Winston Churchill</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
