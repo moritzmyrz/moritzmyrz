@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
