@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- Francis Bacon</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
