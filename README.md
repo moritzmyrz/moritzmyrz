@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
