@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> You can't choose up sides on a round world.
 >
-> <p>- Isocrates</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
