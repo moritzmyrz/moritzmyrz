@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
