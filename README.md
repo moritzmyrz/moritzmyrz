@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> Either you run the day or the day runs you.
 >
-> <p>- Socrates</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
