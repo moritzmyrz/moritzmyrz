@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
