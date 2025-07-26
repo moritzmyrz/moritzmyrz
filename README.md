@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> It is more shameful to distrust our friends than to be deceived by them.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
