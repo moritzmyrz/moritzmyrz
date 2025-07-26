@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
