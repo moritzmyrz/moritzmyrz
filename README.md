@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always do your best. What you plant now, you will harvest later.
+> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
 >
-> <p>- Og Mandino</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
