@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+> As an organizer I start from where the world is, as it is, not as I would like it to be.
 >
-> <p>- John Locke</p>
+> <p>- Saul Alinsky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
