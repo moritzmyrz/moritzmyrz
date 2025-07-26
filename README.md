@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Dalai Lama</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
