@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any one thing.
+> Always do your best. What you plant now, you will harvest later.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
