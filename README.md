@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- The Buddha</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
