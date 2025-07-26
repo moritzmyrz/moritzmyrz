@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To invent, you need a good imagination and a pile of junk.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Thomas Edison</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
