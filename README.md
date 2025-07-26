@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
