@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom.
 >
-> <p>- John Lennon</p>
+> <p>- Charles Spurgeon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
