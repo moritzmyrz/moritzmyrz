@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Jim Rohn</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
