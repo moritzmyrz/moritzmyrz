@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> None knows the weight of another's burden.
 >
-> <p>- Billie Armstrong</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
