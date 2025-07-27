@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great ideas often receive violent opposition from mediocre minds.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Albert Einstein</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
