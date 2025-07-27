@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Epictetus</p>
+> <p>- Hannah Arendt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
