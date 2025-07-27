@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The gambling known as business looks with austere disfavor upon the business known as gambling.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
