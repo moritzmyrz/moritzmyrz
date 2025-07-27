@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
