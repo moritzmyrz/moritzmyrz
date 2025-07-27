@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Pat Riley</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
