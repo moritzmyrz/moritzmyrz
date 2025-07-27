@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> The gambling known as business looks with austere disfavor upon the business known as gambling.
 >
-> <p>- John Lennon</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
