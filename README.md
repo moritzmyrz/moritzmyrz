@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> There is only one success: to be able to spend your life in your own way.
 >
-> <p>- George Herbert</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
