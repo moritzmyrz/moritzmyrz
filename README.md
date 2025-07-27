@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Pope Paul VI</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
