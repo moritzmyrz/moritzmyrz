@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
