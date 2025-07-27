@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
 >
-> <p>- Og Mandino</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
