@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> Our passion is our strength.
 >
-> <p>- Sam Ewing</p>
+> <p>- Billie Armstrong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
