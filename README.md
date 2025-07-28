@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> Great minds discuss ideas; average minds discuss events; small minds discuss people.
 >
-> <p>- Max Frisch</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
