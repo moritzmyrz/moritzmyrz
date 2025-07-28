@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
