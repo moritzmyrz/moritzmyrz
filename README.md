@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Satchel Paige</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
