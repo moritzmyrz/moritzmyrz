@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> Whoever is happy will make others happy, too.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
