@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
