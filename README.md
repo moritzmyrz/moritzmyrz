@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
