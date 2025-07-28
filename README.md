@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great minds discuss ideas; average minds discuss events; small minds discuss people.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
