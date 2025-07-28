@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+> Technology… the knack of so arranging the world that we don't have to experience it.
 >
-> <p>- Laozi</p>
+> <p>- Max Frisch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
