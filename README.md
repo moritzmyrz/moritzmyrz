@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> Don't look back. Something might be gaining on you.
 >
-> <p>- Mark Twain</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
