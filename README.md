@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
