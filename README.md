@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Character develops itself in the stream of life.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ray Bradbury</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
