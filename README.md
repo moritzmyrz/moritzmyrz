@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> Character develops itself in the stream of life.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
