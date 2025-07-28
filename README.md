@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
