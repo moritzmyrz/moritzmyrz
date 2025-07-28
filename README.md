@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
+> Listen to what you know instead of what you fear.
 >
-> <p>- George Washington</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
