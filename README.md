@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
 >
-> <p>- Alan Watts</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
