@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Albert Einstein</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
