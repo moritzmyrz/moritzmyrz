@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One man practicing sportsmanship is far better than a hundred teaching it.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Knute Rockne</p>
+> <p>- Bo Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
