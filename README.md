@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ezra Taft Benson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
