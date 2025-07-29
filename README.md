@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> One man practicing sportsmanship is far better than a hundred teaching it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Knute Rockne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
