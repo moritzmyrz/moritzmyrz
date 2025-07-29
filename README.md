@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Don Shula</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
