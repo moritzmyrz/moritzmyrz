@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
