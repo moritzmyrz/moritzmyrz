@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+> Nothing great was ever achieved without enthusiasm.
 >
-> <p>- Napoleon</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
