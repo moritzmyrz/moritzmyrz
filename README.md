@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
