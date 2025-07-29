@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
