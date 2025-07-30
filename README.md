@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
