@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Silence is the true friend that never betrays.
 >
 > <p>- Confucius</p>
 
