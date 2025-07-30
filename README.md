@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
