@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> It is the neglect of timely repair that makes rebuilding necessary.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Richard Whately</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
