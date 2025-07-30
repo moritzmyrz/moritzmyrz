@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> To invent, you need a good imagination and a pile of junk.
 >
-> <p>- Richard Whately</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
