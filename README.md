@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> Learning never exhausts the mind.
 >
-> <p>- Libby Larsen</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
