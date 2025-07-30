@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is of no value unless you put it into practice.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
