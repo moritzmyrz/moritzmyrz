@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Chanakya</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
