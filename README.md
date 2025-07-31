@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
 >
-> <p>- John Ruskin</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
