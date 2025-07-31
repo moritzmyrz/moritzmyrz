@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Winston Churchill</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
