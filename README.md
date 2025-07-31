@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Norman Douglas</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
