@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep your face always toward the sunshine - and shadows will fall behind you.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Walt Whitman</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
