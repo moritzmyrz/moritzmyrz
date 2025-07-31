@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your talent is God's gift to you. What you do with it is your gift back to God.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
