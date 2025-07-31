@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
 >
-> <p>- Louise Hay</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
