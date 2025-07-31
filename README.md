@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Josh Billings</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
