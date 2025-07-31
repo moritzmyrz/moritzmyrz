@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> Make the most of yourself, for that is all there is of you.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
