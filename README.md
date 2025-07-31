@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Josh Billings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
