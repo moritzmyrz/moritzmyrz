@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
