@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Mark Twain</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
