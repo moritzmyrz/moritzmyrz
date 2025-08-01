@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> You need chaos in your soul to give birth to a dancing star.
 >
-> <p>- Confucius</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
