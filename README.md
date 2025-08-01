@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Plutarch</p>
+> <p>- Louisa May Alcott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
