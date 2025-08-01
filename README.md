@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> We have two ears and one mouth so that we can listen twice as much as we speak.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
