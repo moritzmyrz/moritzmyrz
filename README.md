@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> I will prepare and someday my chance will come.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
