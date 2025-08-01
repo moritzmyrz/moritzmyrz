@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
 >
-> <p>- Winston Churchill</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
