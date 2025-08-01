@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Napoleon</p>
+> <p>- Joseph Prince</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
