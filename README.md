@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.
 >
-> <p>- Dalai Lama</p>
+> <p>- Theodore H. White</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
