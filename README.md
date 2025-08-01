@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Learning without reflection is a waste, reflection without learning is dangerous.
 >
-> <p>- John Lennon</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
