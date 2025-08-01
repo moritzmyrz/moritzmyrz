@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Joseph Prince</p>
+> <p>- Dhammapada</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
