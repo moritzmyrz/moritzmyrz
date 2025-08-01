@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Laozi</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
