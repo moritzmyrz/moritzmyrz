@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
+> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
 >
-> <p>- Epictetus</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
