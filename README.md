@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Confucius</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
