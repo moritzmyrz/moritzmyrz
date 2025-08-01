@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+> Know how to listen, and you will profit even from those who talk badly.
 >
-> <p>- Sai Baba</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
