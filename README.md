@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.
+> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
 >
-> <p>- Theodore H. White</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
