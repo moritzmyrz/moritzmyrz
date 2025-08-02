@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- Philip Sidney</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
