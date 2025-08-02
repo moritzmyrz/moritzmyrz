@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
 >
-> <p>- Charles Dickens</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
