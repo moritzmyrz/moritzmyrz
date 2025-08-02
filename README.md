@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
 >
-> <p>- Peter Drucker</p>
+> <p>- Margaret Laurence</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
