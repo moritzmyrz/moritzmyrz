@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> Build a better mousetrap and the world will beat a path to your door.
 >
-> <p>- Tony Robbins</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
