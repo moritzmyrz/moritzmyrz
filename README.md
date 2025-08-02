@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
