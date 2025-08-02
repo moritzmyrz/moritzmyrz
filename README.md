@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We aim above the mark to hit the mark.
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
