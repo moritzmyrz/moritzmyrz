@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> We aim above the mark to hit the mark.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
