@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Amy Bloom</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
