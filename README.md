@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Bill Bradley</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
