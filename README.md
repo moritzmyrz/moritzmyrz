@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Carl Jung</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
