@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A ruffled mind makes a restless pillow.
+> By accepting yourself and being fully what you are, your presence can make others happy.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Jane Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
