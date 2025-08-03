@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way you see people is the way you treat them, and the way you treat them is what they become.
+> The deepest craving of human nature is the need to be appreciated.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
