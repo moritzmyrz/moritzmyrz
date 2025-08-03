@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By accepting yourself and being fully what you are, your presence can make others happy.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Jane Roberts</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
