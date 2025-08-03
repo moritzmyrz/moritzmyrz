@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Napoleon Hill</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
