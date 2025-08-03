@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- William Shakespeare</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
