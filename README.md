@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How we spend our days is, of course, how we spend our lives.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Annie Dillard</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
