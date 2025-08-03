@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> Purity and impurity depend on oneself; no one can purify another.
 >
 > <p>- The Buddha</p>
 
