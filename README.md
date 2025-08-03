@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
