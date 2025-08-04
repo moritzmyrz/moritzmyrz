@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Voltaire</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
