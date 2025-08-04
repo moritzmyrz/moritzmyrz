@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> If you're changing the world, you're working on important things. You're excited to get up in the morning.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Larry Page</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
