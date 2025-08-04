@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Albert Einstein</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
