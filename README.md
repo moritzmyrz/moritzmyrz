@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> A true friend is one who overlooks your failures and tolerates your success!
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
