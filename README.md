@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Alexander Pope</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
