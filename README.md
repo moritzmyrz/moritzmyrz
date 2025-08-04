@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is one who overlooks your failures and tolerates your success!
+> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
 >
-> <p>- Doug Larson</p>
+> <p>- Swami Vivekananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
