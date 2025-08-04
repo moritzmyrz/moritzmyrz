@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> A friend may well be reckoned the masterpiece of nature.
 >
-> <p>- Larry Page</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
