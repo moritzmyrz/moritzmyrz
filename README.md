@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Sophocles</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
