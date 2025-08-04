@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
