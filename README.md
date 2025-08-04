@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> Do good by stealth, and blush to find it fame.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
