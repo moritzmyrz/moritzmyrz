@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> You cannot have what you do not want.
 >
-> <p>- Sun Tzu</p>
+> <p>- John Acosta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
