@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Cynthia Ozick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
