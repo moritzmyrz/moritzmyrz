@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
