@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- Lord Byron</p>
+> <p>- Laurie Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
