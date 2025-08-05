@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
