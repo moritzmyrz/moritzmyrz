@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> I have no special talent. I am only passionately curious.
 >
 > <p>- Albert Einstein</p>
 
