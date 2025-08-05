@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Helen Keller</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
