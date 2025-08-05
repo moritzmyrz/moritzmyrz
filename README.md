@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
