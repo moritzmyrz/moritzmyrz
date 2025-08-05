@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
