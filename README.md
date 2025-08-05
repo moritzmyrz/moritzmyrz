@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Montesquieu</p>
+> <p>- J. M. Barrie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
