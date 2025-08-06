@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
