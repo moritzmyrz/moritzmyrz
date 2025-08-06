@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Bruce Lee</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
