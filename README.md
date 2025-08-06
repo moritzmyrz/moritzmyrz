@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In all things of nature there is something of the marvelous.
+> To know oneself is to study oneself in action with another person.
 >
-> <p>- Aristotle</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
