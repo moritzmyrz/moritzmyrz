@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
+> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
 >
-> <p>- Richard Bach</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
