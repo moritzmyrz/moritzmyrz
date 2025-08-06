@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination will often carry us to worlds that never were. But without it we go nowhere.
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
 >
-> <p>- Carl Sagan</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
