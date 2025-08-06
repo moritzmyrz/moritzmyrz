@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> Wise men make more opportunities than they find.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
