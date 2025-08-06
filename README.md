@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+> In all things of nature there is something of the marvelous.
 >
-> <p>- Robert Graves</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
