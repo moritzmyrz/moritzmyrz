@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> If only wed stop trying to be happy wed have a pretty good time.
 >
-> <p>- Pericles</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
