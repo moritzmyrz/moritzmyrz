@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
 >
-> <p>- Carl Jung</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
