@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> Imagination will often carry us to worlds that never were. But without it we go nowhere.
 >
-> <p>- John Lennon</p>
+> <p>- Carl Sagan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
