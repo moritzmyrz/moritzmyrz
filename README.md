@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Edith Wharton</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
