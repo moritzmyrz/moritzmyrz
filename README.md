@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- Laozi</p>
+> <p>- Chuck Norris</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
