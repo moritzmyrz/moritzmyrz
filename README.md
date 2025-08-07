@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- The Buddha</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
