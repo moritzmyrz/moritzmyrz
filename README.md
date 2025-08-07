@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.
 >
-> <p>- Amy Tan</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
