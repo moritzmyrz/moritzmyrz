@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
