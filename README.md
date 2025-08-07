@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> The greatest remedy for anger is delay.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
