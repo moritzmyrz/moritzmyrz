@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science is organized knowledge. Wisdom is organized life.
+> Either I will find a way, or I will make one.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
