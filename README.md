@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Doing nothing is better than being busy doing nothing.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Laozi</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
