@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> Knowing others is wisdom, knowing yourself is Enlightenment.
 >
-> <p>- Max Frisch</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
