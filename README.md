@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
