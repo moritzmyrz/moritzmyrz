@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> Myths which are believed in tend to become true.
 >
-> <p>- Mother Teresa</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
