@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept the challenges so that you can feel the exhilaration of victory.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- George S. Patton</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
