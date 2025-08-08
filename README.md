@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
