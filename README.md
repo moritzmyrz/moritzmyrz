@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> He who knows himself is enlightened.
 >
-> <p>- Anatole France</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
