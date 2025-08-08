@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world…
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- The Buddha</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
