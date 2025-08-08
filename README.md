@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Henry Reed</p>
+> <p>- Norman Schwarzkopf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
