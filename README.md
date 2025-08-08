@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
+> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
 >
-> <p>- Nora Roberts</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
