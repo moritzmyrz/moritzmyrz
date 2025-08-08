@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows himself is enlightened.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Laozi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
