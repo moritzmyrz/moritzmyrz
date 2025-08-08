@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> To see things in the seed, that is genius.
 >
 > <p>- Laozi</p>
 
