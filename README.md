@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
