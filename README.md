@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
 >
-> <p>- George Orwell</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
