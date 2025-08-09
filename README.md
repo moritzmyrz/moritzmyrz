@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> Fans don't boo nobodies.
 >
-> <p>- Euripides</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
