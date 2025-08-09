@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Action is eloquence.
+> Computers are useless. They can only give you answers.
 >
-> <p>- William Shakespeare</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
