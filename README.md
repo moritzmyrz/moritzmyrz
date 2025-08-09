@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> It is one of the blessings of old friends that you can afford to be stupid with them.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
