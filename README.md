@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace.
+> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
 >
-> <p>- Michelle Obama</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
