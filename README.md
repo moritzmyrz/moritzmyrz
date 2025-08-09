@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> Action is eloquence.
 >
-> <p>- Charles Dickens</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
