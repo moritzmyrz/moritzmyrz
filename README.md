@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> We need never be ashamed of our tears.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
