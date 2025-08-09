@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't feed a hundred people, then feed just one.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Mother Teresa</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
