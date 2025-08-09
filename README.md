@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> At the center of your being, you have the answer; you know who you are, and you know what you want.
+> Life isn't about finding yourself. Life is about creating yourself.
 >
-> <p>- Laozi</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
