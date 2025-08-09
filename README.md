@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> Along with success comes a reputation for wisdom.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
