@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- Sun Tzu</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
