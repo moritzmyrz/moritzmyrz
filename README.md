@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> He who angers you conquers you.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
