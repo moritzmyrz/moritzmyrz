@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is one who overlooks your failures and tolerates your success!
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Doug Larson</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
