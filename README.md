@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the stars should appear but one night every thousand years how man would marvel and adore.
+> Wise men make more opportunities than they find.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
