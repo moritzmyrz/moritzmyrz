@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An invasion of armies can be resisted, but not an idea whose time has come.
+> Anything you really want, you can attain, if you really go after it.
 >
-> <p>- Victor Hugo</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
