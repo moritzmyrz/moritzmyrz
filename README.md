@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
