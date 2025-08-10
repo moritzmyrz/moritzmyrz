@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A goal is a dream with a deadline.
+> You win the victory when you yield to friends.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
