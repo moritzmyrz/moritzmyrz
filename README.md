@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> A goal is a dream with a deadline.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
