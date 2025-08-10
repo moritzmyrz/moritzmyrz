@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> A true friend is one who overlooks your failures and tolerates your success!
 >
-> <p>- Horace</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
