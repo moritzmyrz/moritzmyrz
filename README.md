@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
