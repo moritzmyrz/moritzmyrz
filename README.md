@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
+> Wherever a man turns he can find someone who needs him.
 >
 > <p>- Albert Schweitzer</p>
 
