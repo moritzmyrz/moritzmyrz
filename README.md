@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> God made me fast. And when I run, I feel His pleasure.
 >
-> <p>- Robert Schuller</p>
+> <p>- Eric Liddell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
