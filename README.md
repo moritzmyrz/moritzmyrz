@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All things change; nothing perishes.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Ovid</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
