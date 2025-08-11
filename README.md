@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideals are an imaginative understanding of that which is desirable in that which is possible.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
