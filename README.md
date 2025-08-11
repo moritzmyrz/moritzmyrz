@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Pat Riley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
