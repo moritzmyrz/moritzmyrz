@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How we spend our days is, of course, how we spend our lives.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Annie Dillard</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
