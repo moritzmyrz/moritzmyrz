@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you aren't going all the way, why go at all?
+> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
 >
-> <p>- Joe Namath</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
