@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God made me fast. And when I run, I feel His pleasure.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Eric Liddell</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
