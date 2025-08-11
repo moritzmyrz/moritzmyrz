@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
