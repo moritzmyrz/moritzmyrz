@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> And as we let our own light shine, we unconsciously give other people permission to do the same.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
