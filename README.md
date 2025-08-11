@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
