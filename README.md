@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
