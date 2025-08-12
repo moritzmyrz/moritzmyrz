@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A creative man is motivated by the desire to achieve, not by the desire to beat others.
+> Remember that failure is an event, not a person.
 >
-> <p>- Ayn Rand</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
