@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+> The universe is made of stories, not atoms.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
