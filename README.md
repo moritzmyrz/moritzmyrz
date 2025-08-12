@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> Change your thoughts and you change your world.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
