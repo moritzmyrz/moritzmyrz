@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
