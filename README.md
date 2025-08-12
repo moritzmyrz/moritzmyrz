@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
