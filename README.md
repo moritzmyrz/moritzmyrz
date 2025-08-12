@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> Technology is a word that describes something that doesn't work yet.
 >
-> <p>- Henri Bergson</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
