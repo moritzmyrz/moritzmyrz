@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
 >
-> <p>- Lord Byron</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
