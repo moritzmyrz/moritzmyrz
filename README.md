@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> Life is a learning experience, only if you learn.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
