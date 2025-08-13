@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> Think like a man of action; act like a man of thought.
 >
-> <p>- Yogi Berra</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
