@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others
 >
-> <p>- Winston Churchill</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
