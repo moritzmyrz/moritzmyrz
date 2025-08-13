@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> Technology has to be invented or adopted.
 >
-> <p>- Larry Page</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
