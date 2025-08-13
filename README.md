@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the living power and prime agent of all human perception.
+> Make the most of yourself, for that is all there is of you.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
