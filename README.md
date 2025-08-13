@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> Our intention creates our reality.
 >
-> <p>- Dalai Lama</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
