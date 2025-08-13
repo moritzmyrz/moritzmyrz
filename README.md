@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> Try not to become a man of success, but rather try to become a man of value.
 >
-> <p>- Carl Jung</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
