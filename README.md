@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
