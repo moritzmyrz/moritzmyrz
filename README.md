@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Brendan Behan</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
