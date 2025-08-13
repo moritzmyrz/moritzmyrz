@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Napoleon</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
