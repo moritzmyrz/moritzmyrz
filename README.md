@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Ansel Adams</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
