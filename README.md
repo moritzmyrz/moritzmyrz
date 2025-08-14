@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- William Cowper</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
