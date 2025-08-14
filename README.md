@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> There is no failure except in no longer trying.
 >
-> <p>- John Locke</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
