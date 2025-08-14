@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
