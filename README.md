@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Ezra Stiles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
