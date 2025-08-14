@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> The years teach much which the days never know.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
