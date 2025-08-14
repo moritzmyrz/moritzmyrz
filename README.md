@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+> The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
 >
-> <p>- Alan Watts</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
