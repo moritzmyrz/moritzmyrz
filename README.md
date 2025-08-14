@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
