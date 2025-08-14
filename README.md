@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Confucius</p>
+> <p>- Ansel Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
