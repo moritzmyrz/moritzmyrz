@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Charles Du Bos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
