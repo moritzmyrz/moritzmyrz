@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> Great acts are made up of small deeds.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
