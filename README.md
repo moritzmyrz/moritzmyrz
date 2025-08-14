@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Joseph Joubert</p>
+> <p>- Carol Burnett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
