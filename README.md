@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> I believe that every person is born with talent.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
