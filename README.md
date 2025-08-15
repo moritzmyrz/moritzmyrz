@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
