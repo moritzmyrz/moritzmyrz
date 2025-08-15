@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no strangers here; Only friends you haven't yet met.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
