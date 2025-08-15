@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> You can't choose up sides on a round world.
 >
-> <p>- Maya Angelou</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
