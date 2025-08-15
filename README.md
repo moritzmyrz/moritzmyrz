@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Carl Jung</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
