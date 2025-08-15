@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- Winston Churchill</p>
+> <p>- Jim Bouton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
