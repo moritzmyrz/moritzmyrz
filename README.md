@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
