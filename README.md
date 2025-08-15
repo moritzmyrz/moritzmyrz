@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> All children are artists. The problem is how to remain an artist once he grows up.
 >
-> <p>- Anne Frank</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
