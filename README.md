@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- Anaïs Nin</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
