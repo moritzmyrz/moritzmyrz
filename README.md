@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- John Updike</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
