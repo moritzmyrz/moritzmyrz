@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
