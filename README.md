@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History is written by the victors.
+> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
 >
-> <p>- Winston Churchill</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
