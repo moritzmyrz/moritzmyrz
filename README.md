@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> None knows the weight of another's burden.
 >
-> <p>- Wayne Dyer</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
