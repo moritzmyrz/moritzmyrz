@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
 >
-> <p>- Mia Hamm</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
