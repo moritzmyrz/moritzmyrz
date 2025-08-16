@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- William Cowper</p>
+> <p>- René Descartes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
