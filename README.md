@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- John Dewey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
