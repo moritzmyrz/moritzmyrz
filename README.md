@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Sophocles</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
