@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ardently do today what must be done. Who knows? Tomorrow, death comes.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- The Buddha</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
