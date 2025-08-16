@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Virgil</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
