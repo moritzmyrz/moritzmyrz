@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- George Herbert</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
