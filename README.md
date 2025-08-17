@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
