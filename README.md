@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Joan Didion</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
