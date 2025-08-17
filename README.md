@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to predict your future is to create it.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Peter Drucker</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
