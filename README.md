@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Jim Rohn</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
