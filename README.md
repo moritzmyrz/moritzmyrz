@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
+> If I know what love is, it is because of you.
 >
-> <p>- Ovid</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
