@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the attempt to form a friendship inspired by beauty.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Cicero</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
