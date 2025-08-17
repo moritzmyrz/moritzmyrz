@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
+> Love is the attempt to form a friendship inspired by beauty.
 >
-> <p>- Epictetus</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
