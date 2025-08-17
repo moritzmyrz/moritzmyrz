@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> The best way to predict your future is to create it.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
