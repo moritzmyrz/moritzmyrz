@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
