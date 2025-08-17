@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
 >
-> <p>- Aristotle</p>
+> <p>- Honoré de Balzac</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
