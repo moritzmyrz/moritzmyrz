@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+> A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
 >
-> <p>- Kurt Vonnegut</p>
+> <p>- John C. Maxwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
