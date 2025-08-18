@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two ways of spreading light: to be the candle or the mirror that reflects it.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Edith Wharton</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
