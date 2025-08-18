@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
