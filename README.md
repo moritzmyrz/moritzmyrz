@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Jessamyn West</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
