@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Kurt Vonnegut</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
