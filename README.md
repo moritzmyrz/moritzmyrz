@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
+> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
 >
-> <p>- Sydney J. Harris</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
