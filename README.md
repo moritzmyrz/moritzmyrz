@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
+> Waste no more time arguing about what a good man should be. Be one.
 >
-> <p>- Ovid</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
