@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
+> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
 >
-> <p>- Caroline Myss</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
