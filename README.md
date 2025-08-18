@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> Eighty percent of success is showing up.
 >
-> <p>- Doug Horton</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
