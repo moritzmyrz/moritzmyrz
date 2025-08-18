@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- John Lasseter</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
