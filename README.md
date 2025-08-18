@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Peter Abelard</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
