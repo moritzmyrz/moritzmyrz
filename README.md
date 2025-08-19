@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
