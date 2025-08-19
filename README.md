@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> All achievements, all earned riches, have their beginning in an idea.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
