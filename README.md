@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
 >
-> <p>- Albert Einstein</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
