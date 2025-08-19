@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never promise more than you can perform.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
