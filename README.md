@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom has its root in goodness, not goodness its root in wisdom.
+> The man who trusts men will make fewer mistakes than he who distrusts them.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Camillo Benso, Count of Cavour</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
