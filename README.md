@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> We must not allow ourselves to become like the system we oppose.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
