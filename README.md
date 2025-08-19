@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
+> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
 >
-> <p>- Charles Eastman</p>
+> <p>- Steven Van Zandt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
