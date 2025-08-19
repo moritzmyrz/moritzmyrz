@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Laozi</p>
+> <p>- E. M. Forster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
