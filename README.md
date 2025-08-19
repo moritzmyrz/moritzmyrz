@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The World is my country, all mankind are my brethren, and to do good is my religion.
+> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
 >
-> <p>- Thomas Paine</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
