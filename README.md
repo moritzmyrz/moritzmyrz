@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- E. M. Forster</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
