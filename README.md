@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- Amy Tan</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
