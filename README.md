@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> Wisdom has its root in goodness, not goodness its root in wisdom.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
