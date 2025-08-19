@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want your life to be more rewarding, you have to change the way you think.
+> The World is my country, all mankind are my brethren, and to do good is my religion.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Thomas Paine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
