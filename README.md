@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
