@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Casey Stengel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
