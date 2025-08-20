@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> However rare true love may be, it is less so than true friendship.
 >
-> <p>- Napoleon Hill</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
