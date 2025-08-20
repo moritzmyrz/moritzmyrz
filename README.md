@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never, never, never give up.
+> To see things in the seed, that is genius.
 >
-> <p>- Winston Churchill</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
