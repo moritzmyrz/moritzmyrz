@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Persuasion is often more effectual than force.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Aesop</p>
+> <p>- John Bercow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
