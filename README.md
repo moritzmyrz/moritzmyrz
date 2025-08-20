@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
+> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
