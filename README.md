@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom has never made a bigot, but learning has.
+> I allow my intuition to lead my path.
 >
-> <p>- Josh Billings</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
