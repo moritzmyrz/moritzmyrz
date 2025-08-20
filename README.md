@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> Never, never, never give up.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
