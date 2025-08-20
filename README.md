@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
 >
-> <p>- John Bercow</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
