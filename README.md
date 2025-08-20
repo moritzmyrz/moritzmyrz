@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I allow my intuition to lead my path.
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
 >
-> <p>- Manuel Puig</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
