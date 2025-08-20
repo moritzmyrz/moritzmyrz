@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
+> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
 >
-> <p>- Parker Palmer</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
