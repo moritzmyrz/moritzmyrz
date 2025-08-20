@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> Persuasion is often more effectual than force.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
