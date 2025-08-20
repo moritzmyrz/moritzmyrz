@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Jack Dixon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
