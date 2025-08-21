@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> God always takes the simplest way.
 >
-> <p>- Alan Watts</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
