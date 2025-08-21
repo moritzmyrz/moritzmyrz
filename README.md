@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
