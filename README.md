@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
 >
 > <p>- Confucius</p>
 
