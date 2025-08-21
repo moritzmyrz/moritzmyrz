@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+> Nothing happens unless first we dream.
 >
-> <p>- Holly Near</p>
+> <p>- Carl Sandburg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
