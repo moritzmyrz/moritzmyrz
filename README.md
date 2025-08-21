@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How is it possible to find meaning in a finite world, given my waist and shirt size?
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Woody Allen</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
