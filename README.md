@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewer words.
+> Independence is happiness.
 >
-> <p>- Sophocles</p>
+> <p>- Susan B. Anthony</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
