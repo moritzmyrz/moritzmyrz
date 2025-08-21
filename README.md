@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+> Knowing your own darkness is the best method for dealing with the darkness of other people.
 >
-> <p>- Jim Rohn</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
