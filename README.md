@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
