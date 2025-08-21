@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God always takes the simplest way.
+> Much wisdom often goes with fewer words.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
