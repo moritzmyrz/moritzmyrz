@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you are out to describe the truth, leave elegance to the tailor.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Albert Einstein</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
