@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
 >
-> <p>- Plato</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
