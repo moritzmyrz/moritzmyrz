@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> Memory is the mother of all wisdom.
 >
-> <p>- David Bader</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
