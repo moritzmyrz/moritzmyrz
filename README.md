@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> The secret of getting ahead is getting started.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
