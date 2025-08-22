@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is always a sweet responsibility, never an opportunity.
+> If it is not right do not do it; if it is not true do not say it.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
