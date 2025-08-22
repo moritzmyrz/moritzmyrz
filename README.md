@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> Friendship is always a sweet responsibility, never an opportunity.
 >
-> <p>- Ralph Marston</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
