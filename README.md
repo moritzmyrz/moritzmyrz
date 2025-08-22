@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Whoopi Goldberg</p>
+> <p>- Amber Valletta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
