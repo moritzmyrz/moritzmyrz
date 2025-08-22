@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> The truest greatness lies in being kind, the truest wisdom in a happy mind.
 >
-> <p>- Robert Frost</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
