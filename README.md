@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> And as we let our own light shine, we unconsciously give other people permission to do the same.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Nelson Mandela</p>
+> <p>- John Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
