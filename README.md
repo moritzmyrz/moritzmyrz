@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
