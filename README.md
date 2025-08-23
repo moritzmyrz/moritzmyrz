@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
