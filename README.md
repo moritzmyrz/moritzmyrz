@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Robert Graves</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
