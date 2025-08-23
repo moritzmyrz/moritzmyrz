@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
+> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
 >
-> <p>- Confucius</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
