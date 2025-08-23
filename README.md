@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never accept ultimatums, conventional wisdom, or absolutes.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Christopher Reeve</p>
+> <p>- George Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
