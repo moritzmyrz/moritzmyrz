@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> Begin at once to live and count each separate day as a separate life.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
