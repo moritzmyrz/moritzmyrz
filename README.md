@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all something, but none of us are everything.
+> Your big opportunity may be right where you are now.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
