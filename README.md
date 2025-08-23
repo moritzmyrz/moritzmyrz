@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Albert Camus</p>
+> <p>- W. Clement Stone</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
