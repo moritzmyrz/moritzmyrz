@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Doris Mortman</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
