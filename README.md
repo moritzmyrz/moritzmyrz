@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
