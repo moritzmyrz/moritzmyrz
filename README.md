@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
+> All serious daring starts from within.
 >
-> <p>- Thomas à Kempis</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
