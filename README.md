@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
