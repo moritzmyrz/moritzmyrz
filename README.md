@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> To listen well is as powerful a means of communication and influence as to talk well.
 >
-> <p>- Henry Ford</p>
+> <p>- John Marshall</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
