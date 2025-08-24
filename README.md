@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Victoria Osteen</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
