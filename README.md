@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
