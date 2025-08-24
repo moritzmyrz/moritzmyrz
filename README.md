@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> Inspiration exists, but it has to find us working.
 >
-> <p>- John Marshall</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
