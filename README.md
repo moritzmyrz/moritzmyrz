@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
