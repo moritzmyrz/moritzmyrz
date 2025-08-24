@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
