@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Anne Lindbergh</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
