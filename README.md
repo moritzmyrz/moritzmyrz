@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- John Wooden</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
