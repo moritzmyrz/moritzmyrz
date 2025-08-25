@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
