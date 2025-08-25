@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> If you can't feed a hundred people, then feed just one.
 >
-> <p>- Francis Bacon</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
