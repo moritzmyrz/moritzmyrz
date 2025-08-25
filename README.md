@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't feed a hundred people, then feed just one.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Mother Teresa</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
