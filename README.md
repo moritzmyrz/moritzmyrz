@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> Be the change that you want to see in the world.
 >
-> <p>- H. G. Wells</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
