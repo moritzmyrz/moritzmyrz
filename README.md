@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> A wise man will make more opportunities than he finds.
 >
-> <p>- John Lennon</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
