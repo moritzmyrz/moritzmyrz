@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> The great myth of our times is that technology is communication.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Libby Larsen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
