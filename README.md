@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Melody Beattie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
