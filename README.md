@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who hath many friends hath none.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- Aristotle</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
