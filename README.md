@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not only for what we do that we are held responsible, but also for what we do not do.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Molière</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
