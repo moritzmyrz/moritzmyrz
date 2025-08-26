@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things that were hard to bear are sweet to remember.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
