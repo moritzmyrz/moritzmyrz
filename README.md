@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> We make a living by what we get, but we make a life by what we give.
 >
-> <p>- Aristotle</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
