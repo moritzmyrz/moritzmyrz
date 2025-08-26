@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Paul Tillich</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
