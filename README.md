@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only put off until tomorrow what you are willing to die having left undone.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
