@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> Problems are not stop signs, they are guidelines.
 >
-> <p>- Euripides</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
