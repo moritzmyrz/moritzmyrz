@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> Only put off until tomorrow what you are willing to die having left undone.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
