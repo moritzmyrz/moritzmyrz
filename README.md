@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- Robert Schuller</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
