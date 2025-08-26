@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
 >
-> <p>- Albert Einstein</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
