@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Winston Churchill</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
