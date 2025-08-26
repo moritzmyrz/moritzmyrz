@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
