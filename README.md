@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Henry Reed</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
