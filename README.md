@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Winston Churchill</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
