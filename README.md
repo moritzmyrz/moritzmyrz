@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great minds discuss ideas; average minds discuss events; small minds discuss people.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
