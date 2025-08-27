@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Edith Wharton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
