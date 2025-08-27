@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
 >
-> <p>- Will Rogers</p>
+> <p>- Margaret Mead</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
