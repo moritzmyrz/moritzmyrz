@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Maya Angelou</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
