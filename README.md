@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who hath many friends hath none.
+> Smile, breathe and go slowly.
 >
-> <p>- Aristotle</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
