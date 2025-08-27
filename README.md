@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The eye sees only what the mind is prepared to comprehend.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Henri Bergson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
