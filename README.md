@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those frightful things you see when you take your eyes off your goal.
+> We shall never know all the good that a simple smile can do.
 >
-> <p>- Henry Ford</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
