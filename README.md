@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak low, if you speak love.
+> We are masters of the unsaid words, but slaves of those we let slip out.
 >
-> <p>- William Shakespeare</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
