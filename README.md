@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
