@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
