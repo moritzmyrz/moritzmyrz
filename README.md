@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
