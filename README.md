@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are masters of the unsaid words, but slaves of those we let slip out.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- Winston Churchill</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
