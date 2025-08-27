@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Mother Teresa</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
