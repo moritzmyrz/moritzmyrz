@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> We are stuck with technology when what we really want is just stuff that works.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Douglas Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
