@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The deepest craving of human nature is the need to be appreciated.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- William James</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
