@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
