@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are stuck with technology when what we really want is just stuff that works.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Douglas Adams</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
