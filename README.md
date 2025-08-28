@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Harriet Woods</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
