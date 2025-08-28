@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Zhuang Zhou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
