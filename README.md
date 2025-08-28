@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Mark Twain</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
