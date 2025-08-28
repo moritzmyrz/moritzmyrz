@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- William Blake</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
