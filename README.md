@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> It is a miracle that curiosity survives formal education.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
