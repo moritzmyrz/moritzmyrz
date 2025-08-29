@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Giotto</p>
+> <p>- James F. Byrnes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
