@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- Carl Jung</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
