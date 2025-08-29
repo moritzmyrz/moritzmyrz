@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change in all things is sweet.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Aristotle</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
