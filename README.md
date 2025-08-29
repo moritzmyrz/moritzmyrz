@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
 >
-> <p>- Michelangelo</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
