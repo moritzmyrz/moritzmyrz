@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
 >
-> <p>- Sam Levenson</p>
+> <p>- Isaac D'Israeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
