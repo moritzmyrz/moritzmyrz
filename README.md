@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
