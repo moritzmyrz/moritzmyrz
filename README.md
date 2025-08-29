@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> Change in all things is sweet.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
