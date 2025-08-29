@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Kurt Vonnegut</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
