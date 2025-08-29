@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
