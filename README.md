@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Carl Jung</p>
+> <p>- Kurt Vonnegut</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
