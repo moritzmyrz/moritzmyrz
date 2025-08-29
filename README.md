@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
