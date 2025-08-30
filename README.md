@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
