@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never mistake motion for action.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
