@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Albert Einstein</p>
+> <p>- Cynthia Ozick</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
