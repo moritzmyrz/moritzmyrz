@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- William Blake</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
