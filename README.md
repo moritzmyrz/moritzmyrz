@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Frank Abagnale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
