@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Woody Allen</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
