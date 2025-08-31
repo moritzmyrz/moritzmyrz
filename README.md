@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
