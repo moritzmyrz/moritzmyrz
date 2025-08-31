@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We lost because we told ourselves we lost.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
