@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> You win the victory when you yield to friends.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
