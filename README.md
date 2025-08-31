@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Richard Bach</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
