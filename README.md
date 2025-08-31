@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> Ignorance and bungling with love are better than wisdom and skill without.
 >
-> <p>- Thomas Edison</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
