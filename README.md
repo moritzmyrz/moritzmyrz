@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An appeaser is one who feeds a crocodile, hoping it will eat him last.
+> We lost because we told ourselves we lost.
 >
-> <p>- Winston Churchill</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
