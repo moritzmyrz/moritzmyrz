@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There never was a good knife made of bad steel.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
