@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
 >
-> <p>- Will Rogers</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
