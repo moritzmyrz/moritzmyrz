@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Michelangelo</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
