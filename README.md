@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
