@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
