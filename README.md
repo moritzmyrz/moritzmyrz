@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- The Buddha</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
