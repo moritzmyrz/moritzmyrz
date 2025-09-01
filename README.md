@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
