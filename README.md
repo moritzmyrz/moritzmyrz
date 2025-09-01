@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only when the mind and character slumber that the dress can be seen.
+> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
