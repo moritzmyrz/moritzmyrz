@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> There are two kinds of failures: those who thought and never did, and those who did and never thought.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
