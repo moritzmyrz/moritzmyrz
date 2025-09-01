@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two kinds of failures: those who thought and never did, and those who did and never thought.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
