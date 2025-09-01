@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Peter Drucker</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
