@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Richard Bach</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
