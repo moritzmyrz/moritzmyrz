@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
