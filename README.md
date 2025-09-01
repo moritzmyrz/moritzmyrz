@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
 >
-> <p>- Jerome</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
