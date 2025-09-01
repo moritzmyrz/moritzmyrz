@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Amy Tan</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
