@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
