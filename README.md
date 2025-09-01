@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
