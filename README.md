@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never give up, for that is just the place and time that the tide will turn.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
