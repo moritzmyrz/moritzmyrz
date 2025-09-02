@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- John Locke</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
