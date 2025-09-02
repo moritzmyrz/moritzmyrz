@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
 >
-> <p>- Walter Winchell</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
