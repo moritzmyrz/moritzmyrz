@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
