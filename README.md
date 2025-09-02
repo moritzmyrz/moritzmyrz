@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> If we are not fully ourselves, truly in the present moment, we miss everything.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
