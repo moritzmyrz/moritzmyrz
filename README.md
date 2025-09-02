@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
