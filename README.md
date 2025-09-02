@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
 >
-> <p>- Yogi Berra</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
