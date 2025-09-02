@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By accepting yourself and being fully what you are, your presence can make others happy.
+> Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
 >
-> <p>- Jane Roberts</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
