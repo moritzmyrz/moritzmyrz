@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> Bad times have a scientific value. These are occasions a good learner would not miss.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
