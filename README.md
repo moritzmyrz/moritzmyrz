@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Richard Bach</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
