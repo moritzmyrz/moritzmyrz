@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Confucius</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
