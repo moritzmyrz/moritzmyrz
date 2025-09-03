@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> It is impossible to love and to be wise.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
