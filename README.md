@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Francis Bacon</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
