@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Hal Abelson</p>
+> <p>- Norman Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
