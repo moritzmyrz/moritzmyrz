@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- Vusi Mahlasela</p>
+> <p>- Frank Abagnale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
