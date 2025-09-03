@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Sai Baba</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
