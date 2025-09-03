@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
+> Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.
 >
-> <p>- William Cowper</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
