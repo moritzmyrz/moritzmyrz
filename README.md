@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- Richard Bach</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
