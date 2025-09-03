@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Dalai Lama</p>
+> <p>- P. Chidambaram</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
