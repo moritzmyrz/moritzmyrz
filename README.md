@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All wisdom does not reside in Delhi.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- P. Chidambaram</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
