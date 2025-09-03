@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Frank Abagnale</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
