@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> Do good by stealth, and blush to find it fame.
 >
-> <p>- The Buddha</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
