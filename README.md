@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Dalai Lama</p>
+> <p>- Corita Kent</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
