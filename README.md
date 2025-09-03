@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> The path to success is to take massive, determined action.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
