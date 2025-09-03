@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
