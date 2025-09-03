@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always remember that you are absolutely unique. Just like everyone else.
+> Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
 >
-> <p>- Margaret Mead</p>
+> <p>- William Cowper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
