@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Lou Holtz</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
