@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Samuel Richardson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
