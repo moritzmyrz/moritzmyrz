@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Og Mandino</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
