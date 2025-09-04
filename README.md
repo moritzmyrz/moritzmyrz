@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> Our strength grows out of our weaknesses.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
