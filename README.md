@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth is powerful and it prevails.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Sojourner Truth</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
