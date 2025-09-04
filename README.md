@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> Imagination is more important than knowledge...
 >
-> <p>- John Lennon</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
