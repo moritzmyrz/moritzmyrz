@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge...
+> Ask yourself the secret of your success. Listen to your answer and practice it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
