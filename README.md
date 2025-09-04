@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must not say every mistake is a foolish one.
+> Everything that irritates us about others can lead us to a better understanding of ourselves.
 >
-> <p>- Cicero</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
