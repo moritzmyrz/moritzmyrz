@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Train up a fig tree in the way it should go, and when you are old sit under the shade of it.
+> We need never be ashamed of our tears.
 >
 > <p>- Charles Dickens</p>
 
