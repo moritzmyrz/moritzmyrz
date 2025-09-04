@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our strength grows out of our weaknesses.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
