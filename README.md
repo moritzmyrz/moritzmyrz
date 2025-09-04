@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
