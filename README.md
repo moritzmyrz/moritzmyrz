@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
