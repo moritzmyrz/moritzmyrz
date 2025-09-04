@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful it is that nobody need wait a single moment before starting to improve the world.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Anne Frank</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
