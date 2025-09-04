@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trouble is only opportunity in work clothes.
+> We must not say every mistake is a foolish one.
 >
-> <p>- Henry J. Kaiser</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
