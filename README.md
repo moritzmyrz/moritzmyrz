@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to a better understanding of ourselves.
+> Truth is powerful and it prevails.
 >
-> <p>- Carl Jung</p>
+> <p>- Sojourner Truth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
