@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ask yourself the secret of your success. Listen to your answer and practice it.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Richard Bach</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
