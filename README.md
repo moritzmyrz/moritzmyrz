@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
 >
-> <p>- Charles Dickens</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
