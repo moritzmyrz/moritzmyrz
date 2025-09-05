@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Herman Melville</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
