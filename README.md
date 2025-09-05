@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Franz Kafka</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
