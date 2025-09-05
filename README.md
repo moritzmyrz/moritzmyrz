@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> Miracles come in moments. Be ready and willing.
 >
 > <p>- Wayne Dyer</p>
 
