@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- The Buddha</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
