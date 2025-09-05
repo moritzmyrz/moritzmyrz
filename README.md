@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> Think big thoughts but relish small pleasures.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
