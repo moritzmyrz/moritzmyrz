@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> Opportunity is missed by most people because it is dressed in overalls and looks like work.
 >
-> <p>- Herman Melville</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
