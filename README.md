@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> A wise man will make more opportunities than he finds.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
