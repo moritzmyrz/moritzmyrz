@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
 >
-> <p>- Euripides</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
