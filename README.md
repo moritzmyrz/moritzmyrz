@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not so much our friends' help that helps us, as the confidence of their help.
+> You can't win unless you learn how to lose.
 >
-> <p>- Epicurus</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
