@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> Life has no blessing like a prudent friend.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
