@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Giotto</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
