@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
