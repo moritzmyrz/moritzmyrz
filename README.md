@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Laozi</p>
+> <p>- Franz Kafka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
