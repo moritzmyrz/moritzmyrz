@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead.
 >
-> <p>- Giotto</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
