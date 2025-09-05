@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Miracles come in moments. Be ready and willing.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Paavo Nurmi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
