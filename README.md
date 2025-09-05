@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
