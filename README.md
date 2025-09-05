@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Epicurus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
