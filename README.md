@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.
 >
-> <p>- Frank Herbert</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
