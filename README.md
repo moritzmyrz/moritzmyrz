@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> Be the chief but never the lord.
 >
-> <p>- Virgil</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
