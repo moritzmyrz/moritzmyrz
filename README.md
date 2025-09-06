@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
