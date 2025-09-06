@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
