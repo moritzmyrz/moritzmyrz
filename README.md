@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Woody Allen</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
