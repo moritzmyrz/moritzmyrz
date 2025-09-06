@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All know the way; few actually walk it.
+> Nothing ever goes away until it has taught us what we need to know.
 >
-> <p>- Bodhidharma</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
