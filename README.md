@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
+> They can conquer who believe they can.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
