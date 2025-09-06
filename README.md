@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
