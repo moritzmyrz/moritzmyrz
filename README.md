@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> The price of greatness is responsibility.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
