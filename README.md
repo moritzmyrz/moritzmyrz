@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
+> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
 >
-> <p>- Washington Irving</p>
+> <p>- Hugh Jackman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
