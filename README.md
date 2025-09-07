@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Henry Ford</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
