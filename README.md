@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
