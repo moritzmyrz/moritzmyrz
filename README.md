@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many sophisticated, intelligent people lack wisdom and common sense.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Joyce Meyer</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
