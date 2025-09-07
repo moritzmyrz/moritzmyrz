@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> It is easy to be brave from a safe distance.
 >
-> <p>- Anne Frank</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
