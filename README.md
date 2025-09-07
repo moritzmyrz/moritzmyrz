@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> To change one's life, start immediately, do it flamboyantly, no exceptions.
 >
-> <p>- William Shakespeare</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
