@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Melody Beattie</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
