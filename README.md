@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Lucille Ball</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
