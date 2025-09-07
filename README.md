@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
