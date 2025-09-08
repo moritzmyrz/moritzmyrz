@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One loyal friend is worth ten thousand relatives.
+> Anything you really want, you can attain, if you really go after it.
 >
-> <p>- Euripides</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
