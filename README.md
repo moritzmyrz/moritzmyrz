@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Give whatever you are doing and whoever you are with the gift of your attention.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
