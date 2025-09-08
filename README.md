@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Elizabeth Montagu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
