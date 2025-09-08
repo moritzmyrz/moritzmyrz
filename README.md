@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Dalai Lama</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
