@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Albert Einstein</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
