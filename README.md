@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anything you really want, you can attain, if you really go after it.
+> You really can change the world if you care enough.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
