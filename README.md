@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not engaging in ignorance is wisdom.
+> Do all things with love.
 >
-> <p>- Bodhidharma</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
