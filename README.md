@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
