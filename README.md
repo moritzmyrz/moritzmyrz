@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do all things with love.
+> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
 >
-> <p>- Og Mandino</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
