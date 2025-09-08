@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Volker Grassmuck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
