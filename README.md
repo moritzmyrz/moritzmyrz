@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Benjamin Haydon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
