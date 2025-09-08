@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man who doesn't trust himself can never really trust anyone else.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- Jean François Paul de Gondi</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
