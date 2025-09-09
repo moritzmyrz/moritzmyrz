@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- Harry Kemp</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
