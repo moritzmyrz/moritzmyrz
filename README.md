@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
