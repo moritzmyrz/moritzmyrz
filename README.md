@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science is organized knowledge. Wisdom is organized life.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Harry Kemp</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
