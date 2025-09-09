@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Phil Jackson</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
