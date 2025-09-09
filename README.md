@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
