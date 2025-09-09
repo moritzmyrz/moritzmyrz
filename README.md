@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Michelangelo</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
