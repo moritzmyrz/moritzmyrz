@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
