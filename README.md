@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is someone who is there for you when he'd rather be anywhere else.
+> He who angers you conquers you.
 >
-> <p>- Len Wein</p>
+> <p>- Elizabeth Kenny</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
