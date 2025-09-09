@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Bruce Lee</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
