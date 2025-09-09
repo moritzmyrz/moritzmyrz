@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- William James</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
