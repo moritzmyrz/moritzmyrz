@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Rumi</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
