@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
