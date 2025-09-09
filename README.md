@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> Most people never run far enough on their first wind to find out they've got a second.
 >
-> <p>- Thomas Edison</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
