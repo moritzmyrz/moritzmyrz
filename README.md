@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Jim Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
