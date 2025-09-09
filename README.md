@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
