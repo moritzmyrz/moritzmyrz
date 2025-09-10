@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
