@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
