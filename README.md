@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
 >
 > <p>- Henry David Thoreau</p>
 
