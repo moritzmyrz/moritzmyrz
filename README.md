@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
+> The only limit to our realization of tomorrow will be our doubts of today.
 >
-> <p>- Carl Jung</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
