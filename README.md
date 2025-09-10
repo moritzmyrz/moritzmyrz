@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest act of kindness is worth more than the grandest intention.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
