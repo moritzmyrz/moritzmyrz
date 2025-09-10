@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's easier to resist at the beginning than at the end.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
