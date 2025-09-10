@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Parker Palmer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
