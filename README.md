@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
