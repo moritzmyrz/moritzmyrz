@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Marie Curie</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
