@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> There is nothing happens to any person but what was in his power to go through with.
 >
 > <p>- Marcus Aurelius</p>
 
