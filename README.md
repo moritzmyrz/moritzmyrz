@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
