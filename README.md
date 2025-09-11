@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
 >
-> <p>- Tony Robbins</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
