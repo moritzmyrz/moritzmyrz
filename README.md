@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Dalai Lama</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
