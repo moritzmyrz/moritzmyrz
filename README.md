@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Opportunity does not knock, it presents itself when you beat down the door.
+> Happiness can exist only in acceptance.
 >
-> <p>- Kyle Chandler</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
