@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To conquer fear is the beginning of wisdom.
+> Never find fault with the absent.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
