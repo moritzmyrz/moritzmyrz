@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To fly as fast as thought, you must begin by knowing that you have already arrived.
+> The only limit to your impact is your imagination and commitment.
 >
-> <p>- Richard Bach</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
