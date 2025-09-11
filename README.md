@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Marcel Proust</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
