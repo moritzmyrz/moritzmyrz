@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
