@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technological progress has merely provided us with more efficient means for going backwards.
+> To fly as fast as thought, you must begin by knowing that you have already arrived.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
