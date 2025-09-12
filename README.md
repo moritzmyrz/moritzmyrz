@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Babe Ruth</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
