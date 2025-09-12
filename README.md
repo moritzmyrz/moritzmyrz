@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No snowflake in an avalanche ever feels responsible.
+> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
 >
-> <p>- Voltaire</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
