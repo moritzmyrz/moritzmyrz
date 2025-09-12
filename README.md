@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Doug Larson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
