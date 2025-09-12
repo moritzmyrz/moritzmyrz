@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have not failed. I've just found 10,000 ways that won't work.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
-> <p>- Thomas Edison</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
