@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
