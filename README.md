@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> I can, therefore I am.
 >
-> <p>- Francis de Sales</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
