@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> He is no fool who gives what he cannot keep to gain what he cannot lose.
 >
-> <p>- John Powell</p>
+> <p>- Jim Elliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
