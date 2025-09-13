@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Brooks Adams</p>
+> <p>- Ray Bradbury</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
