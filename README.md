@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> The person born with a talent they are meant to use will find their greatest happiness in using it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
