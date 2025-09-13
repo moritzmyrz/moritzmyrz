@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us sacrifice our today so that our children can have a better tomorrow.
+> A house divided against itself cannot stand.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
