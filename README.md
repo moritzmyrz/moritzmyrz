@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meetings are indispensable when you don't want to do anything.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- John Kenneth Galbraith</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
