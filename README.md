@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> Meetings are indispensable when you don't want to do anything.
 >
-> <p>- Mother Teresa</p>
+> <p>- John Kenneth Galbraith</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
