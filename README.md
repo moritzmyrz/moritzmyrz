@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> Those who are free of resentful thoughts surely find peace.
 >
-> <p>- Ray Bradbury</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
