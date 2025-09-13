@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Robert Griffin III</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
