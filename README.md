@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you want your life to be more rewarding, you have to change the way you think.
+> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
