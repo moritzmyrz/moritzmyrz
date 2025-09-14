@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> Attitude is a little thing that makes a big difference.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
