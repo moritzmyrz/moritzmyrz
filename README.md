@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Attitude is a little thing that makes a big difference.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- Winston Churchill</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
