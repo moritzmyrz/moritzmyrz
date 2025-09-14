@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
