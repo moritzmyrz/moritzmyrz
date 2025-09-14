@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't explain it simply, you don't understand it well enough.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- Albert Einstein</p>
+> <p>- Frank Abagnale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
