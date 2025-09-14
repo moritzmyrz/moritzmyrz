@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
