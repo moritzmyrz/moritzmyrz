@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's a good thing to be satisfied with what one has.
+> No day in which you learn something is a complete loss.
 >
-> <p>- The Buddha</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
