@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> One fails forward toward success.
 >
-> <p>- Mother Teresa</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
