@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- Frank Abagnale</p>
+> <p>- Harvey Mackay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
