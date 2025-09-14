@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> You give before you get.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
