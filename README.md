@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success: to be able to spend your life in your own way.
+> As an organizer I start from where the world is, as it is, not as I would like it to be.
 >
-> <p>- Christopher Morley</p>
+> <p>- Saul Alinsky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
