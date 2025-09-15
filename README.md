@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Who sows virtue reaps honor.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
