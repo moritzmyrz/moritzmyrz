@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+> Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
