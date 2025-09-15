@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
