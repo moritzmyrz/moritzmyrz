@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>- John Lennon</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
