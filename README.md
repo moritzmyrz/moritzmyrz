@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Albert Einstein</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
