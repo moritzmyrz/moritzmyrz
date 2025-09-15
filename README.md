@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- J. Paul Getty</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
