@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
