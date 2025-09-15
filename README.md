@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Dalai Lama</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
