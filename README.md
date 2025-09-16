@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
+> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
 >
-> <p>- Ravi Zacharias</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
