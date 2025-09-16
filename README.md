@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
 >
-> <p>- Mark Twain</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
