@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Henri Bergson</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
