@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who wishes to secure the good of others, has already secured his own.
+> Never mistake motion for action.
 >
-> <p>- Confucius</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
