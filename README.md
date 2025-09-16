@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
