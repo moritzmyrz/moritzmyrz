@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once we accept our limits, we go beyond them.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Albert Einstein</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
