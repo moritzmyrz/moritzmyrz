@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Leave no stone unturned.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Euripides</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
