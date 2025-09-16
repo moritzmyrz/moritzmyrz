@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
