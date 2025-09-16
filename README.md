@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> Applause is a receipt, not a bill.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
