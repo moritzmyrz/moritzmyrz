@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never mistake motion for action.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
