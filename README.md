@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
