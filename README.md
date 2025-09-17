@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Russia is a riddle wrapped in a mystery inside an enigma.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Winston Churchill</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
