@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> Thought is the blossom; language the bud; action the fruit behind it.
 >
-> <p>- Herodotus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
