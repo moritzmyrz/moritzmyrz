@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
 >
-> <p>- Carl Jung</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
