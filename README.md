@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Today you are you! That is truer than true! There is no one alive who is you-er than you!
+> Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
