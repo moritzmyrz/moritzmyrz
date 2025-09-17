@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Action is the foundational key to all success.
+> An appeaser is one who feeds a crocodile, hoping it will eat him last.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
