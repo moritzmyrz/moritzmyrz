@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Helen Keller</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
