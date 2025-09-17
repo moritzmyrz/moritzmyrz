@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> Keep yourself to the sunshine and you cannot see the shadow.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
