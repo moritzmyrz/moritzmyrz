@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Dalai Lama</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
