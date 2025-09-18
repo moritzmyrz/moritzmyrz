@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meditate … do not delay, lest you later regret it.
+> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
 >
-> <p>- The Buddha</p>
+> <p>- Swami Vivekananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
