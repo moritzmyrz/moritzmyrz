@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> Technology has to be invented or adopted.
 >
-> <p>- George S. Patton</p>
+> <p>- Jared Diamond</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
