@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
