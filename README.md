@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
