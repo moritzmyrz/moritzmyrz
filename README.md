@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot always control what goes on outside. But I can always control what goes on inside.
+> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
