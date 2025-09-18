@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
