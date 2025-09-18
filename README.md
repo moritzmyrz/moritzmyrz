@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Whoever is happy will make others happy, too.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
