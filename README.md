@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> It always seems impossible until it's done.
 >
-> <p>- Princess Diana</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
