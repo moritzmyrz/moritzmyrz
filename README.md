@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
