@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great achievements require time.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Maya Angelou</p>
+> <p>- Gail Sheehy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
