@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
