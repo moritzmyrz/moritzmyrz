@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> Respect should be earned by actions, and not acquired by years.
 >
-> <p>- Laozi</p>
+> <p>- Frank Lloyd Wright</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
