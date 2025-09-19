@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> You might well remember that nothing can bring you success but yourself.
 >
-> <p>- Sun Tzu</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
