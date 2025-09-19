@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way out is always through.
+> Friends are the siblings God never gave us.
 >
-> <p>- Robert Frost</p>
+> <p>- Mencius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
