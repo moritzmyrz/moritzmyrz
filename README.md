@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> Music in the soul can be heard by the universe.
 >
-> <p>- John Quincy Adams</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
