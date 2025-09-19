@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
