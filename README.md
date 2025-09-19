@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- John Quincy Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
