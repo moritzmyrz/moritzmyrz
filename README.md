@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> We must become the change we want to see.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
