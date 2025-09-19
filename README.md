@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Richard Bach</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
