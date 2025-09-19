@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> Go put your creed into the deed. Nor speak with double tongue.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
