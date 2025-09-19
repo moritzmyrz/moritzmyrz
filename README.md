@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Howard H. Aiken</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
