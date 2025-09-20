@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Barack Obama</p>
+> <p>- George Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
