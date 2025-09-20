@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
