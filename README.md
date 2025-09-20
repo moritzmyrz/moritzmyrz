@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Shaquille O'Neal</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
