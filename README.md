@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who are free of resentful thoughts surely find peace.
+> Excellence is to do a common thing in an uncommon way.
 >
-> <p>- The Buddha</p>
+> <p>- Booker T. Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
