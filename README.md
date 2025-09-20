@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> Never find fault with the absent.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
