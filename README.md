@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.
 >
-> <p>- John Ruskin</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
