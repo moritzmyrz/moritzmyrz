@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> Reality is merely an illusion, albeit a very persistent one.
 >
 > <p>- Albert Einstein</p>
 
