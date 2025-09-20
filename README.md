@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.
 >
-> <p>- Brian Tracy</p>
+> <p>- Shaquille O'Neal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
