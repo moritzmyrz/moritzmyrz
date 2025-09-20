@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Alexander Pope</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
