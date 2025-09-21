@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
