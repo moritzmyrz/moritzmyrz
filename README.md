@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept the challenges so that you can feel the exhilaration of victory.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- George S. Patton</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
