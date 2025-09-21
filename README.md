@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+> Accept the challenges so that you can feel the exhilaration of victory.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
