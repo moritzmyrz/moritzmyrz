@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Nature is a mutable cloud which is always and never the same.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
