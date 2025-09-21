@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing impossible to him who will try.
+> Your friend is your needs answered.
 >
-> <p>- Alexander the Great</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
