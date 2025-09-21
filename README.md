@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your friend is your needs answered.
+> History is written by the victors.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
