@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Frank Abagnale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
