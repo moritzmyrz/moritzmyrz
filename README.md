@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
