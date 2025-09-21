@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History is written by the victors.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Winston Churchill</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
