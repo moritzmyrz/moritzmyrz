@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.
+> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
 >
-> <p>- Harbhajan Singh</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
