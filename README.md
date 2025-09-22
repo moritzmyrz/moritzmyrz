@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Sophocles</p>
+> <p>- Walter Inglis Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
