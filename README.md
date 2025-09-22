@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- B. F. Skinner</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
