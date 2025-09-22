@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Confucius</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
