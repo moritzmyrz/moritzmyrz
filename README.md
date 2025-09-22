@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> No day in which you learn something is a complete loss.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
