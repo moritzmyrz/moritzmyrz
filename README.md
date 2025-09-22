@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Hannah More</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
