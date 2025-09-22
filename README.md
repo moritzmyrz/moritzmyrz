@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
