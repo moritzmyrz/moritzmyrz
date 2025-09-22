@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
