@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man acts before he speaks, and afterwards speaks according to his action.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Confucius</p>
+> <p>- Jack Buck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
