@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
+> The superior man acts before he speaks, and afterwards speaks according to his action.
 >
-> <p>- The Buddha</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
