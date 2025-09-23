@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Anne Brontë</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
