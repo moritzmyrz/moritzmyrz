@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> Happiness is the reward we get for living to the highest right we know.
 >
-> <p>- George Orwell</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
