@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Life is 10% what happens to you and 90% how you react to it.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
