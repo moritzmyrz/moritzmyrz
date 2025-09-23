@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Colette</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
