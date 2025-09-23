@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> It's not what happens to you, but how you react to it that matters.
 >
-> <p>- Charles Péguy</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
