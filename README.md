@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Ralph Marston</p>
+> <p>- Anne Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
