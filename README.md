@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is 10% what happens to you and 90% how you react to it.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
