@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Dale Earnhardt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
