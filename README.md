@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> In the business world, the rearview mirror is always clearer than the windshield.
 >
-> <p>- Mother Teresa</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
