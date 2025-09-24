@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Richard Bach</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
