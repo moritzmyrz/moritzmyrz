@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Jean Cocteau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
