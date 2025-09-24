@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Jean Cocteau</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
