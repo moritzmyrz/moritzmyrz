@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Spread love everywhere you go. Let no one ever come to you without leaving happier.
+> Love demands infinitely less than friendship.
 >
-> <p>- Mother Teresa</p>
+> <p>- George Jean Nathan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
