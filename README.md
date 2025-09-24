@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- George Santayana</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
