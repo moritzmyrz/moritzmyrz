@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is more wisdom in your body than in your deepest philosophy.
+> It is impossible to love and to be wise.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
