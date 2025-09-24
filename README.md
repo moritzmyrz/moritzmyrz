@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the business world, the rearview mirror is always clearer than the windshield.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Warren Buffett</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
