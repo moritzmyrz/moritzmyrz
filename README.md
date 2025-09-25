@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before God we are all equally wise - and equally foolish.
+> Much wisdom often goes with fewer words.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
