@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Richard Bach</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
