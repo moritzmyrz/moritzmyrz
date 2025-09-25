@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
