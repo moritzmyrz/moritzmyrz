@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
