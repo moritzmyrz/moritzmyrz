@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Maureen Dowd</p>
+> <p>- John Lasseter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
