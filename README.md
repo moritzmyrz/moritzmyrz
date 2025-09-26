@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Walter Winchell</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
