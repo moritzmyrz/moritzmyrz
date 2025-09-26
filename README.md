@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.
+> I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.
 >
-> <p>- Woody Allen</p>
+> <p>- Harbhajan Singh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
