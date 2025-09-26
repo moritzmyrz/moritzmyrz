@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You won't skid if you stay in a rut.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- Kin Hubbard</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
