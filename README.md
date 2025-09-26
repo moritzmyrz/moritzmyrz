@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- Corita Kent</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
