@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> I will prepare and someday my chance will come.
 >
-> <p>- Aristotle</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
