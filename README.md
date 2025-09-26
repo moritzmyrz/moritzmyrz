@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Richard Bach</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
