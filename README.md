@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A rolling stone gathers no moss.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Corita Kent</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
