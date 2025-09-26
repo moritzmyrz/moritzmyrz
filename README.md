@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> You won't skid if you stay in a rut.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
