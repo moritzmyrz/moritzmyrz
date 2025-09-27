@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> Two persons cannot long be friends if they cannot forgive each other's little failings.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
