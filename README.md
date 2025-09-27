@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
+> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
 >
-> <p>- Robert Fulghum</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
