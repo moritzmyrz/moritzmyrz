@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> The world is but a canvas to the imagination.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
