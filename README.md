@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Victor Hugo</p>
+> <p>- Charles Du Bos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
