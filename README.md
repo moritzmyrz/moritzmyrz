@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As a cure for worrying, work is better than whisky.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Thomas Edison</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
