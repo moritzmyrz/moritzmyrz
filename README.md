@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> The universe is made of stories, not atoms.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
