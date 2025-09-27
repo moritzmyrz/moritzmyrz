@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Two persons cannot long be friends if they cannot forgive each other's little failings.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
