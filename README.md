@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> Great acts are made up of small deeds.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
