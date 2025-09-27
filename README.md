@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great acts are made up of small deeds.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Laozi</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
