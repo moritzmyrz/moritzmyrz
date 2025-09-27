@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> I walk slowly, but I never walk backward.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
