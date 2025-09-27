@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- The Buddha</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
