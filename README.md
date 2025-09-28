@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Brooks Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
