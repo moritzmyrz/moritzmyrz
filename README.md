@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
+> Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
 >
-> <p>- Winston Churchill</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
