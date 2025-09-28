@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
 >
-> <p>- Anne Frank</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
