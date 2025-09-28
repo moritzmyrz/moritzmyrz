@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
