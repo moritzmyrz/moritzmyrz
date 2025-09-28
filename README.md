@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> Trust is the lubrication that makes it possible for organizations to work.
 >
-> <p>- Franz Kafka</p>
+> <p>- Warren Bennis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
