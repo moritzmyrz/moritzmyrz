@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
