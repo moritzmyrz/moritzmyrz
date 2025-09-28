@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
