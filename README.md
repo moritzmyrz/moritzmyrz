@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Carl Jung</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
