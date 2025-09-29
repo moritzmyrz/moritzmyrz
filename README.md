@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
