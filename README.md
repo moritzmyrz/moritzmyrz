@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
 >
-> <p>- Dalai Lama</p>
+> <p>- Edward de Bono</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
