@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men raise questions that wise men answered a thousand years ago.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
