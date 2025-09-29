@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the middle of every difficulty lies opportunity.
+> Never mistake motion for action.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ernest Hemingway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
