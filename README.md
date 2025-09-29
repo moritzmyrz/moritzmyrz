@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- John Burroughs</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
