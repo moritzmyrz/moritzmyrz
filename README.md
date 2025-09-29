@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Sai Baba</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
