@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
