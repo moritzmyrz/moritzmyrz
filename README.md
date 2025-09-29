@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Bruce Lee</p>
+> <p>- John Burroughs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
