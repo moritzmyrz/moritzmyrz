@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+> To see things in the seed, that is genius.
 >
-> <p>- Johann Kaspar Lavater</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
