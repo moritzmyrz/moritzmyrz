@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Harold Nicolson</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
