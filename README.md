@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> Trouble is only opportunity in work clothes.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Henry J. Kaiser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
