@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anything you really want, you can attain, if you really go after it.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Johann Kaspar Lavater</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
