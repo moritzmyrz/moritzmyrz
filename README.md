@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
