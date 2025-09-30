@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot always control what goes on outside. But I can always control what goes on inside.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
