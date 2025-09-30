@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> They can do all because they think they can.
 >
-> <p>- Laozi</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
