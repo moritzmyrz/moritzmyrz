@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Washington Irving</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
