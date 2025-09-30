@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Epictetus</p>
+> <p>- Robert Griffin III</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
