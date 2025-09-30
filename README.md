@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> Anything you really want, you can attain, if you really go after it.
 >
-> <p>- Laozi</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
