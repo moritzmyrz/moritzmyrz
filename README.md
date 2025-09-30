@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
