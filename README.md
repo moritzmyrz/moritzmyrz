@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- David Bader</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
