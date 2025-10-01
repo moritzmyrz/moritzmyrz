@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- Aristotle</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
