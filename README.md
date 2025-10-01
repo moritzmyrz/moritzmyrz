@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are stuck with technology when what we really want is just stuff that works.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Douglas Adams</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
