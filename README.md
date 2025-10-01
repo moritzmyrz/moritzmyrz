@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
