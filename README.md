@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
