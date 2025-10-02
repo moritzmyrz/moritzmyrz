@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Michael Korda</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
