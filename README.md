@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Epictetus</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
