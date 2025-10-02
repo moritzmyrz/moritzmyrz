@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
