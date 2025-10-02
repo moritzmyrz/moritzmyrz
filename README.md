@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- John Lennon</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
