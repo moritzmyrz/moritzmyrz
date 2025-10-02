@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Frank Herbert</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
