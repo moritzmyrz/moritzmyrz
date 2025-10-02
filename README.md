@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Karl Menninger</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
