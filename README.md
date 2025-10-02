@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Frank Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
