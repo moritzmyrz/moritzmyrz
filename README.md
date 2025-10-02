@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Lord Byron</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
