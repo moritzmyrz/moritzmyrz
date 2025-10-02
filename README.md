@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
 >
-> <p>- Confucius</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
