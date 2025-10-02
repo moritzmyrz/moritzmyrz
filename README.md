@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- David Eddings</p>
+> <p>- Karl Menninger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
