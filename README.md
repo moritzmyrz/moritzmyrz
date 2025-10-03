@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way out is always through.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Robert Frost</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
