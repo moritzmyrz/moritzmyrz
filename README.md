@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One should not hurt others if one loves oneself.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>- The Buddha</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
