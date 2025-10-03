@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
