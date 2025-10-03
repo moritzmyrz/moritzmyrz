@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Commitment is an act, not a word.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
