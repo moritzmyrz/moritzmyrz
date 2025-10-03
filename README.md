@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Daniel J. Boorstin</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
