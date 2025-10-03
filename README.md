@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> Learning is finding out what you already know.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
