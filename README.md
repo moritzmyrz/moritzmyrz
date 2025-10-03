@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> Happiness mainly comes from our own attitude, rather than from external factors.
 >
-> <p>- Voltaire</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
