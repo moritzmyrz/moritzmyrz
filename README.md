@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> A friend to all is a friend to none.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
