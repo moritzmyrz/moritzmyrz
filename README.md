@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Know how to listen, and you will profit even from those who talk badly.
+> No man is free who is not master of himself.
 >
-> <p>- Plutarch</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
