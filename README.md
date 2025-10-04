@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
+> Compassion and happiness are not a sign of weakness but a sign of strength.
 >
-> <p>- Richard Bach</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
