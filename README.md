@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man is free who is not master of himself.
+> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
 >
-> <p>- Epictetus</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
