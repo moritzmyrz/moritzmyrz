@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.
+> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
