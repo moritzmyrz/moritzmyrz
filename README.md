@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Tony Robbins</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
