@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Dalai Lama</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
