@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
