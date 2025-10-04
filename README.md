@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ardently do today what must be done. Who knows? Tomorrow, death comes.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- The Buddha</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
