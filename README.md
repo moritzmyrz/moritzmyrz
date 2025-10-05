@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Elon Musk</p>
+> <p>- Don Shula</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
