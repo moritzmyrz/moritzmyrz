@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> If we open a quarrel between past and present, we shall find that we have lost the future.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
