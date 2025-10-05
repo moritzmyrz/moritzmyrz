@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> Being entirely honest with oneself is a good exercise.
 >
-> <p>- Clay Shirky</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
