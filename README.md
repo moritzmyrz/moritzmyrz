@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Corita Kent</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
