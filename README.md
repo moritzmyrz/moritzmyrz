@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> Patience is the companion of wisdom.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
