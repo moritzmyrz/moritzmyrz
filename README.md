@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
