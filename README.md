@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
+> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
 >
-> <p>- Jonathan Swift</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
