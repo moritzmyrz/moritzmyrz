@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Sri Chinmoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
