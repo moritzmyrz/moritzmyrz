@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- William Blake</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
