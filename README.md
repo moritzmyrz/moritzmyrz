@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Carl Jung</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
