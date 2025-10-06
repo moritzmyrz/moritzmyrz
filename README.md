@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Sophocles</p>
+> <p>- Jonathan Swift</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
