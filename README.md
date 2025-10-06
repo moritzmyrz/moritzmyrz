@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
