@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
+> The most I can do for my friend is simply be his friend.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
