@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
