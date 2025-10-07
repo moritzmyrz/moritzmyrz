@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
