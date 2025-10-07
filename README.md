@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- Jeff Bezos</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
