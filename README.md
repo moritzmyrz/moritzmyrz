@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- Sun Tzu</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
