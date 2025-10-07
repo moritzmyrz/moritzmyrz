@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
