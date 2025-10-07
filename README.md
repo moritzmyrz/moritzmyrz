@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
