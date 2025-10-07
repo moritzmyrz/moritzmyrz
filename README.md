@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Never, never, never give up.
 >
-> <p>- Mark Twain</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
