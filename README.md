@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> Be the change that you want to see in the world.
 >
-> <p>- Barack Obama</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
