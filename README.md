@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- William Blake</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
