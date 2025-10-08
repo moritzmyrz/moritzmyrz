@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is essentially a partnership.
+> Make it your habit not to be critical about small things.
 >
-> <p>- Aristotle</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
