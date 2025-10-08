@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- John Bercow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
