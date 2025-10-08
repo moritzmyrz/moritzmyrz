@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Napoleon</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
