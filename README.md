@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- Laozi</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
