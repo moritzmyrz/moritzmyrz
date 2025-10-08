@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
