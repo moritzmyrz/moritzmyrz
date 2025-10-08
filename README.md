@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most formidable weapon against errors of every kind is reason.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Thomas Paine</p>
+> <p>- Walter Inglis Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
