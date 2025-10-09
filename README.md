@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> Winners never quit and quitters never win.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Vince Lombardi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
