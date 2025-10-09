@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Denis Waitley</p>
+> <p>- Edmond Rostand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
