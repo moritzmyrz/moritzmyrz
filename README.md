@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Hugh Jackman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
