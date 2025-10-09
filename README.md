@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Don DeLillo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
