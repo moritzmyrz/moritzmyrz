@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Rachel Carson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
