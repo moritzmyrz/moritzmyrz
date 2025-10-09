@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Herbert Bayard Swope</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
