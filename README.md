@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> To study and not think is a waste. To think and not study is dangerous.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
