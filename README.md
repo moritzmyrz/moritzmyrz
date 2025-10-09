@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- Peter Elbow</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
