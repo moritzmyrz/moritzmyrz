@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Alexander Pope</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
