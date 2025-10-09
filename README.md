@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
 >
-> <p>- Confucius</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
