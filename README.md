@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
