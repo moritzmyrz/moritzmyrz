@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> Remember that failure is an event, not a person.
 >
-> <p>- Ben Hogan</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
