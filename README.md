@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
