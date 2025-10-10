@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Herodotus</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
