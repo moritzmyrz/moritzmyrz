@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+> Go put your creed into the deed. Nor speak with double tongue.
 >
-> <p>- Aristotle</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
