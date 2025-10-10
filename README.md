@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> Time you enjoy wasting, was not wasted.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
