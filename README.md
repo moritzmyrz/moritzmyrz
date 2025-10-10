@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is great by deeds, not by birth.
+> Of all possessions a friend is the most precious.
 >
-> <p>- Chanakya</p>
+> <p>- Herodotus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
