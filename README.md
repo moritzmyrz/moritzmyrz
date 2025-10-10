@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when.
 >
-> <p>- Laozi</p>
+> <p>- Simon Sinek</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
