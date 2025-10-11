@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
