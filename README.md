@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Woody Allen</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
