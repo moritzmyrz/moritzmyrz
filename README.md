@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> The energy of the mind is the essence of life.
 >
-> <p>- Dalai Lama</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
