@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> Learning without reflection is a waste, reflection without learning is dangerous.
 >
-> <p>- Richard Bach</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
