@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> Either I will find a way, or I will make one.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
