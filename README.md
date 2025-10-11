@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- Albert Einstein</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
