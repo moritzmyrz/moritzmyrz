@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Torquato Tasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
