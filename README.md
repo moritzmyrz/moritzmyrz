@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> You just can't beat the person who never gives up.
 >
-> <p>- Albert Camus</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
