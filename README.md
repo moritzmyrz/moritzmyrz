@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> The years teach much which the days never know.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
