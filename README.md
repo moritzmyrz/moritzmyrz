@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
+> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 >
-> <p>- The Buddha</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
