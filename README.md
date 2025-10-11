@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Philip Sidney</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
