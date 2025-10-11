@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
