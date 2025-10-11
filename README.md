@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- John Lennon</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
