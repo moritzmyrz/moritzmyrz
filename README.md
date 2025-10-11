@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> Nothing ever goes away until it has taught us what we need to know.
 >
-> <p>- Torquato Tasso</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
