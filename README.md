@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Albert Einstein</p>
+> <p>- Dale Carnegie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
