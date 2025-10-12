@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
