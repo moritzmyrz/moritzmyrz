@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
