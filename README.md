@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- Bruce Lee</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
