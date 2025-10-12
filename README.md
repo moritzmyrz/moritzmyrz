@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Walter Winchell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
