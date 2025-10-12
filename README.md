@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Richard Needham</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
