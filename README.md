@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
