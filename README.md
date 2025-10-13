@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- Voltaire</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
