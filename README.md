@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Edmond Rostand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
