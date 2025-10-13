@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> Give whatever you are doing and whoever you are with the gift of your attention.
 >
-> <p>- Albert Camus</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
