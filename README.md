@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
 >
-> <p>- Winifred Holtby</p>
+> <p>- John Steinbeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
