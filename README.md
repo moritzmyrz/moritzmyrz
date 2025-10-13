@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- Confucius</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
