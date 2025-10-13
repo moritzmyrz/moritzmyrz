@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
 >
-> <p>- Winston Churchill</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
