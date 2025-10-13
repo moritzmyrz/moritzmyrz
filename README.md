@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
 >
-> <p>- Winston Churchill</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
