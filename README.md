@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
