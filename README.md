@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
