@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
 >
-> <p>- Jim Rohn</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
