@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
-> <p>- Jessamyn West</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
