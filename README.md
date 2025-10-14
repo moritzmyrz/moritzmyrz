@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
 > <p>- Gloria Steinem</p>
 
