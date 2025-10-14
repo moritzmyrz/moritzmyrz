@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> There is only one success: to be able to spend your life in your own way.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
