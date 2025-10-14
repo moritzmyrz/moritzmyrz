@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some do not understand that we must die, But those who do realize this settle their quarrels.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- The Buddha</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
