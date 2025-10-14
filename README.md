@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success: to be able to spend your life in your own way.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- Christopher Morley</p>
+> <p>- Jessamyn West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
