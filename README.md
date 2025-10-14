@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that is giddy thinks the world turns round.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- William Shakespeare</p>
+> <p>- Rudolf Arnheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
