@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
