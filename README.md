@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.
 >
-> <p>- Maya Angelou</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
