@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> Every man is a volume if you know how to read him.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
