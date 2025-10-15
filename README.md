@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
