@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
