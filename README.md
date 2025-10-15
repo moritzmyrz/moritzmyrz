@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
-> <p>- Epictetus</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
