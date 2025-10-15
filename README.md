@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> I am always ready to learn although I do not always like being taught.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
