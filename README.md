@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
 >
-> <p>- Václav Havel</p>
+> <p>- Susan Orlean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
