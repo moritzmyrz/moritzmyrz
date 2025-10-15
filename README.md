@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whatever has the nature of arising has the nature of ceasing.
+> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 >
-> <p>- The Buddha</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
