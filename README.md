@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only put off until tomorrow what you are willing to die having left undone.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Pablo Picasso</p>
+> <p>- William Wordsworth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
