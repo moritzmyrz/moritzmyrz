@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> I am always ready to learn although I do not always like being taught.
+> Russia is a riddle wrapped in a mystery inside an enigma.
 >
 > <p>- Winston Churchill</p>
 
