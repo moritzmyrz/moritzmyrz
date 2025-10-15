@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the business world, the rearview mirror is always clearer than the windshield.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Warren Buffett</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
