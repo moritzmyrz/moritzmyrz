@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
+> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
 >
-> <p>- Epictetus</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
