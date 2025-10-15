@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
