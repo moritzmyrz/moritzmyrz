@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Believe deep down in your heart that you're destined to do great things.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Joe Paterno</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
