@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
