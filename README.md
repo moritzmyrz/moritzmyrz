@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is like money, easier made than kept.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Samuel Butler</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
