@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- John Dewey</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
