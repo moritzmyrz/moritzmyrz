@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Dalai Lama</p>
+> <p>- Miguel de Cervantes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
