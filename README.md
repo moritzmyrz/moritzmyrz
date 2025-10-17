@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An ounce of emotion is equal to a ton of facts.
+> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
 >
-> <p>- John Junor</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
