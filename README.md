@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anybody can make history. Only a great man can write it.
+> Ideas pull the trigger, but instinct loads the gun.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Don Marquis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
