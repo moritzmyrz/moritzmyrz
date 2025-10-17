@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideas pull the trigger, but instinct loads the gun.
+> Love demands infinitely less than friendship.
 >
-> <p>- Don Marquis</p>
+> <p>- George Jean Nathan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
