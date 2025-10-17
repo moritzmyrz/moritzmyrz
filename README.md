@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> The biggest room in the world is room for improvement.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Helmut Schmidt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
