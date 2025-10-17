@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> Most folks are as happy as they make up their minds to be.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
