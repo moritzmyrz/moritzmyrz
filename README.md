@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> We cannot solve our problems with the same thinking we used when we created them.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
