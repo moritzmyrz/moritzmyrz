@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A creative man is motivated by the desire to achieve, not by the desire to beat others.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Ayn Rand</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
