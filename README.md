@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
