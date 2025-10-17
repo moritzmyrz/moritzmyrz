@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology made large populations possible; large populations now make technology indispensable.
+> I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.
 >
-> <p>- Joseph Wood Krutch</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
