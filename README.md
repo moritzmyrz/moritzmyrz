@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
