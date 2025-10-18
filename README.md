@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single lamp may light hundreds of thousands of lamps without itself being diminished.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- The Buddha</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
