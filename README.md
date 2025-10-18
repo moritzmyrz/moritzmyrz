@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- Washington Irving</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
