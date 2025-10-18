@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
