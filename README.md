@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are small matters compared to what lies within us.
+> To change one's life, start immediately, do it flamboyantly, no exceptions.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
