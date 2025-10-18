@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> We shall never know all the good that a simple smile can do.
 >
-> <p>- Confucius</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
