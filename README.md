@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
+> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
 >
-> <p>- Laozi</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
