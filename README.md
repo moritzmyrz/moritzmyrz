@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
