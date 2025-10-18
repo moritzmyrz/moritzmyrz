@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.
+> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
 >
-> <p>- John Ruskin</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
