@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Motivation is the art of getting people to do what you want them to do because they want to do it.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
