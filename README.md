@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Richard Bach</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
