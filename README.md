@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> One fails forward toward success.
 >
-> <p>- James M. Beggs</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
