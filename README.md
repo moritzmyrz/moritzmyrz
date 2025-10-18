@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- James M. Beggs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
