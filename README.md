@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
