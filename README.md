@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> A quarrel between friends, when made up, adds a new tie to friendship.
 >
-> <p>- Isocrates</p>
+> <p>- Francis de Sales</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
