@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- George Foreman</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
