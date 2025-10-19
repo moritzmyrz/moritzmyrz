@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- Václav Havel</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
