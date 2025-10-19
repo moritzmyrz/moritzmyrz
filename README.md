@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I do not dispute with the world; rather it is the world that disputes with me.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- The Buddha</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
