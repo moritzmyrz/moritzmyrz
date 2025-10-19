@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> The world is round so that friendship may encircle it.
 >
-> <p>- Confucius</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
