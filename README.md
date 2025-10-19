@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Joseph Addison</p>
+> <p>- Václav Havel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
