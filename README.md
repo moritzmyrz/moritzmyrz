@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> I prefer the folly of enthusiasm to the indifference of wisdom.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
