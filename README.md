@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
