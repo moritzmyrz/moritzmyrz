@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Brooks Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
