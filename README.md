@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Henry James</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
