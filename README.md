@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
