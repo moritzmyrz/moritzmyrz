@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A wise person should be urgently moved on occasions that make for urgency.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
