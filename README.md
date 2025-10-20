@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Anne Brontë</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
