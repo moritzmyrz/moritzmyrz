@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
 >
-> <p>- Max Planck</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
