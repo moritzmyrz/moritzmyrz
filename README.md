@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Confucius</p>
+> <p>- Marian Wright Edelman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
