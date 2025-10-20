@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- The Buddha</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
