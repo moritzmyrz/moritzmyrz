@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> All things change; nothing perishes.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
