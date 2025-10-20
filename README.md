@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
