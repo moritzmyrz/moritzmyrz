@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
