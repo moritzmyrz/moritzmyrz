@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> A wise person should be urgently moved on occasions that make for urgency.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
