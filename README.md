@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Hugh Miller</p>
+> <p>- Léon Blum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
