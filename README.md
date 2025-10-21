@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
+> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
 >
-> <p>- Confucius</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
