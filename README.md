@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Hugh Miller</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
