@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can do it if you believe you can!
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
