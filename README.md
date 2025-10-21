@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- William Butler Yeats</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
