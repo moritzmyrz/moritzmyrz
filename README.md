@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
