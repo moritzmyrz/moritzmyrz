@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
