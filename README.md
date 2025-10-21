@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> You can do it if you believe you can!
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
