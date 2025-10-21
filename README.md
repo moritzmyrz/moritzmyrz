@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When in doubt, tell the truth.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Mark Twain</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
