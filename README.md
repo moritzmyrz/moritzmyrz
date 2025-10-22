@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Robert Schuller</p>
+> <p>- Charles Henry Parkhurst</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
