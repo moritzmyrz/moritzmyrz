@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Lena Horne</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
