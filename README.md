@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science gives us knowledge, but only philosophy can give us wisdom.
+> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
 >
-> <p>- Will Durant</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
