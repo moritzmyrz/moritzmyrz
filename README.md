@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Science gives us knowledge, but only philosophy can give us wisdom.
 >
-> <p>- Marie Curie</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
