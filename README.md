@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth is not for all men, but only for those who seek it.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Ayn Rand</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
