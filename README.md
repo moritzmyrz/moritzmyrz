@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> Think for yourselves and let others enjoy the privilege to do so too.
 >
-> <p>- Robert Frost</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
