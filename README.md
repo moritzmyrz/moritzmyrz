@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- George Orwell</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
