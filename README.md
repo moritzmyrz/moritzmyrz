@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
