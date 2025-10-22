@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Herbert Hoover</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
