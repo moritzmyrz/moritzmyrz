@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Abigail Adams</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
