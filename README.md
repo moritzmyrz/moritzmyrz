@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no expedient to which a man will not go to avoid the labor of thinking.
+> All children are artists. The problem is how to remain an artist once he grows up.
 >
-> <p>- Thomas Edison</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
