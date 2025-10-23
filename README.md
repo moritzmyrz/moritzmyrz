@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> Science gives us knowledge, but only philosophy can give us wisdom.
 >
-> <p>- Sandy Koufax</p>
+> <p>- Will Durant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
