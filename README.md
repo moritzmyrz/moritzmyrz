@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> We should all be thankful for those people who rekindle the inner spirit.
 >
-> <p>- Mother Teresa</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
