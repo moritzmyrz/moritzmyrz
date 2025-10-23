@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Alan Watts</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
