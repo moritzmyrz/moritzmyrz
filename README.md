@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- The Buddha</p>
+> <p>- Teresa of Ávila</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
