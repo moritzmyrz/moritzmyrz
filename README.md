@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- William Blake</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
