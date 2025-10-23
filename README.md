@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom often times consists of knowing what to do next.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Herbert Hoover</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
