@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
 >
-> <p>- Tony Blair</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
