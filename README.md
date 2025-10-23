@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Value your friendship. Value your relationships.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- Barbara Bush</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
