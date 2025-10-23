@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Horace</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
