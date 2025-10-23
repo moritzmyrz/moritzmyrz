@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Herbert Hoover</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
