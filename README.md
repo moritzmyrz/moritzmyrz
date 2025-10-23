@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- Brian O'Driscoll</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
