@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
