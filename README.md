@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 >
-> <p>- Albert Einstein</p>
+> <p>- Brian O'Driscoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
