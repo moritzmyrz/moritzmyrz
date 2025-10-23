@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science gives us knowledge, but only philosophy can give us wisdom.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- Will Durant</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
