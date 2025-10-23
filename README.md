@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
