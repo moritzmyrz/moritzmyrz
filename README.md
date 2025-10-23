@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Alexis Carrel</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
