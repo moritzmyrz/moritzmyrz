@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never do things others can do and will do, if there are things others cannot do or will not do.
+> Our lives are a sum total of the choices we have made.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
