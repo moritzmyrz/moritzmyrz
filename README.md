@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To accomplish great things, we must dream as well as act.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Anatole France</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
