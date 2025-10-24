@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
