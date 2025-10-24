@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Ted Williams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
