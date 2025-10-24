@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
