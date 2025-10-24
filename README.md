@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
