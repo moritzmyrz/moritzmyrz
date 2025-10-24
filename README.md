@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Aristotle</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
