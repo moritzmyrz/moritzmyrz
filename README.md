@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is not final; failure is not fatal: it is the courage to continue that counts.
+> A friend is what the heart needs all the time.
 >
-> <p>- Winston Churchill</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
