@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Barack Obama</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
