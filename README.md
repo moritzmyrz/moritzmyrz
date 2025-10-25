@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
+> The greater our knowledge increases the more our ignorance unfolds.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
