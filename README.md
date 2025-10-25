@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An ant on the move does more than a dozing ox
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Laozi</p>
+> <p>- Alexander Chalmers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
