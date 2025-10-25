@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.
+> Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.
 >
-> <p>- Tony Robbins</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
