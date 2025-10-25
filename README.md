@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Hell, there are no rules here-- we're trying to accomplish something.
+> You just can't beat the person who never gives up.
 >
-> <p>- Thomas Edison</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
