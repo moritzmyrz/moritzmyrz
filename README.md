@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> Hell, there are no rules here-- we're trying to accomplish something.
 >
-> <p>- Larry Page</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
