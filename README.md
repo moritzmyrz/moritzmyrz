@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> If you're changing the world, you're working on important things. You're excited to get up in the morning.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Larry Page</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
