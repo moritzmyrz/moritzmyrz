@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not so important to know everything as to appreciate what we learn.
+> I allow my intuition to lead my path.
 >
-> <p>- Hannah More</p>
+> <p>- Manuel Puig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
