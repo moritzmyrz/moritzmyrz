@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be ignorant of a matter than half know it.
+> Be the chief but never the lord.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
