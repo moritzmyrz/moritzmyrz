@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- William Shakespeare</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
