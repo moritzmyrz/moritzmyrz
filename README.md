@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> Habit, if not resisted, soon becomes necessity.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
