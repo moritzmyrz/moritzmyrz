@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
+> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
 >
-> <p>- Jim Rohn</p>
+> <p>- Rabbi Hillel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
