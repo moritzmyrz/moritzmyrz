@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
