@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
+> No day in which you learn something is a complete loss.
 >
-> <p>- Pablo Picasso</p>
+> <p>- David Eddings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
