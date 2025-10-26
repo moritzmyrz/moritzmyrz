@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Samuel Beckett</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
