@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Laozi</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
