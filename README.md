@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
