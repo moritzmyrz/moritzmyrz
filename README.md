@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> An ant on the move does more than a dozing ox
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
