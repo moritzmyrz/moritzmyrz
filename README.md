@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> We know what we are but know not what we may be.
 >
-> <p>- Napoleon Hill</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
