@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
 >
-> <p>- Sun Tzu</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
