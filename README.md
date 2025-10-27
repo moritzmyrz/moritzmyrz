@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the chief but never the lord.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Laozi</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
