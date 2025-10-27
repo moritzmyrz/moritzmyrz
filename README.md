@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Dalai Lama</p>
+> <p>- William Ellery Channing</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
