@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is the right to live as we wish.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Epictetus</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
