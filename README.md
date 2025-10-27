@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> Freedom is the right to live as we wish.
 >
-> <p>- Peter Drucker</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
