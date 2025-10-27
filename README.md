@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.
+> If it is not right do not do it; if it is not true do not say it.
 >
-> <p>- Woody Allen</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
