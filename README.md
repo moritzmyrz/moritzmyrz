@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> Eighty percent of success is showing up.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
