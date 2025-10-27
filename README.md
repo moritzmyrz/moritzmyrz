@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> Be the chief but never the lord.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
