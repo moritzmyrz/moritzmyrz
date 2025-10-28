@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
