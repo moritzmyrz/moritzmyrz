@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> To be wronged is nothing unless you continue to remember it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
