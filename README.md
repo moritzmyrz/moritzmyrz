@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Thomas Edison</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
