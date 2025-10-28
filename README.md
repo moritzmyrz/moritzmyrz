@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be wronged is nothing unless you continue to remember it.
+> Friendship is essentially a partnership.
 >
-> <p>- Confucius</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
