@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Alfred Tennyson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
