@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
 >
-> <p>- Anne Frank</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
