@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Everett Dirksen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
