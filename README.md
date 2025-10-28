@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Billie Jean King</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
