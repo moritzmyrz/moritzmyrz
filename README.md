@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- John Lubbock</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
