@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> One fails forward toward success.
 >
-> <p>- Virginia Woolf</p>
+> <p>- Charles F. Kettering</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
