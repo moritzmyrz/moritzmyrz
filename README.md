@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Ralph Marston</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
