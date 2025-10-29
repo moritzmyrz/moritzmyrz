@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
