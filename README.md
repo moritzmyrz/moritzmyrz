@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Paul Tillich</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
