@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No alibi will save you from accepting the responsibility.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Lin Yutang</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
