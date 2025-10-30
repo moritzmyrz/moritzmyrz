@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Bruce Lee</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
