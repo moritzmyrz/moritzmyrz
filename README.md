@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> Beauty is not in the face; beauty is a light in the heart.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
