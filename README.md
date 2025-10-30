@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> Some people go to priests; others to poetry; I to my friends.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Virginia Woolf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
