@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
+> In life, all good things come hard, but wisdom is the hardest to come by.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
