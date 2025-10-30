@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> If you spend too much time thinking about a thing, you'll never get it done.
 >
-> <p>- Laozi</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
