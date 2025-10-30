@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
