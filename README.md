@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Sophocles</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
