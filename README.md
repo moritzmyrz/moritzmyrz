@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History will be kind to me for I intend to write it.
+> The best way out is always through.
 >
-> <p>- Winston Churchill</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
