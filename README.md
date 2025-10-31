@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> Our work is the presentation of our capabilities.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
