@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> All achievements, all earned riches, have their beginning in an idea.
 >
-> <p>- Richard Bach</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
