@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Epictetus</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
