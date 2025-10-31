@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
