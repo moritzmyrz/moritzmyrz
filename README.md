@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our work is the presentation of our capabilities.
+> A thing well said will be wit in all languages.
 >
-> <p>- Edward Gibbon</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
