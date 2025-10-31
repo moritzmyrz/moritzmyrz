@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> The root of suffering is attachment.
 >
-> <p>- John Dryden</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
