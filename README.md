@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Action is eloquence.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- William Shakespeare</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
