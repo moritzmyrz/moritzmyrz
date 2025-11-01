@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we all did the things we are capable of doing, we would literally astound ourselves.
+> You just can't beat the person who never gives up.
 >
-> <p>- Thomas Edison</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
