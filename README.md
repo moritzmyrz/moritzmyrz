@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
+> I am always ready to learn although I do not always like being taught.
 >
-> <p>- Charles Dickens</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
