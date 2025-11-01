@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
