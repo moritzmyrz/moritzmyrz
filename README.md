@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom alone is the science of other sciences.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Plato</p>
+> <p>- Aldous Huxley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
