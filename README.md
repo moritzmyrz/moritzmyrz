@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
 >
-> <p>- George S. Patton</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
