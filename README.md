@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> If a man does his best, what else is there?
 >
-> <p>- John Quincy Adams</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
