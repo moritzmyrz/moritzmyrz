@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> If we all did the things we are capable of doing, we would literally astound ourselves.
 >
-> <p>- Helen Keller</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
