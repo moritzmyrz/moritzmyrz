@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Confucius</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
