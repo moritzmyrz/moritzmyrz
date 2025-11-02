@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- Tony Robbins</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
