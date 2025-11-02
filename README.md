@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Jack Welch</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
