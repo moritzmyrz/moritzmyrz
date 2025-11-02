@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> I believe in one thing only, the power of human will.
 >
-> <p>- René Descartes</p>
+> <p>- Joseph Stalin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
