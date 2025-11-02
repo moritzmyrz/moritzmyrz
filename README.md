@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Between saying and doing, many a pair of shoes is worn out.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
