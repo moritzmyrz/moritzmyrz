@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
