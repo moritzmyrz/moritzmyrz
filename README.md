@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
