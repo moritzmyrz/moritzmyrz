@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some do not understand that we must die, But those who do realize this settle their quarrels.
+> Without hard work, nothing grows but weeds.
 >
-> <p>- The Buddha</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
