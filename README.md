@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Conditions fall apart. Persist with diligence.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- The Buddha</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
