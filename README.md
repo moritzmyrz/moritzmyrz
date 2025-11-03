@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Oscar Wilde</p>
+> <p>- E. E. Cummings</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
