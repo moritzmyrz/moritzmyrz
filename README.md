@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is great by deeds, not by birth.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Chanakya</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
