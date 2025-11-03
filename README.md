@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
