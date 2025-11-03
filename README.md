@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Joseph Joubert</p>
+> <p>- Jack Dixon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
