@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Joseph Joubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
