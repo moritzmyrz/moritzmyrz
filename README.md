@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> Never find fault with the absent.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
