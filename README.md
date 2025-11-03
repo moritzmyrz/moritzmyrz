@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Jack Dixon</p>
+> <p>- Amy Tan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
