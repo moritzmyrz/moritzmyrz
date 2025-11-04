@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Thomas Edison</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
