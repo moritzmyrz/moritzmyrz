@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Richard Bach</p>
+> <p>- Robert Schuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
