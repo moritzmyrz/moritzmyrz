@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is more wisdom in your body than in your deepest philosophy.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
