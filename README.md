@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> A friend to all is a friend to none.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
