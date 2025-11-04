@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Yolanda Hadid</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
