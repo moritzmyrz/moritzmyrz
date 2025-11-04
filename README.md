@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- Amelia Earhart</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
