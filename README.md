@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Joseph Roux</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
