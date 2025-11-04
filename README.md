@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Daniel J. Boorstin</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
