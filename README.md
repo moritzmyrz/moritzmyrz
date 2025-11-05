@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Albert Einstein</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
