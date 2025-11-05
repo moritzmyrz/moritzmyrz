@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
 >
-> <p>- Tony Robbins</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
