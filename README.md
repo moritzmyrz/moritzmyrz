@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
