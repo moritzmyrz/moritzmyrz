@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
 >
-> <p>- Mike Ditka</p>
+> <p>- Simone de Beauvoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
