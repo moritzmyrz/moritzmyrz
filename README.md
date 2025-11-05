@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Tony Robbins</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
