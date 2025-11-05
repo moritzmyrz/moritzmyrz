@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> A friend is what the heart needs all the time.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
