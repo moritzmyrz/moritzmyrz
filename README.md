@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> When people are like each other they tend to like each other.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
