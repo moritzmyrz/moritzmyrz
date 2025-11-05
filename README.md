@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> A really great talent finds its happiness in execution.
 >
-> <p>- John Dewey</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
