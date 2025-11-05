@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Epictetus</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
