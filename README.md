@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Milton Berle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
