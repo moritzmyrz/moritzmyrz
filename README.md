@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> You can do it if you believe you can!
 >
-> <p>- Dr. Seuss</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
