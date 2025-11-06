@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your talent is God's gift to you. What you do with it is your gift back to God.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
