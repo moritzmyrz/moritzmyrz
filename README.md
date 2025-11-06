@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> Only do what your heart tells you.
 >
-> <p>- Winston Churchill</p>
+> <p>- Princess Diana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
