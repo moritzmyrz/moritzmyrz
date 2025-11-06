@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- Henry Reed</p>
+> <p>- Dale Earnhardt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
