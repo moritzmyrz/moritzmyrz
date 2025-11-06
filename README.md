@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- Horace</p>
+> <p>- Moncure D. Conway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
