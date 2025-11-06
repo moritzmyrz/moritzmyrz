@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Alexis Carrel</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
