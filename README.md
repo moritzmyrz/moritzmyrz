@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Alexis Carrel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
