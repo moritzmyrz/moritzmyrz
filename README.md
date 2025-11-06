@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be slow to fall into friendship; but when thou art in, continue firm and constant.
+> Once you choose hope, anything's possible.
 >
-> <p>- Isocrates</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
