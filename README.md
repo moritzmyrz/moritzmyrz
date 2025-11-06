@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
