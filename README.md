@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Dee Hock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
