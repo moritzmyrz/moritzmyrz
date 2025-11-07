@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> Two persons cannot long be friends if they cannot forgive each other's little failings.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
