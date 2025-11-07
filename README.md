@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- Pablo Picasso</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
