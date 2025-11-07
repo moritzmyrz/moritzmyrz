@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows himself is enlightened.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Laozi</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
