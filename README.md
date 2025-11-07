@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
