@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
 >
-> <p>- William Shakespeare</p>
+> <p>- Peter Abelard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
