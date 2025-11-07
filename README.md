@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> Do one thing every day that scares you.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
