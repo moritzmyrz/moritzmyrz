@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do one thing every day that scares you.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
