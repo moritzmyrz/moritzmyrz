@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is the marriage of the soul, and this marriage is liable to divorce.
+> It is better to understand a little than to misunderstand a lot.
 >
-> <p>- Voltaire</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
