@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you care, the stronger you can be.
+> He who knows himself is enlightened.
 >
-> <p>- Jim Rohn</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
