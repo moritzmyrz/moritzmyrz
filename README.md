@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness mainly comes from our own attitude, rather than from external factors.
+> We are wiser than we know.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
