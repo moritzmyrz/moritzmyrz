@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With the new day comes new strength and new thoughts.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
