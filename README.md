@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will prepare and someday my chance will come.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
