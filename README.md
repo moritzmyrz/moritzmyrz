@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never give up, for that is just the place and time that the tide will turn.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
