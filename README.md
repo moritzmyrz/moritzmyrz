@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- Winston Churchill</p>
+> <p>- Laurie Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
