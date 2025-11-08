@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are wiser than we know.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
