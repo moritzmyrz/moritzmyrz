@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> I will prepare and someday my chance will come.
 >
-> <p>- Napoleon</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
