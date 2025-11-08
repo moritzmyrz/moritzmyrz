@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
