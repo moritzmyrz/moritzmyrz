@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If it is not right do not do it; if it is not true do not say it.
+> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
