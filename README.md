@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> If it is not right do not do it; if it is not true do not say it.
 >
-> <p>- Richard Bach</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
