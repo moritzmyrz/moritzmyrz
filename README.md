@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
