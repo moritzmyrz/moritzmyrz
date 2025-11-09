@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Theodore H. White</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
