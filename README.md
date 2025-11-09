@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Silence is the true friend that never betrays.
 >
-> <p>- Laozi</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
