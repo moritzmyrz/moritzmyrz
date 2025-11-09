@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Walter Benjamin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
