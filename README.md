@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
+> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
