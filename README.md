@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Thomas Edison</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
