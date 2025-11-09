@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> He who knows himself is enlightened.
 >
-> <p>- Confucius</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
