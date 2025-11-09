@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Yolanda Hadid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
