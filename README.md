@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
 >
-> <p>- John Ruskin</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
