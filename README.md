@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- Charles Darwin</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
