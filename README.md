@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
