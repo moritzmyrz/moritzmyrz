@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> The path to success is to take massive, determined action.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
