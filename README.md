@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
