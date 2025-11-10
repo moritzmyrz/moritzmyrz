@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> You can do it if you believe you can!
 >
-> <p>- John F. Kennedy</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
