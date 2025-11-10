@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> Love is flower like; Friendship is like a sheltering tree.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
