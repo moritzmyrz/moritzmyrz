@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- Bo Jackson</p>
+> <p>- Charles Darwin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
