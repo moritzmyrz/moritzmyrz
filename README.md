@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
