@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
