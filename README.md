@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak low, if you speak love.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- William Shakespeare</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
