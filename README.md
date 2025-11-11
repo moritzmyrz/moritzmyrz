@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Epictetus</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
