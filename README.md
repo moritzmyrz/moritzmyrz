@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One loyal friend is worth ten thousand relatives.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Euripides</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
