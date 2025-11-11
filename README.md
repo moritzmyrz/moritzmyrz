@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> Subdue your appetites, my dears, and you've conquered human nature.
 >
-> <p>- Ralph Marston</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
