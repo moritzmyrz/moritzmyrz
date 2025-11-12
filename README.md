@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
+> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
 >
-> <p>- Victoria Osteen</p>
+> <p>- A. Powell Davies</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
