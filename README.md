@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
+> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Francis of Assisi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
