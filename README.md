@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Alan Watts</p>
+> <p>- Casey Stengel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
