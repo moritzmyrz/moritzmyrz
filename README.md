@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
