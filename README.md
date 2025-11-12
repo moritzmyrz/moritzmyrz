@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
 >
-> <p>- Thomas Edison</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
