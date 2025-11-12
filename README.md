@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
