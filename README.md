@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+> Great acts are made up of small deeds.
 >
-> <p>- Robert Schuller</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
