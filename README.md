@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- Walt Whitman</p>
+> <p>- Nora Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
