@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- Tony Robbins</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
