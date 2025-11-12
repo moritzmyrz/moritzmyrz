@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Sri Chinmoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
