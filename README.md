@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
