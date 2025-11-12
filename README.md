@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Mark Twain</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
