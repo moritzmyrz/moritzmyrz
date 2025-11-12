@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Alan Watts</p>
+> <p>- George Sand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
