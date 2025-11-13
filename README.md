@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Amber Valletta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
