@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Robert Graves</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
