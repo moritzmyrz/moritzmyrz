@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is just a chance to grow a soul.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
