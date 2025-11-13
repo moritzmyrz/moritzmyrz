@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
+> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Robert Graves</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
