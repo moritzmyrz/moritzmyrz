@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> At the center of your being, you have the answer; you know who you are, and you know what you want.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
