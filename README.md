@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Satchel Paige</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
