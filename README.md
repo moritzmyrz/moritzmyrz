@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- Amber Valletta</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
