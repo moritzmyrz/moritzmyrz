@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- Mark Twain</p>
+> <p>- Eric Hoffer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
