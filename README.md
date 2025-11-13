@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
