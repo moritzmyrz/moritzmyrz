@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Alan Watts</p>
+> <p>- G. K. Chesterton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
