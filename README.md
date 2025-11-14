@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No garden is without its weeds.
+> Be content with your lot; one cannot be first in everything.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
