@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we all did the things we are capable of doing, we would literally astound ourselves.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- Thomas Edison</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
