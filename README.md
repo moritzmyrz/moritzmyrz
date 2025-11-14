@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once you label me you negate me.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
