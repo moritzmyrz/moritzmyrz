@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Anatole France</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
