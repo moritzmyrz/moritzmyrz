@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> No garden is without its weeds.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
