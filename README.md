@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Laozi</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
