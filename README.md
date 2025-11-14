@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Jim Bouton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
