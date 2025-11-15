@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> No man is free who is not master of himself.
+> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
 >
 > <p>- Epictetus</p>
 
