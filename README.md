@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Dalai Lama</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
