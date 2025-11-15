@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
