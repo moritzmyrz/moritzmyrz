@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Harold Nicolson</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
