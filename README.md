@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good judgment comes from experience, and a lot of that comes from bad judgment.
+> Be as you wish to seem.
 >
-> <p>- Will Rogers</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
