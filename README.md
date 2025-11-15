@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The sum of wisdom is that time is never lost that is devoted to work.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
