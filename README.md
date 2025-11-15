@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> A true friend is one who overlooks your failures and tolerates your success!
 >
-> <p>- Wayne Dyer</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
