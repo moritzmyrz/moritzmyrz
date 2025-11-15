@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Robert Schuller</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
