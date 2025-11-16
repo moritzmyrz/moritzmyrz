@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
-> <p>- Jessamyn West</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
