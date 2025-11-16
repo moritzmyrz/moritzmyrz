@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- Woody Allen</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
