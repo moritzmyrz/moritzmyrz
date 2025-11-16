@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Sai Baba</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
