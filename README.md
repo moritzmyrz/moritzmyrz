@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Epictetus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
