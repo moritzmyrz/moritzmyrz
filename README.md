@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- Joan Rivers</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
