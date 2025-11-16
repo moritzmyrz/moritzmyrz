@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one does not know to which port is sailing, no wind is favorable.
+> Life is divided into the horrible and the miserable.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
