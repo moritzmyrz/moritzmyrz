@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> A true friend is someone who is there for you when he'd rather be anywhere else.
 >
-> <p>- Richard Bach</p>
+> <p>- Len Wein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
