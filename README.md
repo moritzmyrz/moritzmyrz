@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sooner or later, those who win are those who think they can.
+> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
 >
-> <p>- Richard Bach</p>
+> <p>- Michelangelo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
