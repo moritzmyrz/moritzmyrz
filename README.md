@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cleverness is not wisdom.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Euripides</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
