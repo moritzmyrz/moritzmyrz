@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.
+> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
 >
-> <p>- Mary Pickford</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
