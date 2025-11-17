@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha
+> The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.
 >
-> <p>- The Buddha</p>
+> <p>- Neil Gaiman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
