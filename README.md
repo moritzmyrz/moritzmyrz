@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> Pitching is the art of instilling fear.
 >
-> <p>- Jonas Salk</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
