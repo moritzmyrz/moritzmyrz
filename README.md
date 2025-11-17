@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Confucius</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
