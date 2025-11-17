@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- William Shakespeare</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
