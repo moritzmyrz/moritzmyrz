@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
