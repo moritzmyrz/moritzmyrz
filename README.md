@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> Sooner or later, those who win are those who think they can.
 >
-> <p>- Sandy Koufax</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
