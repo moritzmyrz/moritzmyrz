@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Lewis Cass</p>
+> <p>- Jonas Salk</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
