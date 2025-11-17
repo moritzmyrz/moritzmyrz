@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- Albert Einstein</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
