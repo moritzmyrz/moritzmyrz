@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
