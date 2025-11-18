@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
