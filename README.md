@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> The pain passes, but the beauty remains.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
