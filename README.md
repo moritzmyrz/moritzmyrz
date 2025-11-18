@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> History will be kind to me for I intend to write it.
 >
 > <p>- Winston Churchill</p>
 
