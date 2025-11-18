@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
+> Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.
 >
-> <p>- Michelle Obama</p>
+> <p>- Octavia E. Butler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
