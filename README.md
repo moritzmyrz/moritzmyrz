@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
