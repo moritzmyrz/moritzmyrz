@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- E. M. Forster</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
