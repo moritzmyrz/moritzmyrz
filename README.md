@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
