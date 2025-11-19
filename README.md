@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
