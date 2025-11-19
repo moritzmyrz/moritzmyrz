@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
+> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Dag Hammarskjöld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
