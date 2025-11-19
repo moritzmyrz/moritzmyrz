@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
 >
-> <p>- Barack Obama</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
