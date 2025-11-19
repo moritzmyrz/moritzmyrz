@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> In the end we retain from our studies only that which we practically apply.
 >
-> <p>- Montesquieu</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
