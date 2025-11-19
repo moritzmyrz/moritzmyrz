@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
+> You are the only person on earth who can use your ability.
 >
-> <p>- Susan Orlean</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
