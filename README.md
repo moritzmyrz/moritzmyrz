@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> Of all possessions a friend is the most precious.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Herodotus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
