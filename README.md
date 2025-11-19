@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> The awareness of our own strength makes us modest.
 >
-> <p>- George Orwell</p>
+> <p>- Paul Cézanne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
