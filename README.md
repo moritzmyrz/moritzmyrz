@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> They can conquer who believe they can.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Virgil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
