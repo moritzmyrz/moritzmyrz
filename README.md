@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The pine stays green in winter... wisdom in hardship.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Norman Douglas</p>
+> <p>- H. G. Wells</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
