@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can do it if you believe you can!
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Bernard Shaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
