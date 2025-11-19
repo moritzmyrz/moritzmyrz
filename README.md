@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
+> You can do it if you believe you can!
 >
-> <p>- Dag Hammarskjöld</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
