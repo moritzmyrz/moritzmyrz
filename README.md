@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
 >
-> <p>- H. G. Wells</p>
+> <p>- Robert Graves</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
