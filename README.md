@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+> I don't want to achieve immortality through my work... I want to achieve it through not dying.
 >
-> <p>- Marie Curie</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
