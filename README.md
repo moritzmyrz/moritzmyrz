@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Richard Bach</p>
+> <p>- George Sand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
