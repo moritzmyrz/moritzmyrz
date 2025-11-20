@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
+> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Steve Jobs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
