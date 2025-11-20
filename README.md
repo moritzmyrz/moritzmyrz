@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
-> <p>- Laozi</p>
+> <p>- Gloria Steinem</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
