@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who hath many friends hath none.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Aristotle</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
