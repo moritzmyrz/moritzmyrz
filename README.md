@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+> Knowing others is wisdom, knowing yourself is Enlightenment.
 >
-> <p>- Diogenes</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
