@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence is to do a common thing in an uncommon way.
+> In all things of nature there is something of the marvelous.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
