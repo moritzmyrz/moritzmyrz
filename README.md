@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> Pitching is the art of instilling fear.
 >
-> <p>- Sun Tzu</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
