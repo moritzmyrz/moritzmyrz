@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Sandy Koufax</p>
+> <p>- Martha Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
