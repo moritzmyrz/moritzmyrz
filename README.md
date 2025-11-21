@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Henry Ford</p>
+> <p>- Eustace Budgell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
