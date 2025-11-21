@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
