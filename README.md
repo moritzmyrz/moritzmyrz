@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
