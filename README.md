@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> Everything that exists is in a manner the seed of that which will be.
 >
 > <p>- Marcus Aurelius</p>
 
