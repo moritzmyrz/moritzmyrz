@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that we see or seem is but a dream within a dream.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Maria Shriver</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
