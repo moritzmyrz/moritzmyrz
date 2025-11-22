@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Jean Cocteau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
