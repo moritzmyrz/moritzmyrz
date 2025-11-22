@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
