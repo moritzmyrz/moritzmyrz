@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Richard Burton</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
