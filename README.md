@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
