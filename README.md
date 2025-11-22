@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> Get busy living or get busy dying.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Stephen King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
