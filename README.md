@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Napoleon</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
