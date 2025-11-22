@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that exists is in a manner the seed of that which will be.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
