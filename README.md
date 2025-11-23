@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> When you come to the end of your rope, tie a knot and hang on.
 >
-> <p>- The Buddha</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
