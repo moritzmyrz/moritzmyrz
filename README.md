@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> A man's growth is seen in the successive choirs of his friends
 >
-> <p>- Stephen King</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
