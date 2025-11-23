@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
