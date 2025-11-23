@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The young man knows the rules, but the old man knows the exceptions.
+> Get busy living or get busy dying.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Stephen King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
