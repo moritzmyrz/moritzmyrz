@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
 > <p>- Kahlil Gibran</p>
 
