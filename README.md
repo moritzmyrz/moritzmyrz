@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Johann Kaspar Lavater</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
