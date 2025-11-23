@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most great people have attained their greatest success just one step beyond their greatest failure.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
