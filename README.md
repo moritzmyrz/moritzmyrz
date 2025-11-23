@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
