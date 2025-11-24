@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.
 >
-> <p>- Epictetus</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
