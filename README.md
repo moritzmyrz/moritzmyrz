@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Respect should be earned by actions, and not acquired by years.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
