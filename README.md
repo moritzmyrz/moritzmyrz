@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Ralph Marston</p>
+> <p>- Elie Wiesel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
