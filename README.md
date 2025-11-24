@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Susan Orlean</p>
+> <p>- David Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
