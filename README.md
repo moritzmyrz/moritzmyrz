@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Ian Botham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
