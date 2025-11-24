@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
+> Meetings are indispensable when you don't want to do anything.
 >
-> <p>- Dan Gable</p>
+> <p>- John Kenneth Galbraith</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
