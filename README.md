@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> Never interrupt someone doing what you said couldn't be done.
 >
-> <p>- Thomas Edison</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
