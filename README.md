@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> Minds are like parachutes. They only function when open.
 >
-> <p>- Joan Rivers</p>
+> <p>- Thomas Dewar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
