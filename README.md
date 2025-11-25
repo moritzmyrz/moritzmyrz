@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- Dalai Lama</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
