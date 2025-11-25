@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> The world is round so that friendship may encircle it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
