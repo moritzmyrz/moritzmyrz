@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> You always succeed in producing a result.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
