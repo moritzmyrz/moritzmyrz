@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
