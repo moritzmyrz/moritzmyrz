@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be ignorant of a matter than half know it.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
