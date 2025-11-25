@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I hear and I forget. I see and I remember. I do and I understand.
+> All things change; nothing perishes.
 >
-> <p>- Confucius</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
