@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- Horace</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
