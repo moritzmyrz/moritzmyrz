@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> So much technology, so little talent.
 >
-> <p>- Richard Bach</p>
+> <p>- Vernor Vinge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
