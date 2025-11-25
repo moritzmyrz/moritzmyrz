@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+> The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?
 >
-> <p>- Jessamyn West</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
