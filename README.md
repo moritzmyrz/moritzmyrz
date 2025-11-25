@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> You are always free to change your mind and choose a different future, or a different past.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
