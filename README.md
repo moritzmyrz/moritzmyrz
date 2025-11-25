@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- The Buddha</p>
+> <p>- Joan Rivers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
