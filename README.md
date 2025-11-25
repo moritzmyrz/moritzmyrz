@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One that desires to excel should endeavor in those things that are in themselves most excellent.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Epictetus</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
