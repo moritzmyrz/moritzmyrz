@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
 > <p>- Ralph Waldo Emerson</p>
 
