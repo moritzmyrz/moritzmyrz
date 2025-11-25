@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
