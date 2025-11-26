@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
