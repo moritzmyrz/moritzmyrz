@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only those who dare to fail greatly can ever achieve greatly.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
