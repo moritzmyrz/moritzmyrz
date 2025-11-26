@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
 >
-> <p>- Phil Jackson</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
