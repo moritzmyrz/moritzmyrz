@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+> Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.
 >
-> <p>- Plato</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
