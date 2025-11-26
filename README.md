@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> Be the chief but never the lord.
 >
-> <p>- Peter Drucker</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
