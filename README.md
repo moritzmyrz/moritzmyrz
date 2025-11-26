@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Jim Bouton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
