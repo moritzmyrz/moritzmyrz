@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
