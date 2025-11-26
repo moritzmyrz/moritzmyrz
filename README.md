@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Harry Kemp</p>
+> <p>- Jean François Paul de Gondi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
