@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
