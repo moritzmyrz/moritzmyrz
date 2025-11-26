@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
+> A man is great by deeds, not by birth.
 >
-> <p>- Jim Bouton</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
