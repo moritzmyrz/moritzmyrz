@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> Never give up, for that is just the place and time that the tide will turn.
 >
-> <p>- Epictetus</p>
+> <p>- Harriet Beecher Stowe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
