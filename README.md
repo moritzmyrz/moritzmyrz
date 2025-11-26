@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man who doesn't trust himself can never really trust anyone else.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Jean François Paul de Gondi</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
