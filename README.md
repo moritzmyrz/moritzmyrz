@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I violated the Noah rule: Predicting rain doesn't count; building arks does.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Warren Buffett</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
