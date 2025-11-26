@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Arthur Conan Doyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
