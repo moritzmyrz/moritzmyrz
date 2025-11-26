@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is a serious mental disease.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Plato</p>
+> <p>- Harry Kemp</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
