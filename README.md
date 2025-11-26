@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Epictetus</p>
+> <p>- Robert F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
