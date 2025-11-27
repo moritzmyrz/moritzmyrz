@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Jerome</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
