@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- John Muir</p>
+> <p>- Mary Kay Ash</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
