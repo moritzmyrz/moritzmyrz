@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 >
-> <p>- John Burroughs</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
