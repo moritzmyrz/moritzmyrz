@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- John Powell</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
