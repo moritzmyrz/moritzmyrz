@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You don't look out there for God, something in the sky, you look in you.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Alan Watts</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
