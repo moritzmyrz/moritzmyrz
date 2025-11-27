@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
+> Genuine sincerity opens people's hearts, while manipulation causes them to close.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
