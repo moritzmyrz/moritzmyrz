@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> Better be wise by the misfortunes of others than by your own.
 >
-> <p>- Napoleon</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
