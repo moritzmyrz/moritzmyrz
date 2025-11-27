@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Muir</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
