@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
