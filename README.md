@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Charles Péguy</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
