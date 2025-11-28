@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
