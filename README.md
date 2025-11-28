@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Walter Scott</p>
+> <p>- Norman Schwarzkopf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
