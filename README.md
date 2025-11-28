@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
