@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> Either I will find a way, or I will make one.
 >
-> <p>- Laozi</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
