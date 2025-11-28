@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> Life is a succession of lessons, which must be lived to be understood.
 >
 > <p>- Ralph Waldo Emerson</p>
 
