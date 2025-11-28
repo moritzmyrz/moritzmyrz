@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Charles Henry Parkhurst</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
