@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Government of the people, by the people, for the people, shall not perish from the Earth.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Walter Scott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
