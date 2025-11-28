@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> Government of the people, by the people, for the people, shall not perish from the Earth.
 >
-> <p>- Og Mandino</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
