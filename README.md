@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True knowledge exists in knowing that you know nothing.
+> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
 >
-> <p>- Isocrates</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
