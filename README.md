@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All great achievements require time.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Maya Angelou</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
