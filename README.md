@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- William Inge</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
