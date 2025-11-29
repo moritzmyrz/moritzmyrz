@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> Two persons cannot long be friends if they cannot forgive each other's little failings.
 >
-> <p>- Grandma Moses</p>
+> <p>- Jean de La Bruyère</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
