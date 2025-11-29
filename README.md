@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead.
+> Knowing others is wisdom, knowing yourself is Enlightenment.
 >
-> <p>- The Buddha</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
