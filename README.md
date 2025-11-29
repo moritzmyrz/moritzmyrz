@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Two persons cannot long be friends if they cannot forgive each other's little failings.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Jane Wyman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
