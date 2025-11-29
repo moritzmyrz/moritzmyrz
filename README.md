@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing others is wisdom, knowing yourself is Enlightenment.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Laozi</p>
+> <p>- William Inge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
