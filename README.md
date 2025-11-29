@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two kinds of failures: those who thought and never did, and those who did and never thought.
+> Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- John Ruskin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
