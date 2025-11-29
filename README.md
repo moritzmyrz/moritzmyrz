@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Grandma Moses</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
