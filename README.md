@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- Bob Feller</p>
+> <p>- Michael Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
