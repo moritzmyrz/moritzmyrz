@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are masters of the unsaid words, but slaves of those we let slip out.
+> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abigail Adams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
