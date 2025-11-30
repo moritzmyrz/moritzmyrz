@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust is the lubrication that makes it possible for organizations to work.
+> Self-trust is the first secret of success.
 >
-> <p>- Warren Bennis</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
