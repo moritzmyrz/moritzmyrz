@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- Epictetus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
