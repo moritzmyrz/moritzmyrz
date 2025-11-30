@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Billie Jean King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
