@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Commitment is an act, not a word.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
