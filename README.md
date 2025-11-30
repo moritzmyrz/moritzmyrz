@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
 >
-> <p>- Lin Yutang</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
