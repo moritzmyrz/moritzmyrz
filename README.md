@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> Commitment is an act, not a word.
 >
-> <p>- William James</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
