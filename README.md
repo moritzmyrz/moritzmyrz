@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Seneca the Younger</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
