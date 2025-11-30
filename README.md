@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
 >
-> <p>- Michael Phelps</p>
+> <p>- Plutarch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
