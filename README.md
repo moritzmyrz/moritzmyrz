@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Plutarch</p>
+> <p>- Jean François Paul de Gondi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
