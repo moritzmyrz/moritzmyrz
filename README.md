@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> When we are no longer able to change a situation - we are challenged to change ourselves.
 >
-> <p>- Billie Jean King</p>
+> <p>- Viktor Frankl</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
