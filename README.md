@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man who doesn't trust himself can never really trust anyone else.
+> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
 >
-> <p>- Jean François Paul de Gondi</p>
+> <p>- Joe Adcock</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
