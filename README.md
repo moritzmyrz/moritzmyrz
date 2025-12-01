@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
