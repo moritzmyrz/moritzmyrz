@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We could never learn to be brave and patient if there were only joy in the world.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Helen Keller</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
