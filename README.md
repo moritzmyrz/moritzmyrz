@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Helen Keller</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
