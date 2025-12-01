@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
