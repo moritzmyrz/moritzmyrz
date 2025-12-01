@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
