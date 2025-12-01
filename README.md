@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
+> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Swami Vivekananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
