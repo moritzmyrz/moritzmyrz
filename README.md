@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
