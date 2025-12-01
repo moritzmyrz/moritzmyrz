@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- Carl Jung</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
