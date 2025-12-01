@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Maria Shriver</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
