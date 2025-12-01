@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the world is so complicated, the simple gift of friendship is within all of our hands.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Maria Shriver</p>
+> <p>- Maureen Dowd</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
