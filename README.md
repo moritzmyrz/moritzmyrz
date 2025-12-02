@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
