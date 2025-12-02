@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
