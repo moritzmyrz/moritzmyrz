@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Confucius</p>
+> <p>- Jack Dixon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
