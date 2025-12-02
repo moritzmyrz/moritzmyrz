@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
