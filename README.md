@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot be more sensitive to pleasure without being more sensitive to pain.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Alan Watts</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
