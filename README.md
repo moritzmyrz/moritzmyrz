@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Albert Einstein</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
