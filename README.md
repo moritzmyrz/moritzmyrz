@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+> Life is divided into the horrible and the miserable.
 >
-> <p>- Norman Schwarzkopf</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
