@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Ellen Gilchrist</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
