@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Yolanda Hadid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
