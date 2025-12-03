@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
