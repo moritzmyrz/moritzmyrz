@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
