@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+> If you want to go east, don't go west.
 >
-> <p>- Abigail Adams</p>
+> <p>- Ramakrishna</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
