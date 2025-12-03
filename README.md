@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone thinks of changing the world, but no one thinks of changing himself.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
