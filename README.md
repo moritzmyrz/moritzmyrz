@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- Michelangelo</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
