@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experience is simply the name we give our mistakes.
+> Well done is better than well said.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
