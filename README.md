@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Woody Allen</p>
+> <p>- Ezra Stiles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
