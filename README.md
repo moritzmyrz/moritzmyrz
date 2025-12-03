@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> The language of friendship is not words but meanings.
 >
-> <p>- Thomas Edison</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
