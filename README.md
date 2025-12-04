@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
