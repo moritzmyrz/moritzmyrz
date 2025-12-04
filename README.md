@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- Laozi</p>
+> <p>- Barack Obama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
