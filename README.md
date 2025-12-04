@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- Barack Obama</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
