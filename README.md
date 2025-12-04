@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
 >
-> <p>- Confucius</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
