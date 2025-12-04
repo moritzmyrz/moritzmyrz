@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Shaquille O'Neal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
