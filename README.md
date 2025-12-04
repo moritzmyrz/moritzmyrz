@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
