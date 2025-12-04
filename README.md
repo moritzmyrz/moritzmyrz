@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> Be sure you put your feet in the right place, then stand firm.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
