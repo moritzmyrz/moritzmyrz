@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
