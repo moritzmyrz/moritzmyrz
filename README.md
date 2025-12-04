@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
