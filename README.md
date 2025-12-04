@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
