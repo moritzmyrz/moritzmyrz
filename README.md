@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
+> The greatest part of our happiness depends on our dispositions, not our circumstances.
 >
-> <p>- Richard Bach</p>
+> <p>- Martha Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
