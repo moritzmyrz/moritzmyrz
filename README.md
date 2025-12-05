@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
