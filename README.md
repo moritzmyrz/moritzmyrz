@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A failure is a man who has blundered but is not capable of cashing in on the experience.
+> Silence is a source of great strength.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
