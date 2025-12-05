@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> TV and the Internet are good because they keep stupid people from spending too much time out in public.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Douglas Coupland</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
