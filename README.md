@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Anatole France</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
