@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> The greatest healing therapy is friendship and love.
 >
-> <p>- Brian Tracy</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
