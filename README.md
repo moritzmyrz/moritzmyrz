@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> TV and the Internet are good because they keep stupid people from spending too much time out in public.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Douglas Coupland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
