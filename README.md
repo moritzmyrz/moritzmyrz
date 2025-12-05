@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest healing therapy is friendship and love.
+> Wisdom is found only in truth.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
