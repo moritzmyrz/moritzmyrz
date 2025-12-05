@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- Laozi</p>
+> <p>- Sam Levenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
