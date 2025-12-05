@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
+> Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Morihei Ueshiba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
