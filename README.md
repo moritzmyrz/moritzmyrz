@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I do good I feel good, when I do bad I feel bad, and that's my religion.
+> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
