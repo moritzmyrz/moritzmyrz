@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anybody can make history. Only a great man can write it.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
