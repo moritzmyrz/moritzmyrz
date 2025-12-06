@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> Science is organized knowledge. Wisdom is organized life.
 >
-> <p>- Napoleon</p>
+> <p>- Immanuel Kant</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
