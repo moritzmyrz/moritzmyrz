@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
+> To climb steep hills requires a slow pace at first.
 >
-> <p>- Earl Monroe</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
