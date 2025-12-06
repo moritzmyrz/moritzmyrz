@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You won't skid if you stay in a rut.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- Kin Hubbard</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
