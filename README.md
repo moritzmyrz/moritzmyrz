@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
