@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> Anybody can make history. Only a great man can write it.
 >
-> <p>- Henry Ford</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
