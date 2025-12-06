@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't explain it simply, you don't understand it well enough.
+> Each day provides its own gifts.
 >
-> <p>- Albert Einstein</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
