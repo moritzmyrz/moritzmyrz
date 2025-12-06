@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
 >
-> <p>- Aristotle</p>
+> <p>- Earl Monroe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
