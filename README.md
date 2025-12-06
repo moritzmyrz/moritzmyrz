@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people are born on third base and go through life thinking they hit a triple.
+> You won't skid if you stay in a rut.
 >
-> <p>- Barry Switzer</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
