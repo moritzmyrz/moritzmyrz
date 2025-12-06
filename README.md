@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> Some people are born on third base and go through life thinking they hit a triple.
 >
-> <p>- Carl Jung</p>
+> <p>- Barry Switzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
