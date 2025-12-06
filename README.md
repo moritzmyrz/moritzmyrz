@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> We cannot solve our problems with the same thinking we used when we created them.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
