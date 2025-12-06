@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science is organized knowledge. Wisdom is organized life.
+> Friendship needs no words - it is solitude delivered from the anguish of loneliness.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Dag Hammarskjöld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
