@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> I never see what has been done; I only see what remains to be done.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
