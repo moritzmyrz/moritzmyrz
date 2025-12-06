@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Albert Einstein</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
