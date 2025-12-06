@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are small matters compared to what lies within us.
+> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
