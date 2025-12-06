@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Marie Curie</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
