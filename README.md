@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Better be wise by the misfortunes of others than by your own.
 >
-> <p>- John Keats</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
