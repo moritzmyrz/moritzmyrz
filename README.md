@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> A lie gets halfway around the world before the truth has a chance to get its pants on.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
