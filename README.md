@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Laozi</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
