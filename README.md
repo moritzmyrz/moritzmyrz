@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> It is easy to be brave from a safe distance.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
