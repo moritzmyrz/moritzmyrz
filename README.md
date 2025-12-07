@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> To climb steep hills requires a slow pace at first.
 >
-> <p>- Richard Garriott</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
