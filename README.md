@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- William Shakespeare</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
