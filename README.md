@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ambrose Bierce</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
