@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easy to be brave from a safe distance.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 >
-> <p>- Aesop</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
