@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
