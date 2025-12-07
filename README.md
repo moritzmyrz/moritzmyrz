@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Winston Churchill</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
