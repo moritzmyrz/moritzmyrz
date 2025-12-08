@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> A thing well said will be wit in all languages.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
