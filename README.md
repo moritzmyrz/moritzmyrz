@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Confucius</p>
+> <p>- John Junor</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
