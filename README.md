@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
