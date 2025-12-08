@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Tony Robbins</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
