@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
