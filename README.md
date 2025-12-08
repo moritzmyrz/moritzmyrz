@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Tony Robbins</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
