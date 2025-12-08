@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- The Buddha</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
