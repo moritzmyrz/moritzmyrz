@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
