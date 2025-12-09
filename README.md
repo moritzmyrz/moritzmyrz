@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
-> <p>- Jim Rohn</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
