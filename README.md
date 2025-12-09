@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
