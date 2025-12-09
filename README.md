@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Winston Churchill</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
