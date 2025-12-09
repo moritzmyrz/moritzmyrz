@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> By failing to prepare, you are preparing to fail.
 >
-> <p>- Voltaire</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
