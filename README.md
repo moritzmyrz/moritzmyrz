@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Epictetus</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
