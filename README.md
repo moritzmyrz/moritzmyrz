@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> Happiness is found in doing, not merely possessing.
 >
-> <p>- Thomas Edison</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
