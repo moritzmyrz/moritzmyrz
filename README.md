@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> If I were two-faced, would I be wearing this one?
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
