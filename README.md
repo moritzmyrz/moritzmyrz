@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You were not born a winner, and you were not born a loser. You are what you make yourself be.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- Lou Holtz</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
