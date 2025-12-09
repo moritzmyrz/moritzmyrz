@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
