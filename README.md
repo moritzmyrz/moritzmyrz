@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Maureen Dowd</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
