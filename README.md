@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
