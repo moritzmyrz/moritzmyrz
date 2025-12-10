@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be ignorant of a matter than half know it.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
