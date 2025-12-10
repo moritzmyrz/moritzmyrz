@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He that is giddy thinks the world turns round.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- William Shakespeare</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
