@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
 >
-> <p>- Richard Bach</p>
+> <p>- Hermann Hesse</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
