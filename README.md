@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
+> We cannot be more sensitive to pleasure without being more sensitive to pain.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
