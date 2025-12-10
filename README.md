@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We lost because we told ourselves we lost.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
