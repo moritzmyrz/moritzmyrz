@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
