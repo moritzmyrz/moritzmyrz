@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Andy Warhol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
