@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> Adversity causes some men to break, others to break records.
 >
-> <p>- Anna Pavlova</p>
+> <p>- William Arthur Ward</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
