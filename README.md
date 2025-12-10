@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> There is no failure except in no longer trying.
 >
-> <p>- Lucille Ball</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
