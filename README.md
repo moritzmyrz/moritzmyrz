@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Charles Péguy</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
