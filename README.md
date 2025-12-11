@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- Bruce Lee</p>
+> <p>- Morris West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
