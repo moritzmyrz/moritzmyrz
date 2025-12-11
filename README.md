@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
