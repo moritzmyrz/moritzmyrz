@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Louise Hay</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
