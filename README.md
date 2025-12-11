@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
