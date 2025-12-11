@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
 >
-> <p>- Albert Einstein</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
