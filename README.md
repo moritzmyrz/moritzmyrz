@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Sophocles</p>
+> <p>- Galileo Galilei</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
