@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> As you think, so shall you become.
 >
-> <p>- Pericles</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
