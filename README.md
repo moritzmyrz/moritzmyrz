@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Our distrust is very expensive.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
