@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Louise Hay</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
