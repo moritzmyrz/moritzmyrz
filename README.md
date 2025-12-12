@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Steven Van Zandt</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
