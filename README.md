@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
 >
-> <p>- Mark Twain</p>
+> <p>- Steven Van Zandt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
