@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
 >
-> <p>- John Barrymore</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
