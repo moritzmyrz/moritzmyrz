@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the best use of what is in your power and take the rest as it happens.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Epictetus</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
