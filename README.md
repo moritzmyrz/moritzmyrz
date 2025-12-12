@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
