@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Nelson Mandela</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
