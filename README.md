@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
