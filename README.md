@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
