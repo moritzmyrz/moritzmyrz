@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
