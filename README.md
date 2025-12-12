@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Janet Jackson</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
