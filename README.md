@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
