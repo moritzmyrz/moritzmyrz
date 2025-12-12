@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
