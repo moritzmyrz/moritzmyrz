@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Clay Shirky</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
