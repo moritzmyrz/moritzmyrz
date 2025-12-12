@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Minds are like parachutes. They only function when open.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Thomas Dewar</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
