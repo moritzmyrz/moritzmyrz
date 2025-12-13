@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Molière</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
