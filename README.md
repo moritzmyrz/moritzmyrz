@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
 >
-> <p>- Blaise Pascal</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
