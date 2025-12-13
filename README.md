@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
 >
-> <p>- Holly Near</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
