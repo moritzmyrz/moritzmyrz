@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Michelangelo</p>
+> <p>- Jane Addams</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
