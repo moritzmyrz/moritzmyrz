@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> When you learn, teach. When you get, give.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
