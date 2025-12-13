@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>- Woody Allen</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
