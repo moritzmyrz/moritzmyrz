@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideals are an imaginative understanding of that which is desirable in that which is possible.
+> Radiate boundless love towards the entire world…
 >
-> <p>- Walter Lippmann</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
