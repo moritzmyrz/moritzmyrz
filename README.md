@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> Life is what happens while you are making other plans.
 >
-> <p>- Michelangelo</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
