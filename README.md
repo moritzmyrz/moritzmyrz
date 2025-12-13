@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Bruce Lee</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
