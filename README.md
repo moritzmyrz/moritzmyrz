@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 >
-> <p>- Satchel Paige</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
