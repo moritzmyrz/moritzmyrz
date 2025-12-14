@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Confucius</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
