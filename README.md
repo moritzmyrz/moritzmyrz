@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> Fortune befriends the bold.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
