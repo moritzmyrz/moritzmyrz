@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Washington Irving</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
