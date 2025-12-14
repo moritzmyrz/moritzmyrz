@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good thoughts are no better than good dreams, unless they be executed.
+> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
