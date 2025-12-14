@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
