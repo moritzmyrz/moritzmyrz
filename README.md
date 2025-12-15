@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fame usually comes to those who are thinking about something else.
+> A disciplined mind brings happiness.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
