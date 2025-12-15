@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+> Fame usually comes to those who are thinking about something else.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
