@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> Wisdom is found only in truth.
 >
-> <p>- Laozi</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
