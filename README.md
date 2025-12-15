@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But man is not made for defeat. A man can be destroyed but not defeated.
+> We aim above the mark to hit the mark.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
