@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> The world is but a canvas to the imagination.
 >
-> <p>- Denis Waitley</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
