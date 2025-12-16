@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Samuel Beckett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
