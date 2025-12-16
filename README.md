@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
