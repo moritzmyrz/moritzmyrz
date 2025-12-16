@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+> I never think of the future. It comes soon enough.
 >
-> <p>- Molière</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
