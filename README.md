@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is finding out what you already know.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Richard Bach</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
