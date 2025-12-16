@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A disciplined mind brings happiness.
+> Life without love is like a tree without blossoms or fruit.
 >
-> <p>- The Buddha</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
