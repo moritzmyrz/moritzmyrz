@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ask yourself the secret of your success. Listen to your answer and practice it.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Richard Bach</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
