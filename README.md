@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Carol Burnett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
