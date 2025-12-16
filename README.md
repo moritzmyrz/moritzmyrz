@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
