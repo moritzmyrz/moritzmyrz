@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
