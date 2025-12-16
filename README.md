@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
