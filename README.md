@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Milton Berle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
