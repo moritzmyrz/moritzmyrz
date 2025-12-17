@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be wrong is nothing unless you continue to remember it.
+> There is more wisdom in your body than in your deepest philosophy.
 >
-> <p>- Confucius</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
