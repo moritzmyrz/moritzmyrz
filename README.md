@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
+> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
