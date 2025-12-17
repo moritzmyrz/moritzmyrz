@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History is written by the victors.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Winston Churchill</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
