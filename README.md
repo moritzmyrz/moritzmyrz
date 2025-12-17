@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
