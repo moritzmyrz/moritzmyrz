@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Arthur Schopenhauer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
