@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> Things do not change; we change.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
