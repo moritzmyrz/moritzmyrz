@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Dale Earnhardt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
