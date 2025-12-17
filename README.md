@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot step twice into the same river, for other waters are continually flowing in.
+> History is written by the victors.
 >
-> <p>- Heraclitus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
