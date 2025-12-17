@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The winner ain't the one with the fastest car it's the one who refuses to lose.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- Dale Earnhardt</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
