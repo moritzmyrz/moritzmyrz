@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
