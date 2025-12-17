@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is more wisdom in your body than in your deepest philosophy.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Jean-Paul Sartre</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
