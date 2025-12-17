@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
