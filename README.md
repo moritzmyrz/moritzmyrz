@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness is the reward we get for living to the highest right we know.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- Richard Bach</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
