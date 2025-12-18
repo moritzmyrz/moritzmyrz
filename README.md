@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Mother Teresa</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
