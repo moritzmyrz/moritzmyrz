@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have a harem of 40 women, you never get to know any of them very well.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Warren Buffett</p>
+> <p>- Amy Bloom</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
