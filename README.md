@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> Happiness is the reward we get for living to the highest right we know.
 >
-> <p>- Chanakya</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
