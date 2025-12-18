@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- Lucille Ball</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
