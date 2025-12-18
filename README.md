@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without courage, wisdom bears no fruit.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
