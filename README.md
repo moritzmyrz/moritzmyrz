@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Baltasar Gracián</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
