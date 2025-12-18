@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest healing therapy is friendship and love.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
