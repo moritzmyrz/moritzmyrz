@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Two persons cannot long be friends if they cannot forgive each other's little failings.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
