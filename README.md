@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> Opportunity is missed by most because it is dressed in overalls and looks like work.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
