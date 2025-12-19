@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows himself is enlightened.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- Laozi</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
