@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> Attitude is a little thing that makes a big difference.
 >
-> <p>- Don Shula</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
