@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Henry James</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
