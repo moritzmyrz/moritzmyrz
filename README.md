@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
 >
-> <p>- Thomas Edison</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
