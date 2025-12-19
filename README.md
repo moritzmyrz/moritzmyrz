@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- Tony Robbins</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
