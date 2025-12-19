@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+> Truth is powerful and it prevails.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Sojourner Truth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
