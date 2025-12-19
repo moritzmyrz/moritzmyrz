@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Attitude is a little thing that makes a big difference.
+> Life is a progress, and not a station.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
