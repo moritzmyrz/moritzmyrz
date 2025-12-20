@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
