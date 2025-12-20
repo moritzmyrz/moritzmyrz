@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> Each day provides its own gifts.
 >
-> <p>- Laozi</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
