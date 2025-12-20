@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> Absence makes the heart grow fonder.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Thomas Haynes Bayly</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
