@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the best policy.
+> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
