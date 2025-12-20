@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Absence makes the heart grow fonder.
+> Honesty is the best policy.
 >
-> <p>- Thomas Haynes Bayly</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
