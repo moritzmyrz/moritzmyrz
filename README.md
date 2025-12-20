@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
