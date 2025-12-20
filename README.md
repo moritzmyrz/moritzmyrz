@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We may encounter many defeats, but we must not be defeated.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Maya Angelou</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
