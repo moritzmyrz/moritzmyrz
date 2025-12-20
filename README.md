@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
