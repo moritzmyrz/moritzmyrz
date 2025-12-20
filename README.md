@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> Most people are about as happy as they make up their minds to be
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
