@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
