@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> Knowing is not enough; we must apply!
 >
-> <p>- Voltaire</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
