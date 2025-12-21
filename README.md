@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Ravi Zacharias</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
