@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Amber Valletta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
