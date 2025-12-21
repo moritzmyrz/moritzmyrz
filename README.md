@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- Amber Valletta</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
