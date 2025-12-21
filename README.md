@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
