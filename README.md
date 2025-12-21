@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Ravi Zacharias</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
