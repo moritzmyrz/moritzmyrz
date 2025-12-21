@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Cicero</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
