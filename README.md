@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> A house divided against itself cannot stand.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
