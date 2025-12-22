@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
