@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
+> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
