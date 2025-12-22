@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Laozi</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
