@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+> In skating over thin ice our safety is in our speed.
 >
 > <p>- Ralph Waldo Emerson</p>
 
