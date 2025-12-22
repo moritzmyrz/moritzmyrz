@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Stewart Brand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
