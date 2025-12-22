@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Joyce Meyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
