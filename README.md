@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Jim Bouton</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
