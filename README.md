@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be ignorant of a matter than half know it.
+> The truth is not for all men, but only for those who seek it.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Ayn Rand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
