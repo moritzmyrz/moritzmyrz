@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
