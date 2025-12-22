@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> Better be ignorant of a matter than half know it.
 >
-> <p>- Stewart Brand</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
