@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> Myths which are believed in tend to become true.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- George Orwell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
