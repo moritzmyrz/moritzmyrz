@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> Silence is a source of great strength.
 >
-> <p>- Euripides</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
