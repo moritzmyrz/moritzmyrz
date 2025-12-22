@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Jim Bouton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
