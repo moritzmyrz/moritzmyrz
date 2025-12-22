@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
+> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
 >
-> <p>- Confucius</p>
+> <p>- Theodore Isaac Rubin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
