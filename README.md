@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewer words.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Sophocles</p>
+> <p>- Loretta Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
