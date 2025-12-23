@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> Great acts are made up of small deeds.
 >
 > <p>- Laozi</p>
 
