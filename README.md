@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meetings are indispensable when you don't want to do anything.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- John Kenneth Galbraith</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
