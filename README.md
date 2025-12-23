@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Don't talk about what you have done or what you are going to do.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
