@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Rose Kennedy</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
