@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Rose Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
