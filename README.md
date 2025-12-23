@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Bruce Lee</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
