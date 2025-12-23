@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep silence for the most part, and speak only when you must, and then briefly.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Epictetus</p>
+> <p>- Mike Singletary (basketball)</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
