@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
