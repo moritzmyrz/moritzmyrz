@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
