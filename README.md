@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> If you love life, don't waste time, for time is what life is made up of.
 >
-> <p>- Loretta Young</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
