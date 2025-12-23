@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- Albert Einstein</p>
+> <p>- Christie Brinkley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
