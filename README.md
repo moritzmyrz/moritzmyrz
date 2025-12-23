@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- Henry Ford</p>
+> <p>- Samuel Beckett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
