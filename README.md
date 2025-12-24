@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> History is written by the victors.
 >
-> <p>- Lewis Cass</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
