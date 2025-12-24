@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- William Shakespeare</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
