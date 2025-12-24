@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Virginia Woolf</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
