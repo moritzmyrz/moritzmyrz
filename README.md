@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
