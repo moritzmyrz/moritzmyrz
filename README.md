@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+> Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
 >
-> <p>- Carl Jung</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
