@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> Being entirely honest with oneself is a good exercise.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Sigmund Freud</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
