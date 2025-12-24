@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Aristotle</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
