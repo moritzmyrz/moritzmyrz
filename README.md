@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 >
-> <p>- Erasmus</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
