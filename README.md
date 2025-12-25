@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
