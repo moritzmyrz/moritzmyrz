@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
