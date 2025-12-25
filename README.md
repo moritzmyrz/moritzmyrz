@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowledge rests not upon truth alone, but upon error also.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Carl Jung</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
