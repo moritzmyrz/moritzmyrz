@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anything you really want, you can attain, if you really go after it.
+> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Dhammapada</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
