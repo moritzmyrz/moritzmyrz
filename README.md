@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Jonathan Kozol</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
