@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Henry Miller</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
