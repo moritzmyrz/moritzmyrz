@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> The smallest act of kindness is worth more than the grandest intention.
 >
-> <p>- Montesquieu</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
