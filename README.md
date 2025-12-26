@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Sophocles</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
