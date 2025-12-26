@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
