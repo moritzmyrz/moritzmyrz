@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.
 >
-> <p>- James A. Yorke</p>
+> <p>- Caterina Fake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
