@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot always control what goes on outside. But I can always control what goes on inside.
+> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
