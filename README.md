@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 >
-> <p>- John Burroughs</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
