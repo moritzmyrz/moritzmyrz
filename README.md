@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- The Buddha</p>
+> <p>- Nora Roberts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
