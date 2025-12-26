@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Anne Bradstreet</p>
+> <p>- Montesquieu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
