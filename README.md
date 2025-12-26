@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
+> Go for it now. The future is promised to no one.
 >
-> <p>- Nora Roberts</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
