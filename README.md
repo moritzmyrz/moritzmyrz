@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
