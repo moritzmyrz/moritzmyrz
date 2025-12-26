@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All truths are easy to understand once they are discovered; the point is to discover them.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- Galileo Galilei</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
