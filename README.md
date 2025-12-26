@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Charles Péguy</p>
+> <p>- Henry Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
