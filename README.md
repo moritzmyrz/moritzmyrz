@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
