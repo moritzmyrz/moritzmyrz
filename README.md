@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
