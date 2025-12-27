@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> Things do not change; we change.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
