@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
+> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
 >
-> <p>- George Eliot</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
