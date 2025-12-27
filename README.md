@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> It is far better to be alone, than to be in bad company.
 >
-> <p>- Victor Hugo</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
