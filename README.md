@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> All achievements, all earned riches, have their beginning in an idea.
 >
-> <p>- Winston Churchill</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
