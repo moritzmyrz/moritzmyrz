@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- George Washington</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
