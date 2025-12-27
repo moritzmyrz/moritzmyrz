@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Everything has beauty, but not everyone sees it.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
