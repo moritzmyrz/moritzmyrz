@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> Either I will find a way, or I will make one.
 >
-> <p>- Confucius</p>
+> <p>- Philip Sidney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
