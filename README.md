@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Laozi</p>
+> <p>- Archimedes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
