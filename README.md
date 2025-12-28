@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> The man who trusts men will make fewer mistakes than he who distrusts them.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Camillo Benso, Count of Cavour</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
