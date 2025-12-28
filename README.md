@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> There is no great genius without some touch of madness.
 >
-> <p>- Demosthenes</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
