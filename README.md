@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> Sports do not build character. They reveal it.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Heywood Broun</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
