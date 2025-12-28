@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Norman Cousins</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
