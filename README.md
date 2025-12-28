@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
+> But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
 >
-> <p>- Plutarch</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
