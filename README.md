@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
+> He who knows others is wise. He who knows himself is enlightened.
 >
 > <p>- Laozi</p>
 
