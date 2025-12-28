@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
