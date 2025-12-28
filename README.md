@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
+> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
