@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is about timing.
+> Unless one is able to live fully in the present, the future is a hoax.
 >
-> <p>- Carl Lewis</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
