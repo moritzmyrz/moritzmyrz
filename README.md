@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sports do not build character. They reveal it.
+> Small opportunities are often the beginning of great enterprises.
 >
-> <p>- Heywood Broun</p>
+> <p>- Demosthenes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
