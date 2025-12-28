@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
