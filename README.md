@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Yoko Ono</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
