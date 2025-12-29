@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> You can't put a limit on anything. The more you dream, the farther you get.
 >
-> <p>- Napoleon</p>
+> <p>- Michael Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
