@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
