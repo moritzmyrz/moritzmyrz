@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+> Love is the flower you've got to let grow.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
