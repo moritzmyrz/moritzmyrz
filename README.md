@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your talent is God's gift to you. What you do with it is your gift back to God.
+> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Nikola Tesla</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
