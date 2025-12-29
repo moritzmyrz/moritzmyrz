@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Leo Buscaglia</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
