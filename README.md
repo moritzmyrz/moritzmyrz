@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
