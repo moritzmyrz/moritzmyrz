@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Julie Morgenstern</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
