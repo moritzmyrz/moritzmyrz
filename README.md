@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
