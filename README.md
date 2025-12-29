@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> He who fears being conquered is sure of defeat.
 >
-> <p>- Satchel Paige</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
