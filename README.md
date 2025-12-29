@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the flower you've got to let grow.
+> It's easy to make a buck. It's a lot tougher to make a difference.
 >
-> <p>- John Lennon</p>
+> <p>- Tom Brokaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
