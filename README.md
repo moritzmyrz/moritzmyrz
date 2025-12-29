@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
 >
-> <p>- Michael Phelps</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
