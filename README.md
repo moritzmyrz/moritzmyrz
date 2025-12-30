@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- John Acosta</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
