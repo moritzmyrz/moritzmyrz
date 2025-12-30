@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> Effort only fully releases its reward after a person refuses to quit.
 >
-> <p>- Richard Bach</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
