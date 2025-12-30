@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> There's power in looking silly and not caring that you do.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Amy Poehler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
