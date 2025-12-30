@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There's power in looking silly and not caring that you do.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Amy Poehler</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
