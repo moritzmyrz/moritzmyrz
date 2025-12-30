@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Ralph Marston</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
