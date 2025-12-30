@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> You cannot have what you do not want.
 >
-> <p>- Napoleon Hill</p>
+> <p>- John Acosta</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
