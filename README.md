@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Richard Garriott</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
