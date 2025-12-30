@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Walter Lippmann</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
