@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- John Locke</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
