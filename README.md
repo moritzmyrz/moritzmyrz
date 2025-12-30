@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Liberty, taking the word in its concrete sense, consists in the ability to choose.
+> Minds are like parachutes. They only function when open.
 >
-> <p>- Simone Weil</p>
+> <p>- Thomas Dewar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
