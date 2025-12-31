@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting an example is not the main means of influencing another, it is the only means.
+> Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
 >
-> <p>- Albert Einstein</p>
+> <p>- Harriet Lerner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
