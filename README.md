@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A hero is no braver than an ordinary man, but he is braver five minutes longer.
+> If there is no struggle, there is no progress.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Frederick Douglass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
