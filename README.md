@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
