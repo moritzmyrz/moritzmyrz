@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Ivy Baker Priest</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
