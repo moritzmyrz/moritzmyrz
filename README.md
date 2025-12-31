@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Joseph Prince</p>
+> <p>- Gordon Hinckley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
