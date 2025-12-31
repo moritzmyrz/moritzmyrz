@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> The only real valuable thing is intuition.
 >
-> <p>- Epictetus</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
