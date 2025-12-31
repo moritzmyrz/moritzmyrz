@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> Self-trust is the first secret of success.
 >
-> <p>- Robert Frost</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
