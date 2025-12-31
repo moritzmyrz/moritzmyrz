@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
