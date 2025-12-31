@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
