@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> You are always free to change your mind and choose a different future, or a different past.
 >
-> <p>- Maya Angelou</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
