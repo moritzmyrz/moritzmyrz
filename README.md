@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All I required to be happy was friendship and people I could admire.
+> Fear not for the future, weep not for the past.
 >
-> <p>- Christian Dior</p>
+> <p>- Percy Bysshe Shelley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
