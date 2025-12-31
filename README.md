@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
