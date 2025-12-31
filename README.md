@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Life is a progress, and not a station.
 >
-> <p>- George Eliot</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
