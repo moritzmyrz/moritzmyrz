@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> Where all think alike, no one thinks very much.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Walter Lippmann</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
