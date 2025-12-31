@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a progress, and not a station.
+> All I required to be happy was friendship and people I could admire.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Christian Dior</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
