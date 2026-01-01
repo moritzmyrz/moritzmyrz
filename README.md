@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
