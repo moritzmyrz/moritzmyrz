@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Liberace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
