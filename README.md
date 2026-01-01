@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no expedient to which a man will not go to avoid the labor of thinking.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 >
-> <p>- Thomas Edison</p>
+> <p>- Janet Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
