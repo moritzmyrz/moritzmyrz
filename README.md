@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 >
-> <p>- Epictetus</p>
+> <p>- M. Scott Peck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
