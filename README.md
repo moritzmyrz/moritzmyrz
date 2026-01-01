@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
 >
-> <p>- Abraham Lincoln</p>
+> <p>- George Eliot</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
