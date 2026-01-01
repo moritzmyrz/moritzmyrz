@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Liberace</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
