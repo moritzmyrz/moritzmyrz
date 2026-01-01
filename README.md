@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
