@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is a succession of lessons, which must be lived to be understood.
+> Maxim for life: You get treated in life the way you teach people to treat you.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
