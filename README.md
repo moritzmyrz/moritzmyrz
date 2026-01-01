@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> Be great in act, as you have been in thought.
 >
-> <p>- Harold Nicolson</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
