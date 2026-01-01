@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> Music in the soul can be heard by the universe.
 >
-> <p>- John Burroughs</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
