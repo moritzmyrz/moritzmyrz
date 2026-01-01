@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- Cory Doctorow</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
