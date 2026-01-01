@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Maxim for life: You get treated in life the way you teach people to treat you.
+> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bertrand Russell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
