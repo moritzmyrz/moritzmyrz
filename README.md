@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Will Rogers</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
