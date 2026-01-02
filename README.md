@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is always an overmatch for strength.
+> Make the most of yourself, for that is all there is of you.
 >
-> <p>- Phil Jackson</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
