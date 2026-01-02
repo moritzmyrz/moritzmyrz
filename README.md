@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Rumi</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
