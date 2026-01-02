@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- William Blake</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
