@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Marie Curie</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
