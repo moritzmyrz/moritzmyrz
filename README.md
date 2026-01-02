@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 >
-> <p>- Walt Disney</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
