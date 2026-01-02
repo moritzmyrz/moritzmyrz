@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember always that you not only have the right to be an individual, you have an obligation to be one.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
