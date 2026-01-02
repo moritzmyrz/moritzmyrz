@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sooner or later, those who win are those who think they can.
+> I never see what has been done; I only see what remains to be done.
 >
-> <p>- Richard Bach</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
