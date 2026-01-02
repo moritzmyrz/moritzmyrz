@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Laozi</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
