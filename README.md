@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> Well begun is half done.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
