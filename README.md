@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Holly Near</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
