@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better be ignorant of a matter than half know it.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Phil Jackson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
