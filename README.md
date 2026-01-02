@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
