@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 >
-> <p>- Brian Tracy</p>
+> <p>- Elisabeth Kübler-Ross</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
