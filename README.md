@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- Robert Fulghum</p>
+> <p>- Marcia Fudge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
