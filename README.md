@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Edmund Burke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
