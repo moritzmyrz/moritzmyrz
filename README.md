@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- John Astin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
