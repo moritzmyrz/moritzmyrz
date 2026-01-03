@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Cicero</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
