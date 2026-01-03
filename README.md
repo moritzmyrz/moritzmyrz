@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> When the solution is simple, God is answering.
 >
-> <p>- John Brunner</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
