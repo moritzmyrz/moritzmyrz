@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
