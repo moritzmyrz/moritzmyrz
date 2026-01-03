@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
 >
-> <p>- Rumi</p>
+> <p>- Rollo May</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
