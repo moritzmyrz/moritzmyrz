@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
+> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
 >
-> <p>- Rollo May</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
