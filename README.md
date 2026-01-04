@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Important principles may, and must, be inflexible.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Daniel J. Boorstin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
