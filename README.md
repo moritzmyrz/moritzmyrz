@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Charles Du Bos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
