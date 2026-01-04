@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man sees in the world what he carries in his heart.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Thomas Hardy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
