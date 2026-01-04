@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
