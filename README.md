@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Richard Burton</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
