@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Voltaire</p>
+> <p>- Richard Burton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
