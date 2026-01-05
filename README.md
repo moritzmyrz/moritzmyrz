@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
