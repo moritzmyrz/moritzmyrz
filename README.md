@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> It has been my experience that folks who have no vices have very few virtues.
 >
-> <p>- Bruce Lee</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
