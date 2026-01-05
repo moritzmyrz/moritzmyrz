@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- Albert Einstein</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
