@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- Tony Robbins</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
