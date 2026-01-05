@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- Anne Frank</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
