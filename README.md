@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
