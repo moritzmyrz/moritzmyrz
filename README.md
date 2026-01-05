@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> It's easy to make a buck. It's a lot tougher to make a difference.
 >
-> <p>- Audre Lorde</p>
+> <p>- Tom Brokaw</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
