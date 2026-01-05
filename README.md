@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> Keep yourself to the sunshine and you cannot see the shadow.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
