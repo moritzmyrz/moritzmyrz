@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> Sadness flies away on the wings of time.
 >
-> <p>- John Pierrakos</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
