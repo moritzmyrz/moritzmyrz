@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> Our lives are a sum total of the choices we have made.
 >
-> <p>- The Buddha</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
