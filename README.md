@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 >
-> <p>- Will Rogers</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
