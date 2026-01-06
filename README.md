@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> It is one of the blessings of old friends that you can afford to be stupid with them.
 >
-> <p>- George Santayana</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
