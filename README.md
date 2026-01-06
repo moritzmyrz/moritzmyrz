@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewer words.
+> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
 >
-> <p>- Sophocles</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
