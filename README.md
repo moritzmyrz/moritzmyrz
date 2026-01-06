@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
