@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> I don't believe in failure. It's not failure if you enjoyed the process.
 >
-> <p>- John Burroughs</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
