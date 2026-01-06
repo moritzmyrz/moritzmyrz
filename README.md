@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> Much wisdom often goes with fewer words.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
