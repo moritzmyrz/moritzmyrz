@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything you can imagine is real.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Pablo Picasso</p>
+> <p>- George Santayana</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
