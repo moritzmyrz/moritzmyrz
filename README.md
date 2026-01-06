@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Nathaniel Hawthorne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
