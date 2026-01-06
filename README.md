@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Robert Fulghum</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
