@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> Happiness does not come from having much, but from being attached to little.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Cheng Yen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
