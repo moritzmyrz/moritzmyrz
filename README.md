@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
