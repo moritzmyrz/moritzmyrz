@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
+> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
 >
-> <p>- Confucius</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
