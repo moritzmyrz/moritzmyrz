@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come from having much, but from being attached to little.
+> Life is the flower for which love is the honey.
 >
-> <p>- Cheng Yen</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
