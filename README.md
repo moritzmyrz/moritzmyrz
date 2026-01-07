@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
+> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
 >
-> <p>- Marilyn Monroe</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
