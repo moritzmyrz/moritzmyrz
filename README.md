@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
