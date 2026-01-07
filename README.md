@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
