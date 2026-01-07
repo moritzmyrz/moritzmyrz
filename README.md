@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
 >
-> <p>- Jerome</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
