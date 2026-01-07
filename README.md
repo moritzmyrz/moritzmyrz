@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
 >
-> <p>- A. A. Milne</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
