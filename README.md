@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Winston Churchill</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
