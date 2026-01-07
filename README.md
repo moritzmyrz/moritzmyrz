@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Dalai Lama</p>
+> <p>- A. A. Milne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
