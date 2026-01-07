@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Winston Churchill</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
