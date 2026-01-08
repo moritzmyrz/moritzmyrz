@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> Victory belongs to the most persevering.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
