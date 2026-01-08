@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Voltaire</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
