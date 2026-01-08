@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Mark Twain</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
