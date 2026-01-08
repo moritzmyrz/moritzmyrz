@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Confucius</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
