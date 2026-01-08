@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves.
 >
-> <p>- Albert Camus</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
