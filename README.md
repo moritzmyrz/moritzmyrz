@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
