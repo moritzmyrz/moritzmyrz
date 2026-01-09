@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you surrender to the wind, you can ride it.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Toni Morrison</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
