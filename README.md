@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Winston Churchill</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
