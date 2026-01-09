@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Toni Morrison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
