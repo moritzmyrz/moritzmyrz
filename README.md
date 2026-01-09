@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> I can, therefore I am.
 >
-> <p>- Aristotle</p>
+> <p>- Simone Weil</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
