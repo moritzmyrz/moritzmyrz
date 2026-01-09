@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> If one way be better than another, that you may be sure is nature's way.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
