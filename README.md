@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can, therefore I am.
+> You can observe a lot just by watching.
 >
-> <p>- Simone Weil</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
