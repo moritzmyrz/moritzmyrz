@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 >
-> <p>- Winston Churchill</p>
+> <p>- Nikola Tesla</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
