@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> The only journey is the one within.
 >
-> <p>- Yogi Berra</p>
+> <p>- Rainer Maria Rilke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
