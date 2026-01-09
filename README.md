@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
