@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> You cannot escape the responsibility of tomorrow by evading it today.
 >
-> <p>- Henry Miller</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
