@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must embrace pain and burn it as fuel for our journey.
+> The best argument against democracy is a five-minute conversation with the average voter.
 >
-> <p>- Kenji Miyazawa</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
