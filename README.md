@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
 >
-> <p>- Ovid</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
