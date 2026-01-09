@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> In the middle of every difficulty lies opportunity.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
