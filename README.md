@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Doug Larson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
