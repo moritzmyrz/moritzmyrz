@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot escape the responsibility of tomorrow by evading it today.
+> Don't talk about what you have done or what you are going to do.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thomas Jefferson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
