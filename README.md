@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Kenji Miyazawa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
