@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No man has a good enough memory to be a successful liar.
+> Change your thoughts and you change your world.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Norman Vincent Peale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
