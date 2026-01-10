@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- John Dewey</p>
+> <p>- William Blake</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
