@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Cory Doctorow</p>
+> <p>- Publilius Syrus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
