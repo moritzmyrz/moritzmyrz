@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Rose Kennedy</p>
+> <p>- John Bercow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
