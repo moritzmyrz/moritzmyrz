@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What the caterpillar calls the end of the world, the master calls a butterfly.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Richard Bach</p>
+> <p>- Cory Doctorow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
