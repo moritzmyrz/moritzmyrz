@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- John Updike</p>
+> <p>- Marianne Williamson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
