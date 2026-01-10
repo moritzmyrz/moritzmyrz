@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> Quality is not an act; it is a habit.
 >
-> <p>- John Bercow</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
