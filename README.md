@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No valid plans for the future can be made by those who have no capacity for living now.
+> No man has a good enough memory to be a successful liar.
 >
-> <p>- Alan Watts</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
