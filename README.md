@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- Walt Disney</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
