@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> What the caterpillar calls the end of the world, the master calls a butterfly.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
