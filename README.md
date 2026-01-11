@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Michelangelo</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
