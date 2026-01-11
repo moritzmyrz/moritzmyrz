@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
