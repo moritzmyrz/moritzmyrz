@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
