@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Hanya Yanagihara</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
