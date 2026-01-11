@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- John Steinbeck</p>
+> <p>- Leonard Nimoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
