@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- Wayne Gretzky</p>
+> <p>- François de La Rochefoucauld</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
