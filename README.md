@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Mariella Frostrup</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
