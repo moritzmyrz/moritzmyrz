@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Today you are you! That is truer than true! There is no one alive who is you-er than you!
+> Inspiration exists, but it has to find us working.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
