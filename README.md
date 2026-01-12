@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- Albert Einstein</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
