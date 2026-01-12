@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Being entirely honest with oneself is a good exercise.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Joseph Joubert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
