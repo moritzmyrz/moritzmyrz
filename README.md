@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Meditate … do not delay, lest you later regret it.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
