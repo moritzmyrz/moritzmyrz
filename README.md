@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Casey Stengel</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
