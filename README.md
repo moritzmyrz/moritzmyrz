@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Winston Churchill</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
