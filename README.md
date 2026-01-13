@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> To see things in the seed, that is genius.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
