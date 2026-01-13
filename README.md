@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Jim Elliot</p>
+> <p>- Rudolf Arnheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
