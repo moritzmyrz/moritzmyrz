@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
