@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> Imagination is the living power and prime agent of all human perception.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
