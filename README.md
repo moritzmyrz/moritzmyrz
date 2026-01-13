@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Jimmy Dean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
