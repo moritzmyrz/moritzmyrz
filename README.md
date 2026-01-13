@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Honesty is the best policy.
+> Silence is the true friend that never betrays.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
