@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
+> Get busy living or get busy dying.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Stephen King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
