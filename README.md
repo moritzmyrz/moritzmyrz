@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Winston Churchill</p>
+> <p>- Edward Gibbon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
