@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
