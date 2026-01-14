@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is a word that describes something that doesn't work yet.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Douglas Adams</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
