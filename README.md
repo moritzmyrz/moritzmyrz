@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> Much wisdom often goes with fewer words.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
