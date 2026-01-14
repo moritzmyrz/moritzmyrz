@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> There are three faithful friends - an old wife, an old dog, and ready money.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
