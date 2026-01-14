@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To climb steep hills requires a slow pace at first.
+> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
 >
-> <p>- William Shakespeare</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
