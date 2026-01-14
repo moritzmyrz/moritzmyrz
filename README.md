@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> If we open a quarrel between past and present, we shall find that we have lost the future.
 >
-> <p>- Epictetus</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
