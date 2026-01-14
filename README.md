@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> The deepest craving of human nature is the need to be appreciated.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- William James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
