@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- The Buddha</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
