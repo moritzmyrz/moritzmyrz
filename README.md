@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I gave my life to become the person I am right now. Was it worth it?
+> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
 >
-> <p>- Richard Bach</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
