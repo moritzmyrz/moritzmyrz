@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Northrop Frye</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
