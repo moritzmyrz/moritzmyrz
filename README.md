@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
