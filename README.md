@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
