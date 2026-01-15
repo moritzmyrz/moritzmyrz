@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
+> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
 >
-> <p>- Ken Venturi</p>
+> <p>- Steve Jobs</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
