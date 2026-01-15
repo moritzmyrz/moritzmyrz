@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
