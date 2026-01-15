@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Two persons cannot long be friends if they cannot forgive each other's little failings.
+> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
