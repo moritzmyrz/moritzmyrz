@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Václav Havel</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
