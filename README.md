@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> It is one of the blessings of old friends that you can afford to be stupid with them.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
