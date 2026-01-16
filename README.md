@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Pablo Picasso</p>
+> <p>- J. M. Barrie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
