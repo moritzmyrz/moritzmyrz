@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Alfred Korzybski</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
