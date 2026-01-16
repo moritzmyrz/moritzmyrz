@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Barack Obama</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
