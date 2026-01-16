@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
