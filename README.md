@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Goals are the fuel in the furnace of achievement.
+> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
 >
-> <p>- Brian Tracy</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
