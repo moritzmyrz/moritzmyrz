@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- John Wooden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
