@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every problem has a gift for you in its hands.
+> Computers are useless. They can only give you answers.
 >
-> <p>- Richard Bach</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
