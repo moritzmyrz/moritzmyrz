@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> Make it your habit not to be critical about small things.
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- Edward Everett Hale</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
