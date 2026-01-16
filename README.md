@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> Every problem has a gift for you in its hands.
 >
-> <p>- William Blake</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
