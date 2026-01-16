@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 >
-> <p>- Dalai Lama</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
