@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> Attitude is a little thing that makes a big difference.
 >
-> <p>- Christopher Morley</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
