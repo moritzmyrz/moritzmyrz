@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Brian Tracy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
