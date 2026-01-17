@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> With the new day comes new strength and new thoughts.
+> Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Elbert Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
