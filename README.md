@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who conquers others is strong; He who conquers himself is mighty.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Laozi</p>
+> <p>- Joe Paterno</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
