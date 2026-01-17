@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A failure is a man who has blundered but is not capable of cashing in on the experience.
+> I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Colette</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
