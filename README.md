@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Alan Watts</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
