@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>- Albert Einstein</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
