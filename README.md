@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Carl Jung</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
