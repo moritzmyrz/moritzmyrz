@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> In the middle of every difficulty lies opportunity.
 >
-> <p>- Francis Bacon</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
