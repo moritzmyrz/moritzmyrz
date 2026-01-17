@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Richard Needham</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
