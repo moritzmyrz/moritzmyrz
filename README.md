@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Richard Bach</p>
+> <p>- Isaac Asimov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
