@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
