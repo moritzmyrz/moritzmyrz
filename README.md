@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> Our passion is our strength.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Billie Armstrong</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
