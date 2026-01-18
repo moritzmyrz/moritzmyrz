@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Tony Robbins</p>
+> <p>- Doris Mortman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
