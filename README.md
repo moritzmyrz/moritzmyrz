@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
