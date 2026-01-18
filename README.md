@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us sacrifice our today so that our children can have a better tomorrow.
+> If you do what you've always done, you'll get what you've always gotten.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Tony Robbins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
