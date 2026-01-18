@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fox has many tricks. The hedgehog has but one. But that is the best of all.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Erasmus</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
