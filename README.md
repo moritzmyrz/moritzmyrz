@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Woody Allen</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
