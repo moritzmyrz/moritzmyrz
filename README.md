@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Ralph Abernathy</p>
+> <p>- John Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
