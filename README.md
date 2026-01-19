@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ralph Abernathy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
