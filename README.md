@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The simplest things are often the truest.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Richard Bach</p>
+> <p>- Lucille Ball</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
