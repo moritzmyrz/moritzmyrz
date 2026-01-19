@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Henry Ford</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
