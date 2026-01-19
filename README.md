@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> Time stays long enough for anyone who will use it.
 >
-> <p>- John Powell</p>
+> <p>- Leonardo da Vinci</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
