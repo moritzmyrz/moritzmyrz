@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- George Washington</p>
+> <p>- William Sloane Coffin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
