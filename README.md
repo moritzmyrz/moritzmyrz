@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> I never think of the future. It comes soon enough.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
