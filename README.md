@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> We don't know a millionth of one percent about anything.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
