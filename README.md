@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Aristotle</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
