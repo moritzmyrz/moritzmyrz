@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
 >
-> <p>- Robert Frost</p>
+> <p>- Voltaire</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
