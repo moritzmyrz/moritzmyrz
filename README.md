@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Edward Young</p>
+> <p>- Eustace Budgell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
