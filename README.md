@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> TV and the Internet are good because they keep stupid people from spending too much time out in public.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Douglas Coupland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
