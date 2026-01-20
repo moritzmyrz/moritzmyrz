@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
+> As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.
 >
-> <p>- A. A. Milne</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
