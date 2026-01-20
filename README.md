@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
