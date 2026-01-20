@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
