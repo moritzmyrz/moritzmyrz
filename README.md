@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
