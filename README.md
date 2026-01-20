@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- Helen Keller</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
