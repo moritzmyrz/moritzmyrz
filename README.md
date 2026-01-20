@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Lewis Carroll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
