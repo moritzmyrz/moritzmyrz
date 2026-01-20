@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
