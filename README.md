@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Efficiency is doing things right; effectiveness is doing the right things.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Peter Drucker</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
