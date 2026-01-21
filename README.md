@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- John Lasseter</p>
+> <p>- Tom Hodgkinson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
