@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Loss is nothing else but change, and change is Nature's delight.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Marcus Aurelius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
