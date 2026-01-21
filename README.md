@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fears are nothing more than a state of mind.
+> Light tomorrow with today!
 >
-> <p>- Napoleon Hill</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
