@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fewer rules a coach has, the fewer rules there are for players to break.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- John Madden</p>
+> <p>- Henri Poincaré</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
