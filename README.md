@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Caroline Myss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
