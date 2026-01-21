@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- John Lasseter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
