@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing in a caterpillar that tells you it's going to be a butterfly.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
