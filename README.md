@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
