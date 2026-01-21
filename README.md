@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
