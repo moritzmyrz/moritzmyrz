@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+> He who conquers others is strong; He who conquers himself is mighty.
 >
-> <p>- Norman Schwarzkopf</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
