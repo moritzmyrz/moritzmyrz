@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
