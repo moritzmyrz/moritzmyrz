@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who conquers others is strong; He who conquers himself is mighty.
+> There is nothing in a caterpillar that tells you it's going to be a butterfly.
 >
-> <p>- Laozi</p>
+> <p>- Buckminster Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
