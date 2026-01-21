@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- Denis Waitley</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
