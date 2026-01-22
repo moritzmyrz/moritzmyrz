@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who talks more is sooner exhausted.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Laozi</p>
+> <p>- Arthur Ashe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
