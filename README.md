@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Marcel Proust</p>
+> <p>- Henry Moore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
