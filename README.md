@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
+> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
 >
-> <p>- John Steinbeck</p>
+> <p>- Vusi Mahlasela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
