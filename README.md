@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- Epictetus</p>
+> <p>- Thomas Hobbes</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
