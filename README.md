@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
