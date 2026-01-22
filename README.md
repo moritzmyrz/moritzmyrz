@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Will Durant</p>
+> <p>- Amy Tan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
