@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
