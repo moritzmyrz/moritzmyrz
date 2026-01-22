@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Ralph Abernathy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
