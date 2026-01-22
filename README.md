@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+> Nature gave us one tongue and two ears so we could hear twice as much as we speak.
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
