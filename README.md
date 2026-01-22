@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
+> Never do things others can do and will do, if there are things others cannot do or will not do.
 >
-> <p>- Rumi</p>
+> <p>- Amelia Earhart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
