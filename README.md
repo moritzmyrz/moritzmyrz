@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no retirement for an artist, it's your way of living so there is no end to it.
+> Keep your face always toward the sunshine - and shadows will fall behind you.
 >
-> <p>- Henry Moore</p>
+> <p>- Walt Whitman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
