@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
+> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 >
-> <p>- Paramahansa Yogananda</p>
+> <p>- Rumi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
