@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
