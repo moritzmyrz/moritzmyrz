@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> The young man knows the rules, but the old man knows the exceptions.
 >
-> <p>- Edward Young</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
