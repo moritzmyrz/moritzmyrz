@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> The thing always happens that you really believe in; and the belief in a thing makes it happen.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Frank Lloyd Wright</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
