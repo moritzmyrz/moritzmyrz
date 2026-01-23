@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> Begin at once to live and count each separate day as a separate life.
 >
-> <p>- Rumi</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
