@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
 >
-> <p>- Carl Jung</p>
+> <p>- Paramahansa Yogananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
