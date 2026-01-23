@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is not started today is never finished tomorrow.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
