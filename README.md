@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those who are free of resentful thoughts surely find peace.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- The Buddha</p>
+> <p>- Edward Young</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
