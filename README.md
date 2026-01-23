@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
 >
-> <p>- Albert Einstein</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
