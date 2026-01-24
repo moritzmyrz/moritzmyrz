@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
