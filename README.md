@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
