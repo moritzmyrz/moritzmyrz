@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
+> There are people who have money and people who are rich.
 >
-> <p>- Winston Churchill</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
