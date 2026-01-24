@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Daisaku Ikeda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
