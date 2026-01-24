@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Søren Kierkegaard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
