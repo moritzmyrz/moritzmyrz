@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Thomas Edison</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
