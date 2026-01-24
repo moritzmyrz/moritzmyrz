@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Victory belongs to the most persevering.
+> Get busy living or get busy dying.
 >
-> <p>- Napoleon</p>
+> <p>- Stephen King</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
