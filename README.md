@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
