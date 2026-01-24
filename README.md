@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> It is fatal to enter any war without the will to win it.
 >
-> <p>- Laozi</p>
+> <p>- Douglas MacArthur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
