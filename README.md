@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is always a sweet responsibility, never an opportunity.
+> Never, never, never give up.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
