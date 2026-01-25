@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love and friendship exclude each other.
+> The secret of success is constancy to purpose.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
