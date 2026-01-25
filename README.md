@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
