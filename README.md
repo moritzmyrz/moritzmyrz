@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
