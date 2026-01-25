@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
