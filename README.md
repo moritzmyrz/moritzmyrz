@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
 >
-> <p>- Billie Jean King</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
