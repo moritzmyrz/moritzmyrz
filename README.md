@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> Friendship is always a sweet responsibility, never an opportunity.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
