@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
 > <p>- Albert Einstein</p>
 
