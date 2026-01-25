@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't want to achieve immortality through my work... I want to achieve it through not dying.
+> Your attitude, not your aptitude, will determine your altitude.
 >
-> <p>- Woody Allen</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
