@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> We lost because we told ourselves we lost.
 >
-> <p>- John Marshall</p>
+> <p>- Leo Tolstoy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
