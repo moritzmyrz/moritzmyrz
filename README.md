@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> You can stand tall without standing on someone. You can be a victor without having victims.
 >
-> <p>- Walt Disney</p>
+> <p>- Harriet Woods</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
