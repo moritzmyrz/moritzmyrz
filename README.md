@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- David Bader</p>
+> <p>- Anton Chekhov</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
