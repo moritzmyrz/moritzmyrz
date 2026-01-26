@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
