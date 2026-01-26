@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Lucille Ball</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
