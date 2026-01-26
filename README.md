@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
