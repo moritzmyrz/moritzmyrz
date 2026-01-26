@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Max Frisch</p>
+> <p>- Robert Southey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
