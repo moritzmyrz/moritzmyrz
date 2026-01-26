@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> Unless one is able to live fully in the present, the future is a hoax.
 >
-> <p>- Laozi</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
