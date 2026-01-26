@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
