@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- Loretta Young</p>
+> <p>- Alexander Pope</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
