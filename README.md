@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
