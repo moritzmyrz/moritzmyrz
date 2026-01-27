@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
