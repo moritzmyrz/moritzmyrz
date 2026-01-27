@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
