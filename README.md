@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success: to be able to spend your life in your own way.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- Christopher Morley</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
