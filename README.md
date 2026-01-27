@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> Computers are useless. They can only give you answers.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
