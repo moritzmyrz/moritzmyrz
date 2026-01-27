@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Will Rogers</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
