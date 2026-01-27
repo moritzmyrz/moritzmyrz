@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Charles Henry Parkhurst</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
