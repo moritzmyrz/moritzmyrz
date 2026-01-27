@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
 >
-> <p>- Robert Southey</p>
+> <p>- Eckhart Tolle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
