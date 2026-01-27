@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Jessamyn West</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
