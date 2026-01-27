@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Blessed is the man who expects nothing, for he shall never be disappointed.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- Alexander Pope</p>
+> <p>- Jessamyn West</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
