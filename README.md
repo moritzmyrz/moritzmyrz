@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing permanent except change.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- Heraclitus</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
