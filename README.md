@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Whoopi Goldberg</p>
+> <p>- William Wordsworth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
