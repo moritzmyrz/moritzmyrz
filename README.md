@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> There is nothing permanent except change.
 >
-> <p>- Hal Abelson</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
