@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot always control what goes on outside. But I can always control what goes on inside.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Whoopi Goldberg</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
