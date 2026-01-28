@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- Plato</p>
+> <p>- Akhenaten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
