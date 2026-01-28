@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I violated the Noah rule: Predicting rain doesn't count; building arks does.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Warren Buffett</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
