@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 >
-> <p>- Albert Einstein</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
