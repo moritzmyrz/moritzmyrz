@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Don Shula</p>
+> <p>- Casey Stengel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
