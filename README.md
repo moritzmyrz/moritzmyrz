@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is oftentimes nearer when we stoop than when we soar.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- William Wordsworth</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
