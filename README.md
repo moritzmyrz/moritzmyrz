@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Hal Abelson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
