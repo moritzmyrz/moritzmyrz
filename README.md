@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> Honesty is the best policy.
 >
-> <p>- Woody Allen</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
