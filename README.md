@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
 >
-> <p>- Confucius</p>
+> <p>- Parker Palmer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
