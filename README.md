@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Daniel J. Boorstin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
