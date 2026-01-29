@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
