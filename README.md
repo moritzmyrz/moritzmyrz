@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
