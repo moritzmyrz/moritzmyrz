@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
