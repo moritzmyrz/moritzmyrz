@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
 >
-> <p>- Denis Waitley</p>
+> <p>- Martin Luther King Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
