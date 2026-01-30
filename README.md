@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> Do something wonderful, people may imitate it.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
