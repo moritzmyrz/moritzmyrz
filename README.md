@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Edmond Rostand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
