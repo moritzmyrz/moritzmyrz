@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Alan Watts</p>
+> <p>- Henri Poincaré</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
