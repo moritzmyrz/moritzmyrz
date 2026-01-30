@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- Woody Allen</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
