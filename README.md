@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Good advice is always certain to be ignored, but that's no reason not to give it.
+> The ego is nothing other than the focus of conscious attention.
 >
-> <p>- Agatha Christie</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
