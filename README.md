@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always seek out the seed of triumph in every adversity.
+> The universe is made of stories, not atoms.
 >
-> <p>- Og Mandino</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
