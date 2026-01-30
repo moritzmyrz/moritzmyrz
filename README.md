@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Charles Lindbergh</p>
+> <p>- Agatha Christie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
