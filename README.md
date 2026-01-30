@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- Isocrates</p>
+> <p>- Judy Garland</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
