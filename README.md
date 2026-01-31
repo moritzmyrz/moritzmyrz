@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
