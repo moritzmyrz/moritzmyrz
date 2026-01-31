@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- The Buddha</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
