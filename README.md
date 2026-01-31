@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- Uta Hagen</p>
+> <p>- Moncure D. Conway</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
