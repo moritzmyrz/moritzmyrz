@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Uta Hagen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
