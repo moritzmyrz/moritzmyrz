@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> Pitching is the art of instilling fear.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Sandy Koufax</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
