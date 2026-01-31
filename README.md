@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.
 >
-> <p>- Denis Waitley</p>
+> <p>- Shaquille O'Neal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
