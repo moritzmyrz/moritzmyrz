@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
 >
-> <p>- Winston Churchill</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
