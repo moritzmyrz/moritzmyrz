@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
