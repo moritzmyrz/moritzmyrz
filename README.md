@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Charles Péguy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
