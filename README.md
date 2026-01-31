@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Zhuang Zhou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
