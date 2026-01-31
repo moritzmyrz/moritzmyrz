@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You just can't beat the person who never gives up.
+> If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 >
-> <p>- Babe Ruth</p>
+> <p>- Michael Jordan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
