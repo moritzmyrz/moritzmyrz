@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
