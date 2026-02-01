@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> The best way to predict your future is to create it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
