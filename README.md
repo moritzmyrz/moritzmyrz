@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> If one does not know to which port is sailing, no wind is favorable.
 >
-> <p>- Helen Keller</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
