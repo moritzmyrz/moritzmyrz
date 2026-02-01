@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is always an overmatch for strength.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Phil Jackson</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
