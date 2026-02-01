@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Government of the people, by the people, for the people, shall not perish from the Earth.
+> Most folks are as happy as they make up their minds to be.
 >
 > <p>- Abraham Lincoln</p>
 
