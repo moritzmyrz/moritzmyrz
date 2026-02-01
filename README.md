@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
