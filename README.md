@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- Richard Bach</p>
+> <p>- Denis Waitley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
