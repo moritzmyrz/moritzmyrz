@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
