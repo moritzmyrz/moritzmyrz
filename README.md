@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- John Powell</p>
+> <p>- Eric Hoffer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
