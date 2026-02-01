@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- The Buddha</p>
+> <p>- Margaret Cousins</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
