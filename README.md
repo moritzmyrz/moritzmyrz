@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Jane Austen</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
