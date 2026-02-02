@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't be afraid to go out on a limb. That's where the fruit is.
+> The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Neil Gaiman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
