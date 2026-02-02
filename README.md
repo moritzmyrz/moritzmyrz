@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology presumes there's just one right way to do things and there never is.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Sun Tzu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
