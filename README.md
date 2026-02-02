@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> It does not matter how slowly you go as long as you do not stop.
 >
-> <p>- Plato</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
