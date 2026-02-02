@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Sun Tzu</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
