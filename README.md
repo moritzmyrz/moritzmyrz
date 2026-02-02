@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> A lie gets halfway around the world before the truth has a chance to get its pants on.
 >
-> <p>- George Eliot</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
