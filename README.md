@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> Remember that failure is an event, not a person.
 >
-> <p>- Epictetus</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
