@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> There is no charm equal to tenderness of heart.
 >
-> <p>- Thomas Edison</p>
+> <p>- Jane Austen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
