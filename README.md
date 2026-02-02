@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Confucius</p>
+> <p>- Shirley MacLaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
