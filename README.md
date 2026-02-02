@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
