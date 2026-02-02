@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change in all things is sweet.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- Aristotle</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
