@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> There's power in looking silly and not caring that you do.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Amy Poehler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
