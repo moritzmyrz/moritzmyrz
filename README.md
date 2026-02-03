@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> Thought is the blossom; language the bud; action the fruit behind it.
 >
-> <p>- Audre Lorde</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
