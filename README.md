@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> You are that vast thing that you see far, far off with great telescopes.
 >
-> <p>- Napoleon</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
