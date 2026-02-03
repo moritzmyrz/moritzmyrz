@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- David Bader</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
