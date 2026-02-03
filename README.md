@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> The greatest remedy for anger is delay.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
