@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Anatole France</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
