@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Maya Angelou</p>
+> <p>- Northrop Frye</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
