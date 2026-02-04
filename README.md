@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Doris Day</p>
+> <p>- Anne Brontë</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
