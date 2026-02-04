@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We lost because we told ourselves we lost.
+> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- George Washington</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
