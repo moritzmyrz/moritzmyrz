@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> Never complain and never explain.
 >
-> <p>- Maya Angelou</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
