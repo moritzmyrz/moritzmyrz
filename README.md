@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Anne Brontë</p>
+> <p>- Elie Wiesel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
