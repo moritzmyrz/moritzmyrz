@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- John Acosta</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
