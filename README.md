@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time is the most valuable thing a man can spend.
+> Nothing will work unless you do.
 >
-> <p>- Theophrastus</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
