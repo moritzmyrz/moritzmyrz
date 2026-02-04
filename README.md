@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> An invasion of armies can be resisted, but not an idea whose time has come.
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Victor Hugo</p>
+> <p>- Christopher Reeve</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
