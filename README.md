@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Robert Louis Stevenson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
