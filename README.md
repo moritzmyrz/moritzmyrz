@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> Wherever you go, go with all your heart.
 >
-> <p>- Michael Korda</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
