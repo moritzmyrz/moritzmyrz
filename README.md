@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Subdue your appetites, my dears, and you've conquered human nature.
+> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
 >
-> <p>- Charles Dickens</p>
+> <p>- William Lyon Phelps</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
