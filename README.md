@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Yogi Berra</p>
+> <p>- Tony Blair</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
