@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Seneca the Younger</p>
+> <p>- John Updike</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
