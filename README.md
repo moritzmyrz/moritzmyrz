@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think somehow, we learn who we really are and then live with that decision.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Herbert Hoover</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
