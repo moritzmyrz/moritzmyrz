@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
+> We are all something, but none of us are everything.
 >
-> <p>- Winston Churchill</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
