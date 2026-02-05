@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom alone is the science of other sciences.
+> Imagination rules the world.
 >
-> <p>- Plato</p>
+> <p>- Napoleon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
