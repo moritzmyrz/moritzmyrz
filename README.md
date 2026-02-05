@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> Subdue your appetites, my dears, and you've conquered human nature.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Charles Dickens</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
