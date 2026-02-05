@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- John Updike</p>
+> <p>- Theodore Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
