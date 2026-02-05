@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
