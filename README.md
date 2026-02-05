@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> It is not fair to ask of others what you are unwilling to do yourself.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
