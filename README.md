@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+> Luck is what happens when preparation meets opportunity.
 >
-> <p>- Tony Blair</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
