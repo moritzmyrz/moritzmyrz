@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> Wisdom alone is the science of other sciences.
 >
-> <p>- Frank Herbert</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
