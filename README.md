@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There's power in looking silly and not caring that you do.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Amy Poehler</p>
+> <p>- Frank Herbert</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
