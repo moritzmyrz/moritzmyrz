@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Paul Cézanne</p>
+> <p>- John Brunner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
