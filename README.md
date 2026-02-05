@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
