@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Mother Teresa</p>
+> <p>- Oprah Winfrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
