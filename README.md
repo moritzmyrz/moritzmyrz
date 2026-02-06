@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Euripides</p>
+> <p>- Tom Krause</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
