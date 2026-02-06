@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Jeff Bezos</p>
+> <p>- Walter Cronkite</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
