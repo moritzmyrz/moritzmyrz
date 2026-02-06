@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> Freedom is the right to live as we wish.
 >
-> <p>- Forrest Church</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
