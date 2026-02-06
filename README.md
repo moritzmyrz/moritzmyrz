@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have knowledge, let others light their candles in it.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- Margaret Fuller</p>
+> <p>- Franklin D. Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
