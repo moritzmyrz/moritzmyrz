@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you reach the end of your rope, tie a knot in it and hang on.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Euripides</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
