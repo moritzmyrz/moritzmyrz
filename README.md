@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Confucius</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
