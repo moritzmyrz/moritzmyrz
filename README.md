@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend to all is a friend to none.
+> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
 >
-> <p>- Aristotle</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
