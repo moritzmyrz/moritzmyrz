@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware lest you lose the substance by grasping at the shadow.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Aesop</p>
+> <p>- Jeff Bezos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
