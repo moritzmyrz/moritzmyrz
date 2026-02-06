@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Dale Earnhardt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
