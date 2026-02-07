@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> You cannot escape the responsibility of tomorrow by evading it today.
+> Most people are about as happy as they make up their minds to be
 >
 > <p>- Abraham Lincoln</p>
 
