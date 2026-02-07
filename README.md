@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
