@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> You must do the things you think you cannot do.
 >
-> <p>- Richard Bach</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
