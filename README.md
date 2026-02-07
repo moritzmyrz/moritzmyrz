@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Victor Hugo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
