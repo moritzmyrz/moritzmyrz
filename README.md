@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
 >
-> <p>- Virginia Woolf</p>
+> <p>- Kahlil Gibran</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
