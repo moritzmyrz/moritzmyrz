@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.
+> Some people go to priests; others to poetry; I to my friends.
 >
-> <p>- Marilyn Monroe</p>
+> <p>- Virginia Woolf</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
