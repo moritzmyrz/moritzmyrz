@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Jim Rohn</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
