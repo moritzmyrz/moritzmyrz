@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Alan Watts</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
