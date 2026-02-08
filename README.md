@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
+> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
 >
-> <p>- Peter Abelard</p>
+> <p>- Dwight D. Eisenhower</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
