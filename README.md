@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ignorance and bungling with love are better than wisdom and skill without.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
