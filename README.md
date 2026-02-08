@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I cannot always control what goes on outside. But I can always control what goes on inside.
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Penn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
