@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Margaret Laurence</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
