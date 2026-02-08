@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
