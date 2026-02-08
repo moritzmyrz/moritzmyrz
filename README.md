@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
