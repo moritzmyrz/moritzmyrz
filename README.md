@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Peter Abelard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
