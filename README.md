@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
