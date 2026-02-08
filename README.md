@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
