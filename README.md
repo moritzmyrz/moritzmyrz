@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
