@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
 >
 > <p>- Ralph Waldo Emerson</p>
 
