@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To choose what is difficult all one's days, as if it were easy, that is faith.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- W. H. Auden</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
