@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more man meditates upon good thoughts, the better will be his world and the world at large.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Confucius</p>
+> <p>- Edmond Rostand</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
