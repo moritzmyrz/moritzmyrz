@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Ideas pull the trigger, but instinct loads the gun.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Don Marquis</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
