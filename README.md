@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you are out to describe the truth, leave elegance to the tailor.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Albert Einstein</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
