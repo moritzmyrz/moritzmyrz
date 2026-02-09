@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> If you can dream it, you can do it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
