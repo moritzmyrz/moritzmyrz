@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> Ideas pull the trigger, but instinct loads the gun.
 >
-> <p>- Lin Yutang</p>
+> <p>- Don Marquis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
