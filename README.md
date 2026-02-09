@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
