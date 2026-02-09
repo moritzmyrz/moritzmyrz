@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> Light tomorrow with today!
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Elizabeth Browning</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
