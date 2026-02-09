@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> Wherever a man turns he can find someone who needs him.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Albert Schweitzer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
