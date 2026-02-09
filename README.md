@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
