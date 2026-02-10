@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Euripides</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
