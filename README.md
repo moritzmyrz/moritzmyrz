@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> Don't look back. Something might be gaining on you.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
