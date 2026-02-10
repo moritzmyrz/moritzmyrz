@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Don't look back. Something might be gaining on you.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
-> <p>- Satchel Paige</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
