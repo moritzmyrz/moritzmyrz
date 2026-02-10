@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My friends are my estate.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Emily Dickinson</p>
+> <p>- John Locke</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
