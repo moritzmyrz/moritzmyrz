@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Steven Van Zandt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
