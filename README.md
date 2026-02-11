@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
+> Good judgment comes from experience, and a lot of that comes from bad judgment.
 >
-> <p>- Harvey Mackay</p>
+> <p>- Will Rogers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
