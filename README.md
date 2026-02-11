@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not so important to know everything as to appreciate what we learn.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- Hannah More</p>
+> <p>- Anaïs Nin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
