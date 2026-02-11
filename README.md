@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- Albert Einstein</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
