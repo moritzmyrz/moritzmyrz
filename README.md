@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things that were hard to bear are sweet to remember.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Seneca the Younger</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
