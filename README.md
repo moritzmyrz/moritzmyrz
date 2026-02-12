@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things do not happen. Things are made to happen.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
