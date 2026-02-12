@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> Patience is the companion of wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Augustine of Hippo</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
