@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest gift of life is friendship, and I have received it.
+> Anticipate the difficult by managing the easy.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
