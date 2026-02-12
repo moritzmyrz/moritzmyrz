@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change is the law of life. And those who look only to the past or present are certain to miss the future.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
