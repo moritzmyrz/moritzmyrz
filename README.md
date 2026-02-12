@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never mistake motion for action.
+> No man has a good enough memory to be a successful liar.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
