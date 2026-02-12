@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Hubert Humphrey</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
