@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Chanakya</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
