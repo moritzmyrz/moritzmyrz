@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+> Fortune befriends the bold.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Dryden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
