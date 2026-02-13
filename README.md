@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Phil Jackson</p>
+> <p>- Gail Sheehy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
