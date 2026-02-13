@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
+> You cannot step twice into the same river, for other waters are continually flowing in.
 >
-> <p>- George Eliot</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
