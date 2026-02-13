@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Chanakya</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
