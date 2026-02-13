@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- Laozi</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
