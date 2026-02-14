@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> It is with our passions, as it is with fire and water, they are good servants but bad masters.
 >
-> <p>- Carol Burnett</p>
+> <p>- Aesop</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
