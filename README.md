@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Carol Burnett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
