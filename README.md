@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is with our passions, as it is with fire and water, they are good servants but bad masters.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- Aesop</p>
+> <p>- Mahatma Gandhi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
