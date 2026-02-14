@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
 >
-> <p>- Marcia Fudge</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
