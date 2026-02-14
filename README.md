@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
 >
-> <p>- Richard Garriott</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
