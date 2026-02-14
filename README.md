@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- George Washington</p>
+> <p>- Sai Baba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
