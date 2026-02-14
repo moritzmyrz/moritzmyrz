@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fortune befriends the bold.
+> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
 >
-> <p>- John Dryden</p>
+> <p>- Blaise Pascal</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
