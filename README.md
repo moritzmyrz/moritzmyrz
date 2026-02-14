@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
+> You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
 >
-> <p>- Alan Watts</p>
+> <p>- Laurence J. Peter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
