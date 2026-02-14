@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> The only way to have a friend is to be one.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
