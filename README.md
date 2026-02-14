@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Douglas Adams</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
