@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- The Buddha</p>
+> <p>- Richard Garriott</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
