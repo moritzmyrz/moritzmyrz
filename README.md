@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Bill Bradley</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
