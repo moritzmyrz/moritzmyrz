@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Bruce Lee</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
