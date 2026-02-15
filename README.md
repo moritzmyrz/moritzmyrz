@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I think and that is all that I am.
+> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
