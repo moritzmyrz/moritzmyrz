@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Alan Watts</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
