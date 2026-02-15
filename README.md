@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
