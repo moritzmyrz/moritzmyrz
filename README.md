@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Woody Allen</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
