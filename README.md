@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Mother Teresa</p>
+> <p>- Mortimer J. Adler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
