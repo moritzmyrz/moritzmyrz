@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- The Buddha</p>
+> <p>- Marie Curie</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
