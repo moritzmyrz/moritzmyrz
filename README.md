@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> Love is a serious mental disease.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
