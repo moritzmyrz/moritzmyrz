@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> Technology made large populations possible; large populations now make technology indispensable.
 >
-> <p>- Walt Disney</p>
+> <p>- Joseph Wood Krutch</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
