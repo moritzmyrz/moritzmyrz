@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> What other people may find in poetry or art museums, I find in the flight of a good drive.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Arnold Palmer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
