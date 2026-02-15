@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- Marie Curie</p>
+> <p>- Laurie Anderson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
