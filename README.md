@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> To know oneself is to study oneself in action with another person.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
