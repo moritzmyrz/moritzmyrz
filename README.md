@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Resolutely train yourself to attain peace.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- The Buddha</p>
+> <p>- Tom Lehrer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
