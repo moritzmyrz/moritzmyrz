@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Ovid</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
