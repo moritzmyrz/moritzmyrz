@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Pericles</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
