@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Casey Stengel</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
