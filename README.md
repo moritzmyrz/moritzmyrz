@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Laozi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
