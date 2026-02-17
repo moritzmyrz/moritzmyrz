@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> History will be kind to me for I intend to write it.
 >
-> <p>- Ovid</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
