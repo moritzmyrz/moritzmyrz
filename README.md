@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
