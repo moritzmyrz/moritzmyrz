@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
 >
-> <p>- Herodotus</p>
+> <p>- Seneca the Younger</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
