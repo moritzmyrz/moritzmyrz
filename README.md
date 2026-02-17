@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas à Kempis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
