@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
