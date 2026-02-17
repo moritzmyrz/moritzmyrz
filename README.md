@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> If you only have a hammer, you tend to see every problem as a nail.
 >
-> <p>- Bob Knight</p>
+> <p>- Abraham Maslow</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
