@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> History will be kind to me for I intend to write it.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Winston Churchill</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
