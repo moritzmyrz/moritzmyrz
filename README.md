@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
