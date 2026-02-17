@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
