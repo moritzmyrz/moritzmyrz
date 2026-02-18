@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Louis Pasteur</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
