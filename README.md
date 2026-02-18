@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I gave my life to become the person I am right now. Was it worth it?
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
 >
-> <p>- Richard Bach</p>
+> <p>- Wolfgang Amadeus Mozart</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
