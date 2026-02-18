@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
+> To be wronged is nothing unless you continue to remember it.
 >
-> <p>- Paul Theroux</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
