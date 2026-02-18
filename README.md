@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
