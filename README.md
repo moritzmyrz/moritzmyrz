@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> I gave my life to become the person I am right now. Was it worth it?
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
