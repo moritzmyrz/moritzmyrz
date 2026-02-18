@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing.
+> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
 >
-> <p>- The Buddha</p>
+> <p>- J. Paul Getty</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
