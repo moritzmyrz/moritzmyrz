@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
 >
-> <p>- Sidney Hook</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
