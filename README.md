@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> We may encounter many defeats, but we must not be defeated.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
