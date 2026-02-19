@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Accept the challenges so that you can feel the exhilaration of victory.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- George S. Patton</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
