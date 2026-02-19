@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Maxim for life: You get treated in life the way you teach people to treat you.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
