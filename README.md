@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
