@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
