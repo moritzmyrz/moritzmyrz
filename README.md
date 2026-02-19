@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Accept the challenges so that you can feel the exhilaration of victory.
 >
-> <p>- Laozi</p>
+> <p>- George S. Patton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
