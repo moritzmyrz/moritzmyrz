@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
+> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
 >
-> <p>- Carlos Castaneda</p>
+> <p>- Parker Palmer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
