@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> Don't look back. Something might be gaining on you.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Satchel Paige</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
