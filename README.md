@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Vernor Vinge</p>
+> <p>- John Lasseter</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
