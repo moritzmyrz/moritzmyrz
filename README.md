@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Henry Ward Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
