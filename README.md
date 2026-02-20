@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- The Buddha</p>
+> <p>- Henry K. Beecher</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
