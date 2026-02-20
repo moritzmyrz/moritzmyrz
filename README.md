@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>- Man Ray</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
