@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Paul Tillich</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
