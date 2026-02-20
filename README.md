@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> You are the only person on earth who can use your ability.
 >
-> <p>- Aristotle</p>
+> <p>- Zig Ziglar</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
