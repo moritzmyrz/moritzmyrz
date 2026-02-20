@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to prove that you're a good sport is to lose.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Ernie Banks</p>
+> <p>- Man Ray</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
