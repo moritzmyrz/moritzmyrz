@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
