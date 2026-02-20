@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Charles Du Bos</p>
+> <p>- Bruce Lee</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
