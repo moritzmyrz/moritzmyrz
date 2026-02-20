@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Those that know, do. Those that understand, teach.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Aristotle</p>
+> <p>- Thomas Carlyle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
