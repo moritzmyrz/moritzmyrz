@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Henri Bergson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
