@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you can't explain it simply, you don't understand it well enough.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Albert Einstein</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
