@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> The only time to buy these is on a day with no 'y' in it.
 >
-> <p>- Marcel Proust</p>
+> <p>- Warren Buffett</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
