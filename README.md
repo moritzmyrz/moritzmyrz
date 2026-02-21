@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
