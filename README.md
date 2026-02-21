@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Alan Watts</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
