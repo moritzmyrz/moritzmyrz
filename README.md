@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> We can do no great things, only small things with great love.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
