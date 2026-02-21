@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Marcel Proust</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
