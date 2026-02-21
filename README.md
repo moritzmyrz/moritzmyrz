@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Albert Einstein</p>
+> <p>- Marsha Petrie Sue</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
