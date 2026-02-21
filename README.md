@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Purity and impurity depend on oneself; no one can purify another.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- The Buddha</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
