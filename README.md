@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> To succeed, we must first believe that we can.
 >
-> <p>- Maya Angelou</p>
+> <p>- Michael Korda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
