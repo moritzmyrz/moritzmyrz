@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> Smile, breathe and go slowly.
 >
-> <p>- Elon Musk</p>
+> <p>- Thích Nhất Hạnh</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
