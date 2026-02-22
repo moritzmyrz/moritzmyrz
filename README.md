@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> If you aren't going all the way, why go at all?
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Joe Namath</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
