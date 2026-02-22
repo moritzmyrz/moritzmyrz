@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Vernon Cooper</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
