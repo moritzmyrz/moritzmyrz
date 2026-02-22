@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> The way you see people is the way you treat them, and the way you treat them is what they become.
 >
-> <p>- Doug Horton</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
