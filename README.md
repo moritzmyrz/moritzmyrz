@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> In order to succeed, we must first believe that we can.
+> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
