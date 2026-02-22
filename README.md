@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you aren't going all the way, why go at all?
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Joe Namath</p>
+> <p>- Christopher Morley</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
