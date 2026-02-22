@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Mother Teresa</p>
+> <p>- Doug Horton</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
