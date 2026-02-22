@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> In order to succeed, we must first believe that we can.
 >
-> <p>- Woody Allen</p>
+> <p>- Nikos Kazantzakis</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
