@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- Christopher Morley</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
