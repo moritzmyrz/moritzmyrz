@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> The only Zen you find on the tops of mountains is the Zen you bring up there.
 >
-> <p>- Michael Korda</p>
+> <p>- Robert M. Pirsig</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
