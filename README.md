@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> Honesty is the best policy.
 >
-> <p>- Jack Buck</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
