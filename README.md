@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> You teach best what you most need to learn.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Richard Bach</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
