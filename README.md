@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are people who have money and people who are rich.
+> The only true wisdom is in knowing you know nothing.
 >
-> <p>- Coco Chanel</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
