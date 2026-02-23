@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Alexandre Dumas</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
