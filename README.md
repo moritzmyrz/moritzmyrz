@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Many men go fishing all of their lives without knowing that it is not fish they are after.
+> There are people who have money and people who are rich.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Coco Chanel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
