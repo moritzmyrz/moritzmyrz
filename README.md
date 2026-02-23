@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
 >
-> <p>- Betty Friedan</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
