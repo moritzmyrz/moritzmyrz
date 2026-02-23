@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.
 >
-> <p>- John Dewey</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
