@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
