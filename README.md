@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There are no strangers here; Only friends you haven't yet met.
+> What you do not want done to yourself, do not do to others.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Confucius</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
