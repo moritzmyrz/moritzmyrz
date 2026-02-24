@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> Nothing ever goes away until it has taught us what we need to know.
 >
-> <p>- Henry Reed</p>
+> <p>- Pema Chödrön</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
