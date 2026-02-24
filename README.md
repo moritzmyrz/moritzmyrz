@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- J. Paul Getty</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
