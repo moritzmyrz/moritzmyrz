@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
+> Having nothing, nothing can he lose.
 >
-> <p>- Epictetus</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
