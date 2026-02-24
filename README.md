@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> But man is not made for defeat. A man can be destroyed but not defeated.
+> We have two ears and one mouth so that we can listen twice as much as we speak.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
