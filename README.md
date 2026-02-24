@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fall of dropping water wears away the Stone.
+> Whoever is happy will make others happy, too.
 >
-> <p>- Lucretius</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
