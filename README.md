@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Never accept ultimatums, conventional wisdom, or absolutes.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Thomas Edison</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
