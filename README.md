@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- William Shakespeare</p>
+> <p>- Henry Reed</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
