@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Epictetus</p>
+> <p>- Ella Fitzgerald</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
