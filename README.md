@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Naguib Mahfouz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
