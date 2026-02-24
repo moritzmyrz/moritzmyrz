@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
 >
-> <p>- Jane Addams</p>
+> <p>- J. Paul Getty</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
