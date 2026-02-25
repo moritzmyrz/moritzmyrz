@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
