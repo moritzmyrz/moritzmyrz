@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Jean Cocteau</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
