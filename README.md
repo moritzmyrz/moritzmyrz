@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- Mother Teresa</p>
+> <p>- Jean Cocteau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
