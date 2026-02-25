@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's only when the tide goes out that you discover who's been swimming naked.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Warren Buffett</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
