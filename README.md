@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> A goal is a dream with a deadline.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Napoleon Hill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
