@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 >
-> <p>- Dalai Lama</p>
+> <p>- Elisabeth Kübler-Ross</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
