@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful it is that nobody need wait a single moment before starting to improve the world.
+> A short saying often contains much wisdom.
 >
-> <p>- Anne Frank</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
