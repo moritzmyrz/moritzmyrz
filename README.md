@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is nothing impossible to him who will try.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Alexander the Great</p>
+> <p>- Anne Frank</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
