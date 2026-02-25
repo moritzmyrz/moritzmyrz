@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A goal is a dream with a deadline.
+> Speak low, if you speak love.
 >
-> <p>- Napoleon Hill</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
