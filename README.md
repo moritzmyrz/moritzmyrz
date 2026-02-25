@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> Peace begins with a smile.
 >
-> <p>- Epictetus</p>
+> <p>- Mother Teresa</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
