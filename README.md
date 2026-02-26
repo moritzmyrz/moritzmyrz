@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Error is discipline through which we advance.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- William Ellery Channing</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
