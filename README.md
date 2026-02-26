@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
 >
-> <p>- Lord Byron</p>
+> <p>- Peter Drucker</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
