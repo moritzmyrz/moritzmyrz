@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> What is not started today is never finished tomorrow.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
