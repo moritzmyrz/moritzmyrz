@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+> The man of knowledge must be able not only to love his enemies but also to hate his friends.
 >
-> <p>- Elie Wiesel</p>
+> <p>- Friedrich Nietzsche</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
