@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> What is not started today is never finished tomorrow.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
