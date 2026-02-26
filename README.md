@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Lewis Cass</p>
+> <p>- Franz Kafka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
