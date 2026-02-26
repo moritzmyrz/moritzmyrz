@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Fine words and an insinuating appearance are seldom associated with true virtue
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Confucius</p>
+> <p>- Lord Byron</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
