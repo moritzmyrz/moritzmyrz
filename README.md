@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> I never think of the future - it comes soon enough.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
