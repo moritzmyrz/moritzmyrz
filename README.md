@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Lewis Cass</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
