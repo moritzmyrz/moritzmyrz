@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
 >
-> <p>- Voltaire</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
