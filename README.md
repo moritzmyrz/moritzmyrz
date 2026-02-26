@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Vanity can easily overtake wisdom. It usually overtakes common sense.
+> You are that vast thing that you see far, far off with great telescopes.
 >
-> <p>- Julian Casablancas</p>
+> <p>- Alan Watts</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
