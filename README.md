@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I never think of the future - it comes soon enough.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ezra Stiles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
