@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Albert Einstein</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
