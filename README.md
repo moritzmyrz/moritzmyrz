@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Epictetus</p>
+> <p>- Carl Jung</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
