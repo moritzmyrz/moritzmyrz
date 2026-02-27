@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Woody Allen</p>
+> <p>- Franz Kafka</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
