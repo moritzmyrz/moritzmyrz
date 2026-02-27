@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Jim Rohn</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
