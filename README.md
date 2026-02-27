@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- The Buddha</p>
+> <p>- Niels Bohr</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
