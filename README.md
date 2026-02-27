@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Kindness is the golden chain by which society is bound together.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Eleanor Roosevelt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
