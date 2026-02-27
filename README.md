@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- James Freeman Clarke</p>
+> <p>- Hugh Miller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
