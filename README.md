@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Jim Rohn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
