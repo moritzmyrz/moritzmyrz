@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> The universe is made of stories, not atoms.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Muriel Rukeyser</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
