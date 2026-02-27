@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
