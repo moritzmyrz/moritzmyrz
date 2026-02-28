@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
+> To profit from good advice requires more wisdom than to give it.
 >
-> <p>- Katherine Mansfield</p>
+> <p>- Wilson Mizner</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
