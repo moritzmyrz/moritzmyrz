@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> A goal without a plan is just a wish.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Larry Elder</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
