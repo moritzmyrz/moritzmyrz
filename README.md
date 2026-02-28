@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> There never was a good knife made of bad steel.
 >
-> <p>- William Shakespeare</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
