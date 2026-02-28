@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> Blessed are the hearts that can bend; they shall never be broken.
 >
-> <p>- Niels Bohr</p>
+> <p>- Albert Camus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
