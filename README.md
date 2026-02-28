@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To choose what is difficult all one's days, as if it were easy, that is faith.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- W. H. Auden</p>
+> <p>- Akhenaten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
