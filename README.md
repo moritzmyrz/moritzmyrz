@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- Yogi Berra</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
