@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Albert Camus</p>
+> <p>- Nelson Mandela</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
