@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Having nothing, nothing can he lose.
 >
-> <p>- Wayne Dyer</p>
+> <p>- William Shakespeare</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
