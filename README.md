@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Rudolf Arnheim</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
