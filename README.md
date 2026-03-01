@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> You win the victory when you yield to friends.
 >
-> <p>- William Shakespeare</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
