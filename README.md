@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> He who can curb his wrath as soon as it arises, as a timely antidote will check snake's venom that so quickly spreads, — such a monk gives up the here and the beyond, just as a serpent sheds its worn-out skin.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- The Buddha</p>
+> <p>- Sophocles</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
