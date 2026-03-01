@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> No alibi will save you from accepting the responsibility.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Plato</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
