@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> The only way to prove that you're a good sport is to lose.
 >
-> <p>- Plato</p>
+> <p>- Ernie Banks</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
