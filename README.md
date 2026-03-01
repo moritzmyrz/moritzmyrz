@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> Our intention creates our reality.
 >
-> <p>- William Inge</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
