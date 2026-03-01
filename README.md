@@ -1,6 +1,6 @@
 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> A prudent question is one half of wisdom.
 >
 > <p>- Francis Bacon</p>
 
