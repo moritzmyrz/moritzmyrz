@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Life is divided into the horrible and the miserable.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
