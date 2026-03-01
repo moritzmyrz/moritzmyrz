@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Sigmund Freud</p>
+> <p>- W. H. Auden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
