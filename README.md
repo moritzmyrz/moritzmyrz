@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> He who can curb his wrath as soon as it arises, as a timely antidote will check snake's venom that so quickly spreads, — such a monk gives up the here and the beyond, just as a serpent sheds its worn-out skin.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
