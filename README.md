@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> Only put off until tomorrow what you are willing to die having left undone.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
