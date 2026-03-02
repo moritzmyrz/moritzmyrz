@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fewer rules a coach has, the fewer rules there are for players to break.
+> Life is like riding a bicycle. To keep your balance you must keep moving.
 >
-> <p>- John Madden</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
