@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is not so important to know everything as to appreciate what we learn.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- Hannah More</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
