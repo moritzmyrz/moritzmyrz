@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Babe Ruth</p>
+> <p>- John Madden</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
