@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is only when the mind and character slumber that the dress can be seen.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Arthur Rubinstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
