@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Desmond Tutu</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
