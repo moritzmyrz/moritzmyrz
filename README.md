@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Douglas Adams</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
