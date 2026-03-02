@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't believe in failure. It's not failure if you enjoyed the process.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Helen Keller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
