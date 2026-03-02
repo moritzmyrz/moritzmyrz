@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Babe Ruth</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
