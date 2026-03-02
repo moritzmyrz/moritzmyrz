@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
