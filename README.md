@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greatest obstacle to connecting with our joy is resentment.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Hannah More</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
