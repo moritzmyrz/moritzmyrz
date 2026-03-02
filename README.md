@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Socrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
