@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Colin Powell</p>
+> <p>- Anatole France</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
