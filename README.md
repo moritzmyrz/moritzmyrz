@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Morihei Ueshiba</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
