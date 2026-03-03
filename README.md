@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 >
-> <p>- Napoleon</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
