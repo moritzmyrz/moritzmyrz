@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> It is impossible to love and to be wise.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Francis Bacon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
