@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> The most certain sign of wisdom is cheerfulness.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Michel de Montaigne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
