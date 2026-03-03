@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
 >
-> <p>- Wayne Dyer</p>
+> <p>- John Lennon</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
