@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
