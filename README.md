@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
+> Skill to do comes of doing.
 >
-> <p>- Morihei Ueshiba</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
