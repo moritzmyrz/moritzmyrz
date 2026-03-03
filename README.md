@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> There's power in looking silly and not caring that you do.
 >
-> <p>- Colin Powell</p>
+> <p>- Amy Poehler</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
