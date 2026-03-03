@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
 >
-> <p>- Anatole France</p>
+> <p>- Susan Orlean</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
