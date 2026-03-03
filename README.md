@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There's power in looking silly and not caring that you do.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Amy Poehler</p>
+> <p>- Dr. Seuss</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
