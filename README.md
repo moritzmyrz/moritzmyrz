@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Napoleon</p>
+> <p>- Colin Powell</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
