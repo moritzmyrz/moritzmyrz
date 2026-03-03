@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Respect should be earned by actions, and not acquired by years.
 >
-> <p>- William Hazlitt</p>
+> <p>- Frank Lloyd Wright</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
