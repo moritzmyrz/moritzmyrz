@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> See the positive side, the potential, and make an effort.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
