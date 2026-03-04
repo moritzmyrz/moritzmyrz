@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Dalai Lama</p>
+> <p>- Samuel Johnson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
