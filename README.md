@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Benjamin Franklin</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
