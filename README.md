@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Dalai Lama</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
