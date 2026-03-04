@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> One that desires to excel should endeavor in those things that are in themselves most excellent.
 >
-> <p>- Harry Kemp</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
