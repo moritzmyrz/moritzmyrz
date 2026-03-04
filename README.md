@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Woody Allen</p>
+> <p>- Harold Nicolson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
