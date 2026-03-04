@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Harry Kemp</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
