@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> See the positive side, the potential, and make an effort.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>- Dalai Lama</p>
+> <p>- Isocrates</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
