@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Henry Ford</p>
+> <p>- Henry James</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
