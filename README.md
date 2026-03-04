@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- John C. Maxwell</p>
+> <p>- John F. Kennedy</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
