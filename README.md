@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> Trust your hunches. They're usually based on facts filed away just below the conscious level.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Joyce Brothers</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
