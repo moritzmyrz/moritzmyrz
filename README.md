@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Isocrates</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
