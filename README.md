@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
