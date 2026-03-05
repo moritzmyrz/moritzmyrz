@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Albert Einstein</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
