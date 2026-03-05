@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+> Life is 10% what happens to you and 90% how you react to it.
 >
-> <p>- Henry James</p>
+> <p>- Chuck Swindoll</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
