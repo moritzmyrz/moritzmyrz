@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Margaret Laurence</p>
+> <p>- Betty Friedan</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
