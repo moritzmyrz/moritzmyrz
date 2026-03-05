@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The person born with a talent they are meant to use will find their greatest happiness in using it.
+> Do all things with love.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Og Mandino</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
