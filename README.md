@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
