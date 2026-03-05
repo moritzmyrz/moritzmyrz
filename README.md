@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is 10% what happens to you and 90% how you react to it.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Pablo Picasso</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
