@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
 >
-> <p>- Lou Holtz</p>
+> <p>- Margaret Laurence</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
