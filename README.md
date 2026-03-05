@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Do all things with love.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Og Mandino</p>
+> <p>- Lou Holtz</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
