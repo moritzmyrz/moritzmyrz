@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.
+> All is flux; nothing stays still.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Heraclitus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
