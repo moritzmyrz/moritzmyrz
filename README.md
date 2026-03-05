@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The fewer rules a coach has, the fewer rules there are for players to break.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- John Madden</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
