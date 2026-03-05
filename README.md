@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 >
-> <p>- Anne Bradstreet</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
