@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Clay Shirky</p>
+> <p>- Anne Bradstreet</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
