@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is easier to live through someone else than to become complete yourself.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Betty Friedan</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
