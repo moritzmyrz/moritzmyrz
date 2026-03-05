@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
+> Communications tools don't get socially interesting until they get technologically boring.
 >
-> <p>- Michelangelo</p>
+> <p>- Clay Shirky</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
