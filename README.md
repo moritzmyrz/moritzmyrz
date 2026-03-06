@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Maya Angelou</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
