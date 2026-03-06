@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- William Penn</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
