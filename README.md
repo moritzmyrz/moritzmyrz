@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Maya Angelou</p>
+> <p>- Maureen Dowd</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
