@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- Henry Reed</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
