@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Paramahansa Yogananda</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
