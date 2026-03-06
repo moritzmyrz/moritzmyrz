@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
