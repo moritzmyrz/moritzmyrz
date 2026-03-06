@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Beware of false knowledge; it is more dangerous than ignorance.
+> The language of friendship is not words but meanings.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
