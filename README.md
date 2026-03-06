@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Tony Robbins</p>
+> <p>- Mark Twain</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
