@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Warren Buffett</p>
+> <p>- Jerome</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
