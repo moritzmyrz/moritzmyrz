@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> True friendship ought never to conceal what it thinks.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Jerome</p>
+> <p>- Wayne Dyer</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
