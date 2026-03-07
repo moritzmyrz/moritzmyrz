@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
 >
-> <p>- Steven Van Zandt</p>
+> <p>- Oscar Wilde</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
