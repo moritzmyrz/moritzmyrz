@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> Creativity comes from trust. Trust your instincts. And never hope more than you work.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Rita Mae Brown</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
