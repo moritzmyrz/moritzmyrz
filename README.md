@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
 >
-> <p>- Washington Irving</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
