@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.
 >
-> <p>- John Pierrakos</p>
+> <p>- Aristotle</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
