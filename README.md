@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Carl Jung</p>
+> <p>- John Pierrakos</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
