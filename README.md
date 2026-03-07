@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Washington Irving</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
