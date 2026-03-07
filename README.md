@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A rolling stone gathers no moss.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Henry David Thoreau</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
