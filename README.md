@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> You won't skid if you stay in a rut.
 >
-> <p>- Albert Einstein</p>
+> <p>- Kin Hubbard</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
