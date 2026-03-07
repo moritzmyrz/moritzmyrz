@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By failing to prepare, you are preparing to fail.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Benjamin Disraeli</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
