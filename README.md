@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
