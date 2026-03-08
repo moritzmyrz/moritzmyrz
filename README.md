@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Walt Disney</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
