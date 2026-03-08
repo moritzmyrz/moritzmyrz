@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+> A friend may well be reckoned the masterpiece of nature.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
