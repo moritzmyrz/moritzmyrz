@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
 >
-> <p>- John Brunner</p>
+> <p>- Epictetus</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
