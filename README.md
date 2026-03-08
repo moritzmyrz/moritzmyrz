@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> If you have one true friend, you have more than your share.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thomas Fuller</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
