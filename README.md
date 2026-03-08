@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> If you're going through hell, keep going.
 >
-> <p>- Walt Disney</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
