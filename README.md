@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- John Lennon</p>
+> <p>- Rabindranath Tagore</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
