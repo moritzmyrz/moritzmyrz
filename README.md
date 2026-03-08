@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Jean de La Fontaine</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
