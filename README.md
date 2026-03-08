@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
