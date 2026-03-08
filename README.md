@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>- Walt Disney</p>
+> <p>- Albert Einstein</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
