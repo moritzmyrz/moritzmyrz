@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Love doesn't make the world go round; love is what makes the ride worthwhile.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
