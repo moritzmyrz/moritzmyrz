@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- John Steinbeck</p>
+> <p>- Charles W. Chesnutt</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
