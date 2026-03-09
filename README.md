@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
+> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
 >
-> <p>- Plato</p>
+> <p>- John Steinbeck</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
