@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Napoleon</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
