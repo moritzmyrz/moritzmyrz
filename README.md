@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Woody Allen</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
