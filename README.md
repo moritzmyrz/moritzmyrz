@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Epictetus</p>
+> <p>- Robert Frost</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
