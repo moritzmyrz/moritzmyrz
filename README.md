@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
+> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Akhenaten</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
