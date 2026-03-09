@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- Pat Riley</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
