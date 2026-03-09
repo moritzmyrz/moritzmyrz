@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
 >
-> <p>- Maya Angelou</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
