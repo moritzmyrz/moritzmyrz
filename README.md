@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Meetings are indispensable when you don't want to do anything.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- John Kenneth Galbraith</p>
+> <p>- Muhammad Ali</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
