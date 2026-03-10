@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Half the lies they tell about me aren't true.
+> Begin, be bold, and venture to be wise.
 >
-> <p>- Yogi Berra</p>
+> <p>- Horace</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
