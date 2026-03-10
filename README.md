@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Begin, be bold, and venture to be wise.
+> To see things in the seed, that is genius.
 >
-> <p>- Horace</p>
+> <p>- Laozi</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
