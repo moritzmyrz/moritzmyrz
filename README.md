@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> There is no great genius without some touch of madness.
+> Half the lies they tell about me aren't true.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Yogi Berra</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
