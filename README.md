@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The amount of happiness that you have depends on the amount of freedom you have in your heart.
+> A friend is what the heart needs all the time.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Henry van Dyke Jr.</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
