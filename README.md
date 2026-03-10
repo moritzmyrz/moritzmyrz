@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
 >
-> <p>- John Lennon</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
