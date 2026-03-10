@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
+> Always be smarter than the people who hire you.
 >
-> <p>- Jim Bouton</p>
+> <p>- Lena Horne</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
