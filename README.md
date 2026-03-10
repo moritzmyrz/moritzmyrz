@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
 >
-> <p>- Albert Einstein</p>
+> <p>- Abraham Lincoln</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
