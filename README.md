@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Anatole France</p>
+> <p>- George Foreman</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
