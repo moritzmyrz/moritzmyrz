@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Sun Tzu</p>
+> <p>- Winston Churchill</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
