@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Ralph Waldo Emerson</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
