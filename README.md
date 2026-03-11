@@ -1,14 +1,14 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2qr1rk1%2F5p1p%2Fp7%2F1p1R1p1P%2F4pPn1%2F2B5%2FPP2Q1P1%2F3R3K%20w%20-%20-%209%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2bq3r%2F1p2n3%2F3Bpk1p%2F1P1p3Q%2F2pP3p%2F2P5%2F2P2P1P%2F5RK1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
 - Position: `White to move`
-- Puzzle: [JpKVp](https://lichess.org/training/JpKVp)
-- Rating: `1523`
-- Themes: `mateIn2, middlegame, short, sacrifice, kingsideAttack, pillsburysMate`
-- Players: `flamendless (2012)` vs `peteralunan (2102)`
-- Time control: `30+0`
-- Game: [View game](https://lichess.org/KfX9GukI)
-- First solution move: `e2g4`
+- Puzzle: [XlHZT](https://lichess.org/training/XlHZT)
+- Rating: `1536`
+- Themes: `oneMove, mateIn1, master, middlegame`
+- Players: `CatsSoup (2506)` vs `imdejong (2508)`
+- Time control: `3+0`
+- Game: [View game](https://lichess.org/D0Ca7Mue)
+- First solution move: `d6e5`
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
