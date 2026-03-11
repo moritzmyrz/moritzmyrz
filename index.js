@@ -63,6 +63,7 @@ function getPuzzlePosition(gamePgn, initialPly, firstMove) {
 
 	return {
 		fen: board.fen(),
+		turn: board.turn() === 'w' ? 'white' : 'black',
 		turnLabel: board.turn() === 'w' ? 'White to move' : 'Black to move',
 	};
 }
@@ -105,8 +106,9 @@ async function main() {
 			: 'N/A';
 	const timeControl = game.clock || 'N/A';
 	const puzzlePosition = getPuzzlePosition(game.pgn, puzzle.initialPly, firstMove);
+	const boardOrientation = puzzlePosition?.turn || 'white';
 	const boardImageUrl = puzzlePosition?.fen
-		? `https://lichess1.org/export/fen.gif?fen=${encodeURIComponent(puzzlePosition.fen)}`
+		? `https://lichess1.org/export/fen.gif?fen=${encodeURIComponent(puzzlePosition.fen)}&color=${boardOrientation}`
 		: '';
 	const sideToMove = puzzlePosition?.turnLabel || 'Side to move unavailable';
 

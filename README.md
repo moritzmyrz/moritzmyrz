@@ -1,14 +1,14 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1ppp1ppp%2Fp7%2F2q1bQN1%2F2Bp4%2FN7%2FPPP3PP%2FR3R1K1%20b%20-%20-%200%2015" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4R3%2Fr4k2%2Fp5p1%2F1p1p1p2%2F1PpP1q1p%2F2P2P1P%2FP3Q1K1%2F8%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-- Position: `Black to move`
-- Puzzle: [X5QBk](https://lichess.org/training/X5QBk)
-- Rating: `1594`
-- Themes: `middlegame, short, crushing, kingsideAttack, discoveredAttack`
-- Players: `Khozam (1891)` vs `Chessian (1836)`
+- Position: `White to move`
+- Puzzle: [mATxj](https://lichess.org/training/mATxj)
+- Rating: `1589`
+- Themes: `endgame, long, mateIn3, triangleMate`
+- Players: `EDPicon (1823)` vs `apillai (1818)`
 - Time control: `10+0`
-- Game: [View game](https://lichess.org/xZlNXWdo)
-- First solution move: `e5h2`
+- Game: [View game](https://lichess.org/WnsxMY1T)
+- First solution move: `e2e6`
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
