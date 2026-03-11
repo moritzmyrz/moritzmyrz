@@ -1,7 +1,7 @@
 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- The Buddha</p>
 
 Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
