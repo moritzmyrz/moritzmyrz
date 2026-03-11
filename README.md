@@ -1,14 +1,14 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2Fr4k2%2Fp5p1%2F1p1p1p2%2F1PpP1q1p%2F2P2P1P%2FP3Q1K1%2F8%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fp3n1p1%2F1p3q1p%2F2p4Q%2F7N%2F7P%2FP5P1%2F4R1K1%20w%20-%20-%202%2034&color=white" alt="Lichess puzzle board" width="360" />
 
 - Position: `White to move`
-- Puzzle: [mATxj](https://lichess.org/training/mATxj)
-- Rating: `1589`
-- Themes: `endgame, long, mateIn3, triangleMate`
-- Players: `EDPicon (1823)` vs `apillai (1818)`
-- Time control: `10+0`
-- Game: [View game](https://lichess.org/WnsxMY1T)
-- First solution move: `e2e6`
+- Puzzle: [16mBo](https://lichess.org/training/16mBo)
+- Rating: `1491`
+- Themes: `defensiveMove, advantage, short, endgame`
+- Players: `Botivmesk (1902)` vs `Uranium265CP (1963)`
+- Time control: `5+30`
+- Game: [View game](https://lichess.org/AjXh4mmr)
+- First solution move: `e1e7`
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
