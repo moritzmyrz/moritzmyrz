@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F7p%2F3p2p1%2F1p3p2%2F3Nq3%2F6QP%2Fr1n3P1%2F3R2K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F7p%2F8%2F5P1P%2F2RK2P1%2F8%2F6r1%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AIwSh](https://lichess.org/training/AIwSh), rated `1579`.
-The game is `vengador5 (1844)` vs `Daniil_Monakhov (1771)` at `3+15` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/2ioq7bXL),
-and the first solution move is `g3b3`.
+It is `Black to move` in puzzle [YSwIS](https://lichess.org/training/YSwIS), rated `1454`.
+The game is `Fedor_0904 (1932)` vs `AndresMaag (1916)` at `10+0` time control,
+with themes `exposedKing, endgame, crushing, rookEndgame, long, defensiveMove`. You can [view the full game](https://lichess.org/VT4zmybR),
+and the first solution move is `g1g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
