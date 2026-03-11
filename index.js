@@ -3,7 +3,7 @@ const { Chess } = require('chess.js');
 const { promises: fs } = require('fs');
 const path = require('path');
 
-function getPuzzlePosition(gamePgn, initialPly) {
+function getBoardAtPly(gamePgn, plyCount) {
 	if (!gamePgn) {
 		return null;
 	}
@@ -11,12 +11,54 @@ function getPuzzlePosition(gamePgn, initialPly) {
 	const game = new Chess();
 	game.loadPgn(gamePgn);
 	const history = game.history();
-	const ply = Number.isInteger(initialPly) ? initialPly : Number(initialPly) || 0;
-	const boundedPly = Math.min(Math.max(ply, 0), history.length);
+	const boundedPly = Math.min(Math.max(plyCount, 0), history.length);
 
 	const board = new Chess();
 	for (let index = 0; index < boundedPly; index += 1) {
 		board.move(history[index]);
+	}
+
+	return board;
+}
+
+function parseUciMove(uciMove) {
+	if (!uciMove || uciMove.length < 4) {
+		return null;
+	}
+
+	return {
+		from: uciMove.slice(0, 2),
+		to: uciMove.slice(2, 4),
+		promotion: uciMove.length > 4 ? uciMove.slice(4, 5) : undefined,
+	};
+}
+
+function isUciLegal(board, uciMove) {
+	const parsedMove = parseUciMove(uciMove);
+	if (!parsedMove) {
+		return false;
+	}
+
+	const testBoard = new Chess(board.fen());
+	try {
+		const result = testBoard.move(parsedMove);
+		return Boolean(result);
+	} catch (error) {
+		return false;
+	}
+}
+
+function getPuzzlePosition(gamePgn, initialPly, firstMove) {
+	const ply = Number.isInteger(initialPly) ? initialPly : Number(initialPly) || 0;
+	const candidatePlies = [ply, ply + 1];
+	const candidateBoards = candidatePlies
+		.map((candidatePly) => getBoardAtPly(gamePgn, candidatePly))
+		.filter(Boolean);
+
+	const matchedBoard = candidateBoards.find((board) => isUciLegal(board, firstMove));
+	const board = matchedBoard || candidateBoards[candidateBoards.length - 1];
+	if (!board) {
+		return null;
 	}
 
 	return {
@@ -62,7 +104,7 @@ async function main() {
 			? puzzle.solution[0]
 			: 'N/A';
 	const timeControl = game.clock || 'N/A';
-	const puzzlePosition = getPuzzlePosition(game.pgn, puzzle.initialPly);
+	const puzzlePosition = getPuzzlePosition(game.pgn, puzzle.initialPly, firstMove);
 	const boardImageUrl = puzzlePosition?.fen
 		? `https://lichess1.org/export/fen.gif?fen=${encodeURIComponent(puzzlePosition.fen)}`
 		: '';

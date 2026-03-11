@@ -1,14 +1,14 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3n4%2F8%2F5K2%2F1k2R1P1%2Fr7%2F8%2F8%2F8%20b%20-%20-%202%2063" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1ppp1ppp%2Fp7%2F2q1bQN1%2F2Bp4%2FN7%2FPPP3PP%2FR3R1K1%20b%20-%20-%200%2015" alt="Lichess puzzle board" width="360" />
 
 - Position: `Black to move`
-- Puzzle: [evPcz](https://lichess.org/training/evPcz)
-- Rating: `1292`
-- Themes: `long, crushing, endgame`
-- Players: `Georg7488 (1503)` vs `Kamranlodhi (1536)`
-- Time control: `10+5`
-- Game: [View game](https://lichess.org/kVXNAPzj)
-- First solution move: `e5e4`
+- Puzzle: [X5QBk](https://lichess.org/training/X5QBk)
+- Rating: `1594`
+- Themes: `middlegame, short, crushing, kingsideAttack, discoveredAttack`
+- Players: `Khozam (1891)` vs `Chessian (1836)`
+- Time control: `10+0`
+- Game: [View game](https://lichess.org/xZlNXWdo)
+- First solution move: `e5h2`
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
