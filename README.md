@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F5p1p%2F2k1p2P%2F4K1P1%2F2P5%2F8%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fq4p1p%2Fp2p2p1%2F1p1N3P%2F4r3%2FP1P2QP1%2F2P3K1%2F5R2%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ke4HJ](https://lichess.org/training/ke4HJ), rated `1395`.
-The game is `RhetoricalBrilliance (2442)` vs `Viennaconcert (2251)` at `3+0` time control,
-with themes `endgame, master, short, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/J2T4bF7N),
-and the first solution move is `c4c3`.
+It is `White to move` in puzzle [gVgNQ](https://lichess.org/training/gVgNQ), rated `1334`.
+The game is `artemiunn (1955)` vs `A_demola (1887)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/RyXKqVXI),
+and the first solution move is `d5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
