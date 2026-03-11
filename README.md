@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F2k1p2p%2F1p1pP1PP%2F1P3K2%2FP7%2F8%2F8%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4bppp%2F4p3%2F1Q6%2F3Pn3%2F1P2B3%2Fr4PPP%2F3R2K1%20b%20-%20-%201%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oIdOs](https://lichess.org/training/oIdOs), rated `1542`.
-The game is `Hajnc123 (1760)` vs `juester (1754)` at `10+0` time control,
-with themes `endgame, crushing, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/NxQkyZMn),
-and the first solution move is `h6g5`.
+It is `Black to move` in puzzle [zY4Qq](https://lichess.org/training/zY4Qq), rated `1352`.
+The game is `besztok (2452)` vs `XADREZCSC (2411)` at `3+0` time control,
+with themes `advantage, fork, short, middlegame`. You can [view the full game](https://lichess.org/Vi44cgvG),
+and the first solution move is `e4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
