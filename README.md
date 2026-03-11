@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4bppp%2F4p3%2F1Q6%2F3Pn3%2F1P2B3%2Fr4PPP%2F3R2K1%20b%20-%20-%201%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2q1p1k%2F6p1%2F4P3%2F5P1p%2F1P3QP1%2FP4RKP%2F3r4%20b%20-%20-%203%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zY4Qq](https://lichess.org/training/zY4Qq), rated `1352`.
-The game is `besztok (2452)` vs `XADREZCSC (2411)` at `3+0` time control,
-with themes `advantage, fork, short, middlegame`. You can [view the full game](https://lichess.org/Vi44cgvG),
-and the first solution move is `e4c3`.
+It is `Black to move` in puzzle [anZAy](https://lichess.org/training/anZAy), rated `1350`.
+The game is `Dodosha_Rah (2096)` vs `L3-37 (1905)` at `3+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/DF9caoxz),
+and the first solution move is `h4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
