@@ -2,13 +2,9 @@
 
 <img src="{boardImageUrl}" alt="Lichess puzzle board" width="360" />
 
-- Position: `{sideToMove}`
-- Puzzle: [{puzzleId}]({puzzleLink})
-- Rating: `{puzzleRating}`
-- Themes: `{puzzleThemes}`
-- Players: `{whitePlayer}` vs `{blackPlayer}`
-- Time control: `{timeControl}`
-- Game: [View game]({gameLink})
-- First solution move: `{firstMove}`
+It is `{sideToMove}` in puzzle [{puzzleId}]({puzzleLink}), rated `{puzzleRating}`.
+The game is `{whitePlayer}` vs `{blackPlayer}` at `{timeControl}` time control,
+with themes `{puzzleThemes}`. You can [view the full game]({gameLink}),
+and the first solution move is `{firstMove}`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
