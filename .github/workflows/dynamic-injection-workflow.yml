@@ -1,34 +1,40 @@
 name: Dynamic README puzzle injection
 on:
-  schedule: # Run workflow automatically
-    # This will make it run every hour
-    - cron: '0 * * * *'
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: "*/15 * * * *"
   workflow_dispatch:
+
 jobs:
   get-lichess-puzzle:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: 14.6.0
+          node-version: 20
 
       - run: yarn
 
       - run: node .
 
-      - name: Add to git repo
-        run: |
-          git config pull.rebase false
-          git pull
-          git add .
-          git config --global user.name "Moritz Myrseth"
-          git config --global user.email "moritzmyrz@gmail.com"
-          git commit -m "[Automated] README updated with puzzle!"
-      - name: Push
-        uses: ad-m/github-push-action@master
+      - name: Create Pull Request
+        id: create-pr
+        uses: peter-evans/create-pull-request@v7
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "[Automated] Update README with puzzle"
+          title: "[Automated] Update README with new chess puzzle"
+          body: Automated PR to update the README with the latest Lichess puzzle.
+          branch: automated/update-puzzle
+          delete-branch: true
+
+      - name: Merge Pull Request
+        if: steps.create-pr.outputs.pull-request-number
+        run: gh pr merge ${{ steps.create-pr.outputs.pull-request-number }} --squash --delete-branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
