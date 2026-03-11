@@ -1,6 +1,6 @@
 ♟️ Random Lichess Puzzle
 
-![Lichess puzzle board](https://lichess1.org/export/fen.gif?fen=3n4%2F8%2F5K2%2F1k2R1P1%2Fr7%2F8%2F8%2F8%20b%20-%20-%202%2063)
+<img src="https://lichess1.org/export/fen.gif?fen=3n4%2F8%2F5K2%2F1k2R1P1%2Fr7%2F8%2F8%2F8%20b%20-%20-%202%2063" alt="Lichess puzzle board" width="360" />
 
 - Position: `Black to move`
 - Puzzle: [evPcz](https://lichess.org/training/evPcz)

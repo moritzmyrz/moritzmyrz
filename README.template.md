@@ -1,6 +1,6 @@
 ♟️ Random Lichess Puzzle
 
-![Lichess puzzle board]({boardImageUrl})
+<img src="{boardImageUrl}" alt="Lichess puzzle board" width="360" />
 
 - Position: `{sideToMove}`
 - Puzzle: [{puzzleId}]({puzzleLink})
