@@ -1,4 +1,4 @@
-name: Dynamic README injection
+name: Dynamic README puzzle injection
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
@@ -6,12 +6,12 @@ on:
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
-  get-office-quotes:
+  get-lichess-puzzle:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Let the magic happen
+      - name: Set up Node.js
         uses: actions/setup-node@v1
         with:
           node-version: 14.6.0
@@ -27,7 +27,7 @@ jobs:
           git add .
           git config --global user.name "Moritz Myrseth"
           git config --global user.email "moritzmyrz@gmail.com"
-          git commit -m "[Automated] README updated with new quote!"
+          git commit -m "[Automated] README updated with puzzle!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:

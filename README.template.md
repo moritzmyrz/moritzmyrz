@@ -1,7 +1,14 @@
-📣 How about a quote before you go?
+♟️ Random Lichess Puzzle
 
-> {quote}
->
-> <p>{author}</p>
+![Lichess puzzle board]({boardImageUrl})
 
-Quote requested from [Random Quotes API](https://github.com/lukePeavey/quotable)
+- Position: `{sideToMove}`
+- Puzzle: [{puzzleId}]({puzzleLink})
+- Rating: `{puzzleRating}`
+- Themes: `{puzzleThemes}`
+- Players: `{whitePlayer}` vs `{blackPlayer}`
+- Time control: `{timeControl}`
+- Game: [View game]({gameLink})
+- First solution move: `{firstMove}`
+
+Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
