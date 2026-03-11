@@ -27,7 +27,10 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "[Automated] Update README with puzzle"
+          commit-message: |
+            [Automated] Update README with puzzle
+
+            Co-authored-by: moritzmyrz <64229413+moritzmyrz@users.noreply.github.com>
           title: "[Automated] Update README with new chess puzzle"
           body: Automated PR to update the README with the latest Lichess puzzle.
           branch: automated/update-puzzle
