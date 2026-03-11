@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b4r%2Fk3q1pp%2Fp7%2F1p1Q4%2F1P6%2F4P3%2FP5PP%2FR4RK1%20w%20-%20-%205%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F7p%2F3p2p1%2F1p3p2%2F3Nq3%2F6QP%2Fr1n3P1%2F3R2K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Jg8aR](https://lichess.org/training/Jg8aR), rated `1393`.
-The game is `Ysf_Alan66 (2290)` vs `bukitpuchong (2217)` at `10+0` time control,
-with themes `short, pin, advantage, middlegame`. You can [view the full game](https://lichess.org/dxO3I57u),
-and the first solution move is `f1f7`.
+It is `White to move` in puzzle [AIwSh](https://lichess.org/training/AIwSh), rated `1579`.
+The game is `vengador5 (1844)` vs `Daniil_Monakhov (1771)` at `3+15` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/2ioq7bXL),
+and the first solution move is `g3b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
