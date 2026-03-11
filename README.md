@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k2r2%2Fppp5%2F2n5%2F5b2%2F7q%2FQ4R2%2FPP1P2PP%2FR1B3K1%20b%20-%20-%204%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fpp4pp%2F2p5%2F4Np2%2F2pP3B%2Fb1qnP3%2FP4PPP%2F1R1QRK2%20w%20kq%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Kyboy](https://lichess.org/training/Kyboy), rated `1517`.
-The game is `glen_d_great (1576)` vs `PatihPutihPatuh (1600)` at `5+0` time control,
-with themes `veryLong, middlegame, operaMate, discoveredCheck, attraction, sacrifice, mateIn4, doubleCheck`. You can [view the full game](https://lichess.org/MRovO9TS),
-and the first solution move is `h4e1`.
+It is `White to move` in puzzle [LEmXB](https://lichess.org/training/LEmXB), rated `1505`.
+The game is `bbmoro (2034)` vs `Dos82 (2086)` at `10+0` time control,
+with themes `middlegame, long, advantage`. You can [view the full game](https://lichess.org/lq5mRh31),
+and the first solution move is `d1h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
