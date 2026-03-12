@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F6pp%2F2p2p2%2F3n4%2FP1NP2P1%2F2PK4%2F4r3%2FR6R%20b%20-%20-%205%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fp1r3pp%2F2P1b3%2F3B4%2F1P1Pp3%2FP3P1q1%2F4Q1P1%2F5RK1%20w%20-%20-%203%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PjxzE](https://lichess.org/training/PjxzE), rated `1281`.
-The game is `hetdombi (2606)` vs `pulvettd (2599)` at `3+2` time control,
-with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/0VfIyjXj),
-and the first solution move is `d5f4`.
+It is `White to move` in puzzle [jKu5s](https://lichess.org/training/jKu5s), rated `1354`.
+The game is `sandesh_pokhrel_9828 (1769)` vs `EnPriseWithEase (1770)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/PeLvzdev),
+and the first solution move is `d5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
