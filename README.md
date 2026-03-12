@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2R2rk1%2F5pp1%2F3bp2p%2F4P3%2F3p3P%2Fr5P1%2F5PK1%2F2R5%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kb3r%2Fppp5%2F3p4%2FPP2p3%2F2B1Q3%2F6Pq%2F2P5%2FR4RK1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lnhI2](https://lichess.org/training/lnhI2), rated `1497`.
-The game is `Ahmdnjr12512 (2297)` vs `iliyakarpov1385 (2091)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, crushing, long`. You can [view the full game](https://lichess.org/jQH9gZcl),
-and the first solution move is `e5d6`.
+It is `Black to move` in puzzle [iWTX8](https://lichess.org/training/iWTX8), rated `1278`.
+The game is `Nikannabizade1392 (1963)` vs `SKosta (1984)` at `10+5` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/0lg78h4X),
+and the first solution move is `h3h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
