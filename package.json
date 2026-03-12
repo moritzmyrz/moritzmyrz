@@ -3,6 +3,7 @@
 		"@moritzmyrz/tripletex.js": "^0.1.5",
 		"chess.js": "^1.4.0",
 		"fiken.js": "^2.1.0",
-		"isomorphic-unfetch": "^3.1.0"
+		"isomorphic-unfetch": "^3.1.0",
+		"sigilid": "^1.0.0"
 	}
 }
