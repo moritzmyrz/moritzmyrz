@@ -235,7 +235,7 @@ jobs:
       - name: Delete discussion
         if: steps.run-cap.outputs.should_run == 'true'
         env:
-          PAT_TOKEN_2: ${{ secrets.PAT_TOKEN_2 }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
           DISC_ID: ${{ steps.create.outputs.discussion_id }}
         run: |
           PAYLOAD=$(jq -n \
@@ -245,7 +245,7 @@ jobs:
               variables: { disc: $disc }
             }')
           RES=$(curl -s -X POST https://api.github.com/graphql \
-            -H "Authorization: Bearer $PAT_TOKEN_2" \
+            -H "Authorization: Bearer $PAT_TOKEN" \
             -H "Content-Type: application/json" \
             -d "$PAYLOAD")
           if echo "$RES" | jq -e '.errors == null' > /dev/null 2>&1; then
