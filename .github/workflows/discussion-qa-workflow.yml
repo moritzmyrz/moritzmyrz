@@ -1,0 +1,257 @@
+name: Discussion Q&A
+on:
+  schedule:
+    # Trigger every 15 minutes, but cap scheduled executions below.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      discussion_title:
+        description: "Discussion title"
+        required: true
+        default: "Example question"
+      discussion_body:
+        description: "Discussion body (the question)"
+        required: true
+        default: "This is an example question for the Q&A."
+      reply_body:
+        description: "Reply body (the answer)"
+        required: true
+        default: "This is the accepted answer."
+
+jobs:
+  discussion-qa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enforce scheduled run cap
+        id: run-cap
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          EVENT_NAME: ${{ github.event_name }}
+          WORKFLOW_FILE: discussion-qa-workflow.yml
+        run: |
+          if [ "$EVENT_NAME" != "schedule" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "Skipping cap check for non-scheduled run."
+            exit 0
+          fi
+
+          CUTOFF=$(date -u -d '7 days ago' +%s)
+          RES=$(curl -s \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/workflows/$WORKFLOW_FILE/runs?event=schedule&per_page=100")
+
+          COUNT=$(echo "$RES" | jq --argjson cutoff "$CUTOFF" '
+            [.workflow_runs[]
+             | select((.created_at | fromdateiso8601) >= $cutoff)
+            ] | length
+          ')
+
+          echo "Scheduled runs in last 7 days: $COUNT"
+          if [ "$COUNT" -ge 32 ]; then
+            echo "Run cap reached (32). Skipping this execution."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build discussion content
+        id: content
+        if: steps.run-cap.outputs.should_run == 'true'
+        env:
+          INPUT_TITLE: ${{ github.event.inputs.discussion_title }}
+          INPUT_BODY: ${{ github.event.inputs.discussion_body }}
+          INPUT_REPLY: ${{ github.event.inputs.reply_body }}
+        run: |
+          titles=(
+            "Quick GitHub Actions question"
+            "Workflow behavior check"
+            "CI timing question"
+            "Need help with automation"
+            "Actions token scope question"
+            "Build reliability question"
+          )
+          questions=(
+            "What is the cleanest way to avoid duplicate workflow runs in GitHub Actions?"
+            "What is a practical pattern to safely handle retries in scheduled workflows?"
+            "How can I make a scheduled workflow less noisy while keeping useful logs?"
+            "When should I prefer PATs over GITHUB_TOKEN for GraphQL mutations?"
+            "What is a simple way to rate-limit workflow automation without extra services?"
+            "How do you keep recurring workflow content varied for test data?"
+          )
+          answers=(
+            "Use a lightweight guard step early, then skip the rest of the job when limits are reached."
+            "Track recent runs and short-circuit before expensive operations."
+            "Keep logs concise and add context only on failure to reduce noise."
+            "Use GITHUB_TOKEN where possible and PATs only when required by missing scopes."
+            "A rolling window cap plus random variation usually keeps automation predictable."
+            "Generate small randomized phrases and timestamps, while keeping content readable."
+          )
+
+          suffix=$((RANDOM % 100000))
+          stamp=$(date -u +"%Y-%m-%d %H:%M UTC")
+
+          if [ -n "$INPUT_TITLE" ]; then
+            title="$INPUT_TITLE"
+          else
+            title_idx=$((RANDOM % ${#titles[@]}))
+            title="${titles[$title_idx]} #$suffix"
+          fi
+
+          if [ -n "$INPUT_BODY" ]; then
+            body="$INPUT_BODY"
+          else
+            question_idx=$((RANDOM % ${#questions[@]}))
+            body="${questions[$question_idx]} (generated $stamp)"
+          fi
+
+          if [ -n "$INPUT_REPLY" ]; then
+            reply="$INPUT_REPLY"
+          else
+            answer_idx=$((RANDOM % ${#answers[@]}))
+            reply="${answers[$answer_idx]} (run $suffix)"
+          fi
+
+          if [ -z "${title// }" ] || [ -z "${body// }" ] || [ -z "${reply// }" ]; then
+            echo "Generated content is blank. Failing fast."
+            exit 1
+          fi
+
+          echo "title=$title" >> "$GITHUB_OUTPUT"
+          echo "body=$body" >> "$GITHUB_OUTPUT"
+          echo "reply=$reply" >> "$GITHUB_OUTPUT"
+
+      - name: Get repository and category IDs
+        id: ids
+        if: steps.run-cap.outputs.should_run == 'true'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          OWNER="${GITHUB_REPOSITORY%/*}"
+          REPO="${GITHUB_REPOSITORY#*/}"
+          RES=$(curl -s -X POST https://api.github.com/graphql \
+            -H "Authorization: Bearer $PAT_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{\"query\": \"query { repository(owner: \\\"$OWNER\\\", name: \\\"$REPO\\\") { id discussionCategories(first: 25) { nodes { id name isAnswerable } } } }\"}")
+          REPO_ID=$(echo "$RES" | jq -r '.data.repository.id')
+          CATEGORY_ID=$(echo "$RES" | jq -r '.data.repository.discussionCategories.nodes[] | select(.isAnswerable == true) | .id' | head -n 1)
+          CATEGORY_NAME=$(echo "$RES" | jq -r '.data.repository.discussionCategories.nodes[] | select(.isAnswerable == true) | .name' | head -n 1)
+          echo "repository_id=$REPO_ID" >> $GITHUB_OUTPUT
+          echo "category_id=$CATEGORY_ID" >> $GITHUB_OUTPUT
+          if [ -n "$CATEGORY_NAME" ] && [ "$CATEGORY_NAME" != "null" ]; then
+            echo "Using answerable category: $CATEGORY_NAME"
+          fi
+          if [ "$REPO_ID" = "null" ] || [ -z "$CATEGORY_ID" ] || [ "$CATEGORY_ID" = "null" ]; then
+            echo "Failed to get repo ID or an answerable category."
+            echo "Create a Discussions category with answers enabled (for example Q&A)."
+            echo "$RES" | jq .
+            exit 1
+          fi
+
+      - name: Create discussion
+        id: create
+        if: steps.run-cap.outputs.should_run == 'true'
+        env:
+          PAT_TOKEN_2: ${{ secrets.PAT_TOKEN_2 }}
+          REPO_ID: ${{ steps.ids.outputs.repository_id }}
+          CATEGORY_ID: ${{ steps.ids.outputs.category_id }}
+          TITLE: ${{ steps.content.outputs.title }}
+          BODY: ${{ steps.content.outputs.body }}
+        run: |
+          PAYLOAD=$(jq -n \
+            --arg repo "$REPO_ID" \
+            --arg cat "$CATEGORY_ID" \
+            --arg title "$TITLE" \
+            --arg body "$BODY" \
+            '{
+              query: "mutation($repo: ID!, $cat: ID!, $title: String!, $body: String!) { createDiscussion(input: { repositoryId: $repo, categoryId: $cat, title: $title, body: $body }) { discussion { id } } }",
+              variables: { repo: $repo, cat: $cat, title: $title, body: $body }
+            }')
+          RES=$(curl -s -X POST https://api.github.com/graphql \
+            -H "Authorization: Bearer $PAT_TOKEN_2" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD")
+          DISC_ID=$(echo "$RES" | jq -r '.data.createDiscussion.discussion.id')
+          echo "discussion_id=$DISC_ID" >> $GITHUB_OUTPUT
+          if [ "$DISC_ID" = "null" ]; then
+            echo "Failed to create discussion:"
+            echo "$RES" | jq .
+            exit 1
+          fi
+
+      - name: Reply to discussion
+        id: reply
+        if: steps.run-cap.outputs.should_run == 'true'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          DISC_ID: ${{ steps.create.outputs.discussion_id }}
+          BODY: ${{ steps.content.outputs.reply }}
+        run: |
+          PAYLOAD=$(jq -n \
+            --arg disc "$DISC_ID" \
+            --arg body "$BODY" \
+            '{
+              query: "mutation($disc: ID!, $body: String!) { addDiscussionComment(input: { discussionId: $disc, body: $body }) { comment { id } } }",
+              variables: { disc: $disc, body: $body }
+            }')
+          RES=$(curl -s -X POST https://api.github.com/graphql \
+            -H "Authorization: Bearer $PAT_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD")
+          COMMENT_ID=$(echo "$RES" | jq -r '.data.addDiscussionComment.comment.id')
+          echo "comment_id=$COMMENT_ID" >> $GITHUB_OUTPUT
+          if [ "$COMMENT_ID" = "null" ]; then
+            echo "Failed to add reply:"
+            echo "$RES" | jq .
+            exit 1
+          fi
+
+      - name: Mark reply as accepted answer
+        if: steps.run-cap.outputs.should_run == 'true'
+        env:
+          PAT_TOKEN_2: ${{ secrets.PAT_TOKEN_2 }}
+          COMMENT_ID: ${{ steps.reply.outputs.comment_id }}
+        run: |
+          PAYLOAD=$(jq -n \
+            --arg comment "$COMMENT_ID" \
+            '{
+              query: "mutation($comment: ID!) { markDiscussionCommentAsAnswer(input: { id: $comment }) { discussion { id isAnswered } } }",
+              variables: { comment: $comment }
+            }')
+          RES=$(curl -s -X POST https://api.github.com/graphql \
+            -H "Authorization: Bearer $PAT_TOKEN_2" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD")
+          if echo "$RES" | jq -e '.data.markDiscussionCommentAsAnswer.discussion.isAnswered == true' > /dev/null 2>&1; then
+            echo "Reply marked as accepted answer."
+          else
+            echo "Failed to mark as answer (e.g. only discussion author can):"
+            echo "$RES" | jq .
+            exit 1
+          fi
+
+      - name: Delete discussion
+        if: steps.run-cap.outputs.should_run == 'true'
+        env:
+          PAT_TOKEN_2: ${{ secrets.PAT_TOKEN_2 }}
+          DISC_ID: ${{ steps.create.outputs.discussion_id }}
+        run: |
+          PAYLOAD=$(jq -n \
+            --arg disc "$DISC_ID" \
+            '{
+              query: "mutation($disc: ID!) { deleteDiscussion(input: { id: $disc }) { clientMutationId } }",
+              variables: { disc: $disc }
+            }')
+          RES=$(curl -s -X POST https://api.github.com/graphql \
+            -H "Authorization: Bearer $PAT_TOKEN_2" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD")
+          if echo "$RES" | jq -e '.errors == null' > /dev/null 2>&1; then
+            echo "Discussion deleted."
+          else
+            echo "Failed to delete discussion:"
+            echo "$RES" | jq .
+            exit 1
+          fi
