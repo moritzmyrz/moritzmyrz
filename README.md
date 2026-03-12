@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp1p4p%2F1p4p1%2F2PP3r%2F1P1Qp2b%2F4Bq1P%2FP4PRK%2F6R1%20w%20-%20-%203%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N2Q4%2Fpp3pk1%2F7p%2F4q3%2F1Q5b%2F5p2%2FPP3P1P%2FR2R1K2%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZQXaR](https://lichess.org/training/ZQXaR), rated `1274`.
-The game is `devadarsan (1981)` vs `DMdrivelmaster (2038)` at `10+0` time control,
-with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/dNRAT5zP),
-and the first solution move is `g2g6`.
+It is `Black to move` in puzzle [B7bY5](https://lichess.org/training/B7bY5), rated `1277`.
+The game is `ANNAPOORANI (1582)` vs `SahilTiwari (1552)` at `2+1` time control,
+with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/2VTQNqpf),
+and the first solution move is `e5e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
