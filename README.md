@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5pp1%2F4p2p%2F3kP1PP%2F5P2%2F3K4%2F8%20b%20-%20-%200%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1b6%2F1P6%2F2K5%2F4k1p1%2F8%2F3Bp1P1%2F8%2F8%20b%20-%20-%201%2056&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UJEsa](https://lichess.org/training/UJEsa), rated `1438`.
-The game is `rushis (1524)` vs `Fazayle (1574)` at `3+0` time control,
-with themes `veryLong, crushing, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/brO6BeMr),
-and the first solution move is `h5g4`.
+It is `Black to move` in puzzle [KmkR0](https://lichess.org/training/KmkR0), rated `1325`.
+The game is `CasadoConLaJoda (2538)` vs `Mittdaunuruodo (2411)` at `3+0` time control,
+with themes `endgame, master, short, crushing, discoveredAttack, bishopEndgame`. You can [view the full game](https://lichess.org/EWsMhRxt),
+and the first solution move is `e5d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
