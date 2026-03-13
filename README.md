@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R7%2F1pkb4%2F8%2F2P5%2Fr2B4%2Fp3K3%2F6P1%2F8%20w%20-%20-%206%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F2br1p2%2F1p4kp%2Fp5pN%2F4R1P1%2FP1P1Bn1P%2F1P3P2%2F2R4K%20b%20-%20-%204%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YjCIb](https://lichess.org/training/YjCIb), rated `1311`.
-The game is `joefrazier1975 (2420)` vs `LiVaEv (2417)` at `3+0` time control,
-with themes `endgame, master, short, masterVsMaster, crushing, interference`. You can [view the full game](https://lichess.org/jsk8EzUb),
-and the first solution move is `d4e5`.
+It is `Black to move` in puzzle [70DBl](https://lichess.org/training/70DBl), rated `1366`.
+The game is `saeedfergheh (1948)` vs `Heinerchill (1915)` at `5+3` time control,
+with themes `exposedKing, middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/2o6NsWFj),
+and the first solution move is `d7d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
