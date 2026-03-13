@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3b2%2F1P3p2%2F3qpk2%2FQ5pP%2F2p2p1N%2F3r1P1K%2Fp7%2F1R4R1%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqkb1r%2Fpp1p2pp%2F4p1n1%2F5B2%2F3P4%2F5N2%2FPPP1QPPP%2FRNB1K2R%20b%20KQkq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [QCmCt](https://lichess.org/training/QCmCt), rated `1500`.
-The game is `Dgaleano (2243)` vs `Perdomov (2175)` at `3+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/FcMuzzs6),
-and the first solution move is `a5g5`.
+It is `Black to move` in puzzle [Bbe06](https://lichess.org/training/Bbe06), rated `1534`.
+The game is `pacoxddd (1779)` vs `Abbasgohariarani4813 (1791)` at `10+0` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/aftX01mO),
+and the first solution move is `d8a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
