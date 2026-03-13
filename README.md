@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F2br1p2%2F1p4kp%2Fp5pN%2F4R1P1%2FP1P1Bn1P%2F1P3P2%2F2R4K%20b%20-%20-%204%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp3ppp%2F2pNp3%2F4P1q1%2F2QP4%2FP7%2F1PPR2nP%2F2K1R3%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [70DBl](https://lichess.org/training/70DBl), rated `1366`.
-The game is `saeedfergheh (1948)` vs `Heinerchill (1915)` at `5+3` time control,
-with themes `exposedKing, middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/2o6NsWFj),
-and the first solution move is `d7d1`.
+It is `White to move` in puzzle [4yfEi](https://lichess.org/training/4yfEi), rated `1415`.
+The game is `Ben040 (1502)` vs `ELIASCAPO (1560)` at `10+0` time control,
+with themes `long, crushing, middlegame`. You can [view the full game](https://lichess.org/fXUysc97),
+and the first solution move is `e1g1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
