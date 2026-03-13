@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r3%2FppknQ3%2F3pNR2%2F3P3P%2F8%2F6q1%2FPPP5%2F1K2R3%20b%20-%20-%2010%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6P1%2F8%2F4kr2%2F6K1%2F7P%2F8%20w%20-%20-%201%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xyich](https://lichess.org/training/xyich), rated `1561`.
-The game is `sonoleg70 (1834)` vs `Eazzyy (1824)` at `10+0` time control,
-with themes `short, advantage, defensiveMove, middlegame`. You can [view the full game](https://lichess.org/ekOpFuST),
-and the first solution move is `c7b6`.
+It is `White to move` in puzzle [nB4qS](https://lichess.org/training/nB4qS), rated `1548`.
+The game is `zozaa (1591)` vs `ijul234 (1539)` at `10+5` time control,
+with themes `endgame, advancedPawn, crushing, rookEndgame, long, promotion`. You can [view the full game](https://lichess.org/mUWvg5hD),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
