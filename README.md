@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fpp1n1ppp%2F3b1n2%2F3Bp1B1%2F8%2F3P1Q2%2FPPP2PPP%2FR3K1NR%20b%20KQkq%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp7%2F1p6%2F2p1b1pp%2F4Q2q%2F1PP4P%2FP4RP1%2F4RNK1%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jkgSQ](https://lichess.org/training/jkgSQ), rated `1470`.
-The game is `gulsevererkut (1720)` vs `pordzanq (1749)` at `10+0` time control,
-with themes `advantage, long, opening`. You can [view the full game](https://lichess.org/J9QMHQ6K),
-and the first solution move is `d8a5`.
+It is `Black to move` in puzzle [M46I1](https://lichess.org/training/M46I1), rated `1370`.
+The game is `mammatvok (1742)` vs `wpn34 (1659)` at `3+0` time control,
+with themes `middlegame, long, mateIn3, pillsburysMate`. You can [view the full game](https://lichess.org/Rj1iVfV6),
+and the first solution move is `h4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
