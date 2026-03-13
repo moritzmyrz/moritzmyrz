@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1k4r%2F2pp2q1%2Fpp3n2%2F3Pb1Bp%2F8%2FP2B3P%2F1PPQ2P1%2F2KRR3%20b%20-%20-%201%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2F2p1k1p1%2F3pB3%2F3P4%2F1P1Q4%2F5Rq1%2F1P4b1%2F6K1%20b%20-%20-%200%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vPec8](https://lichess.org/training/vPec8), rated `1535`.
-The game is `xXAleJoLeGenDXx (1875)` vs `IsaiasJunior (1860)` at `10+0` time control,
-with themes `middlegame, queensideAttack, advantage, long, sacrifice, discoveredAttack`. You can [view the full game](https://lichess.org/du3GgofD),
-and the first solution move is `e5b2`.
+It is `Black to move` in puzzle [It6dV](https://lichess.org/training/It6dV), rated `1441`.
+The game is `bibiposs (2322)` vs `MrHelmy2 (2263)` at `3+0` time control,
+with themes `exposedKing, endgame, discoveredCheck, long, mateIn3, discoveredAttack, hangingPiece`. You can [view the full game](https://lichess.org/0bhNE82i),
+and the first solution move is `g2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
