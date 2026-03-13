@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp3pp1%2F8%2F6N1%2F4B3%2F8%2FbPn3PP%2F4R1K1%20w%20-%20-%207%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k2r1%2F5p1p%2F3p1N2%2F1P2p3%2F2P1P1bP%2F3BR1P1%2F1P1K1P1r%2F8%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jFicf](https://lichess.org/training/jFicf), rated `1300`.
-The game is `pawelpiotr (1832)` vs `mert_atakan (1519)` at `3+0` time control,
-with themes `endgame, crushing, fork, long, discoveredAttack`. You can [view the full game](https://lichess.org/JDFLXbao),
-and the first solution move is `e4h7`.
+It is `Black to move` in puzzle [s6F7e](https://lichess.org/training/s6F7e), rated `1391`.
+The game is `Barkamol-Avlod (1936)` vs `Russo_chess (1875)` at `30+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/xC0zyYbd),
+and the first solution move is `h2f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
