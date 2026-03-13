@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rnk%2Fppp3bp%2F3p2p1%2F3P4%2F2P1PBP1%2F2NB3P%2FPP1Q4%2F2KR3R%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1p4p1%2Fp2p4%2F7p%2FP4rq1%2F1PB3Q1%2F2P3PP%2FR2R3K%20b%20-%20-%205%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IxAZE](https://lichess.org/training/IxAZE), rated `1617`.
-The game is `agsjgm (2300)` vs `Piuranisimo (2259)` at `5+0` time control,
-with themes `short, advantage, sacrifice, pin, master, middlegame`. You can [view the full game](https://lichess.org/cg1ph56B),
-and the first solution move is `f8f4`.
+It is `Black to move` in puzzle [CKo9K](https://lichess.org/training/CKo9K), rated `1308`.
+The game is `highvariancegamer (2141)` vs `lucci12 (2183)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/g7wJ2XqD),
+and the first solution move is `g4d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
