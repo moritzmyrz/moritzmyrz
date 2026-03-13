@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5R1p%2F2Q2PpK%2F3p4%2Fp5P1%2F3qP2P%2FP7%2F8%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F1B2pp1p%2F5bpB%2Fp2b4%2F8%2F2q4P%2F5PP1%2F1R2Q1K1%20w%20-%20-%208%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7SxdD](https://lichess.org/training/7SxdD), rated `1583`.
-The game is `wack (1728)` vs `Kak_Tal (1545)` at `5+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/rUGD8EIy),
-and the first solution move is `d3e3`.
+It is `White to move` in puzzle [bWVfU](https://lichess.org/training/bWVfU), rated `1331`.
+The game is `Bagii_Bagii (2531)` vs `Tsovnoog (2150)` at `8+0` time control,
+with themes `middlegame`. You can [view the full game](https://lichess.org/uV72T2M2),
+and the first solution move is `b7d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
