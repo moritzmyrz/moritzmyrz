@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1q1bnr%2Fppp2bk1%2F7p%2F3pP2Q%2F5p1P%2F3B4%2FPPPP2P1%2FRNB1K2R%20w%20KQ%20-%203%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2FN2p1ppp%2F3Bp3%2Fp2nP3%2F8%2FP5P1%2F2r2P1P%2F3R2K1%20w%20k%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aacKh](https://lichess.org/training/aacKh), rated `1272`.
-The game is `mohdzain (1876)` vs `mumbaiWizard (1878)` at `3+0` time control,
-with themes `crushing, short, opening`. You can [view the full game](https://lichess.org/FIcdiGTV),
-and the first solution move is `h5g4`.
+It is `White to move` in puzzle [bNAuz](https://lichess.org/training/bNAuz), rated `1460`.
+The game is `Lorenzo1978 (1708)` vs `Pradip_Chess (1692)` at `5+0` time control,
+with themes `endgame, advantage, skewer, quietMove, long`. You can [view the full game](https://lichess.org/4l9oebmh),
+and the first solution move is `d1b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
