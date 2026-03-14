@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1q3r%2Fpp6%2F2bNQ1p1%2F2P1P2p%2F3P4%2F2P1b3%2FP5P1%2FR4R1K%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1q1bnr%2Fppp2bk1%2F7p%2F3pP2Q%2F5p1P%2F3B4%2FPPPP2P1%2FRNB1K2R%20w%20KQ%20-%203%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3flhe](https://lichess.org/training/3flhe), rated `1433`.
-The game is `khald (1785)` vs `Stepa_1997 (1690)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/t393ovzq),
-and the first solution move is `d8h4`.
+It is `White to move` in puzzle [aacKh](https://lichess.org/training/aacKh), rated `1272`.
+The game is `mohdzain (1876)` vs `mumbaiWizard (1878)` at `3+0` time control,
+with themes `crushing, short, opening`. You can [view the full game](https://lichess.org/FIcdiGTV),
+and the first solution move is `h5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
