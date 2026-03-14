@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2Fpbp2q2%2F1p2pb2%2F1P1p4%2F3P1QN1%2FP1PB3P%2F3nR3%2FR5K1%20b%20-%20-%206%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5b1r%2F6pp%2FR7%2F7r%2F3P4%2F2P1KBp1%2F8%2F6k1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7ZGga](https://lichess.org/training/7ZGga), rated `1541`.
-The game is `MarcusBayern (1705)` vs `Tu_fek (1717)` at `30+0` time control,
-with themes `exposedKing, middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/NR4q51Lc),
-and the first solution move is `f6d4`.
+It is `White to move` in puzzle [kIu79](https://lichess.org/training/kIu79), rated `1413`.
+The game is `CassadyJLynn (1730)` vs `tcwood (1758)` at `3+2` time control,
+with themes `short, operaMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/hdMsYllW),
+and the first solution move is `a6a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
