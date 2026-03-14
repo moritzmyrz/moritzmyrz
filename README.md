@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5q2%2F1p1B2kp%2F8%2F8%2Fp7%2FPb1Q2P1%2F1P4PP%2F6K1%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F6qp%2Fp7%2F2p2r2%2F3p4%2FPP2bQp1%2F2P4P%2F5R1K%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YWGP8](https://lichess.org/training/YWGP8), rated `1371`.
-The game is `chessmaster2850 (1873)` vs `DisaraLiyanage1234 (1877)` at `3+0` time control,
-with themes `endgame, crushing, long, pin`. You can [view the full game](https://lichess.org/stk7zCMz),
-and the first solution move is `f8c5`.
+It is `White to move` in puzzle [EIhWw](https://lichess.org/training/EIhWw), rated `1395`.
+The game is `Karpfen15 (1930)` vs `Darathorn (1944)` at `3+2` time control,
+with themes `advantage, long, endgame`. You can [view the full game](https://lichess.org/WEfrmf89),
+and the first solution move is `f3a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
