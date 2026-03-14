@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fp1p3pp%2F2n2p2%2Fb1N1Nb2%2F2PP1B2%2F4Q3%2FP5PP%2FR4RK1%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2Fpbp2q2%2F1p2pb2%2F1P1p4%2F3P1QN1%2FP1PB3P%2F3nR3%2FR5K1%20b%20-%20-%206%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rYlsp](https://lichess.org/training/rYlsp), rated `1368`.
-The game is `juuwyyy (1790)` vs `NIKITA46 (1842)` at `30+0` time control,
-with themes `middlegame, short, advantage, fork, hangingPiece`. You can [view the full game](https://lichess.org/20tfzcA6),
-and the first solution move is `e5c6`.
+It is `Black to move` in puzzle [7ZGga](https://lichess.org/training/7ZGga), rated `1541`.
+The game is `MarcusBayern (1705)` vs `Tu_fek (1717)` at `30+0` time control,
+with themes `exposedKing, middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/NR4q51Lc),
+and the first solution move is `f6d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
