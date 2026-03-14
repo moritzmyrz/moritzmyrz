@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpp3pbp%2F7r%2F2p2P2%2FP3B2q%2F2PP1R2%2F1P4QP%2F5R1K%20b%20-%20-%206%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3n3K%2FR3pB2%2F3kPr2%2F8%2F8%2F8%20w%20-%20-%2014%2051&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Rkrhp](https://lichess.org/training/Rkrhp), rated `1501`.
-The game is `Unknown_Luca (2021)` vs `luckybois (2008)` at `10+5` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/VD56fA2a),
-and the first solution move is `g7e5`.
+It is `White to move` in puzzle [rwmPL](https://lichess.org/training/rwmPL), rated `1486`.
+The game is `temporary_practice (1703)` vs `Picapleitos85 (1797)` at `30+0` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/ggcVasgm),
+and the first solution move is `a5d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
