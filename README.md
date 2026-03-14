@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Frk1r4%2Fp2R4%2FPp6%2F1P2p3%2F4K3%2F8%20w%20-%20-%2012%2078&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k3%2Fppp1qp1p%2F6r1%2FQ2P1b2%2F2B5%2F8%2FP2N1P1P%2F4RK1R%20b%20q%20-%201%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qP83I](https://lichess.org/training/qP83I), rated `1313`.
-The game is `marvinarendain (1769)` vs `Bill03 (2361)` at `3+0` time control,
-with themes `veryLong, endgame, zugzwang, crushing, rookEndgame, hangingPiece`. You can [view the full game](https://lichess.org/Z533HfPl),
-and the first solution move is `d5d6`.
+It is `Black to move` in puzzle [1ZQbY](https://lichess.org/training/1ZQbY), rated `1370`.
+The game is `mr_uwa (1716)` vs `Busch-Gass (1708)` at `5+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/zkf3rN51),
+and the first solution move is `f5h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
