@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5nr%2Fp1b2pp1%2F1pk4p%2F4p3%2F1p2N3%2F4BP1P%2F1P3P2%2FR2R2K1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fp2Qbkpp%2F3Bpp2%2F1R6%2F3P4%2F4PN1P%2FP4nPK%2F2q5%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VIJKD](https://lichess.org/training/VIJKD), rated `1550`.
-The game is `Djurovic (1696)` vs `ermak1948 (1659)` at `30+0` time control,
-with themes `middlegame, short, advantage`. You can [view the full game](https://lichess.org/RD4bgEXO),
-and the first solution move is `a1c1`.
+It is `Black to move` in puzzle [Zmssu](https://lichess.org/training/Zmssu), rated `1371`.
+The game is `fjrafols (1847)` vs `sayedkassim (1835)` at `10+0` time control,
+with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/KdYJFRXs),
+and the first solution move is `c1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
