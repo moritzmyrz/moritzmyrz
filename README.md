@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3n3K%2FR3pB2%2F3kPr2%2F8%2F8%2F8%20w%20-%20-%2014%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2Fpp6%2F2bp4%2F4pp2%2F6q1%2F3Q4%2FPPP2K1P%2F4R3%20b%20-%20-%208%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rwmPL](https://lichess.org/training/rwmPL), rated `1486`.
-The game is `temporary_practice (1703)` vs `Picapleitos85 (1797)` at `30+0` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/ggcVasgm),
-and the first solution move is `a5d5`.
+It is `Black to move` in puzzle [LZz9q](https://lichess.org/training/LZz9q), rated `1545`.
+The game is `samuX_05 (1799)` vs `ranger14 (1809)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/6YMzYXNQ),
+and the first solution move is `g4g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
