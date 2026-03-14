@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=bqrr2k1%2F5ppp%2Fp3pn2%2FNp2n3%2F3QpP2%2FP1N5%2F1PP3PP%2F1K1R1B1R%20w%20-%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kbnr%2F1bpp3p%2Fp1nq1p2%2F1p1Bp1N1%2F4P2B%2F3P4%2FPPP2PPP%2FRN1Q1RK1%20b%20kq%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tjAgt](https://lichess.org/training/tjAgt), rated `1435`.
-The game is `AntonSannikov1993 (1927)` vs `PatzyBogues (2058)` at `10+5` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/eIvNjcZI),
-and the first solution move is `d4e5`.
+It is `Black to move` in puzzle [U0KQb](https://lichess.org/training/U0KQb), rated `1360`.
+The game is `Dumbledore96 (1597)` vs `besseralskarpov (1635)` at `10+5` time control,
+with themes `long, advantage, opening`. You can [view the full game](https://lichess.org/JgYzwzUH),
+and the first solution move is `f6g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
