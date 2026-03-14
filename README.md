@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppq2p2%2F3bpn2%2F4N1pp%2FP1QP4%2F2P4P%2F1P3PPB%2FR4RK1%20b%20-%20-%201%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F3nbppn%2F2p3bp%2F3p4%2F1P1P1B2%2F3B1N1P%2F4NPP1%2FR2QR1K1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DKzf8](https://lichess.org/training/DKzf8), rated `1474`.
-The game is `AlwaysDizzy (2137)` vs `hp118 (2090)` at `10+0` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/3JbzseW9),
-and the first solution move is `d6e5`.
+It is `Black to move` in puzzle [ZzGls](https://lichess.org/training/ZzGls), rated `1629`.
+The game is `Kizer (1672)` vs `wooobeee (1649)` at `5+8` time control,
+with themes `opening, short, advantage`. You can [view the full game](https://lichess.org/46FRDCdK),
+and the first solution move is `a8a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
