@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Br1%2F3b1p1k%2F2p5%2Fp1p1qP2%2FP2p3b%2F1P1P3R%2F2P3rP%2F5R1K%20w%20-%20-%206%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1q3r%2Fpp6%2F2bNQ1p1%2F2P1P2p%2F3P4%2F2P1b3%2FP5P1%2FR4R1K%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jKIqK](https://lichess.org/training/jKIqK), rated `1208`.
-The game is `LukaritA05 (2118)` vs `Masood-1977 (2169)` at `10+0` time control,
-with themes `middlegame, oneMove, mateIn1, hangingPiece`. You can [view the full game](https://lichess.org/x82hGvW8),
-and the first solution move is `h3h4`.
+It is `Black to move` in puzzle [3flhe](https://lichess.org/training/3flhe), rated `1433`.
+The game is `khald (1785)` vs `Stepa_1997 (1690)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/t393ovzq),
+and the first solution move is `d8h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
