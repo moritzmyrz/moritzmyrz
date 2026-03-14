@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2R3pk%2F1r3p2%2F4p2p%2F3nP3%2F1PK2PP1%2F3N3P%2F8%20b%20-%20-%201%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpp3P1p%2F2p1q3%2F3p4%2F3P4%2F3K2R1%2FPP6%2F6R1%20w%20-%20-%203%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4vUJR](https://lichess.org/training/4vUJR), rated `1388`.
-The game is `Moh_Ashraf (2401)` vs `Blunder-Repeat (2098)` at `5+5` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/ZICxh1Da),
-and the first solution move is `d4b5`.
+It is `White to move` in puzzle [NBCcM](https://lichess.org/training/NBCcM), rated `1322`.
+The game is `ad_iranplayers (1676)` vs `patlasha (1669)` at `10+0` time control,
+with themes `short, queenRookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/sV4hdqfp),
+and the first solution move is `g3g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
