@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k2%2Fp3prbQ%2F1p2p1R1%2F2p2q2%2F3np3%2F2N3P1%2FPPP2PP1%2F2K4R%20w%20-%20-%207%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5rpk%2Fp3p3%2F2p1P2p%2F2Ppqr2%2F1Q6%2FP2B2RP%2F4R1K1%20b%20-%20-%201%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cPmum](https://lichess.org/training/cPmum), rated `1334`.
-The game is `abelmasov (1897)` vs `Syalalalala (1902)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/NYCst1Xt),
-and the first solution move is `h7h8`.
+It is `Black to move` in puzzle [PQceo](https://lichess.org/training/PQceo), rated `1528`.
+The game is `bojanOST (1609)` vs `enrico1976 (1613)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/hnfmNO4z),
+and the first solution move is `e4e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
