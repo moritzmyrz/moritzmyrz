@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F1p2b1p1%2F3p2k1%2F4p1Pn%2F2P3K1%2FPP3P2%2F4R3%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F2q2p1Q%2F1p2p3%2Fp4rN1%2F5P2%2FP3P2P%2F6PK%2F8%20w%20-%20-%205%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qd5fz](https://lichess.org/training/qd5fz), rated `1621`.
-The game is `Tsubasa_5 (1788)` vs `lmsems0913 (2114)` at `10+0` time control,
-with themes `endgame, long, advantage`. You can [view the full game](https://lichess.org/YSFaFBtZ),
-and the first solution move is `f2f4`.
+It is `White to move` in puzzle [YGvjk](https://lichess.org/training/YGvjk), rated `1381`.
+The game is `Gnechko_Ruslan (2502)` vs `NapDea (2489)` at `3+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/mfGnS2gt),
+and the first solution move is `g5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
