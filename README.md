@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp1qbppp%2F5n2%2F3N4%2F1nB2P2%2F1Q3P2%2FPP5P%2F2KR3R%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r3%2F1pq3pk%2F3np1Np%2F1b1p4%2F1p1P2P1%2FP1P5%2F2Q4P%2FR4RK1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aDQKQ](https://lichess.org/training/aDQKQ), rated `1342`.
-The game is `Mahmoud_sa2003 (1838)` vs `mimokatana (1849)` at `7+3` time control,
-with themes `middlegame, short, crushing, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/uf3blvxW),
-and the first solution move is `d5f6`.
+It is `White to move` in puzzle [kPtF8](https://lichess.org/training/kPtF8), rated `1409`.
+The game is `Cryva21 (2174)` vs `Ihsan_Archi (2177)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, discoveredCheck, doubleCheck`. You can [view the full game](https://lichess.org/4W1VJZHq),
+and the first solution move is `g6f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
