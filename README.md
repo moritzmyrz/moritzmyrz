@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fpp3ppp%2F2pbpq2%2F8%2F1P2P3%2F6QP%2FP2r1PPB%2FR4RK1%20w%20-%20-%206%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2R1b1rk%2Fp6p%2F7r%2F3p1p2%2F3PnP2%2F5N2%2FP5P1%2F3Q2K1%20b%20-%20-%203%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SXECG](https://lichess.org/training/SXECG), rated `1501`.
-The game is `aasap (2302)` vs `Antohast (2310)` at `3+2` time control,
-with themes `advantage, fork, long, middlegame`. You can [view the full game](https://lichess.org/lbp5OWXh),
-and the first solution move is `e4e5`.
+It is `Black to move` in puzzle [JvHOV](https://lichess.org/training/JvHOV), rated `1463`.
+The game is `Ebtekar1390 (2272)` vs `yundi_depok (2285)` at `3+0` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/oxwHU6hy),
+and the first solution move is `h6h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
