@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fp1p4p%2F1p4p1%2F5p2%2F4p2P%2F2q5%2FP1PRB3%2F2KR4%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2Fp2p3p%2F1p1n2p1%2F2pP2B1%2F6P1%2F1PP5%2FP4P1P%2F6K1%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3riWB](https://lichess.org/training/3riWB), rated `1427`.
-The game is `Mihaelgk (1646)` vs `tiagovisk (1703)` at `3+0` time control,
-with themes `short, pillsburysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/pQ6mTs5k),
-and the first solution move is `e2a6`.
+It is `Black to move` in puzzle [s0Af3](https://lichess.org/training/s0Af3), rated `1542`.
+The game is `s1f3d303590r7u813n-x (1814)` vs `Javier125220 (1896)` at `10+0` time control,
+with themes `endgame, advantage, short`. You can [view the full game](https://lichess.org/xDdGhLYz),
+and the first solution move is `d6e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
