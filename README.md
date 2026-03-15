@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fpp2p1k1%2F2n3p1%2Fq5Qp%2F3Pb3%2F8%2FP2N1PP1%2FR3KB1R%20w%20KQ%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k3r2%2Fppp1q1pp%2F7n%2F8%2F1P2p3%2F4P1Q1%2FPP2B1PP%2FR3KR2%20b%20Q%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0PQSh](https://lichess.org/training/0PQSh), rated `1577`.
-The game is `Eugen_chess (2118)` vs `trasportalegname (2070)` at `10+5` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/61clxVRU),
-and the first solution move is `g5a5`.
+It is `Black to move` in puzzle [81lPI](https://lichess.org/training/81lPI), rated `1566`.
+The game is `Takerx (1766)` vs `Vadim321 (1664)` at `20+10` time control,
+with themes `exposedKing, veryLong, middlegame, advantage, fork`. You can [view the full game](https://lichess.org/4h9rY0uW),
+and the first solution move is `e7b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
