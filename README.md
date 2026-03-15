@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rrk2%2F1bR1n1p1%2Fp3P3%2F1p2Pp1p%2F5Pq1%2FPB2Q1NP%2F1P4P1%2F5R1K%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5pp1%2Fp4P2%2F3P4%2FR3BP1P%2Fq7%2F1p6%2F1K1Q4%20b%20-%20-%201%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [R1G2W](https://lichess.org/training/R1G2W), rated `1522`.
-The game is `elogrinder24 (1832)` vs `mido19821 (1831)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/gHzJjkmx),
-and the first solution move is `g4h3`.
+It is `Black to move` in puzzle [USx9V](https://lichess.org/training/USx9V), rated `1271`.
+The game is `andreikuzminmassage (1957)` vs `bublikd (1926)` at `10+0` time control,
+with themes `advancedPawn, short, fork, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/dtgg19s0),
+and the first solution move is `c8c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
