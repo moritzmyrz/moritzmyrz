@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k1r%2F1p1rbppp%2Fp1p5%2F4Q3%2F3P4%2Fq1P1R3%2FP1K5%2F4R3%20w%20-%20-%207%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7R%2F4p2p%2FQnk1Kp1b%2F1p1p4%2F3P4%2F1PP1q1P1%2F7n%2F8%20w%20-%20-%202%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vLPXO](https://lichess.org/training/vLPXO), rated `1303`.
-The game is `mc2chess (1778)` vs `Firefinch (1734)` at `2+1` time control,
-with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/MkMh6SBC),
-and the first solution move is `e5b8`.
+It is `White to move` in puzzle [CWk9H](https://lichess.org/training/CWk9H), rated `1332`.
+The game is `morytez1365 (1565)` vs `SoftRisk (1545)` at `10+5` time control,
+with themes `advantage, pin, long, endgame`. You can [view the full game](https://lichess.org/Y0zUxJ0d),
+and the first solution move is `e6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
