@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F8%2F1r3p2%2F2p2Pp1%2F2P2k1p%2F1PK5%2F2B3PP%2F1R6%20w%20-%20-%205%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fppp2p1p%2F2n5%2F6p1%2F4P3%2F2P1qNK1%2FPP1Q1nPP%2FRN3BR1%20b%20kq%20-%203%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Dp8qS](https://lichess.org/training/Dp8qS), rated `1325`.
-The game is `llampegar (1989)` vs `fumogu (2011)` at `5+3` time control,
-with themes `endgame, advantage, skewer, long`. You can [view the full game](https://lichess.org/ljqN98tl),
-and the first solution move is `b1f1`.
+It is `Black to move` in puzzle [zGooG](https://lichess.org/training/zGooG), rated `1301`.
+The game is `munkhbauar (1983)` vs `karunroma (2160)` at `15+0` time control,
+with themes `middlegame, mateIn1, oneMove`. You can [view the full game](https://lichess.org/6myC8sJH),
+and the first solution move is `f2e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
