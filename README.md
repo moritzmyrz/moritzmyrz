@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2R1b1rk%2Fp6p%2F7r%2F3p1p2%2F3PnP2%2F5N2%2FP5P1%2F3Q2K1%20b%20-%20-%203%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fppp1Pk2%2F3p1P1p%2F8%2F3b2PP%2F8%2FPP4K1%2F8%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JvHOV](https://lichess.org/training/JvHOV), rated `1463`.
-The game is `Ebtekar1390 (2272)` vs `yundi_depok (2285)` at `3+0` time control,
-with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/oxwHU6hy),
-and the first solution move is `h6h1`.
+It is `White to move` in puzzle [YAZGa](https://lichess.org/training/YAZGa), rated `1447`.
+The game is `MrThilon (1879)` vs `berhanu (1802)` at `3+2` time control,
+with themes `long, crushing, bishopEndgame, endgame`. You can [view the full game](https://lichess.org/TOg5EBtp),
+and the first solution move is `g4g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
