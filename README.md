@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fp4p2%2F5Qp1%2F3pqp1p%2F2p5%2F4r3%2FP5P1%2F1R5K%20w%20-%20-%200%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rrk2%2F1bR1n1p1%2Fp3P3%2F1p2Pp1p%2F5Pq1%2FPB2Q1NP%2F1P4P1%2F5R1K%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Q2gVQ](https://lichess.org/training/Q2gVQ), rated `1364`.
-The game is `alireza9090 (1835)` vs `Hartwass (1811)` at `10+0` time control,
-with themes `endgame, advantage, skewer, long, sacrifice`. You can [view the full game](https://lichess.org/MW0HqV3w),
-and the first solution move is `b1b8`.
+It is `Black to move` in puzzle [R1G2W](https://lichess.org/training/R1G2W), rated `1522`.
+The game is `elogrinder24 (1832)` vs `mido19821 (1831)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/gHzJjkmx),
+and the first solution move is `g4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
