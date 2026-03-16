@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2F1bp2ppp%2F3b4%2F8%2F5Pq1%2F3B4%2FPPP2QPP%2FR1B2RK1%20b%20-%20-%202%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F3qPQ1p%2Fpp1p1bp1%2F2p2p2%2F2P2P2%2F7P%2FP5P1%2F4R1K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [w7sjg](https://lichess.org/training/w7sjg), rated `1587`.
-The game is `sad44bar (1944)` vs `unbroken123 (1918)` at `5+3` time control,
-with themes `pin, short, crushing, middlegame`. You can [view the full game](https://lichess.org/htnugl1B),
-and the first solution move is `d6c5`.
+It is `White to move` in puzzle [5zxpj](https://lichess.org/training/5zxpj), rated `1330`.
+The game is `NEKILANCHESSPLAYER1 (2333)` vs `Arroyave3000 (2421)` at `10+0` time control,
+with themes `advancedPawn, short, promotion, kingsideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/zm5Qir78),
+and the first solution move is `f7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
