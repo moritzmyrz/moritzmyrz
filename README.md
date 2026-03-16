@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fpq5k%2F1p4rp%2F4b3%2F5p1P%2FP1P5%2F1P6%2F1B4RK%20w%20-%20-%209%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2Fppp2p1p%2F6p1%2F4bb2%2F4N3%2F2PBP2P%2FPPK2PP1%2FR6R%20b%20-%20-%204%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [r6vVE](https://lichess.org/training/r6vVE), rated `1587`.
-The game is `sakkouhi (1799)` vs `Erfan0072 (1778)` at `10+0` time control,
-with themes `endgame, short, crushing, pin, defensiveMove`. You can [view the full game](https://lichess.org/3iahuds2),
-and the first solution move is `h1h2`.
+It is `Black to move` in puzzle [0C4Wu](https://lichess.org/training/0C4Wu), rated `1572`.
+The game is `MrVaccilyBlokhin (1798)` vs `Roman-Chernov (1846)` at `10+5` time control,
+with themes `deflection, middlegame, advantage, attraction, long, sacrifice`. You can [view the full game](https://lichess.org/qqX6jfLM),
+and the first solution move is `d8d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
