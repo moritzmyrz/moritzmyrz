@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k2r2%2F1p5Q%2Fp3p3%2F4p2p%2FP1PpP1pP%2F2N3P1%2FR4qBK%2F4nN2%20b%20-%20-%202%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp6p%2F6p1%2F2p5%2FP4PP1%2F1Pk3K1%2F8%2F8%20w%20-%20-%201%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [a0r7k](https://lichess.org/training/a0r7k), rated `1647`.
-The game is `Ugly83 (2014)` vs `racosta21 (1643)` at `5+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/ri9feExZ),
-and the first solution move is `e1f3`.
+It is `White to move` in puzzle [VgW1E](https://lichess.org/training/VgW1E), rated `1321`.
+The game is `OhHeeellNo (1807)` vs `Ichschepperdichum (1698)` at `5+3` time control,
+with themes `veryLong, endgame, advancedPawn, crushing, promotion, pawnEndgame`. You can [view the full game](https://lichess.org/5wjMjSWP),
+and the first solution move is `f4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
