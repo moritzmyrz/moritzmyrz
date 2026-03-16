@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5n2%2F4k1pp%2Fp1P1pp2%2F8%2F1p6%2F2PR4%2F2r2PPP%2F5K2%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fp1rk2p1%2F1qb1p2p%2F3pP3%2F3P4%2F4P3%2FP5PP%2F5RK1%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qoNZN](https://lichess.org/training/qoNZN), rated `1369`.
-The game is `HelgasonBenedikt (1656)` vs `Manpacas-1976 (2226)` at `5+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, promotion`. You can [view the full game](https://lichess.org/tiaIDGtQ),
-and the first solution move is `c6c7`.
+It is `White to move` in puzzle [LoK0g](https://lichess.org/training/LoK0g), rated `1504`.
+The game is `Uchenik2003 (1952)` vs `NatsukiSubaru777 (1926)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/TqFeVwCt),
+and the first solution move is `f1f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
