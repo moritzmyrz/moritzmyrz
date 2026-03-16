@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2p3pp%2F2n4r%2Fp1N5%2FP2PR1qP%2F1PP2pP1%2F5P1K%2F1R1Q4%20b%20-%20-%206%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fpq5k%2F1p4rp%2F4b3%2F5p1P%2FP1P5%2F1P6%2F1B4RK%20w%20-%20-%209%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [RksVQ](https://lichess.org/training/RksVQ), rated `1569`.
-The game is `Schachbrettbauer (1786)` vs `jaishreeram30 (1609)` at `0+3` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/tesrt8v5),
-and the first solution move is `h6h4`.
+It is `White to move` in puzzle [r6vVE](https://lichess.org/training/r6vVE), rated `1587`.
+The game is `sakkouhi (1799)` vs `Erfan0072 (1778)` at `10+0` time control,
+with themes `endgame, short, crushing, pin, defensiveMove`. You can [view the full game](https://lichess.org/3iahuds2),
+and the first solution move is `h1h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
