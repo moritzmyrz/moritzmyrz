@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FQ4pp1%2F1p5p%2F2p5%2FP2q1r2%2F1P6%2F6PP%2F5R1K%20w%20-%20-%204%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2p3pp%2F2n4r%2Fp1N5%2FP2PR1qP%2F1PP2pP1%2F5P1K%2F1R1Q4%20b%20-%20-%206%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UOKqa](https://lichess.org/training/UOKqa), rated `1601`.
-The game is `rtfiction (1524)` vs `enrotchess (1503)` at `2+1` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/tQu2xWH9),
-and the first solution move is `a7b8`.
+It is `Black to move` in puzzle [RksVQ](https://lichess.org/training/RksVQ), rated `1569`.
+The game is `Schachbrettbauer (1786)` vs `jaishreeram30 (1609)` at `0+3` time control,
+with themes `veryLong, middlegame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/tesrt8v5),
+and the first solution move is `h6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
