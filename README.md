@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1Q3ppp%2F1p2p3%2F8%2F2R2RK1%2FP2rq2P%2F6P1%2F8%20w%20-%20-%205%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4Nkr1%2FpQ3p1q%2F5b2%2F8%2F4P2p%2F2PP2P1%2FPP1NbP2%2FR4RK1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8JLsJ](https://lichess.org/training/8JLsJ), rated `1447`.
-The game is `Raghav6426 (1815)` vs `Bulletfordays (1868)` at `5+0` time control,
-with themes `veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/mSqnsvfi),
-and the first solution move is `b7f7`.
+It is `Black to move` in puzzle [kMWD0](https://lichess.org/training/kMWD0), rated `1585`.
+The game is `Duesendave (1915)` vs `Rheyh (1971)` at `5+0` time control,
+with themes `kingsideAttack, crushing, long, middlegame`. You can [view the full game](https://lichess.org/kfcC0sC4),
+and the first solution move is `h4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
