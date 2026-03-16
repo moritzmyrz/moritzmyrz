@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fpp2b2p%2F5qpQ%2F5P2%2F3p2K1%2F3B3P%2FPPP5%2F8%20b%20-%20-%202%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5n2%2F4k1pp%2Fp1P1pp2%2F8%2F1p6%2F2PR4%2F2r2PPP%2F5K2%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hY9Jq](https://lichess.org/training/hY9Jq), rated `1554`.
-The game is `TEMPORALGAMER (2054)` vs `Ples2020 (2001)` at `10+0` time control,
-with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/zEcjjCbj),
-and the first solution move is `g6f5`.
+It is `White to move` in puzzle [qoNZN](https://lichess.org/training/qoNZN), rated `1369`.
+The game is `HelgasonBenedikt (1656)` vs `Manpacas-1976 (2226)` at `5+0` time control,
+with themes `veryLong, endgame, advancedPawn, crushing, promotion`. You can [view the full game](https://lichess.org/tiaIDGtQ),
+and the first solution move is `c6c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
