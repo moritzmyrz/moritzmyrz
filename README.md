@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5Rpp%2F2P5%2F3qP3%2F8%2F4P1Pb%2FP4Q1P%2F4R1K1%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1rb2rk1%2F1p3pbp%2Fp1npp1p1%2F2n5%2F1NP1P3%2F5P2%2F1qNBB1PP%2F2RQ1RK1%20w%20-%20-%202%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [21f68](https://lichess.org/training/21f68), rated `1567`.
-The game is `DentMan89 (1922)` vs `Eschik (1915)` at `10+0` time control,
-with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/H3bviXFg),
-and the first solution move is `d5f7`.
+It is `White to move` in puzzle [AS4c5](https://lichess.org/training/AS4c5), rated `1592`.
+The game is `DylanYuIM (2038)` vs `matkens0123 (2080)` at `5+3` time control,
+with themes `short, advantage, master, opening`. You can [view the full game](https://lichess.org/UGwppoGb),
+and the first solution move is `c1b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
