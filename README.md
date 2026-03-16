@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpk3Q2%2F1pp5%2F8%2F6q1%2F5Nbp%2F5P2%2F5RK1%20b%20-%20-%201%2050&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpp1q1ppp%2F3p1n2%2F4pn2%2FQ1B5%2F2P5%2FPP1B1PPP%2FRN2K2R%20w%20KQkq%20-%202%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Mauas](https://lichess.org/training/Mauas), rated `1448`.
-The game is `jmb50 (1684)` vs `RayitoGonzale (1665)` at `5+3` time control,
-with themes `short, discoveredCheck, discoveredAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/OMZhDtsY),
-and the first solution move is `g3c7`.
+It is `White to move` in puzzle [nZ0FD](https://lichess.org/training/nZ0FD), rated `1486`.
+The game is `gegeev (1866)` vs `squalt (1908)` at `5+5` time control,
+with themes `opening, short, crushing, pin`. You can [view the full game](https://lichess.org/aBbuJ181),
+and the first solution move is `c4b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
