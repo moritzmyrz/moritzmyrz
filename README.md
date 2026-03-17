@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2p4%2F1prP2p1%2Fr3pk2%2FP1P3R1%2F4P2P%2F4K3%2FR7%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F4B1pp%2F1n1P4%2Fp2B4%2F1kP1P3%2FR7%2F1P2q2P%2F1K6%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [FJZqb](https://lichess.org/training/FJZqb), rated `1487`.
-The game is `Fallstudier (2135)` vs `ingrid-bergman (2102)` at `10+0` time control,
-with themes `deflection, short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/xvFCbG5Z),
-and the first solution move is `a1f1`.
+It is `White to move` in puzzle [uO7dU](https://lichess.org/training/uO7dU), rated `1283`.
+The game is `tambora63 (1847)` vs `McGuinness00 (1791)` at `10+5` time control,
+with themes `advancedPawn, middlegame, oneMove, mateIn1, discoveredAttack`. You can [view the full game](https://lichess.org/oMmOnjBb),
+and the first solution move is `d6d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
