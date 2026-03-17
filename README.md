@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F4B1pp%2F1n1P4%2Fp2B4%2F1kP1P3%2FR7%2F1P2q2P%2F1K6%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7Q%2F8%2F1p1q2p1%2Fp4pk1%2F8%2FP2p1P2%2F5KPP%2F8%20w%20-%20-%202%2055&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [uO7dU](https://lichess.org/training/uO7dU), rated `1283`.
-The game is `tambora63 (1847)` vs `McGuinness00 (1791)` at `10+5` time control,
-with themes `advancedPawn, middlegame, oneMove, mateIn1, discoveredAttack`. You can [view the full game](https://lichess.org/oMmOnjBb),
-and the first solution move is `d6d7`.
+It is `White to move` in puzzle [mqkKx](https://lichess.org/training/mqkKx), rated `1560`.
+The game is `PPPP2222 (1966)` vs `Amador_capivara (1951)` at `10+0` time control,
+with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/UZLh3uEi),
+and the first solution move is `h2h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
