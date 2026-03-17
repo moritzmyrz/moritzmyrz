@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1p4pp%2Fp2p1q2%2F2PPp3%2F5n2%2FNN2Q1Pb%2F5P1P%2F2R1R1K1%20w%20-%20-%203%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R5r%2FpRnk2p1%2F2p1p3%2FP3P2p%2F4Nn1q%2F3r4%2F4NPP1%2F6K1%20w%20-%20-%204%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [svZvd](https://lichess.org/training/svZvd), rated `1576`.
-The game is `AJadePorgCat (2551)` vs `nooartur (2533)` at `3+2` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/Rg6OmG8f),
-and the first solution move is `g3f4`.
+It is `White to move` in puzzle [yAHLa](https://lichess.org/training/yAHLa), rated `1361`.
+The game is `Cap_Blood (2173)` vs `Mariteemo (2105)` at `3+0` time control,
+with themes `deflection, middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/fLQYZtI2),
+and the first solution move is `e4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
