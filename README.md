@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp1r2R2%2F1pq1Q1pp%2F3pP3%2F6P1%2F8%2FP5KP%2F8%20w%20-%20-%203%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fpb1r4%2F2pr3p%2F2b5%2F7B%2F2P1p3%2FPPK1B2P%2F3R3R%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [uPOjq](https://lichess.org/training/uPOjq), rated `1502`.
-The game is `ahmadhappy (1751)` vs `beatan (1710)` at `5+3` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/xK7FHtVK),
-and the first solution move is `f7f8`.
+It is `Black to move` in puzzle [Rmkbv](https://lichess.org/training/Rmkbv), rated `1366`.
+The game is `Leo_Mirana81 (2246)` vs `gmadham (2490)` at `10+0` time control,
+with themes `short, collinearMove, crushing, fork, master, middlegame`. You can [view the full game](https://lichess.org/csjMzv2i),
+and the first solution move is `d6d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
