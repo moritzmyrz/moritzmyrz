@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4K3%2Fppp5%2F7R%2F1P6%2F8%2F8%2FP5k1%2F7q%20w%20-%20-%200%2060&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3rk3%2F2p1p1Pp%2F1pq1n3%2F4PRP1%2FP1N5%2F1PPrB3%2F1K3R2%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EDiqU](https://lichess.org/training/EDiqU), rated `1417`.
-The game is `Rayth (1889)` vs `soleh89 (1908)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/dp0teWqO),
-and the first solution move is `h6h1`.
+It is `White to move` in puzzle [hM7cQ](https://lichess.org/training/hM7cQ), rated `1459`.
+The game is `elhlwagy90 (2409)` vs `Plaskett7 (2421)` at `3+0` time control,
+with themes `advancedPawn, short, crushing, promotion, master, middlegame`. You can [view the full game](https://lichess.org/X5LW48Ae),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
