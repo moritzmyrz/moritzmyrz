@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FQ1p5%2F8%2F8%2F8%2F5kpK%2F4p1N1%2F3q4%20w%20-%20-%202%2061&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1n2r1k1%2FpQ3ppp%2F2p5%2F7q%2F2B5%2F5Rbn%2FPP1N2NP%2FR1B4K%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hGjQ0](https://lichess.org/training/hGjQ0), rated `1481`.
-The game is `h0rsep0wer (1873)` vs `MaratHaparovich11111 (1844)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/X5PLqYS2),
-and the first solution move is `a7e3`.
+It is `Black to move` in puzzle [ccLOB](https://lichess.org/training/ccLOB), rated `1512`.
+The game is `Alexandr-Nazarov (1713)` vs `Carlgustaf (1720)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, kingsideAttack, discoveredAttack, pin`. You can [view the full game](https://lichess.org/54QsQTDN),
+and the first solution move is `h3f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
