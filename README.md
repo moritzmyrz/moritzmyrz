@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r1bnr%2Fpbp1P1pp%2F1p4q1%2F2n2N2%2F2B5%2F2N5%2FPPP1QPPP%2FR1B2RK1%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F5rpp%2Fp1b1R3%2F2p5%2FP2p4%2F1Q1P2PP%2F1P6%2F3RB1K1%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [z515R](https://lichess.org/training/z515R), rated `1499`.
-The game is `DzzD (1730)` vs `inarisound (1933)` at `3+0` time control,
-with themes `oneMove, opening, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/QWYlaFEt),
-and the first solution move is `g6g2`.
+It is `Black to move` in puzzle [2nYQ4](https://lichess.org/training/2nYQ4), rated `1307`.
+The game is `bedo777 (2109)` vs `Mister5x (1983)` at `3+2` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/Td2xMz8X),
+and the first solution move is `f7f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
