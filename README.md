@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fp1rk2p1%2F1qb1p2p%2F3pP3%2F3P4%2F4P3%2FP5PP%2F5RK1%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp5pp%2F8%2F1p1p4%2F1P1P4%2FP1R1Q3%2F3qb2P%2F2R4K%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [LoK0g](https://lichess.org/training/LoK0g), rated `1504`.
-The game is `Uchenik2003 (1952)` vs `NatsukiSubaru777 (1926)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/TqFeVwCt),
-and the first solution move is `f1f7`.
+It is `Black to move` in puzzle [NkdaF](https://lichess.org/training/NkdaF), rated `1528`.
+The game is `Almeida1974 (2378)` vs `bingshan (2354)` at `3+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/oSzaoRoX),
+and the first solution move is `e2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
