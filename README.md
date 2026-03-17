@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1r1k%2Fp4ppp%2F2p1b3%2F2ppP3%2F3P1N1b%2F2P3Q1%2FP1P3PP%2FR1B2RK1%20w%20-%20-%208%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F1b2pp1p%2FpN4p1%2FP3p3%2F1q1rPP2%2FR3Q2P%2F5P2%2F4RBK1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Dc50b](https://lichess.org/training/Dc50b), rated `1610`.
-The game is `Grindelwald7 (2404)` vs `sergeikim2003 (2565)` at `3+0` time control,
-with themes `crushing, long, kingsideAttack, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/43x4lrMJ),
-and the first solution move is `f4e6`.
+It is `Black to move` in puzzle [U5H3b](https://lichess.org/training/U5H3b), rated `1477`.
+The game is `zlatnakisa33 (2491)` vs `Attack2GM (2657)` at `3+2` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/lkGLMUKd),
+and the first solution move is `d4e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
