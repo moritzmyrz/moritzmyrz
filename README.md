@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2Fp4pp1%2F1n2p2p%2F3bP3%2F4N2P%2F5NP1%2F1bqR1P2%2F3RQ1K1%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2p2p2%2F7Q%2F1p1P3R%2F5pq1%2FPB5b%2F1P3Pr1%2F2R4K%20b%20-%20-%202%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dEw1j](https://lichess.org/training/dEw1j), rated `1423`.
-The game is `Ishmael67 (2389)` vs `manerolocrazo (2529)` at `3+0` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/c0RVs5rF),
-and the first solution move is `c2e4`.
+It is `Black to move` in puzzle [HKwsb](https://lichess.org/training/HKwsb), rated `1506`.
+The game is `karaengpanranga (1950)` vs `TeJaSs_ToRnAdO2010 (1908)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice`. You can [view the full game](https://lichess.org/5Yg1wLlu),
+and the first solution move is `g2h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
