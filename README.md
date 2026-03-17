@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5ppp%2F1p3q2%2Fp2p1p2%2Fb2P1Q2%2FP2N4%2F5PPP%2F1R2B1K1%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2p4%2F1prP2p1%2Fr3pk2%2FP1P3R1%2F4P2P%2F4K3%2FR7%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1mFjM](https://lichess.org/training/1mFjM), rated `1372`.
-The game is `newtelepod (1873)` vs `reflexhammer (1845)` at `5+8` time control,
-with themes `fork, advantage, short, middlegame`. You can [view the full game](https://lichess.org/4oR2QNMc),
-and the first solution move is `a4c2`.
+It is `White to move` in puzzle [FJZqb](https://lichess.org/training/FJZqb), rated `1487`.
+The game is `Fallstudier (2135)` vs `ingrid-bergman (2102)` at `10+0` time control,
+with themes `deflection, short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/xvFCbG5Z),
+and the first solution move is `a1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
