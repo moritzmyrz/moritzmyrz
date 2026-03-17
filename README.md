@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2F6p1%2Fp6p%2F3qRp2%2F1PpP4%2FP1R2P2%2F6PP%2F3Q2K1%20b%20-%20-%201%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2F5pbp%2Fp1q1pP2%2F1p2P3%2F2p1P3%2F2P4P%2FP3Q1PB%2F5N1K%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dDuTp](https://lichess.org/training/dDuTp), rated `1590`.
-The game is `fishstone (2055)` vs `Marcelmss (2027)` at `10+0` time control,
-with themes `endgame, short, discoveredAttack, crushing`. You can [view the full game](https://lichess.org/IiJoD365),
-and the first solution move is `d5e5`.
+It is `White to move` in puzzle [xiUys](https://lichess.org/training/xiUys), rated `1546`.
+The game is `DragonPeople3365 (2105)` vs `Schuppiluliuma (2356)` at `3+0` time control,
+with themes `middlegame, kingsideAttack, mateIn4, deflection, veryLong`. You can [view the full game](https://lichess.org/lCZgsUF3),
+and the first solution move is `e2g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
