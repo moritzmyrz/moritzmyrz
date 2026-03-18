@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F3kp3%2F8%2F2p4Q%2F3bR2B%2F7P%2F1q3PP1%2F6K1%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp1n2p1%2F1q2p1QB%2F8%2F2pP4%2F6R1%2FPP4PP%2FRN4K1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [QjYr5](https://lichess.org/training/QjYr5), rated `1558`.
-The game is `kc6 (2566)` vs `HomeAp (2487)` at `3+0` time control,
-with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/CBrJ2CW2),
-and the first solution move is `b2b1`.
+It is `Black to move` in puzzle [S9CDR](https://lichess.org/training/S9CDR), rated `1595`.
+The game is `ProfMikeC (1811)` vs `jurslx (1807)` at `3+0` time control,
+with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/p5vbdR7w),
+and the first solution move is `b6d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
