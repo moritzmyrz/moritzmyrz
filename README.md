@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fpp3p1p%2F2p2np1%2F6B1%2F3P2b1%2F1P1B4%2FP4PP1%2FR2Q2KR%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F7p%2F5P2%2Fk5p1%2F3K2P1%2F1p5P%2F8%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [JTYgw](https://lichess.org/training/JTYgw), rated `1446`.
-The game is `ChessFor16 (1710)` vs `HB1959 (1680)` at `10+5` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/e8PhBpez),
-and the first solution move is `g5f6`.
+It is `White to move` in puzzle [u9BSb](https://lichess.org/training/u9BSb), rated `1345`.
+The game is `WeicedBoy (2343)` vs `BraggingKnight (2280)` at `3+0` time control,
+with themes `endgame, crushing, pawnEndgame, long`. You can [view the full game](https://lichess.org/7J5DNsvv),
+and the first solution move is `d3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
