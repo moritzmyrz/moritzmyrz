@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp1n2p1%2F1q2p1QB%2F8%2F2pP4%2F6R1%2FPP4PP%2FRN4K1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2F1p3p2%2F3q3k%2Fp1p2Q1p%2FP3P3%2F3P4%2F1PP5%2F2K3R1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [S9CDR](https://lichess.org/training/S9CDR), rated `1595`.
-The game is `ProfMikeC (1811)` vs `jurslx (1807)` at `3+0` time control,
-with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/p5vbdR7w),
-and the first solution move is `b6d4`.
+It is `White to move` in puzzle [a75o6](https://lichess.org/training/a75o6), rated `1420`.
+The game is `IronDoc (1727)` vs `lintamacar (1695)` at `5+3` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/kaykVwO8),
+and the first solution move is `f5g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
