@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fp1p3rp%2F1p3Q2%2F1P3p2%2F3PpP2%2F5q2%2F6RR%2F6K1%20w%20-%20-%202%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fpp3p1p%2F2p2np1%2F6B1%2F3P2b1%2F1P1B4%2FP4PP1%2FR2Q2KR%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SEgIL](https://lichess.org/training/SEgIL), rated `1455`.
-The game is `omolesam (1832)` vs `NisiMan (1850)` at `3+0` time control,
-with themes `endgame, attraction, long, mateIn3, sacrifice, pin`. You can [view the full game](https://lichess.org/0twmqnyz),
-and the first solution move is `h2h7`.
+It is `White to move` in puzzle [JTYgw](https://lichess.org/training/JTYgw), rated `1446`.
+The game is `ChessFor16 (1710)` vs `HB1959 (1680)` at `10+5` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/e8PhBpez),
+and the first solution move is `g5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
