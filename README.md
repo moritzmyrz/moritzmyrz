@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2F1b5R%2Fp7%2F1p1p4%2FP2B3q%2F2PQ1Pn1%2F1PB3P1%2F6K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2FppR4p%2F6p1%2F6b1%2F8%2F1PQp4%2FP4PPP%2F3KNq2%20b%20-%20-%203%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [S2Fdd](https://lichess.org/training/S2Fdd), rated `1321`.
-The game is `MichaelP007 (1992)` vs `shemr-1 (1980)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/QfrdyTM5),
-and the first solution move is `e8e1`.
+It is `Black to move` in puzzle [dXBg3](https://lichess.org/training/dXBg3), rated `1470`.
+The game is `RajeshTilante (2143)` vs `yecyec313 (2239)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/g1ewJI4y),
+and the first solution move is `f1e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
