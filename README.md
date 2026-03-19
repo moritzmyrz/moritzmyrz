@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2Fpb1q1pkp%2F1p2p1p1%2F2p5%2F2P1NP2%2F1P5R%2FP3Q1PP%2F2R3K1%20w%20-%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fpbp5%2F3p1B2%2F3P3p%2FP3R1pP%2FKP6%2F5r2%2F8%20w%20-%20-%202%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jKpyq](https://lichess.org/training/jKpyq), rated `1574`.
-The game is `Tinaa96 (1696)` vs `AlexDchess63 (1710)` at `10+5` time control,
-with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/6TyyEOSB),
-and the first solution move is `h3h7`.
+It is `White to move` in puzzle [9qxFT](https://lichess.org/training/9qxFT), rated `1425`.
+The game is `Giuseppe1954 (1954)` vs `bukazoid (1910)` at `3+2` time control,
+with themes `short, operaMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/G5W5ai2a),
+and the first solution move is `e4e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
