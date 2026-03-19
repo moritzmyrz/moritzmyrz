@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4kp1p%2Fp5p1%2FP3KPP1%2F7P%2F8%2F8%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k4rr1%2Fpp6%2F2p1Q3%2F4R3%2FP6p%2F3P4%2F1PPq2BP%2F6RK%20b%20-%20-%202%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SKiRR](https://lichess.org/training/SKiRR), rated `1275`.
-The game is `djole77 (2108)` vs `Classemence (2096)` at `3+0` time control,
-with themes `endgame, crushing, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/rUZ4I2Hl),
-and the first solution move is `f4f5`.
+It is `Black to move` in puzzle [Iqjnz](https://lichess.org/training/Iqjnz), rated `1518`.
+The game is `Mikhail1984 (1886)` vs `teszub (1869)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/D7H8xM8G),
+and the first solution move is `d2g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
