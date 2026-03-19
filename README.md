@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkp%2F4q1p1%2Fp1RP4%2FP7%2F5Q1P%2F1Pn2PPK%2F8%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpp1q1pp1%2F3p2n1%2F6pQ%2F8%2F7R%2FPP4PP%2F4R1K1%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oimSs](https://lichess.org/training/oimSs), rated `1511`.
-The game is `cremant3 (1750)` vs `RomanZak (1736)` at `10+10` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/nAitGTac),
-and the first solution move is `e6d6`.
+It is `White to move` in puzzle [6RitV](https://lichess.org/training/6RitV), rated `1393`.
+The game is `Yr13rudruv (1631)` vs `castro830 (1733)` at `8+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/s9vOvhHR),
+and the first solution move is `h5h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
