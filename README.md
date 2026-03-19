@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1k1nr%2FQpqb1ppp%2F4p3%2F8%2F1b2P3%2FP4N2%2F1P1PBPPP%2FR1B2RK1%20b%20k%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F1pp2ppp%2F1b6%2FpP2p3%2FP3n3%2FB1PQ1N1b%2F5PnP%2FRN4KR%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [deHFW](https://lichess.org/training/deHFW), rated `1288`.
-The game is `kahitna1 (1890)` vs `Gumexghost (1943)` at `5+0` time control,
-with themes `trappedPiece, advantage, short, opening`. You can [view the full game](https://lichess.org/uxNAGgCT),
-and the first solution move is `b4c5`.
+It is `Black to move` in puzzle [UOAw1](https://lichess.org/training/UOAw1), rated `1559`.
+The game is `s1mple99 (1655)` vs `forgen (1923)` at `20+10` time control,
+with themes `mateIn2, middlegame, short, discoveredCheck, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/B2RpicvQ),
+and the first solution move is `b6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
