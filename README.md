@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2Fp1p1K1kB%2F1pP2nP1%2F8%2FPP6%2F8%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1nr%2Fppq1p2p%2F3p2p1%2F8%2F4P3%2F2PP4%2Fn2BNPP1%2FbN1QKB1R%20w%20Kkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xNpj3](https://lichess.org/training/xNpj3), rated `1488`.
-The game is `Yusuf_Otokoc (1996)` vs `Otokoc_YunusSolak (1905)` at `10+5` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/EuhRWCm4),
-and the first solution move is `f4d3`.
+It is `White to move` in puzzle [9db7f](https://lichess.org/training/9db7f), rated `1292`.
+The game is `MichaelWChess (1765)` vs `hsebtih89 (1762)` at `10+0` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/cmAZ7dpQ),
+and the first solution move is `d1a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
