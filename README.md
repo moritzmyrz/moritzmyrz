@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F2R1rp1p%2F5k2%2F5P2%2F6P1%2F8%2F5K2%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2Fpb1q1pkp%2F1p2p1p1%2F2p5%2F2P1NP2%2F1P5R%2FP3Q1PP%2F2R3K1%20w%20-%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ABKMD](https://lichess.org/training/ABKMD), rated `1556`.
-The game is `Superfm1 (2641)` vs `A380isthebest (2610)` at `3+0` time control,
-with themes `deflection, endgame, master, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/0CI67idh),
-and the first solution move is `g3g4`.
+It is `White to move` in puzzle [jKpyq](https://lichess.org/training/jKpyq), rated `1574`.
+The game is `Tinaa96 (1696)` vs `AlexDchess63 (1710)` at `10+5` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/6TyyEOSB),
+and the first solution move is `h3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
