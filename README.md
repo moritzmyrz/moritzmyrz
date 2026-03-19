@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1p2p1Bp%2Fp3b2n%2F2pp4%2F6Pq%2F1P2P2P%2FP1PN1P2%2FR3KB1R%20w%20KQ%20-%201%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1qkr4%2F2p2pp1%2F2Q4p%2F8%2F8%2F8%2FPP3P1P%2F3R3K%20w%20-%20-%201%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [82Dfe](https://lichess.org/training/82Dfe), rated `1529`.
-The game is `ramadan5555 (1990)` vs `baluyotmelanio (2056)` at `3+0` time control,
-with themes `advantage, short, trappedPiece, middlegame`. You can [view the full game](https://lichess.org/fMmnzdT4),
-and the first solution move is `d2f3`.
+It is `White to move` in puzzle [4A5Oy](https://lichess.org/training/4A5Oy), rated `1364`.
+The game is `Bambyk23 (1848)` vs `Magnolia_Parker (1833)` at `30+0` time control,
+with themes `long, crushing, endgame`. You can [view the full game](https://lichess.org/uFJyWn8J),
+and the first solution move is `c6a6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
