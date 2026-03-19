@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q1r2%2F1b2ppkp%2Fp2p1np1%2F1p1P4%2F2r1P3%2FPPN2N1P%2F3Q1PP1%2FR3K2R%20b%20KQ%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1p2p1Bp%2Fp3b2n%2F2pp4%2F6Pq%2F1P2P2P%2FP1PN1P2%2FR3KB1R%20w%20KQ%20-%201%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ox5wM](https://lichess.org/training/Ox5wM), rated `1420`.
-The game is `Gumbovariator (1837)` vs `BosesGesicht (1843)` at `15+15` time control,
-with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/P3qJ3lBT),
-and the first solution move is `f6e4`.
+It is `White to move` in puzzle [82Dfe](https://lichess.org/training/82Dfe), rated `1529`.
+The game is `ramadan5555 (1990)` vs `baluyotmelanio (2056)` at `3+0` time control,
+with themes `advantage, short, trappedPiece, middlegame`. You can [view the full game](https://lichess.org/fMmnzdT4),
+and the first solution move is `d2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
