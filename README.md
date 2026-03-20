@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rr1k%2Fpp1q1pb1%2F2p4p%2F3n3R%2F3P4%2F2PQ3P%2FPP4P1%2FR1B3K1%20w%20-%20-%204%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F4qp1p%2F2bp1Rp1%2FpNp4n%2FP1P1P2Q%2F3B1R2%2F1P4PP%2F7K%20w%20-%20-%2015%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Y0w9t](https://lichess.org/training/Y0w9t), rated `1615`.
-The game is `gurkensepp (1853)` vs `dkcohio (1831)` at `2+1` time control,
-with themes `exposedKing, middlegame, attraction, long, kingsideAttack, doubleCheck, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/A7mzMnM5),
-and the first solution move is `c1h6`.
+It is `White to move` in puzzle [bJ7h6](https://lichess.org/training/bJ7h6), rated `1329`.
+The game is `Dinog (1973)` vs `zbigGig (2134)` at `15+0` time control,
+with themes `middlegame, short, crushing, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/jf46CDNt),
+and the first solution move is `f6g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
