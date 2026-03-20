@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fp4prp%2F1p2bQ2%2F8%2F2Pp4%2FqP4R1%2FB5K1%2F7R%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F2q4p%2F3r1pp1%2F1Q6%2F2p5%2FP6P%2F2b2P2%2F4R1K1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tlR4K](https://lichess.org/training/tlR4K), rated `1462`.
-The game is `kavi0t (1830)` vs `Dalghat (1825)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, pin`. You can [view the full game](https://lichess.org/JcubQvRx),
-and the first solution move is `h1h7`.
+It is `White to move` in puzzle [oVhEI](https://lichess.org/training/oVhEI), rated `1297`.
+The game is `Mikhail_Mikhaylov (1752)` vs `Mtroche (1761)` at `10+0` time control,
+with themes `exposedKing, endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/jVDjDGPZ),
+and the first solution move is `b5e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
