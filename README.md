@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fpppp1ppp%2F8%2F3Pp3%2F1b1Pn2q%2F3BB3%2FPP1N1PPP%2FR2QK1NR%20b%20KQkq%20-%203%208&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=kq2r3%2Fpp1K3R%2F5Q2%2F6p1%2F2P1p3%2F1P2P3%2FP5B1%2F8%20b%20-%20-%203%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [APk0e](https://lichess.org/training/APk0e), rated `1304`.
-The game is `opening21 (1921)` vs `Jack2205 (1866)` at `10+0` time control,
-with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/Vpgw4XTa),
-and the first solution move is `b4d2`.
+It is `Black to move` in puzzle [LVYBh](https://lichess.org/training/LVYBh), rated `1479`.
+The game is `lan15 (1999)` vs `ZAWUL00N (1953)` at `3+2` time control,
+with themes `short, killBoxMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/QOSqeQQU),
+and the first solution move is `b8c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
