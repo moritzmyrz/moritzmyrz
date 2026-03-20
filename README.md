@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpppq2b1%2F2n4p%2F3Np1p1%2F4P3%2F2N2Q2%2FPPP3PP%2F5RK1%20w%20-%20-%206%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4pp1p%2F3p2p1%2F7q%2F6P1%2FPNn2P1b%2F8%2FR1Q2R1K%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IPWXc](https://lichess.org/training/IPWXc), rated `1552`.
-The game is `A62541130ALIM (1512)` vs `Rodrish20 (1813)` at `10+0` time control,
-with themes `exposedKing, middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/WNypa7NN),
-and the first solution move is `f3f8`.
+It is `Black to move` in puzzle [fysA3](https://lichess.org/training/fysA3), rated `1547`.
+The game is `Ramslim (1764)` vs `EmmanuelLasker (1682)` at `5+6` time control,
+with themes `middlegame, short, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/Lrs35X2u),
+and the first solution move is `h3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
