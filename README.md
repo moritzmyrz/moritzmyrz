@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fpp2bppp%2F2p2n2%2Fq5B1%2F2N1P3%2F2N5%2FPPP2PPP%2FR2QKB1R%20b%20KQkq%20-%202%208&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rq1rk1%2FpQ3ppp%2F5n2%2F4R3%2FP2p4%2F8%2FPB1P1PPP%2F4R1K1%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6NfA8](https://lichess.org/training/6NfA8), rated `1526`.
-The game is `gobaha (1839)` vs `PavelGloba (1805)` at `3+2` time control,
-with themes `short, advantage, hangingPiece, opening`. You can [view the full game](https://lichess.org/zFfBk0Mz),
-and the first solution move is `a5g5`.
+It is `Black to move` in puzzle [uxXVg](https://lichess.org/training/uxXVg), rated `1606`.
+The game is `Rasenkyuugan (1875)` vs `GeoChesser (1856)` at `10+5` time control,
+with themes `middlegame, skewer, short, advantage`. You can [view the full game](https://lichess.org/wt3YGap4),
+and the first solution move is `c8b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
