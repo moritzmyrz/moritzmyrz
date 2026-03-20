@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5kr1%2F4pp1p%2F3p2q1%2FpQ1b1p2%2F5B2%2FP6P%2F1P3nPK%2F4R1R1%20b%20-%20-%202%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpppq2b1%2F2n4p%2F3Np1p1%2F4P3%2F2N2Q2%2FPPP3PP%2F5RK1%20w%20-%20-%206%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FblMR](https://lichess.org/training/FblMR), rated `1594`.
-The game is `vicuna (2225)` vs `MultilacRnD (1969)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, operaMate, sacrifice`. You can [view the full game](https://lichess.org/juinz7xr),
-and the first solution move is `g6g2`.
+It is `White to move` in puzzle [IPWXc](https://lichess.org/training/IPWXc), rated `1552`.
+The game is `A62541130ALIM (1512)` vs `Rodrish20 (1813)` at `10+0` time control,
+with themes `exposedKing, middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/WNypa7NN),
+and the first solution move is `f3f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
