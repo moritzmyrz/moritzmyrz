@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpppq1pp1%2F3p4%2F3Pp1p1%2F2P1R1Q1%2F1P1P3P%2FP4PP1%2F1R4K1%20b%20-%20-%201%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6k1%2F4Kp1p%2F8%2F5PP1%2F8%2F8%20b%20-%20-%202%2050&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bAQT1](https://lichess.org/training/bAQT1), rated `1327`.
-The game is `elverenduran (1715)` vs `dolgomud (1681)` at `15+10` time control,
-with themes `endgame, fork, advantage, short`. You can [view the full game](https://lichess.org/IXR6jueQ),
-and the first solution move is `f7f5`.
+It is `Black to move` in puzzle [17aEL](https://lichess.org/training/17aEL), rated `1437`.
+The game is `Bfisher111 (2263)` vs `MaestroDuncan (2360)` at `3+0` time control,
+with themes `veryLong, endgame, advancedPawn, zugzwang, crushing, quietMove, promotion, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/nC7zBAa3),
+and the first solution move is `g6g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
