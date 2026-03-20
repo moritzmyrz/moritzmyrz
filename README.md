@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k1pp1%2F2bpp3%2FP3n2p%2F1RP1P2b%2F3BBP1P%2F3K2P1%2F8%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpp1b1ppp%2F1q2p3%2Fn2pP3%2FQ7%2F5B2%2F1P3PPP%2FRNB2RK1%20w%20kq%20-%202%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uiZRI](https://lichess.org/training/uiZRI), rated `1520`.
-The game is `bn146 (2110)` vs `rensleyM (2127)` at `3+2` time control,
-with themes `exposedKing, deflection, endgame, master, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/TULmKQuR),
-and the first solution move is `h4e1`.
+It is `White to move` in puzzle [GSYI0](https://lichess.org/training/GSYI0), rated `1405`.
+The game is `struk1961 (1813)` vs `Abelardo92 (1794)` at `10+0` time control,
+with themes `advantage, short, opening`. You can [view the full game](https://lichess.org/kWZtrmAn),
+and the first solution move is `a4a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
