@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fppp2ppp%2F2n1pn2%2F6B1%2F2pq4%2F2N2BPP%2FPP2PP2%2FR2QK2R%20w%20KQkq%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pp%2Fp1k5%2F1p1n4%2F3PN3%2Fr1PK1P2%2FP1R3PP%2F8%20b%20-%20-%205%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rOfir](https://lichess.org/training/rOfir), rated `1278`.
-The game is `ashwini30kumar_123 (1911)` vs `Arbab123 (1971)` at `10+0` time control,
-with themes `middlegame, short, crushing, intermezzo`. You can [view the full game](https://lichess.org/NIZlX2nC),
-and the first solution move is `f3c6`.
+It is `Black to move` in puzzle [ufM4d](https://lichess.org/training/ufM4d), rated `1547`.
+The game is `Alexkalen (2062)` vs `ayman111 (2117)` at `10+0` time control,
+with themes `endgame, short, advantage, pin`. You can [view the full game](https://lichess.org/QOYuOUDp),
+and the first solution move is `d5b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
