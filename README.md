@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fkp6%2Fp4p2%2F2p1q3%2F8%2FP1Q5%2F5PP1%2F5K2%20w%20-%20-%204%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1b6%2F8%2FP1k5%2F8%2F4P1p1%2F3K3p%2F5BP1%2F8%20b%20-%20-%201%2063&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [86Wup](https://lichess.org/training/86Wup), rated `1322`.
-The game is `Al-Rayan-Jbara (1861)` vs `piscatorox (2405)` at `5+0` time control,
-with themes `master, short, crushing, defensiveMove, endgame, queenEndgame`. You can [view the full game](https://lichess.org/Y7wxCnWq),
-and the first solution move is `c3e5`.
+It is `Black to move` in puzzle [gKVXj](https://lichess.org/training/gKVXj), rated `1488`.
+The game is `aaryan_varshney (2614)` vs `nikhildixit (2545)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, short, masterVsMaster, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/tFkjOVnJ),
+and the first solution move is `h3h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
