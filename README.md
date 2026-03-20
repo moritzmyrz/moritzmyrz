@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fppp2ppp%2F2n2n2%2F2b5%2F4N3%2F5N2%2FPPP2PPP%2FR1BqRBK1%20w%20-%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p1p%2FpR4p1%2F8%2FPb3PP1%2F1Pr4P%2F4R3%2F6K1%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NN84M](https://lichess.org/training/NN84M), rated `1406`.
-The game is `holabola (1665)` vs `Flasklilja (1639)` at `10+0` time control,
-with themes `middlegame, short, crushing, intermezzo`. You can [view the full game](https://lichess.org/P0SVXIL1),
-and the first solution move is `e4f6`.
+It is `Black to move` in puzzle [tn2ky](https://lichess.org/training/tn2ky), rated `1454`.
+The game is `iNeRRaNT (1972)` vs `AM-Veriitas (1923)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/ijS31e2B),
+and the first solution move is `b4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
