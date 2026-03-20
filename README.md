@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Qbk%2F2p1P1pp%2Fp5p1%2FP7%2F6R1%2F2p5%2F6PP%2F1r1q2NK%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2F1Q3ppp%2F8%2F1p6%2Fp7%2F1q3P2%2F1PR2PKP%2F2R5%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3TcLj](https://lichess.org/training/3TcLj), rated `1388`.
-The game is `Anti_Zevok (2142)` vs `Mano12448 (1933)` at `10+0` time control,
-with themes `advancedPawn, short, attraction, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/gDOiT4cB),
-and the first solution move is `f8g8`.
+It is `White to move` in puzzle [mTMAU](https://lichess.org/training/mTMAU), rated `1545`.
+The game is `rrx999 (1786)` vs `heathamedan (1837)` at `25+3` time control,
+with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/COhlfCsH),
+and the first solution move is `b7b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
