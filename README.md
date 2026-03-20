@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fppp2p1p%2F8%2F8%2F3n1Ppq%2FP1B5%2F1P3PB1%2FR2Q1RK1%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpppq1pp1%2F3p4%2F3Pp1p1%2F2P1R1Q1%2F1P1P3P%2FP4PP1%2F1R4K1%20b%20-%20-%201%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [nDpFf](https://lichess.org/training/nDpFf), rated `1469`.
-The game is `advdmz (1958)` vs `melika1396000 (1994)` at `15+3` time control,
-with themes `middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/0lqCEsMY),
-and the first solution move is `d4e2`.
+It is `Black to move` in puzzle [bAQT1](https://lichess.org/training/bAQT1), rated `1327`.
+The game is `elverenduran (1715)` vs `dolgomud (1681)` at `15+10` time control,
+with themes `endgame, fork, advantage, short`. You can [view the full game](https://lichess.org/IXR6jueQ),
+and the first solution move is `f7f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
