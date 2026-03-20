@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6R1%2F3nK2k%2F5P1p%2F8%2F8%2F8%2F8%2F8%20b%20-%20-%206%2070&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F8%2F2p5%2F8%2F2k4P%2F6P1%2F2rp1PK1%2F8%20b%20-%20-%203%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [86bqz](https://lichess.org/training/86bqz), rated `1538`.
-The game is `IvanSelfDriver (1584)` vs `Pimo007 (1600)` at `5+3` time control,
-with themes `long, crushing, hangingPiece, endgame`. You can [view the full game](https://lichess.org/XRIDxcob),
-and the first solution move is `h7g8`.
+It is `Black to move` in puzzle [SB8uT](https://lichess.org/training/SB8uT), rated `1506`.
+The game is `meth-99 (1986)` vs `Pytis (2012)` at `3+0` time control,
+with themes `endgame, crushing, rookEndgame, quietMove, long`. You can [view the full game](https://lichess.org/EVBLAAXY),
+and the first solution move is `c4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
