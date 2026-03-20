@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1qk2r%2F2p1pp1p%2F3p2pQ%2F4P3%2F3P1NP1%2FPp1n1P2%2F1PbRN2P%2FK4B1R%20b%20kq%20-%204%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rr1k%2Fpp1q1pb1%2F2p4p%2F3n3R%2F3P4%2F2PQ3P%2FPP4P1%2FR1B3K1%20w%20-%20-%204%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9zj59](https://lichess.org/training/9zj59), rated `1551`.
-The game is `londonsomali (2010)` vs `DarkCaster (2235)` at `5+0` time control,
-with themes `advancedPawn, middlegame, long, mateIn3, sacrifice, promotion`. You can [view the full game](https://lichess.org/PXKmb5En),
-and the first solution move is `a8a3`.
+It is `White to move` in puzzle [Y0w9t](https://lichess.org/training/Y0w9t), rated `1615`.
+The game is `gurkensepp (1853)` vs `dkcohio (1831)` at `2+1` time control,
+with themes `exposedKing, middlegame, attraction, long, kingsideAttack, doubleCheck, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/A7mzMnM5),
+and the first solution move is `c1h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
