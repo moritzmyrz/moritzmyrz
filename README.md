@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpp1b1ppp%2F1q2p3%2Fn2pP3%2FQ7%2F5B2%2F1P3PPP%2FRNB2RK1%20w%20kq%20-%202%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2F1B3q2%2Fpk1p4%2F1pp1p3%2F3bQp2%2FP6r%2F1PP2P2%2F1K1N4%20b%20-%20-%207%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GSYI0](https://lichess.org/training/GSYI0), rated `1405`.
-The game is `struk1961 (1813)` vs `Abelardo92 (1794)` at `10+0` time control,
-with themes `advantage, short, opening`. You can [view the full game](https://lichess.org/kWZtrmAn),
-and the first solution move is `a4a5`.
+It is `Black to move` in puzzle [L3xZc](https://lichess.org/training/L3xZc), rated `1530`.
+The game is `Robert00077 (1880)` vs `altairg84 (1860)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/2zls2Cfm),
+and the first solution move is `f7b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
