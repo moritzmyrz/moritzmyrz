@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pp%2Fp1k5%2F1p1n4%2F3PN3%2Fr1PK1P2%2FP1R3PP%2F8%20b%20-%20-%205%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5kr1%2F4pp1p%2F3p2q1%2FpQ1b1p2%2F5B2%2FP6P%2F1P3nPK%2F4R1R1%20b%20-%20-%202%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ufM4d](https://lichess.org/training/ufM4d), rated `1547`.
-The game is `Alexkalen (2062)` vs `ayman111 (2117)` at `10+0` time control,
-with themes `endgame, short, advantage, pin`. You can [view the full game](https://lichess.org/QOYuOUDp),
-and the first solution move is `d5b4`.
+It is `Black to move` in puzzle [FblMR](https://lichess.org/training/FblMR), rated `1594`.
+The game is `vicuna (2225)` vs `MultilacRnD (1969)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, operaMate, sacrifice`. You can [view the full game](https://lichess.org/juinz7xr),
+and the first solution move is `g6g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
