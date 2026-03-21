@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1b6%2F8%2FP1k5%2F8%2F4P1p1%2F3K3p%2F5BP1%2F8%20b%20-%20-%201%2063&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F4Rpb1%2Fpq4pp%2F1p1B4%2F2p5%2F5P1P%2FP1Q2P2%2F3R2K1%20w%20-%20-%2010%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gKVXj](https://lichess.org/training/gKVXj), rated `1488`.
-The game is `aaryan_varshney (2614)` vs `nikhildixit (2545)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, short, masterVsMaster, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/tFkjOVnJ),
-and the first solution move is `h3h2`.
+It is `White to move` in puzzle [7xRMh](https://lichess.org/training/7xRMh), rated `1278`.
+The game is `MonoCymo (2282)` vs `BeefyTurtle (2263)` at `10+0` time control,
+with themes `deflection, middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/pwQi3rSa),
+and the first solution move is `d5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
