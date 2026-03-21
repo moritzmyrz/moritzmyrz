@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1bpn1p2%2Fpp1p4%2F3Pp2n%2FPPP1P2q%2F2N2N2%2F5PP1%2FR1QBR1K1%20b%20kq%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4k1r%2F1pp3pp%2F1p6%2F4n1q1%2F2B1Pp2%2F3P4%2FPPP3QP%2FR1B1R1K1%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lUtuJ](https://lichess.org/training/lUtuJ), rated `1538`.
-The game is `Lt_Labienus (1899)` vs `salahaldeen2019 (1936)` at `10+6` time control,
-with themes `middlegame, discoveredCheck, attraction, long, mateIn3, sacrifice, kingsideAttack, doubleCheck`. You can [view the full game](https://lichess.org/LNktX3Wy),
-and the first solution move is `h4h1`.
+It is `Black to move` in puzzle [bJXhN](https://lichess.org/training/bJXhN), rated `1360`.
+The game is `real_andypandy (2008)` vs `SinceSteinitz (2049)` at `30+20` time control,
+with themes `veryLong, middlegame, advantage, attraction, kingsideAttack, pin`. You can [view the full game](https://lichess.org/I34ib401),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
