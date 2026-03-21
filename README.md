@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1pq3p1%2Fp6p%2F4P3%2F5Q2%2F1P6%2FP2R2PP%2F6K1%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp1qpp1%2Fpbnpbn1p%2F8%2F2BPP3%2F1N3N1P%2FPP3PP1%2FR1BQR1K1%20w%20-%20-%201%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Fu97A](https://lichess.org/training/Fu97A), rated `1459`.
-The game is `stabelgapler1 (1830)` vs `Magnuswife99 (1810)` at `3+0` time control,
-with themes `endgame, crushing, long, pin`. You can [view the full game](https://lichess.org/6FPQBrkr),
-and the first solution move is `c7c1`.
+It is `White to move` in puzzle [hxCEj](https://lichess.org/training/hxCEj), rated `1539`.
+The game is `abdullahabdulkaddos (1809)` vs `Sergey_Kolesnikov (1793)` at `30+0` time control,
+with themes `short, advantage, fork, middlegame`. You can [view the full game](https://lichess.org/OKqbjwEj),
+and the first solution move is `d4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
