@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b4k%2Fp4Bpp%2F2pqp3%2F1p1n3Q%2F8%2F6R1%2FP1P2P1P%2F5K2%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=bR5r%2FP7%2F8%2F5Ppk%2F2B5%2F4p1Pp%2F3r1P1P%2FR5K1%20b%20-%20-%201%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bI7lp](https://lichess.org/training/bI7lp), rated `1549`.
-The game is `Din-don-dan (1908)` vs `ALEJO_CHESS_SANTAFE (1920)` at `10+0` time control,
-with themes `mateIn2, short, attraction, sacrifice, pillsburysMate, master, middlegame`. You can [view the full game](https://lichess.org/RFYYbJ52),
-and the first solution move is `h5h7`.
+It is `Black to move` in puzzle [WeDce](https://lichess.org/training/WeDce), rated `1615`.
+The game is `Nashmen (1919)` vs `Michael_Buddy (1918)` at `10+0` time control,
+with themes `advancedPawn, short, morphysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/M3YNdP5B),
+and the first solution move is `e3f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
