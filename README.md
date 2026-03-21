@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3Q4%2Fp5p1%2F1p4kp%2F8%2F2P2q2%2F1Pb4P%2FP3R1P1%2F6K1%20b%20-%20-%202%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r1k%2F2p2QRp%2F1p6%2F8%2F4PN1q%2FP3KP2%2F1P5P%2F8%20w%20-%20-%201%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JYXJG](https://lichess.org/training/JYXJG), rated `1290`.
-The game is `abderazzak123 (1825)` vs `Alek_QQ (1829)` at `10+0` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/6tXDHElV),
-and the first solution move is `c3d4`.
+It is `White to move` in puzzle [mjZx8](https://lichess.org/training/mjZx8), rated `1610`.
+The game is `Karda7 (2347)` vs `Travolta564 (2384)` at `3+2` time control,
+with themes `endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/WGbJ5krB),
+and the first solution move is `g7h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
