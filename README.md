@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2Fp1b2pp1%2F3Bp3%2F6PP%2F4kPK1%2FP7%2F8%20w%20-%20-%205%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rq2kb1r%2Fp2npppp%2F1pp1b3%2F7n%2F2pPPB2%2F2N3Q1%2FPP3PPP%2FR3KBNR%20w%20KQkq%20-%205%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Z3IEy](https://lichess.org/training/Z3IEy), rated `1392`.
-The game is `varatra (1699)` vs `der87 (2102)` at `10+0` time control,
-with themes `bishopEndgame, long, crushing, endgame`. You can [view the full game](https://lichess.org/UquTUqYx),
-and the first solution move is `d5c6`.
+It is `White to move` in puzzle [n4qGs](https://lichess.org/training/n4qGs), rated `1336`.
+The game is `Attor (2035)` vs `cbljhkd (2031)` at `10+0` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/C06PB5yr),
+and the first solution move is `f4b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
