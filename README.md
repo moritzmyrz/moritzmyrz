@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fpp2ppbp%2F3p2pB%2F2p1n3%2F1nP1P3%2F2NP2PB%2FPP1Q1P1P%2FR1N2RK1%20b%20-%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2FQ5Rp%2F5p2%2FpP6%2FPb6%2F3qPp2%2F5PPP%2F5RK1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [I83WB](https://lichess.org/training/I83WB), rated `1500`.
-The game is `Leo2_0 (1786)` vs `TimMarko (1809)` at `10+5` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/9TdGl7PQ),
-and the first solution move is `e5f3`.
+It is `Black to move` in puzzle [RsF7J](https://lichess.org/training/RsF7J), rated `1399`.
+The game is `Hiii-hannn (2337)` vs `Betonschach1 (2396)` at `3+0` time control,
+with themes `master, short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/QFNsNCMl),
+and the first solution move is `d3f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
