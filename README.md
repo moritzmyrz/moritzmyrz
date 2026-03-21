@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp3pp1%2F2p4p%2F8%2F3P1n2%2F1PP2B2%2FPKQ2B1q%2F8%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2F4k2p%2Fp3P1p1%2F3P4%2FPPrB2Pb%2F4K2P%2F3R4%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ZClQN](https://lichess.org/training/ZClQN), rated `1477`.
-The game is `Landlordking (1505)` vs `Lujein00 (1547)` at `5+3` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/leU7Nql4),
-and the first solution move is `h2f2`.
+It is `Black to move` in puzzle [6tvTi](https://lichess.org/training/6tvTi), rated `1321`.
+The game is `inemuri (2102)` vs `Strawberry-Q (2115)` at `10+0` time control,
+with themes `exposedKing, endgame, crushing, long`. You can [view the full game](https://lichess.org/hVn5WxvR),
+and the first solution move is `h3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
