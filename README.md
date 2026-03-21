@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=k2rr3%2Fpp1q2pp%2F2p2p2%2F2Pb4%2FQ4B2%2F4R1PP%2FPP3P2%2F6K1%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1p3pp1%2Fq7%2F3BN1Pp%2Fpp2QP1P%2F1P1P4%2F8%2F1KR4R%20b%20-%20-%201%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [A5O83](https://lichess.org/training/A5O83), rated `1529`.
-The game is `chmk83094 (2042)` vs `Sarvendren6666 (1858)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, queensideAttack, attraction, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/Ghf3W5AY),
-and the first solution move is `a4a7`.
+It is `Black to move` in puzzle [oziaE](https://lichess.org/training/oziaE), rated `1519`.
+The game is `bret14jb (2094)` vs `Kero87 (2105)` at `3+0` time control,
+with themes `exposedKing, clearance, middlegame, queensideAttack, crushing, long`. You can [view the full game](https://lichess.org/x64F6Szj),
+and the first solution move is `a4b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
