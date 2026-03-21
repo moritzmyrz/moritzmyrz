@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F2p1Rrk1%2F3p2p1%2F3P2Pp%2F1PPq3P%2FP6K%2F4Q3%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2Fp1b2pp1%2F3Bp3%2F6PP%2F4kPK1%2FP7%2F8%20w%20-%20-%205%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [S57cv](https://lichess.org/training/S57cv), rated `1520`.
-The game is `OlegOlegovic (1700)` vs `keshar01 (1746)` at `10+0` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/ZolRXpdk),
-and the first solution move is `d3g3`.
+It is `White to move` in puzzle [Z3IEy](https://lichess.org/training/Z3IEy), rated `1392`.
+The game is `varatra (1699)` vs `der87 (2102)` at `10+0` time control,
+with themes `bishopEndgame, long, crushing, endgame`. You can [view the full game](https://lichess.org/UquTUqYx),
+and the first solution move is `d5c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
