@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2Fppp2Q2%2F6p1%2F3N3q%2F2P5%2F4P3%2FPP3PP1%2F5K2%20b%20-%20-%207%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2Q2b1r%2Fp3kpp1%2F1p3n1p%2FnP2p3%2FP2p2P1%2F3P3P%2F1B1KPqb1%2FRN6%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4jp9I](https://lichess.org/training/4jp9I), rated `1410`.
-The game is `iman_1365 (1855)` vs `Rx123 (1831)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/k5yobNay),
-and the first solution move is `h5d1`.
+It is `White to move` in puzzle [ldyPN](https://lichess.org/training/ldyPN), rated `1299`.
+The game is `Pemain_PingPong (1992)` vs `AnatoliyB321 (2011)` at `3+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/3c7Z02Fl),
+and the first solution move is `b2a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
