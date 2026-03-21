@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2FPkB1K3%2F4p3%2F7p%2F2b4P%2F8%2F8%20b%20-%20-%200%2047&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp3pp1%2F2p4p%2F8%2F3P1n2%2F1PP2B2%2FPKQ2B1q%2F8%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gV5TE](https://lichess.org/training/gV5TE), rated `1383`.
-The game is `Oomd (1979)` vs `aktom (2004)` at `3+0` time control,
-with themes `endgame, crushing, long, bishopEndgame, hangingPiece`. You can [view the full game](https://lichess.org/tpBsEG2J),
-and the first solution move is `b6c6`.
+It is `Black to move` in puzzle [ZClQN](https://lichess.org/training/ZClQN), rated `1477`.
+The game is `Landlordking (1505)` vs `Lujein00 (1547)` at `5+3` time control,
+with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/leU7Nql4),
+and the first solution move is `h2f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
