@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p3k1%2F3P2p1%2Fp7%2FP3q2P%2F1P4p1%2F3Q2P1%2F6K1%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F2q2pb1%2Fpp2b1p1%2F4p2p%2F2P1B3%2F1P3Q2%2FP2B1PPP%2F3R2K1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JSFkx](https://lichess.org/training/JSFkx), rated `1380`.
-The game is `orkeke (1815)` vs `alextihoretsk (2348)` at `5+0` time control,
-with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/BxBOcSee),
-and the first solution move is `e4b1`.
+It is `Black to move` in puzzle [YayTn](https://lichess.org/training/YayTn), rated `1353`.
+The game is `mrhmmt (1920)` vs `Queres1Figo (1954)` at `10+0` time control,
+with themes `middlegame, short, skewer, crushing`. You can [view the full game](https://lichess.org/hJMyqnb4),
+and the first solution move is `e6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
