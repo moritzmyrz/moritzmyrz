@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2FpQ3pbp%2F2p1p3%2F5k2%2F2P1q3%2F8%2FPB2NP1P%2F4K3%20w%20-%20-%206%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F2kr2p1%2Fp4p2%2F1p1N3p%2F7P%2F2P3P1%2FPn1R2P1%2F3R2K1%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RKJr6](https://lichess.org/training/RKJr6), rated `1628`.
-The game is `Magonetician (2017)` vs `quiquin64 (2058)` at `10+0` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/D6RYf1af),
-and the first solution move is `b7f7`.
+It is `Black to move` in puzzle [9Csi7](https://lichess.org/training/9Csi7), rated `1536`.
+The game is `Mottakinmandol (2201)` vs `alaminmustaq (1960)` at `10+2` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/ID4Kg1KO),
+and the first solution move is `d7d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
