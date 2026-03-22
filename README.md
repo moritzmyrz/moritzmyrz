@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F4q2p%2F8%2F3P3K%2F2P3P1%2FP4Q1P%2F8%20b%20-%20-%200%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5brk%2F2q2p1p%2F1n3PpQ%2Fp1p3P1%2F1pPp1P2%2F1P3R2%2FP2Br2P%2FRN4K1%20w%20-%20-%2012%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Hb9po](https://lichess.org/training/Hb9po), rated `1613`.
-The game is `muhammadAhmed (1912)` vs `Drewstroyer (1914)` at `3+0` time control,
-with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/Tvsu21yK),
-and the first solution move is `g7g5`.
+It is `White to move` in puzzle [cnkNV](https://lichess.org/training/cnkNV), rated `1289`.
+The game is `aperezalija (1769)` vs `tigerofchess (1786)` at `2+1` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/86fQYIqA),
+and the first solution move is `h6h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
