@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3R2N1%2F5k1p%2F3KbP1P%2F6r1%2F8%2F8%20b%20-%20-%200%2050&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp2pp1%2Fpb1q1n1B%2F3Pp3%2F4P3%2F2N3Q1%2FPP3PPP%2FR4RK1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5WnDU](https://lichess.org/training/5WnDU), rated `1557`.
-The game is `Rsmon54Terrible (2503)` vs `GeNer4tion_KiLL (2647)` at `3+0` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/BGohH7Dw),
-and the first solution move is `g3d3`.
+It is `Black to move` in puzzle [zGopN](https://lichess.org/training/zGopN), rated `1543`.
+The game is `victor678 (1681)` vs `Canisa89 (1705)` at `3+0` time control,
+with themes `advantage, discoveredAttack, long, middlegame`. You can [view the full game](https://lichess.org/0YMibA3e),
+and the first solution move is `f6h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
