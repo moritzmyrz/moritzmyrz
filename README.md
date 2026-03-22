@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1r4kp%2F4P1p1%2F2RP4%2F1pP5%2FP7%2F4r3%2F2K3R1%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2Q2%2Fp2kq2p%2F1pp5%2F1B1p4%2F3P4%2F2P3P1%2FP1P4P%2F6K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [SqbrM](https://lichess.org/training/SqbrM), rated `1543`.
-The game is `lelmskak (2207)` vs `Mishelle10 (1947)` at `3+0` time control,
-with themes `endgame, advancedPawn, advantage, rookEndgame, long`. You can [view the full game](https://lichess.org/cg117ds9),
-and the first solution move is `b4a3`.
+It is `White to move` in puzzle [FdePE](https://lichess.org/training/FdePE), rated `1507`.
+The game is `Pequod27 (1773)` vs `selvh (1821)` at `5+3` time control,
+with themes `endgame, long, advantage`. You can [view the full game](https://lichess.org/LaQt0KHh),
+and the first solution move is `b5c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
