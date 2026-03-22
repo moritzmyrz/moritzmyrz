@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2Fp3p3%2F6P1%2F1k3K2%2F8%2F8%20w%20-%20-%201%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2FpQ4p1%2F7p%2F4p3%2F1R3b2%2F5P2%2FPP3P1P%2FKN3q2%20b%20-%20-%204%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cKYmD](https://lichess.org/training/cKYmD), rated `1307`.
-The game is `Garfield599 (2087)` vs `Sag1234 (1812)` at `7+3` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, quietMove, promotion, pawnEndgame`. You can [view the full game](https://lichess.org/kjSRCdr6),
-and the first solution move is `g4g5`.
+It is `Black to move` in puzzle [BP7uw](https://lichess.org/training/BP7uw), rated `1460`.
+The game is `winbuy (1775)` vs `zauberwaldkacken (1861)` at `30+0` time control,
+with themes `short, operaMate, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/DEze9abC),
+and the first solution move is `f1b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
