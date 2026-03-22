@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F2b3pp%2FQ1p5%2F8%2F8%2F6q1%2FP5R1%2F6K1%20b%20-%20-%201%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2Fr4ppp%2FP2ppn2%2FQRp5%2F3P4%2F2PqPN2%2F5PPP%2F1R4K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [izSM5](https://lichess.org/training/izSM5), rated `1557`.
-The game is `dextersmith (2094)` vs `trenchknife (2074)` at `10+0` time control,
-with themes `exposedKing, endgame, crushing, long`. You can [view the full game](https://lichess.org/2oHnDEgT),
-and the first solution move is `g3e1`.
+It is `Black to move` in puzzle [Il9XS](https://lichess.org/training/Il9XS), rated `1552`.
+The game is `swaggles (1706)` vs `momosan (1654)` at `3+2` time control,
+with themes `middlegame, xRayAttack, long, mateIn3, backRankMate`. You can [view the full game](https://lichess.org/GpA9Mf9i),
+and the first solution move is `d3b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
