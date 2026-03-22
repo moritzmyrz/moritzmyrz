@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1ppbnpp1%2Fp3p3%2F3p4%2F5PBp%2F2PqPN1Q%2FPP4PP%2FR4RK1%20w%20-%20-%205%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp6p%2Fb5p1%2F8%2F1RPBn3%2F8%2FP1P1p1PP%2F2K1R3%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DtHfH](https://lichess.org/training/DtHfH), rated `1472`.
-The game is `finkbda01 (1828)` vs `youngerstar (1859)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/i8ddaC6M),
-and the first solution move is `f3e5`.
+It is `Black to move` in puzzle [SFFWf](https://lichess.org/training/SFFWf), rated `1321`.
+The game is `wgraif (2433)` vs `BigBengalCat (2362)` at `3+0` time control,
+with themes `endgame, master, short, advantage, pin`. You can [view the full game](https://lichess.org/0yXdymY0),
+and the first solution move is `f8f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
