@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q2k1%2Fpp3ppp%2F8%2F4r3%2F1PB1P3%2FP2Q1P2%2F5P1P%2F2R3K1%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1R1q1pp1%2Fp3p1Qp%2F8%2F4N3%2F5P2%2F6PK%2F8%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cvgEt](https://lichess.org/training/cvgEt), rated `1421`.
-The game is `Maxim888 (1769)` vs `RiverRun30 (1870)` at `10+0` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/GYzFkZSc),
-and the first solution move is `d8g5`.
+It is `White to move` in puzzle [9GAG4](https://lichess.org/training/9GAG4), rated `1430`.
+The game is `Ardavehasan (1832)` vs `kuvayi-milliye (1981)` at `10+10` time control,
+with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/99LDR70Z),
+and the first solution move is `e4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
