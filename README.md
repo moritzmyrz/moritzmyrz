@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fp4p1n%2F2p4Q%2F4pqp1%2F7R%2F1PPP4%2F2P5%2F4K1R1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2R4P%2F8%2F8%2F8%2F7r%2F2pk2K1%2F8%20b%20-%20-%201%2062&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OFsMv](https://lichess.org/training/OFsMv), rated `1365`.
-The game is `kairatov_sanzhar (1791)` vs `samdes7 (1787)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/ybLvKLoZ),
-and the first solution move is `g1g5`.
+It is `Black to move` in puzzle [LPGa3](https://lichess.org/training/LPGa3), rated `1617`.
+The game is `Tantalosss (1835)` vs `kingslayer92 (1840)` at `15+10` time control,
+with themes `deflection, endgame, advancedPawn, short, crushing, rookEndgame, promotion`. You can [view the full game](https://lichess.org/4iboZuyp),
+and the first solution move is `h3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
