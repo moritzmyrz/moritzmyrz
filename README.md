@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fp3ppbp%2F2p3p1%2Fq3N3%2F3pP1b1%2F1QP1B3%2FP4PPP%2FR3K2R%20w%20KQkq%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FQ4p1p%2F6p1%2F3p1p2%2F8%2F4Pq2%2F1r4N1%2F2R3K1%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Z4ZSB](https://lichess.org/training/Z4ZSB), rated `1489`.
-The game is `EmmanuelR20 (2108)` vs `sad_pigeone90_15 (2090)` at `10+5` time control,
-with themes `middlegame, short, crushing, fork, attackingF2F7`. You can [view the full game](https://lichess.org/iFgpLmrC),
-and the first solution move is `b3f7`.
+It is `White to move` in puzzle [sAEG4](https://lichess.org/training/sAEG4), rated `1456`.
+The game is `leyvakov123 (1759)` vs `SiliconCarne2 (2034)` at `10+0` time control,
+with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/oZhB4G35),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
