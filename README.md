@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1R1q1pp1%2Fp3p1Qp%2F8%2F4N3%2F5P2%2F6PK%2F8%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F8%2Fpr2RP2%2Fk3p2P%2F8%2F4K3%2F8%20w%20-%20-%201%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9GAG4](https://lichess.org/training/9GAG4), rated `1430`.
-The game is `Ardavehasan (1832)` vs `kuvayi-milliye (1981)` at `10+10` time control,
-with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/99LDR70Z),
-and the first solution move is `e4f6`.
+It is `White to move` in puzzle [Cb3W8](https://lichess.org/training/Cb3W8), rated `1583`.
+The game is `MrFavor (2083)` vs `eltvillekuhn (2125)` at `3+2` time control,
+with themes `endgame, advancedPawn, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/0S8DKCG5),
+and the first solution move is `e5b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
