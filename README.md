@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp4q2%2F1p3P1p%2F3p1Qp1%2FP1pBr2P%2F2P5%2F6P1%2F5RK1%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1pp2pp1%2Fp1np1q2%2F2B1p2p%2F4P1b1%2F1BPP1N2%2FPP3P2%2FR2QKNR1%20b%20Qkq%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GufrH](https://lichess.org/training/GufrH), rated `1476`.
-The game is `Felini21 (2559)` vs `oyoy23 (2725)` at `3+0` time control,
-with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/DTMIKA6X),
-and the first solution move is `h4g5`.
+It is `Black to move` in puzzle [ABnqT](https://lichess.org/training/ABnqT), rated `1396`.
+The game is `HubertPincoCarbajal (2179)` vs `carlsen_1987 (2093)` at `10+0` time control,
+with themes `intermezzo, advantage, short, middlegame`. You can [view the full game](https://lichess.org/PS47EsUS),
+and the first solution move is `g4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
