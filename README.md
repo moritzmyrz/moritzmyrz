@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=Q7%2F8%2F5kpp%2F5p2%2F5P2%2F4q1P1%2F4P1K1%2F8%20w%20-%20-%2012%2058&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4bp2%2Fp2p3Q%2F5N2%2F2P1P2P%2F2q5%2F5PK1%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [QGT04](https://lichess.org/training/QGT04), rated `1584`.
-The game is `Southstream007 (2571)` vs `trollonga (2200)` at `10+2` time control,
-with themes `master, masterVsMaster, crushing, skewer, long, endgame, queenEndgame`. You can [view the full game](https://lichess.org/Yc3EkE5h),
-and the first solution move is `a8f8`.
+It is `White to move` in puzzle [w5jLk](https://lichess.org/training/w5jLk), rated `1395`.
+The game is `Mischutka (1910)` vs `dzhor (1911)` at `10+5` time control,
+with themes `endgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/ptWvrSeL),
+and the first solution move is `f5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
