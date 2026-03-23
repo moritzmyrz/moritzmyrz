@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1pp2pp1%2Fp1np1q2%2F2B1p2p%2F4P1b1%2F1BPP1N2%2FPP3P2%2FR2QKNR1%20b%20Qkq%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3B1P2%2F5K2%2F8%2F8%2F3r4%2F7k%20w%20-%20-%203%2063&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ABnqT](https://lichess.org/training/ABnqT), rated `1396`.
-The game is `HubertPincoCarbajal (2179)` vs `carlsen_1987 (2093)` at `10+0` time control,
-with themes `intermezzo, advantage, short, middlegame`. You can [view the full game](https://lichess.org/PS47EsUS),
-and the first solution move is `g4f3`.
+It is `White to move` in puzzle [YShzX](https://lichess.org/training/YShzX), rated `1440`.
+The game is `voja_k (1762)` vs `bibob (1837)` at `10+5` time control,
+with themes `endgame, advancedPawn, short, crushing, promotion`. You can [view the full game](https://lichess.org/n6l6WOu8),
+and the first solution move is `f6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
