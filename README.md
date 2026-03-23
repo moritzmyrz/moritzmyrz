@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3B1P2%2F5K2%2F8%2F8%2F3r4%2F7k%20w%20-%20-%203%2063&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F5ppk%2F7p%2F8%2FQP6%2F3q1PP1%2F3b3P%2F3R3K%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YShzX](https://lichess.org/training/YShzX), rated `1440`.
-The game is `voja_k (1762)` vs `bibob (1837)` at `10+5` time control,
-with themes `endgame, advancedPawn, short, crushing, promotion`. You can [view the full game](https://lichess.org/n6l6WOu8),
-and the first solution move is `f6f7`.
+It is `Black to move` in puzzle [GQpCu](https://lichess.org/training/GQpCu), rated `1333`.
+The game is `WCIS-MatthewZ (1891)` vs `malopalmate (1930)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/cEnZizbx),
+and the first solution move is `d3f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
