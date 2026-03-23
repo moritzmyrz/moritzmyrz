@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F8%2F5k2%2F5P1K%2F6R1%2F6r1%2F8%20b%20-%20-%204%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2k2r%2F1b1p1ppp%2Fp3p3%2F1p2P3%2F8%2FP2B3n%2F1PPN2PP%2FR1BQR1NK%20b%20kq%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [aY9Ez](https://lichess.org/training/aY9Ez), rated `1374`.
-The game is `bibeblou (1514)` vs `Zaza3030 (1528)` at `15+10` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/OPyeBBhp),
-and the first solution move is `g2h2`.
+It is `Black to move` in puzzle [i4bd2](https://lichess.org/training/i4bd2), rated `1300`.
+The game is `peterrooke (1608)` vs `blancopelele (1603)` at `5+0` time control,
+with themes `oneMove, opening, mateIn1, smotheredMate`. You can [view the full game](https://lichess.org/TS9DDMaZ),
+and the first solution move is `h3f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
