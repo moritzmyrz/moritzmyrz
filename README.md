@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F4RQ2%2F2p2bpp%2F8%2F8%2F4BP1q%2FPP3K1P%2F7R%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2F5q1p%2F2p2Qp1%2Fp1P5%2FP2P1PPP%2F4r3%2F5K2%20w%20-%20-%202%2046&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [AXgd1](https://lichess.org/training/AXgd1), rated `1547`.
-The game is `vahrushev89 (1570)` vs `Gugey90 (1571)` at `10+0` time control,
-with themes `middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/orLtkcMG),
-and the first solution move is `f6h4`.
+It is `White to move` in puzzle [P426R](https://lichess.org/training/P426R), rated `1502`.
+The game is `tuti2500 (2476)` vs `DunkelGotz (2457)` at `3+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/jkH4OhlP),
+and the first solution move is `f5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
