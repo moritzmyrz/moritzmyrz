@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4K1k1%2F5pp1%2F6P1%2F8%2F8%2F8%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk1nr%2F2p2ppp%2Fp1n5%2F1p1Pp3%2FQ4p2%2F2P2N2%2FP1P3PP%2FR1B1KB1R%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [y525o](https://lichess.org/training/y525o), rated `1621`.
-The game is `SO_13 (2101)` vs `LancelotOTL (1823)` at `3+0` time control,
-with themes `endgame, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/kfM3Zz8Z),
-and the first solution move is `g4f5`.
+It is `White to move` in puzzle [zWOc5](https://lichess.org/training/zWOc5), rated `1420`.
+The game is `rooknbook (1825)` vs `Igor_1953-chess_king (1932)` at `10+0` time control,
+with themes `pin, short, advantage, opening`. You can [view the full game](https://lichess.org/ZDcIWAKk),
+and the first solution move is `f1b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
