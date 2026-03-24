@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp2n1ppp%2F1p1Q4%2F4p1q1%2F2P1b3%2F8%2FPP2BPPP%2FR4RK1%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2k1b%2Fpp5p%2F4pnp1%2F4n3%2F3q4%2F8%2FPP1BBPPP%2FR2QK2R%20w%20KQ%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [R9aqY](https://lichess.org/training/R9aqY), rated `1106`.
-The game is `cenotafio (2053)` vs `PAPAFENIX95 (2079)` at `5+0` time control,
-with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/3xXpXKPU),
-and the first solution move is `g5g2`.
+It is `White to move` in puzzle [73vuL](https://lichess.org/training/73vuL), rated `1587`.
+The game is `Mohammedlafi99 (1878)` vs `Netocaxp (1907)` at `10+0` time control,
+with themes `opening`. You can [view the full game](https://lichess.org/jKtKDZdH),
+and the first solution move is `d2h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
