@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q2k1%2Fpp3pp1%2F3rb2p%2F2pPN3%2F8%2F7P%2FPP1R1PP1%2F3QR1K1%20w%20-%20-%207%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp2n1ppp%2F1p1Q4%2F4p1q1%2F2P1b3%2F8%2FPP2BPPP%2FR4RK1%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1q0Iw](https://lichess.org/training/1q0Iw), rated `1415`.
-The game is `tu_negro (2218)` vs `Arthuis (2309)` at `10+0` time control,
-with themes `advancedPawn, middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/nSy89gal),
-and the first solution move is `d5e6`.
+It is `Black to move` in puzzle [R9aqY](https://lichess.org/training/R9aqY), rated `1106`.
+The game is `cenotafio (2053)` vs `PAPAFENIX95 (2079)` at `5+0` time control,
+with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/3xXpXKPU),
+and the first solution move is `g5g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
