@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk1nr%2F2p2ppp%2Fp1n5%2F1p1Pp3%2FQ4p2%2F2P2N2%2FP1P3PP%2FR1B1KB1R%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r4%2Fp2bkppp%2FQ7%2F3qP3%2FP2N4%2F4P2P%2F5PP1%2F3R2K1%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zWOc5](https://lichess.org/training/zWOc5), rated `1420`.
-The game is `rooknbook (1825)` vs `Igor_1953-chess_king (1932)` at `10+0` time control,
-with themes `pin, short, advantage, opening`. You can [view the full game](https://lichess.org/ZDcIWAKk),
-and the first solution move is `f1b5`.
+It is `White to move` in puzzle [1YC7v](https://lichess.org/training/1YC7v), rated `1341`.
+The game is `tulup (1616)` vs `chessophobe (1629)` at `3+2` time control,
+with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/6Ko4cQK2),
+and the first solution move is `d4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
