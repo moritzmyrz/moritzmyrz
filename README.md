@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F2p3pk%2F1p1pQ3%2F8%2F4pPR1%2F5n1P%2F4qPK1%2F8%20w%20-%20-%204%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F4RQ2%2F2p2bpp%2F8%2F8%2F4BP1q%2FPP3K1P%2F7R%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fguAk](https://lichess.org/training/fguAk), rated `1455`.
-The game is `a_pukhov (2036)` vs `TurksEagle (1988)` at `3+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/eemI9rx4),
-and the first solution move is `e6g6`.
+It is `Black to move` in puzzle [AXgd1](https://lichess.org/training/AXgd1), rated `1547`.
+The game is `vahrushev89 (1570)` vs `Gugey90 (1571)` at `10+0` time control,
+with themes `middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/orLtkcMG),
+and the first solution move is `f6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
