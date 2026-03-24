@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2Fp3k1B1%2F1p2b2p%2F2p3bP%2F2P1p3%2F1P2PP2%2FP4KB1%2F3r1R2%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k2p1%2Fp3R3%2F2bp1p2%2F5P2%2F1P4P1%2FP1r5%2F4RK2%20b%20-%20-%207%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KHV0p](https://lichess.org/training/KHV0p), rated `1589`.
-The game is `Vinivinci (2392)` vs `Lordiron (2324)` at `3+2` time control,
-with themes `short, advantage, intermezzo, master, middlegame`. You can [view the full game](https://lichess.org/lcHpbzK1),
-and the first solution move is `g7f8`.
+It is `Black to move` in puzzle [YI2HH](https://lichess.org/training/YI2HH), rated `1599`.
+The game is `Archersdaddy (2415)` vs `bolarpear (2425)` at `3+0` time control,
+with themes `exposedKing, endgame, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/KDBAxUWK),
+and the first solution move is `c2f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
