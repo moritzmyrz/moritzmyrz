@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p4k1%2Fp2p4%2FP2rnq2%2F2p1p2R%2F4Q2P%2F1P4K1%2F7B%20w%20-%20-%201%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1kbnr%2Fpp3ppp%2F1q2p3%2F3pP3%2F1n1P1P2%2FPQ6%2F1P2N1PP%2FRNB1K2R%20b%20KQk%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HRhoq](https://lichess.org/training/HRhoq), rated `1435`.
-The game is `Makhsum_Bozorov (2479)` vs `KunGut (2340)` at `3+0` time control,
-with themes `endgame, master, advantage, long, pin`. You can [view the full game](https://lichess.org/DxENVk7K),
-and the first solution move is `e3h6`.
+It is `Black to move` in puzzle [mlx9L](https://lichess.org/training/mlx9L), rated `1412`.
+The game is `chess_for_fun (1696)` vs `anggara (1902)` at `10+5` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/uh1MDU5W),
+and the first solution move is `b4c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
