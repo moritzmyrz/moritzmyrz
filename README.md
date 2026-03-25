@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1R4r1%2Fq1r3Pp%2F3p4%2F3P4%2F8%2FP4RPK%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1b2bpp1%2Fp3p2p%2F2N1P3%2F2P2P2%2F1P3rB1%2FP2p3P%2F3R1R1K%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wZ4KH](https://lichess.org/training/wZ4KH), rated `1359`.
-The game is `Diablo2004 (1961)` vs `Reanera23 (1837)` at `5+3` time control,
-with themes `short, queenRookEndgame, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/g18CF4Vr),
-and the first solution move is `f2f8`.
+It is `White to move` in puzzle [lM3dv](https://lichess.org/training/lM3dv), rated `1540`.
+The game is `liofanteverde (1778)` vs `Schogi77 (1678)` at `15+0` time control,
+with themes `middlegame, crushing, short, hangingPiece`. You can [view the full game](https://lichess.org/oXKDdtMw),
+and the first solution move is `c5b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
