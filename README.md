@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5p1p%2F2Q3p1%2F3p4%2F3p4%2F1P6%2FP1P2PPP%2F3qR1K1%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqr1k1%2Fpp3ppp%2F2n5%2F2N5%2F3p4%2FPP1B1P2%2F1BP3PP%2F2KQ2NR%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3leRg](https://lichess.org/training/3leRg), rated `1415`.
-The game is `Flame_alc (1963)` vs `winchess64 (2024)` at `10+5` time control,
-with themes `endgame, oneMove, mateIn1, hangingPiece`. You can [view the full game](https://lichess.org/G7oQybSu),
-and the first solution move is `d1e1`.
+It is `Black to move` in puzzle [VxjUT](https://lichess.org/training/VxjUT), rated `1501`.
+The game is `Real_GG (1800)` vs `nico27 (1904)` at `20+30` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/wPqt1CFP),
+and the first solution move is `d8g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
