@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3R4%2Fb4k1P%2F1p6%2F6K1%2F8%2F1P6%2F8%20b%20-%20-%200%2055&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1q3pp1%2Fpb4rp%2F8%2F4Q3%2F1P4BP%2F1PP2PP1%2F4R1K1%20b%20-%20-%203%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CBmZF](https://lichess.org/training/CBmZF), rated `1392`.
-The game is `Igor2020 (1584)` vs `hadi656565 (1577)` at `5+3` time control,
-with themes `long, crushing, pin, endgame`. You can [view the full game](https://lichess.org/vycyJvOI),
-and the first solution move is `a6c8`.
+It is `Black to move` in puzzle [koJbV](https://lichess.org/training/koJbV), rated `1551`.
+The game is `ghadirkh1328 (2090)` vs `liangcicu (2157)` at `10+0` time control,
+with themes `pin, short, advantage, endgame`. You can [view the full game](https://lichess.org/6F4R1Xv6),
+and the first solution move is `b7e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
