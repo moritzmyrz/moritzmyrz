@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1kbnr%2Fpp3ppp%2F1q2p3%2F3pP3%2F1n1P1P2%2FPQ6%2F1P2N1PP%2FRNB1K2R%20b%20KQk%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1R4r1%2Fq1r3Pp%2F3p4%2F3P4%2F8%2FP4RPK%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [mlx9L](https://lichess.org/training/mlx9L), rated `1412`.
-The game is `chess_for_fun (1696)` vs `anggara (1902)` at `10+5` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/uh1MDU5W),
-and the first solution move is `b4c2`.
+It is `White to move` in puzzle [wZ4KH](https://lichess.org/training/wZ4KH), rated `1359`.
+The game is `Diablo2004 (1961)` vs `Reanera23 (1837)` at `5+3` time control,
+with themes `short, queenRookEndgame, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/g18CF4Vr),
+and the first solution move is `f2f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
