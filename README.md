@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpp3pp1%2F4p1qp%2F3pN3%2F4nP2%2F2P1P1P1%2FPPQ4P%2F1R3R1K%20b%20-%20-%204%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2Fppp1r1p1%2F1b4B1%2F4p1PP%2F3q1pQ1%2FP1N5%2F1PP5%2F1K2R3%20w%20-%20-%205%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ARJxP](https://lichess.org/training/ARJxP), rated `1564`.
-The game is `vlad1945 (1657)` vs `LCA2110 (1685)` at `10+0` time control,
-with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/iSHzflEa),
-and the first solution move is `e4g3`.
+It is `White to move` in puzzle [eqNqI](https://lichess.org/training/eqNqI), rated `1592`.
+The game is `Gdmonster22 (2374)` vs `NaRaYaN0811 (2120)` at `3+0` time control,
+with themes `advantage, short, middlegame, master`. You can [view the full game](https://lichess.org/60Dxkk9P),
+and the first solution move is `e1d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
