@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2rR3%2F5ppk%2F2Q2b1p%2Fp2q1b2%2F8%2F2P3B1%2FPP3PPP%2F4R1K1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3R4%2Fb4k1P%2F1p6%2F6K1%2F8%2F1P6%2F8%20b%20-%20-%200%2055&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GWokb](https://lichess.org/training/GWokb), rated `1315`.
-The game is `Mahmoudyuonis (2094)` vs `LiebeDDR (2169)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/d9X4vhcd),
-and the first solution move is `c6d5`.
+It is `Black to move` in puzzle [CBmZF](https://lichess.org/training/CBmZF), rated `1392`.
+The game is `Igor2020 (1584)` vs `hadi656565 (1577)` at `5+3` time control,
+with themes `long, crushing, pin, endgame`. You can [view the full game](https://lichess.org/vycyJvOI),
+and the first solution move is `a6c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
