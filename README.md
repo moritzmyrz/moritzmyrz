@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1q3pp1%2Fpb4rp%2F8%2F4Q3%2F1P4BP%2F1PP2PP1%2F4R1K1%20b%20-%20-%203%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp5RP%2Fkp6%2F8%2FP7%2FKP4pr%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [koJbV](https://lichess.org/training/koJbV), rated `1551`.
-The game is `ghadirkh1328 (2090)` vs `liangcicu (2157)` at `10+0` time control,
-with themes `pin, short, advantage, endgame`. You can [view the full game](https://lichess.org/6F4R1Xv6),
-and the first solution move is `b7e4`.
+It is `White to move` in puzzle [mzrxa](https://lichess.org/training/mzrxa), rated `1600`.
+The game is `shakurah2020 (1722)` vs `ivancu (2127)` at `3+2` time control,
+with themes `deflection, short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/gWZV8dCl),
+and the first solution move is `b2b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
