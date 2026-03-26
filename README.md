@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1p2Rpp1%2Fp7%2F8%2F3R4%2F5P1P%2FPrr2P2%2F6K1%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1r2k1%2F1pq2ppp%2FpR6%2FQb1pp3%2F4P3%2F2P5%2F3N1PPP%2F1R4K1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ngLF0](https://lichess.org/training/ngLF0), rated `1307`.
-The game is `VyacheslavVasilev (2007)` vs `Blaflov (1804)` at `3+2` time control,
-with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/JEhhUc0L),
-and the first solution move is `d4h4`.
+It is `White to move` in puzzle [GcxHK](https://lichess.org/training/GcxHK), rated `1560`.
+The game is `mostafa1987m (1940)` vs `ssgssg2 (1929)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/TQqeUq9N),
+and the first solution move is `b6b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
