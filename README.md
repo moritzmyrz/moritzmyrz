@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p1R1p2%2F4p1p1%2F4k1N1%2F5r2%2F6nP%2Fr6b%2F1R2K3%20w%20-%20-%203%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2qk1%2Fp2n2B1%2F1pn1R3%2F7P%2F3P2Q1%2F1Pb5%2FP1P5%2F2KR4%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jpdt7](https://lichess.org/training/jpdt7), rated `1433`.
-The game is `gchessm1 (2148)` vs `yusufbatin (2105)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, epauletteMate`. You can [view the full game](https://lichess.org/a3AUjWQr),
-and the first solution move is `b1b5`.
+It is `Black to move` in puzzle [ljkrI](https://lichess.org/training/ljkrI), rated `1543`.
+The game is `baileydog (1632)` vs `delavarhoseini (2089)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/o96Pvp80),
+and the first solution move is `f8a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
