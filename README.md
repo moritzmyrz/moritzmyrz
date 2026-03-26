@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2qk1%2Fp2n2B1%2F1pn1R3%2F7P%2F3P2Q1%2F1Pb5%2FP1P5%2F2KR4%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1n1qpk1%2Fb2p2p1%2FQ2Pp2p%2FP1p1P3%2F5BP1%2F2r2P1P%2F1RN3K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ljkrI](https://lichess.org/training/ljkrI), rated `1543`.
-The game is `baileydog (1632)` vs `delavarhoseini (2089)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/o96Pvp80),
-and the first solution move is `f8a3`.
+It is `White to move` in puzzle [Lz2Ja](https://lichess.org/training/Lz2Ja), rated `1636`.
+The game is `Bassket (2413)` vs `HerzliyaLostSon (2537)` at `3+0` time control,
+with themes `short, advantage, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/CyS8nTK4),
+and the first solution move is `f3d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
