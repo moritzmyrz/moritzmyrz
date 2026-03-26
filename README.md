@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rbq1r1k%2F2p1b1pp%2F3p4%2FRP1Bpp2%2F2P5%2F3PP1P1%2F4NP1P%2F3Q1RK1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1r2%2Fppbn4%2F2p3k1%2F3p2n1%2F6Q1%2F1P1PP2R%2FP1P3PP%2F5RK1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CnaSg](https://lichess.org/training/CnaSg), rated `1418`.
-The game is `Quopana (2259)` vs `DENNIS1985 (2183)` at `3+0` time control,
-with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/mb5x7oMG),
-and the first solution move is `c7c6`.
+It is `White to move` in puzzle [lB9gB](https://lichess.org/training/lB9gB), rated `1467`.
+The game is `Alexanderlord (1664)` vs `k-521 (1628)` at `3+0` time control,
+with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/BCMsPgBR),
+and the first solution move is `g4h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
