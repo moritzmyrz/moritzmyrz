@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F5p1p%2F3p1PpQ%2F4n3%2F1p2R3%2F1P6%2F1Pq3PP%2F7K%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5rpp%2F1p4q1%2F2p5%2F2P2NnP%2F6P1%2FPP3P2%2FR2Q1RK1%20b%20-%20-%206%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [T6P41](https://lichess.org/training/T6P41), rated `1476`.
-The game is `Gransiurell (2353)` vs `Oscar-i (2392)` at `3+0` time control,
-with themes `master, short, masterVsMaster, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/5TYnDpHD),
-and the first solution move is `h6h7`.
+It is `Black to move` in puzzle [AS3f6](https://lichess.org/training/AS3f6), rated `1574`.
+The game is `frenetisk (1819)` vs `Arjvul (1974)` at `15+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/uD9Nc4Md),
+and the first solution move is `f7f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
