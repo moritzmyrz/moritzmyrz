@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F8%2F4k3%2F6p1%2F1P2r3%2F6K1%2F4p1P1%2F8%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2FppbnRppp%2F2p2p2%2F8%2F2BP4%2F2P2Q1P%2FPP3PPq%2FR1B2K2%20w%20-%20-%205%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MbWXZ](https://lichess.org/training/MbWXZ), rated `1544`.
-The game is `dww070 (1960)` vs `Daniel-m-44 (1957)` at `3+0` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/9KJyTANW),
-and the first solution move is `b8e8`.
+It is `White to move` in puzzle [bjCHi](https://lichess.org/training/bjCHi), rated `1313`.
+The game is `Xurxes313 (1933)` vs `Enghave (1896)` at `10+0` time control,
+with themes `deflection, middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/OpoSySxV),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
