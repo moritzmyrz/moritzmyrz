@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1r2%2Fppbn4%2F2p3k1%2F3p2n1%2F6Q1%2F1P1PP2R%2FP1P3PP%2F5RK1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fp1p3pp%2F2n2p2%2Fb1N1Nb2%2F2PP1B2%2F4Q3%2FP5PP%2FR4RK1%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lB9gB](https://lichess.org/training/lB9gB), rated `1467`.
-The game is `Alexanderlord (1664)` vs `k-521 (1628)` at `3+0` time control,
-with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/BCMsPgBR),
-and the first solution move is `g4h5`.
+It is `White to move` in puzzle [rYlsp](https://lichess.org/training/rYlsp), rated `1515`.
+The game is `juuwyyy (1790)` vs `NIKITA46 (1842)` at `30+0` time control,
+with themes `middlegame, short, advantage, fork, hangingPiece`. You can [view the full game](https://lichess.org/20tfzcA6),
+and the first solution move is `e5c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
