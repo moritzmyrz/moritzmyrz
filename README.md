@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4bk2%2F1p5p%2FpP1p2pP%2FP2P2P1%2F5KB1%2F8%2F8%20w%20-%20-%203%2077&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r5r%2F2pkqp2%2FQ1p1b2p%2F6p1%2F4P3%2F2PP4%2FP1P2PPP%2FR1B2RK1%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZVhaN](https://lichess.org/training/ZVhaN), rated `1362`.
-The game is `ThunderClap (2361)` vs `Restpegel (2355)` at `5+0` time control,
-with themes `endgame, master, short, masterVsMaster, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/S7w4gTJD),
-and the first solution move is `g3c7`.
+It is `Black to move` in puzzle [od6jk](https://lichess.org/training/od6jk), rated `1387`.
+The game is `HM2680 (1598)` vs `pauloberrferraz (1642)` at `5+0` time control,
+with themes `clearance, middlegame, advantage, trappedPiece, long`. You can [view the full game](https://lichess.org/oT9zOR2x),
+and the first solution move is `b8a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
