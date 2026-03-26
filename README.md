@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F4npb1%2F2p2npp%2F4N3%2FBP2P3%2F2P4P%2F5PP1%2FRNB2bK1%20w%20kq%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1b3pp1%2F1p1P4%2Fp2qQ2p%2F7P%2F6B1%2F5PP1%2F4R1K1%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hMTQ0](https://lichess.org/training/hMTQ0), rated `1518`.
-The game is `mohamedhelmy30 (1834)` vs `Makskorolyov (1757)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork, discoveredAttack`. You can [view the full game](https://lichess.org/TAhRuwkq),
-and the first solution move is `a4c6`.
+It is `White to move` in puzzle [v2mZa](https://lichess.org/training/v2mZa), rated `1527`.
+The game is `Shadowchess79 (2172)` vs `VetalPriz1991 (1839)` at `7+5` time control,
+with themes `advancedPawn, crushing, short, endgame`. You can [view the full game](https://lichess.org/m8OK2L9p),
+and the first solution move is `e5d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
