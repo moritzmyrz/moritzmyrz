@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fp1p3pp%2F2n2p2%2Fb1N1Nb2%2F2PP1B2%2F4Q3%2FP5PP%2FR4RK1%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F8%2F4k3%2F6p1%2F1P2r3%2F6K1%2F4p1P1%2F8%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rYlsp](https://lichess.org/training/rYlsp), rated `1515`.
-The game is `juuwyyy (1790)` vs `NIKITA46 (1842)` at `30+0` time control,
-with themes `middlegame, short, advantage, fork, hangingPiece`. You can [view the full game](https://lichess.org/20tfzcA6),
-and the first solution move is `e5c6`.
+It is `White to move` in puzzle [MbWXZ](https://lichess.org/training/MbWXZ), rated `1544`.
+The game is `dww070 (1960)` vs `Daniel-m-44 (1957)` at `3+0` time control,
+with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/9KJyTANW),
+and the first solution move is `b8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
