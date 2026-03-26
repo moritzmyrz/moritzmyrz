@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1q1rpkp%2F1p1b2p1%2F3p1p2%2F3P1P2%2F2PQ2KP%2FPP1B4%2F2N1R3%20b%20-%20-%203%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2F1pp2p2%2Fp2p1b1Q%2F3P1q2%2F1Pn5%2FP1N4R%2F6PP%2FR5K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [e0JvZ](https://lichess.org/training/e0JvZ), rated `1549`.
-The game is `Boris1952 (1612)` vs `castling_freak (1574)` at `5+0` time control,
-with themes `advantage, long, fork, middlegame`. You can [view the full game](https://lichess.org/E59yQ9kL),
-and the first solution move is `e7e1`.
+It is `White to move` in puzzle [AzxJ4](https://lichess.org/training/AzxJ4), rated `1325`.
+The game is `kadi1977 (1740)` vs `mikob (1679)` at `10+0` time control,
+with themes `middlegame, crushing, long, kingsideAttack`. You can [view the full game](https://lichess.org/e3wlELKk),
+and the first solution move is `h3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
