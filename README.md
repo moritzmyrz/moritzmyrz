@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k1q%2Fpp3p1P%2F2p5%2F3bPBp1%2F2nr2N1%2FP4PP1%2F2Q3K1%2FR6R%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F1pp2pp1%2F2n1q2p%2Fp7%2F3P4%2F2P2Q1P%2F4BPP1%2F4R1K1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zeWcU](https://lichess.org/training/zeWcU), rated `1338`.
-The game is `Aminmindmaster (1755)` vs `Artrk (1900)` at `15+10` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/qgR6s5ri),
-and the first solution move is `d4d2`.
+It is `White to move` in puzzle [AyZLa](https://lichess.org/training/AyZLa), rated `1567`.
+The game is `BOB4321 (1801)` vs `Arul14 (1802)` at `10+0` time control,
+with themes `endgame, advantage, fork, short`. You can [view the full game](https://lichess.org/qRMV04gl),
+and the first solution move is `d4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
