@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp2b3p%2F1p2pqp1%2F2np4%2F5PB1%2F2N1Q3%2FPPP3PP%2F4RRK1%20b%20-%20-%203%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F2p2ppp%2Fpbn2q2%2F6N1%2F8%2F1B5b%2FPpQ2PP1%2FR1B2RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IRXnZ](https://lichess.org/training/IRXnZ), rated `1611`.
-The game is `Gryphos1 (2071)` vs `reymar_cali (2011)` at `3+0` time control,
-with themes `middlegame, fork, long, advantage`. You can [view the full game](https://lichess.org/6ozdyNNr),
-and the first solution move is `d5d4`.
+It is `White to move` in puzzle [YJc7C](https://lichess.org/training/YJc7C), rated `1315`.
+The game is `AsgharAgha (1849)` vs `francekonjar (1688)` at `20+5` time control,
+with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/ppJHkN22),
+and the first solution move is `c2h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
