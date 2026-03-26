@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2FR5pp%2F4p1q1%2F6r1%2F8%2F1BP2p1P%2FPP3P1Q%2F3RK3%20b%20-%20-%201%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F4npb1%2F2p2npp%2F4N3%2FBP2P3%2F2P4P%2F5PP1%2FRNB2bK1%20w%20kq%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [RP9a1](https://lichess.org/training/RP9a1), rated `1444`.
-The game is `nazar7700 (2061)` vs `Jal1976 (1991)` at `10+0` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/OkFI8fdE),
-and the first solution move is `g5g1`.
+It is `White to move` in puzzle [hMTQ0](https://lichess.org/training/hMTQ0), rated `1518`.
+The game is `mohamedhelmy30 (1834)` vs `Makskorolyov (1757)` at `10+0` time control,
+with themes `middlegame, short, advantage, fork, discoveredAttack`. You can [view the full game](https://lichess.org/TAhRuwkq),
+and the first solution move is `a4c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
