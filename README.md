@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F1pp2pp1%2F2n1q2p%2Fp7%2F3P4%2F2P2Q1P%2F4BPP1%2F4R1K1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fr3kp2%2F2p1PRp1%2F1pNb2P1%2Fp7%2F2P5%2F7P%2F6K1%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AyZLa](https://lichess.org/training/AyZLa), rated `1567`.
-The game is `BOB4321 (1801)` vs `Arul14 (1802)` at `10+0` time control,
-with themes `endgame, advantage, fork, short`. You can [view the full game](https://lichess.org/qRMV04gl),
-and the first solution move is `d4d5`.
+It is `White to move` in puzzle [Dgorc](https://lichess.org/training/Dgorc), rated `1256`.
+The game is `robotarobota (2159)` vs `LaStrada (2120)` at `10+0` time control,
+with themes `endgame, advancedPawn, crushing, skewer, long`. You can [view the full game](https://lichess.org/kZbHqp3B),
+and the first solution move is `f6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
