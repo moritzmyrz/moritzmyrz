@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1n1qpk1%2Fb2p2p1%2FQ2Pp2p%2FP1p1P3%2F5BP1%2F2r2P1P%2F1RN3K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fp5b1%2F1p1B2p1%2F3Q4%2FP3N3%2FqPP5%2F1n1R1PPP%2F6K1%20b%20-%20-%204%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Lz2Ja](https://lichess.org/training/Lz2Ja), rated `1636`.
-The game is `Bassket (2413)` vs `HerzliyaLostSon (2537)` at `3+0` time control,
-with themes `short, advantage, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/CyS8nTK4),
-and the first solution move is `f3d1`.
+It is `Black to move` in puzzle [3ENer](https://lichess.org/training/3ENer), rated `1488`.
+The game is `Gilbertov5555 (2308)` vs `POLLOISRA (2422)` at `3+0` time control,
+with themes `short, crushing, master, middlegame`. You can [view the full game](https://lichess.org/p1nSG3cj),
+and the first solution move is `a3a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
