@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2FK7%2F2k5%2F8%2F8%2F8%2F8%2F1r6%20b%20-%20-%200%2080&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F1N1k2p1%2F2nP2p1%2Fp2K4%2F8%2F6PP%2F8%20w%20-%20-%200%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1Gz9X](https://lichess.org/training/1Gz9X), rated `1331`.
-The game is `LadyBeard87 (2015)` vs `Tigerle (1991)` at `10+0` time control,
-with themes `endgame, oneMove, mateIn1, queenRookEndgame`. You can [view the full game](https://lichess.org/srUQGBcR),
-and the first solution move is `b1a1`.
+It is `White to move` in puzzle [88xYe](https://lichess.org/training/88xYe), rated `1505`.
+The game is `Valeriy_1935 (1892)` vs `ArchdukeMargiel (1964)` at `10+0` time control,
+with themes `deflection, endgame, short, crushing, knightEndgame`. You can [view the full game](https://lichess.org/BE4PMgw1),
+and the first solution move is `b6c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
