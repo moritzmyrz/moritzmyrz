@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k1r2r%2F1bpp1pp1%2F1p3n1p%2FP7%2FP2N1b2%2F2PP4%2F3N1PPP%2FR1B1RK2%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fp7%2F1p3pkp%2F8%2F8%2F2p2N2%2FP4PPP%2F2R3K1%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dQ6JH](https://lichess.org/training/dQ6JH), rated `1503`.
-The game is `ahmedhosny1222 (1663)` vs `victormaza (1693)` at `10+0` time control,
-with themes `deflection, middlegame, short, advantage`. You can [view the full game](https://lichess.org/V4rQLhAZ),
-and the first solution move is `b7g2`.
+It is `Black to move` in puzzle [kqtGX](https://lichess.org/training/kqtGX), rated `1329`.
+The game is `h_kk1960 (1955)` vs `Driss2020 (1938)` at `3+2` time control,
+with themes `advancedPawn, crushing, long, endgame`. You can [view the full game](https://lichess.org/1UNtCcI7),
+and the first solution move is `c3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
