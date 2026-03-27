@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6P1%2Fp2n1K1P%2FP7%2F8%2F8%2F8%2F8%20w%20-%20-%201%2057&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rrq1k1%2F1p3b1p%2Fpn4pQ%2F3Ppn2%2F2P1p1N1%2F1P5P%2FP4PP1%2F3RRBK1%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [sK48V](https://lichess.org/training/sK48V), rated `1543`.
-The game is `shikamaru1 (1681)` vs `Braintje (1663)` at `3+0` time control,
-with themes `advancedPawn, short, knightEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/UMu63KBr),
-and the first solution move is `f6g6`.
+It is `White to move` in puzzle [tITiL](https://lichess.org/training/tITiL), rated `1355`.
+The game is `MortalK (2205)` vs `hungriaho (2245)` at `3+0` time control,
+with themes `mateIn2, short, fork, opening`. You can [view the full game](https://lichess.org/dC2Cfnm4),
+and the first solution move is `g4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
