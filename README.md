@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3r1k%2F3P3p%2F2Q1B1pb%2FpNp2q2%2FP7%2F4n1P1%2F4R2P%2F4R2K%20b%20-%20-%202%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1k1r%2FppP2p2%2F7p%2F8%2F5qn1%2F2P5%2FP5P1%2FR3R2K%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YaTMy](https://lichess.org/training/YaTMy), rated `1349`.
-The game is `Rex_chess (1639)` vs `Eiadloay (1642)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/qVyqUZEO),
-and the first solution move is `f5f1`.
+It is `White to move` in puzzle [3Hk6e](https://lichess.org/training/3Hk6e), rated `1391`.
+The game is `APalaciosT (1545)` vs `Daviddaher (1541)` at `5+3` time control,
+with themes `endgame, advancedPawn, advantage, long, promotion`. You can [view the full game](https://lichess.org/wCtaXOgy),
+and the first solution move is `c7d8q`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
