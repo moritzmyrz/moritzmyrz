@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fppp1r1pp%2F1n6%2F8%2F6P1%2F1B6%2FPNP3P1%2FRN3KR1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3p4%2F3Bbk2%2F2P5%2F6p1%2F4R1K1%2F1r6%20w%20-%20-%204%2069&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YwGxv](https://lichess.org/training/YwGxv), rated `1343`.
-The game is `rafaeldourado (1778)` vs `dobraklah (1777)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/10BH3RrD),
-and the first solution move is `d8f8`.
+It is `White to move` in puzzle [aK87h](https://lichess.org/training/aK87h), rated `1280`.
+The game is `cant_handle_h5 (2615)` vs `Xmao_kms (2581)` at `3+0` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/eYezj0Ei),
+and the first solution move is `d5e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
