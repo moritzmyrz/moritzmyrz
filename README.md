@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1k1r%2FppP2p2%2F7p%2F8%2F5qn1%2F2P5%2FP5P1%2FR3R2K%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2Fpp3ppp%2F4pn2%2F1q1p4%2F3P4%2FBp1nP1P1%2FP1rQ1PBP%2F1R3RK1%20w%20k%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3Hk6e](https://lichess.org/training/3Hk6e), rated `1391`.
-The game is `APalaciosT (1545)` vs `Daviddaher (1541)` at `5+3` time control,
-with themes `endgame, advancedPawn, advantage, long, promotion`. You can [view the full game](https://lichess.org/wCtaXOgy),
-and the first solution move is `c7d8q`.
+It is `White to move` in puzzle [RHg1L](https://lichess.org/training/RHg1L), rated `1446`.
+The game is `Kame17 (1614)` vs `alidoctor9292 (1706)` at `15+15` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/D9wS7FBl),
+and the first solution move is `d2c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
