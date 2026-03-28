@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp2Npp%2F2nbQ1p1%2F8%2F3q2P1%2F7P%2FPPPB4%2FR2K3R%20w%20-%20-%204%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2k2r%2F1p1b1ppp%2Fp1q1p1n1%2FP2pP1P1%2F1P1B1P2%2F8%2F5Q1P%2FRN2KB1R%20b%20KQk%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [n9xew](https://lichess.org/training/n9xew), rated `1484`.
-The game is `rubenmat (1611)` vs `EzzMaree (1592)` at `10+0` time control,
-with themes `middlegame, discoveredCheck, long, mateIn3, sacrifice, doubleCheck, kingsideAttack, smotheredMate`. You can [view the full game](https://lichess.org/yhSO6wZ3),
-and the first solution move is `f7h6`.
+It is `Black to move` in puzzle [c4wb6](https://lichess.org/training/c4wb6), rated `1594`.
+The game is `Lanalyste (1517)` vs `americo_santos (1519)` at `10+0` time control,
+with themes `exposedKing, middlegame, crushing, long`. You can [view the full game](https://lichess.org/sd1CTKpX),
+and the first solution move is `c6c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
