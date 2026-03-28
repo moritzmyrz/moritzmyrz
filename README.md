@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kB1br1%2Fpb1q1p2%2F1p1p3p%2F2pP3n%2F2B1P3%2F1P3N2%2FP2N1P2%2FR2QR2K%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1r2%2F1Q1n1kpp%2Fp3bn2%2F2p5%2F3P4%2F2P5%2FPP3PPN%2FRNB2RK1%20b%20-%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fcgHq](https://lichess.org/training/fcgHq), rated `1378`.
-The game is `allen82 (1862)` vs `georgecostanza (1717)` at `8+5` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/d4Z3ukWC),
-and the first solution move is `d7h3`.
+It is `Black to move` in puzzle [c7hF2](https://lichess.org/training/c7hF2), rated `1444`.
+The game is `uuun (1756)` vs `franciscom (1757)` at `5+0` time control,
+with themes `trappedPiece, advantage, short, middlegame`. You can [view the full game](https://lichess.org/Php98km7),
+and the first solution move is `e6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
