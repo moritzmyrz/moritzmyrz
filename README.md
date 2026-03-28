@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F4P3%2F5PK1%2F4r2P%2F8%2F2pk2P1%2F6R1%20b%20-%20-%200%2055&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2p3pp%2Fp7%2F3P1p2%2F3Pp3%2F1q2P3%2F1rQ1BKPP%2F1R3R2%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uOp4P](https://lichess.org/training/uOp4P), rated `1401`.
-The game is `boonegoon11 (1873)` vs `arbitrarylogic (1920)` at `3+2` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/zpBUEU2i),
-and the first solution move is `e4e1`.
+It is `Black to move` in puzzle [SPu9p](https://lichess.org/training/SPu9p), rated `1293`.
+The game is `Faulitemporary (2297)` vs `lamagia007 (2252)` at `3+0` time control,
+with themes `endgame, master, short, advantage, pin, hangingPiece`. You can [view the full game](https://lichess.org/ezvniLBr),
+and the first solution move is `b3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
