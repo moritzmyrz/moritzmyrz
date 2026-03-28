@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fppp4p%2F6p1%2F5pkn%2F2B5%2F1Pq3P1%2FP5KP%2F8%20w%20-%20-%202%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k2r1nr%2F2p2ppp%2FBp1p4%2F8%2F3N1p2%2F2P2P2%2F2PK3P%2FR6b%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vUZW4](https://lichess.org/training/vUZW4), rated `1351`.
-The game is `CARENI26 (1923)` vs `skoValone (1923)` at `3+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/rC1N1PIH),
-and the first solution move is `h2h4`.
+It is `White to move` in puzzle [gyKYB](https://lichess.org/training/gyKYB), rated `1285`.
+The game is `soul2197 (1952)` vs `Darknight26 (2047)` at `2+2` time control,
+with themes `mateIn2, middlegame, short, queensideAttack, discoveredCheck, discoveredAttack, pillsburysMate`. You can [view the full game](https://lichess.org/GWa158pt),
+and the first solution move is `d4c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
