@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1k1r4%2F2p2P1p%2F7P%2F1P1r4%2Fpq1P1Q2%2F1PR5%2F1K1R4%20b%20-%20-%201%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3q4%2F6k1%2Fp5r1%2F1pp1p3%2F7r%2FP1PPQ3%2F4K3%2FR6R%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [RUrwV](https://lichess.org/training/RUrwV), rated `1543`.
-The game is `minimoon20 (2038)` vs `Syaif1994 (2069)` at `15+10` time control,
-with themes `deflection, endgame, advancedPawn, short, advantage`. You can [view the full game](https://lichess.org/CZsMGCtO),
-and the first solution move is `a3a2`.
+It is `White to move` in puzzle [Jk174](https://lichess.org/training/Jk174), rated `1528`.
+The game is `egsquilty (1621)` vs `mithun2982 (1959)` at `3+0` time control,
+with themes `exposedKing, endgame, crushing, long`. You can [view the full game](https://lichess.org/gSgl32DA),
+and the first solution move is `e3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
