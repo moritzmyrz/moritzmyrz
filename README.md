@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp3ppp%2F2p1pnb1%2Fq2p4%2F1bPPN3%2F1P1BPN1P%2FPBQ2PP1%2F2R2RK1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2F3p3p%2F2p1P3%2F4B2n%2F3P2R1%2FP1q2P2%2F1R3KNr%20w%20-%20-%202%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KVm5F](https://lichess.org/training/KVm5F), rated `1493`.
-The game is `pls05 (1919)` vs `Marceleza_96 (1937)` at `10+0` time control,
-with themes `fork, short, crushing, middlegame`. You can [view the full game](https://lichess.org/GhNzPybm),
-and the first solution move is `d5e4`.
+It is `White to move` in puzzle [fQer8](https://lichess.org/training/fQer8), rated `1583`.
+The game is `Platonmelih (1732)` vs `Tarrow1 (1818)` at `20+5` time control,
+with themes `deflection, middlegame, fork, long, mateIn3, pillsburysMate`. You can [view the full game](https://lichess.org/uvZlymXc),
+and the first solution move is `b1b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
