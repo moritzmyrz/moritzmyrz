@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp6k%2F1p1b3p%2F5p2%2F2N2q2%2F1P3P1P%2FP1Q3K1%2F6R1%20b%20-%20-%202%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1pp3pp%2Fp1P2r1q%2FP7%2F4p1B1%2F2P1R1P1%2F2P2P1P%2FR2Q2K1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [67ldn](https://lichess.org/training/67ldn), rated `1551`.
-The game is `AnupMarak (1908)` vs `MTT1 (1966)` at `15+10` time control,
-with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/yGDf42Zt),
-and the first solution move is `f4h2`.
+It is `Black to move` in puzzle [PRFkj](https://lichess.org/training/PRFkj), rated `1498`.
+The game is `devonchess (2155)` vs `benedictusk (2253)` at `10+0` time control,
+with themes `capturingDefender, crushing, short, middlegame`. You can [view the full game](https://lichess.org/qYXr4R0h),
+and the first solution move is `f6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
