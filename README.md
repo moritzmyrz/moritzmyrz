@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r3r%2Fp1p1b1p1%2FB1p5%2F3q3p%2F2R1Q3%2F3P3p%2FPPP2P2%2FR5K1%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2FR4Q1p%2F2p2bp1%2F2B5%2F1P1P4%2F6PK%2F4q2P%2F8%20b%20-%20-%206%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gNraY](https://lichess.org/training/gNraY), rated `1302`.
-The game is `xqx2020 (1643)` vs `luke123210 (1659)` at `2+1` time control,
-with themes `middlegame, queensideAttack, crushing, long, sacrifice`. You can [view the full game](https://lichess.org/w68tlcyY),
-and the first solution move is `c4b4`.
+It is `Black to move` in puzzle [2f1PS](https://lichess.org/training/2f1PS), rated `1443`.
+The game is `LCmoon (1629)` vs `infilobo (1626)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/SJUXyVPZ),
+and the first solution move is `e2f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
