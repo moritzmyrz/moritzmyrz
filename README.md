@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q4%2F6k1%2Fp5r1%2F1pp1p3%2F7r%2FP1PPQ3%2F4K3%2FR6R%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k3r2%2Fp1q2P2%2FPpp1B3%2F7Q%2F2Pbp3%2F1P1b2Pp%2F5P1N%2F3RR1K1%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Jk174](https://lichess.org/training/Jk174), rated `1528`.
-The game is `egsquilty (1621)` vs `mithun2982 (1959)` at `3+0` time control,
-with themes `exposedKing, endgame, crushing, long`. You can [view the full game](https://lichess.org/gSgl32DA),
-and the first solution move is `e3e5`.
+It is `Black to move` in puzzle [gDFLC](https://lichess.org/training/gDFLC), rated `1428`.
+The game is `FastMate (2023)` vs `BobitoN7 (1957)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/irM9BCwD),
+and the first solution move is `c7g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
