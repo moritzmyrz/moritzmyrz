@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1kr%2Fp4p1p%2F6qB%2F2pp1N2%2F4n1Q1%2FN1P5%2FPP3bPP%2FR6K%20w%20-%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2Fpkp3p1%2F1pp1N3%2F4P3%2F1P1P2RP%2FRPPK3P%2F2r1r3%20b%20-%20-%204%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PKIPZ](https://lichess.org/training/PKIPZ), rated `1601`.
-The game is `hentaiechi (2121)` vs `koukouroukounas (2075)` at `3+0` time control,
-with themes `clearance, middlegame, long, mateIn3, sacrifice, kingsideAttack, pin`. You can [view the full game](https://lichess.org/FjxXhHRZ),
-and the first solution move is `f5e7`.
+It is `Black to move` in puzzle [4R5ty](https://lichess.org/training/4R5ty), rated `1471`.
+The game is `mahmood1356 (1923)` vs `Verboloz (1923)` at `10+5` time control,
+with themes `veryLong, endgame, mateIn4`. You can [view the full game](https://lichess.org/czFdyWI8),
+and the first solution move is `c1d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
