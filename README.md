@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2kr4%2F1p3Q2%2F2b5%2F2P3p1%2F8%2F6P1%2F7K%20b%20-%20-%200%2044&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F5pkp%2F4p1p1%2F3p4%2F1r1P4%2FQP1qP3%2F5PPP%2F1R1R2K1%20b%20-%20-%2010%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [aEdkH](https://lichess.org/training/aEdkH), rated `1493`.
-The game is `Baluk (2355)` vs `mabumba (2505)` at `3+0` time control,
-with themes `master, short, pillsburysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/OdXwQ6zb),
-and the first solution move is `d7h7`.
+It is `Black to move` in puzzle [ZeUoi](https://lichess.org/training/ZeUoi), rated `1445`.
+The game is `runfromnaka1 (1996)` vs `jesusluna (2000)` at `10+0` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/20Es3gAW),
+and the first solution move is `b4b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
