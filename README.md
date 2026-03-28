@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3qb2r%2Fpp1k1p2%2F4p2P%2F3pP1Q1%2F2nn2N1%2FP7%2FP4R2%2F1R4K1%20w%20-%20-%201%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k3%2F6P1%2F4K3%2F2P4p%2F8%2F8%2F8%20b%20-%20-%202%2051&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qSg9S](https://lichess.org/training/qSg9S), rated `1543`.
-The game is `Dr_anas_Almuhamad (1812)` vs `pms-112 (1893)` at `19+8` time control,
-with themes `deflection, middlegame, short, crushing`. You can [view the full game](https://lichess.org/ZZnBbrV2),
-and the first solution move is `b1b7`.
+It is `Black to move` in puzzle [LMp5w](https://lichess.org/training/LMp5w), rated `1336`.
+The game is `EyungChess (2092)` vs `geolog34 (2075)` at `3+0` time control,
+with themes `veryLong, endgame, advancedPawn, crushing, promotion, pawnEndgame`. You can [view the full game](https://lichess.org/My3Zck0J),
+and the first solution move is `h4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
