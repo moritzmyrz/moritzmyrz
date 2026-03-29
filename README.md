@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3rr%2Fpp3p2%2F2p5%2F3p4%2F3PnNP1%2F2P4p%2FPPN3P1%2F3R1RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r3%2F1b2k1p1%2F4pnQp%2Fp7%2F2pq1P2%2F7P%2FPP3PP1%2FRB2R1K1%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3Asrg](https://lichess.org/training/3Asrg), rated `1411`.
-The game is `zeromh (1897)` vs `Anashya (1737)` at `5+0` time control,
-with themes `mateIn2, advancedPawn, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/AOMDgYlz),
-and the first solution move is `h3h2`.
+It is `White to move` in puzzle [F86Ow](https://lichess.org/training/F86Ow), rated `1442`.
+The game is `Benderis (1904)` vs `Niceguy_in (1891)` at `10+0` time control,
+with themes `middlegame, short, advantage, skewer`. You can [view the full game](https://lichess.org/ADyL9fAd),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
