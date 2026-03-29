@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=Q7%2F5rpk%2F2R2q1p%2F8%2F8%2FP3P3%2F1r3PPP%2F5RK1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpp1q1ppp%2F3p1n2%2F4pn2%2FQ1B5%2F2P5%2FPP1B1PPP%2FRN2K2R%20w%20KQkq%20-%202%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DRBYh](https://lichess.org/training/DRBYh), rated `1401`.
-The game is `paloo (1832)` vs `gudaus2 (1783)` at `5+5` time control,
-with themes `veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/nEYSoV9T),
-and the first solution move is `f6f2`.
+It is `White to move` in puzzle [nZ0FD](https://lichess.org/training/nZ0FD), rated `1380`.
+The game is `gegeev (1866)` vs `squalt (1908)` at `5+5` time control,
+with themes `opening, short, crushing, pin`. You can [view the full game](https://lichess.org/aBbuJ181),
+and the first solution move is `c4b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
