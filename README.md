@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k1r%2Fpp4p1%2F2p2pp1%2F2PnNq2%2F3P4%2F7P%2FP5P1%2F4RQK1%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbq2rk%2Fppp1p2p%2F5bP1%2F4pp2%2F3P4%2F4P3%2FPPP2PP1%2FRN1QKB1R%20w%20KQ%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Miy2z](https://lichess.org/training/Miy2z), rated `1448`.
-The game is `MaXyM_1709 (1970)` vs `gajdukigor (1697)` at `7+1` time control,
-with themes `endgame, advantage, fork, long, pin`. You can [view the full game](https://lichess.org/Lim4lDj4),
-and the first solution move is `f1f5`.
+It is `White to move` in puzzle [Jzzq7](https://lichess.org/training/Jzzq7), rated `1364`.
+The game is `Mattiello00 (1900)` vs `Codo1 (1902)` at `10+5` time control,
+with themes `oneMove, opening, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/GYNadoYd),
+and the first solution move is `h1h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
