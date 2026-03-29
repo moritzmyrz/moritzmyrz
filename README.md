@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F5p2%2Fp5pp%2F1p6%2F4pq2%2FP1P5%2FBP4Q1%2F6RK%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3rr%2Fpp3p2%2F2p5%2F3p4%2F3PnNP1%2F2P4p%2FPPN3P1%2F3R1RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VQcQh](https://lichess.org/training/VQcQh), rated `1564`.
-The game is `ustnera20 (1759)` vs `Kieran_Tahir (1772)` at `5+0` time control,
-with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/LcFkCmMn),
-and the first solution move is `g2g6`.
+It is `Black to move` in puzzle [3Asrg](https://lichess.org/training/3Asrg), rated `1411`.
+The game is `zeromh (1897)` vs `Anashya (1737)` at `5+0` time control,
+with themes `mateIn2, advancedPawn, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/AOMDgYlz),
+and the first solution move is `h3h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
