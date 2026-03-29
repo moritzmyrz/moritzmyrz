@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bk1bnr%2Fppp1q3%2F2p5%2F8%2F2P1Q3%2F8%2FPP1P1PPP%2FRNB1R1K1%20w%20-%20-%201%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3Nk1%2Fpp2b1pp%2F1qp2n2%2F8%2F3pP3%2F8%2FPPP1Q1PP%2FRNB2RK1%20b%20-%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pA6g1](https://lichess.org/training/pA6g1), rated `1519`.
-The game is `KuPuJIJI (1890)` vs `mdgroof (1815)` at `15+10` time control,
-with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/Qy6g4Sgf),
-and the first solution move is `e4d4`.
+It is `Black to move` in puzzle [UR8RS](https://lichess.org/training/UR8RS), rated `1414`.
+The game is `Brain_killa (2027)` vs `Shcherbakov35 (2025)` at `3+0` time control,
+with themes `middlegame, advantage, fork, long, discoveredAttack, pin`. You can [view the full game](https://lichess.org/h4UiqCuK),
+and the first solution move is `d4d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
