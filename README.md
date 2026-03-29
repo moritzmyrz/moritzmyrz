@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5ppp%2Fpq6%2F2b2n2%2F2Q2P2%2FPBB5%2F1P4PP%2F4R2K%20b%20-%20-%204%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr3%2F1pq2p1k%2F6p1%2Fp7%2FP2N1nP1%2F2P2R1P%2F1P3P2%2F2QR2K1%20b%20-%20-%204%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Elu0O](https://lichess.org/training/Elu0O), rated `1503`.
-The game is `Tulovishe (2461)` vs `Alejandropacheco29 (2499)` at `3+0` time control,
-with themes `mateIn2, short, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/Bx99MVSc),
-and the first solution move is `f5g3`.
+It is `Black to move` in puzzle [odCIm](https://lichess.org/training/odCIm), rated `1534`.
+The game is `KowalskyB4 (2054)` vs `Kipikpa (2141)` at `10+0` time control,
+with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/ynn3eloG),
+and the first solution move is `d8d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
