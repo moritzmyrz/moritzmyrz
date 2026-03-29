@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3r1p1p%2Fp2B1Qp1%2F3P4%2F4q3%2F7P%2FPP3PPK%2F8%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp5p1%2F2p2r1p%2F4R3%2F3pPn2%2FqP1P1PBP%2F2Q3P1%2F2R3K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jUq69](https://lichess.org/training/jUq69), rated `1410`.
-The game is `bombardero2055 (2211)` vs `piotrek212 (2405)` at `3+0` time control,
-with themes `short, crushing, quietMove, endgame`. You can [view the full game](https://lichess.org/1mo5pNTo),
-and the first solution move is `d6e5`.
+It is `Black to move` in puzzle [h4GXY](https://lichess.org/training/h4GXY), rated `1516`.
+The game is `beamingBishop (2061)` vs `abumattlowb (2077)` at `10+0` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/XQpKUSvF),
+and the first solution move is `a3c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
