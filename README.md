@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2F3PBpbp%2Fp5p1%2F3QR3%2F8%2F2N4P%2FPq3PP1%2F2R3K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5ppp%2Fpq6%2F2b2n2%2F2Q2P2%2FPBB5%2F1P4PP%2F4R2K%20b%20-%20-%204%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EVCcl](https://lichess.org/training/EVCcl), rated `1390`.
-The game is `edgardo112233 (1869)` vs `BIGFASTEST (2163)` at `3+0` time control,
-with themes `middlegame, crushing, fork, long, hangingPiece`. You can [view the full game](https://lichess.org/7snN5ScF),
-and the first solution move is `b2c1`.
+It is `Black to move` in puzzle [Elu0O](https://lichess.org/training/Elu0O), rated `1503`.
+The game is `Tulovishe (2461)` vs `Alejandropacheco29 (2499)` at `3+0` time control,
+with themes `mateIn2, short, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/Bx99MVSc),
+and the first solution move is `f5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
