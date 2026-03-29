@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qbrk1%2Fpp4p1%2F2n1ppB1%2F3p2pR%2F3P4%2F4PN2%2FPP2KPP1%2F2RQ4%20w%20-%20-%204%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4p2%2F1p4pK%2F5r1p%2F2BP4%2FP3r3%2F1P1R2PP%2FR7%20b%20-%20-%205%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [LSlR1](https://lichess.org/training/LSlR1), rated `1556`.
-The game is `mlmlml1 (1525)` vs `gp1964 (1575)` at `10+5` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/TvA8D5dW),
-and the first solution move is `h5h8`.
+It is `Black to move` in puzzle [RaqO1](https://lichess.org/training/RaqO1), rated `1559`.
+The game is `rajaravisankarareddy (2086)` vs `Not_LGBTQIAXYZ (2114)` at `3+0` time control,
+with themes `crushing, long, quietMove, endgame`. You can [view the full game](https://lichess.org/xLMb482E),
+and the first solution move is `h5h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
