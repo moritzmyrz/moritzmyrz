@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1p3ppp%2F2p1pn2%2Fp2p4%2F1qPPn3%2F1Q2PNP1%2FPP1N1PBP%2FR1R3K1%20b%20-%20-%204%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4R2k%2F5qp1%2F2r2n1p%2Fpp3p2%2F7P%2F2P3Q1%2FPP3PP1%2F4R1K1%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JVp7Q](https://lichess.org/training/JVp7Q), rated `1587`.
-The game is `Arnelos (2574)` vs `boby_B (1804)` at `5+0` time control,
-with themes `advantage, long, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/K7tSpDf4),
-and the first solution move is `e4d2`.
+It is `Black to move` in puzzle [Wrm2c](https://lichess.org/training/Wrm2c), rated `1405`.
+The game is `yapmabe333 (1907)` vs `AdamVynokur (1936)` at `10+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/HAxDBQiF),
+and the first solution move is `f6e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
