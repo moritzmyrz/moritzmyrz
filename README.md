@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpbb1q1pp%2F5p2%2F2p5%2F2npPB1Q%2F5B2%2FPPP3PP%2FR4RK1%20b%20-%20-%201%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2F3b3Q%2Fp2k4%2F2N3p1%2F1p1p4%2F8%2FPPP1K1PP%2F8%20b%20-%20-%201%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9fWPo](https://lichess.org/training/9fWPo), rated `1568`.
-The game is `sauceonrice (2071)` vs `epsilonought111 (2100)` at `10+5` time control,
-with themes `advantage, fork, short, middlegame`. You can [view the full game](https://lichess.org/K9VaoZJT),
-and the first solution move is `g7g5`.
+It is `Black to move` in puzzle [b4lFT](https://lichess.org/training/b4lFT), rated `1500`.
+The game is `AstanaAC (1980)` vs `yaya_2424 (1971)` at `3+0` time control,
+with themes `exposedKing, clearance, crushing, long, sacrifice, pin`. You can [view the full game](https://lichess.org/ToU3QCAf),
+and the first solution move is `a8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
