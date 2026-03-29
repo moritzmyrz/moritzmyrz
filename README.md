@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rk3%2FBR1n2Kp%2F1P3R2%2F4p1p1%2F4P3%2F4bP1P%2F1r4P1%2F8%20w%20-%20-%208%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2Fp4ppp%2F1p3q2%2F3b4%2FP7%2F1Q3N2%2F5PPP%2F2R1R1K1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4bysw](https://lichess.org/training/4bysw), rated `1391`.
-The game is `sirRusty (1791)` vs `gustaavomoraales (1928)` at `10+0` time control,
-with themes `middlegame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/AcPoKZS2),
-and the first solution move is `f6e6`.
+It is `White to move` in puzzle [0DRoI](https://lichess.org/training/0DRoI), rated `1536`.
+The game is `TheReawakened (2099)` vs `Russo_chess (1863)` at `30+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/JZJ90Xg8),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
