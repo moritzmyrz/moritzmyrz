@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2k2nr%2Fpp1n4%2F2p1Qpp1%2F3p4%2F3P1BP1%2F2q2P1P%2FP1P5%2F2K1RB1R%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F7p%2F3r4%2F4P2P%2F5P2%2F6PK%2F8%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jrgnS](https://lichess.org/training/jrgnS), rated `1556`.
-The game is `Snegir3103 (1631)` vs `duncan82 (1532)` at `10+0` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/0xyYRCqe),
-and the first solution move is `c3a1`.
+It is `White to move` in puzzle [kDCs6](https://lichess.org/training/kDCs6), rated `1498`.
+The game is `PedroHumberto (1739)` vs `markuscs (1818)` at `10+0` time control,
+with themes `endgame, defensiveMove, veryLong, crushing`. You can [view the full game](https://lichess.org/5YyJduO6),
+and the first solution move is `e4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
