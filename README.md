@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r2k%2Fppp2p1p%2F5P1B%2F2b5%2F8%2F3B4%2FPPP2qPP%2FR2Q3K%20w%20-%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F5p2%2Fp5pp%2F1p6%2F4pq2%2FP1P5%2FBP4Q1%2F6RK%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nWx2k](https://lichess.org/training/nWx2k), rated `1309`.
-The game is `Elver1234 (1908)` vs `reduceme (1875)` at `10+0` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/YObuFYaI),
-and the first solution move is `h6g7`.
+It is `White to move` in puzzle [VQcQh](https://lichess.org/training/VQcQh), rated `1564`.
+The game is `ustnera20 (1759)` vs `Kieran_Tahir (1772)` at `5+0` time control,
+with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/LcFkCmMn),
+and the first solution move is `g2g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
