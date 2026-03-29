@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=Q7%2F4kpp1%2F4p2p%2F1p2b3%2F1P6%2F2q5%2FR1P3PP%2F1K5R%20b%20-%20-%202%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kn3r%2Fppp3pp%2F8%2F2bp1q2%2F4n3%2F3B1P2%2FP1PN2PP%2F1R1Q1R1K%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [knuFC](https://lichess.org/training/knuFC), rated `1349`.
-The game is `danielyuk (1792)` vs `Yurko_56 (1907)` at `10+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/KjXCYzAW),
-and the first solution move is `c3b4`.
+It is `Black to move` in puzzle [s8Kfv](https://lichess.org/training/s8Kfv), rated `1496`.
+The game is `El-Oligarca (1983)` vs `mahdi_bardestani (1556)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/junPai91),
+and the first solution move is `e4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
