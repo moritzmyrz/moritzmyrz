@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2FKpk4p%2F6p1%2FP7%2F7P%2F5PP1%2F8%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2Fpp2q1p1%2F1np4p%2F3pN3%2F3P1r2%2F2PB2P1%2FPPQ2PK1%2F8%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [96nCQ](https://lichess.org/training/96nCQ), rated `1789`.
-The game is `le_renard_real (2049)` vs `Piszczu123 (2169)` at `10+0` time control,
-with themes `crushing, quietMove, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/WQ8CFJhY),
-and the first solution move is `f7f5`.
+It is `White to move` in puzzle [13KPY](https://lichess.org/training/13KPY), rated `1453`.
+The game is `AndreyAAAAA (2029)` vs `ram021 (1905)` at `3+0` time control,
+with themes `middlegame, discoveredCheck, advantage, fork, long, discoveredAttack`. You can [view the full game](https://lichess.org/RxC8TLms),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
