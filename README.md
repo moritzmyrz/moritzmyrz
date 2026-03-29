@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Frq3pk1%2F6p1%2F4P3%2Fp2Q1R2%2F2P3PK%2F5P2%2F8%20b%20-%20-%204%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1N%2Fppp2p1p%2F2n3p1%2F4P2b%2F2P5%2FP2P4%2F1P4PP%2FR1B2RK1%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [L3mwg](https://lichess.org/training/L3mwg), rated `1407`.
-The game is `AnalyticalMachine (2125)` vs `aqua21 (2136)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/edz8pXFL),
-and the first solution move is `b7h1`.
+It is `Black to move` in puzzle [ajB1i](https://lichess.org/training/ajB1i), rated `1314`.
+The game is `arii99999 (1770)` vs `DOCHAZEM (1774)` at `10+0` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/UYj7LMzn),
+and the first solution move is `f8c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
