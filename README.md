@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp5p1%2F2p2r1p%2F4R3%2F3pPn2%2FqP1P1PBP%2F2Q3P1%2F2R3K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1p3ppp%2F2p1pn2%2Fp2p4%2F1qPPn3%2F1Q2PNP1%2FPP1N1PBP%2FR1R3K1%20b%20-%20-%204%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [h4GXY](https://lichess.org/training/h4GXY), rated `1516`.
-The game is `beamingBishop (2061)` vs `abumattlowb (2077)` at `10+0` time control,
-with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/XQpKUSvF),
-and the first solution move is `a3c1`.
+It is `Black to move` in puzzle [JVp7Q](https://lichess.org/training/JVp7Q), rated `1587`.
+The game is `Arnelos (2574)` vs `boby_B (1804)` at `5+0` time control,
+with themes `advantage, long, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/K7tSpDf4),
+and the first solution move is `e4d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
