@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2pq1ppp%2Fp1np1n2%2F6N1%2F2Nr4%2F1P6%2FP1Q3PP%2FR4RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2k2nr%2Fpp1n4%2F2p1Qpp1%2F3p4%2F3P1BP1%2F2q2P1P%2FP1P5%2F2K1RB1R%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [k6xAc](https://lichess.org/training/k6xAc), rated `1332`.
-The game is `Valermay (1872)` vs `Lovely1 (1847)` at `10+0` time control,
-with themes `kingsideAttack, short, advantage, middlegame`. You can [view the full game](https://lichess.org/cZRmB6ld),
-and the first solution move is `f1f6`.
+It is `Black to move` in puzzle [jrgnS](https://lichess.org/training/jrgnS), rated `1556`.
+The game is `Snegir3103 (1631)` vs `duncan82 (1532)` at `10+0` time control,
+with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/0xyYRCqe),
+and the first solution move is `c3a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
