@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1n2p2%2F1p1k2pp%2F4N3%2FPP2K3%2F4P1P1%2F5P1P%2F8%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k3r2%2Fpp1R1p2%2F2n1p2r%2F4Pp1p%2F2RN4%2F6PP%2FPP3P2%2F5K2%20b%20-%20-%204%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pw3Ot](https://lichess.org/training/pw3Ot), rated `1341`.
-The game is `C7-OH (2043)` vs `Quefoi (2101)` at `3+0` time control,
-with themes `deflection, endgame, advantage, long, knightEndgame`. You can [view the full game](https://lichess.org/okR6Uh6b),
-and the first solution move is `f7f5`.
+It is `Black to move` in puzzle [tSw5j](https://lichess.org/training/tSw5j), rated `1291`.
+The game is `NATURAL_BELIEVER (2741)` vs `AttackingBeast (2736)` at `3+0` time control,
+with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/jFTnyt9D),
+and the first solution move is `c6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
