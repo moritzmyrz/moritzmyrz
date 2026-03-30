@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rqbrk1%2FpQ3pbp%2F6p1%2F4p1N1%2F2Bn2P1%2F4P2P%2FPP3P1B%2F2RR2K1%20b%20-%20-%203%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5ppk%2F2N1p2p%2F3p4%2F8%2F5PqP%2FQ5P1%2F5n1K%20w%20-%20-%2012%2046&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [s5Kin](https://lichess.org/training/s5Kin), rated `1500`.
-The game is `TIBURONCHILENO (2393)` vs `David0890 (2348)` at `5+0` time control,
-with themes `middlegame, advantage, long, sacrifice, discoveredAttack`. You can [view the full game](https://lichess.org/NzIbifNM),
-and the first solution move is `c8c4`.
+It is `White to move` in puzzle [M2K28](https://lichess.org/training/M2K28), rated `1599`.
+The game is `monia1939 (1807)` vs `SakiIvan85 (1824)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/pqNezmsU),
+and the first solution move is `a2b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
