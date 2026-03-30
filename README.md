@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqkb1r%2Fppp2p2%2F3p3p%2F4n2Q%2F7p%2F2N1P3%2FPPPN1PPP%2FR3KB1R%20b%20KQkq%20-%201%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N1bk3r%2Fpp1p1ppp%2F3Q4%2F4p3%2F3nq3%2F8%2FP4PPP%2F2R2K1R%20w%20-%20-%206%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yBFCY](https://lichess.org/training/yBFCY), rated `1292`.
-The game is `mjuanchini (2195)` vs `Sweetrejections (2159)` at `3+0` time control,
-with themes `short, advantage, trappedPiece, opening`. You can [view the full game](https://lichess.org/5JNKqb4M),
-and the first solution move is `c8g4`.
+It is `White to move` in puzzle [M8swl](https://lichess.org/training/M8swl), rated `1530`.
+The game is `Sripadha114 (1836)` vs `SydB (1817)` at `10+5` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice`. You can [view the full game](https://lichess.org/AEgDPucy),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
