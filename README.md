@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp1bb2p%2F4p3%2F3pB3%2F3n4%2F2qB4%2FP3KP1P%2FR2Q1NR1%20w%20kq%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1nkr2nr%2F1pp1q1pp%2Fp7%2F3B4%2F3PPp2%2F1P3P2%2FP1Q2P1P%2F2R2R1K%20w%20-%20-%203%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [y02Ai](https://lichess.org/training/y02Ai), rated `1342`.
-The game is `DJ_Haubi (2479)` vs `kismetim (1718)` at `4+0` time control,
-with themes `exposedKing, crushing, long, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/Wfk4KuOc),
-and the first solution move is `e5d4`.
+It is `White to move` in puzzle [gT3rW](https://lichess.org/training/gT3rW), rated `1345`.
+The game is `matt_blunder (1721)` vs `DUMBA_007 (1727)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/5sct75Y7),
+and the first solution move is `d5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
