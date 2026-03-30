@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=N1bk3r%2Fpp1p1ppp%2F3Q4%2F4p3%2F3nq3%2F8%2FP4PPP%2F2R2K1R%20w%20-%20-%206%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fp3r1bp%2F3qp1k1%2F2p3p1%2F2Bp4%2FP4Q2%2F1PP2PPP%2F1K2R3%20w%20-%20-%203%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [M8swl](https://lichess.org/training/M8swl), rated `1530`.
-The game is `Sripadha114 (1836)` vs `SydB (1817)` at `10+5` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice`. You can [view the full game](https://lichess.org/AEgDPucy),
-and the first solution move is `c1c8`.
+It is `White to move` in puzzle [sy58O](https://lichess.org/training/sy58O), rated `1367`.
+The game is `C4C5E4E5 (1970)` vs `olzhas970921 (1927)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/rw4m0CWm),
+and the first solution move is `c4d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
