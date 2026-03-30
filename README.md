@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2kb4%2Fp4Qp1%2FPp1pPp1p%2F1P3P2%2F3BK3%2F1q6%2F4B3%20b%20-%20-%2013%2067&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2F1p3ppp%2Fp1nppn2%2FPqp5%2F3PP3%2F2P2N2%2F1P1N1PPP%2FR1BQK2R%20w%20KQkq%20-%202%209&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jSyLp](https://lichess.org/training/jSyLp), rated `1401`.
-The game is `RomanLeoRoma (1661)` vs `leopoljd99j (1730)` at `5+0` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/s9Zp15qm),
-and the first solution move is `d5d4`.
+It is `White to move` in puzzle [8la27](https://lichess.org/training/8la27), rated `1605`.
+The game is `serdy11 (2216)` vs `june23 (2039)` at `3+2` time control,
+with themes `long, trappedPiece, advantage, opening`. You can [view the full game](https://lichess.org/hzVOjKxp),
+and the first solution move is `c3c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
