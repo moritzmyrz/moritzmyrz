@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5b2%2F8%2Fp5kp%2F2P1Pp2%2F1P3Pp1%2F2B1K1P1%2F3Q3P%2F7q%20b%20-%20-%207%2047&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk1nr%2Fppp2ppp%2F2nb4%2F1B6%2F3QP3%2F5R2%2FPPP3PP%2FRNB3K1%20b%20kq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4lRvP](https://lichess.org/training/4lRvP), rated `1537`.
-The game is `Der-Wir-Ing (1504)` vs `Sofasohn (1579)` at `2+1` time control,
-with themes `swallowstailMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/wuackKjH),
-and the first solution move is `h1f3`.
+It is `Black to move` in puzzle [zKhyg](https://lichess.org/training/zKhyg), rated `1532`.
+The game is `Enypa (1934)` vs `RowlandRob (1825)` at `10+5` time control,
+with themes `short, crushing, opening, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/eXHpQ8vn),
+and the first solution move is `d6h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
