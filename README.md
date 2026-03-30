@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4P1pp%2Fp4p2%2F1pP2p2%2F1P2bq2%2FP1Q3R1%2F1B1r2PP%2F2R3K1%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1pq3Q1%2Fp1kr2p1%2F4Rp1p%2F5P2%2F4P2P%2F6P1%2F6K1%20w%20-%20-%208%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [swyuk](https://lichess.org/training/swyuk), rated `1287`.
-The game is `drey2kool (1692)` vs `skutulass (1747)` at `2+1` time control,
-with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/CG8jyTHb),
-and the first solution move is `f4f2`.
+It is `White to move` in puzzle [j0ykV](https://lichess.org/training/j0ykV), rated `1277`.
+The game is `ERDER11 (2158)` vs `LordJoshTheTerrible (2190)` at `10+0` time control,
+with themes `deflection, endgame, short, advantage, attraction`. You can [view the full game](https://lichess.org/Y3kICjaN),
+and the first solution move is `e5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
