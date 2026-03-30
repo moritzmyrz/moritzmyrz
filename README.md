@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2b2k2%2F6p1%2F1R3bP1%2F1pP4P%2F1P1p4%2F8%2F5K2%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5kp%2Fbp3rp1%2F3N4%2FP7%2F4qpPP%2F2Q1P2K%2FR3R3%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [sGcKZ](https://lichess.org/training/sGcKZ), rated `1326`.
-The game is `abawad1185 (2039)` vs `ABOMOHAND (1928)` at `15+10` time control,
-with themes `pin, crushing, short, endgame`. You can [view the full game](https://lichess.org/w2qVE3wx),
-and the first solution move is `b5b7`.
+It is `Black to move` in puzzle [QLo4M](https://lichess.org/training/QLo4M), rated `1289`.
+The game is `CheGevara07 (1775)` vs `RadeSolak (1739)` at `3+2` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/jfh2uilU),
+and the first solution move is `e3f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
