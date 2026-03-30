@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqkb1r%2Fpp3ppp%2F2n1pn2%2F1Bp5%2F3P4%2F5NN1%2FPPP2PPP%2FR1BQK2R%20b%20KQkq%20-%204%207&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2F1p1npppp%2Fp4n2%2F1B1bN3%2F8%2F8%2FPP3PPP%2FRNBQK2R%20w%20KQkq%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vTPrG](https://lichess.org/training/vTPrG), rated `1382`.
-The game is `QuickMadnes (1761)` vs `Jkmo06 (1776)` at `10+0` time control,
-with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/otKCnHcX),
-and the first solution move is `d8a5`.
+It is `White to move` in puzzle [R4CZG](https://lichess.org/training/R4CZG), rated `1275`.
+The game is `graciousnape (1887)` vs `rodburn2 (1907)` at `10+0` time control,
+with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/dWrvsQlx),
+and the first solution move is `b5d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
