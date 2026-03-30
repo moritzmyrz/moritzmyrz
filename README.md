@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1nkr2nr%2F1pp1q1pp%2Fp7%2F3B4%2F3PPp2%2F1P3P2%2FP1Q2P1P%2F2R2R1K%20w%20-%20-%203%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2Fppp2ppp%2F3b4%2F3P4%2F5Pb1%2F1BNQ3q%2FPPP2P1P%2FR1B1R1K1%20b%20-%20-%202%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gT3rW](https://lichess.org/training/gT3rW), rated `1345`.
-The game is `matt_blunder (1721)` vs `DUMBA_007 (1727)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/5sct75Y7),
-and the first solution move is `d5e6`.
+It is `Black to move` in puzzle [btTza](https://lichess.org/training/btTza), rated `1435`.
+The game is `mahmudsyria (1784)` vs `Yosfgz (1852)` at `10+0` time control,
+with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/Vl1QCWgd),
+and the first solution move is `g4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
