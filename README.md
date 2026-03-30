@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1k2%2F1p6%2F2q1p1pp%2F7N%2F8%2F5pPP%2F1Q3P1K%2F8%20w%20-%20-%2010%2057&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp2ppp%2F2n2n2%2F3p4%2F3P4%2F1NqB1Q1P%2FP1P2PP1%2FR3R1K1%20w%20-%20-%201%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [g25SN](https://lichess.org/training/g25SN), rated `1362`.
-The game is `No_soy_yo (2372)` vs `Optimus_Knight (2294)` at `10+5` time control,
-with themes `short, cornerMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/mQSN3QW8),
-and the first solution move is `b2g7`.
+It is `White to move` in puzzle [ozcFE](https://lichess.org/training/ozcFE), rated `1308`.
+The game is `Denbayr (1896)` vs `Sorochan (2026)` at `15+10` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/GvW2vozm),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
