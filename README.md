@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fp4ppp%2F2p1p3%2F2npPPQ1%2F2bN4%2F2q5%2FP1P3PP%2F1R2R1K1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r2k2%2FpR6%2F6Bp%2F3P4%2F1p1B4%2FP7%2F6PP%2F7K%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RAkcN](https://lichess.org/training/RAkcN), rated `1360`.
-The game is `McFreen (1804)` vs `Amindareini86 (1785)` at `3+2` time control,
-with themes `middlegame, crushing, long, sacrifice, defensiveMove`. You can [view the full game](https://lichess.org/Sg2clGkU),
-and the first solution move is `f5f6`.
+It is `Black to move` in puzzle [RQmw9](https://lichess.org/training/RQmw9), rated `1461`.
+The game is `Azaeva_Zemfira (1841)` vs `Twitch_tv_KugelBuch (1878)` at `10+0` time control,
+with themes `endgame, short, advantage`. You can [view the full game](https://lichess.org/oWckTKuJ),
+and the first solution move is `c8c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
