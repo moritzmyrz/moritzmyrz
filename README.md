@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r1r2k1%2F7p%2Fp5p1%2FPpN3q1%2F1Q1RPp2%2F5P1b%2FR5PP%2F6K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4P1pp%2Fp4p2%2F1pP2p2%2F1P2bq2%2FP1Q3R1%2F1B1r2PP%2F2R3K1%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3S8u2](https://lichess.org/training/3S8u2), rated `1561`.
-The game is `Kable4801 (1613)` vs `rafael-0898 (1578)` at `5+0` time control,
-with themes `clearance, middlegame, crushing, long, pin`. You can [view the full game](https://lichess.org/ogEeLUcU),
-and the first solution move is `d8d4`.
+It is `Black to move` in puzzle [swyuk](https://lichess.org/training/swyuk), rated `1287`.
+The game is `drey2kool (1692)` vs `skutulass (1747)` at `2+1` time control,
+with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/CG8jyTHb),
+and the first solution move is `f4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
