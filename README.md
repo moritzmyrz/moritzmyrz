@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b3kr%2Fpp1p2p1%2F2p4p%2F2bNq3%2F8%2F5QP1%2FPPPP4%2FR1BK1R2%20w%20-%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb3nr%2Fpppp1kpp%2F8%2F8%2F3P4%2F6P1%2FPPP2K1P%2FRNBQ1B1q%20w%20-%20-%200%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [K2ifs](https://lichess.org/training/K2ifs), rated `1450`.
-The game is `Flasharry (1680)` vs `rabahmost (1653)` at `15+15` time control,
-with themes `middlegame, crushing, long, kingsideAttack, pin`. You can [view the full game](https://lichess.org/v8A5Ls6n),
-and the first solution move is `f3f7`.
+It is `White to move` in puzzle [K0zh4](https://lichess.org/training/K0zh4), rated `1491`.
+The game is `crullart (1823)` vs `PawnSlider (1702)` at `10+0` time control,
+with themes `short, crushing, opening, discoveredAttack`. You can [view the full game](https://lichess.org/r1uttjBy),
+and the first solution move is `f1c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
