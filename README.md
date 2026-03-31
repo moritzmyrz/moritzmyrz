@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5kp%2Fbp3rp1%2F3N4%2FP7%2F4qpPP%2F2Q1P2K%2FR3R3%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F2p3R1%2F2K5%2FPP6%2F6pp%2F2P5%2F2r5%2F8%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [QLo4M](https://lichess.org/training/QLo4M), rated `1289`.
-The game is `CheGevara07 (1775)` vs `RadeSolak (1739)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/jfh2uilU),
-and the first solution move is `e3f2`.
+It is `White to move` in puzzle [nb179](https://lichess.org/training/nb179), rated `1393`.
+The game is `cristianogsouza (1910)` vs `ChessKing_2014 (1856)` at `3+0` time control,
+with themes `veryLong, endgame, rookEndgame, mateIn4`. You can [view the full game](https://lichess.org/HpFac5Uj),
+and the first solution move is `g7g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
