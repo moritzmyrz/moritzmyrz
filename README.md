@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4pkp%2F2p2N2%2F4P1P1%2FP2p3P%2FbPp5%2FK1P5%2F8%20b%20-%20-%202%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp4b1%2F4p3%2F3pPrNQ%2F5q2%2F2P4P%2FPP5P%2FR6K%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DWoad](https://lichess.org/training/DWoad), rated `1532`.
-The game is `richardruiz (2230)` vs `Nrmodi786 (1684)` at `5+0` time control,
-with themes `endgame, advancedPawn, crushing, long, promotion`. You can [view the full game](https://lichess.org/oYzeksUB),
-and the first solution move is `d4d3`.
+It is `White to move` in puzzle [nf8re](https://lichess.org/training/nf8re), rated `1349`.
+The game is `Kartal7 (2134)` vs `caracol112 (2158)` at `3+0` time control,
+with themes `exposedKing, middlegame, crushing, fork, long, pin`. You can [view the full game](https://lichess.org/qEZL1LAz),
+and the first solution move is `h5h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
