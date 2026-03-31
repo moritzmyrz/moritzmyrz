@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1pQ2pb1%2F4p1p1%2F3p2N1%2F3P1P1p%2FP3q2P%2F1P4PK%2F8%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7R%2Fp1k5%2F1p6%2F4p1rp%2F4Kpn1%2FP7%2F1P3PR1%2F8%20b%20-%20-%205%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MNvom](https://lichess.org/training/MNvom), rated `1451`.
-The game is `ghulam (1907)` vs `VerdeMoco (1979)` at `3+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/QwbNL3i9),
-and the first solution move is `c7f7`.
+It is `Black to move` in puzzle [QUDSU](https://lichess.org/training/QUDSU), rated `1491`.
+The game is `Kee-Bosi (1830)` vs `TESSERON (1810)` at `3+2` time control,
+with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/FjWbmSbg),
+and the first solution move is `g4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
