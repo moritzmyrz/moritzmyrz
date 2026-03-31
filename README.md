@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp4pp%2F2n2p2%2F2Pp2BB%2F3P4%2F6Q1%2Fq1P2PPP%2F5RK1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5ppp%2Fp2R1b2%2F1p6%2F1P2b3%2FP3PNP1%2FB1R1KP1P%2F8%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [78Kau](https://lichess.org/training/78Kau), rated `1549`.
-The game is `CezarusTriumphus (1966)` vs `PeretyatkoValery (1975)` at `3+0` time control,
-with themes `middlegame, crushing, long, kingsideAttack, pin`. You can [view the full game](https://lichess.org/MIMCBbqn),
-and the first solution move is `g5h6`.
+It is `Black to move` in puzzle [swGmP](https://lichess.org/training/swGmP), rated `1531`.
+The game is `RobeeJS (1566)` vs `Awanangin (1547)` at `10+0` time control,
+with themes `middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/aGwl0waI),
+and the first solution move is `c8c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
