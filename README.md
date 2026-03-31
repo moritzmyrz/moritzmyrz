@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1Q1K2pk%2Fp6p%2F7P%2F8%2FPP6%2F5r2%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2k2r%2Fppp2ppp%2F2q5%2F3pp3%2F4b3%2F1BN5%2FPPP3PP%2FR1B1Q2K%20w%20kq%20-%202%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ome3O](https://lichess.org/training/Ome3O), rated `1339`.
-The game is `bagge89 (2188)` vs `The_Big_G (2186)` at `3+0` time control,
-with themes `endgame, master, crushing, skewer, long, queenRookEndgame`. You can [view the full game](https://lichess.org/dcnCw7wo),
-and the first solution move is `f1f6`.
+It is `White to move` in puzzle [Yw75Z](https://lichess.org/training/Yw75Z), rated `1590`.
+The game is `ivyharley (1906)` vs `LoganRex (1843)` at `10+0` time control,
+with themes `short, pin, advantage, middlegame`. You can [view the full game](https://lichess.org/6r3jM49U),
+and the first solution move is `b3a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
