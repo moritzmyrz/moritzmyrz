@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F2p3R1%2F2K5%2FPP6%2F6pp%2F2P5%2F2r5%2F8%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1Br3p1%2F1R5p%2F2r1n2P%2FP7%2Fk3K3%2F8%2F1R6%20b%20-%20-%204%2051&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nb179](https://lichess.org/training/nb179), rated `1393`.
-The game is `cristianogsouza (1910)` vs `ChessKing_2014 (1856)` at `3+0` time control,
-with themes `veryLong, endgame, rookEndgame, mateIn4`. You can [view the full game](https://lichess.org/HpFac5Uj),
-and the first solution move is `g7g8`.
+It is `Black to move` in puzzle [YbHNu](https://lichess.org/training/YbHNu), rated `1418`.
+The game is `miwa (1629)` vs `Udgin (1740)` at `8+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/wgUZvuq9),
+and the first solution move is `e5c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
