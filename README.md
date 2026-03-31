@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6k1%2F1P1R4%2F2P3p1%2F2BPb2P%2F4p1K1%2F5r2%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F1b1nQ1pp%2Fp4n2%2F6q1%2F2B2R2%2FP1P4P%2F1P3RPK%2F8%20b%20-%20-%206%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XM5OT](https://lichess.org/training/XM5OT), rated `1537`.
-The game is `Rycroftblix (2380)` vs `chess_rehab (2400)` at `3+0` time control,
-with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/JxwwVdfx),
-and the first solution move is `f2g2`.
+It is `Black to move` in puzzle [KDHQC](https://lichess.org/training/KDHQC), rated `1279`.
+The game is `Arsen_Arakelian (2018)` vs `alejandro-1986 (2061)` at `10+0` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/C2IL0KlK),
+and the first solution move is `f6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
