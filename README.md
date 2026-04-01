@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r4%2F1b3pkp%2Fp3pNp1%2F4P3%2FP1P5%2F3R2Q1%2F2q2PPP%2F3R2K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2Fpp3p1p%2F3p2pN%2F2q1n3%2F6R1%2FP4QP1%2F1P4KP%2F8%20w%20-%20-%208%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ocS6c](https://lichess.org/training/ocS6c), rated `1494`.
-The game is `ivanchess2 (1880)` vs `eRZGR06 (1868)` at `25+12` time control,
-with themes `mateIn2, middlegame, short, xRayAttack, kingsideAttack`. You can [view the full game](https://lichess.org/ZjAo6bik),
-and the first solution move is `c2d1`.
+It is `White to move` in puzzle [tb1vP](https://lichess.org/training/tb1vP), rated `1307`.
+The game is `mc_gyver (1759)` vs `Davidpadel (1808)` at `15+5` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/eEiLpfX7),
+and the first solution move is `f3f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
