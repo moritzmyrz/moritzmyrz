@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=QQ6%2F5ppk%2F5q1p%2F8%2F8%2F2Pb2P1%2F1P2r1BP%2FR5K1%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F5k2%2F1pQ1n2R%2Fp2pq1p1%2F5p2%2F4P3%2FPP4PP%2F6K1%20w%20-%20-%202%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [OIWyS](https://lichess.org/training/OIWyS), rated `1536`.
-The game is `hoklavat (1750)` vs `melody1202 (1827)` at `10+0` time control,
-with themes `veryLong, middlegame, mateIn4`. You can [view the full game](https://lichess.org/WKvgegvx),
-and the first solution move is `f6f2`.
+It is `White to move` in puzzle [syxbz](https://lichess.org/training/syxbz), rated `1497`.
+The game is `SergioMarquina2023 (2233)` vs `Mjmiche (2073)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/QLdFNkxW),
+and the first solution move is `c6d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
