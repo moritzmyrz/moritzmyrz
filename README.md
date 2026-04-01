@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1k2%2F2p1r1p1%2F8%2F4p1N1%2Fp4n1Q%2F3q3P%2FPPR2P2%2F1K4R1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r4%2F1b3pkp%2Fp3pNp1%2F4P3%2FP1P5%2F3R2Q1%2F2q2PPP%2F3R2K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZPS4C](https://lichess.org/training/ZPS4C), rated `1277`.
-The game is `Juliosorias (1983)` vs `Tal_Inspired (2113)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/OGCITkie),
-and the first solution move is `h4h8`.
+It is `Black to move` in puzzle [ocS6c](https://lichess.org/training/ocS6c), rated `1494`.
+The game is `ivanchess2 (1880)` vs `eRZGR06 (1868)` at `25+12` time control,
+with themes `mateIn2, middlegame, short, xRayAttack, kingsideAttack`. You can [view the full game](https://lichess.org/ZjAo6bik),
+and the first solution move is `c2d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
