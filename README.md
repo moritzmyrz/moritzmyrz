@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=N1k4r%2Fpp3ppp%2F2n2B2%2F4pb2%2F1bq5%2F4PK2%2FP4PPP%2FR2Q1BNR%20b%20-%20-%202%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R1bk1%2F5p1p%2F4p1p1%2F2q5%2F3Q1P2%2F7P%2FP5P1%2F6K1%20b%20-%20-%205%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JKAL7](https://lichess.org/training/JKAL7), rated `1493`.
-The game is `Jarulf (1867)` vs `AntonKaspersen (1889)` at `10+5` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/l8A7YNzh),
-and the first solution move is `c4g4`.
+It is `Black to move` in puzzle [bJtoh](https://lichess.org/training/bJtoh), rated `1463`.
+The game is `letabac (1767)` vs `Yory21 (1731)` at `10+0` time control,
+with themes `clearance, endgame, advantage, attraction, long, pin`. You can [view the full game](https://lichess.org/hVsTS9lx),
+and the first solution move is `c5d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
