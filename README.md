@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F8%2F5KP1%2F1R6%2F5P2%2F1p6%2F5r2%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2Fpp3p2%2F4pN2%2F3pP1Q1%2F6P1%2F6q1%2FP3b3%2F2R4K%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [oWzRX](https://lichess.org/training/oWzRX), rated `1582`.
-The game is `phuancovua (1818)` vs `smartbunty (1819)` at `10+0` time control,
-with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/MRknAqsd),
-and the first solution move is `g5g6`.
+It is `White to move` in puzzle [lj3mW](https://lichess.org/training/lj3mW), rated `1294`.
+The game is `aminiklaha (1772)` vs `nicolas_rinette (1811)` at `7+0` time control,
+with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/Q9CCTMw2),
+and the first solution move is `f6d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
