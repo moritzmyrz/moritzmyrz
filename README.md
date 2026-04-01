@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rq1rk1%2F1b1nbppp%2Fp2N4%2F1p6%2F4P3%2F7P%2FPPB2PP1%2FR1BQR1K1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2Rr1p2%2FkP6%2FP2p1pp1%2F3P4%2F5KP1%2F8%2F8%20b%20-%20-%203%2052&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [RocEa](https://lichess.org/training/RocEa), rated `1477`.
-The game is `Oburg007 (2390)` vs `Marwul (2318)` at `3+0` time control,
-with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/1kYwOqxm),
-and the first solution move is `e7d6`.
+It is `Black to move` in puzzle [m7LoS](https://lichess.org/training/m7LoS), rated `1532`.
+The game is `Voland2 (2284)` vs `Yellow94 (2263)` at `3+2` time control,
+with themes `crushing, veryLong, rookEndgame, endgame`. You can [view the full game](https://lichess.org/eRTDy26Y),
+and the first solution move is `d7c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
