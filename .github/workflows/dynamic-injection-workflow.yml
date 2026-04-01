@@ -1,7 +1,7 @@
 name: Dynamic README puzzle injection
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 jobs:
