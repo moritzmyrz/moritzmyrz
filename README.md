@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2Fpp3p2%2F4pN2%2F3pP1Q1%2F6P1%2F6q1%2FP3b3%2F2R4K%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2Fp7%2F2KBb1r1%2Fk3P3%2F1R6%2FP7%2F8%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lj3mW](https://lichess.org/training/lj3mW), rated `1294`.
-The game is `aminiklaha (1772)` vs `nicolas_rinette (1811)` at `7+0` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/Q9CCTMw2),
-and the first solution move is `f6d7`.
+It is `White to move` in puzzle [352sr](https://lichess.org/training/352sr), rated `1386`.
+The game is `grichikandrey (1925)` vs `aburamelukas (1965)` at `5+3` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/v0k6tFhQ),
+and the first solution move is `d5c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
