@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pp%2F3R4%2F1pK2p2%2Fp3kP1P%2F2P3P1%2F4P3%2F1r6%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N1k4r%2Fpp3ppp%2F2n2B2%2F4pb2%2F1bq5%2F4PK2%2FP4PPP%2FR2Q1BNR%20b%20-%20-%202%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ADJQG](https://lichess.org/training/ADJQG), rated `1442`.
-The game is `bserg0804 (2163)` vs `Ehmalotos (2168)` at `10+5` time control,
-with themes `endgame, rookEndgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/bqQnRnGe),
-and the first solution move is `d6e6`.
+It is `Black to move` in puzzle [JKAL7](https://lichess.org/training/JKAL7), rated `1493`.
+The game is `Jarulf (1867)` vs `AntonKaspersen (1889)` at `10+5` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/l8A7YNzh),
+and the first solution move is `c4g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
