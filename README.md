@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2F1p2bpp1%2Fp3pn1p%2F3pnP2%2F3P4%2F2P5%2FPPB3PP%2FRNBQ1RK1%20w%20-%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2k4%2Fppp4R%2F3p4%2F8%2F8%2F1P1br2P%2F1P1Nn1P1%2F4KR2%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RgIEd](https://lichess.org/training/RgIEd), rated `1357`.
-The game is `BabakReiko (1719)` vs `lahrech (1690)` at `5+0` time control,
-with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/cX4qFc32),
-and the first solution move is `d4e5`.
+It is `White to move` in puzzle [dT0RE](https://lichess.org/training/dT0RE), rated `1434`.
+The game is `lucasJean (1918)` vs `mehrann64 (1902)` at `10+5` time control,
+with themes `veryLong, middlegame, advantage, skewer, attraction`. You can [view the full game](https://lichess.org/wsVRqgIX),
+and the first solution move is `f1f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
