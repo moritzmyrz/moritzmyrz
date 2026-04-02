@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F3p4%2F3Pp3%2F4P3%2F1R2r1p1%2FpBK5%2FP7%2F8%20b%20-%20-%201%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fr3q3%2Fb5pQ%2F3pPpN1%2Fp2P4%2F7R%2FP4PPP%2F6K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [AYcJA](https://lichess.org/training/AYcJA), rated `1494`.
-The game is `chris_baaklini (1627)` vs `ChezChessChic (1677)` at `10+0` time control,
-with themes `endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/U6jKl4tj),
-and the first solution move is `e4b4`.
+It is `White to move` in puzzle [JQU64](https://lichess.org/training/JQU64), rated `1301`.
+The game is `Dundulic (2116)` vs `KashyapAlva (2176)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/Q4W6kjQu),
+and the first solution move is `h6h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
