@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pp1%2Fpr4kp%2F8%2F1P2R1K1%2F3PP3%2FP7%2F8%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F8%2F1n3p1p%2F1N2pP2%2FpB2P3%2FPb2K2P%2F8%2F8%20w%20-%20-%207%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ZbLhn](https://lichess.org/training/ZbLhn), rated `1408`.
-The game is `AlperCicekli (1870)` vs `seyed1356 (1819)` at `5+5` time control,
-with themes `endgame, short, crushing, rookEndgame, fork`. You can [view the full game](https://lichess.org/2KyfcMV8),
-and the first solution move is `f7f5`.
+It is `White to move` in puzzle [PkNtv](https://lichess.org/training/PkNtv), rated `1353`.
+The game is `UST_B (2391)` vs `SGenos (2359)` at `3+0` time control,
+with themes `endgame, master, short, crushing, pin`. You can [view the full game](https://lichess.org/8rstXigS),
+and the first solution move is `b4a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
