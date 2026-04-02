@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5p2%2F1R3QP1%2F1p4K1%2F4P1P1%2F8%2F4b3%2F6r1%20b%20-%20-%200%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=q3b1k1%2F2R2pb1%2F3p2p1%2F6Np%2F2Pn4%2F1P4PQ%2F5P1P%2F6K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DX6j4](https://lichess.org/training/DX6j4), rated `1390`.
-The game is `beginningless (2164)` vs `ConwyCastle (2257)` at `15+15` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/r74BU4mZ),
-and the first solution move is `g1g4`.
+It is `White to move` in puzzle [fY8oF](https://lichess.org/training/fY8oF), rated `1525`.
+The game is `JambuMonyet (2074)` vs `kubanoid61 (2192)` at `3+2` time control,
+with themes `long, crushing, pin, middlegame`. You can [view the full game](https://lichess.org/jjQ4Bw1y),
+and the first solution move is `c7c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
