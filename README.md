@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F4bppp%2Fp1pp4%2F1p1n4%2F4B3%2F6N1%2FPP3P1P%2F2R1R2K%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Rr3k1%2F5p1p%2Fp2pq1pB%2F4b3%2F7Q%2F2r5%2F5PPP%2F1R4K1%20w%20-%20-%2011%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [04DBd](https://lichess.org/training/04DBd), rated `1491`.
-The game is `jewdini (1914)` vs `Princess-Vanellope (1885)` at `30+0` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/whkcgfxA),
-and the first solution move is `e4d5`.
+It is `White to move` in puzzle [m1ZUB](https://lichess.org/training/m1ZUB), rated `1425`.
+The game is `DramaQueenSac (1665)` vs `Capsula (1728)` at `3+2` time control,
+with themes `middlegame, xRayAttack, long, mateIn3, pillsburysMate`. You can [view the full game](https://lichess.org/inkSIxiY),
+and the first solution move is `h4d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
