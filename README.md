@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F5pp1%2F5n1p%2Fp7%2FPpp2B2%2F1Bq3NP%2F2P2QK1%2F4R3%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F4bppp%2Fp1pp4%2F1p1n4%2F4B3%2F6N1%2FPP3P1P%2F2R1R2K%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TP7JO](https://lichess.org/training/TP7JO), rated `1546`.
-The game is `Chessyyyy (1864)` vs `Mahakaalbhole (1845)` at `10+0` time control,
-with themes `crushing, trappedPiece, short, middlegame`. You can [view the full game](https://lichess.org/jX0JZHD8),
-and the first solution move is `f4e5`.
+It is `White to move` in puzzle [04DBd](https://lichess.org/training/04DBd), rated `1491`.
+The game is `jewdini (1914)` vs `Princess-Vanellope (1885)` at `30+0` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/whkcgfxA),
+and the first solution move is `e4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
