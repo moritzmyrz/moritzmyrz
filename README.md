@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F1p5p%2Fp3p3%2F4P2Q%2F3q4%2F3p2P1%2F5R1P%2F5BK1%20b%20-%20-%203%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3kP3%2F1K1B4%2F5r2%2F2P3p1%2F8%2F5P2%2F8%20w%20-%20-%206%2075&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sPU9k](https://lichess.org/training/sPU9k), rated `1520`.
-The game is `posakev (2008)` vs `Anticipate (2010)` at `10+0` time control,
-with themes `short, pin, crushing, endgame`. You can [view the full game](https://lichess.org/1U8ztQ4n),
-and the first solution move is `e8f8`.
+It is `White to move` in puzzle [xcrNf](https://lichess.org/training/xcrNf), rated `1366`.
+The game is `gallsito (2240)` vs `C_CBD (2265)` at `10+0` time control,
+with themes `exposedKing, deflection, endgame, advancedPawn, crushing, quietMove, long, promotion`. You can [view the full game](https://lichess.org/iiePuCqS),
+and the first solution move is `c4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
