@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2F1n3p1p%2F3k2p1%2FBK1P1p2%2FP7%2F1P3PPP%2F8%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5ppp%2Fp1Q5%2FPp6%2F3BnP2%2F8%2F1P2q1PP%2F6RK%20b%20-%20-%207%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9NiK2](https://lichess.org/training/9NiK2), rated `1420`.
-The game is `Krishnamurti33 (2531)` vs `BrilliantPenguin (2526)` at `3+0` time control,
-with themes `short, crushing, master, endgame`. You can [view the full game](https://lichess.org/bW3vpUgS),
-and the first solution move is `b6a4`.
+It is `Black to move` in puzzle [TmhRs](https://lichess.org/training/TmhRs), rated `1614`.
+The game is `LonePenguin99 (2125)` vs `Alex_Zhelezo (2083)` at `3+2` time control,
+with themes `short, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/golSsa92),
+and the first solution move is `e4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
