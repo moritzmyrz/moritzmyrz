@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fr3q3%2Fb5pQ%2F3pPpN1%2Fp2P4%2F7R%2FP4PPP%2F6K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k2r2r1%2F6q1%2F7p%2F1Q2P3%2F3N4%2F3P2p1%2F5PPP%2F5RK1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [JQU64](https://lichess.org/training/JQU64), rated `1301`.
-The game is `Dundulic (2116)` vs `KashyapAlva (2176)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/Q4W6kjQu),
-and the first solution move is `h6h8`.
+It is `Black to move` in puzzle [pxQ4t](https://lichess.org/training/pxQ4t), rated `1373`.
+The game is `vishann (1711)` vs `letotechin (1706)` at `5+0` time control,
+with themes `advancedPawn, short, discoveredAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/dJq4OvGv),
+and the first solution move is `g3h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
