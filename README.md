@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=q3b1k1%2F2R2pb1%2F3p2p1%2F6Np%2F2Pn4%2F1P4PQ%2F5P1P%2F6K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4B3%2F8%2F8%2F1p3b2%2F2kb4%2F3N4%2F2K5%2F8%20w%20-%20-%208%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fY8oF](https://lichess.org/training/fY8oF), rated `1525`.
-The game is `JambuMonyet (2074)` vs `kubanoid61 (2192)` at `3+2` time control,
-with themes `long, crushing, pin, middlegame`. You can [view the full game](https://lichess.org/jjQ4Bw1y),
-and the first solution move is `c7c8`.
+It is `White to move` in puzzle [PemPz](https://lichess.org/training/PemPz), rated `1296`.
+The game is `AAR72 (2060)` vs `mati44 (2098)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/9yS4wtM6),
+and the first solution move is `e8f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
