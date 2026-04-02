@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F6bk%2F2NpP1p1%2F1p1P2Pp%2Fp3n2B%2FP3Pr2%2F1PP5%2F1K1R1R2%20b%20-%20-%203%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F5pp1%2F6k1%2F5qb1%2F6R1%2F4QPK1%2F8%20b%20-%20-%205%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [18fB0](https://lichess.org/training/18fB0), rated `1375`.
-The game is `TeHb_BoJlka (2142)` vs `HerculesRoquefeler (2002)` at `5+3` time control,
-with themes `middlegame, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/OjETEDTw),
-and the first solution move is `f3f1`.
+It is `Black to move` in puzzle [JUGSR](https://lichess.org/training/JUGSR), rated `1428`.
+The game is `Mash_Burndead (1819)` vs `Smartest-King (1865)` at `10+0` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/IZI1JL6U),
+and the first solution move is `f4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
