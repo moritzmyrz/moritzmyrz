@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=k2r2r1%2F6q1%2F7p%2F1Q2P3%2F3N4%2F3P2p1%2F5PPP%2F5RK1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F5pp1%2F5n1p%2Fp7%2FPpp2B2%2F1Bq3NP%2F2P2QK1%2F4R3%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pxQ4t](https://lichess.org/training/pxQ4t), rated `1373`.
-The game is `vishann (1711)` vs `letotechin (1706)` at `5+0` time control,
-with themes `advancedPawn, short, discoveredAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/dJq4OvGv),
-and the first solution move is `g3h2`.
+It is `White to move` in puzzle [TP7JO](https://lichess.org/training/TP7JO), rated `1546`.
+The game is `Chessyyyy (1864)` vs `Mahakaalbhole (1845)` at `10+0` time control,
+with themes `crushing, trappedPiece, short, middlegame`. You can [view the full game](https://lichess.org/jX0JZHD8),
+and the first solution move is `f4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
