@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2p2p2%2Fpp1k1Pp1%2F4p2P%2FP1P1K3%2F8%2F8%20w%20-%20-%200%2045&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k5r%2FppR5%2F8%2F1P4r1%2FP7%2F2P3B1%2F2b4P%2FR5K1%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Q82Bp](https://lichess.org/training/Q82Bp), rated `1311`.
-The game is `kpgiskpg (1821)` vs `mehrankarami (1862)` at `3+2` time control,
-with themes `endgame, advancedPawn, advantage, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/ofY4DNtB),
-and the first solution move is `h4h5`.
+It is `Black to move` in puzzle [dCs8j](https://lichess.org/training/dCs8j), rated `1391`.
+The game is `vincevincevvv (1706)` vs `leftchess (1707)` at `15+15` time control,
+with themes `endgame, short, advantage`. You can [view the full game](https://lichess.org/y1a9Xynq),
+and the first solution move is `g5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
