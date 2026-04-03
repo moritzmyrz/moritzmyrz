@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kBr3%2Fppp2pp1%2F2p3q1%2F2b4p%2F3PP1bP%2F2PQ2P1%2FPP3P2%2FRN2K2R%20b%20KQ%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7R%2Fp1p1r3%2F8%2F4ppkP%2F1P6%2F3R3r%2F4BK2%20b%20-%20-%201%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7c9go](https://lichess.org/training/7c9go), rated `1274`.
-The game is `KamilKurowicki (2178)` vs `TeutoniaWaltrop (2225)` at `10+5` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/BAzDKL6H),
-and the first solution move is `e8e4`.
+It is `Black to move` in puzzle [TeX6g](https://lichess.org/training/TeX6g), rated `1406`.
+The game is `AdamSabina (1653)` vs `Muhammed482 (1667)` at `15+15` time control,
+with themes `deflection, endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/PcmThhB1),
+and the first solution move is `h2h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
