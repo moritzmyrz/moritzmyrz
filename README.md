@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5r1%2F1b1kB2p%2Fp3Bp2%2F2p1p2Q%2F1n1p4%2F3P1q2%2F1PP2PPP%2FR2N1RK1%20b%20-%20-%203%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn4kr%2F1b1qbNpp%2Fp2p4%2F2pn4%2F2p5%2F4PQ2%2FPPPP2PP%2FR1B2RK1%20w%20-%20-%204%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hCxwT](https://lichess.org/training/hCxwT), rated `1342`.
-The game is `es44 (1781)` vs `siyahbeyaz60 (1666)` at `10+0` time control,
-with themes `middlegame, short, crushing, pin, hangingPiece`. You can [view the full game](https://lichess.org/0d3DvZXp),
-and the first solution move is `d7e6`.
+It is `White to move` in puzzle [yFn5O](https://lichess.org/training/yFn5O), rated `1374`.
+The game is `Nerones (1657)` vs `naprof (1910)` at `5+5` time control,
+with themes `clearance, mateIn2, short, sacrifice, opening, kingsideAttack`. You can [view the full game](https://lichess.org/Dd62Kzre),
+and the first solution move is `f7h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
