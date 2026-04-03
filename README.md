@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4ppp%2F4pn2%2F4N3%2F1q1P4%2F3Q3P%2FPrr2PP1%2F1R2R1K1%20w%20-%20-%203%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F4p3%2Fpk4p1%2F8%2F1K4PP%2F8%2F8%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PRGft](https://lichess.org/training/PRGft), rated `1361`.
-The game is `Savindi_G (1794)` vs `carlorios (1819)` at `15+10` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/a6VYVtsB),
-and the first solution move is `d3c2`.
+It is `White to move` in puzzle [9d7fB](https://lichess.org/training/9d7fB), rated `1360`.
+The game is `kngpn (1986)` vs `montazerin898 (2089)` at `10+0` time control,
+with themes `endgame, crushing, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/iWOOuyVV),
+and the first solution move is `h3h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
