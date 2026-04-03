@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5p2%2F5Pk1%2F4P2p%2F4K1pN%2F8%2F8%20b%20-%20-%201%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fpb2k2p%2F2p1pqr1%2F1p6%2F1b5Q%2F6P1%2FPp3P1P%2F1K1R1B1R%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BOiyF](https://lichess.org/training/BOiyF), rated `1485`.
-The game is `Jcalc05 (1557)` vs `Delelavichk (1784)` at `3+0` time control,
-with themes `endgame, advancedPawn, crushing, long, knightEndgame, defensiveMove`. You can [view the full game](https://lichess.org/qAiNthDF),
-and the first solution move is `g5g4`.
+It is `White to move` in puzzle [eK77U](https://lichess.org/training/eK77U), rated `1587`.
+The game is `Ahmedbaz (2060)` vs `vpka (2078)` at `10+5` time control,
+with themes `middlegame, short, crushing, hangingPiece`. You can [view the full game](https://lichess.org/PnKJrl4q),
+and the first solution move is `h4b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
