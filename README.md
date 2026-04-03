@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2b1r%2F1ppp1Qpp%2Fp1nk1q2%2F4p3%2F8%2F2NP4%2FPPP2PPP%2FR1B1K2R%20w%20KQ%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bk2nr%2FppppbQ2%2F6p1%2F4q1B1%2F3pP3%2F8%2FPPP3PP%2FRN3RK1%20w%20-%20-%201%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DSXun](https://lichess.org/training/DSXun), rated `1507`.
-The game is `danyfawaz (1737)` vs `Ghanemalanzi (1749)` at `3+2` time control,
-with themes `mateIn1, oneMove, opening`. You can [view the full game](https://lichess.org/oOm9W5NF),
-and the first solution move is `c3e4`.
+It is `White to move` in puzzle [rRV5R](https://lichess.org/training/rRV5R), rated `1367`.
+The game is `zhd77 (1648)` vs `El_Baran (1723)` at `3+0` time control,
+with themes `oneMove, opening, mateIn1, pin`. You can [view the full game](https://lichess.org/2TRJSG1V),
+and the first solution move is `f7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
