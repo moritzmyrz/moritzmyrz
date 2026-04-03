@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn4kr%2F1b1qbNpp%2Fp2p4%2F2pn4%2F2p5%2F4PQ2%2FPPPP2PP%2FR1B2RK1%20w%20-%20-%204%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kBr3%2Fppp2pp1%2F2p3q1%2F2b4p%2F3PP1bP%2F2PQ2P1%2FPP3P2%2FRN2K2R%20b%20KQ%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [yFn5O](https://lichess.org/training/yFn5O), rated `1374`.
-The game is `Nerones (1657)` vs `naprof (1910)` at `5+5` time control,
-with themes `clearance, mateIn2, short, sacrifice, opening, kingsideAttack`. You can [view the full game](https://lichess.org/Dd62Kzre),
-and the first solution move is `f7h6`.
+It is `Black to move` in puzzle [7c9go](https://lichess.org/training/7c9go), rated `1274`.
+The game is `KamilKurowicki (2178)` vs `TeutoniaWaltrop (2225)` at `10+5` time control,
+with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/BAzDKL6H),
+and the first solution move is `e8e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
