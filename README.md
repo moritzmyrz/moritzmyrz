@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2Fpppqn2p%2F5p2%2F1P1p2p1%2FP2Pb3%2FB1P1RNPB%2F3Q1P2%2FR5K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fppp1p1p1%2F4q3%2F8%2F3nn1pP%2F3B4%2FPPPBQ1P1%2FRN2K2R%20w%20KQ%20-%202%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vUSe9](https://lichess.org/training/vUSe9), rated `1577`.
-The game is `onthewaygm (2511)` vs `ikica77 (2649)` at `3+0` time control,
-with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/ELLqALaz),
-and the first solution move is `d7h3`.
+It is `White to move` in puzzle [OiHhn](https://lichess.org/training/OiHhn), rated `1286`.
+The game is `one0one (1607)` vs `samandere81 (1662)` at `10+0` time control,
+with themes `opening, advantage, short`. You can [view the full game](https://lichess.org/6WGPgAvU),
+and the first solution move is `e2e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
