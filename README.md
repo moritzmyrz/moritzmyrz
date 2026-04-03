@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p2r3%2F1P1R4%2F5P2%2F4k1p1%2F5p2%2F5P2%2F6K1%20w%20-%20-%201%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pp1%2F4k3%2F4P2p%2F3K1P1P%2F8%2F8%2F8%20b%20-%20-%200%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AQCMi](https://lichess.org/training/AQCMi), rated `1259`.
-The game is `CAR-GO64 (2046)` vs `chuyka (2032)` at `3+2` time control,
-with themes `endgame, advancedPawn, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/oOzbqq6P),
-and the first solution move is `d6e6`.
+It is `Black to move` in puzzle [LVA5Q](https://lichess.org/training/LVA5Q), rated `1579`.
+The game is `Madmaster (1882)` vs `amj-91 (1867)` at `8+0` time control,
+with themes `endgame, crushing, short, pawnEndgame`. You can [view the full game](https://lichess.org/iKi7vEQ3),
+and the first solution move is `e6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
