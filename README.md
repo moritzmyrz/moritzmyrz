@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rq1rk1%2Fp3ppbp%2F1p4p1%2Fn3P3%2FQ2p2b1%2F2P1BN2%2FP3BPPP%2F1R1R2K1%20w%20-%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F3q1pp1%2F1p5p%2Fp2N4%2F2Q5%2FP6P%2F1P3PP1%2F6K1%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TDOqL](https://lichess.org/training/TDOqL), rated `1531`.
-The game is `ikthus15 (2340)` vs `Arvinder_Amateur (2367)` at `3+2` time control,
-with themes `short, crushing, fork, master, middlegame`. You can [view the full game](https://lichess.org/SIxH37oT),
-and the first solution move is `d1d4`.
+It is `White to move` in puzzle [EjUwm](https://lichess.org/training/EjUwm), rated `1578`.
+The game is `jaderalves (1653)` vs `MagnusLudio (1613)` at `10+0` time control,
+with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/aXq7OWn5),
+and the first solution move is `c4c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
