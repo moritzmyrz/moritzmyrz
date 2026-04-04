@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2Fpp1b1pp1%2F1q2pN1p%2F4P2Q%2F1P1p1n2%2FP2B3R%2F5PPP%2F2R3K1%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F8%2F5KP1%2F5P2%2F4R3%2F1p6%2F5r2%20w%20-%20-%202%2045&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zZ3aY](https://lichess.org/training/zZ3aY), rated `1324`.
-The game is `jameel_alsodany (1952)` vs `mjsheykhaboli1993 (1840)` at `3+3` time control,
-with themes `hookMate, middlegame, operaMate, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/yGYMiQlF),
-and the first solution move is `h5h6`.
+It is `White to move` in puzzle [aw309](https://lichess.org/training/aw309), rated `1513`.
+The game is `MilePile (1721)` vs `charliemayne (1659)` at `15+1` time control,
+with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/Yq3zNq4t),
+and the first solution move is `g5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
