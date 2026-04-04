@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2FQpr2ppp%2F2p2q2%2F6R1%2F4P3%2FP1p1B2P%2F2R1P3%2F4KB2%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fppp2pk1%2F2b4R%2F2p2Pp1%2F2P1P1P1%2F2P5%2FP5B1%2F2K4R%20w%20-%20-%204%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [l4xOz](https://lichess.org/training/l4xOz), rated `1537`.
-The game is `lupulus (1761)` vs `StonedCarlsen (1747)` at `15+0` time control,
-with themes `deflection, mateIn2, middlegame, short, attraction, sacrifice`. You can [view the full game](https://lichess.org/tH4X9ons),
-and the first solution move is `d8d1`.
+It is `White to move` in puzzle [CevK8](https://lichess.org/training/CevK8), rated `1342`.
+The game is `Saral11 (1659)` vs `Stepan_Hrychak (1682)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/XCaMWv1u),
+and the first solution move is `f5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
