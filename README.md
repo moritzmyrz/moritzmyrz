@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2FpQ2n2p%2F4pp2%2F2p3p1%2Fb1P1n3%2FP1R1PNB1%2F5PPP%2F4KB1R%20b%20K%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6pp%2Fp5r1%2F1pq5%2F8%2F3P1P2%2FP1PQR1PP%2F1R3K2%20b%20-%20-%205%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pMSmK](https://lichess.org/training/pMSmK), rated `1400`.
-The game is `slimb (2048)` vs `Hguran (2115)` at `60+30` time control,
-with themes `mateIn2, middlegame, short, intermezzo, cornerMate`. You can [view the full game](https://lichess.org/Ekq9DjTu),
-and the first solution move is `d8d1`.
+It is `Black to move` in puzzle [b4GVN](https://lichess.org/training/b4GVN), rated `1548`.
+The game is `maumauchess11 (1671)` vs `param092 (1694)` at `3+0` time control,
+with themes `veryLong, endgame, crushing, fork, pin`. You can [view the full game](https://lichess.org/0k2Su3pP),
+and the first solution move is `f8f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
