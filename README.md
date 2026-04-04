@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F8%2FpPR2K2%2F6p1%2F1Pp3P1%2F8%2F1P5r%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p2ppk1%2F2p3p1%2F4N1Qp%2F4qP1P%2F6r1%2F6R1%2Fr5RK%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ePeDZ](https://lichess.org/training/ePeDZ), rated `1310`.
-The game is `abbasmufaddal (1665)` vs `wintermute1010110 (1793)` at `15+5` time control,
-with themes `endgame, short, crushing, rookEndgame, skewer`. You can [view the full game](https://lichess.org/j5PlF0pA),
-and the first solution move is `h2h6`.
+It is `White to move` in puzzle [DTj4S](https://lichess.org/training/DTj4S), rated `1360`.
+The game is `MightKnowTheory (2175)` vs `gulnar_balakanova (2093)` at `3+0` time control,
+with themes `short, advantage, hangingPiece, master, middlegame`. You can [view the full game](https://lichess.org/IPA4mdDg),
+and the first solution move is `g5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
