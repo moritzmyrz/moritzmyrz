@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F1b4p1%2Fp7%2F2q5%2F2p2P2%2FP2n2QP%2FBP4P1%2F3R1R1K%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2FpQ2n2p%2F4pp2%2F2p3p1%2Fb1P1n3%2FP1R1PNB1%2F5PPP%2F4KB1R%20b%20K%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NjzKk](https://lichess.org/training/NjzKk), rated `1338`.
-The game is `Yvanko (1801)` vs `RaptorRobb6ix (1935)` at `5+9` time control,
-with themes `pin, short, advantage, middlegame`. You can [view the full game](https://lichess.org/ltfDKXsk),
-and the first solution move is `d1d3`.
+It is `Black to move` in puzzle [pMSmK](https://lichess.org/training/pMSmK), rated `1400`.
+The game is `slimb (2048)` vs `Hguran (2115)` at `60+30` time control,
+with themes `mateIn2, middlegame, short, intermezzo, cornerMate`. You can [view the full game](https://lichess.org/Ekq9DjTu),
+and the first solution move is `d8d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
