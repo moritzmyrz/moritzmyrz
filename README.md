@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fpp5p%2F6p1%2FR7%2F3p4%2F4n2P%2FPPP3P1%2F2R3K1%20b%20-%20-%205%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F2p2pp1%2Fp6p%2F1p1PP3%2F2p1NPbq%2FP2n1N2%2F1P2Q2P%2FR2K1R2%20w%20-%20-%205%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4dhdq](https://lichess.org/training/4dhdq), rated `1566`.
-The game is `matojo (1851)` vs `Postergaister (2026)` at `10+5` time control,
-with themes `endgame, advantage, short`. You can [view the full game](https://lichess.org/w7oRrE9A),
-and the first solution move is `d4d3`.
+It is `White to move` in puzzle [18KGw](https://lichess.org/training/18KGw), rated `1477`.
+The game is `taulajoe (2239)` vs `Jonas_1990 (2123)` at `3+2` time control,
+with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/s68iX6gX),
+and the first solution move is `f3h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
