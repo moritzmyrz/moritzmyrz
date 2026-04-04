@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4q3%2F1p1bk2p%2Fp6Q%2F3pP3%2F3P4%2FP5P1%2F1P5P%2F5K2%20w%20-%20-%208%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp2kp2%2F3p4%2F5Q1b%2F8%2Fn3PPRP%2FPq6%2F4KR2%20b%20-%20-%2017%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Yy1bR](https://lichess.org/training/Yy1bR), rated `1410`.
-The game is `Merpicjusz (1912)` vs `deSaxe (1896)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/6iBpmr1U),
-and the first solution move is `h6f6`.
+It is `Black to move` in puzzle [WX66t](https://lichess.org/training/WX66t), rated `1312`.
+The game is `Pensativophb (1798)` vs `Valdenicio2022 (2068)` at `3+0` time control,
+with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/SUolpRmC),
+and the first solution move is `a3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
