@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkp%2Fp5p1%2F1pQN4%2F8%2FP2q4%2F1P5P%2F7K%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rr1k%2Fppp3pp%2F3p1n2%2F4Pp2%2F3B1q2%2F2P2P2%2FP2RQ2P%2F5R1K%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [m8zHj](https://lichess.org/training/m8zHj), rated `1609`.
-The game is `Z3B4ZT14N (1737)` vs `juicy-renshi (1828)` at `2+1` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/UM64Aihu),
-and the first solution move is `d3f1`.
+It is `White to move` in puzzle [1hyvI](https://lichess.org/training/1hyvI), rated `1500`.
+The game is `KairekeM (1769)` vs `Polskikh_Danil (1850)` at `10+0` time control,
+with themes `advancedPawn, middlegame, short, advantage, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/oZFdNPmS),
+and the first solution move is `e5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
