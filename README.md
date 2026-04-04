@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6pp%2F6p1%2F3pqR2%2F1p6%2F1P1Qb3%2FP1PN3P%2F2KR4%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1rbk1%2Fppq2pp1%2F2p4p%2F8%2F4NP1B%2FP2Q4%2F1P4PP%2F4RRK1%20w%20-%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [aOe9u](https://lichess.org/training/aOe9u), rated `1552`.
-The game is `Bogdanov-68 (1980)` vs `RadiantWolfcub (1879)` at `10+0` time control,
-with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/vlHIsv9O),
-and the first solution move is `e5a1`.
+It is `White to move` in puzzle [cWcIf](https://lichess.org/training/cWcIf), rated `1343`.
+The game is `anthonycuares (2002)` vs `OmarMohammed1 (2043)` at `10+5` time control,
+with themes `middlegame, short, crushing, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/V3krhhi7),
+and the first solution move is `e4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
