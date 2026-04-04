@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2b2k2%2F1rp2qpp%2F2Qp4%2F5pPP%2F5B2%2FP4PK1%2F4R3%20w%20-%20-%205%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F2k1p1p1%2F1pp1P1Pp%2FP6P%2F1KPN4%2F8%2F8%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [h96dJ](https://lichess.org/training/h96dJ), rated `1433`.
-The game is `charyG (2352)` vs `zuluagazo (2418)` at `10+0` time control,
-with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/zjdSjWAA),
-and the first solution move is `f3d5`.
+It is `Black to move` in puzzle [4QS8r](https://lichess.org/training/4QS8r), rated `1407`.
+The game is `Areswillwin (1863)` vs `xristososfp7 (1736)` at `10+0` time control,
+with themes `veryLong, endgame, crushing, fork, knightEndgame`. You can [view the full game](https://lichess.org/0l8yyk1c),
+and the first solution move is `c5c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
