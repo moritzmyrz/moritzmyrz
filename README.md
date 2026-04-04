@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2FpR4bp%2F2bq1np1%2F2pN1p2%2F2P1p3%2FB5P1%2FP1N1PPBP%2F3Q1RK1%20w%20-%20-%204%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5B1%2Fpppkn3%2F3p3Q%2F8%2F4P2q%2F5P2%2FPP3P2%2FRNB2RK1%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Rbcj6](https://lichess.org/training/Rbcj6), rated `1306`.
-The game is `Mariya_Yanchurkina (2013)` vs `Blackknight021049 (2016)` at `15+0` time control,
-with themes `middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/bRNymI4Q),
-and the first solution move is `d5e7`.
+It is `Black to move` in puzzle [c1Dib](https://lichess.org/training/c1Dib), rated `1316`.
+The game is `stillwaterOSU (1987)` vs `nikbd (1921)` at `10+0` time control,
+with themes `middlegame, crushing, long, kingsideAttack, hangingPiece`. You can [view the full game](https://lichess.org/4HHhdu4W),
+and the first solution move is `a8g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
