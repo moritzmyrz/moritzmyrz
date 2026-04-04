@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R3R2%2F1p2p1k1%2F6P1%2F1q5P%2F5P1K%2F8%2F2q5%20w%20-%20-%200%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3QR3%2Fpp3k1p%2F6p1%2F6R1%2F2P5%2F1P4P1%2Fr2r4%2F6K1%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [QfmKL](https://lichess.org/training/QfmKL), rated `1558`.
-The game is `iliancherakchiev1 (2175)` vs `TheHeinBloed (2178)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/6IrLyy0H),
-and the first solution move is `f7f6`.
+It is `Black to move` in puzzle [P2Q73](https://lichess.org/training/P2Q73), rated `1309`.
+The game is `Samer09 (2291)` vs `PondSnail (2354)` at `3+0` time control,
+with themes `short, queenRookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/t0dcwyU8),
+and the first solution move is `a2a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
