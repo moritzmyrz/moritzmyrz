@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FP1n3pp%2F3N4%2F8%2F2pk4%2F3p4%2F5PPP%2F4K3%20w%20-%20-%204%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2b1r1k1%2Fpp4p1%2F5q2%2F3p1p2%2F3Pn2R%2F1P5Q%2FP5PP%2F5RK1%20w%20-%20-%202%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Ck6yo](https://lichess.org/training/Ck6yo), rated `1386`.
-The game is `Apricot44N (2143)` vs `EMRE-EMRE-EMRE (1927)` at `15+10` time control,
-with themes `deflection, endgame, advancedPawn, short, crushing, promotion, knightEndgame`. You can [view the full game](https://lichess.org/ucB1GJHB),
-and the first solution move is `d6b5`.
+It is `White to move` in puzzle [JPkJp](https://lichess.org/training/JPkJp), rated `1378`.
+The game is `levidevide (1999)` vs `MeanMachineWR (2070)` at `10+0` time control,
+with themes `middlegame, advantage, deflection, veryLong`. You can [view the full game](https://lichess.org/cBtdjTPT),
+and the first solution move is `h4h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
