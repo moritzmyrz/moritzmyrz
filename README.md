@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fp1pp1ppp%2Fbnp5%2F4P3%2F1bPqQ3%2F2N3P1%2FPP1B1P1P%2FR3KB1R%20b%20KQkq%20-%204%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2k2B%2Fppp2p1p%2F8%2F5bq1%2F4pn2%2F3PQ3%2FPPP3PP%2FR3KBNR%20b%20KQq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [U7HBF](https://lichess.org/training/U7HBF), rated `1538`.
-The game is `Janou (2405)` vs `yobrother (2332)` at `3+0` time control,
-with themes `crushing, short, middlegame, master`. You can [view the full game](https://lichess.org/wCeF7Orf),
-and the first solution move is `b4c3`.
+It is `Black to move` in puzzle [kzzYS](https://lichess.org/training/kzzYS), rated `1492`.
+The game is `Marco753 (2119)` vs `luprinci (1860)` at `8+0` time control,
+with themes `middlegame, short, crushing, fork, discoveredAttack`. You can [view the full game](https://lichess.org/MvFQTVR1),
+and the first solution move is `f4g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
