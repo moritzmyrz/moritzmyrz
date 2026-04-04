@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp1b2p1%2F2p2n1p%2F3p4%2F8%2F2R2PQ1%2FPP2pqPP%2F1B2R2K%20b%20-%20-%203%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp1p1q1p1%2F1p4p1%2F4pp2%2F4Q3%2F1PP3P1%2FP3KPP1%2F7R%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [mmkW5](https://lichess.org/training/mmkW5), rated `1346`.
-The game is `geobadger (1761)` vs `Ruyblas85 (1766)` at `3+2` time control,
-with themes `mateIn2, advancedPawn, middlegame, short, promotion, kingsideAttack`. You can [view the full game](https://lichess.org/rL9NysKX),
-and the first solution move is `f2f1`.
+It is `White to move` in puzzle [jm1zn](https://lichess.org/training/jm1zn), rated `1387`.
+The game is `PerozoChess27 (1852)` vs `brandonelly (1836)` at `3+0` time control,
+with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/aiTkg5bj),
+and the first solution move is `e4c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
