@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppp2pp1%2F3b4%2F4p1Pp%2F3pP2q%2F3PN3%2FPPQ1KP2%2F2R2B2%20w%20-%20-%203%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p2n1qn%2Fp2R4%2F2p1N1pp%2F2P1P3%2FP1P1B1Q1%2F6PP%2F6K1%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6h0a7](https://lichess.org/training/6h0a7), rated `1472`.
-The game is `unforgive (1554)` vs `salimpalakkal (1574)` at `10+0` time control,
-with themes `defensiveMove, advantage, long, middlegame`. You can [view the full game](https://lichess.org/j5O1oQTp),
-and the first solution move is `e3f5`.
+It is `Black to move` in puzzle [Sbxj8](https://lichess.org/training/Sbxj8), rated `1373`.
+The game is `slon319182 (2345)` vs `D183268 (2364)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/TGXOMPqW),
+and the first solution move is `h5h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
