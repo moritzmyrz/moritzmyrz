@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p2n1qn%2Fp2R4%2F2p1N1pp%2F2P1P3%2FP1P1B1Q1%2F6PP%2F6K1%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2b2k2%2F1rp2qpp%2F2Qp4%2F5pPP%2F5B2%2FP4PK1%2F4R3%20w%20-%20-%205%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Sbxj8](https://lichess.org/training/Sbxj8), rated `1373`.
-The game is `slon319182 (2345)` vs `D183268 (2364)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/TGXOMPqW),
-and the first solution move is `h5h4`.
+It is `White to move` in puzzle [h96dJ](https://lichess.org/training/h96dJ), rated `1433`.
+The game is `charyG (2352)` vs `zuluagazo (2418)` at `10+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/zjdSjWAA),
+and the first solution move is `f3d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
