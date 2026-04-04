@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp2kp2%2F3p4%2F5Q1b%2F8%2Fn3PPRP%2FPq6%2F4KR2%20b%20-%20-%2017%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp3k1pp%2F5p2%2F8%2F3pr3%2F5PPP%2FPP3K2%2F8%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [WX66t](https://lichess.org/training/WX66t), rated `1312`.
-The game is `Pensativophb (1798)` vs `Valdenicio2022 (2068)` at `3+0` time control,
-with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/SUolpRmC),
-and the first solution move is `a3c2`.
+It is `White to move` in puzzle [zVvFy](https://lichess.org/training/zVvFy), rated `1508`.
+The game is `saphalya (2023)` vs `Richter_Rat (2016)` at `10+0` time control,
+with themes `endgame, short, advantage, hangingPiece, defensiveMove`. You can [view the full game](https://lichess.org/BjU1KNmR),
+and the first solution move is `f3e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
