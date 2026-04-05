@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pp%2F8%2Fpp3P1P%2F8%2F1k4K1%2F8%2F8%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fp4p1p%2Fbp1b1p2%2F2pN4%2F3P4%2F3p1N1P%2FPP1Q1PP1%2F4RK1R%20w%20-%20-%204%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jZy8H](https://lichess.org/training/jZy8H), rated `1276`.
-The game is `tortorichie (1877)` vs `yura-bura (1896)` at `3+2` time control,
-with themes `endgame, advancedPawn, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/FBQHnbXD),
-and the first solution move is `h5h6`.
+It is `White to move` in puzzle [VgAww](https://lichess.org/training/VgAww), rated `1533`.
+The game is `JaeTea (1847)` vs `mhmdkrimly (1884)` at `10+5` time control,
+with themes `middlegame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/oKG7oY4R),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
