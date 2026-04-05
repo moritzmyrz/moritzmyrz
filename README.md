@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2Fp1k5%2Fqn2p3%2F1R1pp3%2F7P%2F2P3P1%2F2PK2P1%2F1R3Q2%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fkp6%2Fp5p1%2F2pBQ3%2F2P5%2FP2q4%2FK2n4%2F7R%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [h2aK4](https://lichess.org/training/h2aK4), rated `1613`.
-The game is `gabcsiko (1993)` vs `OneDarkNight (1928)` at `5+3` time control,
-with themes `exposedKing, deflection, middlegame, advantage, long`. You can [view the full game](https://lichess.org/076wqeKR),
-and the first solution move is `b5c5`.
+It is `Black to move` in puzzle [H8qnY](https://lichess.org/training/H8qnY), rated `1297`.
+The game is `forbiddencheapos (2484)` vs `BapaNezka (2547)` at `10+0` time control,
+with themes `deflection, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/oBSfUPB1),
+and the first solution move is `d3b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
