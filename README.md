@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2FpppnNR2%2F4B2p%2F6pk%2F8%2F6nP%2FPPPK4%2F8%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fpbppr1R1%2F1p6%2F3P1q2%2F7Q%2F2N5%2FPPP2r2%2F1K1R3B%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [X6XQI](https://lichess.org/training/X6XQI), rated `1364`.
-The game is `AndersAM (2282)` vs `yarbalash (1645)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/yc1U6grV),
-and the first solution move is `e6g4`.
+It is `Black to move` in puzzle [IpqeP](https://lichess.org/training/IpqeP), rated `1322`.
+The game is `mavroudis (1845)` vs `MAGAMEDOV (1870)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/rgpi1Iwx),
+and the first solution move is `f5c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
