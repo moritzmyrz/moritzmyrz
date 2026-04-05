@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R7%2F1r2qp1k%2F3p2pp%2F2pP4%2F2Pn2Q1%2F3r4%2F1P3PP1%2F1R3NK1%20w%20-%20-%208%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1r2%2Fp1k5%2Fqn2p3%2F1R1pp3%2F7P%2F2P3P1%2F2PK2P1%2F1R3Q2%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2KvJ7](https://lichess.org/training/2KvJ7), rated `1471`.
-The game is `depreSsS1ve_k1d (2575)` vs `Sankalp1760 (2377)` at `3+0` time control,
-with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/6vHIF0jX),
-and the first solution move is `g4c8`.
+It is `White to move` in puzzle [h2aK4](https://lichess.org/training/h2aK4), rated `1613`.
+The game is `gabcsiko (1993)` vs `OneDarkNight (1928)` at `5+3` time control,
+with themes `exposedKing, deflection, middlegame, advantage, long`. You can [view the full game](https://lichess.org/076wqeKR),
+and the first solution move is `b5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
