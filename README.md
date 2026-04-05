@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2F1p4pp%2Fp2p1r2%2F3P1p2%2F2P2p1q%2F3BbP2%2FPPQ3PP%2F3NRR1K%20b%20-%20-%209%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp2b2b1%2F1ppp2Qp%2F3Pp1q1%2F2P3P1%2F4RR1P%2FPP3P2%2F2K5%20w%20-%20-%205%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [iklM3](https://lichess.org/training/iklM3), rated `1317`.
-The game is `tibu69 (2372)` vs `TerminatorIV (2396)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack, pillsburysMate`. You can [view the full game](https://lichess.org/2dxRjke3),
-and the first solution move is `h4h2`.
+It is `White to move` in puzzle [kCMys](https://lichess.org/training/kCMys), rated `1589`.
+The game is `alexpie67 (1840)` vs `SteLaz1 (1838)` at `10+5` time control,
+with themes `middlegame, short, advantage, attraction, kingsideAttack, pin`. You can [view the full game](https://lichess.org/4LpT0q43),
+and the first solution move is `f3f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
