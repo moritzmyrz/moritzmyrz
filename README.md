@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fp1p2ppp%2F3b4%2F5Q1b%2F2P1P2q%2F4B2P%2FPP3PP1%2FR4R1K%20w%20-%20-%203%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp2n1ppp%2F2p1p3%2Fq1bpP3%2F1P3P2%2FP1N5%2F2P1B1PP%2FR1BQK2R%20b%20KQ%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [x4Jg5](https://lichess.org/training/x4Jg5), rated `1530`.
-The game is `stakanevich (2099)` vs `hours365 (2075)` at `3+2` time control,
-with themes `fork, advantage, long, middlegame`. You can [view the full game](https://lichess.org/HgXxK4US),
-and the first solution move is `e3g5`.
+It is `Black to move` in puzzle [Jb4jR](https://lichess.org/training/Jb4jR), rated `1382`.
+The game is `Arsennn9 (1973)` vs `Chaturangarb (2563)` at `10+0` time control,
+with themes `crushing, pin, short, middlegame`. You can [view the full game](https://lichess.org/I5YXeW8V),
+and the first solution move is `c5b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
