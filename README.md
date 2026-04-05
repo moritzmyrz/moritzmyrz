@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp2n1ppp%2F2p1p3%2Fq1bpP3%2F1P3P2%2FP1N5%2F2P1B1PP%2FR1BQK2R%20b%20KQ%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp3pbp%2F2p3p1%2F4p3%2F1q2N3%2F1P1bP1PP%2F1Q2NPB1%2F3R1RK1%20b%20-%20-%203%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Jb4jR](https://lichess.org/training/Jb4jR), rated `1382`.
-The game is `Arsennn9 (1973)` vs `Chaturangarb (2563)` at `10+0` time control,
-with themes `crushing, pin, short, middlegame`. You can [view the full game](https://lichess.org/I5YXeW8V),
-and the first solution move is `c5b4`.
+It is `Black to move` in puzzle [KjSOK](https://lichess.org/training/KjSOK), rated `1382`.
+The game is `vs385 (2038)` vs `smolet (1991)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/xSU2bpOQ),
+and the first solution move is `d3e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
