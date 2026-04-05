@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1b1r%2Fpbpnk1p1%2F1p1p1nBp%2F3P3P%2F2PN4%2F4p3%2FPP3PP1%2FRN1QK2R%20w%20KQ%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2Q5%2Fk1p3K1%2FP4P2%2F3p4%2F8%2F3q4%20w%20-%20-%202%2084&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [eSRdJ](https://lichess.org/training/eSRdJ), rated `1460`.
-The game is `TudA (2102)` vs `vijay_nagai (2037)` at `3+2` time control,
-with themes `mateIn1, oneMove, opening`. You can [view the full game](https://lichess.org/DwKdYzwS),
-and the first solution move is `d4f5`.
+It is `White to move` in puzzle [IUE33](https://lichess.org/training/IUE33), rated `1272`.
+The game is `ruepel85 (1866)` vs `Appleguy306 (2043)` at `7+2` time control,
+with themes `oneMove, mateIn1, endgame, queenEndgame`. You can [view the full game](https://lichess.org/iM5bX7i1),
+and the first solution move is `c6b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
