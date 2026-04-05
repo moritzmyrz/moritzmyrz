@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fpbppr1R1%2F1p6%2F3P1q2%2F7Q%2F2N5%2FPPP2r2%2F1K1R3B%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4n1p1%2F2p2q1p%2F3p4%2F4p1B1%2F6PP%2F1Q5K%2F2B4R%20b%20-%20-%202%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IpqeP](https://lichess.org/training/IpqeP), rated `1322`.
-The game is `mavroudis (1845)` vs `MAGAMEDOV (1870)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/rgpi1Iwx),
-and the first solution move is `f5c2`.
+It is `Black to move` in puzzle [9q333](https://lichess.org/training/9q333), rated `1498`.
+The game is `ramis-67 (1699)` vs `natascha00 (1701)` at `10+0` time control,
+with themes `clearance, middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/EeE80rfn),
+and the first solution move is `f6b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
