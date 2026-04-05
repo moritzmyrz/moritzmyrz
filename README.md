@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5r1%2F7k%2Fp3p3%2F1pp1n1QN%2F3qP3%2FP2P4%2F2P3PP%2F4R2K%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4kpp1%2F1Nb4p%2F3pP3%2F3P4%2F3K2P1%2F5P1P%2F8%20b%20-%20-%206%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HJDfj](https://lichess.org/training/HJDfj), rated `1549`.
-The game is `duremar1900 (1919)` vs `osseb22 (1918)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/2sQL3tIu),
-and the first solution move is `h5f6`.
+It is `Black to move` in puzzle [WDIO1](https://lichess.org/training/WDIO1), rated `1500`.
+The game is `leonkiller77 (2471)` vs `Tomiello (2497)` at `3+0` time control,
+with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/XZgkgBKO),
+and the first solution move is `e7d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
