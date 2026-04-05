@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1bqnbp1p%2Fp3p1pP%2F1pp3B1%2F4n3%2FP4N2%2FBPPQNPP1%2F2KR3R%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F2q2p2%2F8%2F3N2p1%2FP3p1n1%2F1P2P3%2F1Q3PP1%2F3R2K1%20b%20-%20-%201%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [moXWT](https://lichess.org/training/moXWT), rated `1445`.
-The game is `ozakyolv (1935)` vs `yar081av (1894)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/vPD215ht),
-and the first solution move is `d2d7`.
+It is `Black to move` in puzzle [WhPHy](https://lichess.org/training/WhPHy), rated `1392`.
+The game is `sheykhneyshabur (1911)` vs `Verdom (1882)` at `10+0` time control,
+with themes `deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/anrfxBd3),
+and the first solution move is `c7h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
