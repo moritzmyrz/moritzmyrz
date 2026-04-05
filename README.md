@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fk1pr4%2Fpq2Q3%2F1p6%2F8%2F1P3P1P%2F2P1R1P1%2F5K2%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpb4p1%2F1ppbp2p%2F3P1p2%2F2P4q%2FPP2Q3%2F1B4R1%2F1B2R1K1%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8ssTg](https://lichess.org/training/8ssTg), rated `1265`.
-The game is `Kurundu (1948)` vs `Maximm85 (1896)` at `10+5` time control,
-with themes `endgame, short, advantage, pin`. You can [view the full game](https://lichess.org/4vGj00nC),
-and the first solution move is `d7d1`.
+It is `Black to move` in puzzle [xATbF](https://lichess.org/training/xATbF), rated `1552`.
+The game is `wabisabi (1928)` vs `Jameslov (1924)` at `10+0` time control,
+with themes `middlegame, pin, advantage, long`. You can [view the full game](https://lichess.org/Vqce9nob),
+and the first solution move is `d6c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
