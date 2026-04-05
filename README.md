@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F2p1Qp2%2F2k5%2F3pp2q%2F1B6%2F4P1R1%2FP2P1P2%2FRN3K2%20b%20-%20-%204%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1kb1r%2F4p1pp%2Fp3Qp2%2F8%2FP2P4%2F2pq3P%2F1P1N1Pn1%2FR1BK2NR%20b%20k%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6fPe9](https://lichess.org/training/6fPe9), rated `1615`.
-The game is `Schiocca (1992)` vs `Meridan (2025)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/dzCBfq1g),
-and the first solution move is `h5d1`.
+It is `Black to move` in puzzle [Q90vJ](https://lichess.org/training/Q90vJ), rated `1462`.
+The game is `tazomilan (1835)` vs `jajja1111 (1819)` at `10+0` time control,
+with themes `advancedPawn, middlegame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/XDo8kWtQ),
+and the first solution move is `c3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
