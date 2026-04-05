@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fp4p1p%2Fbp1b1p2%2F2pN4%2F3P4%2F3p1N1P%2FPP1Q1PP1%2F4RK1R%20w%20-%20-%204%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2F1p4pp%2Fp2p1r2%2F3P1p2%2F2P2p1q%2F3BbP2%2FPPQ3PP%2F3NRR1K%20b%20-%20-%209%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VgAww](https://lichess.org/training/VgAww), rated `1533`.
-The game is `JaeTea (1847)` vs `mhmdkrimly (1884)` at `10+5` time control,
-with themes `middlegame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/oKG7oY4R),
-and the first solution move is `e1e8`.
+It is `Black to move` in puzzle [iklM3](https://lichess.org/training/iklM3), rated `1317`.
+The game is `tibu69 (2372)` vs `TerminatorIV (2396)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack, pillsburysMate`. You can [view the full game](https://lichess.org/2dxRjke3),
+and the first solution move is `h4h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
