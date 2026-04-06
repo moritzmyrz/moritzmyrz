@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1b4P1%2F5q1p%2F1p6%2Fp5Q1%2F4P3%2FPP4PP%2F5R1K%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q1kb1r%2Fppp2ppp%2F4bn2%2F4p3%2F2B1P3%2F2P2Q2%2FPP1N1PPP%2FR1BR2K1%20b%20kq%20-%205%2010&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DHjj5](https://lichess.org/training/DHjj5), rated `1610`.
-The game is `eilel1 (2031)` vs `DHC (2059)` at `10+0` time control,
-with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/gGXdrefW),
-and the first solution move is `g4c8`.
+It is `Black to move` in puzzle [sT4vh](https://lichess.org/training/sT4vh), rated `1459`.
+The game is `Ericsongsa (1902)` vs `ahmed05 (1806)` at `10+0` time control,
+with themes `opening, skewer, short, advantage`. You can [view the full game](https://lichess.org/NaIrAj2w),
+and the first solution move is `e6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
