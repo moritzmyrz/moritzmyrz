@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp3k1p1%2F1pK4p%2F1P4PP%2FP7%2F8%2F8%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F5ppp%2F2n5%2F2R2P2%2F1p2P2P%2F4B1P1%2F2r5%2F5K2%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [x82CQ](https://lichess.org/training/x82CQ), rated `1395`.
-The game is `Schachan (1888)` vs `ideologas (1850)` at `5+0` time control,
-with themes `crushing, pawnEndgame, veryLong, endgame`. You can [view the full game](https://lichess.org/M9hySyj7),
-and the first solution move is `g4h5`.
+It is `Black to move` in puzzle [ww4Kp](https://lichess.org/training/ww4Kp), rated `1337`.
+The game is `webseher (2209)` vs `Ahmad-Rabee (2326)` at `10+0` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/f092kQNA),
+and the first solution move is `c2c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
