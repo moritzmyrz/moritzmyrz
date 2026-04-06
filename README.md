@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk1nr%2Fpp3ppp%2F3b4%2F4n3%2F3QP3%2F5B2%2FPPP3PP%2FRNB2RK1%20b%20kq%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4k2%2Fpb3p1Q%2F1q1p2B1%2F1p1Pn2N%2F7P%2F2P3K1%2FP7%2FR4R2%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gCnUr](https://lichess.org/training/gCnUr), rated `1419`.
-The game is `Ardiansyahffery (1928)` vs `correcaminos (1956)` at `3+0` time control,
-with themes `crushing, long, opening, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/H2Z8lAkC),
-and the first solution move is `e5f3`.
+It is `Black to move` in puzzle [sxUpR](https://lichess.org/training/sxUpR), rated `1477`.
+The game is `PrIkaz (1716)` vs `Eckors (1713)` at `3+2` time control,
+with themes `veryLong, middlegame, crushing, fork`. You can [view the full game](https://lichess.org/N5E5Q838),
+and the first solution move is `b6e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
