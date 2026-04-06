@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2F1ppb1p1p%2Fp2p1qp1%2F8%2FP1PQn3%2F6PP%2F1P2NPB1%2FR3R1K1%20w%20-%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2F2q3pp%2F2Nbpp2%2Fp2p4%2F3Pn3%2F1P3P1P%2FPB2Q1P1%2F2R2RK1%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VPVu1](https://lichess.org/training/VPVu1), rated `1374`.
-The game is `one_last_trick (2451)` vs `CuattroPrincesses (2410)` at `3+2` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/KD9cLciL),
-and the first solution move is `g2e4`.
+It is `Black to move` in puzzle [czl6R](https://lichess.org/training/czl6R), rated `1592`.
+The game is `Y_500-T (1786)` vs `francpab (1870)` at `8+1` time control,
+with themes `middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/83WYMpub),
+and the first solution move is `d6h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
