@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F5ppp%2F2n5%2F2R2P2%2F1p2P2P%2F4B1P1%2F2r5%2F5K2%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fp4Qpp%2F2r5%2F2b2q2%2F3p4%2F4P3%2FPP5P%2FK5R1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ww4Kp](https://lichess.org/training/ww4Kp), rated `1337`.
-The game is `webseher (2209)` vs `Ahmad-Rabee (2326)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/f092kQNA),
-and the first solution move is `c2c5`.
+It is `White to move` in puzzle [A59Y6](https://lichess.org/training/A59Y6), rated `1421`.
+The game is `sergey-kolegov_1978 (1901)` vs `kh1111 (1837)` at `30+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/QyMrGBGe),
+and the first solution move is `f7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
