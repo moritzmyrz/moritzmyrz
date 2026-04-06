@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1b2qpp1%2Fpb1Bp2p%2F8%2F1P6%2FP1Q5%2F2P2PPP%2F3R2K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fppp2p1p%2F2n4p%2F5bb1%2F3P4%2F2NB1N1P%2FPPK2PP1%2FR6R%20b%20kq%20-%205%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [R85ef](https://lichess.org/training/R85ef), rated `1318`.
-The game is `belzebob (1855)` vs `ansa55 (1688)` at `5+8` time control,
-with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/JbXNumAI),
-and the first solution move is `c3c8`.
+It is `Black to move` in puzzle [AptFL](https://lichess.org/training/AptFL), rated `1276`.
+The game is `Krecikus (2017)` vs `vipincm (1985)` at `10+0` time control,
+with themes `deflection, middlegame, short, crushing`. You can [view the full game](https://lichess.org/nwzcUxys),
+and the first solution move is `c6b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
