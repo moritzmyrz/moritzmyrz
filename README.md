@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2Fp1R3pp%2F4pp2%2FQ2b4%2F1q1P4%2F4PP2%2F6PP%2F6K1%20w%20-%20-%201%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2F6bp%2Fp2p1np1%2Fq2P4%2F3NP1P1%2F2p1B3%2FP1Q5%2FR3KBNR%20b%20KQ%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MkABg](https://lichess.org/training/MkABg), rated `1601`.
-The game is `ISIPATHANA (2361)` vs `Tahaned2015 (2399)` at `3+0` time control,
-with themes `deflection, endgame, master, short, advantage`. You can [view the full game](https://lichess.org/fe99qsDV),
-and the first solution move is `c7c8`.
+It is `Black to move` in puzzle [Xea0O](https://lichess.org/training/Xea0O), rated `1476`.
+The game is `nghaktea (2142)` vs `RookFianchetto (2214)` at `10+0` time control,
+with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/vv66v4x5),
+and the first solution move is `f6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
