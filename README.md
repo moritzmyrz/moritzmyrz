@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p4k1%2F8%2F3P3p%2F2PKN1p1%2FP7%2F8%20b%20-%20-%201%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1qr1kb%2Fpb3p1p%2F1p1pp1pB%2F6N1%2F2BQnPP1%2F2N4P%2FPPP5%2FR3K2R%20w%20KQ%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Xtvja](https://lichess.org/training/Xtvja), rated `1419`.
-The game is `Dflach (1907)` vs `CAMBISES (2077)` at `5+0` time control,
-with themes `endgame, advancedPawn, crushing, long, promotion, knightEndgame`. You can [view the full game](https://lichess.org/fvbwV0Bq),
-and the first solution move is `h4h3`.
+It is `White to move` in puzzle [lDqbG](https://lichess.org/training/lDqbG), rated `1552`.
+The game is `Kimetovsky (1557)` vs `AbdelhalemAhmed (1505)` at `10+5` time control,
+with themes `deflection, middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/49ZR3VIg),
+and the first solution move is `d4h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
