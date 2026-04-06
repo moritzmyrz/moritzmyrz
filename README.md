@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fp4Qpp%2F2r5%2F2b2q2%2F3p4%2F4P3%2FPP5P%2FK5R1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F2pb1p2%2Fp5Rp%2F1p2p3%2F3n1q2%2FP2Q3P%2F1PB2PP1%2FRN5K%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [A59Y6](https://lichess.org/training/A59Y6), rated `1421`.
-The game is `sergey-kolegov_1978 (1901)` vs `kh1111 (1837)` at `30+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/QyMrGBGe),
-and the first solution move is `f7g7`.
+It is `White to move` in puzzle [cuQtD](https://lichess.org/training/cuQtD), rated `1543`.
+The game is `ranilo22 (1929)` vs `JurassicPenguin12 (1931)` at `3+0` time control,
+with themes `clearance, mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/VLnRWmYA),
+and the first solution move is `g6g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
