@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1pp2ppp%2Fp1q2n2%2F4N3%2F6b1%2F2BP4%2FPPP2PPP%2FR2QK2R%20b%20KQkq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp3k1p1%2F1pK4p%2F1P4PP%2FP7%2F8%2F8%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rIz1L](https://lichess.org/training/rIz1L), rated `1598`.
-The game is `nhjoc6 (1738)` vs `Gerry5908 (1743)` at `3+0` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/L3B65hwh),
-and the first solution move is `c6g2`.
+It is `White to move` in puzzle [x82CQ](https://lichess.org/training/x82CQ), rated `1395`.
+The game is `Schachan (1888)` vs `ideologas (1850)` at `5+0` time control,
+with themes `crushing, pawnEndgame, veryLong, endgame`. You can [view the full game](https://lichess.org/M9hySyj7),
+and the first solution move is `g4h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
