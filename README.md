@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F1pp2rp1%2Fp2p3p%2F8%2F3QR3%2F2P3RP%2FP4qPK%2F8%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2F3k1n2%2Fp2p4%2F1p1Np3%2F1PP4q%2F5r1b%2FP1N4P%2F6RK%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HtFox](https://lichess.org/training/HtFox), rated `1562`.
-The game is `VadimBob (2082)` vs `Tosch2 (2101)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/Vp3Pgb2Q),
-and the first solution move is `g3g7`.
+It is `Black to move` in puzzle [ooj3N](https://lichess.org/training/ooj3N), rated `1511`.
+The game is `kingchas3r (2327)` vs `seso_1 (2447)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/sm4GceRL),
+and the first solution move is `h3g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
