@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k2%2Fpb3p1Q%2F1q1p2B1%2F1p1Pn2N%2F7P%2F2P3K1%2FP7%2FR4R2%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5rk%2Fpppnq1pp%2F4bp2%2F4p3%2F4P2N%2F2P1B1Q1%2F1P3PPP%2FR3R1K1%20w%20-%20-%208%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sxUpR](https://lichess.org/training/sxUpR), rated `1477`.
-The game is `PrIkaz (1716)` vs `Eckors (1713)` at `3+2` time control,
-with themes `veryLong, middlegame, crushing, fork`. You can [view the full game](https://lichess.org/N5E5Q838),
-and the first solution move is `b6e3`.
+It is `White to move` in puzzle [A6pPr](https://lichess.org/training/A6pPr), rated `1296`.
+The game is `Kadrissov (1686)` vs `pikulina123 (1683)` at `10+0` time control,
+with themes `clearance, mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/QyxnW1lL),
+and the first solution move is `h4g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
