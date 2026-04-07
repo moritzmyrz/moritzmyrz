@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FR3Qp1p%2F2p1pPp1%2F3p4%2F2bq4%2F6PP%2Fp1P4K%2F8%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p3k1%2F2p5%2F8%2F8%2FpPPK4%2FPq1Q4%2F8%20w%20-%20-%206%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PJjrW](https://lichess.org/training/PJjrW), rated `1339`.
-The game is `Aleksandr2384 (1716)` vs `TSGfan07 (1624)` at `3+2` time control,
-with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/UnLEisEw),
-and the first solution move is `e7f8`.
+It is `White to move` in puzzle [nqUqg](https://lichess.org/training/nqUqg), rated `1453`.
+The game is `aleksandrcrimea (1966)` vs `deepakdhoni (1962)` at `10+5` time control,
+with themes `queenEndgame, long, crushing, endgame`. You can [view the full game](https://lichess.org/apszX55h),
+and the first solution move is `d2b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
