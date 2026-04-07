@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp4r1%2F2p2p1k%2F3p3p%2F3PnP2%2F2P2Q2%2FPP2R3%2F5KNq%20w%20-%20-%206%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4ppp%2FQpN1p3%2F8%2FP7%2F1qp3P1%2F5P1P%2F3R2K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [y8YPN](https://lichess.org/training/y8YPN), rated `1587`.
-The game is `APSestre (1841)` vs `tsambalero123 (1781)` at `3+2` time control,
-with themes `advantage, hangingPiece, long, endgame`. You can [view the full game](https://lichess.org/6Bsyj6XQ),
-and the first solution move is `f3h1`.
+It is `Black to move` in puzzle [POhRK](https://lichess.org/training/POhRK), rated `1291`.
+The game is `Mulgor (2213)` vs `kubanychsyimyk2011 (2024)` at `3+0` time control,
+with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/8SP91i2s),
+and the first solution move is `b3d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
