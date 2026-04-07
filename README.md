@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1k3%2F8%2Fp1R1p2p%2F1p3pq1%2F1P1bN3%2FP2B1K2%2F5P2%2F3Q1R2%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F1p2q1rp%2F1p3p2%2F1b1B1P2%2F3pp1Q1%2F6RR%2FP1P3PP%2F6K1%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EAYqc](https://lichess.org/training/EAYqc), rated `1402`.
-The game is `hrco_cro (1995)` vs `jangela34 (2054)` at `10+0` time control,
-with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/kc2bAIra),
-and the first solution move is `g5g4`.
+It is `White to move` in puzzle [xl1HM](https://lichess.org/training/xl1HM), rated `1362`.
+The game is `CellyJunge (1992)` vs `pacer1 (1978)` at `3+0` time control,
+with themes `middlegame, operaMate, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/ZaL1tXYD),
+and the first solution move is `h3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
