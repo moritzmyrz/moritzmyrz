@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3Q4%2Fp4p1k%2F4pPbp%2F8%2F2rq4%2F7P%2FP4RPK%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fpp1b1ppp%2F2n1pn2%2F1N1p4%2FQ4B2%2F5N2%2FPPP1PPPP%2FR3KB1R%20w%20KQkq%20-%205%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CBwRy](https://lichess.org/training/CBwRy), rated `1589`.
-The game is `ahmet_emir (1730)` vs `peppernuts (1728)` at `15+10` time control,
-with themes `crushing, long, defensiveMove, endgame`. You can [view the full game](https://lichess.org/AgbrwtLy),
-and the first solution move is `d8f8`.
+It is `White to move` in puzzle [PfJaC](https://lichess.org/training/PfJaC), rated `1548`.
+The game is `LowEloLegend1234 (1830)` vs `abbe67 (1795)` at `10+0` time control,
+with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/eYet1kvh),
+and the first solution move is `b5c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
