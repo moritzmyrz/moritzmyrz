@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2Fpp5p%2F1k4p1%2F8%2FP3B3%2F1P5K%2F5bPP%2F3R4%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3BP2p%2F3n4%2F2k3p1%2F5p2%2F3R4%2F7r%2F4K3%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MP0Pk](https://lichess.org/training/MP0Pk), rated `1592`.
-The game is `Dytorx1 (1769)` vs `Mattia2002 (1773)` at `10+0` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/YKMz9nHu),
-and the first solution move is `f8f4`.
+It is `White to move` in puzzle [bWuEG](https://lichess.org/training/bWuEG), rated `1304`.
+The game is `dshadri (1896)` vs `MikkelinoMikkelone (1960)` at `10+0` time control,
+with themes `endgame, advancedPawn, short, crushing, promotion`. You can [view the full game](https://lichess.org/bG1JIJmq),
+and the first solution move is `d3d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
