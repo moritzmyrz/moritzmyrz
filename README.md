@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpppq1ppp%2F1b3n2%2F3Pp3%2FQ1B1P1b1%2F5N2%2FP2N1PPP%2FR4RK1%20w%20kq%20-%202%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2F1p1pnpp1%2F3Qp2p%2FP3P3%2F8%2F8%2Fq4PPP%2F2RR2K1%20w%20kq%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [7moeU](https://lichess.org/training/7moeU), rated `1370`.
-The game is `Zamudne (1634)` vs `Garegin-Diloev (1673)` at `3+2` time control,
-with themes `middlegame, pin, crushing, long`. You can [view the full game](https://lichess.org/tBngTVNV),
-and the first solution move is `c4b5`.
+It is `White to move` in puzzle [KDyq0](https://lichess.org/training/KDyq0), rated `1594`.
+The game is `persiangolf100 (1645)` vs `Karaj_Cork (1619)` at `10+0` time control,
+with themes `veryLong, middlegame, sacrifice, mateIn4, backRankMate`. You can [view the full game](https://lichess.org/Dk7HUwx3),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
