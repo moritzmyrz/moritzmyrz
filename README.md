@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F1p4kr%2Fp3p1p1%2F3p4%2F2pP1PB1%2FP1P1P1q1%2F1P4P1%2FR2QRK2%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F1kP5%2Fp3p3%2F1p2q3%2F7p%2F1Q1R2P1%2F6PK%2F4N3%20b%20-%20-%201%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [N5fut](https://lichess.org/training/N5fut), rated `1363`.
-The game is `alex_tc6 (1893)` vs `fred-kroket (1921)` at `3+2` time control,
-with themes `deflection, mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/mOvu5j8k),
-and the first solution move is `h7h1`.
+It is `Black to move` in puzzle [NOIOv](https://lichess.org/training/NOIOv), rated `1549`.
+The game is `chesstrike (2071)` vs `amjadkhateeb (2047)` at `3+0` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/lxE2GPko),
+and the first solution move is `h4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
