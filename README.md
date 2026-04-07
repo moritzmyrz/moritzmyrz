@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=k3r3%2FpR1r2p1%2F3b4%2FP3p1n1%2F3P2Pp%2F2P4P%2F4q1B1%2F1R4K1%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1Q6%2F5kp1%2F7p%2F8%2F5K1P%2F3q1PP1%2F8%20b%20-%20-%2012%2056&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rPA9V](https://lichess.org/training/rPA9V), rated `1500`.
-The game is `eyeshadowu (1932)` vs `Shrinath_M (1918)` at `10+5` time control,
-with themes `middlegame, oneMove, mateIn1, doubleCheck`. You can [view the full game](https://lichess.org/fw1a0HEw),
-and the first solution move is `b7b8`.
+It is `Black to move` in puzzle [3no3N](https://lichess.org/training/3no3N), rated `1582`.
+The game is `ChessTraining18 (1972)` vs `Fafin_2024 (1890)` at `5+3` time control,
+with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/qWWcMXYt),
+and the first solution move is `d2d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
