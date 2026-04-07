@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R1rk1%2Fp1q2ppp%2F2p5%2F4p1Q1%2FP3Pn2%2F5P2%2F2P2P1P%2F3R2K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k2p%2F6p1%2FPp3P2%2F1P2p1P1%2F2n4r%2F1RPK4%2F5B2%20b%20-%20-%201%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0hTs4](https://lichess.org/training/0hTs4), rated `1313`.
-The game is `neinnopedy (1819)` vs `Mahdi17521752 (1814)` at `10+5` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/LXeq9u19),
-and the first solution move is `f4h3`.
+It is `Black to move` in puzzle [sHvzK](https://lichess.org/training/sHvzK), rated `1474`.
+The game is `amjadkhateeb (1994)` vs `Naryss (1936)` at `3+0` time control,
+with themes `endgame, advancedPawn, discoveredCheck, advantage, long, sacrifice, promotion, discoveredAttack`. You can [view the full game](https://lichess.org/OA1qJJev),
+and the first solution move is `e4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
