@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1Q6%2F5kp1%2F7p%2F8%2F5K1P%2F3q1PP1%2F8%20b%20-%20-%2012%2056&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1qr1k1%2F1p3pp1%2F2pp4%2Fp1P1p3%2FP3P3%2F1Q1PP1Pp%2FBP3n2%2FR5K1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3no3N](https://lichess.org/training/3no3N), rated `1582`.
-The game is `ChessTraining18 (1972)` vs `Fafin_2024 (1890)` at `5+3` time control,
-with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/qWWcMXYt),
-and the first solution move is `d2d3`.
+It is `White to move` in puzzle [2g8j3](https://lichess.org/training/2g8j3), rated `1519`.
+The game is `romasliuz (1837)` vs `FrankJhox2020 (1835)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/C0y8JPfC),
+and the first solution move is `b3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
