@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqkb1r%2F1p1npp1p%2Fp1pp1n2%2F6N1%2F2PP4%2F1P2P3%2FPB3PPP%2FRN1QKB1R%20b%20KQkq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp4qp1%2F2pRp2p%2F4P3%2F2p5%2F6Q1%2FP4PPP%2F3R2K1%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [v73Un](https://lichess.org/training/v73Un), rated `1473`.
-The game is `JAAFAR___SHAHOOD (2292)` vs `SergejSotchi (2367)` at `10+0` time control,
-with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/MgA5Oleg),
-and the first solution move is `d8a5`.
+It is `White to move` in puzzle [fZ0t6](https://lichess.org/training/fZ0t6), rated `1426`.
+The game is `The_Next_Big_Name (1636)` vs `Julz77 (1645)` at `3+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/F6VlMwgw),
+and the first solution move is `d6d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
