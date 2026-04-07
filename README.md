@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqkb1r%2Fppp2ppp%2F5n2%2F4p3%2F2B5%2F2P5%2FP4PPP%2FRNBQK1NR%20w%20KQkq%20-%200%207&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpppqbpp1%2F2n1b2p%2F4p3%2FPP1pn2Q%2F2PB1P1P%2F1B1P2P1%2FRN2NR1K%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BGoXT](https://lichess.org/training/BGoXT), rated `1501`.
-The game is `anim_eskan (1739)` vs `worfect (1642)` at `10+0` time control,
-with themes `crushing, opening, attackingF2F7, deflection, veryLong`. You can [view the full game](https://lichess.org/7fH4P4Iz),
-and the first solution move is `c4f7`.
+It is `White to move` in puzzle [A0NWv](https://lichess.org/training/A0NWv), rated `1521`.
+The game is `peredisan (1805)` vs `bballfan23 (1668)` at `12+0` time control,
+with themes `middlegame, advantage, short, hangingPiece`. You can [view the full game](https://lichess.org/Xh4T8mC2),
+and the first solution move is `h4e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
