@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fpp1b1ppp%2F2n1pn2%2F1N1p4%2FQ4B2%2F5N2%2FPPP1PPPP%2FR3KB1R%20w%20KQkq%20-%205%208&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqkb1r%2Fppp2ppp%2F5n2%2F4p3%2F2B5%2F2P5%2FP4PPP%2FRNBQK1NR%20w%20KQkq%20-%200%207&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PfJaC](https://lichess.org/training/PfJaC), rated `1548`.
-The game is `LowEloLegend1234 (1830)` vs `abbe67 (1795)` at `10+0` time control,
-with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/eYet1kvh),
-and the first solution move is `b5c7`.
+It is `White to move` in puzzle [BGoXT](https://lichess.org/training/BGoXT), rated `1501`.
+The game is `anim_eskan (1739)` vs `worfect (1642)` at `10+0` time control,
+with themes `crushing, opening, attackingF2F7, deflection, veryLong`. You can [view the full game](https://lichess.org/7fH4P4Iz),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
