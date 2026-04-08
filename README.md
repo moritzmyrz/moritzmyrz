@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F2q3pp%2F8%2Fp1BQ1p2%2F2p1p3%2F8%2F6PP%2F4K3%20w%20-%20-%202%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F8%2F1p3p2%2F2p3q1%2F2P1N3%2F7B%2FPP1p1Q1K%2F8%20b%20-%20-%203%2057&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qQIAP](https://lichess.org/training/qQIAP), rated `1481`.
-The game is `rdarruda (2453)` vs `tonyMcTonyFace (2340)` at `3+0` time control,
-with themes `master, short, backRankMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/4jTopE37),
-and the first solution move is `d5a8`.
+It is `Black to move` in puzzle [gD91v](https://lichess.org/training/gD91v), rated `1347`.
+The game is `lcpazv (2378)` vs `Saltaev (2465)` at `3+2` time control,
+with themes `endgame, advancedPawn, master, short, advantage, fork, promotion`. You can [view the full game](https://lichess.org/DBVt5qOs),
+and the first solution move is `g5e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
