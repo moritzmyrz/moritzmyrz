@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1r5%2Fp2q1k1p%2F1p2ppp1%2F3pP3%2F2n2P2%2FB1R5%2FP5PP%2F2RQ2K1%20w%20-%20-%206%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3q2k1%2F3Pr1pp%2Fp1b2p2%2F2p5%2F2P1nBN1%2F1P1Q1P2%2FP5PP%2F3R2K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GKnLL](https://lichess.org/training/GKnLL), rated `1378`.
-The game is `AA_ron (1940)` vs `lohnranger (2004)` at `15+10` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/9vmX29tX),
-and the first solution move is `c3c4`.
+It is `Black to move` in puzzle [bHvvH](https://lichess.org/training/bHvvH), rated `1533`.
+The game is `Metallolom72 (1878)` vs `SJOSHUA (2006)` at `10+0` time control,
+with themes `middlegame, short, advantage`. You can [view the full game](https://lichess.org/lUkSYACz),
+and the first solution move is `e7d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
