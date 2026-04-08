@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F1Q3pbp%2Fp5p1%2F1pp5%2F3p2P1%2F1P1P2q1%2FPP6%2F1K3R1R%20w%20-%20-%204%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6bp%2F3q2p1%2F3N4%2F2n2P2%2F3QB3%2F7P%2F1R4K1%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lQzy4](https://lichess.org/training/lQzy4), rated `1374`.
-The game is `sandroio (1687)` vs `kotygoroshko (1811)` at `3+10` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/X5jdUkGO),
-and the first solution move is `b7f7`.
+It is `Black to move` in puzzle [4fEj7](https://lichess.org/training/4fEj7), rated `1331`.
+The game is `palash79 (1778)` vs `mischiko (1754)` at `15+15` time control,
+with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/eu6zSbWN),
+and the first solution move is `c4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
