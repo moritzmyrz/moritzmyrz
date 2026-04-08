@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F4Q2p%2F2p1p1p1%2F8%2F8%2F1B6%2FP1Pq1PPP%2F6K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F1Q3pbp%2Fp5p1%2F1pp5%2F3p2P1%2F1P1P2q1%2FPP6%2F1K3R1R%20w%20-%20-%204%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UXgph](https://lichess.org/training/UXgph), rated `1413`.
-The game is `mohamad_ali-otoom (1972)` vs `Abtauscher (2021)` at `3+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/P8Uel0MO),
-and the first solution move is `b3e6`.
+It is `White to move` in puzzle [lQzy4](https://lichess.org/training/lQzy4), rated `1374`.
+The game is `sandroio (1687)` vs `kotygoroshko (1811)` at `3+10` time control,
+with themes `veryLong, middlegame, attraction, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/X5jdUkGO),
+and the first solution move is `b7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
