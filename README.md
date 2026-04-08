@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1q3rkp%2F4p1p1%2F3p2P1%2FR1pP1PKP%2F1pQ5%2F3B4%2F8%20b%20-%20-%208%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2Fppp2qpp%2F1b3p2%2F3N4%2F2Qn2B1%2F6P1%2FPPP3PP%2F5R1K%20w%20-%20-%206%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UlFXV](https://lichess.org/training/UlFXV), rated `1594`.
-The game is `mblaschke (1750)` vs `fil80 (1758)` at `5+3` time control,
-with themes `endgame, advancedPawn, crushing, xRayAttack, long, promotion`. You can [view the full game](https://lichess.org/e7KAbCzb),
-and the first solution move is `b3b2`.
+It is `White to move` in puzzle [MomSF](https://lichess.org/training/MomSF), rated `1392`.
+The game is `kingfchesser (1827)` vs `bellhooks (1843)` at `30+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/psfFI3kn),
+and the first solution move is `d5b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
