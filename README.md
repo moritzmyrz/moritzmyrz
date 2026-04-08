@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6bp%2F3q2p1%2F3N4%2F2n2P2%2F3QB3%2F7P%2F1R4K1%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3R4%2F2p5%2F5p1P%2F1p1b1P2%2F3k1K2%2F4p3%2F8%20w%20-%20-%202%2045&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [4fEj7](https://lichess.org/training/4fEj7), rated `1331`.
-The game is `palash79 (1778)` vs `mischiko (1754)` at `15+15` time control,
-with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/eu6zSbWN),
-and the first solution move is `c4e3`.
+It is `White to move` in puzzle [HKOGC](https://lichess.org/training/HKOGC), rated `1572`.
+The game is `VladOliviu (2182)` vs `gmroedor (2378)` at `3+0` time control,
+with themes `deflection, endgame, master, short, crushing`. You can [view the full game](https://lichess.org/MkWZHor3),
+and the first solution move is `d7d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
