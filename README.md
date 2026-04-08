@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fppp5%2F3q3p%2F3P2rk%2F4Q3%2F7K%2FPPP3P1%2F8%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2FP3K3%2F1k6%2F8%2F8%2F8%2F8%20b%20-%20-%202%2060&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [736wp](https://lichess.org/training/736wp), rated `1577`.
-The game is `onryr (1754)` vs `peramina (1742)` at `10+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/CrqD0e8m),
-and the first solution move is `g2g4`.
+It is `Black to move` in puzzle [TKztr](https://lichess.org/training/TKztr), rated `1455`.
+The game is `Nopeatchess (1987)` vs `BjzmaOBoots (1986)` at `3+0` time control,
+with themes `endgame, crushing, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/cewViBzl),
+and the first solution move is `b5a6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
