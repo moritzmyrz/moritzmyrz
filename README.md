@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1n6%2F2p3pp%2F8%2F2kp4%2FBq2pQ2%2Fn3P2P%2F5PP1%2F6K1%20w%20-%20-%206%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqk2r%2Fppp3pp%2F3b1p2%2F3B4%2F3P4%2F4PN2%2FPP3PPP%2FR1BQK2R%20b%20KQkq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IdP7b](https://lichess.org/training/IdP7b), rated `1514`.
-The game is `swandog (1591)` vs `HundesHund (1556)` at `5+3` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/4s3Y4YZl),
-and the first solution move is `f4c7`.
+It is `Black to move` in puzzle [87wV3](https://lichess.org/training/87wV3), rated `1322`.
+The game is `Dhruv1167 (1653)` vs `elymiss (1627)` at `3+0` time control,
+with themes `long, advantage, opening`. You can [view the full game](https://lichess.org/dkAbN2uo),
+and the first solution move is `d6b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
