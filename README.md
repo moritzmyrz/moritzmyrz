@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2Fp1q1b1kp%2F1p1p2p1%2F3Qp1P1%2F4P3%2F1PP3r1%2F1P1B4%2F2KR3R%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rrk2%2F1p3pp1%2Fp2q1n2%2F2p3N1%2F7R%2F2P2pP1%2FPP2Q1P1%2F2K4R%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ID5p1](https://lichess.org/training/ID5p1), rated `1525`.
-The game is `rdsteapot (1601)` vs `xAaronOidax (1604)` at `3+2` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/0AGb5nDG),
-and the first solution move is `h1h7`.
+It is `White to move` in puzzle [xeFLe](https://lichess.org/training/xeFLe), rated `1361`.
+The game is `bendencina (1765)` vs `Palvori (1721)` at `3+0` time control,
+with themes `middlegame, mateIn2, short`. You can [view the full game](https://lichess.org/krijcFRN),
+and the first solution move is `h4h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
