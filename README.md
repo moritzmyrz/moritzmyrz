@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fppp1npp1%2F3q3p%2F4p3%2F4P3%2F2P1PB2%2FPPQ3PP%2F4R1K1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1pqbb1pp%2Fp3p3%2F3pPr2%2F3B1P2%2FP2Q1NP1%2F1P5P%2F5RK1%20b%20-%20-%201%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zmmj1](https://lichess.org/training/zmmj1), rated `1374`.
-The game is `MYS-EVS (2183)` vs `kjelldino (2233)` at `10+5` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/6WQb6u2U),
-and the first solution move is `e1d1`.
+It is `Black to move` in puzzle [veHDv](https://lichess.org/training/veHDv), rated `1595`.
+The game is `ketan2579 (1740)` vs `KOKKORAS (1507)` at `5+0` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/rN0bILGD),
+and the first solution move is `d7b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
