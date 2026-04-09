@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fp4pp1%2F7p%2F2P5%2FQP6%2FP1bp1BPb%2F3N1K1P%2F1R1R4%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F5pbp%2F3p1qn1%2F1p3NR1%2F3p4%2F1P4P1%2FP2Q3P%2F5RK1%20w%20-%20-%204%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6iKGJ](https://lichess.org/training/6iKGJ), rated `1288`.
-The game is `LevGutman (2452)` vs `Python45 (2571)` at `3+0` time control,
-with themes `morphysMate, oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/rWdGqOCy),
-and the first solution move is `c3d4`.
+It is `White to move` in puzzle [jlfMU](https://lichess.org/training/jlfMU), rated `1453`.
+The game is `bpops (2212)` vs `Snipper2701 (2200)` at `3+0` time control,
+with themes `middlegame, advantage, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/Tb8RDKb0),
+and the first solution move is `f5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
