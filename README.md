@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp5p1%2F5rpp%2F1p2p3%2F3n4%2F3PQ2P%2FP1q2PB1%2FK1R4R%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F1p1b1ppp%2F2p5%2F4R1P1%2FnpP1BP2%2F8%2FP1Q1q3%2F1K6%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PEgFI](https://lichess.org/training/PEgFI), rated `1285`.
-The game is `VENOM_CHESS_X (1711)` vs `amk2021 (1702)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/wzZugASw),
-and the first solution move is `d4b3`.
+It is `White to move` in puzzle [XHFsX](https://lichess.org/training/XHFsX), rated `1493`.
+The game is `Mortn (2414)` vs `beautiful_princess_1 (2441)` at `3+0` time control,
+with themes `short, crushing, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/bDVmNxVH),
+and the first solution move is `e4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
