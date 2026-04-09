@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fp1p3pk%2F1p5p%2F1P2q2b%2F4R3%2FB4P2%2FP5PP%2F3Q2K1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rr1k%2Fpp1b3p%2F2pb1qpQ%2F3p2B1%2F3N4%2FP1P4P%2F1P3PP1%2F4RRK1%20b%20-%20-%202%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [No9eN](https://lichess.org/training/No9eN), rated `1482`.
-The game is `IKV2025 (1794)` vs `Christopher_2021G (1898)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/MeEgBWbU),
-and the first solution move is `e5e4`.
+It is `Black to move` in puzzle [gM1rA](https://lichess.org/training/gM1rA), rated `1610`.
+The game is `sirkkeli (2353)` vs `AndreGanesha (2359)` at `2+1` time control,
+with themes `deflection, middlegame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/bZO9AgWo),
+and the first solution move is `f6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
