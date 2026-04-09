@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1rk%2Fppp4p%2F5p1p%2F5P2%2F3qN2Q%2F3B3P%2FP1P5%2F5R1K%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3kpK2%2F1p3P2%2F1P6%2F8%2F8%2F8%20b%20-%20-%200%2058&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qOJAB](https://lichess.org/training/qOJAB), rated `1364`.
-The game is `Hannut (1965)` vs `Toadinthebox (2179)` at `10+0` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/lqaiX2FE),
-and the first solution move is `h4f6`.
+It is `Black to move` in puzzle [AiTjh](https://lichess.org/training/AiTjh), rated `1329`.
+The game is `tigergoose (2128)` vs `lukinhaz313 (2153)` at `10+0` time control,
+with themes `endgame, short, crushing, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/o4b9xA3b),
+and the first solution move is `e6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
