@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3kpK2%2F1p3P2%2F1P6%2F8%2F8%2F8%20b%20-%20-%200%2058&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1n6%2F2p3pp%2F8%2F2kp4%2FBq2pQ2%2Fn3P2P%2F5PP1%2F6K1%20w%20-%20-%206%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [AiTjh](https://lichess.org/training/AiTjh), rated `1329`.
-The game is `tigergoose (2128)` vs `lukinhaz313 (2153)` at `10+0` time control,
-with themes `endgame, short, crushing, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/o4b9xA3b),
-and the first solution move is `e6f5`.
+It is `White to move` in puzzle [IdP7b](https://lichess.org/training/IdP7b), rated `1514`.
+The game is `swandog (1591)` vs `HundesHund (1556)` at `5+3` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/4s3Y4YZl),
+and the first solution move is `f4c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
