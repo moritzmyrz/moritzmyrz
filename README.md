@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F5pbp%2F3p1qn1%2F1p3NR1%2F3p4%2F1P4P1%2FP2Q3P%2F5RK1%20w%20-%20-%204%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1ppqbp1p%2Fp2p1p2%2F3N4%2F3PP3%2F6RP%2FPPQ3P1%2F2B3K1%20w%20-%20-%201%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jlfMU](https://lichess.org/training/jlfMU), rated `1453`.
-The game is `bpops (2212)` vs `Snipper2701 (2200)` at `3+0` time control,
-with themes `middlegame, advantage, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/Tb8RDKb0),
-and the first solution move is `f5h6`.
+It is `White to move` in puzzle [TQto2](https://lichess.org/training/TQto2), rated `1309`.
+The game is `evgen53 (1619)` vs `Fighter0498 (1615)` at `5+0` time control,
+with themes `middlegame, short, queensideAttack, advantage, pin`. You can [view the full game](https://lichess.org/LXEdp8ho),
+and the first solution move is `d5b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
