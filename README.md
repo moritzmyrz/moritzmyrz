@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1kb%2Fp6p%2F1pq3p1%2F2p5%2F2P5%2F3rB1PQ%2F5K2%2F7R%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6Q1%2F5p2%2F1p1kp1p1%2Fpbp5%2F5q2%2F1B3P2%2FPP4P1%2F7K%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mocOP](https://lichess.org/training/mocOP), rated `1580`.
-The game is `rongvanglucky (2259)` vs `ZverS2722 (2168)` at `3+0` time control,
-with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/w9luQvaA),
-and the first solution move is `h3h7`.
+It is `White to move` in puzzle [XNXx1](https://lichess.org/training/XNXx1), rated `1479`.
+The game is `licg (2574)` vs `Ruben_Briceno (2424)` at `3+0` time control,
+with themes `endgame, master, short, crushing, skewer`. You can [view the full game](https://lichess.org/zbftwTGc),
+and the first solution move is `g8b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
