@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1Qp3p1%2F7p%2F5qr1%2FP1P5%2F1P3R1P%2F5PP1%2F4R1K1%20b%20-%20-%202%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2Fpp6%2F4p2k%2F4B2p%2F3Pp1pP%2F5r2%2FPP1K4%2F4R1R1%20b%20-%20-%201%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [A2PmL](https://lichess.org/training/A2PmL), rated `1457`.
-The game is `COFFAT (2064)` vs `Gsaida136583414 (2088)` at `10+0` time control,
-with themes `pin, advantage, short, endgame`. You can [view the full game](https://lichess.org/eAlEc9Al),
-and the first solution move is `f5f3`.
+It is `Black to move` in puzzle [ReT7Y](https://lichess.org/training/ReT7Y), rated `1461`.
+The game is `serdaroquai (1636)` vs `demon171 (1635)` at `5+3` time control,
+with themes `exposedKing, endgame, epauletteMate, long, mateIn3`. You can [view the full game](https://lichess.org/1luOvauf),
+and the first solution move is `f3d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
