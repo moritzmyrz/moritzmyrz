@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6Q1%2F5p2%2F1p1kp1p1%2Fpbp5%2F5q2%2F1B3P2%2FPP4P1%2F7K%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k3r%2Fppp1R2p%2F5npQ%2F8%2F8%2F3P1P2%2FPP3q2%2F2KR4%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XNXx1](https://lichess.org/training/XNXx1), rated `1479`.
-The game is `licg (2574)` vs `Ruben_Briceno (2424)` at `3+0` time control,
-with themes `endgame, master, short, crushing, skewer`. You can [view the full game](https://lichess.org/zbftwTGc),
-and the first solution move is `g8b8`.
+It is `Black to move` in puzzle [JICBg](https://lichess.org/training/JICBg), rated `1422`.
+The game is `Alexlavr777 (2071)` vs `ZUKA-1992 (2131)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/brHza3F2),
+and the first solution move is `f2c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
