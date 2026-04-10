@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r4%2F5pkp%2Fp5p1%2F5p2%2F3b4%2F4Q3%2FP1bB2PP%2F5RK1%20w%20-%20-%206%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp2q1pp%2F2p2pb1%2F8%2F3r4%2F4PBP1%2FP3Q1PP%2F2R3K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4GcQH](https://lichess.org/training/4GcQH), rated `1298`.
-The game is `Fedele (1662)` vs `David1337_1 (1711)` at `10+5` time control,
-with themes `middlegame, advantage, fork, long, pin`. You can [view the full game](https://lichess.org/OC3PQ9wb),
-and the first solution move is `d2c3`.
+It is `White to move` in puzzle [3xYqF](https://lichess.org/training/3xYqF), rated `1335`.
+The game is `Phoenix_46 (1913)` vs `VGSvotin (1900)` at `10+0` time control,
+with themes `short, hangingPiece, crushing, endgame`. You can [view the full game](https://lichess.org/EK1Ej87A),
+and the first solution move is `e3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
