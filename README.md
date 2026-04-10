@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2Fpp6%2F4p2k%2F4B2p%2F3Pp1pP%2F5r2%2FPP1K4%2F4R1R1%20b%20-%20-%201%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1k3r%2Fppb5%2F2p1Q3%2F4N1q1%2F1PBPb1p1%2FP3P2P%2F5P2%2FR4RK1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ReT7Y](https://lichess.org/training/ReT7Y), rated `1461`.
-The game is `serdaroquai (1636)` vs `demon171 (1635)` at `5+3` time control,
-with themes `exposedKing, endgame, epauletteMate, long, mateIn3`. You can [view the full game](https://lichess.org/1luOvauf),
-and the first solution move is `f3d3`.
+It is `White to move` in puzzle [ebMcE](https://lichess.org/training/ebMcE), rated `1313`.
+The game is `milk_is_vulgar (1712)` vs `rin4en (1773)` at `5+3` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/E5CIqIlE),
+and the first solution move is `e5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
