@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F6k1%2F6pp%2F3b4%2F3bNP2%2F3B2PK%2F3r3P%2F8%20b%20-%20-%208%2046&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2F5pp1%2F3p3P%2Fpq2p3%2F1p2Pn1P%2F4NN2%2F1PPB4%2FRQ1K1R2%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5I4wv](https://lichess.org/training/5I4wv), rated `1283`.
-The game is `flyinduck (2211)` vs `erikswe (2385)` at `3+2` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/8bgJcbit),
-and the first solution move is `d5e6`.
+It is `Black to move` in puzzle [szlt9](https://lichess.org/training/szlt9), rated `1272`.
+The game is `Anandukrishna9744 (1512)` vs `Dinakaranvijayaniv (1568)` at `2+1` time control,
+with themes `mateIn2, middlegame, short, pin`. You can [view the full game](https://lichess.org/PYTkkJlO),
+and the first solution move is `b5e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
