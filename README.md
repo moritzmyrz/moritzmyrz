@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p3ppp%2F2q1p3%2F4Pn2%2F1P3P2%2F4b3%2F4N1PP%2F3Q3K%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pp1%2F4pnk1%2F3p4%2F3P1PP1%2F3RP1KP%2Fr2N4%2F8%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mERlg](https://lichess.org/training/mERlg), rated `1449`.
-The game is `Khiladi777 (1775)` vs `MajorMilizii (1734)` at `5+3` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/bMzEO3Lm),
-and the first solution move is `d1d8`.
+It is `Black to move` in puzzle [PXgxy](https://lichess.org/training/PXgxy), rated `1447`.
+The game is `LALAPALOZA (1748)` vs `IchBinFerdinand (1886)` at `10+5` time control,
+with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/YQVd8yDj),
+and the first solution move is `a2d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
