@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k2%2Fppp2p2%2F6n1%2F3pQ1B1%2F2q5%2F5BKP%2F5P2%2F6N1%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r4%2F5pkp%2Fp5p1%2F5p2%2F3b4%2F4Q3%2FP1bB2PP%2F5RK1%20w%20-%20-%206%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qIaX2](https://lichess.org/training/qIaX2), rated `1555`.
-The game is `yash5ingh (1568)` vs `Kostik_Maitre (1557)` at `5+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/zolcqs1F),
-and the first solution move is `g5h6`.
+It is `White to move` in puzzle [4GcQH](https://lichess.org/training/4GcQH), rated `1298`.
+The game is `Fedele (1662)` vs `David1337_1 (1711)` at `10+5` time control,
+with themes `middlegame, advantage, fork, long, pin`. You can [view the full game](https://lichess.org/OC3PQ9wb),
+and the first solution move is `d2c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
