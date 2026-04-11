@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fpppp1ppp%2F2n5%2F1B6%2F3P4%2F2n2N2%2FP4PPP%2FR1BQ1RK1%20w%20kq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rr2Q1%2F1p1k4%2Fp3p2p%2F4P3%2F3n2P1%2F1n2B3%2F1P1p2BP%2F5K2%20w%20-%20-%204%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jKYF5](https://lichess.org/training/jKYF5), rated `1372`.
-The game is `ShortshortsNZ (1807)` vs `commmander (1801)` at `10+0` time control,
-with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/FGiwAJ9X),
-and the first solution move is `d1e1`.
+It is `White to move` in puzzle [ZREUV](https://lichess.org/training/ZREUV), rated `1326`.
+The game is `nextgm2022 (2380)` vs `JedIra_Halcyon (2389)` at `3+2` time control,
+with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/lILvMUkA),
+and the first solution move is `g8f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
