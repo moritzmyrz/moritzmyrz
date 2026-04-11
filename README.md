@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fp1knQRpp%2F1pp5%2F7b%2F2q5%2F2P5%2FP5PP%2F4R1K1%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2n3Q1%2F8%2F5ppk%2Fp1q1p2p%2F3pP3%2FP4PP1%2F7P%2F6K1%20w%20-%20-%200%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [c8qNC](https://lichess.org/training/c8qNC), rated `1573`.
-The game is `hectorluis2019 (2494)` vs `Chessfamil200 (2348)` at `3+2` time control,
-with themes `short, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/7LgK65Cs),
-and the first solution move is `e7e5`.
+It is `White to move` in puzzle [Go9xg](https://lichess.org/training/Go9xg), rated `1559`.
+The game is `PriyankaGowda (2469)` vs `varask7 (2433)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/xt5PM1UN),
+and the first solution move is `g8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
