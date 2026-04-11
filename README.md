@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F8%2F1P5p%2F2b1p1q1%2F3pP3%2F3P4%2F1R5Q%2F4K3%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fpppp1ppp%2F2n5%2F1B6%2F3P4%2F2n2N2%2FP4PPP%2FR1BQ1RK1%20w%20kq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NNeuZ](https://lichess.org/training/NNeuZ), rated `1463`.
-The game is `CleanCode (1728)` vs `marty001 (1693)` at `15+15` time control,
-with themes `endgame, short, crushing, interference`. You can [view the full game](https://lichess.org/oyxVvjXN),
-and the first solution move is `g5c1`.
+It is `White to move` in puzzle [jKYF5](https://lichess.org/training/jKYF5), rated `1372`.
+The game is `ShortshortsNZ (1807)` vs `commmander (1801)` at `10+0` time control,
+with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/FGiwAJ9X),
+and the first solution move is `d1e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
