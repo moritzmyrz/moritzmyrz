@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=Q7%2Fp1p3pk%2F6rp%2F2P2p2%2F1P2pP2%2F4P2q%2FP2R1R1P%2F7K%20b%20-%20-%204%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k1r3%2F1p3p1p%2Fp1nB1n2%2F5qp1%2F3P4%2F1N3BPb%2FPPP2P1P%2FR2Q2K1%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lX7OI](https://lichess.org/training/lX7OI), rated `1526`.
-The game is `Al_Martins (1784)` vs `Mariasar (1841)` at `30+20` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/gCj4EolT),
-and the first solution move is `h3e3`.
+It is `Black to move` in puzzle [TZYbw](https://lichess.org/training/TZYbw), rated `1328`.
+The game is `borjahdez17 (2080)` vs `hassansabbaah (2020)` at `10+0` time control,
+with themes `deflection, middlegame, crushing, long, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/mJp3o998),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
