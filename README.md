@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fp3r1p1%2F2p2pRp%2F5P1P%2FP1Q1PPR1%2F1P1P3K%2F2P2q2%2F2b5%20w%20-%20-%2011%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp2r2pp%2F1p1Nrnp1%2F8%2F3b4%2F7P%2FP4BP1%2F2R2R1K%20w%20-%20-%208%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SirRs](https://lichess.org/training/SirRs), rated `1392`.
-The game is `mozdnx (1925)` vs `LexaPuma34 (1918)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/FgtVDqx7),
-and the first solution move is `g6h6`.
+It is `White to move` in puzzle [hpNjO](https://lichess.org/training/hpNjO), rated `1446`.
+The game is `gilmarmoraesbjj (1600)` vs `NRRP (1592)` at `3+2` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/16hXAZJi),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
