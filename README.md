@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3Q1rk1%2F2R3pp%2F4b3%2F1P2p3%2F2n4R%2F4P1P1%2F5r1P%2F6K1%20b%20-%20-%202%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=Q7%2Fp1p3pk%2F6rp%2F2P2p2%2F1P2pP2%2F4P2q%2FP2R1R1P%2F7K%20b%20-%20-%204%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [o7cYm](https://lichess.org/training/o7cYm), rated `1567`.
-The game is `Dobby2011 (2310)` vs `ahmt_gdik (1917)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, cornerMate`. You can [view the full game](https://lichess.org/67JYufnC),
-and the first solution move is `f2f1`.
+It is `Black to move` in puzzle [lX7OI](https://lichess.org/training/lX7OI), rated `1526`.
+The game is `Al_Martins (1784)` vs `Mariasar (1841)` at `30+20` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/gCj4EolT),
+and the first solution move is `h3e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
