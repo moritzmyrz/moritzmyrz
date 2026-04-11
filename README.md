@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5R1p%2F2n3pk%2F8%2F2B1PPP1%2F7P%2Fp5K1%2Fr7%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fppn5%2F2pb4%2F5pPk%2F2PP1P2%2F2B1rRK1%2FPP2r3%2F5R2%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ANbXm](https://lichess.org/training/ANbXm), rated `1445`.
-The game is `Fantastic_power06 (2756)` vs `NIndja64 (2867)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, short, crushing, attraction, promotion`. You can [view the full game](https://lichess.org/JfDpFSAg),
-and the first solution move is `a1g1`.
+It is `White to move` in puzzle [0SsfF](https://lichess.org/training/0SsfF), rated `1586`.
+The game is `Kusudaaina030 (2607)` vs `omersaka (2436)` at `3+0` time control,
+with themes `middlegame, crushing, skewer, long`. You can [view the full game](https://lichess.org/4bQq0zae),
+and the first solution move is `f1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
