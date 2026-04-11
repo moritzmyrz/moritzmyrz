@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k5r%2Fp2r2b1%2FPp1pb2p%2FqNp2p2%2FP1P5%2F3P4%2F6Qp%2F1R3K1B%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k1b5%2F2B5%2F3p4%2F1P1Pp3%2FP1P1Pp2%2F5PQp%2F4K3%2F8%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CAL6F](https://lichess.org/training/CAL6F), rated `1409`.
-The game is `rinprocs2 (2005)` vs `mschawda (1938)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/UbtgDdsK),
-and the first solution move is `g2a8`.
+It is `Black to move` in puzzle [8WM89](https://lichess.org/training/8WM89), rated `1603`.
+The game is `raycharles2 (1900)` vs `ghazaryan86 (1640)` at `15+1` time control,
+with themes `endgame, advancedPawn, advantage, attraction, promotion, deflection, veryLong`. You can [view the full game](https://lichess.org/kzGT5HfZ),
+and the first solution move is `f4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
