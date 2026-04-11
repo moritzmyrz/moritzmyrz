@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1b5p%2FpN1r4%2FP1Q1q1p1%2F1p2p3%2F1P2P2P%2F5PP1%2F2R3K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpppqn1b1%2F3pN1pp%2F3P4%2F2P3P1%2F5Q2%2FPP5P%2F5RK1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Gj3tN](https://lichess.org/training/Gj3tN), rated `1295`.
-The game is `SoLaeuftDerHase (2176)` vs `poniro (2187)` at `3+2` time control,
-with themes `deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/mWdhZoJo),
-and the first solution move is `d6d1`.
+It is `White to move` in puzzle [8eae9](https://lichess.org/training/8eae9), rated `1320`.
+The game is `Morfine44 (2078)` vs `Kami01 (2211)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/1eHx8DDf),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
