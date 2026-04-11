@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fpp4pk%2F2p3p1%2F3pK3%2F3P3P%2F5NP1%2F8%2F2q5%20b%20-%20-%205%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3Q4%2Fpk2B3%2F1pq1b3%2F1N6%2F2P5%2FPK4PP%2F8%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cVHEL](https://lichess.org/training/cVHEL), rated `1324`.
-The game is `JuRaQueen (2033)` vs `LParreira (2044)` at `5+0` time control,
-with themes `endgame, crushing, skewer, long`. You can [view the full game](https://lichess.org/mU58gAz0),
-and the first solution move is `c1e3`.
+It is `Black to move` in puzzle [W2wmT](https://lichess.org/training/W2wmT), rated `1387`.
+The game is `Skayrex (2364)` vs `A_Tsarkov (2352)` at `3+0` time control,
+with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/N3aJqe3y),
+and the first solution move is `c5c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
