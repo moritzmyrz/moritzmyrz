@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fpb3p1p%2F1pn1pnp1%2F3pN3%2F1B6%2FP3R3%2F1PQ2PPP%2F1B1R2K1%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2Fpp4pp%2F2pb4%2F3P4%2F6n1%2F4PN1q%2FPP1N1P2%2FR1BQRBK1%20b%20-%20-%203%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jOPSW](https://lichess.org/training/jOPSW), rated `1378`.
-The game is `oyuyu (1879)` vs `ishidasora (1894)` at `10+0` time control,
-with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/ouNbKGFq),
-and the first solution move is `e5c6`.
+It is `Black to move` in puzzle [32Y3e](https://lichess.org/training/32Y3e), rated `1363`.
+The game is `PiciAlChianti (2101)` vs `pallino (2076)` at `5+0` time control,
+with themes `deflection, mateIn2, short, opening, kingsideAttack`. You can [view the full game](https://lichess.org/Qly04oe8),
+and the first solution move is `d6h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
