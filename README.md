@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fppn5%2F2pb4%2F5pPk%2F2PP1P2%2F2B1rRK1%2FPP2r3%2F5R2%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F2qnBpbp%2Fp1p3p1%2F1p6%2F4P3%2F2NR1Q2%2FPPP2PPP%2F5RK1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0SsfF](https://lichess.org/training/0SsfF), rated `1586`.
-The game is `Kusudaaina030 (2607)` vs `omersaka (2436)` at `3+0` time control,
-with themes `middlegame, crushing, skewer, long`. You can [view the full game](https://lichess.org/4bQq0zae),
-and the first solution move is `f1h1`.
+It is `Black to move` in puzzle [80eRL](https://lichess.org/training/80eRL), rated `1349`.
+The game is `HamzehBahrami (1796)` vs `Sobotka_Frank (1829)` at `15+15` time control,
+with themes `middlegame, fork, short, advantage`. You can [view the full game](https://lichess.org/y17Zdo4E),
+and the first solution move is `d7e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
