@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6kr%2F1b1nbqp1%2Fp2pNp2%2F1p2pP2%2F4P3%2F4BBQ1%2FPPr4P%2FR5RK%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2Fp5p1%2F1p1b4%2F3kp2P%2FPP2R1P1%2F2P2r2%2F2KN4%20w%20-%20-%204%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OvIfH](https://lichess.org/training/OvIfH), rated `1379`.
-The game is `Loton (1921)` vs `bricosor (1901)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/54zMAVwS),
-and the first solution move is `g3g7`.
+It is `White to move` in puzzle [IMwKm](https://lichess.org/training/IMwKm), rated `1337`.
+The game is `AndreiMacovei (2760)` vs `Kelj (2846)` at `3+0` time control,
+with themes `endgame, master, short, crushing`. You can [view the full game](https://lichess.org/UWALIqP9),
+and the first solution move is `c2c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
