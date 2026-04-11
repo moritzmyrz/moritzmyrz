@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1pn1q1p1%2Fpn2rp1p%2F8%2FP7%2F2N1Q3%2F1P1NRPPP%2F4R1K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1N6%2F2p1b1kp%2FQ2p2p1%2F3Pp3%2F8%2F2P1KP2%2FP6q%2F4R3%20b%20-%20-%202%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AbKDH](https://lichess.org/training/AbKDH), rated `1544`.
-The game is `sherwa (1618)` vs `RaTaTuI7 (1637)` at `5+3` time control,
-with themes `discoveredAttack, crushing, long, middlegame`. You can [view the full game](https://lichess.org/FaX08nGh),
-and the first solution move is `e3b6`.
+It is `Black to move` in puzzle [m1PqM](https://lichess.org/training/m1PqM), rated `1371`.
+The game is `acharyahemanta (1530)` vs `Adventskalender (1506)` at `10+0` time control,
+with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/YpsZFItP),
+and the first solution move is `e7g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
