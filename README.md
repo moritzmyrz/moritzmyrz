@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FppQ2ppp%2F8%2F8%2F3q4%2F6P1%2FPP1r3P%2FK3RR2%20w%20-%20-%204%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p4r1%2Fp1k4p%2F7R%2FP1B5%2F1P5n%2F5P2%2F5K2%20b%20-%20-%201%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YnOJL](https://lichess.org/training/YnOJL), rated `1442`.
-The game is `Diego12_more710 (1576)` vs `NoWayThisWorks (1589)` at `3+0` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/HRZ5w972),
-and the first solution move is `c7f7`.
+It is `Black to move` in puzzle [brFf0](https://lichess.org/training/brFf0), rated `1451`.
+The game is `boris_hren_popadesh (1813)` vs `Cap-Orang-Tua (1820)` at `3+2` time control,
+with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/cF8HcsOv),
+and the first solution move is `g7g1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
