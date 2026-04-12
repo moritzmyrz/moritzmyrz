@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fp3npbp%2F2p1P1p1%2F8%2F4P3%2F1Bp5%2FPPP3PP%2FR1BQK2R%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4R3%2F3p1Qpk%2F2pP3p%2FP4P2%2F3q4%2F5KP1%2F7r%20b%20-%20-%202%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3qrQw](https://lichess.org/training/3qrQw), rated `1445`.
-The game is `beanjokes (1574)` vs `CurlerInTheCorner (1626)` at `3+2` time control,
-with themes `mateIn2, advancedPawn, middlegame, short, attackingF2F7`. You can [view the full game](https://lichess.org/8bqLqkbV),
-and the first solution move is `e6f7`.
+It is `Black to move` in puzzle [m3hhT](https://lichess.org/training/m3hhT), rated `1539`.
+The game is `PawnIRL123 (2393)` vs `StoreySniper (2497)` at `3+0` time control,
+with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/2HsQsmPy),
+and the first solution move is `h1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
