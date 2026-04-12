@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1pq1b2p%2Fp3p1p1%2FP2p4%2F1P1B2n1%2F2PQ1N1P%2F5PP1%2FR4RK1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2Fpp6%2F2q1p3%2F2P2n2%2FN2P1P2%2F1P2n3%2FP1P1Q1PP%2FR5RK%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fMKWv](https://lichess.org/training/fMKWv), rated `1429`.
-The game is `HandsomeMoney (1843)` vs `Arman01kz (1849)` at `10+5` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/wgFv2QZk),
-and the first solution move is `f8f3`.
+It is `Black to move` in puzzle [D9Iue](https://lichess.org/training/D9Iue), rated `1338`.
+The game is `zahnarztkilic (1640)` vs `kirill95qww (1667)` at `3+2` time control,
+with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/oJxXV3fh),
+and the first solution move is `f5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
