@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpb1p1pp1%2F1pnn3p%2F2p1N3%2F5PPq%2F2PBR3%2FP1QN3P%2F4R1K1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1q3p2%2F4p2p%2Fpp1p4%2F3P1Qr1%2FP1P4P%2F1P3P2%2FR6K%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PFyjN](https://lichess.org/training/PFyjN), rated `1314`.
-The game is `Dgitaro58 (2078)` vs `kingkroool (2069)` at `3+0` time control,
-with themes `middlegame, kingsideAttack, discoveredAttack, mateIn4, deflection, veryLong`. You can [view the full game](https://lichess.org/gclnnwTz),
-and the first solution move is `d3h7`.
+It is `White to move` in puzzle [3XFJi](https://lichess.org/training/3XFJi), rated `1537`.
+The game is `ThRlV (1954)` vs `tunacem (2245)` at `3+0` time control,
+with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/959Wcknm),
+and the first solution move is `f4h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
