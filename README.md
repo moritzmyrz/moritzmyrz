@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1q3p2%2F4p2p%2Fpp1p4%2F3P1Qr1%2FP1P4P%2F1P3P2%2FR6K%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FppQ2ppp%2F8%2F8%2F3q4%2F6P1%2FPP1r3P%2FK3RR2%20w%20-%20-%204%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3XFJi](https://lichess.org/training/3XFJi), rated `1537`.
-The game is `ThRlV (1954)` vs `tunacem (2245)` at `3+0` time control,
-with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/959Wcknm),
-and the first solution move is `f4h6`.
+It is `White to move` in puzzle [YnOJL](https://lichess.org/training/YnOJL), rated `1442`.
+The game is `Diego12_more710 (1576)` vs `NoWayThisWorks (1589)` at `3+0` time control,
+with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/HRZ5w972),
+and the first solution move is `c7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
