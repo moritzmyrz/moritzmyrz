@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppp1qpp1%2F3p1n1p%2F2bP4%2F2Bp4%2F3P1Q1P%2FPPPK1PP1%2FR1B1R3%20b%20-%20-%203%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kq3r%2Fr1p1n1Q1%2Fp1NbP3%2F1p6%2F4p3%2F2P5%2FPP3PPP%2FR1BR2K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2cwKl](https://lichess.org/training/2cwKl), rated `1299`.
-The game is `Uriel1174 (1888)` vs `SCHIZOPHRENIC_ENERGY (2066)` at `20+10` time control,
-with themes `middlegame, advantage, attraction, deflection, veryLong`. You can [view the full game](https://lichess.org/BZG76v1l),
-and the first solution move is `c5b4`.
+It is `Black to move` in puzzle [1RqDA](https://lichess.org/training/1RqDA), rated `1526`.
+The game is `LaloFernandz (1642)` vs `c23h30n2o (1678)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/ElgpGcxT),
+and the first solution move is `d6h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
