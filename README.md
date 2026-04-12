@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4b3%2F3pQ2p%2F2pPq3%2FP7%2F8%2F4K3%2F8%20w%20-%20-%2015%2056&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqr1k1%2F1pp2pbp%2Fp2p1np1%2F1N1P1nB1%2F8%2F2P2N1P%2FPP1Q1PP1%2FR3R1K1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ygYRL](https://lichess.org/training/ygYRL), rated `1479`.
-The game is `AAMS (1753)` vs `Ahmdnjr12512 (2180)` at `3+0` time control,
-with themes `veryLong, endgame, advancedPawn, master, crushing, quietMove`. You can [view the full game](https://lichess.org/F1JyGgPl),
-and the first solution move is `e6e5`.
+It is `White to move` in puzzle [I9Ou6](https://lichess.org/training/I9Ou6), rated `1465`.
+The game is `kiriosUkraine (1601)` vs `GFHDKAHFKXJBQKF (1580)` at `10+5` time control,
+with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/6uT0B75F),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
