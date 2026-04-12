@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fppp3pp%2F7r%2F4p1q1%2F4Pr2%2FP1Q2P1P%2F1PP2P1K%2F3R2R1%20b%20-%20-%2018%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqrk2%2Fpp4p1%2F2n1p3%2F2bpP1PQ%2F8%2F2P5%2FPP1N1PP1%2FR3K2R%20w%20KQ%20-%203%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [nA3FC](https://lichess.org/training/nA3FC), rated `1605`.
-The game is `khalid-a-m-y (2039)` vs `Everrang (2208)` at `3+0` time control,
-with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/DGpnfZkr),
-and the first solution move is `h6h3`.
+It is `White to move` in puzzle [XMH4O](https://lichess.org/training/XMH4O), rated `1543`.
+The game is `Zedilla (1647)` vs `psih0kid (1661)` at `5+3` time control,
+with themes `deflection, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/mYY1snvF),
+and the first solution move is `h5h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
