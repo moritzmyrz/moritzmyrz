@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2q2b2%2FQ3pk2%2F3p1pp1%2F1NnP4%2F2P3p1%2F8%2FPP2b1Pr%2FK3R3%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F5ppp%2F1bN5%2F1p2p3%2F2p5%2F2P2N2%2F1P3QPP%2FRB4K1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [j6HXd](https://lichess.org/training/j6HXd), rated `1332`.
-The game is `suprit (1762)` vs `IRAN-31p (1845)` at `10+0` time control,
-with themes `middlegame, short, advantage, pin`. You can [view the full game](https://lichess.org/DNPADaZJ),
-and the first solution move is `b5d6`.
+It is `Black to move` in puzzle [lczj6](https://lichess.org/training/lczj6), rated `1451`.
+The game is `Simonenko (2085)` vs `Tololin20 (2046)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/X85YIe9C),
+and the first solution move is `d8d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
