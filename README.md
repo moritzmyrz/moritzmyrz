@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqkb1r%2Fpp2n1pp%2F5p2%2F3Bp3%2F8%2F2N1P3%2FPP3PPP%2FR1BQK1NR%20w%20KQkq%20-%201%208&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1pp3pp%2F8%2Fp2Bp2P%2Fq1P3PN%2F3nB3%2Fb2R4%2FK6R%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XoFNZ](https://lichess.org/training/XoFNZ), rated `1408`.
-The game is `erm39 (1844)` vs `Nazar18 (1851)` at `10+0` time control,
-with themes `deflection, short, crushing, opening, discoveredAttack`. You can [view the full game](https://lichess.org/fcxiacVD),
-and the first solution move is `d5f7`.
+It is `White to move` in puzzle [ERx4h](https://lichess.org/training/ERx4h), rated `1295`.
+The game is `sagem1200 (2233)` vs `Good_Mommys_Boy (2273)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/tfXTLBSC),
+and the first solution move is `h4g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
