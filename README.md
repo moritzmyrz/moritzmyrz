@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2Fp1Np3q%2F1pbP3p%2F2r5%2F5Q2%2FP5P1%2F1PP4P%2F1K6%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Qrk%2F2p5%2F7p%2F8%2F8%2F3p1pP1%2F2q2P1P%2F3R2K1%20w%20-%20-%203%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PH0oZ](https://lichess.org/training/PH0oZ), rated `1589`.
-The game is `spiral-king (1797)` vs `nurmuhammad123 (1809)` at `10+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/G0R4v8P0),
-and the first solution move is `f4f8`.
+It is `White to move` in puzzle [c388a](https://lichess.org/training/c388a), rated `1410`.
+The game is `extermo44 (2508)` vs `tobikxz (2394)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/dBMdfMbV),
+and the first solution move is `f8h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
