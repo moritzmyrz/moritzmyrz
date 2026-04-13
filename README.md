@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1r1k%2Fpp2b1pp%2F2n5%2F2p3B1%2F2BpQN2%2F8%2FPPP2PPP%2FR3K2R%20w%20KQ%20-%203%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1pp2p2%2F1pnp1Bb1%2F1B2p3%2FQP2P3%2FP1PP1p1q%2F5P2%2FR4RK1%20w%20kq%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cZxCL](https://lichess.org/training/cZxCL), rated `1587`.
-The game is `El4in (2065)` vs `YaroslavYuzhnyi (2001)` at `3+0` time control,
-with themes `clearance, mateIn2, middlegame, short, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/EqqpuOrm),
-and the first solution move is `f4g6`.
+It is `White to move` in puzzle [U2aU9](https://lichess.org/training/U2aU9), rated `1547`.
+The game is `Umesh20121991 (2154)` vs `bornik123 (1827)` at `3+0` time control,
+with themes `veryLong, middlegame, fork, mateIn4`. You can [view the full game](https://lichess.org/fzsWwwBv),
+and the first solution move is `b5c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
