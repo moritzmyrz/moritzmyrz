@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F4r2p%2Fp3p1p1%2F2p5%2F2pn3q%2FP6B%2F1P3R2%2F1K2Q1R1%20w%20-%20-%204%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F1p2n1pp%2Fp7%2F1q1Rp3%2F5p2%2FP1P2P2%2F1PQ3PP%2F1N3R1K%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AVSqZ](https://lichess.org/training/AVSqZ), rated `1424`.
-The game is `pankr (1765)` vs `wow888 (1852)` at `10+0` time control,
-with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/aMpfCZDW),
-and the first solution move is `f2f8`.
+It is `Black to move` in puzzle [JWEEO](https://lichess.org/training/JWEEO), rated `1435`.
+The game is `JoaoG2004 (2199)` vs `Abs001Presh (2193)` at `3+0` time control,
+with themes `middlegame, oneMove, hangingPiece, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/2Rceay72),
+and the first solution move is `b5f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
