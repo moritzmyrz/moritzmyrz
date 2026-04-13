@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpp3ppp%2F8%2F5b2%2F3P4%2FP4P2%2F1P2B1PP%2F2R1K2R%20b%20K%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fpn3ppp%2F1p1b1q2%2F2p5%2FP1P2B2%2F5QP1%2F5PBP%2FR2R2K1%20w%20-%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9jwAD](https://lichess.org/training/9jwAD), rated `1419`.
-The game is `oktabadi (1967)` vs `willthal (1958)` at `15+15` time control,
-with themes `endgame, short, pin, advantage`. You can [view the full game](https://lichess.org/EQrxVm8x),
-and the first solution move is `f5d3`.
+It is `White to move` in puzzle [nTWH9](https://lichess.org/training/nTWH9), rated `1479`.
+The game is `ConfusedEarthDweller (1630)` vs `Mezcal80 (1615)` at `3+0` time control,
+with themes `middlegame, advantage, fork, long, capturingDefender, discoveredAttack`. You can [view the full game](https://lichess.org/uk4eu4nv),
+and the first solution move is `f4d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
