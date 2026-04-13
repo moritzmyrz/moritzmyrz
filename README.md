@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpp3p2%2F2b1pB1p%2F3pPnp1%2F3q2QN%2F8%2FP4PPP%2FR4RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2FRbp2pp1%2F1p1q3p%2F3P4%2F1bQ1PPP1%2F3N2BP%2F6K1%2F7R%20b%20-%20-%202%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [U4lIp](https://lichess.org/training/U4lIp), rated `1369`.
-The game is `StefanLinde (1693)` vs `Lukaszuro (1687)` at `10+5` time control,
-with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/PIv04rLS),
-and the first solution move is `h4f5`.
+It is `Black to move` in puzzle [CCtOe](https://lichess.org/training/CCtOe), rated `1606`.
+The game is `satnam_bundi (2124)` vs `MonsieurPieuvre (2085)` at `10+0` time control,
+with themes `middlegame, short, crushing, sacrifice, pin`. You can [view the full game](https://lichess.org/x0zKOHvw),
+and the first solution move is `e8e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
