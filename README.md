@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fp4pk1%2F2p5%2F5PBP%2F3rN3%2F8%2FPP4K1%2F8%20w%20-%20-%205%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=b2R1rk1%2F5ppp%2FQ1p5%2FN7%2F4p3%2F1Pq1P3%2FP1P2PPP%2FR5K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tzhit](https://lichess.org/training/tzhit), rated `1503`.
-The game is `serg34rus (1689)` vs `sinergio (1756)` at `10+5` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/tC5RbfpD),
-and the first solution move is `g5f6`.
+It is `Black to move` in puzzle [3MYcz](https://lichess.org/training/3MYcz), rated `1371`.
+The game is `daniilvaskivskyi (1802)` vs `mamadhadi136800 (1546)` at `3+2` time control,
+with themes `middlegame, advantage, long, hangingPiece`. You can [view the full game](https://lichess.org/pBTxY8DA),
+and the first solution move is `c3a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
