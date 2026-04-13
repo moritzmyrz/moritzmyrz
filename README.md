@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fp4Np1%2F7p%2F8%2F1Pk2P2%2F3p2P1%2F3R2P1%2F6K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4Q3%2F2P3pk%2Fp6p%2F5P2%2F5PKP%2F8%2F2q5%20b%20-%20-%202%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [th0oG](https://lichess.org/training/th0oG), rated `1540`.
-The game is `Black_Rider_841994 (1799)` vs `lawyerTK (1827)` at `10+0` time control,
-with themes `endgame, advancedPawn, long, advantage`. You can [view the full game](https://lichess.org/Cw5hyllI),
-and the first solution move is `c4c3`.
+It is `Black to move` in puzzle [MS5fm](https://lichess.org/training/MS5fm), rated `1617`.
+The game is `Karesz86 (1682)` vs `Leonado20 (1707)` at `3+0` time control,
+with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/jCWM312X),
+and the first solution move is `c1g1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
