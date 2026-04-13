@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2R4p%2FP7%2F2N2k1K%2F4nP2%2Fr7%2F8%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fp4Np1%2F7p%2F8%2F1Pk2P2%2F3p2P1%2F3R2P1%2F6K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PsQmu](https://lichess.org/training/PsQmu), rated `1325`.
-The game is `Sandro88 (2348)` vs `Masali007 (2264)` at `3+0` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/vKDGiImE),
-and the first solution move is `a2h2`.
+It is `Black to move` in puzzle [th0oG](https://lichess.org/training/th0oG), rated `1540`.
+The game is `Black_Rider_841994 (1799)` vs `lawyerTK (1827)` at `10+0` time control,
+with themes `endgame, advancedPawn, long, advantage`. You can [view the full game](https://lichess.org/Cw5hyllI),
+and the first solution move is `c4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
