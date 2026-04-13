@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3Q1pb1%2F1p2r1p1%2Fp4q1p%2F3p3P%2FP2R2P1%2F5P2%2F3R2K1%20b%20-%20-%202%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpp3p2%2F2b1pB1p%2F3pPnp1%2F3q2QN%2F8%2FP4PPP%2FR4RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [F0sxY](https://lichess.org/training/F0sxY), rated `1414`.
-The game is `ManuelLavarden (2030)` vs `Kipchoge71 (2121)` at `3+0` time control,
-with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/mdZVS96y),
-and the first solution move is `e6e1`.
+It is `White to move` in puzzle [U4lIp](https://lichess.org/training/U4lIp), rated `1369`.
+The game is `StefanLinde (1693)` vs `Lukaszuro (1687)` at `10+5` time control,
+with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/PIv04rLS),
+and the first solution move is `h4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
