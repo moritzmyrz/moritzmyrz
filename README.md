@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1r1k%2F2pbn2p%2Fp2p3P%2F1p1Pp3%2F1P2Pp1N%2FP4P2%2F2P5%2F2KR1BQR%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3Q1pb1%2F1p2r1p1%2Fp4q1p%2F3p3P%2FP2R2P1%2F5P2%2F3R2K1%20b%20-%20-%202%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ELBiE](https://lichess.org/training/ELBiE), rated `1257`.
-The game is `Den135724 (2021)` vs `bekusmad (2032)` at `10+5` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/WBXPj0GE),
-and the first solution move is `g1g7`.
+It is `Black to move` in puzzle [F0sxY](https://lichess.org/training/F0sxY), rated `1414`.
+The game is `ManuelLavarden (2030)` vs `Kipchoge71 (2121)` at `3+0` time control,
+with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/mdZVS96y),
+and the first solution move is `e6e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
