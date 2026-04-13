@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpbp3p1%2F1p2p2p%2F2n1B1q1%2F2P5%2F2P2Q2%2FP1B3PP%2F5RK1%20w%20-%20-%203%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1b3p2%2Fp3nQp1%2F1q2P3%2F1P1p3N%2FP6P%2F6P1%2F2r2RK1%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [i1MuC](https://lichess.org/training/i1MuC), rated `1549`.
-The game is `parva69h (1625)` vs `RADETOT (1693)` at `5+3` time control,
-with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack, pillsburysMate`. You can [view the full game](https://lichess.org/pl5jeJdl),
-and the first solution move is `f3f7`.
+It is `White to move` in puzzle [JeuLq](https://lichess.org/training/JeuLq), rated `1355`.
+The game is `mhmdmgdy (1762)` vs `Joker2703 (2036)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/XXP0X0fm),
+and the first solution move is `f6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
