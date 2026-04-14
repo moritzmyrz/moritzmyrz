@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fr6k%2F4p1Rp%2F1p1n1p2%2F2pP3P%2F2P5%2Fr2BKP2%2F6R1%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=q2b2k1%2F1b1p1pr1%2F3Np2Q%2F1P2P2p%2F4P1p1%2F1B6%2F5PPP%2F2R3K1%20b%20-%20-%205%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [oJknf](https://lichess.org/training/oJknf), rated `1282`.
-The game is `JKJENSEN (2179)` vs `Ramil_husnullin (2185)` at `5+0` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/5Sb5cPQK),
-and the first solution move is `g6h6`.
+It is `Black to move` in puzzle [ptoNy](https://lichess.org/training/ptoNy), rated `1477`.
+The game is `FromCMtoGM (2300)` vs `jimmymatoma (2309)` at `3+0` time control,
+with themes `short, crushing, fork, interference, master, middlegame`. You can [view the full game](https://lichess.org/UyJ7H8FB),
+and the first solution move is `d8g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
