@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp4Rp1%2F5r2%2F3B4%2F4P1Kp%2F2P1Pn1P%2FPP6%2F8%20b%20-%20-%203%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2Fppp2ppp%2F4b2n%2F2bBP3%2F8%2F5N1P%2FPB3PP1%2FRN3RK1%20w%20-%20-%201%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0GyJS](https://lichess.org/training/0GyJS), rated `1455`.
-The game is `alnilam7 (2332)` vs `Rock_Maninoff (2319)` at `3+2` time control,
-with themes `endgame, master, short, masterVsMaster, advantage, fork`. You can [view the full game](https://lichess.org/XFWjaUrq),
-and the first solution move is `f3e5`.
+It is `White to move` in puzzle [Yomey](https://lichess.org/training/Yomey), rated `1339`.
+The game is `Superdorian (1999)` vs `darknight143 (1988)` at `10+0` time control,
+with themes `opening, advantage, trappedPiece, short`. You can [view the full game](https://lichess.org/H4Bjq2f9),
+and the first solution move is `d5b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
