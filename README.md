@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F4pkPp%2F8%2F4K1RP%2Fr7%2F8%20b%20-%20-%202%2055&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4Q1pp%2F1n2p3%2F1B2q3%2F2P5%2F5R1P%2F6P1%2Fr3B2K%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8RxzD](https://lichess.org/training/8RxzD), rated `1455`.
-The game is `Vladd6566 (1930)` vs `NikBr (1961)` at `3+0` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/ZdO4NyGW),
-and the first solution move is `a2a3`.
+It is `Black to move` in puzzle [ifsKO](https://lichess.org/training/ifsKO), rated `1310`.
+The game is `soltani1361 (1702)` vs `Majikz (1719)` at `15+10` time control,
+with themes `mateIn2, middlegame, short, hangingPiece`. You can [view the full game](https://lichess.org/eZOXiqfN),
+and the first solution move is `a1e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
