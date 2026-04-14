@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F4p1k1%2F3p2p1%2Fp3p2p%2FP3P3%2F1P3P2%2F2R2qPP%2FN2Q1b1K%20b%20-%20-%204%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp4Rp1%2F5r2%2F3B4%2F4P1Kp%2F2P1Pn1P%2FPP6%2F8%20b%20-%20-%203%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NlCm6](https://lichess.org/training/NlCm6), rated `1391`.
-The game is `evzen_jco (2252)` vs `Korol_vini (2259)` at `10+0` time control,
-with themes `endgame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/i5o8saw6),
-and the first solution move is `f1g2`.
+It is `Black to move` in puzzle [0GyJS](https://lichess.org/training/0GyJS), rated `1455`.
+The game is `alnilam7 (2332)` vs `Rock_Maninoff (2319)` at `3+2` time control,
+with themes `endgame, master, short, masterVsMaster, advantage, fork`. You can [view the full game](https://lichess.org/XFWjaUrq),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
