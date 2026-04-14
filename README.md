@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4Q1pp%2F1n2p3%2F1B2q3%2F2P5%2F5R1P%2F6P1%2Fr3B2K%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4N1k1%2FpR5R%2F2p4p%2F2rb1r2%2F8%2F6K1%2FP6P%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ifsKO](https://lichess.org/training/ifsKO), rated `1310`.
-The game is `soltani1361 (1702)` vs `Majikz (1719)` at `15+10` time control,
-with themes `mateIn2, middlegame, short, hangingPiece`. You can [view the full game](https://lichess.org/eZOXiqfN),
-and the first solution move is `a1e1`.
+It is `White to move` in puzzle [Xp41B](https://lichess.org/training/Xp41B), rated `1462`.
+The game is `Jimw99 (1932)` vs `llanas1993 (1936)` at `10+0` time control,
+with themes `exposedKing, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/SIoGAxNU),
+and the first solution move is `b7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
