@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=b4rk1%2F3R1ppp%2F4p3%2FpB2r3%2F2P1q3%2F1P6%2FP4QPP%2F5R1K%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp3pp1%2F7p%2F3r1Nb1%2F8%2F6R1%2FP1P3PP%2F5RK1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tKTVR](https://lichess.org/training/tKTVR), rated `1478`.
-The game is `SaifeRahman566 (1903)` vs `Thedark_pawn2 (1951)` at `3+2` time control,
-with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/tA5KJdFf),
-and the first solution move is `f2f7`.
+It is `White to move` in puzzle [KmOCU](https://lichess.org/training/KmOCU), rated `1422`.
+The game is `Dhruvil_cm (1727)` vs `GirishSolanki (1728)` at `10+5` time control,
+with themes `endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/CvRJKpAi),
+and the first solution move is `g3g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
