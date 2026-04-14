@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1p5P%2Fp1p2p2%2F8%2F8%2F2P4Q%2FPP1qp3%2F1K5R%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2F3R2pk%2Fpr2pqnp%2F5p2%2F1p6%2F1P2PQ2%2FP4PPP%2F1B1R2K1%20b%20-%20-%209%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GiRie](https://lichess.org/training/GiRie), rated `1477`.
-The game is `Sina7193 (2357)` vs `LegenDa_364 (2406)` at `3+0` time control,
-with themes `advancedPawn, short, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/14B2cxaq),
-and the first solution move is `d2d1`.
+It is `Black to move` in puzzle [Eg5sF](https://lichess.org/training/Eg5sF), rated `1381`.
+The game is `gorg1450 (1787)` vs `sativus (1652)` at `7+2` time control,
+with themes `middlegame, short, fork, crushing`. You can [view the full game](https://lichess.org/uyD8GYsd),
+and the first solution move is `g6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
