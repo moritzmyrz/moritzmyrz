@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1b3prp%2F1p1p1Q2%2FpPp5%2FP1P1P3%2F3pqP2%2F6B1%2F5KRR%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F1p3p2%2Fp2Q4%2FP2P2Np%2F2P2K2%2F4r3%2F2q3PP%2F1R6%20b%20-%20-%202%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XzyWW](https://lichess.org/training/XzyWW), rated `1318`.
-The game is `bakiashura (2391)` vs `kakovski (2243)` at `3+0` time control,
-with themes `attraction, long, mateIn3, sacrifice, kingsideAttack, pin, master, middlegame`. You can [view the full game](https://lichess.org/A7xwi5fc),
-and the first solution move is `h1h7`.
+It is `Black to move` in puzzle [yf4Hu](https://lichess.org/training/yf4Hu), rated `1612`.
+The game is `Dmitrenko_NI (2204)` vs `Drummer_33 (2198)` at `3+0` time control,
+with themes `veryLong, endgame, crushing, skewer`. You can [view the full game](https://lichess.org/TnxTVvZg),
+and the first solution move is `c2f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
