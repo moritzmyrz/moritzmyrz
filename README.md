@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q3k%2F2p3R1%2Fpp2p2P%2F4Pr2%2F3P2Qb%2F4Bb2%2FPPP5%2F2K5%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4r%2F1pp3R1%2F2k5%2F8%2F2P5%2F1K5p%2FP7%2F4R3%20w%20-%20-%201%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fQhfN](https://lichess.org/training/fQhfN), rated `1489`.
-The game is `BoniekNur (1814)` vs `yusin (1821)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/fA3EPnF8),
-and the first solution move is `g7h7`.
+It is `White to move` in puzzle [go42v](https://lichess.org/training/go42v), rated `1224`.
+The game is `Toxic_Moves (1928)` vs `Mart1n_P (1908)` at `3+0` time control,
+with themes `exposedKing, endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/HjFenXpP),
+and the first solution move is `e1e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
