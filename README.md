@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1nr%2F1p3pp1%2Fp2Pp2p%2F5q2%2F2p1N3%2F8%2F1P3PPP%2F2BQR1K1%20w%20kq%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7Q%2F3r1k1p%2F2p1pPp1%2F8%2FP5r1%2F5R2%2F1P5P%2F3q1R1K%20b%20-%20-%207%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [okvwR](https://lichess.org/training/okvwR), rated `1331`.
-The game is `sbarman1976 (1603)` vs `Sergjey (1575)` at `10+5` time control,
-with themes `advancedPawn, middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/TpUARGxg),
-and the first solution move is `d6d7`.
+It is `Black to move` in puzzle [Jjwko](https://lichess.org/training/Jjwko), rated `1446`.
+The game is `Nruto972 (1834)` vs `D_zain (1833)` at `5+3` time control,
+with themes `clearance, endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/1tRNvMsn),
+and the first solution move is `d1f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
