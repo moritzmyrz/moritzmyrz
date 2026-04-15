@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5n2%2Fpp1p1P2%2F2pPq1nQ%2F2P3b1%2F1P2B3%2FP5B1%2F4R1K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1b3prp%2F1p1p1Q2%2FpPp5%2FP1P1P3%2F3pqP2%2F6B1%2F5KRR%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GYMcZ](https://lichess.org/training/GYMcZ), rated `1347`.
-The game is `The_Conquerorrr (1794)` vs `mytmin (1828)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/X93T3Lv1),
-and the first solution move is `h5g6`.
+It is `White to move` in puzzle [XzyWW](https://lichess.org/training/XzyWW), rated `1318`.
+The game is `bakiashura (2391)` vs `kakovski (2243)` at `3+0` time control,
+with themes `attraction, long, mateIn3, sacrifice, kingsideAttack, pin, master, middlegame`. You can [view the full game](https://lichess.org/A7xwi5fc),
+and the first solution move is `h1h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
