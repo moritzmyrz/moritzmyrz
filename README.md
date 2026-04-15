@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1kp5%2F1p6%2Fp1p4P%2F3p2R1%2FP2P2P1%2F7r%2F4K3%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F6p1%2F3P1p2%2F5P1P%2F1QK3P1%2Fp7%2Fk4q2%20b%20-%20-%206%2079&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9AyCg](https://lichess.org/training/9AyCg), rated `1372`.
-The game is `krishnap147 (1555)` vs `Elvis79 (1532)` at `3+2` time control,
-with themes `endgame, advancedPawn, advantage, rookEndgame, long`. You can [view the full game](https://lichess.org/xxJcJb0E),
-and the first solution move is `g4h4`.
+It is `Black to move` in puzzle [6bKJY](https://lichess.org/training/6bKJY), rated `1349`.
+The game is `mitsnilloc (1892)` vs `elsant1ago (1756)` at `10+5` time control,
+with themes `exposedKing, crushing, long, defensiveMove, endgame, queenEndgame`. You can [view the full game](https://lichess.org/CtJQgzl5),
+and the first solution move is `f1f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
