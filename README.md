@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6kp%2Fpr4p1%2F2pPp3%2F4n3%2F2P5%2FP5P1%2F2K2Q2%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fp5pk%2F8%2F4p3%2F4P2q%2F8%2FPPP1n2P%2FR6K%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jXRgu](https://lichess.org/training/jXRgu), rated `1545`.
-The game is `arvinadine2009 (2173)` vs `melloman (2129)` at `3+2` time control,
-with themes `exposedKing, endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/dfkFtoMu),
-and the first solution move is `b6b1`.
+It is `Black to move` in puzzle [jiPps](https://lichess.org/training/jiPps), rated `1483`.
+The game is `Martina3glia (1624)` vs `gandesp18 (1604)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/mSk0LiWa),
+and the first solution move is `h4e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
