@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2F2q5%2Fp1b5%2F1pR4Q%2F1P2r3%2F1N4P1%2FP6P%2F5RK1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3k2%2FR4pbp%2F4R1p1%2F3p4%2F3P4%2F1Pq3PP%2F5QP1%2F6K1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XpnBu](https://lichess.org/training/XpnBu), rated `1418`.
-The game is `MFR13 (1627)` vs `carlomazzeo (1634)` at `3+2` time control,
-with themes `middlegame, discoveredCheck, long, mateIn3, sacrifice, pillsburysMate, doubleCheck`. You can [view the full game](https://lichess.org/N5Is7XSt),
-and the first solution move is `g8g3`.
+It is `Black to move` in puzzle [7lNzG](https://lichess.org/training/7lNzG), rated `1364`.
+The game is `Missoulian (1796)` vs `OCIP_12 (1748)` at `10+0` time control,
+with themes `endgame, advantage, fork, long, pin`. You can [view the full game](https://lichess.org/ARutRni6),
+and the first solution move is `g7d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
