@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4kb2%2F5p1p%2Fp2P4%2F3P3Q%2F2N5%2F8%2FPrB3rP%2F2KR3R%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5pp1%2F6q1%2Fp2rpN1Q%2F3bR3%2FP2P3P%2FR4P2%2F6K1%20w%20-%20-%202%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Bcujv](https://lichess.org/training/Bcujv), rated `1273`.
-The game is `kissou76 (2146)` vs `Pagmanov (2191)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/VsTTwr9F),
-and the first solution move is `g2c2`.
+It is `White to move` in puzzle [IafsX](https://lichess.org/training/IafsX), rated `1440`.
+The game is `Berezovsky (1853)` vs `terraco (1967)` at `10+0` time control,
+with themes `middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/4MvGGAQq),
+and the first solution move is `h5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
