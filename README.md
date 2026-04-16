@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F2p2ppp%2F8%2FpN2p3%2F2Q2n2%2FP3B3%2FP4PPP%2F3R2K1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1nqk2r%2F1bppb2p%2Fpp6%2F3P2B1%2F1P2p3%2FP5P1%2F5PBP%2FR2QK2R%20w%20KQkq%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xc4sa](https://lichess.org/training/xc4sa), rated `1354`.
-The game is `Reptiliousthe3rd (1953)` vs `fatheroligos (1905)` at `3+2` time control,
-with themes `endgame, long, mateIn3, pin, backRankMate`. You can [view the full game](https://lichess.org/HFQvtQuZ),
-and the first solution move is `d8d1`.
+It is `White to move` in puzzle [l6Vjn](https://lichess.org/training/l6Vjn), rated `1462`.
+The game is `Remzi1987 (1998)` vs `Extremism (2051)` at `10+0` time control,
+with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/bHijvQFa),
+and the first solution move is `d1h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
