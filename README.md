@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4q1k1%2Fp4pb1%2F1p3npp%2F8%2F3Bb3%2FP4N2%2F1Q2NPPP%2F6K1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4kb1r%2Fp3n1pp%2F3p1p2%2F1b2n3%2F4q3%2F1BQ1BN2%2FP4PPP%2FR5KR%20b%20k%20-%203%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aMtjJ](https://lichess.org/training/aMtjJ), rated `1280`.
-The game is `Masedko (1738)` vs `maroo156 (1722)` at `10+0` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/xpRZurbV),
-and the first solution move is `d4f6`.
+It is `Black to move` in puzzle [SpSTO](https://lichess.org/training/SpSTO), rated `1544`.
+The game is `kasibpc (1996)` vs `DynamoK4 (1862)` at `5+0` time control,
+with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/hv88uwut),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
