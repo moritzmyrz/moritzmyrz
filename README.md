@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1q3pp1%2Fp3p2p%2F8%2F1p2N3%2F8%2FPbP1QPPP%2F3R2K1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp3pp%2F2npp1q1%2F4p2n%2F1P2P2N%2FPQ1P2PP%2F1B1N1P1K%2FR4R2%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [QImfJ](https://lichess.org/training/QImfJ), rated `1288`.
-The game is `manishgarg222 (1828)` vs `ArsMir (1852)` at `15+10` time control,
-with themes `endgame, fork, short, advantage`. You can [view the full game](https://lichess.org/kGqhCbuj),
-and the first solution move is `e4d6`.
+It is `Black to move` in puzzle [iJAz6](https://lichess.org/training/iJAz6), rated `1385`.
+The game is `Bkream (1856)` vs `bimboApe (1782)` at `3+0` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/vfCOIWNQ),
+and the first solution move is `f8f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
