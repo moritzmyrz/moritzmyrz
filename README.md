@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3rbk1%2F1p3p1p%2F2p3pB%2Fp6n%2FP1BP4%2F2P2Q1P%2F1q3PP1%2F2R3K1%20w%20-%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fp5kp%2F1p1p2p1%2F2pRn3%2FP1P3B1%2F1P1R3P%2F5PPK%2F1r6%20w%20-%20-%203%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [K5bVi](https://lichess.org/training/K5bVi), rated `1332`.
-The game is `ParmellUp (1751)` vs `Nukof (1685)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/QhgwgonG),
-and the first solution move is `f3f7`.
+It is `White to move` in puzzle [UhRog](https://lichess.org/training/UhRog), rated `1446`.
+The game is `paloo (1934)` vs `AlBo1990 (1851)` at `5+5` time control,
+with themes `endgame, discoveredAttack, crushing, short`. You can [view the full game](https://lichess.org/rju4Lg8T),
+and the first solution move is `d5e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
