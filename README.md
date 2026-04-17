@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p1R1rkp%2F5bpr%2F5p2%2F2n2q2%2F5B2%2FPP2QR1P%2F7K%20w%20-%20-%202%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1q3pp1%2Fp3p2p%2F8%2F1p2N3%2F8%2FPbP1QPPP%2F3R2K1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [yhFHk](https://lichess.org/training/yhFHk), rated `1616`.
-The game is `federicoand (1938)` vs `novato1995 (1842)` at `10+0` time control,
-with themes `middlegame, crushing, attraction, long, discoveredAttack`. You can [view the full game](https://lichess.org/kqVR0MHM),
-and the first solution move is `d7f7`.
+It is `White to move` in puzzle [QImfJ](https://lichess.org/training/QImfJ), rated `1288`.
+The game is `manishgarg222 (1828)` vs `ArsMir (1852)` at `15+10` time control,
+with themes `endgame, fork, short, advantage`. You can [view the full game](https://lichess.org/kGqhCbuj),
+and the first solution move is `e4d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
