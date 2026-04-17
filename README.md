@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp3pp%2F2npp1q1%2F4p2n%2F1P2P2N%2FPQ1P2PP%2F1B1N1P1K%2FR4R2%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F3p3p%2FN1n1p3%2FP1P1P3%2F5bPP%2F2B4K%2F5qQ1%20b%20-%20-%206%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [iJAz6](https://lichess.org/training/iJAz6), rated `1385`.
-The game is `Bkream (1856)` vs `bimboApe (1782)` at `3+0` time control,
-with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/vfCOIWNQ),
-and the first solution move is `f8f2`.
+It is `Black to move` in puzzle [xdGfZ](https://lichess.org/training/xdGfZ), rated `1300`.
+The game is `TooOld4This (2004)` vs `miguelh1022 (1954)` at `5+5` time control,
+with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/WR7PqSxu),
+and the first solution move is `f1e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
