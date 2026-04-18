@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p3rp1%2Fp1n1p3%2F2p1p1R1%2FP3P1N1%2F2P4P%2F1r3PR1%2F7K%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4rk%2F1b3ppn%2F2p1Pq1p%2Fpp6%2F5N2%2F3P2QP%2FPP3PP1%2FR4RK1%20w%20-%20-%201%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [uHyaZ](https://lichess.org/training/uHyaZ), rated `1356`.
-The game is `SgtMth (1739)` vs `SS_Victor (1713)` at `10+0` time control,
-with themes `endgame, short, crushing, pin`. You can [view the full game](https://lichess.org/xVPS54pT),
-and the first solution move is `g4h6`.
+It is `White to move` in puzzle [d4Err](https://lichess.org/training/d4Err), rated `1478`.
+The game is `Ahmedmostafa0011 (1802)` vs `dv-22 (1798)` at `10+0` time control,
+with themes `advancedPawn, middlegame, advantage, long, kingsideAttack`. You can [view the full game](https://lichess.org/6R8AsfWu),
+and the first solution move is `e6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
