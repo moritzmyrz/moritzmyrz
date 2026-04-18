@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp2ppB1%2F3p2p1%2F8%2F2PqP1nQ%2F2N3P1%2FPP3PB1%2FR3K2R%20b%20KQ%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F6p1%2F5k1p%2F5P2%2F6P1%2F1RK4P%2F8%2F8%20b%20-%20-%200%2060&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2lyhf](https://lichess.org/training/2lyhf), rated `1354`.
-The game is `ZenmodeOP (2003)` vs `Miles_MacCall (2009)` at `3+0` time control,
-with themes `middlegame, fork, long, mateIn3, attackingF2F7`. You can [view the full game](https://lichess.org/SzaoxrPV),
-and the first solution move is `d4f2`.
+It is `Black to move` in puzzle [W1KuO](https://lichess.org/training/W1KuO), rated `1443`.
+The game is `marcdavi-es (1686)` vs `Mjissa97 (1683)` at `10+5` time control,
+with themes `endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/n1pzUy3T),
+and the first solution move is `b8b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
