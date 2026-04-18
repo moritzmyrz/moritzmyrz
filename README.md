@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fppb3p1%2F5q2%2F1b1p3Q%2F3Pn3%2F2P1B2R%2FPP4PP%2F4R1K1%20b%20-%20-%206%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp2r2p%2F6p1%2F1P1nB3%2FP1qp1P2%2F2p2Q1P%2F6P1%2F2RR2K1%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [SQk10](https://lichess.org/training/SQk10), rated `1426`.
-The game is `kreshtar (2106)` vs `SveinDa (2046)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, operaMate, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/Etlx4juy),
-and the first solution move is `f6f1`.
+It is `White to move` in puzzle [BRVQ4](https://lichess.org/training/BRVQ4), rated `1356`.
+The game is `lagunov (2301)` vs `caranx (2290)` at `3+2` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/l0QuyHT2),
+and the first solution move is `d1d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
