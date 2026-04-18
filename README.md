@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F2p2r1p%2Fp3P1p1%2F1p1p4%2F1P1Ppb2%2F2P5%2FP2B1RPP%2FR5K1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp3brpp%2F8%2F3QP3%2F5q2%2F1P5P%2FP4PP1%2F2R3K1%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [nLj83](https://lichess.org/training/nLj83), rated `1291`.
-The game is `Voin55115 (2004)` vs `Vladimirrostov (1673)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/4gEaCL6p),
-and the first solution move is `f4h2`.
+It is `White to move` in puzzle [ozssl](https://lichess.org/training/ozssl), rated `1391`.
+The game is `mahak94 (1740)` vs `masenkogohan (1710)` at `5+3` time control,
+with themes `endgame, attraction, long, mateIn3, sacrifice, pin`. You can [view the full game](https://lichess.org/frH0vXcM),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
