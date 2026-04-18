@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2F5pbp%2Fp3b1p1%2F1pB1p3%2F4P3%2F3P3P%2FPq3PB1%2F2RQ1RK1%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2Fp6p%2F1p2Q3%2F6P1%2F3P3P%2F2rq4%2FPP6%2FK4R1R%20b%20-%20-%205%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5gNPL](https://lichess.org/training/5gNPL), rated `1533`.
-The game is `Mamontov-Sasha (1941)` vs `CaptainRRS (2022)` at `10+0` time control,
-with themes `advantage, short, trappedPiece, middlegame`. You can [view the full game](https://lichess.org/avJfoPHP),
-and the first solution move is `c1c2`.
+It is `Black to move` in puzzle [bQpHx](https://lichess.org/training/bQpHx), rated `1385`.
+The game is `CLAT22 (2230)` vs `GalenRupp (2233)` at `3+2` time control,
+with themes `endgame, master, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/5JczWxdi),
+and the first solution move is `d3f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
