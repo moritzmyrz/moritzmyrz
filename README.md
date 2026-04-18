@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R1bqr1k1%2F3n1p2%2F1p2p3%2F1Np5%2F2P3nP%2F2BP4%2F4PPB1%2FQ4RK1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1krN4%2F1p1Q4%2Fp2b4%2F3p4%2F3Pb3%2F2P3K1%2FP4P1P%2Fq6R%20w%20-%20-%208%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3WDqh](https://lichess.org/training/3WDqh), rated `1394`.
-The game is `HeBoZero (1727)` vs `AmNotHappy (1742)` at `3+2` time control,
-with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/d14poB3x),
-and the first solution move is `d8h4`.
+It is `White to move` in puzzle [Yfqaf](https://lichess.org/training/Yfqaf), rated `1347`.
+The game is `chessLover1245 (2121)` vs `Razorfane (2141)` at `10+0` time control,
+with themes `middlegame, short, crushing, hangingPiece`. You can [view the full game](https://lichess.org/Kg0qqc3L),
+and the first solution move is `d7d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
