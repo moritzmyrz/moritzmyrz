@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp3KP2%2F2p5%2F2nb2kp%2F8%2F8%2F7R%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp4p1%2F3p3p%2F3P1p2%2F2P2n2%2F3P3P%2FP1P2QPq%2F2B2K2%20b%20-%20-%201%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4V3TP](https://lichess.org/training/4V3TP), rated `1404`.
-The game is `MasterOogway2006 (2008)` vs `efat47 (2171)` at `5+3` time control,
-with themes `endgame, advancedPawn, crushing, skewer, long`. You can [view the full game](https://lichess.org/UkNxbijJ),
-and the first solution move is `f6f7`.
+It is `Black to move` in puzzle [zCJvU](https://lichess.org/training/zCJvU), rated `1272`.
+The game is `Henri999 (1748)` vs `Mine-antipersonnel (1764)` at `15+10` time control,
+with themes `veryLong, endgame, advantage, attraction, fork`. You can [view the full game](https://lichess.org/ofoHEfse),
+and the first solution move is `h2h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
