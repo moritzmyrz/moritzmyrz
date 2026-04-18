@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1krN4%2F1p1Q4%2Fp2b4%2F3p4%2F3Pb3%2F2P3K1%2FP4P1P%2Fq6R%20w%20-%20-%208%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4K1k1%2FpQ4p1%2F5r1p%2F8%2F6P1%2F8%2F8%2F8%20b%20-%20-%2019%2049&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Yfqaf](https://lichess.org/training/Yfqaf), rated `1347`.
-The game is `chessLover1245 (2121)` vs `Razorfane (2141)` at `10+0` time control,
-with themes `middlegame, short, crushing, hangingPiece`. You can [view the full game](https://lichess.org/Kg0qqc3L),
-and the first solution move is `d7d6`.
+It is `Black to move` in puzzle [dISxu](https://lichess.org/training/dISxu), rated `1345`.
+The game is `TaxMaster91 (1567)` vs `Al1919 (1607)` at `5+0` time control,
+with themes `endgame, crushing, skewer, long, queenRookEndgame`. You can [view the full game](https://lichess.org/PpZzgFZh),
+and the first solution move is `f6f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
