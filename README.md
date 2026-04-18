@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp2r2p%2F6p1%2F1P1nB3%2FP1qp1P2%2F2p2Q1P%2F6P1%2F2RR2K1%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp2b1pp%2F5n2%2F3Q4%2F5q2%2F3P4%2FPPP3PP%2FR4R1K%20w%20kq%20-%202%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BRVQ4](https://lichess.org/training/BRVQ4), rated `1356`.
-The game is `lagunov (2301)` vs `caranx (2290)` at `3+2` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/l0QuyHT2),
-and the first solution move is `d1d4`.
+It is `White to move` in puzzle [sbZX7](https://lichess.org/training/sbZX7), rated `1268`.
+The game is `afridlund (1679)` vs `iconarray (1651)` at `15+15` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/ef02i6s0),
+and the first solution move is `d5b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
