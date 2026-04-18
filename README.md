@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F5Rb1%2F8%2F2k4B%2F7P%2F3R4%2FKPP3P1%2F4r3%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr2nr%2F1pp5%2Fp1q5%2F3pPpbp%2F8%2F1NP2Q2%2FPP3PPP%2FR3R1K1%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9IcHY](https://lichess.org/training/9IcHY), rated `1543`.
-The game is `stervets (2117)` vs `franki561964 (2099)` at `5+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Nc5PSBen),
-and the first solution move is `b8b2`.
+It is `White to move` in puzzle [Qgt66](https://lichess.org/training/Qgt66), rated `1562`.
+The game is `OlegAntonov (1798)` vs `marj01 (1786)` at `10+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/j41kGpQt),
+and the first solution move is `f3f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
