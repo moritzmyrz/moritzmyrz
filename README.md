@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2FR7%2Fp3k3%2F5p1p%2F1BP1n3%2F3r4%2FPP5P%2F5R1K%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5ppp%2F4pb2%2F1Np1B3%2F1nP5%2F1P5P%2Fr4PP1%2F4R1K1%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Mg2PT](https://lichess.org/training/Mg2PT), rated `1496`.
-The game is `Loga_attack-1987 (1891)` vs `Roddy1966 (1885)` at `5+0` time control,
-with themes `veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/h4uwknJ8),
-and the first solution move is `e4f2`.
+It is `Black to move` in puzzle [vUuSp](https://lichess.org/training/vUuSp), rated `1380`.
+The game is `PUIG-98 (2162)` vs `hitsujyun (2249)` at `10+0` time control,
+with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/YdTaMBDh),
+and the first solution move is `b4d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
