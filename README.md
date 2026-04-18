@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3r2%2F1b3kp1%2F1p4q1%2Fp1p4Q%2F5P1R%2F1P3P2%2FP5PP%2F4RK2%20w%20-%20-%206%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fpp2n1k1%2F3p1pp1%2F6B1%2F1q2P1Q1%2F7P%2FP4PK1%2FR4R2%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SvcG8](https://lichess.org/training/SvcG8), rated `1324`.
-The game is `friedfried (1860)` vs `STEEMkid (1713)` at `15+15` time control,
-with themes `deflection, middlegame, short, crushing`. You can [view the full game](https://lichess.org/YFTHYmgB),
-and the first solution move is `e1e7`.
+It is `White to move` in puzzle [8juCE](https://lichess.org/training/8juCE), rated `1506`.
+The game is `krnov (2028)` vs `Pushy_N (2025)` at `10+0` time control,
+with themes `middlegame, crushing, attraction, long, sacrifice, discoveredAttack`. You can [view the full game](https://lichess.org/qvSAeOfv),
+and the first solution move is `g5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
