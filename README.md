@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rq2%2Fp2b1k2%2F1p1p1p2%2F3P2p1%2F4Q2N%2F7P%2FP4PP1%2F4R1K1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R1bqr1k1%2F3n1p2%2F1p2p3%2F1Np5%2F2P3nP%2F2BP4%2F4PPB1%2FQ4RK1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AHivb](https://lichess.org/training/AHivb), rated `1372`.
-The game is `player999999999 (1845)` vs `STrongerOB (1866)` at `30+0` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/XqYo4jov),
-and the first solution move is `e4g6`.
+It is `Black to move` in puzzle [3WDqh](https://lichess.org/training/3WDqh), rated `1394`.
+The game is `HeBoZero (1727)` vs `AmNotHappy (1742)` at `3+2` time control,
+with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/d14poB3x),
+and the first solution move is `d8h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
