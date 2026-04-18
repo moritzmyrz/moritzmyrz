@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp3brpp%2F8%2F3QP3%2F5q2%2F1P5P%2FP4PP1%2F2R3K1%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1n2k%2Fpp1n4%2F3p2B1%2F2pPp1Nq%2F2P2p1B%2F4bPP1%2FPPQ3PK%2F4RR2%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ozssl](https://lichess.org/training/ozssl), rated `1391`.
-The game is `mahak94 (1740)` vs `masenkogohan (1710)` at `5+3` time control,
-with themes `endgame, attraction, long, mateIn3, sacrifice, pin`. You can [view the full game](https://lichess.org/frH0vXcM),
-and the first solution move is `c1c8`.
+It is `Black to move` in puzzle [bvZ2c](https://lichess.org/training/bvZ2c), rated `1495`.
+The game is `alfilborracho (2152)` vs `SchachHolzig (1853)` at `3+0` time control,
+with themes `middlegame, advantage, attraction, fork, pin, deflection, veryLong`. You can [view the full game](https://lichess.org/RwPPzq1B),
+and the first solution move is `f4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
