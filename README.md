@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2Fppp2p2%2F5qpp%2F8%2F1nP5%2F2QBPN1P%2FPP3PP1%2FR3K2R%20b%20KQ%20-%203%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3r2%2F1b3kp1%2F1p4q1%2Fp1p4Q%2F5P1R%2F1P3P2%2FP5PP%2F4RK2%20w%20-%20-%206%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BW0IL](https://lichess.org/training/BW0IL), rated `1550`.
-The game is `ALEXCOQUARD1302 (1670)` vs `thecatalist (1934)` at `3+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/OJlXjmGr),
-and the first solution move is `f6c3`.
+It is `White to move` in puzzle [SvcG8](https://lichess.org/training/SvcG8), rated `1324`.
+The game is `friedfried (1860)` vs `STEEMkid (1713)` at `15+15` time control,
+with themes `deflection, middlegame, short, crushing`. You can [view the full game](https://lichess.org/YFTHYmgB),
+and the first solution move is `e1e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
