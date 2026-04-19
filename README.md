@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2F2r2pp1%2F4n3%2F1pp1PQBp%2Fp2qB2P%2F8%2FP5P1%2F5R1K%20w%20k%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k3p%2F8%2F5K2%2F6P1%2F8%2F8%2F8%20w%20-%20-%201%2053&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Mbj41](https://lichess.org/training/Mbj41), rated `1617`.
-The game is `Nooker (2106)` vs `Judit-Polgar2024 (2119)` at `10+5` time control,
-with themes `middlegame, short, advantage, pin`. You can [view the full game](https://lichess.org/uWoccHuB),
-and the first solution move is `e4c6`.
+It is `White to move` in puzzle [Y6aID](https://lichess.org/training/Y6aID), rated `1421`.
+The game is `Zamannn (2063)` vs `Bankir1988 (1988)` at `10+0` time control,
+with themes `endgame, crushing, short, pawnEndgame`. You can [view the full game](https://lichess.org/BSFpbcJJ),
+and the first solution move is `f5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
