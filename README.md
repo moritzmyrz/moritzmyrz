@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1p4kp%2F1q2p1p1%2Fp2pN3%2F3Pn3%2F2P5%2FPP4PP%2FR4QK1%20w%20-%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpp3pp1%2F1q2p3%2F3pPn1p%2F3n3P%2F2NQ1N2%2FPP3PP1%2FR1B2RK1%20w%20kq%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wOedk](https://lichess.org/training/wOedk), rated `1400`.
-The game is `CKOLIKOCLOB (1663)` vs `Vaqo (2152)` at `3+0` time control,
-with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/2VIh2iEv),
-and the first solution move is `f1f8`.
+It is `White to move` in puzzle [EFcKS](https://lichess.org/training/EFcKS), rated `1524`.
+The game is `pkrgdchssnb (1730)` vs `solid_horse (1688)` at `3+0` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/FAniHMGE),
+and the first solution move is `f3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
