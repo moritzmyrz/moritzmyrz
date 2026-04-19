@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F8%2F2K2Pk1%2F8%2F3Bp3%2F4P1P1%2F8%2F8%20b%20-%20-%2016%2077&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fp2n1Rp1%2Fq2Bp2p%2F2Pr4%2F3p4%2F1Q4P1%2F6P1%2F6K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HhuOq](https://lichess.org/training/HhuOq), rated `1469`.
-The game is `HabibAmini (2409)` vs `LongNosehair (2408)` at `3+0` time control,
-with themes `veryLong, endgame, advancedPawn, master, masterVsMaster, crushing, sacrifice, promotion`. You can [view the full game](https://lichess.org/8Rk8sOxv),
-and the first solution move is `d8d4`.
+It is `White to move` in puzzle [3BwzF](https://lichess.org/training/3BwzF), rated `1586`.
+The game is `pama_pitoyopermadi (1903)` vs `osielmartins (1965)` at `10+0` time control,
+with themes `exposedKing, veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/kTvL6rc5),
+and the first solution move is `f7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
