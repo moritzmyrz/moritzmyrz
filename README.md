@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F2br2q1%2F1Q5p%2F2p1n3%2F8%2F1N6%2F1PP3PP%2FR5K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N2Q1b1r%2F5ppp%2Fp2p3k%2F1p3q2%2F3p4%2F8%2FPPP4P%2F2K3R1%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [psgw7](https://lichess.org/training/psgw7), rated `1347`.
-The game is `ag291067 (1911)` vs `ZaheerAsadsayed (1905)` at `10+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/O23Jw5OJ),
-and the first solution move is `a1a8`.
+It is `White to move` in puzzle [ug0mx](https://lichess.org/training/ug0mx), rated `1431`.
+The game is `Dr_King_Schultz (1944)` vs `ChessAttack2 (1928)` at `15+10` time control,
+with themes `exposedKing, veryLong, endgame, advantage, fork`. You can [view the full game](https://lichess.org/y0XrTyEf),
+and the first solution move is `d8h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
