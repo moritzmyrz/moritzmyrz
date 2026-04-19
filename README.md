@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fp5p1%2F3nR2p%2F1p1p4%2F1Pp3P1%2F2P4P%2FP2N1PK1%2F4R3%20w%20-%20-%204%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2F1p3ppp%2Fp4b2%2F8%2F3B2Q1%2F1P6%2FP1b2PPP%2FR3RBK1%20w%20-%20-%202%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [viNGa](https://lichess.org/training/viNGa), rated `1482`.
-The game is `Ralf_37 (1679)` vs `huthayfa78 (1648)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing, kingsideAttack, capturingDefender, discoveredAttack`. You can [view the full game](https://lichess.org/jE2TVljL),
-and the first solution move is `e6d6`.
+It is `White to move` in puzzle [qwtGn](https://lichess.org/training/qwtGn), rated `1352`.
+The game is `SONLAKERS (1925)` vs `TommyLee14 (1965)` at `20+10` time control,
+with themes `middlegame, short, crushing, kingsideAttack, pin`. You can [view the full game](https://lichess.org/XfYt75Nv),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
