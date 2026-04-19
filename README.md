@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R1bk1%2F3rpp1p%2Fppr1b1p1%2F8%2F2PQ1Pq1%2F1PN5%2FP5PP%2F5RK1%20w%20-%20-%204%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1p4kp%2F1q2p1p1%2Fp2pN3%2F3Pn3%2F2P5%2FPP4PP%2FR4QK1%20w%20-%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KlHk5](https://lichess.org/training/KlHk5), rated `1530`.
-The game is `gLiCeRiopaRDillojr (2349)` vs `GwapingsAttack2002 (2516)` at `3+1` time control,
-with themes `mateIn2, short, attraction, sacrifice, kingsideAttack, master, middlegame`. You can [view the full game](https://lichess.org/xw61pDoT),
-and the first solution move is `d8f8`.
+It is `White to move` in puzzle [wOedk](https://lichess.org/training/wOedk), rated `1400`.
+The game is `CKOLIKOCLOB (1663)` vs `Vaqo (2152)` at `3+0` time control,
+with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/2VIh2iEv),
+and the first solution move is `f1f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
