@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1bbk1%2F2q2ppp%2Fp3p3%2Fnp6%2F4N3%2F2P1BP2%2FP1Q3PP%2F1B1r1R1K%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F2br2q1%2F1Q5p%2F2p1n3%2F8%2F1N6%2F1PP3PP%2FR5K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ake3G](https://lichess.org/training/ake3G), rated `1599`.
-The game is `GloryGuy (2463)` vs `Fahreman (2297)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/qU65zk6w),
-and the first solution move is `e4f6`.
+It is `White to move` in puzzle [psgw7](https://lichess.org/training/psgw7), rated `1347`.
+The game is `ag291067 (1911)` vs `ZaheerAsadsayed (1905)` at `10+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/O23Jw5OJ),
+and the first solution move is `a1a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
