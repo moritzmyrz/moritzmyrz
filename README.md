@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F2Q3pp%2Fp7%2F1p6%2F1P1R4%2FPq2P2P%2F6P1%2F6K1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N1bk1b1r%2Fpp1p1ppp%2F5n2%2F4q3%2F3B4%2F8%2FP1P1PPPP%2FR2QKB1R%20b%20KQ%20-%203%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ig1sJ](https://lichess.org/training/ig1sJ), rated `1549`.
-The game is `grada20 (1727)` vs `ajayvaishnav (1825)` at `30+0` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/2E8V18nX),
-and the first solution move is `b3e3`.
+It is `Black to move` in puzzle [4Ujfb](https://lichess.org/training/4Ujfb), rated `1342`.
+The game is `Tafic22 (1687)` vs `msarp2012 (1658)` at `15+10` time control,
+with themes `crushing, xRayAttack, fork, opening, deflection, veryLong`. You can [view the full game](https://lichess.org/eRVJx0AX),
+and the first solution move is `f8b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
