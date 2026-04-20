@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k1r1%2Fpp1q3p%2F1b2NQ2%2F5p2%2F1P6%2FP3P2P%2F5P2%2F2R2K2%20b%20-%20-%204%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F2pn1ppp%2Fpp6%2F3n4%2F8%2F3Q1NP1%2FPPP2PP1%2F2KR3R%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HkprO](https://lichess.org/training/HkprO), rated `1298`.
-The game is `emman47 (1721)` vs `Veyselonatttt (1711)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/jS8wmBCE),
-and the first solution move is `d7d3`.
+It is `White to move` in puzzle [8YL6l](https://lichess.org/training/8YL6l), rated `1597`.
+The game is `madnickit (1723)` vs `HappyManDag (1730)` at `3+2` time control,
+with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/rBbKHEwJ),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
