@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6N1%2Fp7%2F1p6%2F8%2F6P1%2F7K%2F2k5%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fpp5n%2F2p1q1p1%2F3pp2n%2F3P1P1P%2F2N5%2FPPK2R2%2F3R1BN1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HXzZ9](https://lichess.org/training/HXzZ9), rated `1500`.
-The game is `Rayosytruenos (2140)` vs `jackmackxx (1987)` at `5+3` time control,
-with themes `endgame, crushing, quietMove, long, knightEndgame`. You can [view the full game](https://lichess.org/OxfrhxM4),
-and the first solution move is `a6a5`.
+It is `White to move` in puzzle [QEJKY](https://lichess.org/training/QEJKY), rated `1449`.
+The game is `Tolik11111 (2156)` vs `mah135 (2175)` at `10+5` time control,
+with themes `middlegame, pin, short, crushing`. You can [view the full game](https://lichess.org/q3x2li6C),
+and the first solution move is `f1h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
