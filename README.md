@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k2r2%2FQpp3pp%2F3rp3%2F8%2F4p3%2F2P3P1%2FPP3q1P%2FR3R1K1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6p1%2F2b1p1Bp%2Fpp1pP3%2F2pP4%2FP1P3P1%2F1P4PK%2F5R2%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jT0yz](https://lichess.org/training/jT0yz), rated `1491`.
-The game is `TK82TK (1926)` vs `wvdxxd_prod (1839)` at `3+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/mxxELBbz),
-and the first solution move is `a7f2`.
+It is `White to move` in puzzle [7STkT](https://lichess.org/training/7STkT), rated `1267`.
+The game is `carlosaleonm (1895)` vs `QNI-trungkien2015 (1909)` at `15+0` time control,
+with themes `deflection, endgame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/TNep025C),
+and the first solution move is `g6h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
