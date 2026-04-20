@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2Fppp4p%2F3k3q%2F1Q6%2F3P2n1%2F2P2r2%2FPP3PP1%2F4R1K1%20b%20-%20-%205%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fppq2ppp%2F2n1p3%2F1B1pNb2%2F3P4%2FP4Q2%2F1PP2PPP%2FR3K2R%20b%20KQkq%20-%203%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ExbdR](https://lichess.org/training/ExbdR), rated `1367`.
-The game is `Alarch (1886)` vs `Jimbo78700 (1610)` at `8+3` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/0P26Svox),
-and the first solution move is `h6h2`.
+It is `Black to move` in puzzle [uNemD](https://lichess.org/training/uNemD), rated `1276`.
+The game is `jeevansiddu (1909)` vs `KulaginNikolay (1927)` at `10+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/THZnredf),
+and the first solution move is `c7a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
