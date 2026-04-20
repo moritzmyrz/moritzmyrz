@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k2%2Fp3p1b1%2F1p2B1Q1%2F2pP4%2F2P2r2%2FPq6%2F1P3P2%2F2K4R%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fp2Qp2p%2F5rp1%2F4pq2%2F2P5%2F7P%2FP2B2P1%2F4R2K%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [yy6L2](https://lichess.org/training/yy6L2), rated `1429`.
-The game is `Oooops_TOUCHMOVE (2056)` vs `venturacossa (2135)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/oSBNkLvv),
-and the first solution move is `h1h8`.
+It is `White to move` in puzzle [ZKqQC](https://lichess.org/training/ZKqQC), rated `1511`.
+The game is `HEDEFGM (2065)` vs `guns_nroses (2044)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/H4AhNNQt),
+and the first solution move is `d7d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
