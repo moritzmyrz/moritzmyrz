@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6p1%2F7p%2F5Pk1%2F6P1%2F7K%2F8%20b%20-%20-%206%2053&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F2p5%2FppQb2qp%2F5p2%2FP3P3%2F2P4P%2F1P3PP1%2FR1B1R1K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bd0sh](https://lichess.org/training/bd0sh), rated `1495`.
-The game is `Lanko7 (1699)` vs `irgendwer_anderes (1700)` at `2+1` time control,
-with themes `crushing, long, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/T9J83rLD),
-and the first solution move is `h5h4`.
+It is `Black to move` in puzzle [2zUU4](https://lichess.org/training/2zUU4), rated `1286`.
+The game is `Dieren (1774)` vs `JariIkonen (1874)` at `10+3` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/olc8cvMw),
+and the first solution move is `d6h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
