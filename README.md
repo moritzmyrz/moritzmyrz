@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6p1%2F2b1p1Bp%2Fpp1pP3%2F2pP4%2FP1P3P1%2F1P4PK%2F5R2%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6p1%2F7p%2F5Pk1%2F6P1%2F7K%2F8%20b%20-%20-%206%2053&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [7STkT](https://lichess.org/training/7STkT), rated `1267`.
-The game is `carlosaleonm (1895)` vs `QNI-trungkien2015 (1909)` at `15+0` time control,
-with themes `deflection, endgame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/TNep025C),
-and the first solution move is `g6h7`.
+It is `Black to move` in puzzle [bd0sh](https://lichess.org/training/bd0sh), rated `1495`.
+The game is `Lanko7 (1699)` vs `irgendwer_anderes (1700)` at `2+1` time control,
+with themes `crushing, long, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/T9J83rLD),
+and the first solution move is `h5h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
