@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp1r3p1%2F7p%2F2p5%2F2bpN3%2F7P%2FP2R1PP1%2F2R3K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k1r1%2Fpp1q3p%2F1b2NQ2%2F5p2%2F1P6%2FP3P2P%2F5P2%2F2R2K2%20b%20-%20-%204%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vA49H](https://lichess.org/training/vA49H), rated `1479`.
-The game is `SergeyR21 (2254)` vs `axel1702 (2319)` at `10+0` time control,
-with themes `endgame, fork, long, advantage`. You can [view the full game](https://lichess.org/TtfroUhD),
-and the first solution move is `e4d6`.
+It is `Black to move` in puzzle [HkprO](https://lichess.org/training/HkprO), rated `1298`.
+The game is `emman47 (1721)` vs `Veyselonatttt (1711)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/jS8wmBCE),
+and the first solution move is `d7d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
