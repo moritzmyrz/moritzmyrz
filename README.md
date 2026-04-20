@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp5p%2F4p3%2F2Pp2q1%2F4n1Q1%2FP1N5%2F1P3PPP%2FR3R1K1%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F1q2k1p1%2F3pb1p1%2F6N1%2Fp3P3%2FP2Q2P1%2F1P1R1PP1%2F3K4%20b%20-%20-%203%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [44Xlr](https://lichess.org/training/44Xlr), rated `1535`.
-The game is `franksa (2312)` vs `andrey1935 (2128)` at `3+2` time control,
-with themes `middlegame, short, advantage, master`. You can [view the full game](https://lichess.org/JSIw37mJ),
-and the first solution move is `e1e4`.
+It is `Black to move` in puzzle [xf0nv](https://lichess.org/training/xf0nv), rated `1383`.
+The game is `A_2023 (1824)` vs `reydereyesss (1783)` at `15+3` time control,
+with themes `exposedKing, veryLong, endgame, crushing, pin`. You can [view the full game](https://lichess.org/CWlT9pLh),
+and the first solution move is `e6b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
