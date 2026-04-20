@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fp1p3np%2F1p1p2Q1%2F3n4%2F2P1qP2%2F4P2R%2FPP5P%2F4R2K%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2R5%2F1R3Qbk%2F6p1%2F8%2F4Pp2%2F5P1K%2FP3q2P%2F8%20b%20-%20-%202%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [03j2L](https://lichess.org/training/03j2L), rated `1524`.
-The game is `johnjohnml (1840)` vs `VVS29 (1784)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/0eNN8B0E),
-and the first solution move is `g6e4`.
+It is `Black to move` in puzzle [Y5urB](https://lichess.org/training/Y5urB), rated `1410`.
+The game is `DiedMarCeroo (2045)` vs `juancurrutaco (2049)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/rudWH0LE),
+and the first solution move is `e2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
