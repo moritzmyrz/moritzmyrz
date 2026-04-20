@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp4pk%2F7p%2F3p4%2F3Pnr2%2F5NqP%2FPP2Q1P1%2F4R1K1%20b%20-%20-%205%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F2Q3pp%2Fp7%2F1p6%2F1P1R4%2FPq2P2P%2F6P1%2F6K1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UA4q5](https://lichess.org/training/UA4q5), rated `1359`.
-The game is `Stanba (2055)` vs `ozgurdue (2083)` at `15+0` time control,
-with themes `deflection, endgame, short, crushing, capturingDefender, pin`. You can [view the full game](https://lichess.org/aD8jAlrx),
-and the first solution move is `f4f3`.
+It is `Black to move` in puzzle [ig1sJ](https://lichess.org/training/ig1sJ), rated `1549`.
+The game is `grada20 (1727)` vs `ajayvaishnav (1825)` at `30+0` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/2E8V18nX),
+and the first solution move is `b3e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
