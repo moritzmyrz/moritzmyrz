@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F1q2k1p1%2F3pb1p1%2F6N1%2Fp3P3%2FP2Q2P1%2F1P1R1PP1%2F3K4%20b%20-%20-%203%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fppp2pbp%2F3p1np1%2F3Pp3%2F1Pn1P2q%2F2N2PN1%2FP1BB2PP%2FR1Q1K2R%20w%20KQ%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xf0nv](https://lichess.org/training/xf0nv), rated `1383`.
-The game is `A_2023 (1824)` vs `reydereyesss (1783)` at `15+3` time control,
-with themes `exposedKing, veryLong, endgame, crushing, pin`. You can [view the full game](https://lichess.org/CWlT9pLh),
-and the first solution move is `e6b3`.
+It is `White to move` in puzzle [hHBSN](https://lichess.org/training/hHBSN), rated `1293`.
+The game is `zbab2 (1935)` vs `PierreC (1936)` at `10+0` time control,
+with themes `middlegame, crushing, short, trappedPiece`. You can [view the full game](https://lichess.org/5TKPpNKr),
+and the first solution move is `d2g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
