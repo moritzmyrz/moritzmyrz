@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkp%2F1P6%2F8%2F3K4%2Fp2B4%2F1rR5%2F8%20b%20-%20-%201%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2F7R%2Fp5pP%2F3p4%2F2p1b3%2F2P3P1%2FPP3PK1%2F8%20w%20-%20-%201%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9waA6](https://lichess.org/training/9waA6), rated `1420`.
-The game is `Jocray (1826)` vs `yusufturkyolu (1814)` at `3+0` time control,
-with themes `endgame, advancedPawn, crushing, long, promotion`. You can [view the full game](https://lichess.org/301Z9pdY),
-and the first solution move is `b2c2`.
+It is `White to move` in puzzle [dcPpP](https://lichess.org/training/dcPpP), rated `1281`.
+The game is `Berlin42 (1741)` vs `traverza (1646)` at `3+0` time control,
+with themes `exposedKing, endgame, advantage, long, defensiveMove`. You can [view the full game](https://lichess.org/KzntL28f),
+and the first solution move is `f2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
