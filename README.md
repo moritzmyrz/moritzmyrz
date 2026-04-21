@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p2p3%2Fp2p2pp%2FB1pN1r2%2F2P5%2F1P2Q1PB%2FP3q2P%2F5RK1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2k2nr%2Fppp2ppp%2F3bb3%2F8%2F2NnP3%2F3B4%2FPPP2PPP%2FRNB1K2R%20b%20KQ%20-%204%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EFSFc](https://lichess.org/training/EFSFc), rated `1289`.
-The game is `jandrieu (1863)` vs `the_b3rs3rk3r (1832)` at `¾+3` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/szClQjzb),
-and the first solution move is `f5f1`.
+It is `Black to move` in puzzle [2Wdvq](https://lichess.org/training/2Wdvq), rated `1467`.
+The game is `Garry97chess (1789)` vs `chessking960 (1808)` at `10+0` time control,
+with themes `opening, short, advantage`. You can [view the full game](https://lichess.org/ybdl1cZF),
+and the first solution move is `e6c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
