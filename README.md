@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fp2b2p1%2F3r2n1%2F1P4R1%2F8%2F2B5%2FPP3P2%2F2K5%20w%20-%20-%201%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3k4%2F1p4p1%2F1Pbp1pP1%2F3B1P1P%2F3K4%2F8%20b%20-%20-%202%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hJI1u](https://lichess.org/training/hJI1u), rated `1419`.
-The game is `atharvashashwat (1880)` vs `rockmeamedee (1882)` at `10+5` time control,
-with themes `short, pin, advantage, endgame`. You can [view the full game](https://lichess.org/grFLZkaL),
-and the first solution move is `c3b4`.
+It is `Black to move` in puzzle [Zpzv4](https://lichess.org/training/Zpzv4), rated `1293`.
+The game is `grand_maste23r (1866)` vs `carstenausstahl (1778)` at `3+2` time control,
+with themes `endgame, zugzwang, crushing, long, bishopEndgame`. You can [view the full game](https://lichess.org/oQJaTbHS),
+and the first solution move is `c4d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
