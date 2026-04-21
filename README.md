@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fppp1bppp%2F5nb1%2F4N1B1%2F8%2F2N5%2FPP3PPP%2F2R1R1K1%20w%20-%20-%202%2014&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkp%2F1P6%2F8%2F3K4%2Fp2B4%2F1rR5%2F8%20b%20-%20-%201%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hLABm](https://lichess.org/training/hLABm), rated `1303`.
-The game is `ricemuncher92 (1627)` vs `Tire_Rack (1611)` at `5+3` time control,
-with themes `short, discoveredAttack, advantage, middlegame`. You can [view the full game](https://lichess.org/Rd1nRZMl),
-and the first solution move is `e5g6`.
+It is `Black to move` in puzzle [9waA6](https://lichess.org/training/9waA6), rated `1420`.
+The game is `Jocray (1826)` vs `yusufturkyolu (1814)` at `3+0` time control,
+with themes `endgame, advancedPawn, crushing, long, promotion`. You can [view the full game](https://lichess.org/301Z9pdY),
+and the first solution move is `b2c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
