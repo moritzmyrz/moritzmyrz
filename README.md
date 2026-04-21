@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb2rk1%2Fpp3pp1%2F3p3p%2F3Bpq2%2F8%2F2P2N2%2FP1Q2PPP%2F3RK2R%20w%20K%20-%204%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2F8%2F3R1p1P%2F8%2Fp7%2F2b1BKP1%2F2k5%2F8%20b%20-%20-%209%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hQdsL](https://lichess.org/training/hQdsL), rated `1548`.
-The game is `fou--roi (1603)` vs `IvanMe98 (1598)` at `5+0` time control,
-with themes `middlegame, trappedPiece, long, advantage`. You can [view the full game](https://lichess.org/1GfZCrqp),
-and the first solution move is `c2f5`.
+It is `Black to move` in puzzle [WYLBw](https://lichess.org/training/WYLBw), rated `1447`.
+The game is `tykpyk (2434)` vs `ja0602 (2360)` at `3+0` time control,
+with themes `advancedPawn, crushing, short, endgame`. You can [view the full game](https://lichess.org/w2RdxUKX),
+and the first solution move is `a4a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
