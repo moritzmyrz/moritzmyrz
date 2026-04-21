@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1b1q1p2%2Fpp1p2p1%2F2pP1n1p%2F2PbNP2%2F3B4%2FPP3QPP%2FR1B1R1K1%20w%20-%20-%206%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F3N1ppp%2F4p3%2F1P1pN1q1%2F3Pb3%2F5Q2%2Fr5PP%2F5R1K%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vjUp4](https://lichess.org/training/vjUp4), rated `1537`.
-The game is `Nedved12 (1652)` vs `dpopivoda (1677)` at `5+0` time control,
-with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/lzSuTwGr),
-and the first solution move is `f2d4`.
+It is `White to move` in puzzle [DxI2K](https://lichess.org/training/DxI2K), rated `1233`.
+The game is `Zodiac343 (1664)` vs `harleyk (1712)` at `2+1` time control,
+with themes `middlegame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/exmEozJ3),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
