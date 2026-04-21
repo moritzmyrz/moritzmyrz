@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r1r2%2F2p5%2Fp4n1p%2F2Npqbp1%2F4p3%2FP7%2F1PPQ1PPP%2FR3K2R%20w%20KQ%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p2p3%2Fp2p2pp%2FB1pN1r2%2F2P5%2F1P2Q1PB%2FP3q2P%2F5RK1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8NPRE](https://lichess.org/training/8NPRE), rated `1467`.
-The game is `Matto89 (1700)` vs `YefimG (1908)` at `5+2` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/a1uyo1Kr),
-and the first solution move is `d2b4`.
+It is `Black to move` in puzzle [EFSFc](https://lichess.org/training/EFSFc), rated `1289`.
+The game is `jandrieu (1863)` vs `the_b3rs3rk3r (1832)` at `¾+3` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/szClQjzb),
+and the first solution move is `f5f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
