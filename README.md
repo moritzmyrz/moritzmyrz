@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1ppn1bpp%2F1b1p4%2Fp3p3%2FP3P1Pq%2F2P2Q1P%2F1P5K%2FRNB2R2%20w%20kq%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5p2%2F1p1p3p%2F3Pp1p1%2F3p4%2F6B1%2FKPb2PPP%2F3R3R%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IxCxQ](https://lichess.org/training/IxCxQ), rated `1543`.
-The game is `TazBelly (2027)` vs `LtPoultry (1981)` at `10+0` time control,
-with themes `middlegame, short, advantage, attackingF2F7`. You can [view the full game](https://lichess.org/W57hiNLY),
-and the first solution move is `f3f7`.
+It is `Black to move` in puzzle [taqu1](https://lichess.org/training/taqu1), rated `1382`.
+The game is `taugusty (1875)` vs `yyyerai (1858)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/BXnEKE3y),
+and the first solution move is `c8a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
