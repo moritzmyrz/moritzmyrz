@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F5pp1%2F4p2p%2F3b4%2Fq1N5%2F5P2%2F4Q1PP%2F2R1R2K%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqr3%2Fppk2N2%2F2nbQ2p%2F2pp4%2F3P1B1P%2F2P5%2FP1P2PP1%2FR3K2R%20w%20KQ%20-%205%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AgFx7](https://lichess.org/training/AgFx7), rated `1360`.
-The game is `RahulTiwari (1911)` vs `Nilantgarg (1910)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/s55u6oYa),
-and the first solution move is `c4b6`.
+It is `White to move` in puzzle [D7Wvz](https://lichess.org/training/D7Wvz), rated `1513`.
+The game is `Tripp-Trapp-Trull (2066)` vs `Punkopen (2055)` at `3+0` time control,
+with themes `advantage, long, master, middlegame`. You can [view the full game](https://lichess.org/3Y8D6nkZ),
+and the first solution move is `f4d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
