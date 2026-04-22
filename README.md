@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6kr%2F5p2%2F4p2q%2F8%2FP2Q2p1%2F3PR1P1%2F1PP4P%2FR5K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2bRr1kb%2F7q%2F2n1r1pB%2F4P1Q1%2F1p6%2F1P6%2F1P4PP%2F1K3R2%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ctTYH](https://lichess.org/training/ctTYH), rated `1417`.
-The game is `carlosmemo (1600)` vs `lev-38 (1577)` at `3+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/0P7JM0Q6),
-and the first solution move is `h6h2`.
+It is `White to move` in puzzle [nSoVF](https://lichess.org/training/nSoVF), rated `1348`.
+The game is `Mirandai (2072)` vs `karlsenentotre (1858)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, operaMate, xRayAttack`. You can [view the full game](https://lichess.org/Gw8MjyC9),
+and the first solution move is `f1f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
