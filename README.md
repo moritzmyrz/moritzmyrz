@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2q3p1%2F2r1rpNp%2F8%2F2R2PQ1%2F7P%2F6P1%2F7K%20w%20-%20-%200%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1k1r%2Fpp2bp1p%2F5p2%2F1B2Q1B1%2F8%2F5K1P%2FPP3PP1%2Fn6R%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KgfNJ](https://lichess.org/training/KgfNJ), rated `1440`.
-The game is `ipicaso (1835)` vs `al87 (1785)` at `15+15` time control,
-with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/fGfZfDI2),
-and the first solution move is `g4e6`.
+It is `White to move` in puzzle [hHe5Z](https://lichess.org/training/hHe5Z), rated `1286`.
+The game is `rancebp (1725)` vs `Smuggerson (1761)` at `10+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/RfoCwpjL),
+and the first solution move is `g5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
