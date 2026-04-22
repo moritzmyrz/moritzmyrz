@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F8%2F2p3Pq%2F4Qp1P%2FPp1r1P2%2F7R%2F1Pb5%2FK5R1%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1b1rk2r%2F1p3ppp%2Fp3p3%2F8%2F3n1q2%2F2NPQN1P%2FPP3PP1%2F3R1RK1%20b%20k%20-%203%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Wpe7G](https://lichess.org/training/Wpe7G), rated `1505`.
-The game is `Myka999 (2157)` vs `Rul-bm (2176)` at `3+0` time control,
-with themes `exposedKing, advancedPawn, middlegame, crushing, long`. You can [view the full game](https://lichess.org/dmCZxEjE),
-and the first solution move is `e5e6`.
+It is `Black to move` in puzzle [vQGhk](https://lichess.org/training/vQGhk), rated `1333`.
+The game is `jews99 (1920)` vs `YuraKoshkin (1945)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/YJgbwD3V),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
