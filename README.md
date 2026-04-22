@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp3ppp%2F8%2F4P3%2F8%2F2Pr1n1P%2FPP2Qp2%2F1RB3RK%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F4qpp1%2F8%2FPQ1R1P1p%2F6Pb%2F2P1p2P%2F1P2R1K1%2F8%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1g7tM](https://lichess.org/training/1g7tM), rated `1300`.
-The game is `Vasilii_Ustinov (1874)` vs `mesalmamr77 (1841)` at `10+0` time control,
-with themes `advancedPawn, middlegame, oneMove, promotion, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/kWdlymcs),
-and the first solution move is `f2g1q`.
+It is `Black to move` in puzzle [t1ezR](https://lichess.org/training/t1ezR), rated `1318`.
+The game is `Kavalenya_Leonid (2528)` vs `martiand2 (2581)` at `3+0` time control,
+with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/SseF6dhi),
+and the first solution move is `e7e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
