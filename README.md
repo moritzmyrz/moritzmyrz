@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6R1%2F2R2npp%2F5pk1%2F8%2F7P%2F4P1P1%2Fr2n1PK1%2F8%20w%20-%20-%201%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2R2pp1%2Fp2p3p%2F1p1bpPn1%2F1P6%2FP3QN2%2F1q4PP%2F6K1%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BmbX3](https://lichess.org/training/BmbX3), rated `1313`.
-The game is `moolla (1674)` vs `kingmaker2312 (1673)` at `10+5` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/MBo9nxKg),
-and the first solution move is `h4h5`.
+It is `White to move` in puzzle [jWyAx](https://lichess.org/training/jWyAx), rated `1360`.
+The game is `Mega_Man (1893)` vs `Ra-Almighty (1959)` at `3+2` time control,
+with themes `clearance, endgame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/fz7O1ABX),
+and the first solution move is `c7c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
