@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5Qpk%2F4p3%2F7p%2F3P1P2%2F4r1Pq%2F7P%2F5RK1%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F1p1k2pp%2Fpbn1pp2%2F3pPn2%2FPP1N1P2%2F2P1B3%2F3N2PP%2FR4RK1%20w%20-%20-%202%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jWukM](https://lichess.org/training/jWukM), rated `1584`.
-The game is `Esquilachess (2094)` vs `olegop (2056)` at `10+0` time control,
-with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/0G39Q09L),
-and the first solution move is `e3e2`.
+It is `White to move` in puzzle [89iJ8](https://lichess.org/training/89iJ8), rated `1290`.
+The game is `NickyPamBulgaria (1618)` vs `Anarchocommunist-PL (1615)` at `10+0` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/RzNQPI6q),
+and the first solution move is `d4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
