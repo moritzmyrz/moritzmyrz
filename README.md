@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pk1%2F4p1pp%2F1r2Pn2%2F5P2%2F2Q2KP1%2F1P4P1%2F8%20b%20-%20-%203%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F8%2FR4K2%2F2k2B2%2F7P%2F2p5%2F1r6%20b%20-%20-%205%2049&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [aFJVN](https://lichess.org/training/aFJVN), rated `1302`.
-The game is `masenkogohan (1721)` vs `osamaalqadri (1724)` at `5+3` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice, pin`. You can [view the full game](https://lichess.org/8kPORZNF),
-and the first solution move is `b5b3`.
+It is `Black to move` in puzzle [rH39N](https://lichess.org/training/rH39N), rated `1462`.
+The game is `SergPav (1863)` vs `dddnnk (1832)` at `10+0` time control,
+with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/a9hbltWj),
+and the first solution move is `b1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
