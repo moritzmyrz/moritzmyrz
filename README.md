@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2r3%2F3n2p1%2Fk7%2FPR4P1%2F5p2%2F7p%2F4B2P%2F1R5K%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2F2p2k2%2Fp7%2FP1KP2P1%2F2PQ4%2F1P6%2F5q2%20b%20-%20-%2010%2042&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hfLEO](https://lichess.org/training/hfLEO), rated `1624`.
-The game is `janisdaudz (2124)` vs `MASINA89 (2299)` at `3+0` time control,
-with themes `endgame, master, short, crushing, hangingPiece`. You can [view the full game](https://lichess.org/DCaj9i3f),
-and the first solution move is `e8e2`.
+It is `Black to move` in puzzle [6ASpz](https://lichess.org/training/6ASpz), rated `1337`.
+The game is `matheusdexter (1720)` vs `suva89 (1705)` at `2+1` time control,
+with themes `crushing, attraction, long, endgame, queenEndgame`. You can [view the full game](https://lichess.org/V6GbEkqo),
+and the first solution move is `b7b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
