@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F1p4kp%2FpNp1brpb%2F8%2F2P4q%2F1P4QP%2FP4PP1%2F3R2K1%20b%20-%20-%201%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1n2r2k%2F3bQ2p%2F8%2F1P1P3p%2F2p1p3%2F4P3%2F1qB3PP%2F5RK1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6baaQ](https://lichess.org/training/6baaQ), rated `1307`.
-The game is `Babybuncha (1877)` vs `metinbal (1911)` at `10+5` time control,
-with themes `fork, advantage, long, middlegame`. You can [view the full game](https://lichess.org/QzkprU1D),
-and the first solution move is `h4g3`.
+It is `White to move` in puzzle [lkQLp](https://lichess.org/training/lkQLp), rated `1415`.
+The game is `schevstal1 (2110)` vs `K3linci_Kci (1989)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/vtTjZOxB),
+and the first solution move is `f1f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
