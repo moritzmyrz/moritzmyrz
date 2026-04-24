@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=k2r2q1%2Fp1R4p%2F2p5%2F2NpP3%2F3P3n%2F2PQ4%2FPP4rP%2F5R1K%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2Fp4pp1%2F1p5p%2F4n3%2Fq3BQ2%2F6P1%2F2P4P%2F1R2R2K%20w%20-%20-%206%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [TvJdE](https://lichess.org/training/TvJdE), rated `1535`.
-The game is `Kurnia_SW (1802)` vs `Das_Auto (1759)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/zIBlIe4B),
-and the first solution move is `g2h2`.
+It is `White to move` in puzzle [RH33X](https://lichess.org/training/RH33X), rated `1282`.
+The game is `Yuratv (2235)` vs `dismasmates (2135)` at `10+5` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/Jw3CvBs9),
+and the first solution move is `e4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
