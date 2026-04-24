@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fpppb1N2%2F2nbpn2%2F3p2p1%2F3P1P1p%2F2PBP1B1%2FPP4PP%2FRN1Q1RK1%20b%20kq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2r5%2F8%2F5p1p%2F5P2%2F2R3P1%2F2R1p1K1%2F4k3%20b%20-%20-%200%2054&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [P99NR](https://lichess.org/training/P99NR), rated `1477`.
-The game is `pink147 (2249)` vs `MorphyTal2025_HCN (2105)` at `10+0` time control,
-with themes `advantage, hangingPiece, short, middlegame`. You can [view the full game](https://lichess.org/XrE9IIUz),
-and the first solution move is `e8f7`.
+It is `Black to move` in puzzle [JzFf9](https://lichess.org/training/JzFf9), rated `1362`.
+The game is `AlekseyEvdokimov (2383)` vs `chessmem (2552)` at `3+2` time control,
+with themes `clearance, endgame, advancedPawn, master, crushing, rookEndgame, long, promotion`. You can [view the full game](https://lichess.org/9kbmQgx4),
+and the first solution move is `c7c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
