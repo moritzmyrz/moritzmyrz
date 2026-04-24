@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2Fp4pp1%2F1p5p%2F4n3%2Fq3BQ2%2F6P1%2F2P4P%2F1R2R2K%20w%20-%20-%206%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F8%2F8%2F2P5%2F1P3p1R%2FP1b4P%2F5KP1%2F7r%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RH33X](https://lichess.org/training/RH33X), rated `1282`.
-The game is `Yuratv (2235)` vs `dismasmates (2135)` at `10+5` time control,
-with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/Jw3CvBs9),
-and the first solution move is `e4h7`.
+It is `Black to move` in puzzle [IMy5i](https://lichess.org/training/IMy5i), rated `1568`.
+The game is `biniati (1806)` vs `Fotis2 (1802)` at `10+5` time control,
+with themes `endgame, short, advantage, skewer`. You can [view the full game](https://lichess.org/JjTAWFmO),
+and the first solution move is `c3e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
