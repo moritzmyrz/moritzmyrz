@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2r2%2F1pqbpp1k%2Fp2pnnp1%2F5NQp%2FP1P1P3%2F1PN2P2%2F4B1PP%2F1R2K2R%20w%20K%20-%204%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1nrk1%2F1bqnbpp1%2Fp2pp1p1%2F8%2F1p1NPP1B%2F3B1Q2%2FPPP1N2P%2F2KRR3%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [c97rD](https://lichess.org/training/c97rD), rated `1342`.
-The game is `ronvw (2223)` vs `AleXandroviTCH92 (2276)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/GZw06r9g),
-and the first solution move is `g5h6`.
+It is `White to move` in puzzle [TeDQ0](https://lichess.org/training/TeDQ0), rated `1317`.
+The game is `Majasystem (2538)` vs `rgemperojr (2520)` at `3+0` time control,
+with themes `short, advantage, hangingPiece, master, middlegame`. You can [view the full game](https://lichess.org/nGsKVaIC),
+and the first solution move is `h4e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
