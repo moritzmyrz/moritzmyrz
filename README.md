@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FR7%2F7p%2F3k2p1%2F3r4%2F5K1P%2F6P1%2F8%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp3k3%2F2R3p1%2F5p1p%2FP1P2B1P%2F1n6%2F1r3PP1%2F5K2%20b%20-%20-%201%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Cs7ep](https://lichess.org/training/Cs7ep), rated `1507`.
-The game is `Scofieldvhsr (1884)` vs `Calli130 (1934)` at `5+0` time control,
-with themes `veryLong, endgame, crushing, rookEndgame`. You can [view the full game](https://lichess.org/YwEyRdgr),
-and the first solution move is `a7d7`.
+It is `Black to move` in puzzle [Vlzn8](https://lichess.org/training/Vlzn8), rated `1311`.
+The game is `vietd (1875)` vs `OldBoy64 (1889)` at `3+0` time control,
+with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/wZyBQlPi),
+and the first solution move is `b2b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
