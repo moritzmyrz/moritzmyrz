@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2Fp2R4%2F1p4p1%2F2pB2np%2F6n1%2F6P1%2FPB3PK1%2F8%20w%20-%20-%204%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1nr%2Fpp1p1ppp%2Fn1p1p3%2F8%2F1BP5%2F3P1NP1%2FP3PPBP%2FqN1QK2R%20w%20Kkq%20-%200%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [i1qtJ](https://lichess.org/training/i1qtJ), rated `1431`.
-The game is `Mohsen-S65 (2047)` vs `Athanzkie75 (1975)` at `10+0` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/CUae3mGy),
-and the first solution move is `b2g7`.
+It is `White to move` in puzzle [DxOzA](https://lichess.org/training/DxOzA), rated `1461`.
+The game is `capanegra65 (1659)` vs `mirkar54 (1644)` at `15+10` time control,
+with themes `opening, crushing, short`. You can [view the full game](https://lichess.org/Q5OT20Mw),
+and the first solution move is `b4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
