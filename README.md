@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F2p5%2F1p1p2k1%2F3P1b2%2F2P1qPpr%2FP1QpP3%2F1B1R4%2F4R1K1%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F1P6%2F8%2F5pp1%2F5k2%2F5PPp%2F1r5P%2F6K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [FLKJR](https://lichess.org/training/FLKJR), rated `1380`.
-The game is `Respink (2383)` vs `u1rick (2349)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/jE4bGwJk),
-and the first solution move is `c3g7`.
+It is `Black to move` in puzzle [SNRka](https://lichess.org/training/SNRka), rated `1291`.
+The game is `saidlimi (1928)` vs `ZenPractice (2083)` at `3+2` time control,
+with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/viLvW0C1),
+and the first solution move is `f4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
