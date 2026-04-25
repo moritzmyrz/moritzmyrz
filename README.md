@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp2q1ppp%2F1p4n1%2F3PQ1P1%2F5B2%2FP4PK1%2F8%2F8%20w%20-%20-%2010%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1p4pp%2F2p1pb2%2F1p6%2F3P4%2FP5Q1%2F1P2NPPP%2F3RR1K1%20b%20-%20-%201%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ADdRm](https://lichess.org/training/ADdRm), rated `1309`.
-The game is `yudk52 (2120)` vs `holesov (2071)` at `5+3` time control,
-with themes `clearance, endgame, crushing, long`. You can [view the full game](https://lichess.org/50Nx4gNU),
-and the first solution move is `e5b8`.
+It is `Black to move` in puzzle [GtxDz](https://lichess.org/training/GtxDz), rated `1347`.
+The game is `zozizizo (1839)` vs `voldkirk (1723)` at `10+0` time control,
+with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/EBmNBhD6),
+and the first solution move is `f6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
