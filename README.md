@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F1p1R1b1p%2Fp1p1n1p1%2Fq1P1N3%2F2Q5%2F1P4PP%2FP4PB1%2F6K1%20b%20-%20-%204%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2k5%2Fp1p5%2FP7%2F1PK5%2F8%2F8%2F8%20w%20-%20-%201%2054&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Gnqxs](https://lichess.org/training/Gnqxs), rated `1438`.
-The game is `speshu (2312)` vs `edbrasil (1896)` at `3+0` time control,
-with themes `short, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/0hu1Gxim),
-and the first solution move is `a5e1`.
+It is `White to move` in puzzle [PhFNH](https://lichess.org/training/PhFNH), rated `1356`.
+The game is `tparratte (1531)` vs `msn2017 (1552)` at `10+0` time control,
+with themes `endgame, zugzwang, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/OEft7RkI),
+and the first solution move is `c4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
