@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp5pp%2F1pnp4%2F2p1pP2%2F4P3%2FP1q3P1%2F6BP%2FR2Q1RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FRp6%2F4p3%2F3nk3%2F6P1%2F1r6%2F5NKP%2F8%20b%20-%20-%206%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EXJHU](https://lichess.org/training/EXJHU), rated `1350`.
-The game is `jibijo (1607)` vs `GANESH_061989 (1713)` at `10+0` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/rI4uRjiv),
-and the first solution move is `d1d5`.
+It is `Black to move` in puzzle [ozglb](https://lichess.org/training/ozglb), rated `1414`.
+The game is `DiogenesSinopeus (2537)` vs `Ayoub67 (2430)` at `3+0` time control,
+with themes `endgame, master, crushing, long`. You can [view the full game](https://lichess.org/VujguTQ4),
+and the first solution move is `d5f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
