@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fpp3p2%2F4Ppp1%2F2p1q3%2F2P3P1%2F7P%2FPPQR1P2%2F1K5R%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2pk3p%2F3p1p1P%2F1p1P1P2%2F2r1PK2%2FP1R5%2F8%20w%20-%20-%201%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cvGPi](https://lichess.org/training/cvGPi), rated `1512`.
-The game is `ave_fenix777 (1810)` vs `KMS_Ukraine (2181)` at `3+0` time control,
-with themes `long, fork, crushing, endgame`. You can [view the full game](https://lichess.org/WftLnp3H),
-and the first solution move is `d8d2`.
+It is `White to move` in puzzle [0GqJW](https://lichess.org/training/0GqJW), rated `1372`.
+The game is `Mattls11 (1733)` vs `s141272g (1873)` at `2+1` time control,
+with themes `crushing, rookEndgame, veryLong, endgame`. You can [view the full game](https://lichess.org/Th0LfoTj),
+and the first solution move is `c2c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
