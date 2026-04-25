@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1pp2r2%2F1r1pqpRp%2Fp7%2F4P3%2F2P3Q1%2FP1P3PP%2F2K5%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F2p5%2F1p1p2k1%2F3P1b2%2F2P1qPpr%2FP1QpP3%2F1B1R4%2F4R1K1%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cZSWE](https://lichess.org/training/cZSWE), rated `1323`.
-The game is `Garbenschiefer (1882)` vs `egg5 (1856)` at `3+0` time control,
-with themes `short, triangleMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/oqWdVPq2),
-and the first solution move is `g6g8`.
+It is `White to move` in puzzle [FLKJR](https://lichess.org/training/FLKJR), rated `1380`.
+The game is `Respink (2383)` vs `u1rick (2349)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/jE4bGwJk),
+and the first solution move is `c3g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
