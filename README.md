@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2k5%2Fp1p5%2FP7%2F1PK5%2F8%2F8%2F8%20w%20-%20-%201%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2b1q3%2Fr3p3%2Fp3N1kp%2F1ppPP3%2F2P3pQ%2F8%2FPP5P%2F6K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PhFNH](https://lichess.org/training/PhFNH), rated `1356`.
-The game is `tparratte (1531)` vs `msn2017 (1552)` at `10+0` time control,
-with themes `endgame, zugzwang, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/OEft7RkI),
-and the first solution move is `c4c5`.
+It is `White to move` in puzzle [vzRZY](https://lichess.org/training/vzRZY), rated `1522`.
+The game is `Draghos (2239)` vs `Eron_Capivara (1954)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/w2f3n7ZP),
+and the first solution move is `h4g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
