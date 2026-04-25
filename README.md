@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F3pkp2%2F1p2pp2%2F2q4p%2F2nQ4%2F4P1P1%2FP1R2PKP%2F3R4%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F2p5%2F4R3%2F2N5%2F8%2F7r%2F6r1%2F1R1K4%20b%20-%20-%2014%2047&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Fzj9z](https://lichess.org/training/Fzj9z), rated `1479`.
-The game is `VLABOR64B (2190)` vs `Robbertus (2003)` at `3+0` time control,
-with themes `endgame, master, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/i4fGHuKJ),
-and the first solution move is `c4e3`.
+It is `Black to move` in puzzle [u9zKW](https://lichess.org/training/u9zKW), rated `1390`.
+The game is `joto4 (1606)` vs `zcccu17 (1694)` at `5+10` time control,
+with themes `exposedKing, veryLong, endgame, crushing, skewer, attraction`. You can [view the full game](https://lichess.org/p1AZ2bJJ),
+and the first solution move is `h3h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
