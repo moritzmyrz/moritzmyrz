@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F1P6%2F8%2F5pp1%2F5k2%2F5PPp%2F1r5P%2F6K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k5r%2FN2q2p1%2FQp2p1p1%2F2bpP3%2F8%2F4B1n1%2F1PP2PP1%2FR4RK1%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [SNRka](https://lichess.org/training/SNRka), rated `1291`.
-The game is `saidlimi (1928)` vs `ZenPractice (2083)` at `3+2` time control,
-with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/viLvW0C1),
-and the first solution move is `f4f3`.
+It is `Black to move` in puzzle [RvRJD](https://lichess.org/training/RvRJD), rated `1432`.
+The game is `jayesh2006 (1857)` vs `Brillant_gmno1 (1858)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/zU6H2uOd),
+and the first solution move is `h8h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
