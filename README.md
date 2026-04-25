@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4b3%2F2R2pk1%2F4P1pn%2F1p1p2N1%2F3P2P1%2F7Q%2Fr4PK1%2F1q6%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=Q4bk1%2F5ppp%2F3p1n2%2F4p3%2F4P3%2FP2N1P1b%2Fq1r3PP%2F3R2RK%20w%20-%20-%206%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [eRmEv](https://lichess.org/training/eRmEv), rated `1313`.
-The game is `Universalis61 (2187)` vs `foldo (2068)` at `15+10` time control,
-with themes `advancedPawn, advantage, short, middlegame`. You can [view the full game](https://lichess.org/GyN96mb3),
-and the first solution move is `e6f7`.
+It is `White to move` in puzzle [lpopj](https://lichess.org/training/lpopj), rated `1606`.
+The game is `Glendack (1735)` vs `sergech (1821)` at `15+15` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/VpdICyxe),
+and the first solution move is `d3b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
