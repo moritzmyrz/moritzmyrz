@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rqb2rk1%2F3nbppp%2F3ppn2%2F8%2F3NP3%2F4BP2%2FPPPQB1PP%2FR4RK1%20w%20-%20-%207%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fk7%2Fp5p1%2F5pPp%2FKP3P1P%2F8%2F8%2F8%20w%20-%20-%203%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DOkEX](https://lichess.org/training/DOkEX), rated `1393`.
-The game is `Veenashar (1858)` vs `rtmdubai (1887)` at `3+2` time control,
-with themes `crushing, fork, short, middlegame`. You can [view the full game](https://lichess.org/9FKcZ2XA),
-and the first solution move is `d4c6`.
+It is `White to move` in puzzle [55LSM](https://lichess.org/training/55LSM), rated `1376`.
+The game is `MasterSili (2386)` vs `barmanparsa (1811)` at `3+0` time control,
+with themes `veryLong, endgame, zugzwang, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/KX2AFYGM),
+and the first solution move is `a4a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
