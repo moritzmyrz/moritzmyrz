@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp1b2b1%2F2p1Pq1p%2F6pQ%2F8%2FP1NP4%2FBPP3PP%2FR4NK1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2k2%2Fp4ppB%2F1pq1p3%2F8%2F3P3R%2Fr4P2%2FP2Q1P1P%2F6K1%20w%20-%20-%201%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [iTVcx](https://lichess.org/training/iTVcx), rated `1494`.
-The game is `sooriya_2004 (1743)` vs `ktotogdetotamto (1783)` at `10+0` time control,
-with themes `deflection, middlegame, long, mateIn3, backRankMate`. You can [view the full game](https://lichess.org/A98sao6J),
-and the first solution move is `f6f2`.
+It is `White to move` in puzzle [fgTnz](https://lichess.org/training/fgTnz), rated `1465`.
+The game is `traskmania (2145)` vs `lupusfulmen (2295)` at `3+2` time control,
+with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/hM9uR350),
+and the first solution move is `d2b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
