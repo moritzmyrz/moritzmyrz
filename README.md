@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F1pq4r%2Fr7%2Fp2pN1p1%2FP2Q1pP1%2F2P5%2F2P5%2F2K1R3%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp1n1pp%2F8%2F4P3%2F3q4%2FP2B1P1b%2F5R1P%2FR1BQ2K1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [N16pK](https://lichess.org/training/N16pK), rated `1431`.
-The game is `moonvixen (1850)` vs `aallanes07 (1821)` at `10+5` time control,
-with themes `exposedKing, deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/PPQfnCvp),
-and the first solution move is `d4d5`.
+It is `White to move` in puzzle [PJYzZ](https://lichess.org/training/PJYzZ), rated `1409`.
+The game is `Goran_giga1967 (1644)` vs `Mohammed99Thabet (1645)` at `3+0` time control,
+with themes `middlegame, short, advantage, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/nV3ftcmH),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
