@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F2p1R1bk%2F7q%2F8%2F3Q4%2F5PK1%2F8%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k4%2Fp4B2%2F6pp%2F8%2F1BP2K2%2FP1P3PP%2F4r3%20b%20-%20-%205%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EH3r0](https://lichess.org/training/EH3r0), rated `1288`.
-The game is `Ahmdnjr12512 (2212)` vs `Chessmaste (2369)` at `5+0` time control,
-with themes `endgame, master, short, advantage, fork`. You can [view the full game](https://lichess.org/zt80UbXy),
-and the first solution move is `h5g4`.
+It is `Black to move` in puzzle [LgrWq](https://lichess.org/training/LgrWq), rated `1313`.
+The game is `stwfansjus (1910)` vs `MadLikeHope (1865)` at `10+5` time control,
+with themes `endgame, short, advantage, skewer`. You can [view the full game](https://lichess.org/GHjYtuGq),
+and the first solution move is `e1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
