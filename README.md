@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fpp1b1pk1%2F4pnn1%2Fq1p3B1%2F2P2P2%2F2P5%2FP1Q1B1PP%2F3R1RK1%20w%20-%20-%203%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fr1n2pbp%2F3p2p1%2F2pP4%2F1qP2N1P%2F4B1R1%2F3N1PK1%2F1Q6%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nIey6](https://lichess.org/training/nIey6), rated `1477`.
-The game is `Capablancc2132 (1809)` vs `dmoney059 (1808)` at `10+0` time control,
-with themes `short, crushing, middlegame`. You can [view the full game](https://lichess.org/EE5LGXtq),
-and the first solution move is `g5f6`.
+It is `White to move` in puzzle [R4WrM](https://lichess.org/training/R4WrM), rated `1291`.
+The game is `Alexander_Shirayev (2061)` vs `Murmansk_resident (2096)` at `7+2` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/9dEcUf0B),
+and the first solution move is `b1b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
