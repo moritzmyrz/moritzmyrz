@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3rr%2Fpp3p1p%2F2p1n3%2F6B1%2F4PRQ1%2FP2Bq2P%2F1PP5%2F1K4R1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R2R1%2Fpp3p1p%2F5k2%2F2p5%2F4KPP1%2F1q6%2F8%2F8%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [z8ruJ](https://lichess.org/training/z8ruJ), rated `1363`.
-The game is `MikhailMudrik (1947)` vs `Suboseg (1935)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/5nVfIRrN),
-and the first solution move is `g8g5`.
+It is `White to move` in puzzle [mLbXq](https://lichess.org/training/mLbXq), rated `1571`.
+The game is `AlFi75015 (2097)` vs `PlaDKapa (2058)` at `3+2` time control,
+with themes `short, queenRookEndgame, blindSwineMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/7HMe4KsH),
+and the first solution move is `g4g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
