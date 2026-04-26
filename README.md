@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r2k%2F1p3ppp%2F1q3n2%2Fpb1p4%2F3P4%2FP1N4P%2F1PBR1PP1%2F3Q1RK1%20w%20-%20-%2010%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3R%2Fp1rk1pp1%2F2pb4%2F6P1%2F3p1P2%2F1PnP4%2FPB4B1%2FK3R3%20w%20-%20-%209%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ciTTk](https://lichess.org/training/ciTTk), rated `1619`.
-The game is `Lt_Labienus (1673)` vs `rvitor (2000)` at `4+0` time control,
-with themes `middlegame, skewer, long, crushing`. You can [view the full game](https://lichess.org/tGBdGEgU),
-and the first solution move is `c3b5`.
+It is `White to move` in puzzle [0jFaq](https://lichess.org/training/0jFaq), rated `1386`.
+The game is `katzenkiller (1737)` vs `orger_move (1748)` at `15+15` time control,
+with themes `mateIn2, short, discoveredCheck, discoveredAttack, middlegame, enPassant`. You can [view the full game](https://lichess.org/PTxvhx4O),
+and the first solution move is `g2h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
