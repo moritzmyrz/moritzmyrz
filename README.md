@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F4p3%2Fppr1P2p%2F1pb1q2P%2F4PN2%2FPQ4P1%2F3R2K1%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F6p1%2F2Q4p%2F6n1%2F3B4%2F1P2PPqb%2F2P3P1%2FR4BK1%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0inIw](https://lichess.org/training/0inIw), rated `1466`.
-The game is `AMAZING_PLAYER (2319)` vs `doktor_fausto (1801)` at `3+0` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/LbyjtXZ8),
-and the first solution move is `d1d8`.
+It is `Black to move` in puzzle [IUMqU](https://lichess.org/training/IUMqU), rated `1337`.
+The game is `alihaji1390 (2093)` vs `SkorpionKS (1749)` at `5+3` time control,
+with themes `middlegame, advantage, long, pin, defensiveMove`. You can [view the full game](https://lichess.org/ieXeJcrZ),
+and the first solution move is `g5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
