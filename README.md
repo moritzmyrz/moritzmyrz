@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp1p2p2%2F3b1Ppp%2F8%2F8%2F1BPQq1P1%2FPP2rPK1%2F5R2%20w%20-%20-%204%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpq3pp1%2F1p5p%2F3r4%2F7b%2F1P4P1%2F4QP1P%2F3R2K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wLmZv](https://lichess.org/training/wLmZv), rated `1610`.
-The game is `Siddhaarth123456789r (1696)` vs `fatini08 (1892)` at `7+3` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/99OGsy1T),
-and the first solution move is `d3g6`.
+It is `White to move` in puzzle [2e4cl](https://lichess.org/training/2e4cl), rated `1521`.
+The game is `MilanaBonita (2280)` vs `BambaleoEU (2235)` at `3+2` time control,
+with themes `veryLong, endgame, advantage, fork`. You can [view the full game](https://lichess.org/OqxV7Bgr),
+and the first solution move is `e2e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
