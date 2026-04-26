@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fppp3pp%2F8%2F2bP1P2%2F2P2B2%2FN4Q2%2FPP2B2q%2FR4KNn%20b%20-%20-%201%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F5r1p%2F8%2F7R%2F4KpP1%2F5P2%2F8%2F8%20w%20-%20-%2011%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [K7IL1](https://lichess.org/training/K7IL1), rated `1342`.
-The game is `BPMF-Nico-S (1946)` vs `HollowFabio (1897)` at `5+3` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/CzJsiVqK),
-and the first solution move is `h2g1`.
+It is `White to move` in puzzle [TBczp](https://lichess.org/training/TBczp), rated `1415`.
+The game is `zarakatajamember (1726)` vs `nomadsoul93 (1722)` at `10+0` time control,
+with themes `endgame, rookEndgame, crushing, short`. You can [view the full game](https://lichess.org/y0u26pQS),
+and the first solution move is `h5f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
