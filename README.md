@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F6p1%2F2Q4p%2F6n1%2F3B4%2F1P2PPqb%2F2P3P1%2FR4BK1%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1ppq3p%2F3p2n1%2F3P1NPb%2F2P2n1P%2FpPQ5%2FP1B2P2%2F2K1R2R%20w%20-%20-%209%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IUMqU](https://lichess.org/training/IUMqU), rated `1337`.
-The game is `alihaji1390 (2093)` vs `SkorpionKS (1749)` at `5+3` time control,
-with themes `middlegame, advantage, long, pin, defensiveMove`. You can [view the full game](https://lichess.org/ieXeJcrZ),
-and the first solution move is `g5f3`.
+It is `White to move` in puzzle [5Nd8y](https://lichess.org/training/5Nd8y), rated `1317`.
+The game is `LeheL12 (1980)` vs `Anas_chess (1940)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/VVaS67fG),
+and the first solution move is `f5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
