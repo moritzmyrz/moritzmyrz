@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F2p3p1%2FppQ4p%2F8%2F3p4%2F1PP1q3%2FP3Br2%2F3KR3%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr2r1%2F1p3p2%2Fp1b1p3%2F3p1q2%2F2nQ4%2FPN1B2P1%2F2PB3P%2F1R1K3R%20b%20-%20-%2010%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [s8hOK](https://lichess.org/training/s8hOK), rated `1329`.
-The game is `wruizc (1760)` vs `Lincoln_Osiris (1784)` at `5+0` time control,
-with themes `endgame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/jx7kd2Dr),
-and the first solution move is `e2c4`.
+It is `Black to move` in puzzle [NydD5](https://lichess.org/training/NydD5), rated `1310`.
+The game is `Urfin_Juz (2304)` vs `Dsanchez1973 (2241)` at `3+0` time control,
+with themes `short, crushing, fork, master, middlegame`. You can [view the full game](https://lichess.org/FRFvVHYk),
+and the first solution move is `f5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
