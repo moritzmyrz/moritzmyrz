@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rqk1b1r%2F4nQp1%2F1pBp1p2%2Fp1p1p3%2FP3P2P%2F2N2b2%2F1PP2P2%2FR3K1R1%20w%20Q%20-%206%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fpb2pp1p%2F3p4%2F1BnP1N2%2FPb2P3%2F8%2F3N1PPP%2F3Q1RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vmvAn](https://lichess.org/training/vmvAn), rated `1460`.
-The game is `Or10n_Daddy (1782)` vs `vidanyy (1778)` at `10+5` time control,
-with themes `middlegame, short, mateIn2`. You can [view the full game](https://lichess.org/LkzRscjb),
-and the first solution move is `f7e8`.
+It is `White to move` in puzzle [6uPBT](https://lichess.org/training/6uPBT), rated `1285`.
+The game is `Asopdias (1942)` vs `asxetos123 (2028)` at `5+2` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/2DdnGPx5),
+and the first solution move is `d1g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
