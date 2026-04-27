@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkR%2F2p5%2F5Qp1%2F5q2%2F6NP%2F4rpPK%2F8%20b%20-%20-%205%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3r1%2Fp2p1kpR%2F1p1Pp3%2F4Qp2%2F5Pq1%2F2B3P1%2FPPP3K1%2F8%20w%20-%20-%2014%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [683eO](https://lichess.org/training/683eO), rated `1529`.
-The game is `Raiyankabir (2047)` vs `Ahamdareef (2099)` at `10+0` time control,
-with themes `short, crushing, pin, endgame`. You can [view the full game](https://lichess.org/9Re5fsOw),
-and the first solution move is `g7g8`.
+It is `White to move` in puzzle [27eqs](https://lichess.org/training/27eqs), rated `1613`.
+The game is `NocheAdentro (1679)` vs `Avinashtiwari22 (1652)` at `3+0` time control,
+with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/88PpZmFr),
+and the first solution move is `e5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
