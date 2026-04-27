@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k1r1%2F3n1pp1%2Fp1p5%2F1p1pqQ1P%2F8%2F8%2FP1P2B2%2FR4BK1%20w%20q%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp4pp1%2F7p%2F4P3%2F3B4%2F3P3P%2Fqp4P1%2F1R1Q2K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WZgkr](https://lichess.org/training/WZgkr), rated `1453`.
-The game is `Aadlaan (1917)` vs `Pionneken (1877)` at `10+0` time control,
-with themes `short, advantage, pin, middlegame`. You can [view the full game](https://lichess.org/PEZaTuON),
-and the first solution move is `a1e1`.
+It is `Black to move` in puzzle [iRrh9](https://lichess.org/training/iRrh9), rated `1510`.
+The game is `Kalobs (1853)` vs `JavixAND (1846)` at `3+0` time control,
+with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/wQgvyXKV),
+and the first solution move is `a2b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
