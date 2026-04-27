@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4k3%2F4P3%2F5KbP%2F8%2F8%2F8%20w%20-%20-%200%2071&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pp%2F2k2p2%2Fp1B4P%2FP1K2PP1%2F2N4r%2F8%2F8%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hyMOd](https://lichess.org/training/hyMOd), rated `1408`.
-The game is `FightToImprove (2156)` vs `thaeraffouf (2245)` at `3+2` time control,
-with themes `long, crushing, defensiveMove, endgame`. You can [view the full game](https://lichess.org/hJTPeDx0),
-and the first solution move is `f4g4`.
+It is `Black to move` in puzzle [48LDR](https://lichess.org/training/48LDR), rated `1281`.
+The game is `Gallium123 (2187)` vs `kuya_boomz (2045)` at `10+0` time control,
+with themes `deflection, endgame, zugzwang, crushing, long`. You can [view the full game](https://lichess.org/9oNtO74K),
+and the first solution move is `h3c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
