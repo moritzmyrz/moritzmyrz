@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp2ppbp%2F1n1p1np1%2Fq1pP4%2FN3P3%2F1P1BBN2%2FP1P2PPP%2FR2Q1RK1%20w%20-%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k1r1%2F3n1pp1%2Fp1p5%2F1p1pqQ1P%2F8%2F8%2FP1P2B2%2FR4BK1%20w%20q%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BcvPK](https://lichess.org/training/BcvPK), rated `1468`.
-The game is `loozah (1624)` vs `ecorp (1630)` at `15+15` time control,
-with themes `middlegame, trappedPiece, advantage, short`. You can [view the full game](https://lichess.org/j8VuRqdJ),
-and the first solution move is `e3d2`.
+It is `White to move` in puzzle [WZgkr](https://lichess.org/training/WZgkr), rated `1453`.
+The game is `Aadlaan (1917)` vs `Pionneken (1877)` at `10+0` time control,
+with themes `short, advantage, pin, middlegame`. You can [view the full game](https://lichess.org/PEZaTuON),
+and the first solution move is `a1e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
