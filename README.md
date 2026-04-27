@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4R3%2F4p1K1%2F8%2F5P1p%2F4r2P%2F8%2F8%20w%20-%20-%200%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fpp3pp1%2F2nb3p%2F1B1p4%2F3P4%2FP4N1P%2F1P3PP1%2FR1BQK2R%20b%20KQkq%20-%201%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [r2oih](https://lichess.org/training/r2oih), rated `1334`.
-The game is `axel1702 (2408)` vs `AlexVerzhansky (2376)` at `3+0` time control,
-with themes `endgame, master, rookEndgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/ZZs8WBN9),
-and the first solution move is `e7e8`.
+It is `Black to move` in puzzle [gCSG9](https://lichess.org/training/gCSG9), rated `1542`.
+The game is `laryk (1854)` vs `VitaminE407 (1738)` at `10+5` time control,
+with themes `crushing, fork, long, opening`. You can [view the full game](https://lichess.org/1xfda4ot),
+and the first solution move is `d8a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
