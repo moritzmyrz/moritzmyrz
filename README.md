@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1b3pp1%2Fp7%2F7Q%2F3p1B1P%2F7K%2FPPP1r1r1%2FR5R1%20b%20-%20-%202%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1p3pp%2F2p5%2F2pqQ3%2F8%2F3P1N2%2FPPP2Pb1%2FR5K1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rZbyz](https://lichess.org/training/rZbyz), rated `1441`.
-The game is `ChessFan121 (1851)` vs `Carlos-Dimas (1769)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/zs0RBhWQ),
-and the first solution move is `b7c8`.
+It is `White to move` in puzzle [SBBGO](https://lichess.org/training/SBBGO), rated `1327`.
+The game is `blackhat_einstein (1729)` vs `mohsen_ali_2 (1814)` at `10+0` time control,
+with themes `endgame, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/upmamAQC),
+and the first solution move is `e5d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
