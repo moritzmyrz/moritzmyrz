@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2F3r1pp1%2Fp3p3%2F3bP2p%2F5P2%2FB7%2F1P1q2PP%2F3QR1RK%20b%20k%20-%201%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2Fp4p1p%2F1pb2bp1%2F3q4%2F8%2F1P2BP2%2FP2QB1PP%2F2RR2K1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [i7zJg](https://lichess.org/training/i7zJg), rated `1327`.
-The game is `dong_machine (1612)` vs `franckmunar (1643)` at `10+0` time control,
-with themes `middlegame, crushing, long, kingsideAttack`. You can [view the full game](https://lichess.org/tmYNRa0P),
-and the first solution move is `d5g2`.
+It is `White to move` in puzzle [JIony](https://lichess.org/training/JIony), rated `1499`.
+The game is `TheriseofDragon8212 (2195)` vs `un_juanse (2136)` at `15+10` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/A4z7lwRv),
+and the first solution move is `d2d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
