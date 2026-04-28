@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2k4%2Fpp1q2Q1%2F3p1p2%2F2bPp1B1%2F8%2F3P3r%2FPPP2PP1%2F5RK1%20w%20-%20-%202%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2FppBp1ppp%2F8%2F4n3%2F3N4%2F2P5%2FP1P2PPP%2FR3KB1R%20b%20KQ%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NGMtJ](https://lichess.org/training/NGMtJ), rated `1351`.
-The game is `sswami (1581)` vs `Reyestrategia (1549)` at `5+0` time control,
-with themes `exposedKing, middlegame, advantage, long`. You can [view the full game](https://lichess.org/F8IpPhef),
-and the first solution move is `g5f6`.
+It is `Black to move` in puzzle [rCUh1](https://lichess.org/training/rCUh1), rated `1481`.
+The game is `gamma401 (1905)` vs `rubickray (1974)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, discoveredCheck, doubleCheck`. You can [view the full game](https://lichess.org/Ecu3yjAm),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
