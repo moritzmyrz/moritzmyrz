@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2FP1pp1ppp%2Fb7%2F4q3%2F1P6%2F2p5%2F5PPP%2F1NBQR1K1%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5q2%2F5ppk%2F4p3%2F1N6%2Fr2P1P1p%2F2Q1P2P%2F6PK%2F8%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [tKDz4](https://lichess.org/training/tKDz4), rated `1591`.
-The game is `Daniel112005 (1822)` vs `pouyaaa (1947)` at `45+5` time control,
-with themes `advancedPawn, middlegame, crushing, long, promotion`. You can [view the full game](https://lichess.org/e5EGgTCc),
+It is `White to move` in puzzle [fykcK](https://lichess.org/training/fykcK), rated `1394`.
+The game is `tunacem (2261)` vs `LoeChess2007 (2249)` at `3+0` time control,
+with themes `endgame, master, short, advantage, fork`. You can [view the full game](https://lichess.org/HRYHWpgw),
 and the first solution move is `c3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
