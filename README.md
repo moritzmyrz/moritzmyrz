@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpp4pp%2F8%2F4R3%2F1P3n2%2FP2P1q2%2FQ6P%2F5RK1%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2Fppp2ppp%2F3p4%2F8%2F2n1PP1q%2F2N4P%2FPP2K1P1%2FR1BQ1B1R%20w%20kq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rRj5R](https://lichess.org/training/rRj5R), rated `1430`.
-The game is `HvHd (1917)` vs `theragnar_lothbrok (1934)` at `10+0` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/AQATUpmK),
-and the first solution move is `f4h3`.
+It is `White to move` in puzzle [1LO5c](https://lichess.org/training/1LO5c), rated `1309`.
+The game is `pedromxavier (1749)` vs `loriz_78 (1795)` at `15+15` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/BmbsQ0NG),
+and the first solution move is `d1a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
