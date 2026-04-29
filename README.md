@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F1Q2p2p%2F8%2F3r4%2F1P6%2FP1qr1PPP%2F2R2RK1%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2k2%2F1R5p%2F5pp1%2F1P1B4%2F8%2F3q3P%2F6P1%2F1R5K%20w%20-%20-%207%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IIUpC](https://lichess.org/training/IIUpC), rated `1478`.
-The game is `Viktoriia24 (1675)` vs `franco658 (1713)` at `3+2` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/UqzmlIei),
-and the first solution move is `c2c1`.
+It is `White to move` in puzzle [9Cds1](https://lichess.org/training/9Cds1), rated `1335`.
+The game is `tbarnecki (1802)` vs `schmidt84 (1780)` at `15+10` time control,
+with themes `exposedKing, endgame, long, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/0k8MLZAr),
+and the first solution move is `b7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
