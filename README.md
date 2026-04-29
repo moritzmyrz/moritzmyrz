@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F5pk1%2Fp6R%2F3Pp1pQ%2F1P1qPp2%2F7P%2F5PPK%2F8%20w%20-%20-%205%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2F1p4p1%2Fp1nqprB1%2F4p2Q%2F3P4%2F2P2N2%2F6PP%2FR4K2%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TIkaw](https://lichess.org/training/TIkaw), rated `1319`.
-The game is `andrey-sh (1618)` vs `Zitrom (1643)` at `10+5` time control,
-with themes `deflection, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/kjmPvbP8),
-and the first solution move is `h5g5`.
+It is `White to move` in puzzle [O1oM5](https://lichess.org/training/O1oM5), rated `1485`.
+The game is `ReyChess52 (2124)` vs `Mayorcas (2046)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/ddu56lEe),
+and the first solution move is `h5h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
