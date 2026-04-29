@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p2%2F1p2p1p1%2F1Q1p3p%2F3P3P%2F3N1P1K%2FPP2q1P1%2F5n2%20w%20-%20-%201%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1Q3ppp%2Fp2R4%2F8%2F5q2%2FP1P3PP%2F1P3P2%2F4R1K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zteI6](https://lichess.org/training/zteI6), rated `1381`.
-The game is `PompeiusMagnus (2024)` vs `Superchad (2086)` at `5+0` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/9GEaU3I2),
-and the first solution move is `b5e8`.
+It is `Black to move` in puzzle [JFbYh](https://lichess.org/training/JFbYh), rated `1309`.
+The game is `beytikebap (1569)` vs `perrojuan100 (1538)` at `3+0` time control,
+with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/XSoniIaV),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
