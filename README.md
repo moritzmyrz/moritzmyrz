@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn4k1%2Fp1p3p1%2F1p2pn1p%2F8%2F3P4%2F3QBq2%2FPPP2P1b%2FR3K1R1%20w%20Q%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r2bk1%2F2q2ppp%2F1n2b3%2F4pN2%2Fpp3nPQ%2F3B1P2%2FPPPN3P%2F1KBR3R%20w%20-%20-%206%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [socrR](https://lichess.org/training/socrR), rated `1533`.
-The game is `krishna8040 (1791)` vs `zaza1988 (1773)` at `5+3` time control,
-with themes `middlegame, crushing, attraction, long, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/ayk64TVz),
-and the first solution move is `g1g7`.
+It is `White to move` in puzzle [2pQwI](https://lichess.org/training/2pQwI), rated `1319`.
+The game is `Diggus_Bickus (2196)` vs `Mustang6000 (2194)` at `3+2` time control,
+with themes `master, fork, long, mateIn3, sacrifice, opening`. You can [view the full game](https://lichess.org/5uXz63iD),
+and the first solution move is `f5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
