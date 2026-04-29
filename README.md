@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp2n1pp1%2F1p1Pp2p%2F2p5%2F2PPBn1q%2FP1P1BP2%2F2Q2P1P%2FR3R1K1%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpp4pp%2F8%2F4R3%2F1P3n2%2FP2P1q2%2FQ6P%2F5RK1%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [o3DUk](https://lichess.org/training/o3DUk), rated `1522`.
-The game is `Den_Sharavara (1784)` vs `InspectorLestrade (1790)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/d3QqPIVd),
-and the first solution move is `h4g5`.
+It is `Black to move` in puzzle [rRj5R](https://lichess.org/training/rRj5R), rated `1430`.
+The game is `HvHd (1917)` vs `theragnar_lothbrok (1934)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/AQATUpmK),
+and the first solution move is `f4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
