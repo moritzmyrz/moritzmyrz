@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5q1p%2F1R6%2F2p2pp1%2F3nnQPk%2FP7%2F7P%2F7K%20w%20-%20-%201%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp7%2F1p4pp%2F1P6%2FP4PKP%2F4k3%2F8%20w%20-%20-%204%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [beQFV](https://lichess.org/training/beQFV), rated `1314`.
-The game is `MLG08910 (1972)` vs `turon2023 (2017)` at `10+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/d69vapxu),
-and the first solution move is `b6h6`.
+It is `White to move` in puzzle [KpQwR](https://lichess.org/training/KpQwR), rated `1327`.
+The game is `Abdulfettahsever1977 (1698)` vs `avantura3 (1931)` at `5+0` time control,
+with themes `endgame, crushing, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/pnTJUE91),
+and the first solution move is `f3f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
