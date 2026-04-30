@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F8%2F1p1kp3%2F1P3r2%2F2PK1PR1%2F8%20b%20-%20-%201%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2F6pp%2F3p1N2%2F2p5%2F2QbbP2%2F1P6%2FP1PK2Pq%2F3R4%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [SmWoH](https://lichess.org/training/SmWoH), rated `1555`.
-The game is `Baluk (2384)` vs `sergey050181 (2445)` at `10+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, fork, sacrifice, rookEndgame, attraction`. You can [view the full game](https://lichess.org/YTkcEUI8),
-and the first solution move is `f3f2`.
+It is `White to move` in puzzle [mmd3z](https://lichess.org/training/mmd3z), rated `1602`.
+The game is `natalia2006 (1806)` vs `ante52 (1857)` at `15+5` time control,
+with themes `middlegame, crushing, skewer, long`. You can [view the full game](https://lichess.org/MUk0PoV1),
+and the first solution move is `c4g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
