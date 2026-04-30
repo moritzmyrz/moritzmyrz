@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fppp3p1%2F2np4%2F5pq1%2F8%2F2PB1p2%2FPP4PQ%2F4R1K1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1pp2pkp%2F3p1np1%2F8%2F4PP2%2F1BpQ1N1P%2FqP4P1%2FrNKRR3%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [X17SM](https://lichess.org/training/X17SM), rated `1387`.
-The game is `DibyaJyotiBora (1611)` vs `MihailKotov (1599)` at `3+0` time control,
-with themes `endgame, long, mateIn3, pin`. You can [view the full game](https://lichess.org/ForZRd9d),
-and the first solution move is `d3c4`.
+It is `Black to move` in puzzle [04XCB](https://lichess.org/training/04XCB), rated `1466`.
+The game is `XX_TAHK_XX (1877)` vs `sima1978 (1871)` at `10+0` time control,
+with themes `middlegame, queensideAttack, oneMove, mateIn1`. You can [view the full game](https://lichess.org/NlfI3Dg4),
+and the first solution move is `a2b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
