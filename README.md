@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6Q1%2F3kpp2%2F3p3P%2F2nP4%2Fq3PK2%2F8%2F8%20w%20-%20-%204%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1r2%2Fpp5k%2F2pp2p1%2F4b3%2F2P5%2F2N4P%2FPPB3P1%2F1R1Q2K1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1JcHx](https://lichess.org/training/1JcHx), rated `1358`.
-The game is `Biznismen97 (2146)` vs `Neoromantik (2399)` at `3+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing`. You can [view the full game](https://lichess.org/wpbb2wXo),
-and the first solution move is `g7f8`.
+It is `White to move` in puzzle [lO7Cf](https://lichess.org/training/lO7Cf), rated `1361`.
+The game is `kjr97 (2024)` vs `ficher-alhosiny (2170)` at `3+2` time control,
+with themes `deflection, middlegame, crushing, long, pin`. You can [view the full game](https://lichess.org/E3vRyvT8),
+and the first solution move is `d1h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
