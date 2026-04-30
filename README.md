@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2F2qbn1pp%2F2n5%2F1BppR3%2F5B2%2F3P4%2FPPP2PPP%2FR2Q2K1%20w%20kq%20-%201%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q4%2Fp3n2k%2F1p1p1Rpp%2F2pP4%2F2P2Q2%2F1N1b2P1%2FPP6%2F6K1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Qa9au](https://lichess.org/training/Qa9au), rated `1434`.
-The game is `Cirius (1721)` vs `thales24 (1690)` at `10+0` time control,
-with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/zu0qGzZm),
-and the first solution move is `e5e7`.
+It is `White to move` in puzzle [0fp4f](https://lichess.org/training/0fp4f), rated `1583`.
+The game is `crissam (2078)` vs `Solihinujang (2080)` at `10+10` time control,
+with themes `clearance, middlegame, advantage, long`. You can [view the full game](https://lichess.org/NxehZer1),
+and the first solution move is `f6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
