@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7K%2F1p3k2%2Fp1p3pp%2FP1P4P%2F1P4P1%2F8%2F8%20w%20-%20-%200%2062&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3nr%2Fppp2bb1%2F4p3%2F4N2p%2F6B1%2F2P1PN2%2FPP3PP1%2F3K3R%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ljhL4](https://lichess.org/training/ljhL4), rated `1516`.
-The game is `meliodas419 (2501)` vs `Fluke180 (2442)` at `3+0` time control,
-with themes `endgame, master, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/rc77MkT4),
-and the first solution move is `h7h6`.
+It is `Black to move` in puzzle [j9lEk](https://lichess.org/training/j9lEk), rated `1624`.
+The game is `qtlite (1516)` vs `ayflyking (1573)` at `3+2` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/T7p5Hmkl),
+and the first solution move is `h5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
