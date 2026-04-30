@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fppr1p3%2F3p1p1p%2F6pP%2F2bRB3%2F2P2P2%2FPKP3P1%2F4R3%20w%20-%20-%204%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2F2qbn1pp%2F2n5%2F1BppR3%2F5B2%2F3P4%2FPPP2PPP%2FR2Q2K1%20w%20kq%20-%201%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BdJ4L](https://lichess.org/training/BdJ4L), rated `1616`.
-The game is `ramonching816roxas (2092)` vs `KingKrusher99 (2322)` at `15+10` time control,
-with themes `exposedKing, endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/RfZefhhj),
-and the first solution move is `d4c4`.
+It is `White to move` in puzzle [Qa9au](https://lichess.org/training/Qa9au), rated `1434`.
+The game is `Cirius (1721)` vs `thales24 (1690)` at `10+0` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/zu0qGzZm),
+and the first solution move is `e5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
