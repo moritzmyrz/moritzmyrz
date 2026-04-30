@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1bp3qr%2F3p2Q1%2Fpp1Pp3%2F4P1P1%2F8%2FPPP2P2%2F2K4R%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1p3ppp%2F8%2F3Q2B1%2F8%2F1P4P1%2FP2p1P1P%2F3q1RK1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [m7uhX](https://lichess.org/training/m7uhX), rated `1413`.
-The game is `cumhurozdemir (1673)` vs `Blessing_02 (1675)` at `10+0` time control,
-with themes `exposedKing, endgame, crushing, long`. You can [view the full game](https://lichess.org/cQZjJvMN),
-and the first solution move is `g6e8`.
+It is `Black to move` in puzzle [cPhsp](https://lichess.org/training/cPhsp), rated `1553`.
+The game is `joni1953 (2197)` vs `Ownedbyta (2019)` at `15+5` time control,
+with themes `veryLong, endgame, advancedPawn, advantage, attraction, sacrifice, promotion`. You can [view the full game](https://lichess.org/OcEJ4YzA),
+and the first solution move is `d1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
