@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1pp2pkp%2F3p1np1%2F8%2F4PP2%2F1BpQ1N1P%2FqP4P1%2FrNKRR3%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2k2p2%2F5Ppp%2F8%2F2K3P1%2F7P%2F8%20b%20-%20-%202%2047&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [04XCB](https://lichess.org/training/04XCB), rated `1466`.
-The game is `XX_TAHK_XX (1877)` vs `sima1978 (1871)` at `10+0` time control,
-with themes `middlegame, queensideAttack, oneMove, mateIn1`. You can [view the full game](https://lichess.org/NlfI3Dg4),
-and the first solution move is `a2b2`.
+It is `Black to move` in puzzle [th0g2](https://lichess.org/training/th0g2), rated `1284`.
+The game is `Pat_Mac (1752)` vs `JuiceBout01 (1746)` at `10+0` time control,
+with themes `long, pawnEndgame, crushing, endgame`. You can [view the full game](https://lichess.org/3pbDEGLh),
+and the first solution move is `c6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
