@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2k2p2%2F5Ppp%2F8%2F2K3P1%2F7P%2F8%20b%20-%20-%202%2047&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k1r3%2Fppp2p2%2F4b3%2F3Nb3%2F1PP2p2%2Fr7%2F2KR1P2%2F3R4%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [th0g2](https://lichess.org/training/th0g2), rated `1284`.
-The game is `Pat_Mac (1752)` vs `JuiceBout01 (1746)` at `10+0` time control,
-with themes `long, pawnEndgame, crushing, endgame`. You can [view the full game](https://lichess.org/3pbDEGLh),
-and the first solution move is `c6d5`.
+It is `White to move` in puzzle [11qdB](https://lichess.org/training/11qdB), rated `1508`.
+The game is `Kavindra (1701)` vs `chfuglset (1732)` at `3+2` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/FIRgNWWK),
+and the first solution move is `d5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
