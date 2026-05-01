@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5Q2%2Fkr6%2F4p2P%2Fp1rq4%2FP7%2F1P2nPP1%2FK1R3R1%20w%20-%20-%204%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fppp2ppp%2F5b2%2F3q4%2F4Q3%2F3P1N2%2FPPP2PPP%2FRN2KB1R%20b%20KQkq%20-%200%208&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iCN5E](https://lichess.org/training/iCN5E), rated `1534`.
-The game is `Dani001187 (1983)` vs `erkanceyhan (1913)` at `10+0` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/eZyVRV2k),
-and the first solution move is `f7c4`.
+It is `Black to move` in puzzle [hP5lW](https://lichess.org/training/hP5lW), rated `1300`.
+The game is `philhippo (1678)` vs `Stefanwaal (1753)` at `5+3` time control,
+with themes `crushing, short, opening`. You can [view the full game](https://lichess.org/zygbIkGe),
+and the first solution move is `d5e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
