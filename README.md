@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1k4pp%2F3Kp3%2F1P1pPp1P%2F5P2%2F5P2%2F8%2F8%20b%20-%20-%202%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p2r2p%2Fp3k2b%2F2P5%2F1P6%2FP2R1KPP%2F8%2F8%20w%20-%20-%205%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [u5J1R](https://lichess.org/training/u5J1R), rated `1633`.
-The game is `sergMax2022 (2014)` vs `PowerPuffHamdi (2061)` at `3+2` time control,
-with themes `endgame, crushing, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/HaPWZr5i),
-and the first solution move is `d5d4`.
+It is `White to move` in puzzle [0e9x4](https://lichess.org/training/0e9x4), rated `1310`.
+The game is `pablo17 (2286)` vs `AndreyNeves (2268)` at `3+0` time control,
+with themes `endgame, master, short, advantage, skewer`. You can [view the full game](https://lichess.org/o8kAssaC),
+and the first solution move is `d3d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
