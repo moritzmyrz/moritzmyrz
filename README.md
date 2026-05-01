@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2R5%2F5rk1%2F3N4%2F2pPp2P%2F2P1P2q%2F2Q5%2F4B1PP%2F6K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fp4pp1%2F2nq1n1B%2F4pP2%2F3pP3%2FR5QP%2F1PP3B1%2F5RK1%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gZGv0](https://lichess.org/training/gZGv0), rated `1446`.
-The game is `Bntary007 (2264)` vs `JohnRed_123 (2317)` at `5+0` time control,
-with themes `endgame, master, fork, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/rn5hG5Qc),
-and the first solution move is `h4f2`.
+It is `Black to move` in puzzle [caV8s](https://lichess.org/training/caV8s), rated `1523`.
+The game is `mnki (2055)` vs `ALPIGITTO (2006)` at `10+7` time control,
+with themes `middlegame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/bbamgXpd),
+and the first solution move is `f6h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
