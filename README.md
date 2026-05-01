@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FR7%2F3KN1k1%2F2P2p2%2F1r5p%2F8%2F6b1%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3b3r%2F1p6%2F1k2p3%2F8%2F1K1P2p1%2F4B3%2F5P1p%2F2R5%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BQnDc](https://lichess.org/training/BQnDc), rated `1254`.
-The game is `kivyy (2658)` vs `Koshulyan_Egor (2705)` at `3+0` time control,
-with themes `endgame, master, short, advantage, skewer`. You can [view the full game](https://lichess.org/VyqHuv4N),
-and the first solution move is `a7g7`.
+It is `White to move` in puzzle [TGLtN](https://lichess.org/training/TGLtN), rated `1311`.
+The game is `Buchi63 (1575)` vs `DolusLeSec (1560)` at `2+1` time control,
+with themes `exposedKing, endgame, discoveredCheck, long, mateIn3, discoveredAttack, pillsburysMate`. You can [view the full game](https://lichess.org/FiLZbiiU),
+and the first solution move is `d4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
