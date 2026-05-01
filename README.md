@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3nr%2Fppp2bb1%2F4p3%2F4N2p%2F6B1%2F2P1PN2%2FPP3PP1%2F3K3R%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k2r1%2FBR6%2Fp2p2q1%2F4p2p%2F5p2%2F5P1P%2FPP3P1K%2F2R5%20w%20-%20-%203%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [j9lEk](https://lichess.org/training/j9lEk), rated `1624`.
-The game is `qtlite (1516)` vs `ayflyking (1573)` at `3+2` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/T7p5Hmkl),
-and the first solution move is `h5g4`.
+It is `White to move` in puzzle [2yXRB](https://lichess.org/training/2yXRB), rated `1441`.
+The game is `RaChIdOvE (2093)` vs `Flexmachinov (2064)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/X4rP8R21),
+and the first solution move is `a7b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
