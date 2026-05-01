@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1q1nR1p1%2F6k1%2F7p%2F1p1B2P1%2F1P6%2F2P2P1P%2F6K1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4pq1%2F4p1p1%2F3p4%2F3r1Q2%2F8%2FP4PP1%2F2R3K1%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lN3O5](https://lichess.org/training/lN3O5), rated `1358`.
-The game is `Corre_por_tu_vida (2619)` vs `Arad_Nazari (2723)` at `3+0` time control,
-with themes `master, short, masterVsMaster, endgame, mateIn2`. You can [view the full game](https://lichess.org/TFJqrzqi),
-and the first solution move is `e7g7`.
+It is `White to move` in puzzle [1MIdA](https://lichess.org/training/1MIdA), rated `1522`.
+The game is `aVague (1878)` vs `ERICA69 (1887)` at `3+2` time control,
+with themes `endgame, advantage, attraction, deflection, veryLong`. You can [view the full game](https://lichess.org/Zdr21xJR),
+and the first solution move is `c1c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
