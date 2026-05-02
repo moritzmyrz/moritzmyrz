@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp6p%2F2Q3p1%2F3p2q1%2F3P1r2%2FP3P2P%2F1P4P1%2FR4RK1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fp4pp1%2F1p2b2p%2F2np4%2F2nN4%2F2P1BP2%2FPQ2B1PP%2F1R1R2K1%20w%20-%20-%203%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ptNd6](https://lichess.org/training/ptNd6), rated `1350`.
-The game is `akkorobkov (1538)` vs `Alinasr22 (1578)` at `3+2` time control,
-with themes `deflection, endgame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/IwvBtKdD),
-and the first solution move is `f4f1`.
+It is `White to move` in puzzle [H3Y3K](https://lichess.org/training/H3Y3K), rated `1487`.
+The game is `BayShoreMarauder (1854)` vs `mohamed_samir14 (1858)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/eGQvRl0S),
+and the first solution move is `e2c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
