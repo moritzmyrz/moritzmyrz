@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2FpB4kp%2F6p1%2F2pQp1q1%2F3n4%2F8%2FPPPP2PK%2FR1B2R2%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F6p1%2Fq3Q2p%2F3P4%2Fp7%2F6P1%2F5PKP%2F8%20b%20-%20-%201%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yntUN](https://lichess.org/training/yntUN), rated `1313`.
-The game is `tykpyk (2422)` vs `alfanje2020 (2320)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/MyG9sT5O),
-and the first solution move is `g5h4`.
+It is `Black to move` in puzzle [YEr8B](https://lichess.org/training/YEr8B), rated `1383`.
+The game is `dariush891 (1917)` vs `onlineweather (1912)` at `10+0` time control,
+with themes `short, crushing, defensiveMove, endgame, queenEndgame`. You can [view the full game](https://lichess.org/6WTvdSy9),
+and the first solution move is `a6e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
