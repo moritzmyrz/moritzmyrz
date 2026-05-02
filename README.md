@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fpb4pp%2F3P1p1n%2F2n5%2F2B5%2F1PB2N2%2FP4KPP%2F3R4%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F1pp3Q1%2Fp1n1k1P1%2FP3p3%2F1PP5%2F2P1p3%2F3q1P2%2F5RK1%20w%20-%20-%201%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [nnftC](https://lichess.org/training/nnftC), rated `1380`.
-The game is `Edilson6 (1611)` vs `FI123581321 (1621)` at `3+0` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/cP3oLqO1),
-and the first solution move is `c5e4`.
+It is `White to move` in puzzle [4xETr](https://lichess.org/training/4xETr), rated `1580`.
+The game is `Max_Spacewalker (1908)` vs `Agata_larin (1885)` at `5+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Ae7SEtxC),
+and the first solution move is `g7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
