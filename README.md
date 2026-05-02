@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1kb1r%2Fpp3ppp%2F2p2q2%2F8%2F4P3%2F2pB1N2%2FPPPP2PP%2FR1BQK2R%20b%20KQkq%20-%201%208&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp1r1p2%2F2p2Qp1%2Fb1PbPpNq%2FP2P4%2F6RP%2F5PP1%2FR5K1%20b%20-%20-%208%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MKCXC](https://lichess.org/training/MKCXC), rated `1573`.
-The game is `Fukofski1978 (1705)` vs `baecula (1913)` at `10+8` time control,
-with themes `advancedPawn, short, advantage, fork, opening`. You can [view the full game](https://lichess.org/4Y7iCKmD),
-and the first solution move is `c3b2`.
+It is `Black to move` in puzzle [kcV3G](https://lichess.org/training/kcV3G), rated `1571`.
+The game is `fujsu (1644)` vs `Castle17 (1667)` at `10+0` time control,
+with themes `middlegame, crushing, trappedPiece, short`. You can [view the full game](https://lichess.org/BHXcpmhm),
+and the first solution move is `a5d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
