@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp4pp%2F1q2pn2%2F4P3%2F3Q4%2F2N5%2FPP4PP%2F3R2K1%20w%20-%20-%201%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp6p%2F2Q3p1%2F3p2q1%2F3P1r2%2FP3P2P%2F1P4P1%2FR4RK1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lXadA](https://lichess.org/training/lXadA), rated `1278`.
-The game is `L-Jj (1581)` vs `Orangepenguyn (1945)` at `3+0` time control,
-with themes `endgame, crushing, long`. You can [view the full game](https://lichess.org/lMzW5jKp),
-and the first solution move is `d4b6`.
+It is `Black to move` in puzzle [ptNd6](https://lichess.org/training/ptNd6), rated `1350`.
+The game is `akkorobkov (1538)` vs `Alinasr22 (1578)` at `3+2` time control,
+with themes `deflection, endgame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/IwvBtKdD),
+and the first solution move is `f4f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
