@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3Q1ppp%2F4r3%2F8%2F2qP4%2F8%2FP5PP%2F4rR1K%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q2k1%2F1bp2Npp%2Fpbn5%2F1p1Br3%2F8%2F2P5%2FPP3PPP%2FRNBQR1K1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Jgq4M](https://lichess.org/training/Jgq4M), rated `1630`.
-The game is `fishifish (1899)` vs `emrahboztepe (1881)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/g2w3GUd4),
-and the first solution move is `d7f7`.
+It is `Black to move` in puzzle [cXxYy](https://lichess.org/training/cXxYy), rated `1385`.
+The game is `Baris_15 (1647)` vs `Degghi (1616)` at `10+0` time control,
+with themes `middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/NKI4i1Ug),
+and the first solution move is `e5e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
