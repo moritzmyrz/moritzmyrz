@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k3r%2F4ppbp%2Fp5p1%2F1ppb2N1%2F8%2F2P5%2FPPN2PPP%2F2K4R%20w%20-%20-%202%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rr6%2Fk1p5%2Fb1Q3R1%2F3pPP2%2F3Pq2P%2F4B3%2F3R1K2%2F1q6%20w%20-%20-%203%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6WpTX](https://lichess.org/training/6WpTX), rated `1474`.
-The game is `Michael-silungwe03 (2268)` vs `robertoyepez (2280)` at `3+0` time control,
-with themes `endgame, master, advantage, fork, long, pin, interference`. You can [view the full game](https://lichess.org/5RzS1Vej),
-and the first solution move is `h1d1`.
+It is `White to move` in puzzle [FSMwU](https://lichess.org/training/FSMwU), rated `1346`.
+The game is `kehsiba (1968)` vs `Erfan1370000 (1964)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/woqBXBks),
+and the first solution move is `c6a6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
