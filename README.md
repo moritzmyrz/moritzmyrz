@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fp6p%2F2p3p1%2F4qn1k%2FNp2Nn1b%2F1B6%2FPP5P%2F7K%20w%20-%20-%208%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1q1bb1p1%2Fp1n1pnp1%2F1p1p2N1%2F2pP1B2%2F2P1PN2%2FPPQ2PPP%2FR3K2R%20w%20KQkq%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dUK23](https://lichess.org/training/dUK23), rated `1371`.
-The game is `dr_sayed_elnemr (2093)` vs `Arturo15076 (2122)` at `5+3` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/T71Ld3ve),
-and the first solution move is `b3d1`.
+It is `White to move` in puzzle [MKKVk](https://lichess.org/training/MKKVk), rated `1322`.
+The game is `IwannaTakashawa (1692)` vs `Klabbarparn1604 (1734)` at `2+1` time control,
+with themes `exposedKing, middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/jnlVpn0M),
+and the first solution move is `c2g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
