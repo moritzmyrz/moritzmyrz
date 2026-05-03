@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2r1k%2F1b2qpp1%2Fp2p1R1p%2F1p4N1%2FPP2P2Q%2F2PP4%2F1p4PP%2F5RK1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fppp2p2%2F2p3p1%2F2BbP2p%2F8%2F3P2QP%2FP1PK1PP1%2Fq4B1R%20w%20kq%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [E0eEa](https://lichess.org/training/E0eEa), rated `1540`.
-The game is `Keaven (1902)` vs `rockeyrock (1913)` at `10+0` time control,
-with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/TuIWENZI),
-and the first solution move is `f6h6`.
+It is `White to move` in puzzle [XPXJZ](https://lichess.org/training/XPXJZ), rated `1591`.
+The game is `blueata35 (1848)` vs `pzY_oO (1860)` at `3+0` time control,
+with themes `short, crushing, middlegame`. You can [view the full game](https://lichess.org/KqEPEf33),
+and the first solution move is `g3g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
