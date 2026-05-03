@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1p2qppp%2F1pp5%2F5N2%2F2PQ4%2FP4R2%2F1P3KB1%2F3Rr3%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpp1q1pp1%2F2p4p%2F2npb2N%2F6Q1%2F2P4P%2FPPB2PP1%2FR3R1K1%20w%20-%20-%2013%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [mx4pH](https://lichess.org/training/mx4pH), rated `1540`.
-The game is `Riki1Riki1 (2291)` vs `z2win (2356)` at `3+0` time control,
-with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/mI7B1uea),
-and the first solution move is `e7e2`.
+It is `White to move` in puzzle [xjMtD](https://lichess.org/training/xjMtD), rated `1592`.
+The game is `Lokesh283 (1809)` vs `darricksee (1758)` at `3+2` time control,
+with themes `middlegame, crushing, kingsideAttack, intermezzo, long`. You can [view the full game](https://lichess.org/t9MJB6f2),
+and the first solution move is `e1e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
