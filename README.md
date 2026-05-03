@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpp1q1pp1%2F2p4p%2F2npb2N%2F6Q1%2F2P4P%2FPPB2PP1%2FR3R1K1%20w%20-%20-%2013%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FpQ5p%2F2p2bk1%2F3p4%2F6q1%2F3P2N1%2FPPP4P%2F7K%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xjMtD](https://lichess.org/training/xjMtD), rated `1592`.
-The game is `Lokesh283 (1809)` vs `darricksee (1758)` at `3+2` time control,
-with themes `middlegame, crushing, kingsideAttack, intermezzo, long`. You can [view the full game](https://lichess.org/t9MJB6f2),
-and the first solution move is `e1e5`.
+It is `Black to move` in puzzle [YK606](https://lichess.org/training/YK606), rated `1466`.
+The game is `b0ring_d4y (2334)` vs `Bardyk01 (2648)` at `3+0` time control,
+with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/JH8ezhis),
+and the first solution move is `g4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
