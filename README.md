@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1Q6%2Fp6p%2F2p3p1%2F2p5%2F2k5%2FP5PP%2Fq1B3K1%20w%20-%20-%206%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1pk5%2Fp1pp4%2F2PPn3%2F1P1K4%2FP3N3%2F8%20w%20-%20-%205%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WxHvT](https://lichess.org/training/WxHvT), rated `1512`.
-The game is `queg1 (1817)` vs `Rexabbas (1955)` at `10+0` time control,
-with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/p8mP2Nz3),
-and the first solution move is `b7g7`.
+It is `White to move` in puzzle [H6JK4](https://lichess.org/training/H6JK4), rated `1517`.
+The game is `azuaga (2006)` vs `AncientRo (2054)` at `45+45` time control,
+with themes `deflection, endgame, crushing, attraction, long, knightEndgame`. You can [view the full game](https://lichess.org/KHp84sEu),
+and the first solution move is `c4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
