@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F3r1qpk%2F1p2nn1p%2FP1p2p2%2F2P1pP1Q%2F2B5%2F4BPRP%2F6RK%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fppp2p2%2F3p2pQ%2F3Pn1N1%2F3pP3%2F6P1%2FPP3P1P%2FR3KB1R%20b%20KQ%20-%202%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MBhSV](https://lichess.org/training/MBhSV), rated `1601`.
-The game is `starbaker (2137)` vs `kubanychsyimyk2011 (2154)` at `3+0` time control,
-with themes `middlegame, crushing, long`. You can [view the full game](https://lichess.org/SXnsLuFU),
-and the first solution move is `c3f6`.
+It is `Black to move` in puzzle [YCvLM](https://lichess.org/training/YCvLM), rated `1431`.
+The game is `BaneLazin (1672)` vs `DanielleMohicano (1719)` at `15+10` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/zuvyBJMD),
+and the first solution move is `d8g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
