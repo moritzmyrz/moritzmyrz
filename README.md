@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FpQ5p%2F2p2bk1%2F3p4%2F6q1%2F3P2N1%2FPPP4P%2F7K%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2Fppp1bpp1%2F3r2p1%2F4q3%2F3pPQ2%2F5BPP%2FPPP2P2%2F2KR3R%20b%20-%20-%202%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YK606](https://lichess.org/training/YK606), rated `1466`.
-The game is `b0ring_d4y (2334)` vs `Bardyk01 (2648)` at `3+0` time control,
-with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/JH8ezhis),
-and the first solution move is `g4f3`.
+It is `Black to move` in puzzle [Spj2n](https://lichess.org/training/Spj2n), rated `1343`.
+The game is `pashtet1212 (2171)` vs `CALCMRGFM (2196)` at `3+2` time control,
+with themes `short, crushing, pin, master, middlegame`. You can [view the full game](https://lichess.org/ewbEs1XK),
+and the first solution move is `e7g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
