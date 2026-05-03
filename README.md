@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F5p2%2Fp5kp%2F1p4p1%2F1P2NpP1%2Fb3rP2%2F6PK%2F8%20w%20-%20-%200%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fppq2pp1%2F2p3p1%2F3p4%2F3Pnb2%2FPNP4P%2F1PQN1PP1%2F4RRK1%20b%20-%20-%203%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DmKKg](https://lichess.org/training/DmKKg), rated `1348`.
-The game is `lorenzius_ant (1660)` vs `maxim2062 (1718)` at `3+2` time control,
-with themes `short, cornerMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/VyLwb5CM),
-and the first solution move is `d8g8`.
+It is `Black to move` in puzzle [VPKTV](https://lichess.org/training/VPKTV), rated `1428`.
+The game is `HighScorchwing (2296)` vs `rata_correlona (2299)` at `3+0` time control,
+with themes `deflection, middlegame, crushing, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/gNsd6iSj),
+and the first solution move is `f4h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
