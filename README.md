@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fp1b2ppp%2F2P1np2%2F2pP4%2FP7%2F4BB1P%2F3QKPP1%2F3RR2q%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7Q%2Fp7%2F2p1q1p1%2F6k1%2F3p1p2%2F1P2r1P1%2FP2B4%2F5K2%20w%20-%20-%201%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jp4ef](https://lichess.org/training/jp4ef), rated `1448`.
-The game is `SS06042005 (2050)` vs `ANRK (2135)` at `10+0` time control,
-with themes `middlegame, oneMove, mateIn1, pin`. You can [view the full game](https://lichess.org/2IR9Uxl5),
-and the first solution move is `e6f4`.
+It is `White to move` in puzzle [GMxeb](https://lichess.org/training/GMxeb), rated `1454`.
+The game is `tonybrouillard (2228)` vs `bubububub (2293)` at `3+0` time control,
+with themes `swallowstailMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/4BEdJJva),
+and the first solution move is `h8h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
