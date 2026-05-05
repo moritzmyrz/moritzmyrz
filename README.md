@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rkb1r%2F1p1q1ppp%2Fp1n1p3%2F3nP3%2F8%2F2N2N2%2FPP2QPPP%2FR1BR2K1%20b%20k%20-%204%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2Fp4Qp1%2Fbp2p2p%2F2Pp4%2FP2PN1nq%2F1P3R2%2F1BB3Pb%2F7K%20w%20-%20-%203%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1oFjc](https://lichess.org/training/1oFjc), rated `1307`.
-The game is `Neovix (1879)` vs `henno777 (1802)` at `10+0` time control,
-with themes `short, advantage, discoveredAttack, opening`. You can [view the full game](https://lichess.org/kZllUAPs),
-and the first solution move is `d5c3`.
+It is `White to move` in puzzle [S1acE](https://lichess.org/training/S1acE), rated `1535`.
+The game is `Serphiot (1622)` vs `mathwhiz16 (1613)` at `3+0` time control,
+with themes `middlegame, discoveredCheck, long, mateIn3, sacrifice, kingsideAttack, doubleCheck`. You can [view the full game](https://lichess.org/WlNXSxzH),
+and the first solution move is `f7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
