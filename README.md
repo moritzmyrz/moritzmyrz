@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1p3pp1%2FpR4bp%2F8%2FnNBr4%2FP6P%2F5PP1%2F2R3K1%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5n1r%2F1q1k4%2F1prPp1pp%2Fp2p4%2F3P1P1Q%2FP3B3%2F1P4PP%2F5RK1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MkPgf](https://lichess.org/training/MkPgf), rated `1483`.
-The game is `AbhijitGupta (1573)` vs `Jopakita (1590)` at `30+0` time control,
-with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/1NCT45GX),
-and the first solution move is `c4f7`.
+It is `White to move` in puzzle [ca6l0](https://lichess.org/training/ca6l0), rated `1449`.
+The game is `Dietro1 (1632)` vs `ZeugeYeboahs (1621)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/D7ekrQmd),
+and the first solution move is `h4e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
