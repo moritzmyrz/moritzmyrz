@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7R%2Fp7%2F8%2F8%2F1P4k1%2FP6N%2F2r4r%2FR4K2%20b%20-%20-%203%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp4ppp%2F1p1bpn2%2F2p1q3%2F8%2F2PP1QP1%2FPP5P%2FRNB2R1K%20w%20-%20-%201%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uEOqf](https://lichess.org/training/uEOqf), rated `1380`.
-The game is `scottm91 (1762)` vs `earth68 (1775)` at `10+0` time control,
-with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/wjUMMrmT),
-and the first solution move is `h2h1`.
+It is `White to move` in puzzle [xTSrp](https://lichess.org/training/xTSrp), rated `1599`.
+The game is `perdomo35 (1668)` vs `chapadaniel (1611)` at `5+0` time control,
+with themes `capturingDefender, long, advantage, middlegame`. You can [view the full game](https://lichess.org/MjJFPHLz),
+and the first solution move is `c1f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
