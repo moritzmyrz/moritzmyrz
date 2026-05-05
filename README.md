@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F2Q5%2F1p3p2%2F5k1K%2F2P5%2F3q4%20w%20-%20-%202%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bB1rk1%2Fpppp1pp1%2F2n4p%2F2b1p3%2F2P1n3%2F2NP3P%2FPP3PP1%2FR2QKBNR%20b%20KQ%20-%200%208&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [92e9H](https://lichess.org/training/92e9H), rated `1303`.
-The game is `Tokar1987 (2414)` vs `filmer75 (2590)` at `3+0` time control,
-with themes `master, short, crushing, skewer, endgame, queenEndgame`. You can [view the full game](https://lichess.org/CvOVE4km),
-and the first solution move is `c5h5`.
+It is `Black to move` in puzzle [TRKAa](https://lichess.org/training/TRKAa), rated `1514`.
+The game is `varedan (1714)` vs `glebdius (1768)` at `10+0` time control,
+with themes `mateIn2, short, opening, attackingF2F7`. You can [view the full game](https://lichess.org/BXSHiBt2),
+and the first solution move is `c5f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
