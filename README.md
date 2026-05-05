@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp2bppp%2F1qn1p3%2F1B1n4%2F3P4%2FP1N2N2%2F1P3PPP%2FR1BQR1K1%20b%20-%20-%206%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2F2p2p1p%2Fpp4pP%2F4q2n%2F2p1P3%2FP7%2F1PP1N2Q%2F2K3RR%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Hvpqx](https://lichess.org/training/Hvpqx), rated `1298`.
-The game is `magnak (1675)` vs `LickeyMumas (1661)` at `15+6` time control,
-with themes `opening, advantage, capturingDefender, short`. You can [view the full game](https://lichess.org/YvsQdI6E),
-and the first solution move is `d5c3`.
+It is `White to move` in puzzle [PAQ3l](https://lichess.org/training/PAQ3l), rated `1603`.
+The game is `Nekit-vbg (2190)` vs `adoncurio (2192)` at `10+0` time control,
+with themes `advantage, short, pin, middlegame`. You can [view the full game](https://lichess.org/CHOT0Fr0),
+and the first solution move is `h2h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
