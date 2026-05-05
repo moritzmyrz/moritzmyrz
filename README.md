@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1P4p1%2FR3p2p%2F3pPp1b%2FPN3P2%2F4b1P1%2F6BP%2F2r2R1K%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1p3pp1%2FpR4bp%2F8%2FnNBr4%2FP6P%2F5PP1%2F2R3K1%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lZBoe](https://lichess.org/training/lZBoe), rated `1295`.
-The game is `dilwending (2315)` vs `lordnigel (2349)` at `3+0` time control,
-with themes `long, mateIn3, kingsideAttack, master, middlegame`. You can [view the full game](https://lichess.org/IuHWmMRY),
-and the first solution move is `c1f1`.
+It is `White to move` in puzzle [MkPgf](https://lichess.org/training/MkPgf), rated `1483`.
+The game is `AbhijitGupta (1573)` vs `Jopakita (1590)` at `30+0` time control,
+with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/1NCT45GX),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
