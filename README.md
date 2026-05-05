@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1bk1%2Fp4pp1%2F1p2p2p%2F2p1P3%2F2P1rPBn%2F1P5P%2FP4P1K%2F3RR3%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5pp1%2Fq3p3%2F2Qn3p%2FP1R4P%2F5PP1%2F1R2P1K1%2F8%20b%20-%20-%204%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [P47uI](https://lichess.org/training/P47uI), rated `1517`.
-The game is `Usurper2Laws (2201)` vs `CaraPilsPremiumBeer (2167)` at `10+0` time control,
-with themes `short, hangingPiece, advantage, middlegame`. You can [view the full game](https://lichess.org/GInDzlRJ),
-and the first solution move is `e1e4`.
+It is `Black to move` in puzzle [l2itA](https://lichess.org/training/l2itA), rated `1529`.
+The game is `ich2 (2359)` vs `drunz1997 (2271)` at `2+1` time control,
+with themes `endgame, master, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/gKoEhKjB),
+and the first solution move is `a6c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
