@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2F2p1r1p1%2FQ4p2%2F2k1bB2%2FP2p3P%2F1q4P1%2F6RK%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1bnr%2Fp2b1Qp1%2F2pk1pp1%2F2p5%2F4P3%2F2P5%2FPP3PPP%2FRNB1K2R%20w%20KQ%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5Np5p](https://lichess.org/training/5Np5p), rated `1551`.
-The game is `Bogdanov-68 (2059)` vs `Peyman008 (2063)` at `10+0` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/iob66S0o),
-and the first solution move is `g1c1`.
+It is `White to move` in puzzle [jDfWS](https://lichess.org/training/jDfWS), rated `1526`.
+The game is `Mopimil (2017)` vs `Shehati (2017)` at `3+0` time control,
+with themes `oneMove, mateIn1, opening`. You can [view the full game](https://lichess.org/FgxXV2RJ),
+and the first solution move is `c1f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
