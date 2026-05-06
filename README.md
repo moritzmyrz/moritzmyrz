@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4r3%2FR5pk%2F8%2F3n1PK1%2F8%2F2B5%2F8%20w%20-%20-%201%2058&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F2pb1R2%2Fp2p3p%2F2p2PpB%2F2P5%2F2P3P1%2FP5P1%2F6K1%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [U2K1R](https://lichess.org/training/U2K1R), rated `1386`.
-The game is `strategic09 (2522)` vs `love_you_one (2474)` at `3+2` time control,
-with themes `endgame, master, long, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/yzsj2ibN),
-and the first solution move is `a6g6`.
+It is `Black to move` in puzzle [BTqzx](https://lichess.org/training/BTqzx), rated `1559`.
+The game is `bholenath123 (2154)` vs `refute_resist (2226)` at `3+2` time control,
+with themes `short, advantage, skewer, endgame`. You can [view the full game](https://lichess.org/X2D7hq5O),
+and the first solution move is `d7e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
