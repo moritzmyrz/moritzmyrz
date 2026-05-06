@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p6%2Fp1pN1p1p%2F4pQ2%2F6n1%2F1P1PP1Pq%2F1PP5%2F6K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1rb2rk1%2F2Npbppp%2FpPN1pn2%2F4q3%2F1P6%2FP3B1P1%2F2P1PP1P%2FR2QKB1R%20b%20KQ%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [s7Zk4](https://lichess.org/training/s7Zk4), rated `1290`.
-The game is `culi10 (1999)` vs `fishstone (2012)` at `10+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/74Qd1V9D),
-and the first solution move is `f5g6`.
+It is `Black to move` in puzzle [QWOWX](https://lichess.org/training/QWOWX), rated `1286`.
+The game is `JamesWu2023 (1789)` vs `MaTtYaHmEd (1795)` at `30+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/yDxOoOD0),
+and the first solution move is `e5c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
