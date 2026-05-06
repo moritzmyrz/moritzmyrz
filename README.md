@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb4r%2Fppp1k1pp%2F1b6%2F4B3%2F3P3q%2F7P%2FPPP2KP1%2FR2QR3%20w%20-%20-%202%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqk3%2Fpp4pr%2F2pbpn2%2F3pN3%2F2PP4%2F2NQ4%2FPP2PP2%2FR1B1KB2%20w%20Qq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Xp9EQ](https://lichess.org/training/Xp9EQ), rated `1322`.
-The game is `Marat_854 (2064)` vs `enzio_007 (1942)` at `10+0` time control,
-with themes `middlegame, short, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/A1xd7TpB),
-and the first solution move is `e5g3`.
+It is `White to move` in puzzle [NBPpG](https://lichess.org/training/NBPpG), rated `1408`.
+The game is `Ananashero (1959)` vs `Allendenko1978 (1995)` at `3+0` time control,
+with themes `mateIn2, short, opening`. You can [view the full game](https://lichess.org/XFW479Cv),
+and the first solution move is `d3g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
