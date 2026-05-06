@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2b4%2F1p2k2p%2F2p5%2F2P1pP1P%2FPPK2B2%2F8%2F8%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb4r%2Fppp1k1pp%2F1b6%2F4B3%2F3P3q%2F7P%2FPPP2KP1%2FR2QR3%20w%20-%20-%202%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [v61ew](https://lichess.org/training/v61ew), rated `1512`.
-The game is `Archie54 (2015)` vs `Waterbear11 (2034)` at `10+0` time control,
-with themes `endgame, short, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/tyjXs7gm),
-and the first solution move is `f3g4`.
+It is `White to move` in puzzle [Xp9EQ](https://lichess.org/training/Xp9EQ), rated `1322`.
+The game is `Marat_854 (2064)` vs `enzio_007 (1942)` at `10+0` time control,
+with themes `middlegame, short, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/A1xd7TpB),
+and the first solution move is `e5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
