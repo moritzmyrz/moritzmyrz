@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fpp3ppp%2F2n1p3%2F1N1pP1P1%2F3P1B1P%2F8%2FPq6%2FR2QKB1R%20b%20KQ%20-%201%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fppp2pp1%2F2p5%2F2b5%2F4P2p%2F3PBbP1%2FPPP2P1P%2FRN3RK1%20b%20kq%20-%201%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VPOvX](https://lichess.org/training/VPOvX), rated `1539`.
-The game is `Onewithone (1584)` vs `Saikezu (1584)` at `10+0` time control,
-with themes `exposedKing, middlegame, crushing, long`. You can [view the full game](https://lichess.org/dRcCtA5T),
-and the first solution move is `f8b4`.
+It is `Black to move` in puzzle [insKm](https://lichess.org/training/insKm), rated `1384`.
+The game is `KOZAK_CHESS (1864)` vs `Mehrdad1362000 (2101)` at `5+0` time control,
+with themes `kingsideAttack, short, crushing, middlegame`. You can [view the full game](https://lichess.org/2GwRWwLF),
+and the first solution move is `h4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
