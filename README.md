@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6p1%2F1P3k2%2F5p2%2F8%2F6Kp%2F8%20w%20-%20-%202%2068&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3r1pp1%2Fp6p%2F1ppb1N2%2F8%2FP1P5%2F5KPP%2F3R4%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1Of4W](https://lichess.org/training/1Of4W), rated `1496`.
-The game is `zarquons (1740)` vs `Berik125 (1745)` at `3+2` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/5ik88oCq),
-and the first solution move is `b5b6`.
+It is `White to move` in puzzle [wTeNc](https://lichess.org/training/wTeNc), rated `1451`.
+The game is `Mitia1972 (1605)` vs `dippoldi (1715)` at `5+3` time control,
+with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/yL26xXw2),
+and the first solution move is `d1d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
