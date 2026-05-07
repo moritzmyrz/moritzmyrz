@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1Q3%2Fppp4k%2F2pb1pp1%2F6P1%2F3P1r2%2F8%2FPPP2P1P%2FR5K1%20w%20-%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1P3N2%2F2n5%2F8%2F5pp1%2F5k1p%2F5P2%2F6K1%20w%20-%20-%204%2059&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6hu8N](https://lichess.org/training/6hu8N), rated `1548`.
-The game is `full_zina (1905)` vs `Maxim_9417 (1796)` at `15+15` time control,
-with themes `endgame, long, crushing`. You can [view the full game](https://lichess.org/KfHj7NA3),
-and the first solution move is `e8f7`.
+It is `White to move` in puzzle [W2lUC](https://lichess.org/training/W2lUC), rated `1396`.
+The game is `Ti-Ga (2495)` vs `besfighter (2479)` at `3+0` time control,
+with themes `deflection, endgame, advancedPawn, short, crushing, promotion, knightEndgame`. You can [view the full game](https://lichess.org/aT15PN7J),
+and the first solution move is `f7e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
