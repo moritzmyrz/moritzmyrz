@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1ppqn1pp%2F1bn1p3%2F3pP1B1%2FpP1P3N%2FP1P5%2F2Q3PP%2FRN3RK1%20b%20-%20-%201%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp3p3%2FP5k1%2F3P3p%2F4K1pP%2F6P1%2F8%20w%20-%20-%204%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [didJh](https://lichess.org/training/didJh), rated `1539`.
-The game is `Andrew1966 (1766)` vs `Vahidi1990 (1736)` at `5+0` time control,
-with themes `middlegame, fork, long, advantage`. You can [view the full game](https://lichess.org/A5sGWp7I),
-and the first solution move is `c6d4`.
+It is `White to move` in puzzle [t8kOu](https://lichess.org/training/t8kOu), rated `1438`.
+The game is `zhumaly (1890)` vs `EmmanuelDavis (1851)` at `5+3` time control,
+with themes `pawnEndgame, long, crushing, endgame`. You can [view the full game](https://lichess.org/tsV1cGFU),
+and the first solution move is `e3e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
