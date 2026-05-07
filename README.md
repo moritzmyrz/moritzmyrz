@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3r1pp1%2Fp6p%2F1ppb1N2%2F8%2FP1P5%2F5KPP%2F3R4%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2F1p2pp2%2F1np5%2Fp5P1%2F2P4R%2F2NqP1P1%2FPP5Q%2F3bK3%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wTeNc](https://lichess.org/training/wTeNc), rated `1451`.
-The game is `Mitia1972 (1605)` vs `dippoldi (1715)` at `5+3` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/yL26xXw2),
-and the first solution move is `d1d5`.
+It is `White to move` in puzzle [8pzeQ](https://lichess.org/training/8pzeQ), rated `1351`.
+The game is `kuzmichpolet (1976)` vs `vladtsyruk (1916)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, triangleMate, kingsideAttack`. You can [view the full game](https://lichess.org/qRynHjZX),
+and the first solution move is `h4h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
