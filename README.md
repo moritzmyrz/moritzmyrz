@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F2R3p1%2F2B1r2p%2Fp1P5%2Fr4p2%2F5P1P%2F6P1%2F6K1%20w%20-%20-%201%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6p1%2F1P3k2%2F5p2%2F8%2F6Kp%2F8%20w%20-%20-%202%2068&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6krSK](https://lichess.org/training/6krSK), rated `1362`.
-The game is `Schwimmer77 (1882)` vs `robjool (1921)` at `10+5` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/C8qlifwO),
-and the first solution move is `c7d7`.
+It is `White to move` in puzzle [1Of4W](https://lichess.org/training/1Of4W), rated `1496`.
+The game is `zarquons (1740)` vs `Berik125 (1745)` at `3+2` time control,
+with themes `veryLong, endgame, advancedPawn, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/5ik88oCq),
+and the first solution move is `b5b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
