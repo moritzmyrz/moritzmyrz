@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F1p5k%2Fp2q2r1%2F3pR3%2F5nNp%2FP4P1P%2F1PPQ2PK%2F3R4%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk1n1%2Fppp2p2%2F2np1b2%2F4p3%2F4P2r%2F2NP2QB%2FPPP2PP1%2FR1B1K2R%20w%20KQq%20-%204%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cFL1z](https://lichess.org/training/cFL1z), rated `1301`.
-The game is `OIENDRILA (1703)` vs `damnation_magic (1720)` at `15+15` time control,
-with themes `middlegame, short, advantage, intermezzo, capturingDefender`. You can [view the full game](https://lichess.org/RBu0lkY4),
-and the first solution move is `g6g4`.
+It is `White to move` in puzzle [vzR28](https://lichess.org/training/vzR28), rated `1301`.
+The game is `snarf_bot (1871)` vs `LearningTactic (1887)` at `3+0` time control,
+with themes `mateIn2, short, opening, hangingPiece`. You can [view the full game](https://lichess.org/wjr4WSAe),
+and the first solution move is `g3g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
