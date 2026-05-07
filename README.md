@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=N1bq2kr%2Fpp1p1pbp%2F2nQ1np1%2F6N1%2F2B1Pp2%2F8%2FPP3PPP%2FR3K2R%20b%20KQ%20-%204%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2r2%2Fp1P1Qp1k%2F4pPp1%2F3p4%2F3Pq2p%2FPR2P3%2F3KR3%2F8%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [u0aIM](https://lichess.org/training/u0aIM), rated `1341`.
-The game is `rashwinrider776 (1946)` vs `Danyeilzz (2117)` at `5+5` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/n9oQg3YM),
-and the first solution move is `d8a5`.
+It is `White to move` in puzzle [hMs7F](https://lichess.org/training/hMs7F), rated `1614`.
+The game is `LE-MALADE-MENTAL (1992)` vs `VictorYitao (2053)` at `10+0` time control,
+with themes `endgame, advancedPawn, crushing, long, sacrifice, promotion`. You can [view the full game](https://lichess.org/Et3K3MFS),
+and the first solution move is `e7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
