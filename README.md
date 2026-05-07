@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2r2%2Fp1P1Qp1k%2F4pPp1%2F3p4%2F3Pq2p%2FPR2P3%2F3KR3%2F8%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k2r1r2%2F6Rp%2F1qp1B3%2F3pQ3%2F1p6%2F8%2F2P2PPP%2F4R1K1%20b%20-%20-%204%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hMs7F](https://lichess.org/training/hMs7F), rated `1614`.
-The game is `LE-MALADE-MENTAL (1992)` vs `VictorYitao (2053)` at `10+0` time control,
-with themes `endgame, advancedPawn, crushing, long, sacrifice, promotion`. You can [view the full game](https://lichess.org/Et3K3MFS),
-and the first solution move is `e7f8`.
+It is `Black to move` in puzzle [5YCvI](https://lichess.org/training/5YCvI), rated `1271`.
+The game is `zhendehaowan (2451)` vs `Engulf (2398)` at `3+2` time control,
+with themes `middlegame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/m1CxhaLX),
+and the first solution move is `b6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
