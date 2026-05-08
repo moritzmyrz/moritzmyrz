@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2Fp1p3p1%2FP1PpB2p%2F1P2bP1P%2F4K1k1%2F8%2F8%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpp3pp1%2F6Np%2Fq1b5%2F2Q1PPPB%2F1B5P%2FPPP5%2F2K4R%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GAIiI](https://lichess.org/training/GAIiI), rated `1525`.
-The game is `Keep_calm_and_trust (1669)` vs `gmrjb112 (1716)` at `3+0` time control,
-with themes `endgame, advancedPawn, crushing, long, discoveredAttack, bishopEndgame`. You can [view the full game](https://lichess.org/l87XLF1D),
-and the first solution move is `f4f5`.
+It is `Black to move` in puzzle [Q8JJd](https://lichess.org/training/Q8JJd), rated `1455`.
+The game is `abhishek_47 (1679)` vs `emre419 (1621)` at `5+3` time control,
+with themes `middlegame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/HpRHXlon),
+and the first solution move is `a5d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
