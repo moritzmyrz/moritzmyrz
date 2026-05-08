@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fpp3ppp%2F1q3B2%2F2bp4%2F8%2F2N2N1P%2FPPP2PP1%2FR2QKB1R%20b%20KQkq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3kr3%2F1p4p1%2Fq2p2p1%2F3B2Pp%2FPQ1P1r1P%2F8%2FPR6%2FK3R3%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zG5r1](https://lichess.org/training/zG5r1), rated `1333`.
-The game is `kadirunsal44 (1576)` vs `podgorny_alex (1504)` at `10+5` time control,
-with themes `mateIn2, short, opening, attackingF2F7`. You can [view the full game](https://lichess.org/tF9IUuvA),
-and the first solution move is `c5f2`.
+It is `Black to move` in puzzle [G6SeR](https://lichess.org/training/G6SeR), rated `1413`.
+The game is `Nikola_Tesla2121 (2518)` vs `RAJARAJCHOLAN008 (2582)` at `3+0` time control,
+with themes `advantage, long, pin, master, middlegame`. You can [view the full game](https://lichess.org/RmhpZmO3),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
