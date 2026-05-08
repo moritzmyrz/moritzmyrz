@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F1bb3p1%2F3q1p1p%2Fpp3P2%2F2pP1B2%2FP1P1R2B%2F1P1Q2PP%2F5RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R1r2%2F7p%2Fb1k3p1%2FQ3pq2%2F8%2F2P1B3%2FP5PP%2F4R1K1%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lxacH](https://lichess.org/training/lxacH), rated `1558`.
-The game is `GenaPotap (1576)` vs `Cavin856 (1538)` at `2+1` time control,
-with themes `middlegame, long, advantage`. You can [view the full game](https://lichess.org/yjLCNhWc),
-and the first solution move is `d6f4`.
+It is `Black to move` in puzzle [3K5wr](https://lichess.org/training/3K5wr), rated `1314`.
+The game is `Vitor_Jesus (1696)` vs `rahjones (1683)` at `30+0` time control,
+with themes `mateIn2, middlegame, short, operaMate, sacrifice`. You can [view the full game](https://lichess.org/rYdHr8GG),
+and the first solution move is `f5f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
