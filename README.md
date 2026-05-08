@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R3pk1%2F1P5p%2Fb2p1Qpq%2FB2Pp1n1%2F4P1P1%2F5P1P%2F6K1%20b%20-%20-%204%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2Fp1p3p1%2FP1PpB2p%2F1P2bP1P%2F4K1k1%2F8%2F8%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GcDKJ](https://lichess.org/training/GcDKJ), rated `1464`.
-The game is `ich2 (2369)` vs `Mary_Nikolaevna (2539)` at `3+2` time control,
-with themes `endgame, master, long, mateIn3`. You can [view the full game](https://lichess.org/dKkNoa9u),
-and the first solution move is `h5h2`.
+It is `White to move` in puzzle [GAIiI](https://lichess.org/training/GAIiI), rated `1525`.
+The game is `Keep_calm_and_trust (1669)` vs `gmrjb112 (1716)` at `3+0` time control,
+with themes `endgame, advancedPawn, crushing, long, discoveredAttack, bishopEndgame`. You can [view the full game](https://lichess.org/l87XLF1D),
+and the first solution move is `f4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
