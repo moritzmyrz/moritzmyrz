@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2B1R3%2F1P6%2F7p%2F7P%2F5b2%2F5k2%2F1r6%2F4K3%20b%20-%20-%2017%2057&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rb1q4%2F3Pr1Q1%2F1pR5%2F1p5p%2F5p1k%2F5PpP%2F6P1%2F5BK1%20w%20-%20-%200%2045&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pGw3w](https://lichess.org/training/pGw3w), rated `1464`.
-The game is `warrior5191 (2602)` vs `MGSAFT (2612)` at `3+0` time control,
-with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/vOm48E7k),
-and the first solution move is `b2b1`.
+It is `White to move` in puzzle [NiWAm](https://lichess.org/training/NiWAm), rated `1300`.
+The game is `Mavi_Alpha (2609)` vs `Ze-Prodigy (2426)` at `3+0` time control,
+with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/nw5091fc),
+and the first solution move is `g7f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
