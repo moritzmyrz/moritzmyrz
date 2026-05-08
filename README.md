@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr2r1%2F2q1bp2%2F2Q1p2p%2F3P2p1%2F2N5%2F2P4P%2F1P3PP1%2F4R1K1%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7k%2F5Qp1%2F8%2FP5PK%2F2P2P2%2F6qP%2F8%20b%20-%20-%200%2054&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WzCgX](https://lichess.org/training/WzCgX), rated `1316`.
-The game is `Paito83 (2025)` vs `tapatio2099 (2036)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/N0uzZegD),
-and the first solution move is `c4b6`.
+It is `Black to move` in puzzle [PVmiW](https://lichess.org/training/PVmiW), rated `1369`.
+The game is `ASD1343 (1720)` vs `krisok (1706)` at `5+3` time control,
+with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/NKl5HSRp),
+and the first solution move is `g2h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
