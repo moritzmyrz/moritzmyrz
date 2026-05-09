@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1p4pp%2F2qp2n1%2F2p4Q%2Fp1P2p2%2F2P2R2%2F1P1B2PP%2F1R5K%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fpppnqppp%2F5n2%2F4p1N1%2F1bB1P3%2F2N5%2FPPPP2PP%2FR1BQ1RK1%20b%20kq%20-%207%208&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cKGJB](https://lichess.org/training/cKGJB), rated `1597`.
-The game is `IgorKolychev (1885)` vs `mcaleap (1802)` at `4+7` time control,
-with themes `quietMove, advantage, short, middlegame`. You can [view the full game](https://lichess.org/9cUWk75Y),
-and the first solution move is `f3h3`.
+It is `Black to move` in puzzle [v3fnt](https://lichess.org/training/v3fnt), rated `1420`.
+The game is `Samson21 (2209)` vs `Jeeeemy (2230)` at `10+0` time control,
+with themes `short, crushing, fork, opening`. You can [view the full game](https://lichess.org/VVe6zgAY),
+and the first solution move is `e7c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
