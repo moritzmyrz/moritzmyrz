@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F5R2%2F3k1K2%2F7P%2Fr7%2F8%2F8%20b%20-%20-%200%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F2R1n1p1%2FB4p1p%2F3b4%2F7N%2F4r1PP%2F6PK%2F8%20w%20-%20-%200%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [kMeaV](https://lichess.org/training/kMeaV), rated `1589`.
-The game is `Cubaca (1963)` vs `Vendetta2030 (1874)` at `3+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, rookEndgame, quietMove, promotion`. You can [view the full game](https://lichess.org/10appCo5),
-and the first solution move is `a3f3`.
+It is `White to move` in puzzle [C0GtQ](https://lichess.org/training/C0GtQ), rated `1536`.
+The game is `ilbersagliere (2201)` vs `kafka_sama (2249)` at `3+2` time control,
+with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/5IEmnQFI),
+and the first solution move is `c7e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
