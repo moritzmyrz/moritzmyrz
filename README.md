@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2F1p1r4%2Fp6p%2F8%2F1P1P4%2FP2R2B1%2F5PK1%2F8%20w%20-%20-%207%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F8%2F8%2F5QK1%2F2k1qP2%2F8%2F8%20b%20-%20-%200%2050&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [paXEL](https://lichess.org/training/paXEL), rated `1500`.
-The game is `kingbolito (1670)` vs `moolla (1684)` at `5+3` time control,
-with themes `veryLong, endgame, crushing, skewer`. You can [view the full game](https://lichess.org/lwSOpZp5),
-and the first solution move is `d3c3`.
+It is `Black to move` in puzzle [CUHe6](https://lichess.org/training/CUHe6), rated `1563`.
+The game is `owbr (1569)` vs `manaf65 (1551)` at `10+0` time control,
+with themes `veryLong, crushing, quietMove, endgame, queenEndgame`. You can [view the full game](https://lichess.org/ccSZppgY),
+and the first solution move is `e3f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
