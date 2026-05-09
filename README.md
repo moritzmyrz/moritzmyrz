@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7R%2F4kp2%2F4p2p%2F7P%2F3pPN2%2F5rPK%2F8%20b%20-%20-%201%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2FP1RQ4%2F1P3r1p%2FP2P3k%2F4P1p1%2F4b1P1%2F6BP%2F7K%20b%20-%20-%200%2047&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1fTGI](https://lichess.org/training/1fTGI), rated `1464`.
-The game is `tuvigo (1517)` vs `Tamoko_S (1563)` at `2+5` time control,
-with themes `endgame, advancedPawn, crushing, long, sacrifice, promotion`. You can [view the full game](https://lichess.org/QACyUD1u),
-and the first solution move is `f2f3`.
+It is `Black to move` in puzzle [xmaEs](https://lichess.org/training/xmaEs), rated `1379`.
+The game is `Bum_dum (1776)` vs `rico21 (1689)` at `15+14` time control,
+with themes `endgame, operaMate, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/ekpimM65),
+and the first solution move is `f6f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
