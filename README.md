@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppqn1p2%2F2p2n2%2F3p2Bb%2F3P1b2%2F2NBR2P%2FPPPQ1P2%2FR5K1%20w%20-%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2Q5%2F2R2pk1%2F4p3%2F1P1pPq1p%2F5P1K%2F4nQP1%2F8%2F8%20b%20-%20-%206%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [QUOFQ](https://lichess.org/training/QUOFQ), rated `1548`.
-The game is `Mohamed_Moghazi (1538)` vs `Jamieb805 (1516)` at `2+1` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/EpOnBvOp),
-and the first solution move is `g5f4`.
+It is `Black to move` in puzzle [Lbc7X](https://lichess.org/training/Lbc7X), rated `1267`.
+The game is `jamesIII (2134)` vs `benhayatinmagllbuyum (2127)` at `3+0` time control,
+with themes `short, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/ALFCIA8V),
+and the first solution move is `e3g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
