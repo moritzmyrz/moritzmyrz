@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1bq3pp%2Fpp6%2F2p3P1%2FP1BpNP2%2F1P2n2R%2F2P4P%2FR2Q2K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bRnk1r%2F1pQ2ppp%2F2p5%2F8%2F8%2F4P3%2Fq4PPP%2F5RK1%20w%20-%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [67bwb](https://lichess.org/training/67bwb), rated `1530`.
-The game is `Pudge1410 (2200)` vs `demarchig (2104)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/fZZXKZVN),
-and the first solution move is `h3h7`.
+It is `White to move` in puzzle [gZF1W](https://lichess.org/training/gZF1W), rated `1449`.
+The game is `jrw111111 (1690)` vs `jellyfishfisher56 (1798)` at `30+0` time control,
+with themes `deflection, mateIn2, middlegame, short, pin, backRankMate`. You can [view the full game](https://lichess.org/jPJjU12P),
+and the first solution move is `c7d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
