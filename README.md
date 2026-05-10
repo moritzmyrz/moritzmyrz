@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp2p1ppp%2F2p5%2F8%2F8%2F2qB1QP1%2FP1P4P%2FR4RK1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k5r%2Fpp6%2F2B1Q3%2F3p2b1%2FP2P2P1%2F2P5%2F1P1N1rq1%2FR1BKR3%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [r9A6U](https://lichess.org/training/r9A6U), rated `1364`.
-The game is `StalwartKangaroo (1917)` vs `antclaro (1909)` at `10+0` time control,
-with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/vGITI25W),
-and the first solution move is `d3h7`.
+It is `Black to move` in puzzle [kUN4r](https://lichess.org/training/kUN4r), rated `1333`.
+The game is `lion_snow (2060)` vs `theoneandonlydaaevik (2257)` at `3+0` time control,
+with themes `mateIn2, short, master, middlegame`. You can [view the full game](https://lichess.org/2C6dlr1n),
+and the first solution move is `f2d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
