@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1pqbn1p1%2Fp2bp3%2F6N1%2F3Pp3%2F3Q4%2FPP3PPP%2FR1B1R1K1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rk3r%2Fpp2p3%2F4Qnp1%2F8%2F6P1%2F6b1%2FPPPP2P1%2FRNB2K2%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IMCFC](https://lichess.org/training/IMCFC), rated `1360`.
-The game is `AquaHoshino7 (1754)` vs `asars (1867)` at `15+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/XR7HCl3G),
-and the first solution move is `d3h3`.
+It is `Black to move` in puzzle [ZfbtW](https://lichess.org/training/ZfbtW), rated `1342`.
+The game is `kingph31 (2220)` vs `HustlinHarper (2418)` at `3+2` time control,
+with themes `crushing, skewer, fork, long, master, middlegame`. You can [view the full game](https://lichess.org/YHWYwpNz),
+and the first solution move is `h8h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
