@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp1q2pp%2F2bQ4%2F3p1p2%2F5P1P%2F6P1%2F2P3B1%2F6K1%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b5%2F1p1p2k1%2Fp3prp1%2F2b1NpQR%2F8%2F2P5%2FP1q3PP%2F1N5K%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pGasQ](https://lichess.org/training/pGasQ), rated `1549`.
-The game is `Neotrogla (1974)` vs `San-20 (2037)` at `10+5` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/Wwuq5hAF),
-and the first solution move is `g2d5`.
+It is `White to move` in puzzle [AHEKa](https://lichess.org/training/AHEKa), rated `1247`.
+The game is `MARIO-VUCIC (1821)` vs `dtomic (1799)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/7mDaLEwi),
+and the first solution move is `g5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
