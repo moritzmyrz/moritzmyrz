@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1ppb2p1%2Fn2p2q1%2Fp2Pp2R%2FP3PpP1%2F1BN2P2%2F1PP1Q1K1%2FR7%20b%20-%20-%204%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp1q2pp%2F2bQ4%2F3p1p2%2F5P1P%2F6P1%2F2P3B1%2F6K1%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NP7Lm](https://lichess.org/training/NP7Lm), rated `1545`.
-The game is `Ideree_3 (2072)` vs `orcorubiocercasi (2038)` at `10+0` time control,
-with themes `middlegame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/1OzzsZpz),
-and the first solution move is `d7g4`.
+It is `White to move` in puzzle [pGasQ](https://lichess.org/training/pGasQ), rated `1549`.
+The game is `Neotrogla (1974)` vs `San-20 (2037)` at `10+5` time control,
+with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/Wwuq5hAF),
+and the first solution move is `g2d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
