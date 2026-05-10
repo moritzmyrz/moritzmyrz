@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2kbnr%2Fpbp2ppp%2F1p2p3%2F8%2F3qP3%2F2NB4%2FPP3PPP%2FR1BQK1NR%20w%20KQkq%20-%200%207&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1pqbn1p1%2Fp2bp3%2F6N1%2F3Pp3%2F3Q4%2FPP3PPP%2FR1B1R1K1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ubLCN](https://lichess.org/training/ubLCN), rated `1381`.
-The game is `Mohamad1Hafez (1802)` vs `NdangizaNtare (1684)` at `10+0` time control,
-with themes `opening, crushing, short`. You can [view the full game](https://lichess.org/aUIdRObI),
-and the first solution move is `d3b5`.
+It is `White to move` in puzzle [IMCFC](https://lichess.org/training/IMCFC), rated `1360`.
+The game is `AquaHoshino7 (1754)` vs `asars (1867)` at `15+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/XR7HCl3G),
+and the first solution move is `d3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
