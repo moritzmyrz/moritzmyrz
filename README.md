@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rk2r%2Fppp2ppp%2F5n2%2F4p3%2F1b2N3%2F1P3P2%2FP1P2PPP%2F2KR1B1R%20b%20k%20-%205%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2r%2F5kpp%2FpN3n2%2F4bq2%2FPQ1p4%2F8%2F1P4PP%2FR1B2RK1%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lGMvI](https://lichess.org/training/lGMvI), rated `1386`.
-The game is `ErdemKurtulus (1732)` vs `RazYez (1770)` at `3+0` time control,
-with themes `deflection, mateIn2, middlegame, short, queensideAttack, pillsburysMate`. You can [view the full game](https://lichess.org/sskxBreT),
-and the first solution move is `b4a3`.
+It is `Black to move` in puzzle [hbplv](https://lichess.org/training/hbplv), rated `1475`.
+The game is `Juanbello (2092)` vs `Apalu_Ali (2091)` at `10+0` time control,
+with themes `deflection, middlegame, crushing, long, kingsideAttack`. You can [view the full game](https://lichess.org/K8lEL9qY),
+and the first solution move is `e5h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
