@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fpp2bppp%2F2np4%2F4n3%2F2BN1B2%2F7P%2FPPP2PP1%2FRN1Q1RK1%20b%20kq%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F2p5%2Fp1kp4%2F5K1N%2FP1PRR1rr%2F8%20b%20-%20-%200%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [v8bZj](https://lichess.org/training/v8bZj), rated `1406`.
-The game is `Ips2009 (1757)` vs `Abhirajnag_____2006 (1911)` at `15+15` time control,
-with themes `opening, hangingPiece, short, advantage`. You can [view the full game](https://lichess.org/aqEq85Ci),
-and the first solution move is `e5c4`.
+It is `Black to move` in puzzle [MartW](https://lichess.org/training/MartW), rated `1380`.
+The game is `wild3000 (2478)` vs `purzelbaumer (2465)` at `3+0` time control,
+with themes `endgame, master, short, crushing, intermezzo`. You can [view the full game](https://lichess.org/XxID3zUt),
+and the first solution move is `g2e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
