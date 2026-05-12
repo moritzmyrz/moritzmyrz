@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2r%2F1p2R2p%2Fp2n4%2FP1kp1p2%2F3N4%2F2P2RP1%2F6P1%2F6K1%20w%20-%20-%205%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1p3pbp%2F2pp2p1%2Fp1n4P%2FP1PNP1n1%2F2N1B3%2F1P1Q4%2F2KR1B1R%20b%20-%20-%201%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rC5ac](https://lichess.org/training/rC5ac), rated `1313`.
-The game is `Saladen (2203)` vs `NicoST (2138)` at `3+2` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/GkE8XclH),
-and the first solution move is `e7c7`.
+It is `Black to move` in puzzle [edzo8](https://lichess.org/training/edzo8), rated `1604`.
+The game is `Jjdu56 (2375)` vs `Dugin_Sergey (2427)` at `3+0` time control,
+with themes `advantage, fork, long, middlegame`. You can [view the full game](https://lichess.org/E7WaETQd),
+and the first solution move is `g7d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
