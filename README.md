@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F3np2p%2Fp1b3pb%2F1p1pP3%2F6P1%2FP1N2P2%2F1PPQ4%2FR3KB1R%20w%20KQ%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2k4%2F4b1p1%2F1n1p1pPr%2F2q1pP1p%2FBp2P2P%2F1P1P4%2F2P1Q1RN%2FR3K3%20b%20Q%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mY5WA](https://lichess.org/training/mY5WA), rated `1431`.
-The game is `MaitoGai (2234)` vs `viktoria_drakon (2223)` at `3+0` time control,
-with themes `middlegame, crushing, short, master`. You can [view the full game](https://lichess.org/BiwB10x6),
-and the first solution move is `d2h6`.
+It is `Black to move` in puzzle [qWuvn](https://lichess.org/training/qWuvn), rated `1285`.
+The game is `PoorBeginner (2023)` vs `tAtaKaE_01 (1992)` at `30+20` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/8PMXM2V1),
+and the first solution move is `c5c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
