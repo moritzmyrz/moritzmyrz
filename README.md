@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2FP4p2%2FK3p3%2FR2bP3%2F8%2F8%2F2r5%2F8%20w%20-%20-%200%2061&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=RbRqr1k1%2F1P3bpn%2F7p%2F3p1p2%2F3Bp3%2F1Q2P3%2F4BPP1%2F7K%20b%20-%20-%205%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [7Jaof](https://lichess.org/training/7Jaof), rated `1243`.
-The game is `Shpittsik (2713)` vs `Aminmolaei (2650)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, short, crushing, promotion`. You can [view the full game](https://lichess.org/GRnN3RGO),
-and the first solution move is `a5d5`.
+It is `Black to move` in puzzle [pZ32C](https://lichess.org/training/pZ32C), rated `1318`.
+The game is `Yits (1917)` vs `Calculus6 (1939)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/zpUtLDZ3),
+and the first solution move is `d8h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
