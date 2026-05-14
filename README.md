@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp2r1pqp%2F1p2p3%2F8%2F4Q2P%2F2rB2P1%2FP4PK1%2F3R4%20w%20-%20-%208%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fp7%2F1p2k1p1%2F4P2p%2F1PPRK3%2F6P1%2FP7%2F8%20b%20-%20-%200%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [f7CyQ](https://lichess.org/training/f7CyQ), rated `1496`.
-The game is `Bransxl10 (1833)` vs `aetrl (1835)` at `3+2` time control,
-with themes `endgame, advantage, discoveredAttack, deflection, veryLong`. You can [view the full game](https://lichess.org/NIhKIY2J),
-and the first solution move is `e4a8`.
+It is `Black to move` in puzzle [9ZeCa](https://lichess.org/training/9ZeCa), rated `1381`.
+The game is `mobilityluck (1724)` vs `RaulReguero (1639)` at `3+2` time control,
+with themes `veryLong, endgame, crushing, rookEndgame, quietMove`. You can [view the full game](https://lichess.org/zYRYZphT),
+and the first solution move is `d8d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
