@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F6P1%2F1R3K2%2F7k%2F8%2F8%2F2r5%20b%20-%20-%200%2059&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3n2p1%2F1b1Np2p%2FpB2Pp1q%2FPp1p1P2%2F1P1Pn1KP%2F3B2P1%2F2R1R3%20b%20-%20-%205%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GdV4v](https://lichess.org/training/GdV4v), rated `1292`.
-The game is `FERN4Nxp (1898)` vs `Lesniov (2125)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/7XU15WLU),
-and the first solution move is `c1f1`.
+It is `Black to move` in puzzle [nDXZr](https://lichess.org/training/nDXZr), rated `1338`.
+The game is `Live-Curious (1811)` vs `MrOrtadox (1810)` at `3+2` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/dQBB2aPn),
+and the first solution move is `h5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
