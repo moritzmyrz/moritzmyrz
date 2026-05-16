@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q1rk1%2F5ppp%2F2p5%2FR3p2b%2F2p1B3%2F3PB2P%2F1bPQ1PPN%2F6K1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2Q5%2F5R2%2F7p%2F5p1k%2F1Pb5%2F2bp2B1%2F7P%2F3K4%20b%20-%20-%201%2060&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [kdDrP](https://lichess.org/training/kdDrP), rated `1509`.
-The game is `DemGol23 (1803)` vs `Neo2049 (1813)` at `10+5` time control,
-with themes `middlegame, short, advantage, intermezzo, interference`. You can [view the full game](https://lichess.org/QFxJRS8V),
-and the first solution move is `c4c3`.
+It is `Black to move` in puzzle [KteQR](https://lichess.org/training/KteQR), rated `1276`.
+The game is `lordloda (1852)` vs `MINA-RAMZY (1862)` at `10+0` time control,
+with themes `exposedKing, deflection, endgame, advancedPawn, fork, long, mateIn3, promotion`. You can [view the full game](https://lichess.org/f6q3zDlv),
+and the first solution move is `c4b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
