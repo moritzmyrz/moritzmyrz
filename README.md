@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fppp4p%2F8%2F3Pp3%2F2P1Q2q%2F1P6%2FP5PP%2F4R1K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1p3p1p%2Fp1n3q1%2F8%2F7Q%2F1P1p1N2%2FP4PPP%2F2R3K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ejwVw](https://lichess.org/training/ejwVw), rated `1408`.
-The game is `serge1985 (2230)` vs `lloydkaw (2148)` at `3+2` time control,
-with themes `endgame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/gY6BJ9pz),
-and the first solution move is `h4f2`.
+It is `White to move` in puzzle [0iOvg](https://lichess.org/training/0iOvg), rated `1498`.
+The game is `Rec0rd (1698)` vs `alwast (1873)` at `10+0` time control,
+with themes `endgame, crushing, capturingDefender, short`. You can [view the full game](https://lichess.org/dEguVsHQ),
+and the first solution move is `c1c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
