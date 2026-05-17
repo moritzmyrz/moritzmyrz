@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1k4%2Fp7%2F1bp1Q2r%2F1p1pP1q1%2F3P4%2FB1P4P%2FP4P2%2FR4K1R%20w%20-%20-%203%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FpR1b1ppp%2F2n5%2F3p3n%2F7Q%2F7P%2F2q2PPK%2F8%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8jRml](https://lichess.org/training/8jRml), rated `1584`.
-The game is `super108 (1660)` vs `szyart (1754)` at `30+15` time control,
-with themes `deflection, middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/erLfUWS2),
-and the first solution move is `a3e7`.
+It is `White to move` in puzzle [pWQPq](https://lichess.org/training/pWQPq), rated `1336`.
+The game is `Medo007 (2107)` vs `RealSavage13 (1987)` at `10+0` time control,
+with themes `endgame, fork, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/5OcJgrD9),
+and the first solution move is `b7b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
