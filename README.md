@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F8%2F3p2p1%2F1ppbnPq1%2F5Q2%2F7P%2F1P6%2F1B2R1K1%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fp5bp%2F1p1p4%2F2p2Q1P%2FP7%2F2PP3q%2F1P4N1%2F5RK1%20b%20-%20-%203%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KZMuS](https://lichess.org/training/KZMuS), rated `1317`.
-The game is `HundimBuero (2495)` vs `faintconsciousness (2466)` at `3+0` time control,
-with themes `advantage, long, pin, hangingPiece, master, middlegame`. You can [view the full game](https://lichess.org/g3RWsAXD),
-and the first solution move is `f4g5`.
+It is `Black to move` in puzzle [akjLJ](https://lichess.org/training/akjLJ), rated `1334`.
+The game is `a1c2a3b1c3a2c1b3 (2536)` vs `Zarubello (2547)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/NZOYWHPe),
+and the first solution move is `g7d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
