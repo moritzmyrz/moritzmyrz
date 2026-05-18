@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F4n1p1%2F4Pp1p%2F3p4%2F1PnN2R1%2F2P5%2F7P%2Fr1B1RK2%20b%20-%20-%204%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1q1k1%2F2P3p1%2F1p1N1p1p%2Fp1p2P2%2F2Pn4%2F1P4QP%2F6P1%2F5RK1%20b%20-%20-%204%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [paJcq](https://lichess.org/training/paJcq), rated `1472`.
-The game is `misikuba1 (1790)` vs `DerNepomuk (1830)` at `10+5` time control,
-with themes `exposedKing, middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/5CdNfHY6),
-and the first solution move is `a1c1`.
+It is `Black to move` in puzzle [XWXtY](https://lichess.org/training/XWXtY), rated `1564`.
+The game is `arthur01024 (1778)` vs `Ayo_Ade (1776)` at `10+0` time control,
+with themes `veryLong, endgame, crushing, fork`. You can [view the full game](https://lichess.org/Hcybfktl),
+and the first solution move is `d4e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
