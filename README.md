@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fp5bp%2F1p1p4%2F2p2Q1P%2FP7%2F2PP3q%2F1P4N1%2F5RK1%20b%20-%20-%203%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4N2k%2F8%2Fp3p1pP%2F2p1n3%2F3qB3%2FPrrP2Q1%2F8%2FR4R1K%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [akjLJ](https://lichess.org/training/akjLJ), rated `1334`.
-The game is `a1c2a3b1c3a2c1b3 (2536)` vs `Zarubello (2547)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/NZOYWHPe),
-and the first solution move is `g7d4`.
+It is `Black to move` in puzzle [vXd8k](https://lichess.org/training/vXd8k), rated `1516`.
+The game is `krzychu01 (1869)` vs `Sweep105 (1897)` at `10+0` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/n4Yy7H1n),
+and the first solution move is `d4e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
