@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp1k1ppp%2F8%2F2Nq4%2F5n2%2F2QP1P2%2FPP4PP%2F2K5%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F4n1p1%2F4Pp1p%2F3p4%2F1PnN2R1%2F2P5%2F7P%2Fr1B1RK2%20b%20-%20-%204%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [mhPUf](https://lichess.org/training/mhPUf), rated `1460`.
-The game is `iv_ans (1998)` vs `Sashali8210 (1938)` at `10+0` time control,
-with themes `deflection, endgame, advantage, attraction, fork, long, sacrifice, pin`. You can [view the full game](https://lichess.org/uKFIphvn),
-and the first solution move is `d5c5`.
+It is `Black to move` in puzzle [paJcq](https://lichess.org/training/paJcq), rated `1472`.
+The game is `misikuba1 (1790)` vs `DerNepomuk (1830)` at `10+5` time control,
+with themes `exposedKing, middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/5CdNfHY6),
+and the first solution move is `a1c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
