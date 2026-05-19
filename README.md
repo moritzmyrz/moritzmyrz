@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F3bBppp%2Fn2p4%2F1p1np3%2F2p1P3%2F2Q2N2%2FPP1NBPPP%2FR4RK1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2Fpp1q1p2%2F2p2k2%2F2Pnp2p%2F3P3P%2FP3P3%2F1P3PQ1%2FR5K1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [U9vZO](https://lichess.org/training/U9vZO), rated `1562`.
-The game is `MatzeChamp (1700)` vs `MTOE (1730)` at `15+15` time control,
-with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/UFQ3jakz),
-and the first solution move is `d5c3`.
+It is `White to move` in puzzle [hOLeP](https://lichess.org/training/hOLeP), rated `1356`.
+The game is `ponnapalli (1720)` vs `HNF98 (2107)` at `3+0` time control,
+with themes `swallowstailMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/lyh384Ud),
+and the first solution move is `g2g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
