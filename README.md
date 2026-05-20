@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp4ppp%2F1Rq1p3%2F2Np4%2F3P4%2F1QP1P1B1%2F5PPP%2FR5K1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F4bpp1%2F2P4p%2F1r6%2F3p2P1%2F1R3K1P%2F5P2%2F2R5%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [WJecO](https://lichess.org/training/WJecO), rated `1600`.
-The game is `andresherrera86 (2047)` vs `xShah_Matx (1924)` at `10+0` time control,
-with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/8I5LfC3p),
-and the first solution move is `a7b6`.
+It is `White to move` in puzzle [l58CI](https://lichess.org/training/l58CI), rated `1490`.
+The game is `Xylo13 (1771)` vs `GeneralKenoobi22 (1808)` at `10+0` time control,
+with themes `advancedPawn, crushing, short, endgame`. You can [view the full game](https://lichess.org/2X0TIfOC),
+and the first solution move is `b3b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
