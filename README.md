@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp3p2%2F2b1pp1p%2F2P5%2F2P1B3%2FP4P1P%2F1PK3P1%2F3R4%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fpp3p1p%2F2p5%2F4R2N%2F1P5P%2F4P1R1%2F2b3PK%2F1r1r4%20w%20-%20-%203%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Gha2r](https://lichess.org/training/Gha2r), rated `1447`.
-The game is `l06chess (1951)` vs `Kirbywadley (2001)` at `10+5` time control,
-with themes `deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/QBKtJMK3),
-and the first solution move is `c6a4`.
+It is `White to move` in puzzle [e0oCV](https://lichess.org/training/e0oCV), rated `1493`.
+The game is `mosalahfromegypt (1872)` vs `Drolon (1778)` at `5+0` time control,
+with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/UFeWCeHu),
+and the first solution move is `g3g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
