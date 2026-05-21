@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2F5ppk%2F5r1p%2FpPp2q2%2F1p6%2F7P%2F1PQ2PP1%2F6K1%20w%20-%20-%203%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fp4ppp%2F2p2n2%2Fq1Pp1p2%2F3Q4%2F1PN1P1P1%2FP1P2PP1%2FR3K2R%20b%20KQ%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [a0p81](https://lichess.org/training/a0p81), rated `1379`.
-The game is `Sabakvs (1669)` vs `domin63 (1565)` at `5+0` time control,
-with themes `endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/ly4hbaRZ),
-and the first solution move is `c2f5`.
+It is `Black to move` in puzzle [NdZUl](https://lichess.org/training/NdZUl), rated `1641`.
+The game is `Blindtakes34 (1674)` vs `zurabi47 (1892)` at `3+0` time control,
+with themes `middlegame, long, crushing`. You can [view the full game](https://lichess.org/5K6FmmbU),
+and the first solution move is `f6e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
