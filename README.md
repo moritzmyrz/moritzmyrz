@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fp4ppp%2F2p2n2%2Fq1Pp1p2%2F3Q4%2F1PN1P1P1%2FP1P2PP1%2FR3K2R%20b%20KQ%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2pk4%2Fp2p3r%2F1p1qp3%2F1P3pr1%2FP2P3P%2F1BP1Qb1K%2F5R2%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NdZUl](https://lichess.org/training/NdZUl), rated `1641`.
-The game is `Blindtakes34 (1674)` vs `zurabi47 (1892)` at `3+0` time control,
-with themes `middlegame, long, crushing`. You can [view the full game](https://lichess.org/5K6FmmbU),
-and the first solution move is `f6e4`.
+It is `White to move` in puzzle [qfQki](https://lichess.org/training/qfQki), rated `1496`.
+The game is `toocoolfordual (1614)` vs `MattBowler69 (1580)` at `3+2` time control,
+with themes `middlegame, advantage, long, hangingPiece`. You can [view the full game](https://lichess.org/cjJlu22E),
+and the first solution move is `e2g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
