@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fpp1Qnkpp%2F2npq3%2F4pN2%2F5p2%2F3P4%2FPPP3PP%2FR1B1R1K1%20w%20-%20-%204%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2Fp5pp%2F2p5%2F7Q%2F2p1B3%2F2P1B1qb%2FPr4P1%2FR3R1K1%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [I0uqW](https://lichess.org/training/I0uqW), rated `1440`.
-The game is `Hafiddadang (1872)` vs `LdaVinci_7891 (1848)` at `10+0` time control,
-with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/bznHoM2a),
-and the first solution move is `f5d6`.
+It is `Black to move` in puzzle [gbCXG](https://lichess.org/training/gbCXG), rated `1379`.
+The game is `gabriel570869 (2283)` vs `Shaka3737 (1941)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/5NwKGY44),
+and the first solution move is `b2g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
