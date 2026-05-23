@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2FR1b3pp%2F5p2%2F8%2F4PP2%2F1r2B2P%2F4K3%2F8%20b%20-%20-%2010%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp1R2pp1%2F7p%2F5q2%2F8%2F3r1PP1%2FP1Q2PKP%2F2R5%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [QPTbN](https://lichess.org/training/QPTbN), rated `1534`.
-The game is `Alexxadrez32 (1954)` vs `kijek (2163)` at `8+0` time control,
-with themes `exposedKing, endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/TUChWQLn),
-and the first solution move is `b3e3`.
+It is `Black to move` in puzzle [PDWFL](https://lichess.org/training/PDWFL), rated `1388`.
+The game is `MagnesiumCitrate (2054)` vs `MrSayron (1908)` at `3+2` time control,
+with themes `long, crushing, endgame`. You can [view the full game](https://lichess.org/5sfRRf2U),
+and the first solution move is `f5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
