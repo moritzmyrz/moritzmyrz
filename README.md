@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q3r%2Fppp1k1pp%2F2n2n2%2F4N1B1%2F6b1%2F2Q5%2FPP3PPP%2FRN2K2R%20b%20KQ%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1pp5%2FP7%2F2PPpQ2%2FP1q5%2F4r3%2F5K2%2FR4R2%20b%20-%20-%207%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [AufNU](https://lichess.org/training/AufNU), rated `1258`.
-The game is `DimonFry (1699)` vs `agajanaa (1663)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/xnfeNDIN),
-and the first solution move is `d8d1`.
+It is `Black to move` in puzzle [bTCda](https://lichess.org/training/bTCda), rated `1466`.
+The game is `smail2020 (1764)` vs `damon_bramble (1795)` at `3+0` time control,
+with themes `exposedKing, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/OnI3lQ2r),
+and the first solution move is `c4e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
