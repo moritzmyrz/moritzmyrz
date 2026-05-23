@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F2q2ppp%2FB3bn2%2F2Q5%2F1p2P1P1%2F1NN4P%2FPPK5%2F3R3R%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F1p3pkp%2Fp2p2n1%2F2pP1Q2%2FP1P3P1%2F3B2q1%2F1P6%2F5K1R%20w%20-%20-%201%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [X9uKZ](https://lichess.org/training/X9uKZ), rated `1313`.
-The game is `drakosa (2468)` vs `Koenigsindisch (2526)` at `3+0` time control,
-with themes `short, crushing, master, middlegame`. You can [view the full game](https://lichess.org/gOteN1X6),
-and the first solution move is `e6b3`.
+It is `White to move` in puzzle [kn41E](https://lichess.org/training/kn41E), rated `1612`.
+The game is `Denis_Berdnikov (2189)` vs `Jorge52 (2208)` at `3+0` time control,
+with themes `deflection, endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/l0Xynuzq),
+and the first solution move is `h1h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
