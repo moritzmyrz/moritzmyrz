@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp6%2F1k2p2P%2F1p1p4%2F3P4%2F1Pb5%2F2P1r1Q1%2F2K4R%20b%20-%20-%200%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kbnr%2Fppp1pppp%2F8%2Fq2P1b2%2F1n6%2FP1N5%2F1PPB1PPP%2FR2QKBNR%20b%20KQkq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rWdTe](https://lichess.org/training/rWdTe), rated `1539`.
-The game is `ShashwatSingh123 (1782)` vs `jit007 (2016)` at `15+10` time control,
-with themes `hangingPiece, short, advantage, endgame`. You can [view the full game](https://lichess.org/a1u51sjN),
-and the first solution move is `e2g2`.
+It is `Black to move` in puzzle [mvct6](https://lichess.org/training/mvct6), rated `1286`.
+The game is `Genoir_Chess (1823)` vs `ahmad_salahpasha (1838)` at `3+0` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/pYir8eYu),
+and the first solution move is `b4c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
