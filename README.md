@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2FP3ppk1%2F3p2p1%2F1P6%2F3RPPn1%2F6P1%2FP3N2r%2F5KR1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2FR5p1%2F7p%2F7K%2F8%2Fp5P1%2F8%2Fr7%20w%20-%20-%202%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5YCER](https://lichess.org/training/5YCER), rated `1589`.
-The game is `Flaser (2185)` vs `ahmadjustin (2143)` at `3+0` time control,
-with themes `exposedKing, endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/lHNRTUl0),
-and the first solution move is `g4e3`.
+It is `White to move` in puzzle [3PX5q](https://lichess.org/training/3PX5q), rated `1369`.
+The game is `soul-eater99 (1990)` vs `CAPAHAALAND (2117)` at `5+2` time control,
+with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/DMq57kio),
+and the first solution move is `h5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
