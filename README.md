@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2FR5p1%2F7p%2F7K%2F8%2Fp5P1%2F8%2Fr7%20w%20-%20-%202%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F7k%2F3p3p%2F1p3P1K%2F1PbB3P%2FP7%2F8%20b%20-%20-%202%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [3PX5q](https://lichess.org/training/3PX5q), rated `1369`.
-The game is `soul-eater99 (1990)` vs `CAPAHAALAND (2117)` at `5+2` time control,
-with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/DMq57kio),
-and the first solution move is `h5g6`.
+It is `Black to move` in puzzle [pgdAy](https://lichess.org/training/pgdAy), rated `1300`.
+The game is `cleaver00 (1940)` vs `gregberry (1969)` at `10+0` time control,
+with themes `endgame, oneMove, mateIn1, bishopEndgame`. You can [view the full game](https://lichess.org/y1reTIMI),
+and the first solution move is `c3e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
