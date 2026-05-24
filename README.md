@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fp1p2pkp%2F6p1%2F1q6%2F2Q5%2F5P2%2F1P1NK1PP%2Fn1B4R%20b%20-%20-%201%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F4p1p1%2F8%2F4KPP1%2Fpr3n1P%2F8%2FR2R4%20b%20-%20-%203%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IL0sO](https://lichess.org/training/IL0sO), rated `1451`.
-The game is `darya2007 (1947)` vs `indigenas (1709)` at `30+5` time control,
-with themes `middlegame, short, crushing, pin`. You can [view the full game](https://lichess.org/gTgLC9An),
-and the first solution move is `d8d2`.
+It is `Black to move` in puzzle [IodcO](https://lichess.org/training/IodcO), rated `1377`.
+The game is `MareczekNiszczyciel (1913)` vs `belaal (1951)` at `15+10` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/yBHzWRVf),
+and the first solution move is `f7f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
