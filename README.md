@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3r1k%2Fpbn1q1np%2F4p1pB%2F3pP3%2F2pP1N2%2FP5PQ%2F2P2P1P%2FR3K2R%20w%20KQ%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fp1q1bppp%2F3pp3%2F8%2F2QP4%2F6P1%2FPB1N1PKP%2F2R2R2%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [FrpJc](https://lichess.org/training/FrpJc), rated `1569`.
-The game is `Motobecane (1782)` vs `SDemian (1788)` at `10+0` time control,
-with themes `middlegame, long, sacrifice, kingsideAttack, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/Fo509GbW),
-and the first solution move is `f4g6`.
+It is `Black to move` in puzzle [7KmuY](https://lichess.org/training/7KmuY), rated `1333`.
+The game is `akoking (1931)` vs `JackBauer (2291)` at `5+0` time control,
+with themes `short, advantage, fork, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/fAUjVzIR),
+and the first solution move is `c7b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
