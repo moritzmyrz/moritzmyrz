@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7Q%2F8%2F3p4%2F3P4%2F1kpNP3%2F2Nq4%2F1P3r2%2F2K1RB1R%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rkr2%2F1R1b4%2Fp3p3%2FP2p4%2F7P%2F4QqP1%2F5P2%2F4R1K1%20w%20-%20-%203%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [QIeNV](https://lichess.org/training/QIeNV), rated `1489`.
-The game is `MAQUEN_01 (1550)` vs `retriew (1571)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/IAjYiWIm),
-and the first solution move is `d3d2`.
+It is `White to move` in puzzle [O14oR](https://lichess.org/training/O14oR), rated `1429`.
+The game is `TreinadorBR (2454)` vs `OKONALBERT (2141)` at `10+0` time control,
+with themes `mateIn2, short, epauletteMate, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/rHJwMYGa),
+and the first solution move is `e3e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
