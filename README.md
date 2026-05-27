@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fpp3p2%2F3b3p%2F1Pq3p1%2F8%2F2Q2N1P%2F2b1BPP1%2FR3K2R%20w%20KQ%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fr4pbp%2Fp1q3p1%2FR1P5%2F4p3%2F1Q1rB2P%2F1P3RP1%2F7K%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IbBAk](https://lichess.org/training/IbBAk), rated `1452`.
-The game is `Sonyara56 (2350)` vs `icebergen (2351)` at `5+3` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/1ONaQ4sv),
-and the first solution move is `c3c5`.
+It is `White to move` in puzzle [Ih0sQ](https://lichess.org/training/Ih0sQ), rated `1596`.
+The game is `Vonte_dawningstar (2415)` vs `hossein_babaee (2559)` at `3+0` time control,
+with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/1aDEHqZs),
+and the first solution move is `b3b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
