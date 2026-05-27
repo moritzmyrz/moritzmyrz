@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1bk1%2F3b2q1%2Fp4p1R%2F1p1Pp2B%2F2p1P3%2F6P1%2FPP1Q1PK1%2F8%20w%20-%20-%208%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1p4pp%2Fp7%2F3Np2b%2F1P6%2FPB3P2%2F1nQP1KPP%2FR7%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [AWDgQ](https://lichess.org/training/AWDgQ), rated `1279`.
-The game is `FabricioPrado_UNMSM (2296)` vs `LucaBrasi1968 (2351)` at `3+0` time control,
-with themes `short, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/WV79670Q),
-and the first solution move is `h6g6`.
+It is `White to move` in puzzle [jpn7Z](https://lichess.org/training/jpn7Z), rated `1577`.
+The game is `Chess4Win (1797)` vs `GonzaloAlcerro (1773)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, discoveredCheck, kingsideAttack, doubleCheck`. You can [view the full game](https://lichess.org/WuR0wuoS),
+and the first solution move is `d5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
