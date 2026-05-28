@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F5pp1%2F4p1p1%2Fp1PqP1N1%2F1n1P2P1%2F7P%2F5Q2%2FR2R2K1%20b%20-%20-%201%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2k2%2F5pp1%2F1p3q2%2Fp3p2Q%2FP1P2n2%2F1N1R3P%2F1P4P1%2F7K%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xN4gN](https://lichess.org/training/xN4gN), rated `1593`.
-The game is `Kosmos1987 (1986)` vs `alphyst (1919)` at `10+5` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/kcthJGmg),
-and the first solution move is `f7f6`.
+It is `White to move` in puzzle [jLzut](https://lichess.org/training/jLzut), rated `1557`.
+The game is `hamed24khatiban (1754)` vs `eskorbuto77 (1747)` at `3+0` time control,
+with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/L2xzqxE2),
+and the first solution move is `h5h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
