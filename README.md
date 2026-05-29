@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp3pp%2F2nbN3%2F5p2%2F3Pp2q%2F7P%2FPPP2PP1%2FRNBQ2K1%20w%20-%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F1K4p1%2F2PN4%2F3n2p1%2F8%2F1p3P1P%2F6P1%2F8%20b%20-%20-%201%2056&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [l872D](https://lichess.org/training/l872D), rated `1595`.
-The game is `Mr65Mr65 (2266)` vs `Megatal (2381)` at `3+2` time control,
-with themes `short, advantage, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/2lxpYdxF),
-and the first solution move is `c1g5`.
+It is `Black to move` in puzzle [7txVH](https://lichess.org/training/7txVH), rated `1346`.
+The game is `Barys_KZ (2515)` vs `azikom (2667)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, short, crushing, knightEndgame`. You can [view the full game](https://lichess.org/H9LEzBIU),
+and the first solution move is `b3b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
