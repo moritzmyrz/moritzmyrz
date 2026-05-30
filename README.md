@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r1qk2r%2F2p3pp%2F4Pp2%2F1pP5%2F3n4%2FP7%2F3QBPPP%2FR4RK1%20b%20k%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bk2q1%2Fpp1n4%2F2pQ1rBp%2F2p1R3%2F8%2F3P4%2FPPP2PPP%2F4R1K1%20w%20-%20-%203%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9PoW8](https://lichess.org/training/9PoW8), rated `1342`.
-The game is `Hennessy3 (1919)` vs `RodolfoLassparri (2005)` at `10+0` time control,
-with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/vC828Cfj),
-and the first solution move is `d4f3`.
+It is `White to move` in puzzle [YNYKK](https://lichess.org/training/YNYKK), rated `1482`.
+The game is `RiegsaS (1639)` vs `Zueyby19642000 (1646)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, operaMate, fork`. You can [view the full game](https://lichess.org/XPQo9Dbt),
+and the first solution move is `e5e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
