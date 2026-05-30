@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F1P4b1%2F2n3np%2F1QB3p1%2F8%2F4R1PP%2F3q4%2F1R4K1%20b%20-%20-%201%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F3R3p%2F5Qp1%2F4qp2%2F8%2F7P%2F6P1%2F7K%20w%20-%20-%202%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MS4q7](https://lichess.org/training/MS4q7), rated `1324`.
-The game is `Aktinia22 (2662)` vs `cutemouse83 (2939)` at `3+0` time control,
-with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/3HrznbPq),
-and the first solution move is `e8e3`.
+It is `White to move` in puzzle [w3Vgv](https://lichess.org/training/w3Vgv), rated `1511`.
+The game is `Sancheeezz (1733)` vs `abhartis (1700)` at `10+5` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/qgEjYHg5),
+and the first solution move is `f6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
