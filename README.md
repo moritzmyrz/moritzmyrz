@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F5p2%2F7P%2F4k1K1%2F8%2F8%20b%20-%20-%200%2061&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F5p1p%2Fp2r3N%2F1pb5%2F5P2%2F6RP%2FP5P1%2F4R2K%20w%20-%20-%201%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uP9ga](https://lichess.org/training/uP9ga), rated `1540`.
-The game is `altaeb18 (1855)` vs `herrfizzo (1857)` at `10+0` time control,
-with themes `endgame, short, crushing, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/SYloGRfO),
-and the first solution move is `f5f4`.
+It is `White to move` in puzzle [xQLdH](https://lichess.org/training/xQLdH), rated `1543`.
+The game is `Dyzio (2048)` vs `Joddy (1976)` at `20+10` time control,
+with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/g0Ai52Wc),
+and the first solution move is `h6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
