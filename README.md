@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2Fppp2p2%2F7p%2F4n3%2FQ3B2P%2F5P2%2F1PP2q2%2F2K4R%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1qk2r%2F2p3pp%2F4Pp2%2F1pP5%2F3n4%2FP7%2F3QBPPP%2FR4RK1%20b%20k%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [O2Kay](https://lichess.org/training/O2Kay), rated `1570`.
-The game is `Boro-i-Ramiz (1861)` vs `Elsa1978_frozen (1899)` at `10+10` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/qT7FoGB4),
-and the first solution move is `a4b5`.
+It is `Black to move` in puzzle [9PoW8](https://lichess.org/training/9PoW8), rated `1342`.
+The game is `Hennessy3 (1919)` vs `RodolfoLassparri (2005)` at `10+0` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/vC828Cfj),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
