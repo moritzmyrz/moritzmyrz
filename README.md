@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F5p1p%2Fp2r3N%2F1pb5%2F5P2%2F6RP%2FP5P1%2F4R2K%20w%20-%20-%201%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fppp4Q%2F3bp1p1%2F4P3%2F5q2%2F2N3PP%2FPPPP1n1K%2FR1B1R3%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xQLdH](https://lichess.org/training/xQLdH), rated `1543`.
-The game is `Dyzio (2048)` vs `Joddy (1976)` at `20+10` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/g0Ai52Wc),
-and the first solution move is `h6f7`.
+It is `Black to move` in puzzle [K254s](https://lichess.org/training/K254s), rated `1278`.
+The game is `dimm555 (2036)` vs `BatataMilitar (1680)` at `3+0` time control,
+with themes `clearance, middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/wWdZY3BL),
+and the first solution move is `f2g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
