@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr2r1%2F1p1b4%2F8%2F3p4%2F2pQ4%2F2Pn2P1%2F2q2PKP%2FRR6%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F2q4p%2F6pk%2Fpp1R4%2F8%2F1Pb1PQ2%2FP4PPP%2F6K1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [45KZb](https://lichess.org/training/45KZb), rated `1486`.
-The game is `Hossam-mostafa (1779)` vs `marzook7 (1721)` at `10+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/uCbgeRXY),
-and the first solution move is `a1a8`.
+It is `White to move` in puzzle [dHOif](https://lichess.org/training/dHOif), rated `1426`.
+The game is `Martaller99 (2079)` vs `BAKS96 (2070)` at `3+0` time control,
+with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/vN8UUZ77),
+and the first solution move is `f3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
