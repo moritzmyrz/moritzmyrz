@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp6%2F4R1Bk%2F5P1p%2F7N%2FP5PK%2F8%2F3q4%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rr%2FR1Q5%2F3p1q1k%2F2pP1B1p%2F3pP3%2F3P1Rb1%2FP7%2F6K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [btiNt](https://lichess.org/training/btiNt), rated `1372`.
-The game is `evilhamburger (2717)` vs `BIZOO (2719)` at `3+0` time control,
-with themes `endgame, master, masterVsMaster, oneMove, mateIn1`. You can [view the full game](https://lichess.org/A3IIiYqh),
-and the first solution move is `d1h1`.
+It is `White to move` in puzzle [icyAM](https://lichess.org/training/icyAM), rated `1369`.
+The game is `Philippino1234 (2051)` vs `MEMORTHRON (2207)` at `10+0` time control,
+with themes `veryLong, middlegame, advantage, skewer, sacrifice, interference`. You can [view the full game](https://lichess.org/b0Kbtvs2),
+and the first solution move is `c7h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
