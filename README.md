@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F3n2P1%2F8%2F1p1N4%2F2k1K3%2F8%20b%20-%20-%201%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1nr2%2Fp3bpk1%2F2n1p3%2F1p4p1%2F4BP1Q%2F7P%2FP2q2PK%2F1R2R3%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [QUVTu](https://lichess.org/training/QUVTu), rated `1553`.
-The game is `ventdelest (2342)` vs `jomo518 (2383)` at `3+2` time control,
-with themes `endgame, advancedPawn, master, crushing, long, sacrifice, promotion, knightEndgame`. You can [view the full game](https://lichess.org/CuHDnO0F),
-and the first solution move is `d5f4`.
+It is `White to move` in puzzle [xwhWy](https://lichess.org/training/xwhWy), rated `1598`.
+The game is `KishorKSR08 (1952)` vs `rogervergara03 (2035)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/ovHbdl8u),
+and the first solution move is `h4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
