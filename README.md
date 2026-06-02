@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1nr2%2Fp3bpk1%2F2n1p3%2F1p4p1%2F4BP1Q%2F7P%2FP2q2PK%2F1R2R3%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5ppk%2F8%2F1p1Qq3%2F8%2F2r3Pp%2FP4P1P%2F3R2K1%20b%20-%20-%203%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xwhWy](https://lichess.org/training/xwhWy), rated `1598`.
-The game is `KishorKSR08 (1952)` vs `rogervergara03 (2035)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/ovHbdl8u),
-and the first solution move is `h4h7`.
+It is `Black to move` in puzzle [hCg0N](https://lichess.org/training/hCg0N), rated `1451`.
+The game is `Berthx (1528)` vs `sergeyput9 (1542)` at `10+5` time control,
+with themes `mateIn3, long, endgame`. You can [view the full game](https://lichess.org/OzYBAC4Q),
+and the first solution move is `e5d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
