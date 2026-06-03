@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpp2bpp1%2Fq1p1pnbp%2F4N3%2F4P3%2F1P4P1%2FPBP1QPBP%2F3RR1K1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1k6%2FR2p4%2F4b3%2F2BnP2p%2F1PPP3P%2F8%2F3K4%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [42fUH](https://lichess.org/training/42fUH), rated `1345`.
-The game is `Kawaciukov (2287)` vs `ValkyrieOdyssey (2343)` at `10+0` time control,
-with themes `middlegame, short, crushing, kingsideAttack, capturingDefender`. You can [view the full game](https://lichess.org/IazJSLST),
-and the first solution move is `a6e2`.
+It is `Black to move` in puzzle [lRY7u](https://lichess.org/training/lRY7u), rated `1402`.
+The game is `Aitkazi (1943)` vs `LEDDEN (1879)` at `10+5` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/cpHf3WtK),
+and the first solution move is `f8f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
