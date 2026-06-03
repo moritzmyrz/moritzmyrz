@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1k6%2FR2p4%2F4b3%2F2BnP2p%2F1PPP3P%2F8%2F3K4%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2k2r%2Fppp1p1bp%2F5q2%2F3pN1p1%2F3Pp1Q1%2F4P1P1%2FPPP2P1P%2FR1B1K2R%20w%20KQkq%20-%203%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lRY7u](https://lichess.org/training/lRY7u), rated `1402`.
-The game is `Aitkazi (1943)` vs `LEDDEN (1879)` at `10+5` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/cpHf3WtK),
-and the first solution move is `f8f1`.
+It is `White to move` in puzzle [mTRpi](https://lichess.org/training/mTRpi), rated `1477`.
+The game is `cid7777 (1737)` vs `mrblunder_1 (1728)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/bEGjjf5d),
+and the first solution move is `g4c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
