@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F5ppk%2F4p2p%2Fp2n4%2FP2P4%2F1p3PB1%2F5KPP%2F8%20b%20-%20-%202%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2F1p4pp%2Fp4p2%2F2n1p3%2F2Pp4%2Fq2B1QB1%2FP4PPP%2F3R1RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [DNag7](https://lichess.org/training/DNag7), rated `1400`.
-The game is `Mathusalae (2602)` vs `Elieman (2448)` at `1.5+0` time control,
-with themes `endgame, advancedPawn, advantage, quietMove, long, promotion`. You can [view the full game](https://lichess.org/6l6n8Bf5),
-and the first solution move is `d5b4`.
+It is `White to move` in puzzle [pMA2c](https://lichess.org/training/pMA2c), rated `1581`.
+The game is `maxcos (1615)` vs `RSHARY (1613)` at `10+0` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/Zr0zozMX),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
