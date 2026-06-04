@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p3ppp%2F1np1p3%2F4q3%2F2P5%2F1P3Q1P%2Fr3N1P1%2F3R1R1K%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2qrk%2Fp4p1p%2F2pnpPpQ%2F3p2P1%2F5P2%2F2PBR3%2FPP5P%2FR1B4K%20w%20-%20-%205%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [u8KU2](https://lichess.org/training/u8KU2), rated `1404`.
-The game is `hritic333 (1941)` vs `H_H_H_D (2105)` at `10+0` time control,
-with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/OFqUfbuf),
-and the first solution move is `f3f7`.
+It is `White to move` in puzzle [Fnfn5](https://lichess.org/training/Fnfn5), rated `1514`.
+The game is `photoelement (1965)` vs `KTYBX (1933)` at `10+5` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/HPcAZxkp),
+and the first solution move is `h6h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
