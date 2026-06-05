@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F7p%2F4K1pP%2F4P1P1%2F3p4%2F8%2F8%2F8%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1k2r%2Fpp3ppp%2F5n2%2FRN1pPb2%2F1b6%2F1P4P1%2F1P1BPPBP%2F4K1NR%20b%20Kk%20-%202%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vvok6](https://lichess.org/training/vvok6), rated `1514`.
-The game is `charlyEPS (2219)` vs `tefatefapop (2123)` at `3+0` time control,
-with themes `endgame, advancedPawn, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/0cZxWxkN),
-and the first solution move is `e6f7`.
+It is `Black to move` in puzzle [v9Eqr](https://lichess.org/training/v9Eqr), rated `1280`.
+The game is `Hillarysky (1784)` vs `Melfice (1767)` at `10+0` time control,
+with themes `middlegame, oneMove, mateIn1, pin`. You can [view the full game](https://lichess.org/QFvcLNLV),
+and the first solution move is `c8c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
