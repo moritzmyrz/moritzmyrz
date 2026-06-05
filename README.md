@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1pr2Nbp%2Fp2q2p1%2F4p3%2F3PQ1P1%2F4P2P%2FPP4K1%2F5R2%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rn1%2Fpp3pkp%2F3p2pb%2F2pPp1N1%2F2P1P3%2FP2BP3%2F1P2bRPP%2F5RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [OnAek](https://lichess.org/training/OnAek), rated `1572`.
-The game is `Goldfinger007 (2150)` vs `Feyzo88 (2007)` at `0+5` time control,
-with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/YfxFBr1Y),
-and the first solution move is `c7f7`.
+It is `White to move` in puzzle [05nim](https://lichess.org/training/05nim), rated `1362`.
+The game is `naturizo (2214)` vs `miechen (2236)` at `10+5` time control,
+with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/q0eL3jxL),
+and the first solution move is `f2f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
