@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1p3Qpp%2Fp2pN3%2F4p3%2F8%2F2P1n1q1%2FPP4N1%2F5RK1%20w%20-%20-%205%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1pr2Nbp%2Fp2q2p1%2F4p3%2F3PQ1P1%2F4P2P%2FPP4K1%2F5R2%20b%20-%20-%201%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CBANd](https://lichess.org/training/CBANd), rated `1401`.
-The game is `khusbu_warsia (1822)` vs `FuadAlAlam (1868)` at `7+2` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice`. You can [view the full game](https://lichess.org/NdXkqLtM),
-and the first solution move is `f7g8`.
+It is `Black to move` in puzzle [OnAek](https://lichess.org/training/OnAek), rated `1572`.
+The game is `Goldfinger007 (2150)` vs `Feyzo88 (2007)` at `0+5` time control,
+with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/YfxFBr1Y),
+and the first solution move is `c7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
