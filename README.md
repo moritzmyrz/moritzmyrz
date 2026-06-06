@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fppp4p%2F5p2%2F2P5%2F3RP3%2FP3B1rp%2F1P4R1%2F7K%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F2p2Qpk%2F3b3p%2F1K1N4%2F2P5%2FPP1q4%2F8%20w%20-%20-%208%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yM4og](https://lichess.org/training/yM4og), rated `1606`.
-The game is `Stephan_9 (1824)` vs `stimboy (1811)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, advantage`. You can [view the full game](https://lichess.org/uHiMKPIJ),
-and the first solution move is `h3g2`.
+It is `White to move` in puzzle [i454l](https://lichess.org/training/i454l), rated `1354`.
+The game is `Pravinith (1831)` vs `veer_balaji (1652)` at `10+5` time control,
+with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/7pCuGpRz),
+and the first solution move is `d4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
