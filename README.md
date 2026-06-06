@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2F1pr5%2FpP4pp%2FP2P1p2%2F4p3%2F1B1n3P%2F5PP1%2F1N4K1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r2r1%2Fp4p2%2F2p1q3%2F1N1p3p%2F3P2P1%2F1Q2P3%2FPP3P1P%2F2R3K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VFr32](https://lichess.org/training/VFr32), rated `1312`.
-The game is `Karunakar12345 (1771)` vs `antoxa_25 (1763)` at `15+10` time control,
-with themes `advancedPawn, short, advantage, endgame`. You can [view the full game](https://lichess.org/0enGdiaQ),
-and the first solution move is `b6c7`.
+It is `White to move` in puzzle [kbYzF](https://lichess.org/training/kbYzF), rated `1608`.
+The game is `OoFaraniusoO (1743)` vs `vasilij_habs (1694)` at `10+0` time control,
+with themes `endgame, queensideAttack, discoveredCheck, long, mateIn3, sacrifice, discoveredAttack`. You can [view the full game](https://lichess.org/5ruMjk96),
+and the first solution move is `b5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
