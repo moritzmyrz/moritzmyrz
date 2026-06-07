@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fpp3k2%2F3R1n1B%2Fn1p2b1p%2F2p4P%2F2P5%2FP4PP1%2F4R1K1%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2Bk1%2Fp2n3p%2F2p1p1p1%2F3pq3%2F8%2F3B3R%2FP1P1Q1PP%2FR6K%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Sh73m](https://lichess.org/training/Sh73m), rated `1617`.
-The game is `Midnight_Mushroom (2515)` vs `AGG2020 (2516)` at `3+0` time control,
-with themes `deflection, short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/Whhi6MCI),
-and the first solution move is `d6f6`.
+It is `Black to move` in puzzle [KFDr5](https://lichess.org/training/KFDr5), rated `1410`.
+The game is `ArtisL (2294)` vs `Ilgiux (2338)` at `3+0` time control,
+with themes `short, crushing, kingsideAttack, hangingPiece, master, middlegame`. You can [view the full game](https://lichess.org/UqZMF7tb),
+and the first solution move is `e5a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
