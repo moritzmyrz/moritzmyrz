@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F5p1p%2F2pPpQp1%2F1pq4P%2Fp7%2F8%2FPPB2PP1%2F3R2K1%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1p4p1%2F2qP1n1p%2F8%2F1P1R2pP%2F3Q2P1%2F5PNK%2Fr7%20b%20-%20-%204%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ADsmo](https://lichess.org/training/ADsmo), rated `1441`.
-The game is `i_love_my_wife (2115)` vs `Caribeboy (2069)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/KeFdHNUq),
-and the first solution move is `h5h6`.
+It is `Black to move` in puzzle [OGa8H](https://lichess.org/training/OGa8H), rated `1448`.
+The game is `KingRAZOR (2282)` vs `juniorgong (2515)` at `3+2` time control,
+with themes `endgame, master, crushing, quietMove, long`. You can [view the full game](https://lichess.org/7ee9dAUf),
+and the first solution move is `c6c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
