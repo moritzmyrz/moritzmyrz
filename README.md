@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fpp2kppp%2F2p1b1n1%2F6N1%2F8%2F8%2FPPP1R1PP%2F2K2R2%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fpp3k2%2F3R1n1B%2Fn1p2b1p%2F2p4P%2F2P5%2FP4PP1%2F4R1K1%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [N1T7Y](https://lichess.org/training/N1T7Y), rated `1320`.
-The game is `dufyduck (1838)` vs `Mayhemus (2016)` at `10+0` time control,
-with themes `middlegame, short, crushing, pin`. You can [view the full game](https://lichess.org/7aF0Usp4),
-and the first solution move is `f1f7`.
+It is `White to move` in puzzle [Sh73m](https://lichess.org/training/Sh73m), rated `1617`.
+The game is `Midnight_Mushroom (2515)` vs `AGG2020 (2516)` at `3+0` time control,
+with themes `deflection, short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/Whhi6MCI),
+and the first solution move is `d6f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
