@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2F2p2p1p%2Fp4P1B%2F2Q5%2FP1P1P3%2F6qP%2F3R2P1%2F6K1%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fppp3pp%2F5p1n%2F3p2N1%2F2PP1P1N%2F3B4%2FPP4P1%2FR1Bb1RK1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [iS2g4](https://lichess.org/training/iS2g4), rated `1591`.
-The game is `dalyarak01 (2389)` vs `Doc_NO (2273)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/pVEZ0a9n),
-and the first solution move is `b8b1`.
+It is `White to move` in puzzle [G7hgt](https://lichess.org/training/G7hgt), rated `1432`.
+The game is `janengfeldt (2130)` vs `ProphylacticPawnPush (1952)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/1FSwIkax),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
