@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F6k1%2FP2p4%2F3r1R2%2F6P1%2F7K%20b%20-%20-%202%2047&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2R5%2F1p1k4%2F8%2Fp2qBp2%2F6r1%2F4P1P1%2F5P2%2F2R3K1%20w%20-%20-%206%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [wzIt0](https://lichess.org/training/wzIt0), rated `1529`.
-The game is `mackfor3 (1603)` vs `rrrrraaaaawwwww (1615)` at `5+0` time control,
-with themes `endgame, advancedPawn, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/XldmjqWB),
-and the first solution move is `d3f3`.
+It is `White to move` in puzzle [XxXlK](https://lichess.org/training/XxXlK), rated `1273`.
+The game is `charlybentus (1852)` vs `Galaico (1858)` at `3+0` time control,
+with themes `short, pillsburysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/GX13cXSd),
+and the first solution move is `c1c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
