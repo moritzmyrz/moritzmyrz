@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F4rp1p%2F4q1pP%2Fp2R4%2F1p1p1BP1%2F5Q2%2FPP6%2F1K3R2%20b%20-%20-%206%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1br2k1%2Fpp3p2%2F1qn1pn2%2F2b3p1%2F8%2F3B1N1N%2FPPPQ1PPP%2F1R2K2R%20w%20K%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [qrNOn](https://lichess.org/training/qrNOn), rated `1546`.
-The game is `keshav2 (2005)` vs `mikeekim123123 (1978)` at `3+0` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/AYMPgdnC),
-and the first solution move is `e6e1`.
+It is `White to move` in puzzle [SoOAu](https://lichess.org/training/SoOAu), rated `1335`.
+The game is `pFalcon (2039)` vs `Ironfla (2061)` at `3+0` time control,
+with themes `short, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/fIFxWShO),
+and the first solution move is `d2g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
