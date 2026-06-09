@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F8%2Fp7%2F3rnR1p%2FP6k%2F6p1%2F5QP1%2F6K1%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2F1np3p1%2F1p1q3p%2F4Q3%2F1P6%2FP7%2F2P3PP%2F2B1R1K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [k8nLF](https://lichess.org/training/k8nLF), rated `1332`.
-The game is `yogasanjay (1784)` vs `Ahmedsolo (1794)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/0TCFYd0n),
-and the first solution move is `f2f4`.
+It is `Black to move` in puzzle [JuTWs](https://lichess.org/training/JuTWs), rated `1364`.
+The game is `kayakinchess (1691)` vs `VALERA-2000 (1719)` at `5+3` time control,
+with themes `clearance, endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/8sGrV1XN),
+and the first solution move is `d6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
