@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4n1p1%2F4N3%2Fp2p4%2F1b1PnQ2%2F4P1PP%2FRP1rqPK1%2F2r2R2%20w%20-%20-%201%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4bqrk%2Fp3r3%2F1p2P2p%2F1PpP4%2FP1Nb3Q%2F5pP1%2F2B2P2%2F1R1R2K1%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XcS9S](https://lichess.org/training/XcS9S), rated `1276`.
-The game is `mnsharara10000 (1857)` vs `M-SB (1780)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/ZjtZjpln),
-and the first solution move is `f4f8`.
+It is `Black to move` in puzzle [uySXh](https://lichess.org/training/uySXh), rated `1488`.
+The game is `R22Cosh (1715)` vs `Jonhmorais (1743)` at `10+0` time control,
+with themes `middlegame, short, advantage, sacrifice, pin`. You can [view the full game](https://lichess.org/VJfcyqHZ),
+and the first solution move is `g8g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
