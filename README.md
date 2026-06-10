@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fp5p1%2F1q6%2F3p4%2F4p2Q%2FP1P1R3%2F6P1%2F4RrK1%20w%20-%20-%207%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4n1p1%2F4N3%2Fp2p4%2F1b1PnQ2%2F4P1PP%2FRP1rqPK1%2F2r2R2%20w%20-%20-%201%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Qz1zC](https://lichess.org/training/Qz1zC), rated `1576`.
-The game is `jc_isthelord (1806)` vs `daveraw1985 (1757)` at `30+20` time control,
-with themes `endgame, short, advantage, hangingPiece, defensiveMove`. You can [view the full game](https://lichess.org/pQGWMytD),
-and the first solution move is `g1f1`.
+It is `White to move` in puzzle [XcS9S](https://lichess.org/training/XcS9S), rated `1276`.
+The game is `mnsharara10000 (1857)` vs `M-SB (1780)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/ZjtZjpln),
+and the first solution move is `f4f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
