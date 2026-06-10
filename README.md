@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4bqrk%2Fp3r3%2F1p2P2p%2F1PpP4%2FP1Nb3Q%2F5pP1%2F2B2P2%2F1R1R2K1%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rq1b1r%2F3k4%2F3np1Q1%2F1p2p1pB%2F1Pp5%2FP1N5%2F3P1PPP%2FR4RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uySXh](https://lichess.org/training/uySXh), rated `1488`.
-The game is `R22Cosh (1715)` vs `Jonhmorais (1743)` at `10+0` time control,
-with themes `middlegame, short, advantage, sacrifice, pin`. You can [view the full game](https://lichess.org/VJfcyqHZ),
-and the first solution move is `g8g3`.
+It is `Black to move` in puzzle [T3t0p](https://lichess.org/training/T3t0p), rated `1615`.
+The game is `alexei1984 (1768)` vs `andreaeae (1696)` at `10+0` time control,
+with themes `middlegame, short, advantage`. You can [view the full game](https://lichess.org/ENOjn4Ss),
+and the first solution move is `h8h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
