@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3R4%2F1p2N1pp%2F3NPn2%2F8%2F6P1%2Fbr3PK1%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4nR1%2Fpp2kp2%2F4q3%2F1BP5%2F4Q3%2FP3P3%2F1P1K1PP1%2Fr7%20w%20-%20-%2011%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XYOpR](https://lichess.org/training/XYOpR), rated `1441`.
-The game is `MartinEden34 (1765)` vs `srujan526 (1747)` at `10+5` time control,
-with themes `endgame, crushing, attraction, long, pin`. You can [view the full game](https://lichess.org/1tkXSQBp),
-and the first solution move is `a2d5`.
+It is `White to move` in puzzle [JSRgN](https://lichess.org/training/JSRgN), rated `1397`.
+The game is `VuyoLG (2149)` vs `Zakir10 (2188)` at `10+0` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/lTJ7NiRE),
+and the first solution move is `e4b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
