@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2Fppp2pp1%2F2pr3q%2F7n%2F4P2Q%2F2NP4%2FPPP2PK1%2FR4R2%20b%20-%20-%205%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1p3b1%2F1p2pqQ1%2F6p1%2F3PB3%2F8%2FPPP2PP1%2F2K4R%20w%20-%20-%205%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1TjCS](https://lichess.org/training/1TjCS), rated `1501`.
-The game is `saleasklarinos (1982)` vs `Mansube17 (1991)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/8EReaPTz),
-and the first solution move is `h5f4`.
+It is `White to move` in puzzle [A2qia](https://lichess.org/training/A2qia), rated `1573`.
+The game is `kaigreen (2281)` vs `mejmej1352 (2159)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack, pin`. You can [view the full game](https://lichess.org/e2TRTZcs),
+and the first solution move is `h1h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
