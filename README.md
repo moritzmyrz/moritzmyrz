@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp4p1%2F2p2q1p%2F3p1Q2%2F2Pr4%2F1P5P%2FP5P1%2F3R1RK1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FR7%2F1n1K1k2%2F2PB2p1%2F5r2%2F8%2F8%2F8%20b%20-%20-%200%2055&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mWo3Y](https://lichess.org/training/mWo3Y), rated `1292`.
-The game is `AQ2022 (1961)` vs `racc8n (1988)` at `10+5` time control,
-with themes `advantage, short, capturingDefender, endgame`. You can [view the full game](https://lichess.org/i7QuK6P4),
-and the first solution move is `f5f6`.
+It is `Black to move` in puzzle [9VQZp](https://lichess.org/training/9VQZp), rated `1469`.
+The game is `chessmaxusa (2483)` vs `virion1467 (2454)` at `3+0` time control,
+with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/kZRI2rpb),
+and the first solution move is `b6c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
