@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2F1p1p1p2%2Fp3p1p1%2F7q%2F2P3p1%2F1P1B1PP1%2FP2N4%2FR2Q1RK1%20b%20kq%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp4p1%2F2p2q1p%2F3p1Q2%2F2Pr4%2F1P5P%2FP5P1%2F3R1RK1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KeUgl](https://lichess.org/training/KeUgl), rated `1337`.
-The game is `khuraslungelo (1682)` vs `RoniAlvino (1692)` at `3+0` time control,
-with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/MhXxBaQs),
-and the first solution move is `h5h2`.
+It is `White to move` in puzzle [mWo3Y](https://lichess.org/training/mWo3Y), rated `1292`.
+The game is `AQ2022 (1961)` vs `racc8n (1988)` at `10+5` time control,
+with themes `advantage, short, capturingDefender, endgame`. You can [view the full game](https://lichess.org/i7QuK6P4),
+and the first solution move is `f5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
