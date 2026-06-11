@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5Npk%2FR7%2F1p5p%2F8%2FP2n4%2F1r6%2FK7%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F1R5p%2F2p1r1p1%2Fp7%2F5k2%2FPKP5%2F2P5%2F6R1%20w%20-%20-%204%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [N4s54](https://lichess.org/training/N4s54), rated `1350`.
-The game is `jobijo (1880)` vs `macia_ia_member (1877)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/5yahU7nj),
-and the first solution move is `f7g5`.
+It is `White to move` in puzzle [mt5T8](https://lichess.org/training/mt5T8), rated `1302`.
+The game is `AndrewStephens (1551)` vs `corradopacelli (1604)` at `10+0` time control,
+with themes `endgame, crushing, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/Zyctg3te),
+and the first solution move is `b7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
