@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp2p2%2F4b2p%2Fp3Q1p1%2F1Pp4q%2F2P3R1%2FP2B1PP1%2FR5K1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4Q3%2F1q3pk1%2Fp2p2p1%2F2pP1p2%2Fn1P2P2%2F3B4%2FP4P2%2F2K4R%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [L4UjU](https://lichess.org/training/L4UjU), rated `1384`.
-The game is `eldoubouc (2089)` vs `claudefics (2002)` at `5+3` time control,
-with themes `kingsideAttack, crushing, long, middlegame`. You can [view the full game](https://lichess.org/0vDofMzc),
-and the first solution move is `d2g5`.
+It is `Black to move` in puzzle [gZg8G](https://lichess.org/training/gZg8G), rated `1426`.
+The game is `merabetfarid (1604)` vs `peichihe (1564)` at `10+0` time control,
+with themes `exposedKing, endgame, queensideAttack, long, mateIn3`. You can [view the full game](https://lichess.org/aMT7XJZ9),
+and the first solution move is `b7b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
