@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pp%2F1n2pp2%2F1kNb4%2Fp2K1P2%2FP5P1%2F1P1N3P%2F8%20b%20-%20-%207%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1r2p1p%2F2Nq1npb%2F1p1P4%2F1P2P3%2F6P1%2FPRB1Q1PP%2F5RK1%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [q8qE6](https://lichess.org/training/q8qE6), rated `1269`.
-The game is `karokan234 (2182)` vs `Papprasov (2209)` at `3+0` time control,
-with themes `long, crushing, endgame`. You can [view the full game](https://lichess.org/Olh8ABSC),
-and the first solution move is `e6e5`.
+It is `Black to move` in puzzle [WY6j4](https://lichess.org/training/WY6j4), rated `1598`.
+The game is `RaviKumar20 (1716)` vs `ClydeRhodesIII (1690)` at `10+5` time control,
+with themes `middlegame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/0rGcgQk1),
+and the first solution move is `c7c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
