@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1r2p1p%2F2Nq1npb%2F1p1P4%2F1P2P3%2F6P1%2FPRB1Q1PP%2F5RK1%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3b3p%2Fp2p1P2%2F7p%2F1prqP3%2F8%2FPPPQ4%2F2K3N1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [WY6j4](https://lichess.org/training/WY6j4), rated `1598`.
-The game is `RaviKumar20 (1716)` vs `ClydeRhodesIII (1690)` at `10+5` time control,
-with themes `middlegame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/0rGcgQk1),
-and the first solution move is `c7c6`.
+It is `White to move` in puzzle [1GSv9](https://lichess.org/training/1GSv9), rated `1310`.
+The game is `torpeche (1847)` vs `CromagEs (2002)` at `3+2` time control,
+with themes `endgame, epauletteMate, long, mateIn3`. You can [view the full game](https://lichess.org/ppgZHApZ),
+and the first solution move is `d2g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
