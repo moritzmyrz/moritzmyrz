@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr2k%2F1p3Q2%2Fp2q4%2F8%2F3pR1b1%2F7P%2FPPP2PP1%2F6K1%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2FP4p2%2F4p1p1%2F5p2%2F1Q1Pb2K%2F2P5%2F1PB3q1%2FR7%20b%20-%20-%2011%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vJhZa](https://lichess.org/training/vJhZa), rated `1366`.
-The game is `guoaoli (2408)` vs `abmcdonald (2398)` at `3+0` time control,
-with themes `exposedKing, endgame, advantage, long`. You can [view the full game](https://lichess.org/Ud8eFQig),
-and the first solution move is `e4e8`.
+It is `Black to move` in puzzle [OBOnQ](https://lichess.org/training/OBOnQ), rated `1334`.
+The game is `VALERION_99 (2085)` vs `bogand1 (2123)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/o3UkgBwv),
+and the first solution move is `g2g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
