@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k1PB1%2F2pNpP2%2Fp7%2F6r1%2F1P2n2r%2FP4K2%2F3R1R2%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fp1p2rp1%2F6Rp%2F7P%2F2p2P2%2F2Q5%2F5q2%2F6RK%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vNK6e](https://lichess.org/training/vNK6e), rated `1604`.
-The game is `Espinenko1 (2387)` vs `ayvalik10 (2503)` at `3+0` time control,
-with themes `mateIn2, short, master, middlegame`. You can [view the full game](https://lichess.org/ppDdMmia),
-and the first solution move is `g4g2`.
+It is `White to move` in puzzle [82pDm](https://lichess.org/training/82pDm), rated `1341`.
+The game is `Remyos (1876)` vs `d52276ev (1857)` at `10+0` time control,
+with themes `endgame, oneMove, mateIn1, pin`. You can [view the full game](https://lichess.org/hr6pUcRi),
+and the first solution move is `g6h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
