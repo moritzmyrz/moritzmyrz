@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2R5%2FRp4p1%2F1Pk2bP1%2F2P2r2%2F8%2F1K6%20b%20-%20-%202%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F3R2R1%2F7P%2F8%2F3P4%2F6K1%2F5PP1%2Fq6r%20w%20-%20-%200%2046&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dZQ7I](https://lichess.org/training/dZQ7I), rated `1312`.
-The game is `Renataukupov (1628)` vs `thanhdung221 (1613)` at `10+0` time control,
-with themes `advantage, defensiveMove, long, endgame`. You can [view the full game](https://lichess.org/33GhGtdg),
-and the first solution move is `c4b3`.
+It is `White to move` in puzzle [ddhdl](https://lichess.org/training/ddhdl), rated `1382`.
+The game is `verseability (1817)` vs `Alex_Zana (1845)` at `10+0` time control,
+with themes `exposedKing, endgame, long, mateIn3, queenRookEndgame`. You can [view the full game](https://lichess.org/RDOL9Vt5),
+and the first solution move is `g7h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
