@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F3P1pp1%2F7p%2Fp1qr4%2FP1b5%2F5P1P%2F3Q2P1%2F2RR3K%20w%20-%20-%203%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpp4pp%2F2p4q%2F2p1p3%2F7r%2FP2P1BQ1%2F1PP3P1%2FR4RK1%20b%20-%20-%204%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [s9lKG](https://lichess.org/training/s9lKG), rated `1558`.
-The game is `aozdas (1616)` vs `N_Fox (1602)` at `5+0` time control,
-with themes `crushing, veryLong, pin, middlegame`. You can [view the full game](https://lichess.org/kaYYTROS),
-and the first solution move is `d2d5`.
+It is `Black to move` in puzzle [obHNn](https://lichess.org/training/obHNn), rated `1590`.
+The game is `Alfred108 (1614)` vs `Lion1357 (1930)` at `5+3` time control,
+with themes `mateIn2, middlegame, short, epauletteMate, kingsideAttack`. You can [view the full game](https://lichess.org/Z2eXdwdA),
+and the first solution move is `h4h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
