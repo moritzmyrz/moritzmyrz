@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F3b3n%2F2pp2pp%2F1p2P2N%2Fp4PPq%2F2N5%2F1P5P%2F1Q4RK%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2F1bNpbpp1%2Fpp6%2F2n1P2p%2FB2Q1B2%2F8%2FPPP2PPP%2FR4RK1%20b%20kq%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mzu8G](https://lichess.org/training/mzu8G), rated `1279`.
-The game is `elnegro07 (1537)` vs `tidouille (1550)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/2Dggoc5v),
-and the first solution move is `b1g6`.
+It is `Black to move` in puzzle [BnEZO](https://lichess.org/training/BnEZO), rated `1504`.
+The game is `Avilx (2103)` vs `D3MON234 (2168)` at `3+0` time control,
+with themes `hangingPiece, advantage, long, middlegame`. You can [view the full game](https://lichess.org/Yql4BA37),
+and the first solution move is `d8c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
