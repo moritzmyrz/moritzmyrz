@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3Q2p1%2F4r2p%2F6PK%2FP3r2P%2F8%2F1PP5%2F8%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fpp1nq3%2F4p1pR%2F3pP1P1%2F2n2r2%2F2N2P2%2FPPP5%2F2K4R%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5OjQz](https://lichess.org/training/5OjQz), rated `1369`.
-The game is `Yousetomas (2061)` vs `MunirBayramov (2004)` at `10+0` time control,
-with themes `deflection, short, queenRookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/BdwJDanz),
-and the first solution move is `g7g6`.
+It is `White to move` in puzzle [r1WGF](https://lichess.org/training/r1WGF), rated `1444`.
+The game is `abdulbk (1675)` vs `KIZIL (1614)` at `10+5` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/p4vAlitm),
+and the first solution move is `h6h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
