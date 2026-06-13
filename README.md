@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1pp2pp1%2Fp1n5%2F2N4p%2FP3P3%2F2P2P1P%2F1P1Q2Pq%2F1K6%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F1p3p2%2F7p%2F1P4p1%2F1p1rn1B1%2F6B1%2F4K1PP%2F7R%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [hVGG1](https://lichess.org/training/hVGG1), rated `1271`.
-The game is `LELOIV (1956)` vs `GGTOURS (2475)` at `5+0` time control,
-with themes `endgame, master, short, advantage, fork`. You can [view the full game](https://lichess.org/26MmcqTT),
-and the first solution move is `h2g1`.
+It is `Black to move` in puzzle [Qk410](https://lichess.org/training/Qk410), rated `1563`.
+The game is `ScintillatingCrocus (1840)` vs `Khachatur1978 (1763)` at `10+0` time control,
+with themes `endgame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/dxzuVJlv),
+and the first solution move is `e4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
