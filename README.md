@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7p%2F3Q2p1%2F1p1p1P2%2F8%2F3qr2k%2Fp7%2F5RK1%20w%20-%20-%202%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1b3pk1%2F4p1pp%2FpB6%2FPb1NP3%2F5P2%2F5KPP%2F8%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [QAOd8](https://lichess.org/training/QAOd8), rated `1380`.
-The game is `cosmin_p (1895)` vs `AlEkSaNdRshEvChEnKo (1851)` at `3+2` time control,
-with themes `endgame, long, mateIn3, triangleMate`. You can [view the full game](https://lichess.org/sqkA4TkZ),
-and the first solution move is `d6h2`.
+It is `Black to move` in puzzle [TifCr](https://lichess.org/training/TifCr), rated `1383`.
+The game is `psherl1 (1820)` vs `avorys (1835)` at `10+0` time control,
+with themes `pin, advantage, short, endgame`. You can [view the full game](https://lichess.org/QbIg1m2P),
+and the first solution move is `b4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
