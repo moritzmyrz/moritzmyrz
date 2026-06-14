@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1q5%2Fp4bkp%2F2p3p1%2F3pp3%2F5p2%2F1BN5%2FPPP1Q3%2F2KR3r%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4rk%2F6pp%2F1p3p2%2Fp2p4%2F3P1PQ1%2F7R%2F3q2PP%2F2R3K1%20w%20-%20-%205%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [g81ec](https://lichess.org/training/g81ec), rated `1342`.
-The game is `Leon_Blanco (2413)` vs `Me-1234567 (2519)` at `3+0` time control,
-with themes `short, advantage, intermezzo, master, middlegame`. You can [view the full game](https://lichess.org/cprQV8tZ),
-and the first solution move is `e2e5`.
+It is `White to move` in puzzle [48nBO](https://lichess.org/training/48nBO), rated `1288`.
+The game is `Ahmedaboelata (1645)` vs `FaresAzzam09 (1603)` at `10+0` time control,
+with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/ccJso4BB),
+and the first solution move is `h3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
