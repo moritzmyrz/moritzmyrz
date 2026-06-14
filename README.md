@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1R5p%2Fq7%2F3pP3%2F3b3Q%2F8%2F5PPP%2F5RK1%20b%20-%20-%203%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp3p1p%2F2n1p1pQ%2F4b3%2F2PnN1P1%2F3B4%2F1B1P1P1P%2FR3K1NR%20w%20KQ%20-%204%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uED2Z](https://lichess.org/training/uED2Z), rated `1308`.
-The game is `boughost (1869)` vs `charlupa (1883)` at `3+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/DSLkH338),
-and the first solution move is `d4f2`.
+It is `White to move` in puzzle [JQyIb](https://lichess.org/training/JQyIb), rated `1539`.
+The game is `Halfdan_Svarte (2297)` vs `DrMaque (2254)` at `3+2` time control,
+with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/CZw9eDBK),
+and the first solution move is `e4g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
