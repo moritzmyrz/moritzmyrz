@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2b2k2%2F5pp1%2Fp1N1p1qp%2F1p1pP3%2F5Q2%2F1P2P3%2FP5PP%2F6K1%20w%20-%20-%202%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4qr1k%2Fpb5B%2F1pr4Q%2F2n1ppp1%2F8%2F4P3%2FPP3PPP%2F2R2R1K%20w%20-%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2gp9t](https://lichess.org/training/2gp9t), rated `1302`.
-The game is `PULL_BACK (2150)` vs `HarrisonWells96 (2167)` at `3+0` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/grOV4WLj),
-and the first solution move is `f4b4`.
+It is `White to move` in puzzle [EQg3z](https://lichess.org/training/EQg3z), rated `1476`.
+The game is `alapedllla (2055)` vs `Lincal (2063)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/WYmOaujd),
+and the first solution move is `h7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
