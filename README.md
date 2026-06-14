@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4qr1k%2Fpb5B%2F1pr4Q%2F2n1ppp1%2F8%2F4P3%2FPP3PPP%2F2R2R1K%20w%20-%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1ppqnrb1%2F7p%2Fp2Pp2P%2F4P1R1%2F4Q3%2FPPPBN3%2F2K3R1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EQg3z](https://lichess.org/training/EQg3z), rated `1476`.
-The game is `alapedllla (2055)` vs `Lincal (2063)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/WYmOaujd),
-and the first solution move is `h7g6`.
+It is `Black to move` in puzzle [EZ2AQ](https://lichess.org/training/EZ2AQ), rated `1538`.
+The game is `PraedatoRex (1989)` vs `Bosna_77 (1980)` at `5+0` time control,
+with themes `deflection, middlegame, advantage, long`. You can [view the full game](https://lichess.org/ei1Kahso),
+and the first solution move is `f7f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
