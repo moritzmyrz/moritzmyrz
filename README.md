@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R7%2F4k3%2F3qpnQp%2F3n4%2F8%2F8%2F5PPP%2F6K1%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rqr1k1%2Fpb4p1%2F1p2p1Pp%2F4P2P%2F3Pp3%2F2P5%2FPP1QB3%2FR3K2R%20b%20KQ%20-%201%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [c5ZZI](https://lichess.org/training/c5ZZI), rated `1402`.
-The game is `Belousov-IvanIlic (2030)` vs `girl5 (2040)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/icjnKKkf),
-and the first solution move is `g6g7`.
+It is `Black to move` in puzzle [HwzMf](https://lichess.org/training/HwzMf), rated `1348`.
+The game is `BareaGarcia (1808)` vs `artgian (2020)` at `5+5` time control,
+with themes `middlegame, discoveredAttack, crushing, short`. You can [view the full game](https://lichess.org/fPLe2C5R),
+and the first solution move is `e4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
