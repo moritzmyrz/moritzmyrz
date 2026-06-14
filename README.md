@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k1p1%2F2p1p3%2FpPP1K3%2F1R2P3%2F8%2F8%2F8%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2F4k3%2F3qpnQp%2F3n4%2F8%2F8%2F5PPP%2F6K1%20w%20-%20-%203%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KLxx0](https://lichess.org/training/KLxx0), rated `1392`.
-The game is `Hany661122 (1833)` vs `Konek_Gorbunok (2317)` at `3+0` time control,
-with themes `endgame, master, short, crushing, defensiveMove`. You can [view the full game](https://lichess.org/PJouBCAK),
-and the first solution move is `a5b4`.
+It is `White to move` in puzzle [c5ZZI](https://lichess.org/training/c5ZZI), rated `1402`.
+The game is `Belousov-IvanIlic (2030)` vs `girl5 (2040)` at `10+0` time control,
+with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/icjnKKkf),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
