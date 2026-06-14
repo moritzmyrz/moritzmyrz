@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1b3pk1%2F4p1pp%2FpB6%2FPb1NP3%2F5P2%2F5KPP%2F8%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1p3ppp%2F1b2b1n1%2FpP1p1p1Q%2F8%2FP4N2%2F1BP2PPP%2FRN3RK1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [TifCr](https://lichess.org/training/TifCr), rated `1383`.
-The game is `psherl1 (1820)` vs `avorys (1835)` at `10+0` time control,
-with themes `pin, advantage, short, endgame`. You can [view the full game](https://lichess.org/QbIg1m2P),
-and the first solution move is `b4c5`.
+It is `White to move` in puzzle [yboSc](https://lichess.org/training/yboSc), rated `1313`.
+The game is `karmada (2462)` vs `gaviacula (2413)` at `3+2` time control,
+with themes `long, advantage, opening`. You can [view the full game](https://lichess.org/WVa1vmsX),
+and the first solution move is `f3g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
