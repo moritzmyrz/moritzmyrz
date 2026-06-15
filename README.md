@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1R2pk1%2F1p4pp%2F8%2F8%2Fr3QPP1%2F1q3PK1%2F8%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1p3ppp%2Fp3pq2%2F3p4%2F2PN4%2F1Pn1Q1P1%2FP3PP1P%2FR4RK1%20b%20kq%20-%204%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mTR5Q](https://lichess.org/training/mTR5Q), rated `1618`.
-The game is `Erwin_Baros (1939)` vs `Abject_Pawn (1978)` at `10+0` time control,
-with themes `endgame, advantage, short`. You can [view the full game](https://lichess.org/xt64RmXz),
-and the first solution move is `e3e7`.
+It is `Black to move` in puzzle [gt0uc](https://lichess.org/training/gt0uc), rated `1526`.
+The game is `Mishe2015 (1716)` vs `ErisonOliveiraII (1686)` at `5+0` time control,
+with themes `deflection, middlegame, advantage, attraction, fork, long, sacrifice, capturingDefender`. You can [view the full game](https://lichess.org/9JawEEQV),
+and the first solution move is `f6d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
