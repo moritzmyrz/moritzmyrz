@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1pk5%2F7p%2FR7%2F2Q3PP%2FP4N1K%2F1b3q2%2F8%20b%20-%20-%204%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F7p%2F3K1B2%2F2p3P1%2F1p3k2%2F8%2F8%20b%20-%20-%201%2043&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HPuS8](https://lichess.org/training/HPuS8), rated `1536`.
-The game is `AttackSparrow (2615)` vs `liordis31 (2523)` at `3+0` time control,
-with themes `endgame, master, masterVsMaster, crushing, long, capturingDefender, defensiveMove`. You can [view the full game](https://lichess.org/XeXqxk3e),
-and the first solution move is `c7b8`.
+It is `Black to move` in puzzle [7bVAv](https://lichess.org/training/7bVAv), rated `1452`.
+The game is `WolfgangPauli360 (1912)` vs `lans727 (1837)` at `15+10` time control,
+with themes `endgame, advancedPawn, short, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/DC2u3OCf),
+and the first solution move is `c4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
