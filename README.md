@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bk4%2Fpppnp2p%2F5bp1%2F1B4N1%2F8%2F8%2FPPP3PP%2FR1B1K2n%20w%20Q%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2Fp2bN1pp%2F2p2p2%2F1p2p3%2F2B1P1P1%2F1PKPB1q1%2F1PP2R2%2FR7%20w%20-%20-%201%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fqnx8](https://lichess.org/training/fqnx8), rated `1589`.
-The game is `jbrere (2388)` vs `TotallyCheeting (2206)` at `12+6` time control,
-with themes `deflection, middlegame, short, crushing`. You can [view the full game](https://lichess.org/BGcXxdvn),
-and the first solution move is `g5e6`.
+It is `White to move` in puzzle [BiHYO](https://lichess.org/training/BiHYO), rated `1338`.
+The game is `Emory_Tater (1898)` vs `Lc4 (1876)` at `2+1` time control,
+with themes `middlegame, long, mateIn3, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/VT50XuWV),
+and the first solution move is `e7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
