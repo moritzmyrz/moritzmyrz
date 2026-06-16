@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqr2b%2Fpp4k1%2F2p2npN%2F4p3%2F8%2F2P1P1QP%2FPP1N1P1B%2FR3K1R1%20b%20Q%20-%201%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pk1%2F4p1p1%2F2b1PpB1%2F2P2K1R%2F1r5P%2F3N1P2%2Fr5q1%20w%20-%20-%206%2050&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [A1nDr](https://lichess.org/training/A1nDr), rated `1546`.
-The game is `HobPep (1626)` vs `Dmano (1629)` at `3+0` time control,
-with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/ERUhnZW0),
-and the first solution move is `d8d2`.
+It is `White to move` in puzzle [gMDJu](https://lichess.org/training/gMDJu), rated `1380`.
+The game is `torrentec (2522)` vs `industrial_strength (2493)` at `3+0` time control,
+with themes `mateIn2, short, operaMate, master, middlegame`. You can [view the full game](https://lichess.org/GafSHxIY),
+and the first solution move is `g5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
