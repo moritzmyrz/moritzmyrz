@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp4ppp%2F1p6%2F2b1PPq1%2F8%2F1PN2Q2%2FP2r3P%2FR4R1K%20w%20-%20-%207%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2F2p3B1%2F1pk1p1p1%2F8%2F2P5%2FP7%2F3R3r%2F4KR1q%20b%20-%20-%204%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kzMQ4](https://lichess.org/training/kzMQ4), rated `1449`.
-The game is `poterabb (1789)` vs `klassak (1778)` at `8+0` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/UXbAOA9g),
-and the first solution move is `c3e4`.
+It is `Black to move` in puzzle [wf2yD](https://lichess.org/training/wf2yD), rated `1317`.
+The game is `EduBenitezIrazusta (1832)` vs `albertocruz77 (1624)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/AGefrD3y),
+and the first solution move is `h1e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
