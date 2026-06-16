@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F1b3r1p%2F8%2F1p1Pn3%2F1P2PN1P%2F5BP1%2F1R3K2%20b%20-%20-%206%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fpp1n4%2F2p1pnpp%2F2PpB1p1%2F3P4%2FP1NQPP2%2F1P4PP%2FR3K2R%20w%20KQkq%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [moSWv](https://lichess.org/training/moSWv), rated `1346`.
-The game is `Gendel-60 (1635)` vs `narushitel (1652)` at `3+2` time control,
-with themes `endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/QQXlgJ8t),
-and the first solution move is `f6f3`.
+It is `White to move` in puzzle [p5NxG](https://lichess.org/training/p5NxG), rated `1615`.
+The game is `BEnOOL (1882)` vs `hanisaafan2017 (1735)` at `15+15` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/xXCL1reK),
+and the first solution move is `d3g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
