@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F1p2krR1%2FbP1p4%2F3Pp3%2F4N2p%2FR7%2F1K6%2F8%20w%20-%20-%204%2055&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F4Rppp%2F2p2n2%2Fpk1p4%2FN7%2FPP6%2F5PPP%2F6K1%20w%20-%20-%201%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1CUfp](https://lichess.org/training/1CUfp), rated `1250`.
-The game is `H12H12 (2115)` vs `KonstantinKononenko (2207)` at `2+1` time control,
-with themes `endgame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/xy0gamzz),
-and the first solution move is `g7f7`.
+It is `White to move` in puzzle [vrcE2](https://lichess.org/training/vrcE2), rated `1394`.
+The game is `Honer60 (1710)` vs `npokypatop (1786)` at `15+10` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/FRM45TFk),
+and the first solution move is `e7b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
