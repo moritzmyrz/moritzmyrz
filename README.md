@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpp1qbppp%2F4pn2%2F2P5%2F8%2F2PB2B1%2FPPQ2PPP%2FR4RK1%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1r1%2Fppp2p1k%2F3p3q%2F6R1%2F2P1PpQ1%2F8%2FP1P3P1%2F4R1K1%20w%20-%20-%204%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1iho1](https://lichess.org/training/1iho1), rated `1360`.
-The game is `Conansson (2040)` vs `vv-o (2135)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/UEaod2lE),
-and the first solution move is `d7d3`.
+It is `White to move` in puzzle [AxxNA](https://lichess.org/training/AxxNA), rated `1544`.
+The game is `Relaxbuddy (1719)` vs `yasserchess1994 (1742)` at `2+1` time control,
+with themes `endgame, advantage, long, pin`. You can [view the full game](https://lichess.org/wqlw2y2G),
+and the first solution move is `g4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
