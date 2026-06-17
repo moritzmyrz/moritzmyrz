@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fp1p2p2%2F2ppbn2%2Fb3p1B1%2F2B1P3%2F2P3Q1%2FP4PPP%2FRN3RK1%20b%20-%20-%202%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F1r3p2%2F1p1rk1p1%2F1R5p%2F4PK1P%2F5P2%2F6P1%2F8%20w%20-%20-%206%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ugcsj](https://lichess.org/training/Ugcsj), rated `1478`.
-The game is `adarshwick (2578)` vs `BLITZ16 (2468)` at `3+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/coIpYNNT),
-and the first solution move is `f6e4`.
+It is `White to move` in puzzle [QnUTX](https://lichess.org/training/QnUTX), rated `1485`.
+The game is `Podpall (2537)` vs `VladislavKrasikov_FM (2528)` at `3+0` time control,
+with themes `deflection, endgame, master, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/i74Uzpig),
+and the first solution move is `b5e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
