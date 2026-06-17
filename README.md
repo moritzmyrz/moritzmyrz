@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2Fp5p1%2F2pr3p%2F2pP1P2%2F6P1%2F8%2FP4K2%2FR2R4%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Nk1%2F1bQ2p1p%2Fp5pb%2F1p1p1p2%2F3P1P2%2FPP2q1N1%2F6PP%2F2R4K%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VFBV0](https://lichess.org/training/VFBV0), rated `1377`.
-The game is `Teoma (1928)` vs `DimaKalasnik (2015)` at `2+1` time control,
-with themes `endgame, advancedPawn, advantage, rookEndgame, long, sacrifice`. You can [view the full game](https://lichess.org/KE2tunej),
-and the first solution move is `d5c6`.
+It is `Black to move` in puzzle [lRRC0](https://lichess.org/training/lRRC0), rated `1503`.
+The game is `NEO24 (2090)` vs `OmerFarukTutkun (2082)` at `3+0` time control,
+with themes `advantage, pin, long, middlegame`. You can [view the full game](https://lichess.org/kAIQMdSX),
+and the first solution move is `h6f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
