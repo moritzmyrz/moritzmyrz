@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F4Rppp%2F2p2n2%2Fpk1p4%2FN7%2FPP6%2F5PPP%2F6K1%20w%20-%20-%201%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpp1qbppp%2F4pn2%2F2P5%2F8%2F2PB2B1%2FPPQ2PPP%2FR4RK1%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vrcE2](https://lichess.org/training/vrcE2), rated `1394`.
-The game is `Honer60 (1710)` vs `npokypatop (1786)` at `15+10` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/FRM45TFk),
-and the first solution move is `e7b7`.
+It is `Black to move` in puzzle [1iho1](https://lichess.org/training/1iho1), rated `1360`.
+The game is `Conansson (2040)` vs `vv-o (2135)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/UEaod2lE),
+and the first solution move is `d7d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
