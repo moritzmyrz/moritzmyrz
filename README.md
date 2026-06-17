@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2FN4p1p%2F1P1R4%2Fr7%2F8%2F6P1%2F5PKP%2F8%20w%20-%20-%201%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1bk2p2%2F4p1p1%2F1R6%2F2Pp1P1P%2F3B2P1%2F1P4p1%2F6K1%20w%20-%20-%204%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [LIr1a](https://lichess.org/training/LIr1a), rated `1484`.
-The game is `cheersmate10 (1739)` vs `drRiss (1640)` at `10+0` time control,
-with themes `endgame, long, advantage, fork`. You can [view the full game](https://lichess.org/hF6EUmt2),
-and the first solution move is `a7c6`.
+It is `White to move` in puzzle [SAXs5](https://lichess.org/training/SAXs5), rated `1614`.
+The game is `StrChesssFull (2192)` vs `CBpoet (2208)` at `5+0` time control,
+with themes `exposedKing, veryLong, endgame, crushing, sacrifice, skewer, attraction`. You can [view the full game](https://lichess.org/uAgAmgIU),
+and the first solution move is `b5b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
