@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2Fp1q2rp1%2F1p1RQ2p%2F3P3P%2F5P2%2FPP3PK1%2F8%20b%20-%20-%202%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2P2pk1%2F5np1%2Fp3Q3%2F1p3Pq1%2F1P6%2FP1R5%2F5K2%20b%20-%20-%201%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [tqym6](https://lichess.org/training/tqym6), rated `1641`.
-The game is `FAPC1986 (2611)` vs `FifideMaster (2512)` at `3+0` time control,
-with themes `advantage, short, master, endgame`. You can [view the full game](https://lichess.org/r64pt9xg),
-and the first solution move is `f6f5`.
+It is `Black to move` in puzzle [3XPm7](https://lichess.org/training/3XPm7), rated `1439`.
+The game is `qblache (2221)` vs `vvvk201 (2143)` at `10+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/nq78qqEd),
+and the first solution move is `g4d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
