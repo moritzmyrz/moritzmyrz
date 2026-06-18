@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p4N1%2F1K5p%2F8%2FP7%2F2n3kP%2F8%2F8%20w%20-%20-%203%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1q1rk1%2Fp2npp1p%2F2Q3pb%2F8%2F3PP3%2F1PN1PB2%2FP5PP%2FR3R1K1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6a0hk](https://lichess.org/training/6a0hk), rated `1455`.
-The game is `SeniorPhysician (2360)` vs `SVYATOMIRRR (2264)` at `3+2` time control,
-with themes `endgame, master, short, crushing, quietMove, knightEndgame`. You can [view the full game](https://lichess.org/TnCoH86O),
-and the first solution move is `a4a5`.
+It is `Black to move` in puzzle [IqVyT](https://lichess.org/training/IqVyT), rated `1459`.
+The game is `Trillani (2092)` vs `jpjphys (1816)` at `20+10` time control,
+with themes `short, advantage, skewer, middlegame`. You can [view the full game](https://lichess.org/jtatF4Tj),
+and the first solution move is `b8c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
