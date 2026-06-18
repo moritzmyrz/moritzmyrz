@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R1rk%2Fpp4pp%2F5p2%2F2p2N2%2F3p3P%2F5PQ1%2FP5PK%2F1q6%20b%20-%20-%202%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp7%2F8%2F1P1K4%2Fk7%2F8%2F8%20b%20-%20-%201%2051&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [EnBI0](https://lichess.org/training/EnBI0), rated `1280`.
-The game is `rtcarbajosa (1879)` vs `clubsuntzu (1876)` at `5+0` time control,
-with themes `hangingPiece, advantage, long, endgame`. You can [view the full game](https://lichess.org/EJaYcQUD),
-and the first solution move is `b1f5`.
+It is `Black to move` in puzzle [SbxE4](https://lichess.org/training/SbxE4), rated `1479`.
+The game is `pepparkaka (1531)` vs `Johannes33 (1507)` at `5+3` time control,
+with themes `endgame, crushing, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/0KQGjguA),
+and the first solution move is `a3b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
