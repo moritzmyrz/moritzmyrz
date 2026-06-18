@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F1p1b4%2Fr2BK3%2F6R1%2F7p%2F8%2F6PP%2F8%20w%20-%20-%209%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fpp3p1p%2F2p2Qp1%2F8%2F2P1N1b1%2F2Nq4%2FPP3PPP%2FR3K2R%20b%20KQ%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kCHp9](https://lichess.org/training/kCHp9), rated `1508`.
-The game is `Andrewkaaa (1503)` vs `UTKARSH_JEE (1511)` at `3+2` time control,
-with themes `deflection, endgame, crushing, long, defensiveMove`. You can [view the full game](https://lichess.org/UFNmO6wc),
-and the first solution move is `e6e7`.
+It is `Black to move` in puzzle [jvgAK](https://lichess.org/training/jvgAK), rated `1502`.
+The game is `DrNot (2171)` vs `alicorn (2315)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/FpUKEQXO),
+and the first solution move is `e8e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
