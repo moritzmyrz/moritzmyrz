@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r1q1rk1%2Fp2npp1p%2F2Q3pb%2F8%2F3PP3%2F1PN1PB2%2FP5PP%2FR3R1K1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rkn%2Fppp3b1%2F3p3p%2F3Pn2P%2F2PNN1Pq%2F1P4p1%2FPB2Q3%2FR3RBK1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [IqVyT](https://lichess.org/training/IqVyT), rated `1459`.
-The game is `Trillani (2092)` vs `jpjphys (1816)` at `20+10` time control,
-with themes `short, advantage, skewer, middlegame`. You can [view the full game](https://lichess.org/jtatF4Tj),
-and the first solution move is `b8c8`.
+It is `Black to move` in puzzle [EQkI8](https://lichess.org/training/EQkI8), rated `1500`.
+The game is `Starship45 (2291)` vs `IsabelAyuso (2294)` at `3+0` time control,
+with themes `advancedPawn, middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/GjybaaEA),
+and the first solution move is `f8f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
