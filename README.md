@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1pp3pp%2Fpr3p2%2F5N2%2F4q1P1%2F2Pn3P%2FPPQ3P1%2F3R3K%20b%20-%20-%204%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbq1rBk%2Fppp3p1%2F4p3%2F5pN1%2F3P1b2%2F2PQ4%2FPP3P1P%2FRN2K2R%20w%20KQ%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oYWYZ](https://lichess.org/training/oYWYZ), rated `1415`.
-The game is `zitronic (1843)` vs `Ethan_McWhirter (1830)` at `10+5` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/M2cEZTsg),
-and the first solution move is `b6b2`.
+It is `White to move` in puzzle [pitSc](https://lichess.org/training/pitSc), rated `1576`.
+The game is `Neirda51 (2038)` vs `AhmadMughal (1994)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/YdPhJlGv),
+and the first solution move is `d3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
