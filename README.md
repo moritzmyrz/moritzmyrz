@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6Q1%2F8%2Fp7%2F2k2q1K%2F7P%2F8%2F8%2F8%20w%20-%20-%201%2053&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpb1qbppp%2F4pn2%2F2p5%2F4NB2%2F2PB4%2FPP3PPP%2FR2QR1K1%20w%20-%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [v8Yjo](https://lichess.org/training/v8Yjo), rated `1329`.
-The game is `Bitshop (1757)` vs `upsal35 (1870)` at `10+0` time control,
-with themes `crushing, short, queenEndgame, endgame`. You can [view the full game](https://lichess.org/OPFYmRpi),
-and the first solution move is `g8g5`.
+It is `White to move` in puzzle [XUnaE](https://lichess.org/training/XUnaE), rated `1307`.
+The game is `Badcop899 (1945)` vs `MonsieurTal (1957)` at `3+2` time control,
+with themes `middlegame, crushing, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/cSuhlkOu),
+and the first solution move is `e4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
