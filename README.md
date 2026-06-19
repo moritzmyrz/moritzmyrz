@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F5pp1%2F1p1p4%2F6q1%2FPP1P1p1n%2F2P5%2F3BB2P%2F3Q2RK%20b%20-%20-%204%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4Q3%2Fp4pkp%2F5p2%2F5P1P%2F3q1nPK%2F1P6%2F8%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BJpKP](https://lichess.org/training/BJpKP), rated `1499`.
-The game is `jnr1956 (1875)` vs `ThulanKanchuka (1897)` at `10+5` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/K2soqDVt),
-and the first solution move is `g5d5`.
+It is `White to move` in puzzle [nd8RB](https://lichess.org/training/nd8RB), rated `1472`.
+The game is `michodov (2272)` vs `Casperrow (2257)` at `3+0` time control,
+with themes `short, attraction, endgame, mateIn2`. You can [view the full game](https://lichess.org/t2QP7EJ9),
+and the first solution move is `h4h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
