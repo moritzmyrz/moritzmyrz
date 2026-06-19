@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rr2%2Fpp5k%2F2ppp2q%2F5p2%2F3P2R1%2F4QN2%2FPPP2P2%2F2K5%20w%20-%20-%205%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F5pp1%2F3p1b2%2F3BP2Q%2Fp4P1p%2F2P1q2P%2FP2R2K1%2F8%20w%20-%20-%201%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [TPyEm](https://lichess.org/training/TPyEm), rated `1466`.
-The game is `arikw-s (1911)` vs `etiennevantheemsche (1832)` at `25+13` time control,
-with themes `endgame, pin, short, advantage`. You can [view the full game](https://lichess.org/mBxdZh8h),
-and the first solution move is `g4h4`.
+It is `White to move` in puzzle [Hpzw3](https://lichess.org/training/Hpzw3), rated `1331`.
+The game is `b_Nn_T (2505)` vs `Kingroche1974 (2460)` at `3+0` time control,
+with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/MWV9ZEci),
+and the first solution move is `h5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
