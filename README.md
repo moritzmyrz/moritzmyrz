@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3Q4%2F4rppk%2F5q1p%2F1P2r3%2F2P3P1%2F3P3P%2F3RPR2%2F4K3%20b%20-%20-%204%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1q1N3k%2Fp2Qr2p%2F5pn1%2F8%2F6P1%2F5P1K%2F5R2%20w%20-%20-%202%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FmuDq](https://lichess.org/training/FmuDq), rated `1592`.
-The game is `Oleg1987 (1794)` vs `Abdiasis-lixle (1767)` at `3+0` time control,
-with themes `endgame, advantage, long`. You can [view the full game](https://lichess.org/Jku5TkK1),
-and the first solution move is `e5e2`.
+It is `White to move` in puzzle [8zmrC](https://lichess.org/training/8zmrC), rated `1525`.
+The game is `Dragzal (2000)` vs `landiaraujo (2015)` at `10+0` time control,
+with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/33n98uaR),
+and the first solution move is `d7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
