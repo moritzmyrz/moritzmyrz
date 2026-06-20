@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1qkb1r%2Fppp3pp%2F5n2%2F4p3%2F4N1b1%2F3B4%2FPPP2PPP%2FRNBQK2R%20w%20KQkq%20-%203%208&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1p4p1%2F2p1Q2p%2F3p1r2%2F3B4%2F2P2q2%2FPP5K%2F8%20w%20-%20-%2010%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jBB3B](https://lichess.org/training/jBB3B), rated `1481`.
-The game is `doual_karim1995 (1643)` vs `DeadlyOrio (1670)` at `15+15` time control,
-with themes `opening, crushing, short`. You can [view the full game](https://lichess.org/5RHOzQDt),
-and the first solution move is `e4f6`.
+It is `White to move` in puzzle [pOU7a](https://lichess.org/training/pOU7a), rated `1580`.
+The game is `onice3 (2098)` vs `BadGambino (2088)` at `3+0` time control,
+with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/39uak7Bt),
+and the first solution move is `e6h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
