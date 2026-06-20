@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2r1%2F1k4p1%2F2p2q2%2FR7%2FPp1n1BQP%2F8%2F1P4P1%2F2R3K1%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k3r%2Fr4ppp%2Fb1Q5%2F8%2F5q2%2F8%2FPP3PPP%2FR3K2R%20w%20KQ%20-%202%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [kqBAK](https://lichess.org/training/kqBAK), rated `1501`.
-The game is `Zq5113 (2051)` vs `alihaps (2042)` at `3+0` time control,
-with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/fUriP7pS),
-and the first solution move is `f6f4`.
+It is `White to move` in puzzle [pAFXQ](https://lichess.org/training/pAFXQ), rated `1568`.
+The game is `Peerand (1669)` vs `il-gm-sardo (1977)` at `5+0` time control,
+with themes `exposedKing, veryLong, middlegame, crushing, fork, pin`. You can [view the full game](https://lichess.org/o5pp1uIC),
+and the first solution move is `a1d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
