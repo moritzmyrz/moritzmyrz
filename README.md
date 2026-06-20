@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fp6p%2F5pp1%2F4b3%2FPR2P3%2F4B3%2Fr4PPP%2F4R1K1%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1qkb1r%2Fppp3pp%2F5n2%2F4p3%2F4N1b1%2F3B4%2FPPP2PPP%2FRNBQK2R%20w%20KQkq%20-%203%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [apL3a](https://lichess.org/training/apL3a), rated `1300`.
-The game is `geldi (2253)` vs `SABRUNETE (2274)` at `10+0` time control,
-with themes `crushing, fork, short, endgame`. You can [view the full game](https://lichess.org/l4BId4KJ),
-and the first solution move is `e5c3`.
+It is `White to move` in puzzle [jBB3B](https://lichess.org/training/jBB3B), rated `1481`.
+The game is `doual_karim1995 (1643)` vs `DeadlyOrio (1670)` at `15+15` time control,
+with themes `opening, crushing, short`. You can [view the full game](https://lichess.org/5RHOzQDt),
+and the first solution move is `e4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
