@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fpp4p1%2F2pPb1Qp%2F8%2F8%2F2PR2B1%2Fq2N1PPP%2F1R4K1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2F4pp1p%2F1p4p1%2F3R4%2F2P5%2F5P2%2FPPb3PP%2FK4B1R%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BKcdU](https://lichess.org/training/BKcdU), rated `1504`.
-The game is `politeear (2016)` vs `LoopyDo (1996)` at `15+10` time control,
-with themes `short, advantage, fork, middlegame`. You can [view the full game](https://lichess.org/DDTDSSQa),
-and the first solution move is `e6f5`.
+It is `Black to move` in puzzle [58JQP](https://lichess.org/training/58JQP), rated `1498`.
+The game is `Elgranconejo (2566)` vs `pashpash (2601)` at `3+0` time control,
+with themes `endgame, master, attraction, long, mateIn3, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/aQRubuGH),
+and the first solution move is `a8a2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
