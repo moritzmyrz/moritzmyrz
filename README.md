@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp1bppp%2F3p1n2%2F6B1%2F4P1q1%2F1BN5%2FPP2QPPP%2FR5K1%20w%20-%20-%203%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6n1%2F2p2k2%2F1pP1B1p1%2F1P2P1Kp%2F4P2P%2F8%2F8%2F8%20b%20-%20-%200%2056&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DQoyF](https://lichess.org/training/DQoyF), rated `1598`.
-The game is `Maks_S_S_S (2221)` vs `Shakkihai (2130)` at `3+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/XcjizNXf),
-and the first solution move is `e2g4`.
+It is `Black to move` in puzzle [W23ca](https://lichess.org/training/W23ca), rated `1292`.
+The game is `couchdefense (2073)` vs `chessGoalkeaper (2022)` at `10+0` time control,
+with themes `short, crushing, hangingPiece, endgame`. You can [view the full game](https://lichess.org/bU3gdp30),
+and the first solution move is `f7e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
