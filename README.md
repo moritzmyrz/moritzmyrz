@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2FPK6%2F2P5%2F4k3%2F2P1b3%2F1P4p1%2F6B1%20b%20-%20-%200%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2r1R%2F5pk1%2Fb7%2Fp1qpp1P1%2FPp1N4%2F1B6%2F2P2Q2%2F1K1n4%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [appWw](https://lichess.org/training/appWw), rated `1530`.
-The game is `HyperplaneDweller (1594)` vs `macamedia (1573)` at `3+2` time control,
-with themes `clearance, endgame, advancedPawn, crushing, long, promotion, bishopEndgame, hangingPiece`. You can [view the full game](https://lichess.org/xbKrAIza),
-and the first solution move is `e3g1`.
+It is `White to move` in puzzle [VcGtt](https://lichess.org/training/VcGtt), rated `1288`.
+The game is `Mavi_Alpha (2569)` vs `Mysteriousfrom2011 (2465)` at `3+0` time control,
+with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/oLUwSpTr),
+and the first solution move is `f2f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
