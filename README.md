@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rk2q3%2Fp1np2pp%2FQppB1p2%2F5P2%2F3Pr3%2F8%2F6PP%2F1RR3K1%20w%20-%20-%2013%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2k2%2Fpb3pp1%2F1p2p1np%2F4P3%2FP2N1P2%2F2P5%2FRQ3qPP%2F2R4K%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RrFRW](https://lichess.org/training/RrFRW), rated `1524`.
-The game is `Marin-ka (1805)` vs `Prowinzial (2106)` at `3+0` time control,
-with themes `middlegame, queensideAttack, long, mateIn3, sacrifice, pin`. You can [view the full game](https://lichess.org/QapS3mg3),
-and the first solution move is `b1b6`.
+It is `Black to move` in puzzle [NyhUp](https://lichess.org/training/NyhUp), rated `1511`.
+The game is `KrullFelix (1953)` vs `rusakae-2011 (2068)` at `10+0` time control,
+with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/NxAKOHB8),
+and the first solution move is `b7g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
