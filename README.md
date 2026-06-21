@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fpq2p2k%2Fb2pNrp1%2FP1pPn1Qp%2F2p1P3%2F8%2F1P2B1PP%2FR1B4K%20w%20-%20-%202%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1P4R1%2F6pp%2F4P1k1%2F6r1%2F5K2%2F8%20w%20-%20-%200%2071&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Wri5f](https://lichess.org/training/Wri5f), rated `1299`.
-The game is `v_galk (1919)` vs `o6a (1922)` at `10+5` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/gXoAVJse),
-and the first solution move is `g5h6`.
+It is `White to move` in puzzle [fhPrx](https://lichess.org/training/fhPrx), rated `1553`.
+The game is `VovaDanilov (1794)` vs `ViZZo1981 (1755)` at `10+5` time control,
+with themes `deflection, endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/QwJ166Lp),
+and the first solution move is `g6g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
