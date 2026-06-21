@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn3k1r%2Fpp3ppp%2F1q2pn2%2F1B6%2F4P3%2F5N2%2FPP1Q2PP%2F3RK2R%20w%20K%20-%205%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p1r2p1%2Fp1P2kp1%2F8%2F2P3P1%2F1P2K2P%2FP7%2F3R4%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [LL5rT](https://lichess.org/training/LL5rT), rated `1378`.
-The game is `weinreich-f-57 (1993)` vs `jstod66 (1992)` at `3+0` time control,
-with themes `middlegame, crushing, skewer, long`. You can [view the full game](https://lichess.org/7BhqfdVt),
-and the first solution move is `d2d8`.
+It is `Black to move` in puzzle [1wUe6](https://lichess.org/training/1wUe6), rated `1419`.
+The game is `Heriantoy256 (2197)` vs `djennick1 (2217)` at `10+0` time control,
+with themes `endgame, short, advantage, rookEndgame, defensiveMove`. You can [view the full game](https://lichess.org/pgJLcmch),
+and the first solution move is `d7d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
