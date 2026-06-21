@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q3r%2F1r2b1k1%2F4Rnp1%2F1p1p2N1%2F3p1Q2%2FPP4PP%2F5PBK%2F8%20w%20-%20-%206%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fpp3P2%2F4p3%2F3pP1p1%2F2pP2q1%2FPnQb2B1%2F1P4B1%2F3R3K%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9eR9d](https://lichess.org/training/9eR9d), rated `1510`.
-The game is `sochi-edem (2243)` vs `MindsAbyss (2261)` at `3+0` time control,
-with themes `middlegame, advantage, fork, long, sacrifice, pin`. You can [view the full game](https://lichess.org/DozGKXPM),
-and the first solution move is `e6f6`.
+It is `Black to move` in puzzle [fsClD](https://lichess.org/training/fsClD), rated `1628`.
+The game is `GranPijama (2084)` vs `MoLi60 (2099)` at `5+0` time control,
+with themes `exposedKing, middlegame, advantage, long, hangingPiece`. You can [view the full game](https://lichess.org/9EIbMZVh),
+and the first solution move is `g4d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
