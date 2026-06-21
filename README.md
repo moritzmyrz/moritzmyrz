@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2r1R%2F5pk1%2Fb7%2Fp1qpp1P1%2FPp1N4%2F1B6%2F2P2Q2%2F1K1n4%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fp1p3pp%2F1pQbp3%2F8%2F4P3%2FP1N4P%2F1Pq3P1%2FR1BR3K%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VcGtt](https://lichess.org/training/VcGtt), rated `1288`.
-The game is `Mavi_Alpha (2569)` vs `Mysteriousfrom2011 (2465)` at `3+0` time control,
-with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/oLUwSpTr),
-and the first solution move is `f2f6`.
+It is `Black to move` in puzzle [FditO](https://lichess.org/training/FditO), rated `1331`.
+The game is `ITN123 (1638)` vs `Cosaaa (1646)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack, pillsburysMate`. You can [view the full game](https://lichess.org/cFBGP7CN),
+and the first solution move is `c2d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
