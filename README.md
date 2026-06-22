@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1r1k%2Fp5p1%2F4R2p%2F3P4%2F6Q1%2F3n2P1%2FP4qBP%2F5R1K%20b%20-%20-%205%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F3b4%2F4p3%2F3pP3%2F5PP1%2F2pBP3%2F1qQ1K1P1%2F8%20b%20-%20-%204%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Z3bQv](https://lichess.org/training/Z3bQv), rated `1601`.
-The game is `PornoActor (2037)` vs `leonio (1855)` at `10+0` time control,
-with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/w3lEFLRD),
-and the first solution move is `f2f1`.
+It is `Black to move` in puzzle [1Rqc1](https://lichess.org/training/1Rqc1), rated `1611`.
+The game is `pink007 (1719)` vs `TmznJysn (1657)` at `3+2` time control,
+with themes `endgame, advancedPawn, crushing, long, promotion`. You can [view the full game](https://lichess.org/Zzn4PEXZ),
+and the first solution move is `d7b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
