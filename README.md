@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F3b4%2F4p3%2F3pP3%2F5PP1%2F2pBP3%2F1qQ1K1P1%2F8%20b%20-%20-%204%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fppp2ppp%2F2p2n2%2F6B1%2F2b1r3%2F2P2N1P%2FP1P2PP1%2FR3R1K1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1Rqc1](https://lichess.org/training/1Rqc1), rated `1611`.
-The game is `pink007 (1719)` vs `TmznJysn (1657)` at `3+2` time control,
-with themes `endgame, advancedPawn, crushing, long, promotion`. You can [view the full game](https://lichess.org/Zzn4PEXZ),
-and the first solution move is `d7b5`.
+It is `White to move` in puzzle [sOI0k](https://lichess.org/training/sOI0k), rated `1542`.
+The game is `Mariphoenix (1994)` vs `neerajirs98 (1962)` at `3+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/pDlAQKsO),
+and the first solution move is `e1e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
