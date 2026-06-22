@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fppp2ppp%2F2p2n2%2F6B1%2F2b1r3%2F2P2N1P%2FP1P2PP1%2FR3R1K1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp1P2pp%2F2p3n1%2F4q3%2F2P1N3%2F1P3QP1%2FP4P1P%2FR5K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [sOI0k](https://lichess.org/training/sOI0k), rated `1542`.
-The game is `Mariphoenix (1994)` vs `neerajirs98 (1962)` at `3+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/pDlAQKsO),
-and the first solution move is `e1e4`.
+It is `Black to move` in puzzle [7YB83](https://lichess.org/training/7YB83), rated `1601`.
+The game is `koh99koh (2336)` vs `quitoli (2244)` at `10+5` time control,
+with themes `endgame, short, advantage, hangingPiece`. You can [view the full game](https://lichess.org/va7uUczF),
+and the first solution move is `e5a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
