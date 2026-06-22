@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp1p2ppp%2F8%2F2q1r3%2F3r4%2F2P1nQ2%2FPP4PP%2FR1K4R%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1rn1k1%2Fp1p2ppp%2Fb7%2F2P1p1b1%2F4P3%2FBNP2P1P%2FP5P1%2F1N1RK2R%20b%20K%20-%2012%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GyOQS](https://lichess.org/training/GyOQS), rated `1377`.
-The game is `KonraddT (1599)` vs `FilboZ (1541)` at `10+5` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/D5nOqMKk),
-and the first solution move is `f3a8`.
+It is `Black to move` in puzzle [qvCHt](https://lichess.org/training/qvCHt), rated `1600`.
+The game is `mazaj (1792)` vs `muntasir412005 (1816)` at `10+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/9S45Mq4c),
+and the first solution move is `g5h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
