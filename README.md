@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp1P2pp%2F2p3n1%2F4q3%2F2P1N3%2F1P3QP1%2FP4P1P%2FR5K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F8%2F2P1N3%2F3B4%2F3K4%2F7p%2F2r5%2F8%20b%20-%20-%201%2056&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7YB83](https://lichess.org/training/7YB83), rated `1601`.
-The game is `koh99koh (2336)` vs `quitoli (2244)` at `10+5` time control,
-with themes `endgame, short, advantage, hangingPiece`. You can [view the full game](https://lichess.org/va7uUczF),
-and the first solution move is `e5a1`.
+It is `Black to move` in puzzle [dRS2x](https://lichess.org/training/dRS2x), rated `1570`.
+The game is `Josim (2387)` vs `Orlando_Gibbons (2425)` at `3+2` time control,
+with themes `endgame, advancedPawn, crushing, long, sacrifice`. You can [view the full game](https://lichess.org/fTsCAjzb),
+and the first solution move is `c2d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
