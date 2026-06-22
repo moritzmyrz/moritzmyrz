@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1Rb2rk1%2F4ppbp%2Fp2q2p1%2F4n3%2F8%2F2P1NPPN%2FP2PQ1KP%2F1R6%20b%20-%20-%206%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpp2pp1p%2F1q4p1%2F1b6%2F4p1NN%2F2Q3P1%2FPPK2bP1%2FR4B1R%20w%20-%20-%207%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xY8r2](https://lichess.org/training/xY8r2), rated `1577`.
-The game is `Evren1567 (1581)` vs `eymen2001 (2052)` at `3+0` time control,
-with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/gDAdQtVw),
-and the first solution move is `c8h3`.
+It is `White to move` in puzzle [lOl6x](https://lichess.org/training/lOl6x), rated `1294`.
+The game is `Achilles2019 (2277)` vs `Ikunj (2325)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/xMqkRL5G),
+and the first solution move is `g4h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
