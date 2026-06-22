@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F8%2F2P1N3%2F3B4%2F3K4%2F7p%2F2r5%2F8%20b%20-%20-%201%2056&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp3bppp%2F1pp1p3%2F8%2F6Q1%2F4B2P%2FPqP2PP1%2FR4RK1%20w%20-%20-%202%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dRS2x](https://lichess.org/training/dRS2x), rated `1570`.
-The game is `Josim (2387)` vs `Orlando_Gibbons (2425)` at `3+2` time control,
-with themes `endgame, advancedPawn, crushing, long, sacrifice`. You can [view the full game](https://lichess.org/fTsCAjzb),
-and the first solution move is `c2d2`.
+It is `White to move` in puzzle [ZSjjd](https://lichess.org/training/ZSjjd), rated `1588`.
+The game is `SHOROH_black (1641)` vs `MacTigr (1644)` at `5+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/vDlRUhBK),
+and the first solution move is `e3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
