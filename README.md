@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3r2%2Fpppb3k%2F2n2qpp%2F3Bbp1Q%2F7N%2F2PP2P1%2FP1P4P%2F1RB2RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1pqbpp1%2F1pn4p%2F1Q1pN3%2F3PbBP1%2F2P1P2P%2FP4PB1%2FR4RK1%20b%20-%20-%203%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZDEcY](https://lichess.org/training/ZDEcY), rated `1345`.
-The game is `PChernomordik (2272)` vs `Rolin11 (1821)` at `3+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/95siSzqc),
-and the first solution move is `h5h6`.
+It is `Black to move` in puzzle [oXpr3](https://lichess.org/training/oXpr3), rated `1314`.
+The game is `quang13zz (1660)` vs `AAM021 (1607)` at `10+5` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/lStlK9Lc),
+and the first solution move is `c6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
