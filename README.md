@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr3%2F3k2pp%2FQ1pb1pn1%2F8%2F2P2q2%2F8%2FPP3P1P%2F1K1RR3%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1r1k%2F1p3b2%2Fp1np1bQ1%2F4pP2%2F2P5%2FN3B3%2FPP4PP%2FR4RK1%20w%20-%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ihI9i](https://lichess.org/training/ihI9i), rated `1453`.
-The game is `Buzilo (2315)` vs `KadirSoria (2301)` at `3+0` time control,
-with themes `middlegame, epauletteMate, oneMove, mateIn1`. You can [view the full game](https://lichess.org/t28pPIFs),
-and the first solution move is `a6b7`.
+It is `White to move` in puzzle [2u5hI](https://lichess.org/training/2u5hI), rated `1545`.
+The game is `ENGRMZ (2379)` vs `AcridLeaf (2380)` at `10+0` time control,
+with themes `middlegame, advantage, quietMove, long, pin`. You can [view the full game](https://lichess.org/0pf8sQaJ),
+and the first solution move is `g6h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
