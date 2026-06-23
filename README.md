@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1bp5%2F1p1p4%2F3Pp3%2F2P1N3%2F1P3N1r%2FP3K2n%2F7R%20b%20-%20-%202%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2Fp1q2p2%2F2p2Q1p%2F1p6%2F8%2F1P5P%2FP1P2PPb%2F3rRB1K%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2FDdS](https://lichess.org/training/2FDdS), rated `1538`.
-The game is `jahangirghttgg (1929)` vs `GROSCHEFBANDIT (1867)` at `10+0` time control,
-with themes `exposedKing, endgame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/pPVdOcRk),
-and the first solution move is `h2f3`.
+It is `White to move` in puzzle [RlBBY](https://lichess.org/training/RlBBY), rated `1581`.
+The game is `WilliCh (1667)` vs `Mashattr (1666)` at `5+3` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, killBoxMate`. You can [view the full game](https://lichess.org/Sv5GZaFs),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
