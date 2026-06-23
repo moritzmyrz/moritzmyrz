@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p1k%2F2B3p1%2Fp6p%2FP2q4%2F1p6%2F1P2Q1PP%2F1K6%20b%20-%20-%203%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp4ppp%2F3bp3%2F8%2F1p1PR3%2F5Q2%2FPPr3Pq%2F3RBK2%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jdSJY](https://lichess.org/training/jdSJY), rated `1273`.
-The game is `kop01 (1747)` vs `Tarros (1823)` at `3+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/WcLHYmLq),
-and the first solution move is `d4g1`.
+It is `White to move` in puzzle [FtYFb](https://lichess.org/training/FtYFb), rated `1603`.
+The game is `Proverbios_cap3ver5 (1841)` vs `AskYourGirlboutMe (1885)` at `10+5` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/Ip4giOxo),
+and the first solution move is `e4h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
