@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3qk2%2F1bpnp1b1%2F1p1p1nQ1%2Fp5Nr%2F3P4%2F2N1B2P%2FPPP2PP1%2F2KR3R%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3r2%2Fpppb3k%2F2n2qpp%2F3Bbp1Q%2F7N%2F2PP2P1%2FP1P4P%2F1RB2RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0dPMD](https://lichess.org/training/0dPMD), rated `1316`.
-The game is `afrolion (1769)` vs `myxavi4 (1772)` at `10+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/MLMEZKfb),
-and the first solution move is `g5e6`.
+It is `White to move` in puzzle [ZDEcY](https://lichess.org/training/ZDEcY), rated `1345`.
+The game is `PChernomordik (2272)` vs `Rolin11 (1821)` at `3+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/95siSzqc),
+and the first solution move is `h5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
