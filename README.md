@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F7p%2Fp1p2K1P%2FP7%2F1Pk5%2F8%2F8%20b%20-%20-%200%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpp2Npb1%2F2bR4%2F8%2F5Pn1%2F1B6%2FPPP3q1%2F3KQ3%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3Qwpp](https://lichess.org/training/3Qwpp), rated `1310`.
-The game is `Dindin08 (1959)` vs `LaurenJW_32 (1916)` at `3+0` time control,
-with themes `endgame, crushing, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/8QcvSZdY),
-and the first solution move is `c3b3`.
+It is `White to move` in puzzle [PSSKM](https://lichess.org/training/PSSKM), rated `1444`.
+The game is `C-H-I-T-A-N (1806)` vs `EduardRND (1799)` at `5+3` time control,
+with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/im2ZEGQv),
+and the first solution move is `e1h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
