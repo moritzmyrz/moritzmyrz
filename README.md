@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2Fpp6%2F2p5%2F5Rpp%2F2PqP1n1%2F1P2r1PB%2FP6P%2F2R3QK%20b%20-%20-%203%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4bpp1%2F7p%2Fp3B3%2Fb2PB1P1%2F2PK3P%2FPr2RP2%2F7R%20b%20-%20-%206%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [C6byN](https://lichess.org/training/C6byN), rated `1598`.
-The game is `majstor123456 (1832)` vs `HunterKilua (1871)` at `10+0` time control,
-with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/htB3C0Jj),
-and the first solution move is `d4e4`.
+It is `Black to move` in puzzle [gh1C4](https://lichess.org/training/gh1C4), rated `1465`.
+The game is `sacdechips (1969)` vs `Dagobat (2018)` at `3+2` time control,
+with themes `deflection, middlegame, advantage, long`. You can [view the full game](https://lichess.org/9U1Ym7MU),
+and the first solution move is `a4b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
