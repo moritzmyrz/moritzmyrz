@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1pqb1kp1%2Fp7%2F1p2p2n%2F5nN1%2F2P2P2%2FP4QPP%2F3R1R1K%20w%20-%20-%2010%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3R4%2F8%2F8%2F1P6%2FP3k1p1%2F1r4P1%2F5K2%20b%20-%20-%203%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WV44G](https://lichess.org/training/WV44G), rated `1396`.
-The game is `Mike_Ticona (1533)` vs `davidx2kyo (1534)` at `3+2` time control,
-with themes `deflection, middlegame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/XXEf0Alb),
-and the first solution move is `d1d7`.
+It is `Black to move` in puzzle [zpX8t](https://lichess.org/training/zpX8t), rated `1320`.
+The game is `ayekta46 (1706)` vs `HAHAL (1715)` at `3+2` time control,
+with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/QbaMPjZH),
+and the first solution move is `b2b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
