@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1k2r%2F1pqbbpp1%2Fp3pP2%2F3p4%2FP2BP3%2F2N2B2%2F1PP4P%2FR2Q1RK1%20b%20k%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4brpp%2Fpq2pp2%2F3p4%2F1p3B2%2FP1r1PP1P%2F2Q2P2%2F1R4RK%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [axHcH](https://lichess.org/training/axHcH), rated `1488`.
-The game is `bestregards0 (2153)` vs `leonwool (2188)` at `5+0` time control,
-with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/8RQ56GGq),
-and the first solution move is `c7h2`.
+It is `White to move` in puzzle [Ggr6G](https://lichess.org/training/Ggr6G), rated `1427`.
+The game is `wsalazar (1892)` vs `IndianDefense (1934)` at `15+10` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/3yy60gdX),
+and the first solution move is `c2c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
