@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpb3ppp%2F1p2pn2%2F1N6%2F2P5%2F1P3P2%2FP1Qrq1PP%2F3R3K%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fpp1n1Npp%2F2pbpn2%2F8%2F2BP1B2%2F2N5%2FPPP2PPP%2FR2QK2R%20b%20KQkq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Jzs4F](https://lichess.org/training/Jzs4F), rated `1328`.
-The game is `Anuranjanydv11 (1913)` vs `CHAVDAROV_2020 (1924)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/mL8WydP2),
-and the first solution move is `c2d2`.
+It is `Black to move` in puzzle [B4ToO](https://lichess.org/training/B4ToO), rated `1581`.
+The game is `valenoks (2001)` vs `Buklya07 (1759)` at `5+3` time control,
+with themes `advantage, long, opening`. You can [view the full game](https://lichess.org/6bK03zMZ),
+and the first solution move is `e8f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
