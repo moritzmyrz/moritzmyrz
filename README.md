@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2F2pn1ppp%2Fp1r1Pn2%2F1p4q1%2F8%2FB1P2P2%2FP4P1P%2FR2QR2K%20w%20k%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1k2r%2F1pqbbpp1%2Fp3pP2%2F3p4%2FP2BP3%2F2N2B2%2F1PP4P%2FR2Q1RK1%20b%20k%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IHkIw](https://lichess.org/training/IHkIw), rated `1569`.
-The game is `Letusplay100 (1620)` vs `Toddemturm (1593)` at `3+2` time control,
-with themes `mateIn2, advancedPawn, middlegame, short, discoveredCheck, doubleCheck`. You can [view the full game](https://lichess.org/8s2u4Kpk),
-and the first solution move is `e6d7`.
+It is `Black to move` in puzzle [axHcH](https://lichess.org/training/axHcH), rated `1488`.
+The game is `bestregards0 (2153)` vs `leonwool (2188)` at `5+0` time control,
+with themes `middlegame, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/8RQ56GGq),
+and the first solution move is `c7h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
