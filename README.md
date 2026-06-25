@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2PR4%2F5p2%2F4k2p%2F8%2F2r1p1PP%2F3K4%20w%20-%20-%200%2059&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2FPR6%2F3p1k2%2F3p1P1K%2F3p2P1%2F3P4%2F8%2F8%20b%20-%20-%202%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [v9Q4h](https://lichess.org/training/v9Q4h), rated `1527`.
-The game is `IRAN-1357 (1611)` vs `Memc (1613)` at `5+0` time control,
-with themes `endgame, crushing, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/DAqDqQb5),
-and the first solution move is `d1c2`.
+It is `Black to move` in puzzle [tI8ev](https://lichess.org/training/tI8ev), rated `1421`.
+The game is `RamaRoyte (2027)` vs `puia2 (1666)` at `5+2` time control,
+with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/v9lQTcSj),
+and the first solution move is `g8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
