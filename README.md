@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp2r1ppp%2F1p2pq2%2F8%2F3PBnPP%2F4QP2%2FP4K2%2F3R3R%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2NNRpk%2F1p2nnp1%2F2p5%2F7P%2F5P2%2FPP3K2%2F3q4%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Y1MHg](https://lichess.org/training/Y1MHg), rated `1404`.
-The game is `V_V_R_01 (2260)` vs `mago_pol (2404)` at `5+5` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/etkMYcs8),
-and the first solution move is `g4g5`.
+It is `White to move` in puzzle [Nn2lU](https://lichess.org/training/Nn2lU), rated `1518`.
+The game is `hugsaff (1726)` vs `WilliamBones (2099)` at `3+0` time control,
+with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/HEAWGMWt),
+and the first solution move is `d7f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
