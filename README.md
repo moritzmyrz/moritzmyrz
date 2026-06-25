@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1b2rp2%2Fp2p2p1%2Fqp1Pb1Q1%2F2p1P3%2FP1N4P%2F1PB2RP1%2F5RK1%20w%20-%20-%204%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2br1rk1%2Fp3pp1p%2F1qp3p1%2Fb3B3%2F2Q5%2FPP2PN2%2F2P1KPPP%2F3R3R%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hyrcj](https://lichess.org/training/hyrcj), rated `1474`.
-The game is `ruzzellpogs_06 (1833)` vs `Neoromantik (2416)` at `3+0` time control,
-with themes `middlegame, crushing, long, sacrifice, kingsideAttack, capturingDefender`. You can [view the full game](https://lichess.org/CpOChuAb),
-and the first solution move is `f2f7`.
+It is `Black to move` in puzzle [hoNUz](https://lichess.org/training/hoNUz), rated `1381`.
+The game is `pablohp16 (1883)` vs `ZERO1999GR (1907)` at `10+0` time control,
+with themes `pin, crushing, short, middlegame`. You can [view the full game](https://lichess.org/yWoI9DLk),
+and the first solution move is `c8a6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
