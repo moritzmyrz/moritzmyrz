@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpp2Npb1%2F2bR4%2F8%2F5Pn1%2F1B6%2FPPP3q1%2F3KQ3%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3r4%2F4R3%2F1K6%2F5k2%2F8%2F1P2p1P1%2F8%20b%20-%20-%200%2049&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PSSKM](https://lichess.org/training/PSSKM), rated `1444`.
-The game is `C-H-I-T-A-N (1806)` vs `EduardRND (1799)` at `5+3` time control,
-with themes `exposedKing, middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/im2ZEGQv),
-and the first solution move is `e1h4`.
+It is `Black to move` in puzzle [BQ3SA](https://lichess.org/training/BQ3SA), rated `1593`.
+The game is `Los5hermanos (2409)` vs `AtrapaWeyes (2368)` at `3+0` time control,
+with themes `endgame, master, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/oeLI0uFD),
+and the first solution move is `d7d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
