@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2Fp3npp1%2F1pp4p%2F7b%2FP3B1N1%2F2PP3P%2F2P2PP1%2FR3R1K1%20b%20-%20-%202%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2PR4%2F5p2%2F4k2p%2F8%2F2r1p1PP%2F3K4%20w%20-%20-%200%2059&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PA6PQ](https://lichess.org/training/PA6PQ), rated `1547`.
-The game is `WandererThePoor (1766)` vs `itsaribrasil (1874)` at `10+0` time control,
-with themes `middlegame, advantage, short, fork`. You can [view the full game](https://lichess.org/WinRdv18),
-and the first solution move is `f7f5`.
+It is `White to move` in puzzle [v9Q4h](https://lichess.org/training/v9Q4h), rated `1527`.
+The game is `IRAN-1357 (1611)` vs `Memc (1613)` at `5+0` time control,
+with themes `endgame, crushing, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/DAqDqQb5),
+and the first solution move is `d1c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
