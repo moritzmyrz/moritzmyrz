@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3r4%2F4R3%2F1K6%2F5k2%2F8%2F1P2p1P1%2F8%20b%20-%20-%200%2049&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2F1Q2q2k%2Fpp2Bb1p%2F2p5%2F5P2%2F3Pn3%2FPPP4P%2F3R1R1K%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BQ3SA](https://lichess.org/training/BQ3SA), rated `1593`.
-The game is `Los5hermanos (2409)` vs `AtrapaWeyes (2368)` at `3+0` time control,
-with themes `endgame, master, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/oeLI0uFD),
-and the first solution move is `d7d5`.
+It is `White to move` in puzzle [2CgPq](https://lichess.org/training/2CgPq), rated `1539`.
+The game is `GargDp (1712)` vs `capobruno (1701)` at `30+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/WoXWNDX6),
+and the first solution move is `b7e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
