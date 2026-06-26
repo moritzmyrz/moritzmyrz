@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F4q3%2Fp3ppp1%2F1p1R4%2F5P2%2FP1P4P%2F1P2Q1P1%2F4R1K1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp2p4%2F1p1p3k%2F1P3P1p%2F2P2K1P%2FP7%2F8%20w%20-%20-%204%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Dl12t](https://lichess.org/training/Dl12t), rated `1613`.
-The game is `VarfolomeiAA (1810)` vs `mego63 (1729)` at `2+1` time control,
-with themes `advantage, veryLong, endgame`. You can [view the full game](https://lichess.org/T0juDdcc),
-and the first solution move is `e7a7`.
+It is `White to move` in puzzle [1S2O0](https://lichess.org/training/1S2O0), rated `1416`.
+The game is `jamestsherwin (2276)` vs `beg09062011 (2319)` at `3+2` time control,
+with themes `endgame, short, zugzwang, crushing, quietMove, pawnEndgame`. You can [view the full game](https://lichess.org/dkshG96v),
+and the first solution move is `a2a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
