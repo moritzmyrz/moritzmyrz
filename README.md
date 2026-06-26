@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1b3ppp%2F4p3%2Fpp2P1Q1%2F1bpNq3%2F8%2F1P2BPPP%2FR2R2K1%20w%20-%20-%202%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fpp2n1b1%2F4p1p1%2F4PkP1%2F2bBRp2%2F2NN4%2FPP6%2F2KR3r%20w%20-%20-%206%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [U1aM0](https://lichess.org/training/U1aM0), rated `1496`.
-The game is `mixxii (2301)` vs `ksib90 (2168)` at `5+3` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/kHdROztT),
-and the first solution move is `e2f3`.
+It is `White to move` in puzzle [l6Mmh](https://lichess.org/training/l6Mmh), rated `1370`.
+The game is `King_Dedede (1721)` vs `Malek1997j (1707)` at `3+2` time control,
+with themes `middlegame, long, mateIn3, interference`. You can [view the full game](https://lichess.org/ZZO6SIcy),
+and the first solution move is `e4f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
