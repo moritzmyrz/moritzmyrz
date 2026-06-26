@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqkb1r%2Fpp3ppp%2F2p5%2F8%2F2B1P3%2F2p5%2FPP4PP%2FR1BQK1NR%20w%20KQkq%20-%200%209&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp4ppp%2FQq2p3%2F2Np1bb1%2F1P1P4%2FP3P2P%2F4R1P1%2F2R3K1%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NNW2k](https://lichess.org/training/NNW2k), rated `1344`.
-The game is `atm_ch (1948)` vs `Axlvan (1940)` at `3+0` time control,
-with themes `deflection, short, advantage, opening, attackingF2F7`. You can [view the full game](https://lichess.org/bCFjmmUq),
-and the first solution move is `c4f7`.
+It is `Black to move` in puzzle [gpjUd](https://lichess.org/training/gpjUd), rated `1460`.
+The game is `Riksar (1642)` vs `abligang2023 (1662)` at `10+0` time control,
+with themes `advantage, fork, long, middlegame`. You can [view the full game](https://lichess.org/yMuGuuIW),
+and the first solution move is `b6a6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
