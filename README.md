@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FR4Rp1%2F5b2%2Fp7%2F6Pp%2F4PNP1%2F5P1K%2Fr2r4%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F4q3%2Fp3ppp1%2F1p1R4%2F5P2%2FP1P4P%2F1P2Q1P1%2F4R1K1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XiHIA](https://lichess.org/training/XiHIA), rated `1333`.
-The game is `Interestelar199 (2398)` vs `volodja49 (2555)` at `3+0` time control,
-with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/ASDeP9XQ),
-and the first solution move is `d1h1`.
+It is `Black to move` in puzzle [Dl12t](https://lichess.org/training/Dl12t), rated `1613`.
+The game is `VarfolomeiAA (1810)` vs `mego63 (1729)` at `2+1` time control,
+with themes `advantage, veryLong, endgame`. You can [view the full game](https://lichess.org/T0juDdcc),
+and the first solution move is `e7a7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
