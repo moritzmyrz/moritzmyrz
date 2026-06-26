@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F1p5p%2Fp2qb1r1%2F8%2F2P5%2F1P3QP1%2F5B2%2F4RK2%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k5r%2Fpr5p%2F3pN1p1%2F2pP4%2F2n2BP1%2F2p5%2FPRP1QP2%2FK7%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kAVzk](https://lichess.org/training/kAVzk), rated `1489`.
-The game is `spurman (1782)` vs `ghasemsinger (1921)` at `15+15` time control,
-with themes `endgame, short, advantage, pin`. You can [view the full game](https://lichess.org/aAR1FusC),
-and the first solution move is `e1d1`.
+It is `Black to move` in puzzle [qCYcZ](https://lichess.org/training/qCYcZ), rated `1519`.
+The game is `yippikay (2138)` vs `draimassist (2186)` at `10+0` time control,
+with themes `mateIn2, advancedPawn, middlegame, short`. You can [view the full game](https://lichess.org/P6Tl7w7F),
+and the first solution move is `c3b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
