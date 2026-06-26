@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p2%2F2N1p3%2F6p1%2Fpr6%2FR4KP1%2F7P%2F8%20b%20-%20-%205%2047&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5pp1%2F3Np2p%2F3p4%2F1p6%2F1P6%2FP2RQPPP%2Fq1r1RK2%20b%20-%20-%205%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BZhvE](https://lichess.org/training/BZhvE), rated `1298`.
-The game is `ramanuj88 (1548)` vs `abusalam (1572)` at `10+5` time control,
-with themes `endgame, advancedPawn, advantage, long`. You can [view the full game](https://lichess.org/4vNdoNWo),
-and the first solution move is `b4b3`.
+It is `Black to move` in puzzle [cgug3](https://lichess.org/training/cgug3), rated `1295`.
+The game is `a_mazpero (1798)` vs `kirillhristenko (1774)` at `3+0` time control,
+with themes `middlegame, crushing, fork, long, pin`. You can [view the full game](https://lichess.org/S1gGW5zt),
+and the first solution move is `c1e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
