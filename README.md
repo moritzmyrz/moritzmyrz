@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1br4%2Fpp2b1pk%2F5nNp%2F2q2p2%2F8%2F1Q5R%2FPP1B1PPP%2FR5K1%20w%20-%20-%202%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2Fp7%2FkpQ2p1p%2FP3pq2%2F1P6%2F8%2F1KP4P%2F3R4%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZKFY1](https://lichess.org/training/ZKFY1), rated `1542`.
-The game is `anonymous999111 (1935)` vs `raphstdunicht (1968)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/GamyV8Y9),
-and the first solution move is `h3h6`.
+It is `White to move` in puzzle [PBbua](https://lichess.org/training/PBbua), rated `1570`.
+The game is `mrsongaki (1751)` vs `Spy_kee (1779)` at `5+2` time control,
+with themes `endgame, long, mateIn3, pin`. You can [view the full game](https://lichess.org/XcWEuXi7),
+and the first solution move is `b4b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
