@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fkp2r3%2Fp7%2FP2R3P%2F1P2pK2%2F3p4%2F7P%2F8%20b%20-%20-%201%2044&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F7p%2F4p1p1%2F1p2P3%2F3r1P2%2F8%2Fq5PP%2F1R2Q1K1%20b%20-%20-%201%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6fDjY](https://lichess.org/training/6fDjY), rated `1449`.
-The game is `kambiz1354 (1937)` vs `RealGhxst (1941)` at `10+5` time control,
-with themes `endgame, advancedPawn, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/ITNi0TMv),
-and the first solution move is `e4e3`.
+It is `Black to move` in puzzle [qJgU8](https://lichess.org/training/qJgU8), rated `1565`.
+The game is `Gilim (1955)` vs `AlexBjorn2000 (1870)` at `15+0` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/xoNn9kFV),
+and the first solution move is `d4d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
