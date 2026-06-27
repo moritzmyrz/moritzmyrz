@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1r1k%2Fppp1bpp1%2F8%2Fn3n2b%2F4B3%2F2P2N1P%2FP4PP1%2FRNBQ1RK1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1b1qBpp1%2Fp2p4%2F1pp5%2F8%2F2PP2P1%2FPP2B1P1%2FRN1Q1R1K%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Z3bq6](https://lichess.org/training/Z3bq6), rated `1413`.
-The game is `KaiKucky (1955)` vs `momo_klaus (1975)` at `6+6` time control,
-with themes `opening, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/YhipYUAA),
-and the first solution move is `d1d8`.
+It is `Black to move` in puzzle [66uMe](https://lichess.org/training/66uMe), rated `1523`.
+The game is `tsalem (1867)` vs `HungryBear81 (2176)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/3dctYxnE),
+and the first solution move is `d7h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
