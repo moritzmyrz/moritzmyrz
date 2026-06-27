@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F5p1k%2F4p1pp%2F4P3%2F2N2P2%2F1b1B2P1%2Fp2K3P%2F2R5%20b%20-%20-%201%2047&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k4%2FP5p1%2F1K1Pp3%2F1N5p%2F8%2F8%2F7r%20w%20-%20-%201%2053&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [kU3Qj](https://lichess.org/training/kU3Qj), rated `1412`.
-The game is `WitteVanHaemstede (2379)` vs `Biturbo5430 (2320)` at `5+0` time control,
-with themes `short, advantage, master, endgame`. You can [view the full game](https://lichess.org/wSu8QG9I),
-and the first solution move is `b3c4`.
+It is `White to move` in puzzle [OQzoF](https://lichess.org/training/OQzoF), rated `1328`.
+The game is `abdhaboosh55555 (2078)` vs `pebraham (1906)` at `10+3` time control,
+with themes `endgame, advancedPawn, short, crushing, defensiveMove`. You can [view the full game](https://lichess.org/10ivv4Gd),
+and the first solution move is `a6a7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
