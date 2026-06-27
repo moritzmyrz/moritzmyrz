@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1nbqkb1B%2F2pp1p2%2F4p2p%2F4P3%2F5P2%2F3P2P1%2FP3K1P1%2F1N4NR%20w%20-%20-%203%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4pk1%2F5rp1%2FPBpR3p%2F2P5%2F4rPn1%2F1R4P1%2F6K1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zn6q3](https://lichess.org/training/zn6q3), rated `1515`.
-The game is `iTechnoo (1753)` vs `norfas (1762)` at `3+0` time control,
-with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/YXRHG9ws),
-and the first solution move is `h8f6`.
+It is `White to move` in puzzle [pC5rt](https://lichess.org/training/pC5rt), rated `1365`.
+The game is `ppd87 (1867)` vs `pzarek1 (1873)` at `10+0` time control,
+with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/MfNGo7IE),
+and the first solution move is `g1f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
