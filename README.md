@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1p1q1ppp%2Fp1nb4%2F3Qn1B1%2F4p3%2F3P3P%2FPPP2PP1%2FRN2NRK1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2r1k%2FQ4p1p%2F5Npb%2F1p1B1b2%2F8%2F8%2FP4PPP%2FB4K2%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VkyYW](https://lichess.org/training/VkyYW), rated `1630`.
-The game is `Ando001 (1783)` vs `grandmaster-4000 (1785)` at `30+20` time control,
-with themes `clearance, middlegame, crushing, long, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/6nJ7aL6A),
-and the first solution move is `e5f3`.
+It is `Black to move` in puzzle [fRTnr](https://lichess.org/training/fRTnr), rated `1580`.
+The game is `Gatolin80 (2116)` vs `byCheck (2135)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, pillsburysMate`. You can [view the full game](https://lichess.org/mc7CefPz),
+and the first solution move is `f5d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
