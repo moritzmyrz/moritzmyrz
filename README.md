@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp5pp%2Fn1p5%2F1p1bNN1P%2F1P1P4%2F8%2FPP4P1%2F2K4R%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fppq2kp1%2F1np2p2%2F3p4%2F3P3R%2FPPP5%2F3N4%2FR1K2B2%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UOUlh](https://lichess.org/training/UOUlh), rated `1479`.
-The game is `lubinx (1566)` vs `altug28 (1565)` at `3+0` time control,
-with themes `middlegame, discoveredCheck, long, mateIn3, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/V9NUgbQQ),
-and the first solution move is `f5e7`.
+It is `Black to move` in puzzle [rmod1](https://lichess.org/training/rmod1), rated `1437`.
+The game is `Nurmuhammad_9295 (1505)` vs `Blizious (1566)` at `5+0` time control,
+with themes `exposedKing, endgame, advantage, skewer, long`. You can [view the full game](https://lichess.org/wyRXc4U9),
+and the first solution move is `c7g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
