@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7q%2F1p6%2Fp2b4%2F2p2kp1%2F3pR3%2F3P2P1%2FPPP2P2%2F4R1K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fkb2P3%2Fp2Q4%2F1p5p%2F1P3P2%2F4q2P%2F6P1%2F6RK%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jqpuZ](https://lichess.org/training/jqpuZ), rated `1306`.
-The game is `Dijanche (1763)` vs `sailau61 (1871)` at `30+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/lZkCcype),
-and the first solution move is `g3g4`.
+It is `Black to move` in puzzle [gTTYx](https://lichess.org/training/gTTYx), rated `1320`.
+The game is `hmedAlzyhere (1948)` vs `adammerNL (1958)` at `10+0` time control,
+with themes `endgame, oneMove, mateIn1, pin`. You can [view the full game](https://lichess.org/5ft1E43J),
+and the first solution move is `e3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
