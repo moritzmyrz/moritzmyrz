@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=B3qrk1%2F2p1p1bp%2Fpp2bpp1%2F4N3%2F3P1Q2%2F6P1%2FPP2PP1P%2FR4RK1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fkp2r3%2Fp7%2FP2R3P%2F1P2pK2%2F3p4%2F7P%2F8%20b%20-%20-%201%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VpWli](https://lichess.org/training/VpWli), rated `1612`.
-The game is `goosansoo (1812)` vs `Vigo_0x (1813)` at `10+0` time control,
-with themes `intermezzo, advantage, short, middlegame`. You can [view the full game](https://lichess.org/UXPYUUBO),
-and the first solution move is `f6e5`.
+It is `Black to move` in puzzle [6fDjY](https://lichess.org/training/6fDjY), rated `1449`.
+The game is `kambiz1354 (1937)` vs `RealGhxst (1941)` at `10+5` time control,
+with themes `endgame, advancedPawn, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/ITNi0TMv),
+and the first solution move is `e4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
