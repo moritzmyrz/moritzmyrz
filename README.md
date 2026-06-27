@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fp4ppp%2F1bp5%2Fn3P3%2F5n2%2F5N2%2FPPP2PPP%2FRNBQKB1R%20b%20KQkq%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F5P2%2F3p4%2Fpp6%2F2pp4%2F4n3%2FPPP1k3%2F2K5%20b%20-%20-%200%2043&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [TQ2hU](https://lichess.org/training/TQ2hU), rated `1377`.
-The game is `yekunsheng (1621)` vs `ykr_7 (1629)` at `15+10` time control,
-with themes `deflection, short, advantage, opening, attackingF2F7`. You can [view the full game](https://lichess.org/KEReu3R0),
-and the first solution move is `b6f2`.
+It is `Black to move` in puzzle [BGgth](https://lichess.org/training/BGgth), rated `1443`.
+The game is `BrujaMaldadosa (2121)` vs `jamieece (2172)` at `3+0` time control,
+with themes `long, crushing, advancedPawn, endgame`. You can [view the full game](https://lichess.org/sP7F4A2k),
+and the first solution move is `d4d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
