@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5N2%2F8%2F2p2k2%2F8%2F3P1pp1%2F2K5%2F6P1%2F8%20b%20-%20-%200%2052&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1r2k%2Fp4p1p%2Fnpp4B%2F2bp1N2%2F6R1%2F1P4P1%2FP4P1P%2F5RK1%20w%20-%20-%206%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [46xsy](https://lichess.org/training/46xsy), rated `1614`.
-The game is `Mishalims (1920)` vs `Rafat123 (1882)` at `10+0` time control,
-with themes `endgame, advancedPawn, crushing, long, knightEndgame`. You can [view the full game](https://lichess.org/1QyLxpLe),
-and the first solution move is `f4f3`.
+It is `White to move` in puzzle [5Jyqw](https://lichess.org/training/5Jyqw), rated `1581`.
+The game is `Sam-Waberi (1643)` vs `thamesh1997 (1644)` at `15+15` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/nTRTwNpe),
+and the first solution move is `h6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
