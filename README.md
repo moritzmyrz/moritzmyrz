@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R1b5%2F2k2p1p%2Fp1r3p1%2F3KP1P1%2F8%2F7P%2FP1p5%2F2B5%20w%20-%20-%201%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F7p%2F8%2F4pb2%2F1P3p2%2F5N2%2FQ1qN1PPP%2FK2R3R%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Ye0Md](https://lichess.org/training/Ye0Md), rated `1533`.
-The game is `Andreas_16 (2134)` vs `efrachess2022 (1998)` at `15+10` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/RuxjnY5L),
-and the first solution move is `a8c8`.
+It is `Black to move` in puzzle [nazYK](https://lichess.org/training/nazYK), rated `1500`.
+The game is `olborg (2363)` vs `tusalaxis (2352)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, pillsburysMate`. You can [view the full game](https://lichess.org/bgcO2zZR),
+and the first solution move is `c2c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
