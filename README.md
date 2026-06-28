@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2r2%2Fp5kp%2F4p1p1%2F1p1PPp2%2F2n2Q2%2F1B2qP2%2FP3N1PP%2F3R3K%20w%20-%20-%203%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F8%2F8%2F1p3K2%2Fp5Rk%2F8%20b%20-%20-%209%2066&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [F0ZdA](https://lichess.org/training/F0ZdA), rated `1476`.
-The game is `thrillchester (2157)` vs `wagnerovsky (2318)` at `3+0` time control,
-with themes `advantage, long, master, middlegame`. You can [view the full game](https://lichess.org/swx0MygV),
-and the first solution move is `b3c4`.
+It is `Black to move` in puzzle [srY5G](https://lichess.org/training/srY5G), rated `1508`.
+The game is `FNQ_ChessPlayer (2221)` vs `arrogantdemon (2263)` at `10+0` time control,
+with themes `endgame, advancedPawn, short, crushing, rookEndgame, promotion`. You can [view the full game](https://lichess.org/c98vz0r4),
+and the first solution move is `h2h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
