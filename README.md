@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1q2p2p%2Fp2pN3%2FPr1Pb3%2F2Q1Pp2%2F2p2K2%2F1P5P%2F4R3%20w%20-%20-%202%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3N4%2F1p6%2Fp4Bpk%2F7p%2F4b2P%2FPn4P1%2F1P5K%2F8%20w%20-%20-%201%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pDORy](https://lichess.org/training/pDORy), rated `1605`.
-The game is `FairGames (2293)` vs `awshasan (2311)` at `10+0` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/dmfTehZA),
-and the first solution move is `e1g1`.
+It is `White to move` in puzzle [R5JwB](https://lichess.org/training/R5JwB), rated `1313`.
+The game is `Ladongov (2142)` vs `Shinkarenko_Max (2254)` at `3+0` time control,
+with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/6F2xaHMX),
+and the first solution move is `d8f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
