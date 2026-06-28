@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4r3%2F2Qp2pp%2FpP1k4%2FP7%2F2P4P%2F4p1PK%2F8%20b%20-%20-%202%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fppp2k1p%2F2n2b2%2F3q1b2%2F2ppN2N%2F8%2FPPP2PPP%2FR2QR1K1%20w%20-%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yOPpY](https://lichess.org/training/yOPpY), rated `1556`.
-The game is `babel21 (1920)` vs `banlibebe (2269)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, promotion, queenRookEndgame`. You can [view the full game](https://lichess.org/R0Boz9aT),
-and the first solution move is `d5e5`.
+It is `White to move` in puzzle [bQEXr](https://lichess.org/training/bQEXr), rated `1295`.
+The game is `Jessieboy (1634)` vs `getoabi (1983)` at `2+0` time control,
+with themes `exposedKing, middlegame, crushing, long`. You can [view the full game](https://lichess.org/gKMkOoYv),
+and the first solution move is `d1h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
