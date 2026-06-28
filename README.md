@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2R5%2F6k1%2FP2PpN2%2F4P3%2F4Pbn1%2F4r3%2F6K1%20b%20-%20-%206%2065&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp3ppn%2F8%2F3n4%2F2BQ2N1%2F5P2%2FPP5P%2FR5RK%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [aKP62](https://lichess.org/training/aKP62), rated `1475`.
-The game is `kubadaleko (2500)` vs `killer840 (2585)` at `3+2` time control,
-with themes `endgame, master, operaMate, masterVsMaster, vukovicMate, oneMove, mateIn1`. You can [view the full game](https://lichess.org/QHlysVbt),
-and the first solution move is `e2g2`.
+It is `White to move` in puzzle [XGBsj](https://lichess.org/training/XGBsj), rated `1610`.
+The game is `ahmedosmanteto (1763)` vs `Ebrahimadm (1831)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/BzXUXvy7),
+and the first solution move is `g4h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
