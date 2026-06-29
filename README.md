@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4q3%2Fpp4k1%2F5Rp1%2F2Kpr1Q1%2F8%2FP1P1P3%2F8%2F8%20w%20-%20-%200%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4q1kp%2FR5p1%2F1pp1P3%2F4Q3%2F1PP1K2P%2F1r4P1%2F8%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zkaGZ](https://lichess.org/training/zkaGZ), rated `1394`.
-The game is `FitzKenyon (1940)` vs `Amir561101 (1897)` at `10+0` time control,
-with themes `deflection, endgame, short, advantage`. You can [view the full game](https://lichess.org/IVECFDBe),
-and the first solution move is `f6g6`.
+It is `Black to move` in puzzle [JPfeN](https://lichess.org/training/JPfeN), rated `1289`.
+The game is `nsor4222 (1636)` vs `tursun65 (1609)` at `10+0` time control,
+with themes `exposedKing, deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/FMcBLX82),
+and the first solution move is `e7g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
