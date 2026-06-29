@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F8%2F6RP%2Fp1p1P1b1%2FPp6%2F1P5q%2F2P5%2F5RK1%20w%20-%20-%201%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fr3Q3%2F1q2N1p1%2Fpp1pn3%2F3b4%2F7P%2F6P1%2F5N1K%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xkQ4o](https://lichess.org/training/xkQ4o), rated `1391`.
-The game is `purzelbaumer (2515)` vs `UVSer (2518)` at `3+0` time control,
-with themes `exposedKing, veryLong, endgame, master, masterVsMaster, crushing, skewer, fork`. You can [view the full game](https://lichess.org/j8eGRTbW),
-and the first solution move is `f1f8`.
+It is `White to move` in puzzle [C6Dsh](https://lichess.org/training/C6Dsh), rated `1367`.
+The game is `Bramakumbara_STL (1765)` vs `Iwan_Luwu (2040)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/aHiSvnp7),
+and the first solution move is `e7f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
