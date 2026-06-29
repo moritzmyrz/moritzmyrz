@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2r2%2F8%2Fp1P1N2b%2F1p1qp2k%2F7P%2F8%2FPPP5%2FR3K1QR%20w%20KQ%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fp2p1ppp%2F1pbRp1n1%2F8%2F4P3%2F4B3%2FPPQ1BPPP%2F3R2K1%20w%20-%20-%203%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0eVe0](https://lichess.org/training/0eVe0), rated `1533`.
-The game is `isaac1411 (1869)` vs `chesskasprof (1807)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/u2rJ7dAR),
-and the first solution move is `e6g7`.
+It is `White to move` in puzzle [h8S6O](https://lichess.org/training/h8S6O), rated `1465`.
+The game is `Swarz2004 (2159)` vs `SchuleHeincke (2194)` at `10+0` time control,
+with themes `discoveredAttack, short, advantage, middlegame`. You can [view the full game](https://lichess.org/b8lvjQCt),
+and the first solution move is `d6c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
