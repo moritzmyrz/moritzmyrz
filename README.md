@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fpp3q1k%2F6R1%2F1N2BbPp%2F5p2%2F4b3%2FPP5P%2FK4R2%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F6rk%2F6pp%2F1b3p2%2F5P2%2F2Q2N2%2Fq5PP%2F7K%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zaYtS](https://lichess.org/training/zaYtS), rated `1453`.
-The game is `GIALO (2364)` vs `Gijs (2056)` at `30+3` time control,
-with themes `mateIn2, middlegame, short, operaMate`. You can [view the full game](https://lichess.org/Dx1pSReM),
-and the first solution move is `g6h6`.
+It is `White to move` in puzzle [4jpmf](https://lichess.org/training/4jpmf), rated `1314`.
+The game is `Sanketbeast (1833)` vs `Rivermann (1852)` at `3+0` time control,
+with themes `clearance, short, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/c5BDJQHW),
+and the first solution move is `f3g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
