@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3Q1n1k%2F1p6%2Fp2p1r2%2F2b5%2F4PP1q%2F2P5%2FP1KNr3%2F3R1R2%20w%20-%20-%203%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1R3%2Fpp4k1%2F3p1qp1%2F2p4p%2F2P5%2F3P1rN1%2FPP1Q1PKP%2F5R2%20b%20-%20-%201%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Te5u1](https://lichess.org/training/Te5u1), rated `1471`.
-The game is `Pawcio302 (1603)` vs `BahaaNegm (1562)` at `10+5` time control,
-with themes `long, pin, advantage, middlegame`. You can [view the full game](https://lichess.org/XJnY7LYp),
-and the first solution move is `f1h1`.
+It is `Black to move` in puzzle [bBlTa](https://lichess.org/training/bBlTa), rated `1493`.
+The game is `chessguy1515 (1980)` vs `Iaromir_K (1966)` at `10+0` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/NmsHyCM0),
+and the first solution move is `c8h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
