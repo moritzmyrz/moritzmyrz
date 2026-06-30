@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kbnr%2Fpppq1ppp%2F4p3%2F4P3%2F2Bn2b1%2F5N2%2FPP3PPP%2FRNBQK2R%20w%20KQkq%20-%200%208&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F2k5%2Fp2rpP1p%2F1p4p1%2F1P6%2FP7%2F5K1P%2F8%20w%20-%20-%202%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UA7Lz](https://lichess.org/training/UA7Lz), rated `1351`.
-The game is `Giorgosthelast (1745)` vs `MLLG2024 (1748)` at `3+2` time control,
-with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/C80tMokf),
-and the first solution move is `d1d4`.
+It is `White to move` in puzzle [S4fbe](https://lichess.org/training/S4fbe), rated `1581`.
+The game is `saintcyrien (1699)` vs `alexandr13568 (1668)` at `10+0` time control,
+with themes `exposedKing, endgame, advancedPawn, advantage, long, promotion, rookEndgame, attraction`. You can [view the full game](https://lichess.org/IolzVJu5),
+and the first solution move is `f6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
