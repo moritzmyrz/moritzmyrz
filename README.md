@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2k2r%2F5pp1%2F2pp1n1p%2Fqp2p2b%2F4P3%2F2bP1NPP%2FP1QN1PB1%2FR1B2RK1%20w%20kq%20-%204%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3p2%2F1bb1p2p%2F2p1PPp1%2F3p2Pq%2FP2P2NP%2F4N1B1%2FR1BQ1R1K%20b%20kq%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [czvBC](https://lichess.org/training/czvBC), rated `1442`.
-The game is `Govind64 (1634)` vs `Lincolnn (1670)` at `15+15` time control,
-with themes `opening, short, advantage`. You can [view the full game](https://lichess.org/HdBpxXcZ),
-and the first solution move is `d2b3`.
+It is `Black to move` in puzzle [z8aJO](https://lichess.org/training/z8aJO), rated `1528`.
+The game is `MAX_1984 (1828)` vs `sekocankingo (1849)` at `10+5` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/ZxGx1ZT8),
+and the first solution move is `h4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
