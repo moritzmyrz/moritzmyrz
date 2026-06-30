@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2p2r2%2Fb5p1%2F3Pp1Pp%2F4P2P%2F3rpP2%2F2R1N1K1%2F4R3%20b%20-%20-%203%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kbnr%2Fpppq1ppp%2F4p3%2F4P3%2F2Bn2b1%2F5N2%2FPP3PPP%2FRNBQK2R%20w%20KQkq%20-%200%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yJaIn](https://lichess.org/training/yJaIn), rated `1352`.
-The game is `Dolgorukij (2454)` vs `pbasta (2452)` at `3+2` time control,
-with themes `endgame, advancedPawn, master, crushing, long, capturingDefender`. You can [view the full game](https://lichess.org/XAHYRU1T),
-and the first solution move is `d3d2`.
+It is `White to move` in puzzle [UA7Lz](https://lichess.org/training/UA7Lz), rated `1351`.
+The game is `Giorgosthelast (1745)` vs `MLLG2024 (1748)` at `3+2` time control,
+with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/C80tMokf),
+and the first solution move is `d1d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
