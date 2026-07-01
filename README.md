@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2F2p1r1p1%2Fp2q1p1p%2F1p6%2F1P1P4%2FP4Q1P%2F5PP1%2F1BR4K%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp3pB2%2Fk1p4p%2FP1P1Pb2%2F1K5P%2F8%2F8%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Xj5xC](https://lichess.org/training/Xj5xC), rated `1577`.
-The game is `Thoranaga (1939)` vs `Sergeiyakob (1951)` at `10+5` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/edouCfP4),
-and the first solution move is `f3f5`.
+It is `White to move` in puzzle [jQWAZ](https://lichess.org/training/jQWAZ), rated `1284`.
+The game is `Pickelhaube (2146)` vs `Zwartevogel (2136)` at `3+2` time control,
+with themes `short, bishopEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/30ms1ZuH),
+and the first solution move is `f6d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
