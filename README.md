@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpp1qppbp%2F3p1np1%2F3P4%2Fn3PP2%2FP1N2N2%2F1PQ3PP%2FR1B1R1K1%20w%20-%20-%205%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rk2r%2Fppqnbppp%2F2p1p3%2F8%2F1PBP2b1%2FP4N2%2F2P1NPK1%2FR1BQ1R2%20b%20k%20-%202%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4lF0K](https://lichess.org/training/4lF0K), rated `1579`.
-The game is `marwwyn (1940)` vs `Syty88 (1975)` at `3+0` time control,
-with themes `middlegame, crushing, long`. You can [view the full game](https://lichess.org/Cdroc51u),
-and the first solution move is `c2a4`.
+It is `Black to move` in puzzle [bLyTk](https://lichess.org/training/bLyTk), rated `1506`.
+The game is `Usama-Laden (2028)` vs `deneill (1564)` at `3+0` time control,
+with themes `middlegame, advantage, attraction, long`. You can [view the full game](https://lichess.org/OY0FQQeb),
+and the first solution move is `g4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
