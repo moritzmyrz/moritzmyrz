@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F1pp5%2F6p1%2F5p2%2FP1Pp4%2F1R2rPKP%2F6P1%2F8%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1rb2rk1%2Fp5q1%2FPpB1p1Qp%2F1P2p3%2F2P5%2F1N6%2F6PP%2F5RK1%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XPN0c](https://lichess.org/training/XPN0c), rated `1572`.
-The game is `Z3B4ZT14N (1523)` vs `david007mu (1526)` at `2+1` time control,
-with themes `veryLong, endgame, advantage, rookEndgame, quietMove`. You can [view the full game](https://lichess.org/ajTNjUHf),
-and the first solution move is `b3e3`.
+It is `White to move` in puzzle [iPoi8](https://lichess.org/training/iPoi8), rated `1356`.
+The game is `BDK1948 (2006)` vs `kaccil (2029)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, attraction, kingsideAttack, pin`. You can [view the full game](https://lichess.org/jWDDDGgs),
+and the first solution move is `f1f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
