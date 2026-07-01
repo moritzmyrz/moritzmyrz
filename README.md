@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2Fp3Rpbp%2F1pp2np1%2F8%2F3P1B2%2F2P3N1%2FPP3PPP%2F4R1K1%20b%20-%20-%203%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2Fpbq4p%2F2p1Q3%2F2bppNp1%2F5r2%2F8%2FPPPN1PPP%2F3RR1K1%20w%20-%20-%206%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NeAE9](https://lichess.org/training/NeAE9), rated `1557`.
-The game is `Bodmas (1575)` vs `Joos33 (1589)` at `5+3` time control,
-with themes `long, fork, advantage, middlegame`. You can [view the full game](https://lichess.org/Ohtwke7k),
-and the first solution move is `e8e7`.
+It is `White to move` in puzzle [WkKko](https://lichess.org/training/WkKko), rated `1332`.
+The game is `AleksejVeliki (1869)` vs `dekirubv22 (1814)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/kQJpXVEE),
+and the first solution move is `e6f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
