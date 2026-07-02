@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1nr%2F3p1p2%2F2p2q1p%2F4p3%2Fpn2P1p1%2F1BPPQ3%2F1P1NNPPP%2FR3K2R%20b%20KQkq%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fppp2p1k%2F2np1p1p%2F4p3%2F4P3%2F1B1PPN1q%2FPPP2R2%2FR4QK1%20b%20-%20-%203%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oZiNy](https://lichess.org/training/oZiNy), rated `1601`.
-The game is `CreateX (1553)` vs `AlirahimiMohammad (1551)` at `3+0` time control,
-with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/HTbuylWW),
-and the first solution move is `a4b3`.
+It is `Black to move` in puzzle [QQKpj](https://lichess.org/training/QQKpj), rated `1457`.
+The game is `Tompi2010 (1868)` vs `WilliamVeitch (1748)` at `5+0` time control,
+with themes `exposedKing, middlegame, crushing, long, pin`. You can [view the full game](https://lichess.org/5Sc65fQA),
+and the first solution move is `f8g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
