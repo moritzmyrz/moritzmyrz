@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5b1r%2F1Q1nk3%2Fp1pq3p%2F6p1%2F3p4%2F5R1B%2FPPP2P1P%2F2K5%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp1r1pp1%2F6qp%2F5b2%2F3pR3%2FP2Q1R1P%2F1P2NPP1%2F6K1%20w%20-%20-%206%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KOEpk](https://lichess.org/training/KOEpk), rated `1560`.
-The game is `mohamedeissaabdo (1717)` vs `gholamrezamohammadi (1731)` at `10+0` time control,
-with themes `exposedKing, deflection, middlegame, advantage, attraction, long`. You can [view the full game](https://lichess.org/TwuuP55t),
-and the first solution move is `h3d7`.
+It is `White to move` in puzzle [37TAg](https://lichess.org/training/37TAg), rated `1468`.
+The game is `alps84 (1702)` vs `libra_1988 (1761)` at `5+0` time control,
+with themes `middlegame, advantage, long, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/HVK69VVV),
+and the first solution move is `f3f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
