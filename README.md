@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4Q3%2F7p%2F1rP2pp1%2F3k4%2F3n4%2FP5PP%2F5K2%20b%20-%20-%203%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1nr%2F3p1p2%2F2p2q1p%2F4p3%2Fpn2P1p1%2F1BPPQ3%2F1P1NNPPP%2FR3K2R%20b%20KQkq%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3CMpg](https://lichess.org/training/3CMpg), rated `1344`.
-The game is `erasti (1758)` vs `numbrr (1767)` at `5+0` time control,
-with themes `endgame, crushing, skewer, long`. You can [view the full game](https://lichess.org/d14TivWw),
-and the first solution move is `b5b1`.
+It is `Black to move` in puzzle [oZiNy](https://lichess.org/training/oZiNy), rated `1601`.
+The game is `CreateX (1553)` vs `AlirahimiMohammad (1551)` at `3+0` time control,
+with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/HTbuylWW),
+and the first solution move is `a4b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
