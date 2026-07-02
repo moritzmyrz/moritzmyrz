@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F3n1pp1%2F7p%2Fp1qNP3%2F2p1Q3%2FP5PP%2F1P2RPK1%2F8%20b%20-%20-%204%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F3k1p2%2Fp1p5%2F3p4%2F2p4Q%2FP2P3P%2F1qPK1PP1%2F1R5R%20b%20-%20-%201%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VBYvi](https://lichess.org/training/VBYvi), rated `1562`.
-The game is `mallin7 (2021)` vs `Dvl321 (2043)` at `10+0` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/fJjHOZwj),
-and the first solution move is `e8e5`.
+It is `Black to move` in puzzle [BfqjI](https://lichess.org/training/BfqjI), rated `1318`.
+The game is `LucBr (1654)` vs `Srishti2002 (1680)` at `3+0` time control,
+with themes `short, interference, endgame, mateIn2`. You can [view the full game](https://lichess.org/j4DDTGFb),
+and the first solution move is `c4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
