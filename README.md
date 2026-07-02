@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p3p2%2F2b5%2F6q1%2F7P%2F5P2%2FP2r1QP1%2F5R1K%20w%20-%20-%201%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1q1p4%2Fpp1kp3%2F2p2p2%2F2PP1Np1%2FP3K1P1%2F1P5r%2FR1BQ2n1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Ijs9J](https://lichess.org/training/Ijs9J), rated `1315`.
-The game is `DragonLines (1766)` vs `SHRI07 (1768)` at `10+0` time control,
-with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/bLcGJiKh),
-and the first solution move is `h4g5`.
+It is `Black to move` in puzzle [hwo4X](https://lichess.org/training/hwo4X), rated `1365`.
+The game is `JabraKadabraa (1962)` vs `LamppostsDontCare (2027)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/kOd8fmCS),
+and the first solution move is `b7e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
