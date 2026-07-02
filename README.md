@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rr3k%2F6p1%2Fp5bp%2F1p1q4%2F1P1Bp3%2F2P1Q2N%2FP4PPP%2F2R3K1%20w%20-%20-%202%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F5p2%2Fk4p2%2F4K1P1%2F8%2F8%2F8%20w%20-%20-%200%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5Fs7X](https://lichess.org/training/5Fs7X), rated `1442`.
-The game is `PetrK (2156)` vs `stamoulis (2125)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/r83AVoIG),
-and the first solution move is `e3h6`.
+It is `White to move` in puzzle [g09eg](https://lichess.org/training/g09eg), rated `1432`.
+The game is `JCarbonari (1872)` vs `TryingtoImproveMyslf (1828)` at `3+0` time control,
+with themes `crushing, pawnEndgame, veryLong, endgame`. You can [view the full game](https://lichess.org/KfgXc5W1),
+and the first solution move is `e4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
