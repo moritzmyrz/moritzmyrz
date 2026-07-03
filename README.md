@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5n1r%2F1q1k4%2F1prPp1pp%2Fp2p4%2F3P1P1Q%2FP3B3%2F1P4PP%2F5RK1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F1p2bppp%2Fp7%2Fq2pp3%2F5n2%2FP4P2%2FBP1N1BPP%2F2RQ1RK1%20b%20-%20-%201%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ca6l0](https://lichess.org/training/ca6l0), rated `1394`.
-The game is `Dietro1 (1632)` vs `ZeugeYeboahs (1621)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/D7ekrQmd),
-and the first solution move is `h4e7`.
+It is `Black to move` in puzzle [diDqT](https://lichess.org/training/diDqT), rated `1378`.
+The game is `serkan1978 (1824)` vs `chingachguk4 (1783)` at `3+2` time control,
+with themes `middlegame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/pbcMKSpt),
+and the first solution move is `c8c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
