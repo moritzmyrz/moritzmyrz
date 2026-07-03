@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p1R2pk%2Fp4q2%2F5R2%2F1PB1P1P1%2F8%2FKPP5%2F7r%20b%20-%20-%206%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqr1k1%2Fppp2pp1%2F3bpn1p%2F3pn3%2F3P4%2F2PBP1B1%2FPPQ2PPP%2FRN2K2R%20w%20KQ%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5aGhx](https://lichess.org/training/5aGhx), rated `1470`.
-The game is `Giannatos (2546)` vs `Kaissiber (2420)` at `3+0` time control,
-with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/bUsfsY80),
-and the first solution move is `f6c6`.
+It is `White to move` in puzzle [Tf8ew](https://lichess.org/training/Tf8ew), rated `1464`.
+The game is `amishhitman (1755)` vs `Shod_andr (1753)` at `10+0` time control,
+with themes `opening, advantage, short, fork`. You can [view the full game](https://lichess.org/iSVOrX9o),
+and the first solution move is `d4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
