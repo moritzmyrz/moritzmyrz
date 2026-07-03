@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fp4pp1%2F2pq3p%2F2p5%2F4Pn2%2F3PQ2P%2FPPP2P2%2FR4RK1%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3r%2Fpbqn2p1%2F1pkbp2p%2F2pp3B%2F1P6%2FP3PN2%2F1B3PPP%2FR1Q2RK1%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6aTu4](https://lichess.org/training/6aTu4), rated `1566`.
-The game is `scarecrow91 (1995)` vs `DoganIvanko (2006)` at `10+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/qBTy1arZ),
-and the first solution move is `d6g6`.
+It is `White to move` in puzzle [18WLT](https://lichess.org/training/18WLT), rated `1611`.
+The game is `VL_SH (2043)` vs `Lefleau (2114)` at `3+0` time control,
+with themes `oneMove, mateIn1, pin, master, middlegame`. You can [view the full game](https://lichess.org/0QyHSkD4),
+and the first solution move is `f3d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
