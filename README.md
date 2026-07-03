@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F8%2Fp1pb1qQ1%2F1p2p3%2F4P1R1%2F2NB4%2FPPP2P1P%2F2K5%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2F1R3pp1%2F3b3p%2FB2n4%2F1N6%2F8%2FPPP2PP1%2F1K2R3%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [p0dRi](https://lichess.org/training/p0dRi), rated `1337`.
-The game is `Lorenzo1978 (1877)` vs `player999999999 (1817)` at `30+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/GJljLuwX),
-and the first solution move is `g6h5`.
+It is `Black to move` in puzzle [KQnQH](https://lichess.org/training/KQnQH), rated `1463`.
+The game is `BuntesHuhn (2188)` vs `Rafacharles (2270)` at `10+0` time control,
+with themes `middlegame, advantage, hangingPiece, short`. You can [view the full game](https://lichess.org/jJeg3fIA),
+and the first solution move is `a8a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
