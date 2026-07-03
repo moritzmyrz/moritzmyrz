@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bR4%2Fpp4qk%2Fn1p2Q1p%2F2b1p2B%2F2P1P3%2F7P%2FPP4PN%2F7K%20w%20-%20-%209%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3B4%2F8%2F1P6%2F3K1k1p%2F5p1P%2F6b1%2F8%2F8%20b%20-%20-%200%2059&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tZtVf](https://lichess.org/training/tZtVf), rated `1462`.
-The game is `PuzzleAccountA (1686)` vs `Storo1 (1652)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/JX4EdTLY),
-and the first solution move is `h5g6`.
+It is `Black to move` in puzzle [FbRyc](https://lichess.org/training/FbRyc), rated `1432`.
+The game is `MarianoPadron (1754)` vs `LoAy11 (1954)` at `10+0` time control,
+with themes `endgame, advancedPawn, crushing, long, promotion, bishopEndgame`. You can [view the full game](https://lichess.org/F9szT6T5),
+and the first solution move is `f4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
