@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqr1k1%2Fppp2pp1%2F3bpn1p%2F3pn3%2F3P4%2F2PBP1B1%2FPPQ2PPP%2FRN2K2R%20w%20KQ%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bR4%2Fpp4qk%2Fn1p2Q1p%2F2b1p2B%2F2P1P3%2F7P%2FPP4PN%2F7K%20w%20-%20-%209%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Tf8ew](https://lichess.org/training/Tf8ew), rated `1464`.
-The game is `amishhitman (1755)` vs `Shod_andr (1753)` at `10+0` time control,
-with themes `opening, advantage, short, fork`. You can [view the full game](https://lichess.org/iSVOrX9o),
-and the first solution move is `d4e5`.
+It is `White to move` in puzzle [tZtVf](https://lichess.org/training/tZtVf), rated `1462`.
+The game is `PuzzleAccountA (1686)` vs `Storo1 (1652)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/JX4EdTLY),
+and the first solution move is `h5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
