@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2Fppp2p1p%2F2n3r1%2F3Q1n2%2F3P4%2F2P5%2FPP1NBP1K%2FRNB2R2%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2Fppp2p1q%2F3p2r1%2F2PNp3%2F2PnP3%2FP6P%2F2P2PP1%2FR2Q1RK1%20b%20-%20-%202%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VyUaF](https://lichess.org/training/VyUaF), rated `1393`.
-The game is `Adakanton (2014)` vs `valera_1976 (1976)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/8oeRC8ct),
-and the first solution move is `g6h6`.
+It is `Black to move` in puzzle [Rz0u1](https://lichess.org/training/Rz0u1), rated `1497`.
+The game is `rog2000 (1612)` vs `SuperTaro67 (1714)` at `30+0` time control,
+with themes `middlegame, advantage, long, kingsideAttack, pin`. You can [view the full game](https://lichess.org/emwxuDPN),
+and the first solution move is `h7h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
