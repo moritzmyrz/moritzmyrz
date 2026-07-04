@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1bb2ppp%2F1p1q4%2F2p5%2Fp1P2B2%2F1P1B3P%2FP1NQ2P1%2F4R1K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp5p1%2F5k2%2FPP6%2F8%2F2K5%2F8%20w%20-%20-%201%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [TDL11](https://lichess.org/training/TDL11), rated `1504`.
-The game is `behxhetshala (2375)` vs `Leon_Blanco (2343)` at `3+0` time control,
-with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/RNtK3p11),
-and the first solution move is `d6f4`.
+It is `White to move` in puzzle [P40EU](https://lichess.org/training/P40EU), rated `1595`.
+The game is `Trench2020 (1692)` vs `The_Schachwski (1679)` at `10+5` time control,
+with themes `endgame, crushing, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/Vxzzm3vs),
+and the first solution move is `b4b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
