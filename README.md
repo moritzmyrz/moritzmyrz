@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F1p3kb1%2FpBp2pp1%2F3n4%2F8%2F1P1R3P%2FP4PKP%2F3R4%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1rbq1rk1%2F5ppp%2Fp2bp3%2F1p1n4%2F3N3Q%2F4P3%2FPP2BPPP%2FR1BR2K1%20w%20-%20-%203%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7wdFD](https://lichess.org/training/7wdFD), rated `1619`.
-The game is `abc1isback (1702)` vs `mistery1959 (1811)` at `2+0` time control,
-with themes `endgame, advantage, fork, long, discoveredAttack`. You can [view the full game](https://lichess.org/xk0H0BfF),
-and the first solution move is `d5f4`.
+It is `White to move` in puzzle [hvMog](https://lichess.org/training/hvMog), rated `1567`.
+The game is `domrohowsky (2347)` vs `PhilippHumburg (2359)` at `3+2` time control,
+with themes `opening, crushing, short, master`. You can [view the full game](https://lichess.org/dIzZwNhZ),
+and the first solution move is `h4d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
