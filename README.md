@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F4P2R%2F2pr1p2%2F2p2P2%2F2B5%2F1P2K3%2F6rP%2F8%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2F1b1n1ppp%2F1q2pn2%2Fp2pb3%2F1p1P4%2F2PQB2P%2FPPBN1PP1%2FR4RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [maoxa](https://lichess.org/training/maoxa), rated `1520`.
-The game is `LUDVIG_CARLSSON (2565)` vs `Olvidaloo (2516)` at `3+0` time control,
-with themes `exposedKing, endgame, master, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/6lzQX4RY),
-and the first solution move is `c4f7`.
+It is `White to move` in puzzle [ta7cl](https://lichess.org/training/ta7cl), rated `1584`.
+The game is `Minus_Master (2017)` vs `Alvar0lc (2112)` at `15+10` time control,
+with themes `long, advantage, discoveredAttack, middlegame`. You can [view the full game](https://lichess.org/s9St5Bgk),
+and the first solution move is `d4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
