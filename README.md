@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R6%2F7P%2Frp2ppk1%2F8%2F5PK1%2F6P1%2F8%20w%20-%20-%201%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F1p3kb1%2FpBp2pp1%2F3n4%2F8%2F1P1R3P%2FP4PKP%2F3R4%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CsIRJ](https://lichess.org/training/CsIRJ), rated `1461`.
-The game is `beautifull_girl (2180)` vs `sanjeevkumar22 (2163)` at `3+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, rookEndgame`. You can [view the full game](https://lichess.org/YuEmOMVy),
-and the first solution move is `h6h7`.
+It is `Black to move` in puzzle [7wdFD](https://lichess.org/training/7wdFD), rated `1619`.
+The game is `abc1isback (1702)` vs `mistery1959 (1811)` at `2+0` time control,
+with themes `endgame, advantage, fork, long, discoveredAttack`. You can [view the full game](https://lichess.org/xk0H0BfF),
+and the first solution move is `d5f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
