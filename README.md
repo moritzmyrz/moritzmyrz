@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp2rkr1p%2F2p5%2F4Ppp1%2F8%2F3R1P2%2F1P3P1P%2F4R1K1%20w%20-%20-%205%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2Q1qk1p%2F6p1%2F8%2F3bP3%2F5PP1%2F3r3P%2F4R2K%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fzTms](https://lichess.org/training/fzTms), rated `1426`.
-The game is `jenish1 (1762)` vs `charliemayne (1753)` at `3+2` time control,
-with themes `exposedKing, endgame, advancedPawn, fork, long, attackingF2F7, doubleCheck, discoveredCheck, crushing, rookEndgame, attraction`. You can [view the full game](https://lichess.org/fWF7ktyc),
-and the first solution move is `d3d7`.
+It is `White to move` in puzzle [iUXxo](https://lichess.org/training/iUXxo), rated `1475`.
+The game is `rudkov61 (2159)` vs `Hyzhyz85 (2099)` at `8+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/4CS3QM6u),
+and the first solution move is `c7f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
