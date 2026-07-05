@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2r1k3%2Fp2Rp3%2F1p2pr2%2F4Np2%2F8%2FPPP4P%2F1K3R2%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4Q3%2Fp1r3k1%2F5p2%2F2pB1Ppp%2FP7%2F3P4%2F1q6%2F7K%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3QDu7](https://lichess.org/training/3QDu7), rated `1424`.
-The game is `ondra_teo (2043)` vs `Rudymab94 (2045)` at `10+0` time control,
-with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/FLQhEBn9),
-and the first solution move is `c7c4`.
+It is `White to move` in puzzle [YTd9D](https://lichess.org/training/YTd9D), rated `1340`.
+The game is `pachoadese (1739)` vs `pviridis (1702)` at `15+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/nUztYsuU),
+and the first solution move is `e8g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
