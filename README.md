@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fppp1PN2%2F2n1q2p%2F5p2%2F5P2%2F8%2F1P1R1KPP%2F8%20w%20-%20-%201%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1pp3p1%2Fpr5P%2F3p2Q1%2F3Pp3%2F2P1Pq2%2FP1P5%2F4K1R1%20b%20-%20-%202%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hiok1](https://lichess.org/training/hiok1), rated `1368`.
-The game is `bbrh (1713)` vs `Maks_Manifestor (1721)` at `3+2` time control,
-with themes `advancedPawn, short, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/E8dhL2Aq),
-and the first solution move is `d2d8`.
+It is `Black to move` in puzzle [cTzC6](https://lichess.org/training/cTzC6), rated `1362`.
+The game is `antonbro123 (1890)` vs `cchyy (1896)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/GFDRkWRV),
+and the first solution move is `b6b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
