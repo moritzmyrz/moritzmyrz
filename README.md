@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F5p2%2F2k1pP2%2F1p4P1%2F1P3P1p%2FP1K4P%2F8%20b%20-%20-%202%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbq1rk1%2Fpp2p3%2F2p4p%2F3PbpNQ%2F2P2p2%2F8%2FPP3PPP%2FR3KB1R%20w%20KQ%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [tlAv8](https://lichess.org/training/tlAv8), rated `1471`.
-The game is `Sc_Oblivion (2505)` vs `Schmargendorf (2631)` at `3+0` time control,
-with themes `veryLong, endgame, enPassant, advantage, pawnEndgame`. You can [view the full game](https://lichess.org/IIUc46HF),
-and the first solution move is `c5d4`.
+It is `White to move` in puzzle [gkIF0](https://lichess.org/training/gkIF0), rated `1428`.
+The game is `MKabacabb (1864)` vs `mustafa_elsied (1866)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/2sTIxzXX),
+and the first solution move is `h5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
