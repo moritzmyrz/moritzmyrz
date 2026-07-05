@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1R6%2F8%2F7K%2F6P1%2F1p6%2F8%2F1r6%20w%20-%20-%202%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7B%2F5k2%2F5P2%2F1p1K4%2F4n3%2Fp1P5%2FN7%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DPazW](https://lichess.org/training/DPazW), rated `1611`.
-The game is `pahan023 (1985)` vs `blumarski (1924)` at `2+1` time control,
-with themes `exposedKing, endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/XTZs39Eu),
-and the first solution move is `h5g6`.
+It is `Black to move` in puzzle [7aON3](https://lichess.org/training/7aON3), rated `1400`.
+The game is `Infi1830 (1862)` vs `gala8 (1837)` at `10+0` time control,
+with themes `endgame, short, crushing, sacrifice`. You can [view the full game](https://lichess.org/4jUVji9e),
+and the first solution move is `e3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
