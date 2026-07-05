@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2k3r%2Fpp1bbpp1%2F3pp1n1%2F2p3Nq%2F5Pp1%2F1B1P3P%2FPPP3P1%2FR1BQ1RK1%20w%20-%20-%201%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1qr1k1%2F2p2p1p%2Fp2p1Pp1%2F3P4%2F8%2FP4R1P%2FB5P1%2F2Q2nK1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jU0Du](https://lichess.org/training/jU0Du), rated `1539`.
-The game is `Joe_The_Pro (1550)` vs `Hildbert (1562)` at `5+3` time control,
-with themes `veryLong, middlegame, advantage, fork`. You can [view the full game](https://lichess.org/jXZAMRHu),
-and the first solution move is `g5f7`.
+It is `White to move` in puzzle [Du5VL](https://lichess.org/training/Du5VL), rated `1329`.
+The game is `radimsynek (1869)` vs `arthur01024 (1910)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/qobngHdo),
+and the first solution move is `c1h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
