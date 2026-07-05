@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q1rk1%2F5p2%2F4pn1P%2Fpr2P2Q%2F3p4%2F1pP1P3%2F1P5P%2FR1B3K1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp1p3p1%2F8%2F4b2p%2FPP2q2P%2F2P3P1%2F4QK2%2F4B3%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9Xerg](https://lichess.org/training/9Xerg), rated `1451`.
-The game is `icanleo (1713)` vs `MAKKU64 (1710)` at `15+10` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/Doj9jVeU),
-and the first solution move is `h5g5`.
+It is `Black to move` in puzzle [6dGKe](https://lichess.org/training/6dGKe), rated `1271`.
+The game is `pinolew (2173)` vs `dolmax (2316)` at `10+0` time control,
+with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/38SQjWTT),
+and the first solution move is `e5g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
