@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2FR1b2p1p%2F2B1p1p1%2F1P6%2F2N5%2F5Q1P%2F1P2K1Pq%2F3R4%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p1p%2F8%2Fp1p2pPK%2FP1P2P1P%2F8%2F8%2F8%20w%20-%20-%201%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JiCHf](https://lichess.org/training/JiCHf), rated `1544`.
-The game is `logancdv (2080)` vs `Doki1 (1993)` at `4+0` time control,
-with themes `exposedKing, middlegame, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/AleK5J0t),
-and the first solution move is `d8d1`.
+It is `White to move` in puzzle [rsRYD](https://lichess.org/training/rsRYD), rated `1392`.
+The game is `shikamaru_tactician (1963)` vs `sachimat (1951)` at `2+1` time control,
+with themes `veryLong, endgame, zugzwang, crushing, quietMove, pawnEndgame`. You can [view the full game](https://lichess.org/evem56fT),
+and the first solution move is `h5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
