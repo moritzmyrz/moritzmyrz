@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4b1k%2F5K2%2F6Pp%2F3p4%2F4p3%2F4B3%2F5P2%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1ppk2pp%2FP3p3%2FP1P1P3%2F4K1P1%2F7P%2F8%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6SSVm](https://lichess.org/training/6SSVm), rated `1366`.
-The game is `nitin12555 (1769)` vs `salingkitkit (1723)` at `3+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/yKITncpA),
-and the first solution move is `e3d4`.
+It is `Black to move` in puzzle [pHYpA](https://lichess.org/training/pHYpA), rated `1448`.
+The game is `cristianogsouza (2028)` vs `UST_B (2295)` at `3+0` time control,
+with themes `endgame, master, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/DS2T0CGH),
+and the first solution move is `b6a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
