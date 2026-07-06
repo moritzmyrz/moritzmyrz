@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1ppk2pp%2FP3p3%2FP1P1P3%2F4K1P1%2F7P%2F8%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2FR1b2p1p%2F2B1p1p1%2F1P6%2F2N5%2F5Q1P%2F1P2K1Pq%2F3R4%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [pHYpA](https://lichess.org/training/pHYpA), rated `1448`.
-The game is `cristianogsouza (2028)` vs `UST_B (2295)` at `3+0` time control,
-with themes `endgame, master, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/DS2T0CGH),
-and the first solution move is `b6a5`.
+It is `Black to move` in puzzle [JiCHf](https://lichess.org/training/JiCHf), rated `1544`.
+The game is `logancdv (2080)` vs `Doki1 (1993)` at `4+0` time control,
+with themes `exposedKing, middlegame, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/AleK5J0t),
+and the first solution move is `d8d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
