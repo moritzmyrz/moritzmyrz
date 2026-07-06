@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4Q3%2F5pkp%2F6p1%2Fp7%2F3p1P2%2F3q2P1%2F3b1K1P%2F5R2%20b%20-%20-%2017%2059&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F2P4N%2F7P%2F1PK1pk2%2F8%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [QxP2o](https://lichess.org/training/QxP2o), rated `1393`.
-The game is `SebiSunshine (1629)` vs `Chessy64 (1671)` at `15+10` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/9IwkUKlg),
-and the first solution move is `d2e3`.
+It is `Black to move` in puzzle [sTsG0](https://lichess.org/training/sTsG0), rated `1174`.
+The game is `chessfriendss (2077)` vs `Gr0ssmeister7 (2057)` at `25+0` time control,
+with themes `endgame, advancedPawn, crushing, long, promotion, knightEndgame`. You can [view the full game](https://lichess.org/ROpciPW7),
+and the first solution move is `e3e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
