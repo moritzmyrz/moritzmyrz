@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2F1p1npppp%2F8%2F1Npn4%2F5Bb1%2F5N2%2FPPP1Q1PP%2FR3K2R%20w%20KQkq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1nr3k1%2F6p1%2F2p2p1p%2F1B1p4%2Fr2P2b1%2F4PNP1%2F5PP1%2F2R2RK1%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pYUVU](https://lichess.org/training/pYUVU), rated `1367`.
-The game is `joehaddad00 (1758)` vs `jsarteel (1741)` at `3+0` time control,
-with themes `middlegame, oneMove, pin, mateIn1, smotheredMate`. You can [view the full game](https://lichess.org/N5enEXQm),
-and the first solution move is `b5d6`.
+It is `Black to move` in puzzle [FCeBF](https://lichess.org/training/FCeBF), rated `1555`.
+The game is `lurook68 (1790)` vs `Valentin1593 (1761)` at `10+0` time control,
+with themes `short, hangingPiece, advantage, middlegame`. You can [view the full game](https://lichess.org/po8xMf1k),
+and the first solution move is `c6b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
