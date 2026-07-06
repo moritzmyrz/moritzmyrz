@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5pp1%2F1p5p%2F8%2FP1Qq4%2F5P2%2F2R3PP%2F5K2%20b%20-%20-%2011%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3qr1k1%2F1p2bpp1%2Fp4n1p%2F3p4%2F2rQ3B%2F2N4P%2FPPP2PP1%2F3RR1K1%20w%20-%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XNTZn](https://lichess.org/training/XNTZn), rated `1276`.
-The game is `ChessNanjing (1868)` vs `ponowher (1846)` at `15+15` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/o3SqFhFv),
-and the first solution move is `d4d1`.
+It is `White to move` in puzzle [hHQMa](https://lichess.org/training/hHQMa), rated `1567`.
+The game is `DondonLapad (2007)` vs `DrNektrstein (1997)` at `5+0` time control,
+with themes `middlegame, advantage, long, capturingDefender, discoveredAttack`. You can [view the full game](https://lichess.org/JFxs8yZ7),
+and the first solution move is `d4c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
