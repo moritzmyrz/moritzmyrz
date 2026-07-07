@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F1b3p2%2F4p3%2F2p3Q1%2F2P2B2%2F2P4P%2F1P4PK%2Fr4q2%20w%20-%20-%206%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2Fp5pp%2F6p1%2F1Q1p1P2%2F5K1P%2F4r3%2FPP6%2F3R1R2%20b%20-%20-%202%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2jwkw](https://lichess.org/training/2jwkw), rated `1397`.
-The game is `AlexR77 (1624)` vs `CreamHand (1616)` at `10+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/9to5Bc7h),
-and the first solution move is `f4d6`.
+It is `Black to move` in puzzle [4YVIS](https://lichess.org/training/4YVIS), rated `1510`.
+The game is `DobryPan (1803)` vs `kollapse27 (1743)` at `3+0` time control,
+with themes `short, queenRookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/wXznaLfh),
+and the first solution move is `e8e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
