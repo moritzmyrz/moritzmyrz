@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp1bqpk1%2F2p2np1%2F5pQ1%2F3P1N2%2F2PB1P2%2FPPK3P1%2F8%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2FR4pp1%2F3p1b1p%2F1NrP4%2F2P5%2F5P1P%2F8%2F2R3K1%20b%20-%20-%204%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wICq7](https://lichess.org/training/wICq7), rated `1403`.
-The game is `GlennTipton (2504)` vs `Encarapuchado (2322)` at `3+0` time control,
-with themes `endgame, master, short, crushing, pin`. You can [view the full game](https://lichess.org/yBBFt6oD),
-and the first solution move is `f4h5`.
+It is `Black to move` in puzzle [AZhBE](https://lichess.org/training/AZhBE), rated `1510`.
+The game is `mack90 (1584)` vs `SqueezyLemon (1576)` at `5+0` time control,
+with themes `exposedKing, endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/aoyvFQaz),
+and the first solution move is `c5b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
