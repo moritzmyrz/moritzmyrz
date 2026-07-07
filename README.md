@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4n1k1%2F2b4R%2F2b5%2F3p1BP1%2F2pP1pN1%2F5P2%2Fpr3BK1%2F8%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2Fpp3p1p%2F2n3p1%2F3N4%2F8%2F4n2Q%2F2q1N1PP%2F5RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5YXAE](https://lichess.org/training/5YXAE), rated `1578`.
-The game is `TetrisPro1985 (2288)` vs `lion189 (2196)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/WUW0YCwJ),
-and the first solution move is `g4h6`.
+It is `White to move` in puzzle [miZ4r](https://lichess.org/training/miZ4r), rated `1402`.
+The game is `GHALIB321 (1728)` vs `k03a (1664)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, fork`. You can [view the full game](https://lichess.org/M08sEz4Q),
+and the first solution move is `d5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
