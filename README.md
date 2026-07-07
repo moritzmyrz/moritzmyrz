@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2FR4pp1%2F3p1b1p%2F1NrP4%2F2P5%2F5P1P%2F8%2F2R3K1%20b%20-%20-%204%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1pp2p2%2Fp2p1n1p%2F2b1p3%2FP1B1P1p1%2F3P1n1q%2F1PP2P1N%2FR1BQ2RK%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [AZhBE](https://lichess.org/training/AZhBE), rated `1510`.
-The game is `mack90 (1584)` vs `SqueezyLemon (1576)` at `5+0` time control,
-with themes `exposedKing, endgame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/aoyvFQaz),
-and the first solution move is `c5b5`.
+It is `White to move` in puzzle [wKt8P](https://lichess.org/training/wKt8P), rated `1583`.
+The game is `murmur4710n (1860)` vs `TymoteuszK (1891)` at `10+0` time control,
+with themes `middlegame, advantage, pin, short`. You can [view the full game](https://lichess.org/raSr2xwg),
+and the first solution move is `d1f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
