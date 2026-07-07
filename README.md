@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fbppb1ppp%2F3p4%2Fp2Pp3%2FP3Pn1q%2F1N1BBP2%2F1PPQ1RPP%2FR6K%20w%20-%20-%202%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp3pbp%2F2n5%2F3pp1Np%2F3P4%2F3BP3%2FPP1N1PP1%2FR1BQK3%20w%20Q%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PNMhU](https://lichess.org/training/PNMhU), rated `1533`.
-The game is `TitanDelSur (1632)` vs `AL_BKD (2065)` at `3+0` time control,
-with themes `middlegame, fork, veryLong, advantage`. You can [view the full game](https://lichess.org/l4YBOU4E),
-and the first solution move is `g2g3`.
+It is `White to move` in puzzle [aBlXK](https://lichess.org/training/aBlXK), rated `1514`.
+The game is `veryBadUser (1665)` vs `easygamebro (1627)` at `3+0` time control,
+with themes `advantage, long, opening, kingsideAttack`. You can [view the full game](https://lichess.org/fx5qz6Yr),
+and the first solution move is `d3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
