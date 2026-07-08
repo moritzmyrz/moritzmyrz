@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1R2Q1p1%2Fp6p%2F3p3n%2F5q2%2F5P1P%2FPP4P1%2F5B1K%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bR1rk1%2F1p4p1%2F8%2F6N1%2F1P6%2Fp1P3K1%2FP7%2F7R%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0EiQ3](https://lichess.org/training/0EiQ3), rated `1388`.
-The game is `thnxforchess (2075)` vs `chinteg1 (2018)` at `3+2` time control,
-with themes `deflection, endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/RsWc40C6),
-and the first solution move is `h5g3`.
+It is `White to move` in puzzle [XM8Zi](https://lichess.org/training/XM8Zi), rated `1566`.
+The game is `Hunta1975 (2075)` vs `srlftrksy (1877)` at `5+0` time control,
+with themes `deflection, short, attraction, endgame, mateIn2`. You can [view the full game](https://lichess.org/ZMv4wj91),
+and the first solution move is `h1h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
