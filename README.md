@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k1r3%2F1pp5%2F6p1%2FP1b5%2FP3p3%2F3RB3%2F5RPP%2F6K1%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2Fp6p%2F3RQ3%2F2p5%2F2P3PP%2F6PK%2Fqr6%20w%20-%20-%203%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JUF1B](https://lichess.org/training/JUF1B), rated `1514`.
-The game is `HoudiniCheck (2116)` vs `Sub_atomic (2028)` at `10+5` time control,
-with themes `endgame, advancedPawn, long, crushing`. You can [view the full game](https://lichess.org/5A7rhjvv),
-and the first solution move is `e4d3`.
+It is `White to move` in puzzle [dgH4v](https://lichess.org/training/dgH4v), rated `1282`.
+The game is `Humble_Serial_Killer (1786)` vs `picher89 (1780)` at `3+0` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/X7QFwFcA),
+and the first solution move is `d5d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
