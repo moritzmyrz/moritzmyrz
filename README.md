@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5p1%2F1p3pk1%2F5Np1%2F1P2PqP1%2F2Q2R1P%2F2P3K1%2F3r4%20b%20-%20-%206%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4k1r%2Fpp3Bpp%2F2p2n2%2Fq3N3%2F4b1P1%2F3Q3P%2FPKP2P2%2F3R3R%20w%20-%20-%201%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [X8nGm](https://lichess.org/training/X8nGm), rated `1602`.
-The game is `Vrushika99 (1923)` vs `affable (2001)` at `10+5` time control,
-with themes `advantage, long, endgame`. You can [view the full game](https://lichess.org/fhudwHql),
-and the first solution move is `d1d2`.
+It is `White to move` in puzzle [nTmsv](https://lichess.org/training/nTmsv), rated `1313`.
+The game is `Anthony1985 (2138)` vs `Nioca (2014)` at `3+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/57edLjEe),
+and the first solution move is `d3d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
