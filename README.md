@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp6%2F1kp1Pbp1%2F4qp2%2F8%2F7P%2FP3Q1P1%2F7K%20w%20-%20-%203%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1q2rk%2F3p1p2%2Fp3p3%2F1p2P1R1%2F3P4%2F2P5%2FP2Q1PPP%2FR5K1%20w%20-%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kznVp](https://lichess.org/training/kznVp), rated `1399`.
-The game is `vranjevcan (1853)` vs `capablanca1962 (1621)` at `20+0` time control,
-with themes `endgame, advantage, advancedPawn, short`. You can [view the full game](https://lichess.org/vQKrhJSu),
-and the first solution move is `e2e5`.
+It is `White to move` in puzzle [pZZcC](https://lichess.org/training/pZZcC), rated `1426`.
+The game is `joeALT30 (2481)` vs `Selimzade_07 (2330)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/0JDryteE),
+and the first solution move is `g5h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
