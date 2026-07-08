@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F3p1p2%2Fp1b1pp2%2F1p2qP2%2F4P1r1%2FP1P1R1R1%2F2B2Q2%2F7K%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4p3%2F4P2P%2F4k1P1%2F3p4%2F8%2F4KR1r%20b%20-%20-%208%2054&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [B87as](https://lichess.org/training/B87as), rated `1398`.
-The game is `Pinesplayer (2336)` vs `poorplan (2219)` at `10+0` time control,
-with themes `middlegame, short, crushing, intermezzo, interference`. You can [view the full game](https://lichess.org/JZChQQTM),
-and the first solution move is `f2h2`.
+It is `Black to move` in puzzle [5y95V](https://lichess.org/training/5y95V), rated `1349`.
+The game is `braveheart312 (1983)` vs `Kaspablanca1 (2012)` at `10+0` time control,
+with themes `deflection, endgame, advancedPawn, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/DXENbvpG),
+and the first solution move is `d3d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
