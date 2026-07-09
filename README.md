@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3qk1nr%2F3b1p2%2FpR2p3%2F4P1p1%2F7p%2F2p4P%2FP1PN1PPB%2F3QK2R%20b%20Kk%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bk1r1R%2Fp7%2F1p1p1n2%2F2pPppQ1%2F2P1P3%2FP1PB4%2F8%2F6RK%20b%20-%20-%203%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fmmgn](https://lichess.org/training/fmmgn), rated `1535`.
-The game is `d-i-p (2196)` vs `Happysanta (2202)` at `10+0` time control,
-with themes `advancedPawn, middlegame, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/td7c97s9),
-and the first solution move is `c3d2`.
+It is `Black to move` in puzzle [vIm9K](https://lichess.org/training/vIm9K), rated `1350`.
+The game is `EnriqueAPGonzales (1685)` vs `nando_baggins (2028)` at `1+1` time control,
+with themes `middlegame, crushing, long, pin, hangingPiece`. You can [view the full game](https://lichess.org/9tnD2F1U),
+and the first solution move is `f8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
