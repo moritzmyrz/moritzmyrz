@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3n1pp1%2Fp3p2p%2F1p1n4%2F2rP4%2FP3PBP1%2FPBr2P1P%2F1RR3K1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4R3%2Fpp3kpp%2F5pn1%2F3p1N2%2F2qP4%2F7P%2FP2bRPP1%2F6K1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XM2IZ](https://lichess.org/training/XM2IZ), rated `1475`.
-The game is `manneredmonkey (2634)` vs `Think_Fast_Move_Fast (2733)` at `3+0` time control,
-with themes `deflection, short, masterVsMaster, advantage, master, middlegame, capturingDefender, discoveredAttack`. You can [view the full game](https://lichess.org/R9BarnGd),
-and the first solution move is `c2b2`.
+It is `White to move` in puzzle [2hczx](https://lichess.org/training/2hczx), rated `1322`.
+The game is `Mario-Odyssey (1915)` vs `KDB1985 (1881)` at `10+0` time control,
+with themes `endgame, oneMove, mateIn1, cornerMate`. You can [view the full game](https://lichess.org/DEl0c9LU),
+and the first solution move is `f5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
