@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2F1b3pp1%2Fpp1Bpn1p%2F2np4%2F1QP5%2F4PN2%2FPP2BPPP%2FR4RK1%20w%20-%20-%202%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4q1k1%2F2Q2R2%2F6pp%2F4r3%2F3NP3%2F7P%2F3b2PK%2F8%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wDAZO](https://lichess.org/training/wDAZO), rated `1423`.
-The game is `Donviper (1766)` vs `yutoma58 (1791)` at `15+15` time control,
-with themes `middlegame, capturingDefender, advantage, short`. You can [view the full game](https://lichess.org/P1QEjF3i),
-and the first solution move is `d6c5`.
+It is `Black to move` in puzzle [2yDCg](https://lichess.org/training/2yDCg), rated `1457`.
+The game is `Jrondon (1990)` vs `matkozllatko (2086)` at `3+0` time control,
+with themes `fork, crushing, long, endgame`. You can [view the full game](https://lichess.org/YvJnmR0T),
+and the first solution move is `e8f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
