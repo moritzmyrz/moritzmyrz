@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7k%2F5p2%2F1P2pN2%2F3nP1p1%2F2K5%2F8%2F8%20w%20-%20-%202%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fp3ppk1%2F3q2p1%2Fp7%2F3P4%2F1Q1BP1P1%2F4RP2%2F6K1%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Yaywj](https://lichess.org/training/Yaywj), rated `1544`.
-The game is `Shahid05 (1942)` vs `michalis963 (1951)` at `3+2` time control,
-with themes `crushing, veryLong, knightEndgame, endgame`. You can [view the full game](https://lichess.org/hLqe091q),
-and the first solution move is `f5d4`.
+It is `Black to move` in puzzle [No9ky](https://lichess.org/training/No9ky), rated `1561`.
+The game is `Utca22 (2406)` vs `byO_o (2350)` at `3+0` time control,
+with themes `long, crushing, quietMove, endgame`. You can [view the full game](https://lichess.org/RsLqMyvP),
+and the first solution move is `d6c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
