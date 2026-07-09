@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4q1k1%2F2Q2R2%2F6pp%2F4r3%2F3NP3%2F7P%2F3b2PK%2F8%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr2k%2F6p1%2Fpp2P2p%2F1b1B2q1%2F8%2F6Q1%2FP4PPP%2F3RR1K1%20b%20-%20-%204%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2yDCg](https://lichess.org/training/2yDCg), rated `1457`.
-The game is `Jrondon (1990)` vs `matkozllatko (2086)` at `3+0` time control,
-with themes `fork, crushing, long, endgame`. You can [view the full game](https://lichess.org/YvJnmR0T),
-and the first solution move is `e8f7`.
+It is `Black to move` in puzzle [pY6d5](https://lichess.org/training/pY6d5), rated `1424`.
+The game is `Phutressniak (2452)` vs `Taha_hatefii (1964)` at `3+0` time control,
+with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/T8FiBuQT),
+and the first solution move is `d8d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
