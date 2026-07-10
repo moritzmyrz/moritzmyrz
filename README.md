@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fp1pp1p2%2F5n1p%2F2b3p1%2F4P1NB%2F1PPP4%2F2P2PPP%2FR2QK2R%20w%20KQ%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p3k1%2F5pp1%2F2rPp2p%2FP3Pq2%2F4Q2P%2F4KNP1%2F1R6%20b%20-%20-%201%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mfJXG](https://lichess.org/training/mfJXG), rated `1428`.
-The game is `Atebyate (1735)` vs `Qchess960 (1712)` at `10+0` time control,
-with themes `middlegame, short, advantage, kingsideAttack`. You can [view the full game](https://lichess.org/VYAVWoB0),
-and the first solution move is `g4h6`.
+It is `Black to move` in puzzle [SO8rT](https://lichess.org/training/SO8rT), rated `1476`.
+The game is `fcojavierorihuela (1648)` vs `HorsterOlli (2045)` at `5+0` time control,
+with themes `exposedKing, deflection, endgame, advantage, attraction, long`. You can [view the full game](https://lichess.org/KCbNmCIs),
+and the first solution move is `c5c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
