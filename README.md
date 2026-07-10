@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2P5%2F1K6%2F8%2F3k4%2F1R2p3%2F8%2F2r5%20b%20-%20-%202%2064&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3k1N2%2F8%2F1PK1p1p1%2F4P3%2F5n2%2F8%2F8%20b%20-%20-%200%2050&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [N4nkr](https://lichess.org/training/N4nkr), rated `1392`.
-The game is `renatuslima (1891)` vs `skymath (1951)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/DZ7JYPBT),
-and the first solution move is `e3e2`.
+It is `Black to move` in puzzle [3fFWe](https://lichess.org/training/3fFWe), rated `1418`.
+The game is `vvvvpro6 (2052)` vs `KmAziradjiMohIsm (2104)` at `10+0` time control,
+with themes `endgame, short, crushing, quietMove, knightEndgame`. You can [view the full game](https://lichess.org/aqk8db9l),
+and the first solution move is `g5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
