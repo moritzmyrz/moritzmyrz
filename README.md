@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1p1b1p1p%2Fpq1p1nPQ%2F8%2F4P1P1%2F1Pp2P2%2F1PP1K3%2FR6R%20w%20-%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r6%2FR4ppk%2Fp1Qp1q1p%2F2bPp3%2FP1N1P3%2F3P4%2F5PPP%2F5RK1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [r87Km](https://lichess.org/training/r87Km), rated `1474`.
-The game is `lucabrasi29 (1677)` vs `Farias900 (1675)` at `3+0` time control,
-with themes `mateIn2, advancedPawn, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/GG9dvyGG),
-and the first solution move is `g6h7`.
+It is `Black to move` in puzzle [CF2xg](https://lichess.org/training/CF2xg), rated `1613`.
+The game is `jkleebone (2114)` vs `InVeStInGIdEaS (2085)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, sacrifice, kingsideAttack, pin`. You can [view the full game](https://lichess.org/jtlVZEHC),
+and the first solution move is `f6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
