@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3qr2k%2F1b5p%2FpB3bp1%2F1p3p2%2F2p2P2%2FP1P5%2FBP3QPP%2F4R1K1%20b%20-%20-%207%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2P5%2F1K6%2F8%2F3k4%2F1R2p3%2F8%2F2r5%20b%20-%20-%202%2064&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [oa5QX](https://lichess.org/training/oa5QX), rated `1295`.
-The game is `pumuckl26 (1795)` vs `grireco (1801)` at `10+0` time control,
-with themes `middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/4kBBqXmJ),
-and the first solution move is `e8e1`.
+It is `Black to move` in puzzle [N4nkr](https://lichess.org/training/N4nkr), rated `1392`.
+The game is `renatuslima (1891)` vs `skymath (1951)` at `10+0` time control,
+with themes `endgame, advancedPawn, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/DZ7JYPBT),
+and the first solution move is `e3e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
