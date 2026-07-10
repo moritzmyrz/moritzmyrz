@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F4p3%2F3k1PP1%2F8%2F1p6%2F1Kp5%2F8%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fr5pp%2F2ppp3%2F1p2p2q%2Fp3PnN1%2FP1PP1R1P%2F1P3PP1%2FR2Q2K1%20w%20-%20-%2010%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aHgag](https://lichess.org/training/aHgag), rated `1547`.
-The game is `luciofilhomanaus (2185)` vs `math21 (2240)` at `3+0` time control,
-with themes `endgame, advancedPawn, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/mFf5jFLv),
-and the first solution move is `f5f6`.
+It is `White to move` in puzzle [ntTo7](https://lichess.org/training/ntTo7), rated `1597`.
+The game is `RaginGoose (1569)` vs `iadm (1570)` at `5+0` time control,
+with themes `middlegame, advantage, long, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/9tTnDX05),
+and the first solution move is `f3f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
