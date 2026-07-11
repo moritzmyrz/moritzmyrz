@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3Bnppp%2F4p3%2F8%2F1p2b3%2F4P2P%2F1r3RP1%2F2R3K1%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fppp2pp1%2F1b1p1nbp%2F3P1q2%2F2P5%2F2NBB2P%2FPP3PP1%2FR2QR1K1%20b%20-%20-%201%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [dlfbx](https://lichess.org/training/dlfbx), rated `1572`.
-The game is `ChroniclesOfKramnik (2118)` vs `dodoturkoz (2104)` at `3+0` time control,
-with themes `crushing, advancedPawn, long, endgame`. You can [view the full game](https://lichess.org/S6DqN7Lb),
-and the first solution move is `b2f2`.
+It is `Black to move` in puzzle [dUui0](https://lichess.org/training/dUui0), rated `1319`.
+The game is `Studies_for (2056)` vs `Zerdeja-222 (2076)` at `3+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/KTxbG6H0),
+and the first solution move is `f5d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
