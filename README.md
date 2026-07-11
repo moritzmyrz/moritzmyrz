@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fp2b1ppp%2F2p1pn2%2Fq7%2F1b1pP3%2FP1NB1P2%2F1PPB2PP%2FR2QK2R%20b%20KQkq%20-%202%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1r2%2Fpp3qpp%2F2pp4%2F4p3%2FPPQ1P2b%2F2N3P1%2F2P2P1P%2F3RR1K1%20w%20-%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YgyFO](https://lichess.org/training/YgyFO), rated `1604`.
-The game is `amazingactor22 (1776)` vs `vedanta_b_7 (1909)` at `25+4` time control,
-with themes `middlegame, advantage, advancedPawn, short`. You can [view the full game](https://lichess.org/UhGwobjm),
-and the first solution move is `d4c3`.
+It is `White to move` in puzzle [bdTno](https://lichess.org/training/bdTno), rated `1388`.
+The game is `eatsleeploserepeat (1909)` vs `Davor57 (1939)` at `10+0` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/AnRQRMWx),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
