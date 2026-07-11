@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2kb1r%2F3ppppp%2FPq3nb1%2F8%2F3N4%2F2N1B3%2F1PP1QPPP%2FR3KB1R%20b%20KQkq%20-%206%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1R5%2F5q2%2F4p2Q%2F1pP5%2F1P4P1%2FP5K1%2F8%20b%20-%20-%204%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YLYd0](https://lichess.org/training/YLYd0), rated `1300`.
-The game is `AzIz1998 (1618)` vs `Favoryt (1645)` at `3+2` time control,
-with themes `advantage, fork, short, opening`. You can [view the full game](https://lichess.org/QihRWmTx),
-and the first solution move is `b6b2`.
+It is `Black to move` in puzzle [QRVjd](https://lichess.org/training/QRVjd), rated `1596`.
+The game is `KirillMarica (1978)` vs `martinHernand (1991)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/cNky8gVd),
+and the first solution move is `f6f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
