@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q1r1k%2F5Bbp%2F1pR3p1%2Fpn6%2F3P4%2F5Q2%2FP4PPP%2F4R1K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F6bp%2F3N2p1%2Fp2Pp3%2F4Pp2%2FP7%2F1P1Bb1PP%2F2R1R2K%20b%20-%20-%204%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9VIk2](https://lichess.org/training/9VIk2), rated `1538`.
-The game is `DrDominus (1539)` vs `sevda48 (1541)` at `5+3` time control,
-with themes `middlegame, advantage, fork, long, defensiveMove`. You can [view the full game](https://lichess.org/B5m5fQg3),
-and the first solution move is `b5d4`.
+It is `Black to move` in puzzle [d3NU2](https://lichess.org/training/d3NU2), rated `1406`.
+The game is `josefderalte (2071)` vs `mvrjane (2097)` at `10+0` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/m5HLojbR),
+and the first solution move is `f4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
