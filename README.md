@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2Fp4ppq%2F1p1p3p%2F4n2P%2F3N2P1%2F1bP2QBR%2F1P1K1P2%2F2R5%20w%20-%20-%203%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2k3%2F1pR3p1%2Fp5Pp%2FP6P%2F8%2F7P%2F7K%2F8%20w%20-%20-%207%2068&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DixGD](https://lichess.org/training/DixGD), rated `1336`.
-The game is `Skazka_ex09 (1932)` vs `beepboopbeep123 (1923)` at `10+5` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/BdGACtBY),
-and the first solution move is `g3e5`.
+It is `White to move` in puzzle [WlixB](https://lichess.org/training/WlixB), rated `1653`.
+The game is `Dieudonnee_Merciboku (2279)` vs `VVD62 (2434)` at `3+0` time control,
+with themes `veryLong, endgame, master, crushing, rookEndgame`. You can [view the full game](https://lichess.org/VphsBlii),
+and the first solution move is `c7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
