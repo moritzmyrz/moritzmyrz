@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2F3K3p%2F4P1p1%2F8%2F8%2F8%2F8%20w%20-%20-%200%2071&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fp2b1ppp%2F2p1pn2%2Fq7%2F1b1pP3%2FP1NB1P2%2F1PPB2PP%2FR2QK2R%20b%20KQkq%20-%202%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [o6M0E](https://lichess.org/training/o6M0E), rated `1484`.
-The game is `allahyar1965 (1872)` vs `JanspieltSchach (1761)` at `20+0` time control,
-with themes `pawnEndgame, crushing, short, endgame`. You can [view the full game](https://lichess.org/ky2Xl5PM),
-and the first solution move is `d6d7`.
+It is `Black to move` in puzzle [YgyFO](https://lichess.org/training/YgyFO), rated `1604`.
+The game is `amazingactor22 (1776)` vs `vedanta_b_7 (1909)` at `25+4` time control,
+with themes `middlegame, advantage, advancedPawn, short`. You can [view the full game](https://lichess.org/UhGwobjm),
+and the first solution move is `d4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
