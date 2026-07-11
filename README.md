@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5r1%2F1p3ppk%2Fp1pp3p%2F3q3N%2F1Pb5%2F6R1%2FP1PQ1PPP%2F4R1K1%20w%20-%20-%204%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4qp1p%2F4p1pP%2Fpp2P3%2F5Q2%2FP7%2F5PPK%2F2R5%20w%20-%20-%202%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [o88dh](https://lichess.org/training/o88dh), rated `1552`.
-The game is `Alex60767 (1811)` vs `Ekber (1736)` at `15+0` time control,
-with themes `middlegame, advantage, fork, long, sacrifice`. You can [view the full game](https://lichess.org/qY8RSLTE),
-and the first solution move is `g3g7`.
+It is `White to move` in puzzle [0WQZD](https://lichess.org/training/0WQZD), rated `1550`.
+The game is `Fullconnectedbeard (2018)` vs `aldosiviuno (1923)` at `3+2` time control,
+with themes `crushing, sacrifice, long, endgame`. You can [view the full game](https://lichess.org/8KnqmY2T),
+and the first solution move is `c1c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
