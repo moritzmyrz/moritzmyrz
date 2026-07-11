@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fpp3ppp%2F1np1pn2%2F4Nb2%2F2BP4%2F2N5%2FPPP3PP%2FR1B1QRK1%20w%20kq%20-%206%2010&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2F1p3pp1%2FpQ2bb1p%2F2pN4%2F4P3%2F5P2%2FqPP3PP%2F2KR1B1R%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8K9vH](https://lichess.org/training/8K9vH), rated `1627`.
-The game is `kemo2233 (1759)` vs `OlegArhipov (1965)` at `10+0` time control,
-with themes `opening, pin, short, advantage`. You can [view the full game](https://lichess.org/euN5jdqF),
-and the first solution move is `f1f5`.
+It is `White to move` in puzzle [OE5dE](https://lichess.org/training/OE5dE), rated `1362`.
+The game is `kpackauskas (1730)` vs `Lelouch10000 (1605)` at `3+0` time control,
+with themes `middlegame, advantage, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/dsFmdOv9),
+and the first solution move is `d5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
