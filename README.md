@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fppp3pp%2F6r1%2F3r4%2F5Q2%2FP3Bq2%2F1P3PRP%2F6RK%20b%20-%20-%2013%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2Fpp3ppp%2F2p5%2F4q3%2F8%2F5Q2%2FPPP2R1P%2F3R2K1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1IPvY](https://lichess.org/training/1IPvY), rated `1450`.
-The game is `Amahendra_Baahubali (1929)` vs `migueltal87 (1915)` at `30+0` time control,
-with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/RKFyvLvA),
-and the first solution move is `f3g2`.
+It is `White to move` in puzzle [CqJD0](https://lichess.org/training/CqJD0), rated `1396`.
+The game is `Ariv08 (1688)` vs `Ghazalfaridi (1673)` at `10+5` time control,
+with themes `veryLong, middlegame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/1QWgr07s),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
