@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4k1r%2F2p1qpp1%2F4p1p1%2F1B1pN2n%2F3P1Q2%2FP3P3%2F1P3PPP%2F4K2R%20w%20K%20-%202%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fpp3Q1p%2F8%2F5p2%2F3Nn3%2F1P2PNPq%2FP1P2P2%2F4R1K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wZj3E](https://lichess.org/training/wZj3E), rated `1289`.
-The game is `dasilvaaldirquirino (1734)` vs `wpooh75 (1691)` at `15+15` time control,
-with themes `middlegame, short, crushing, pin`. You can [view the full game](https://lichess.org/Df0EHd5b),
-and the first solution move is `e5g6`.
+It is `Black to move` in puzzle [n0pLK](https://lichess.org/training/n0pLK), rated `1390`.
+The game is `M10Dembele (1827)` vs `jfz00 (1806)` at `10+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/3PrDYQ2e),
+and the first solution move is `g8g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
