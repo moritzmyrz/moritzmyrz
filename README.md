@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1pp5%2Fp2p1qpb%2F4P3%2F4P1Qp%2F4B3%2FPPP3PP%2FR4RK1%20b%20kq%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k3%2F5p2%2F4pKN1%2F6P1%2Fb4P2%2F8%2F8%20w%20-%20-%200%2060&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FQuNp](https://lichess.org/training/FQuNp), rated `1475`.
-The game is `ParamjotSingh79 (1851)` vs `Ark55 (1848)` at `10+5` time control,
-with themes `middlegame, short, advantage, intermezzo, kingsideAttack, hangingPiece`. You can [view the full game](https://lichess.org/mBJHAZX1),
-and the first solution move is `h6e3`.
+It is `White to move` in puzzle [mNpuq](https://lichess.org/training/mNpuq), rated `1333`.
+The game is `manisingko (2318)` vs `Uriyaca (2208)` at `10+0` time control,
+with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/Guwk8tdO),
+and the first solution move is `g5e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
