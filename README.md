@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq2r1%2Fpp5p%2F1kpN4%2F3nQ3%2F2Bn4%2F8%2FPPP2PPP%2FR1B1R1K1%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fbpp2ppp%2Fp3n3%2FP2B4%2F1P6%2F2qN4%2F5PPP%2FR1BQ1RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [z5hjF](https://lichess.org/training/z5hjF), rated `1549`.
-The game is `londonsys (1683)` vs `tekac (1779)` at `10+0` time control,
-with themes `short, crushing, opening, pin`. You can [view the full game](https://lichess.org/Jx2Dxx1A),
-and the first solution move is `d4f3`.
+It is `White to move` in puzzle [rRzkw](https://lichess.org/training/rRzkw), rated `1427`.
+The game is `AI2018 (2157)` vs `louki10 (2149)` at `3+0` time control,
+with themes `short, advantage, trappedPiece, opening`. You can [view the full game](https://lichess.org/OemvKEOj),
+and the first solution move is `c1b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
