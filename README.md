@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F6rp%2F1R6%2F5q2%2F2PQnP1P%2F4R1p1%2F6K1%20b%20-%20-%203%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3r1%2Fpp2k1pp%2F2p2n2%2F2q1p1BQ%2F3nP3%2F2N5%2FPPP3PP%2FR4RK1%20w%20-%20-%202%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UTD60](https://lichess.org/training/UTD60), rated `1444`.
-The game is `Pushok2018 (1893)` vs `A_Bhardwaj (1788)` at `10+5` time control,
-with themes `advancedPawn, short, attraction, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/lRUPMPft),
-and the first solution move is `f4h2`.
+It is `White to move` in puzzle [swLyp](https://lichess.org/training/swLyp), rated `1436`.
+The game is `redhoox (2135)` vs `vvvv3 (2065)` at `5+0` time control,
+with themes `exposedKing, middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/R1oA3wgP),
+and the first solution move is `g5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
