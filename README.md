@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1p3p2%2Fp2p2p1%2F3Bp3%2F1P1nP2b%2FB3QP2%2F4qP1P%2F6RK%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1p4rp%2Fp2Q4%2F2pP2r1%2FP1P1P3%2F1P6%2F7K%2F8%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bUX0M](https://lichess.org/training/bUX0M), rated `1365`.
-The game is `Arturo15076 (2173)` vs `Aca963 (2021)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/ulm4iW3B),
-and the first solution move is `g1g6`.
+It is `Black to move` in puzzle [1EHD3](https://lichess.org/training/1EHD3), rated `1325`.
+The game is `LoneCypress (2446)` vs `OZONMF (2422)` at `3+0` time control,
+with themes `endgame, master, oneMove, mateIn1, queenRookEndgame`. You can [view the full game](https://lichess.org/1QmZj2pK),
+and the first solution move is `g5h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
