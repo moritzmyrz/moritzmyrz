@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1rp1n3%2Fp1p3pp%2F2k1Pp2%2F2P5%2FP1KPN1R1%2F1r6%2FR7%20w%20-%20-%204%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r3k%2F5Bpn%2F3q1p2%2F5P2%2F7R%2Fp1P4P%2FPP1B2Q1%2F1K6%20w%20-%20-%207%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nkdHp](https://lichess.org/training/nkdHp), rated `1550`.
-The game is `pinzi2023 (1973)` vs `dolcebobo (2010)` at `10+0` time control,
-with themes `endgame, short, advantage, interference`. You can [view the full game](https://lichess.org/L5hGV2mZ),
-and the first solution move is `d3d4`.
+It is `White to move` in puzzle [xshBh](https://lichess.org/training/xshBh), rated `1348`.
+The game is `fn3400 (2322)` vs `sicario143 (2161)` at `5+0` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/783RWhOQ),
+and the first solution move is `h4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
