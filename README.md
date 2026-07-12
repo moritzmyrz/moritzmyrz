@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqkb1r%2Fpp3ppp%2F4p3%2F2ppP3%2F3Pn3%2F3B1P2%2FPPP3PP%2FRNBQK1NR%20b%20KQkq%20-%200%206&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1q3r%2F3b1pk1%2F4p3%2F2pnN1PQ%2F5P2%2FbB1P4%2F2PB4%2F1K5R%20w%20-%20-%204%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [X2DDT](https://lichess.org/training/X2DDT), rated `1498`.
-The game is `Art2man (1692)` vs `BoombapHH (1701)` at `10+0` time control,
-with themes `crushing, opening, pin, trappedPiece, long`. You can [view the full game](https://lichess.org/wjHtE3Ch),
-and the first solution move is `d8h4`.
+It is `White to move` in puzzle [sDl5N](https://lichess.org/training/sDl5N), rated `1338`.
+The game is `schachmeister18 (2129)` vs `Iwan_Safar (2126)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/xckv5G9l),
+and the first solution move is `h5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
