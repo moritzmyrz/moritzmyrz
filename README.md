@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fpbp2pkp%2F3p2n1%2F1p6%2F2qPP3%2FP3BQ2%2F6PP%2FR4RK1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F5p1p%2FQ1p1pp2%2F3p4%2F3P4%2F2qb1N2%2FP4PPP%2F2R2RK1%20w%20-%20-%202%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5UwtF](https://lichess.org/training/5UwtF), rated `1561`.
-The game is `Cuatroceros (2002)` vs `pedone_dirompente (2026)` at `3+2` time control,
-with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/MOHimqK4),
-and the first solution move is `f3f6`.
+It is `White to move` in puzzle [wV3qb](https://lichess.org/training/wV3qb), rated `1549`.
+The game is `danipou (1795)` vs `bl1zz4rd (1717)` at `10+5` time control,
+with themes `middlegame, advantage, long`. You can [view the full game](https://lichess.org/iN2WiuHV),
+and the first solution move is `a6c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
