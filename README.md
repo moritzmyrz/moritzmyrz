@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fppp2ppp%2F2nbpn2%2Fq5Bb%2F8%2FP1NP1N1P%2F1PP1BPP1%2FR2Q1RK1%20b%20kq%20-%202%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp4p1%2F2p3R1%2F3p4%2FP6p%2F1P1P3P%2F2P5%2F5qRK%20b%20-%20-%2023%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ZBThv](https://lichess.org/training/ZBThv), rated `1357`.
-The game is `Aces-15 (1665)` vs `IvanVetPro (1680)` at `10+0` time control,
-with themes `capturingDefender, advantage, long, middlegame`. You can [view the full game](https://lichess.org/cemgxL8L),
-and the first solution move is `h5f3`.
+It is `Black to move` in puzzle [Le3lu](https://lichess.org/training/Le3lu), rated `1333`.
+The game is `DavidShotter (1788)` vs `JuliaDerKek (1793)` at `10+0` time control,
+with themes `endgame, oneMove, mateIn1, queenRookEndgame`. You can [view the full game](https://lichess.org/6PkoAL7R),
+and the first solution move is `f1h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
