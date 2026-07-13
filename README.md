@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2kb1r%2F5ppp%2Fp7%2F1p2p3%2F3pP3%2F1PqQ1P2%2F2P2BPP%2F2KR1B1R%20b%20k%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1kr5%2Fp1p2p2%2FBpP4p%2F4N1p1%2F8%2F8%2FqPP2P1P%2F2K1R3%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GMo9z](https://lichess.org/training/GMo9z), rated `1365`.
-The game is `verystrongplayer3000 (1973)` vs `jack900 (2031)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/WifTjmkp),
-and the first solution move is `f8a3`.
+It is `White to move` in puzzle [OvIn3](https://lichess.org/training/OvIn3), rated `1326`.
+The game is `Alliccon (1686)` vs `abomostafa71 (1658)` at `3+2` time control,
+with themes `short, queensideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/wN7l4NtG),
+and the first solution move is `e5d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
