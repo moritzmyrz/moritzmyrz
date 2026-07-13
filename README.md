@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p4pp%2Fp4p2%2FR4P2%2F1Pkr2P1%2FP2pK2P%2F5P2%2F8%20w%20-%20-%202%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1q1r1b1r%2F1k6%2F1p2Qp2%2FpP1n3p%2F3P2pN%2F1PPn2P1%2F5P1P%2FR1B2RK1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lYQ7A](https://lichess.org/training/lYQ7A), rated `1289`.
-The game is `Sam0596 (2163)` vs `supersmurf999 (2135)` at `3+2` time control,
-with themes `endgame, crushing, rookEndgame, deflection, veryLong`. You can [view the full game](https://lichess.org/ZBBlVIVD),
-and the first solution move is `a5c5`.
+It is `White to move` in puzzle [6o3Yp](https://lichess.org/training/6o3Yp), rated `1551`.
+The game is `RadicBosko77 (1991)` vs `Srisha (2032)` at `3+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/6UH71RkR),
+and the first solution move is `e6c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
