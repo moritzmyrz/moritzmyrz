@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1kr5%2Fp1p2p2%2FBpP4p%2F4N1p1%2F8%2F8%2FqPP2P1P%2F2K1R3%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2r1k%2F1p1n1pp1%2F4p2p%2Fp2p4%2F3P4%2FP4N2%2F1qR1QPPP%2F2R3K1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OvIn3](https://lichess.org/training/OvIn3), rated `1326`.
-The game is `Alliccon (1686)` vs `abomostafa71 (1658)` at `3+2` time control,
-with themes `short, queensideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/wN7l4NtG),
-and the first solution move is `e5d7`.
+It is `White to move` in puzzle [DgO1e](https://lichess.org/training/DgO1e), rated `1465`.
+The game is `LUC1971 (1811)` vs `Ali_Diamond77 (1805)` at `10+5` time control,
+with themes `short, defensiveMove, advantage, middlegame`. You can [view the full game](https://lichess.org/U2bZ31hY),
+and the first solution move is `c2b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
