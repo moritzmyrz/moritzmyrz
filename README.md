@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F2p1qp2%2Fp4n1p%2F1p1r2p1%2F3Np3%2FPP4P1%2F1PQ2PP1%2F3RR1K1%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F2p2ppp%2Fp7%2FQ2bP2q%2F5B2%2F7P%2FPPP3P1%2FR4R1K%20b%20kq%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pht4D](https://lichess.org/training/pht4D), rated `1462`.
-The game is `CECT (1953)` vs `fabiocate (1985)` at `10+0` time control,
-with themes `fork, short, advantage, middlegame`. You can [view the full game](https://lichess.org/BzoZNiNp),
-and the first solution move is `d4c6`.
+It is `Black to move` in puzzle [rxlF5](https://lichess.org/training/rxlF5), rated `1362`.
+The game is `DoctorChah (1846)` vs `antonff (1824)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/8jByVzKh),
+and the first solution move is `h5h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
