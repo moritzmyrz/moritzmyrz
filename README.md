@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k1nr%2Fpp2b1pp%2F4pp2%2F4P3%2F2qrNBb1%2F5N2%2FPP4PP%2FR2Q1RK1%20w%20k%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k4%2Fppp4p%2F5p2%2F4n1p1%2F4P3%2F2P1b3%2FPP2K1BP%2FR4Nr1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IQMUW](https://lichess.org/training/IQMUW), rated `1602`.
-The game is `salchak17rus (1955)` vs `Kiyoshi_Murakami (1949)` at `3+0` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/oIbNuypK),
-and the first solution move is `d1d4`.
+It is `White to move` in puzzle [wOqfn](https://lichess.org/training/wOqfn), rated `1590`.
+The game is `Donald_777 (1933)` vs `skalper82 (1861)` at `10+0` time control,
+with themes `endgame, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/1i91rROi),
+and the first solution move is `a1d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
