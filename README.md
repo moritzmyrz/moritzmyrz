@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2F1p1Nbp2%2Fnnp3p1%2Fp6p%2F2P5%2FP5BB%2F1P4PP%2FR2R2K1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F2q2ppp%2F4p3%2F3pP3%2F1Q1n4%2F3N3P%2FPP3PP1%2FR5K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xu5NH](https://lichess.org/training/xu5NH), rated `1551`.
-The game is `Kaba-Siti (1929)` vs `TrulyTheBest (1889)` at `10+0` time control,
-with themes `hangingPiece, advantage, long, middlegame`. You can [view the full game](https://lichess.org/KgQ0tDUi),
-and the first solution move is `d7b6`.
+It is `Black to move` in puzzle [666rc](https://lichess.org/training/666rc), rated `1591`.
+The game is `Harold141718 (2206)` vs `KillerATZE45 (2239)` at `3+0` time control,
+with themes `long, advantage, fork, endgame`. You can [view the full game](https://lichess.org/aNgwExEL),
+and the first solution move is `d4c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
