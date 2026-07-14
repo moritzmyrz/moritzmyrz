@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F2q2pp1%2F4p1N1%2Fpppn4%2F3P4%2FP1P4Q%2F1P3PPP%2FR3R1K1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F5ppb%2Fp1pp3p%2F5P2%2F2BQP1Pq%2FPP4bP%2F1BP3K1%2FR2R4%20b%20-%20-%203%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uiumk](https://lichess.org/training/uiumk), rated `1441`.
-The game is `KarpovEA (1830)` vs `LoathsomeSoul (1903)` at `10+5` time control,
-with themes `middlegame`. You can [view the full game](https://lichess.org/C9iU7bai),
-and the first solution move is `f7g6`.
+It is `Black to move` in puzzle [LggW8](https://lichess.org/training/LggW8), rated `1487`.
+The game is `Theonewithpower (1600)` vs `Noisillon (1611)` at `3+2` time control,
+with themes `middlegame, advantage, long`. You can [view the full game](https://lichess.org/4e0GmNPi),
+and the first solution move is `g3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
