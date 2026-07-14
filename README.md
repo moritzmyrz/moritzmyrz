@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5r1%2F1p2qp1k%2F2p3pp%2F1p1b4%2F1P3Q2%2FP4PR1%2F1B3P1P%2F6RK%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2F3R1ppp%2Fp3p3%2FQp6%2F8%2F2q2N2%2FPn3PPP%2FR5K1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ElVA3](https://lichess.org/training/ElVA3), rated `1347`.
-The game is `VladimirJuice (1990)` vs `hooponopono (2025)` at `5+5` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/N8pphfBF),
-and the first solution move is `f4h6`.
+It is `White to move` in puzzle [b0Qxi](https://lichess.org/training/b0Qxi), rated `1543`.
+The game is `Repalov (1802)` vs `Umwelt007 (1786)` at `10+0` time control,
+with themes `deflection, middlegame, short, advantage`. You can [view the full game](https://lichess.org/SGJzcGzj),
+and the first solution move is `d7d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
