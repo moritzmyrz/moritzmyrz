@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k1r1r1%2Fp1pq1p2%2F1p1pbB1p%2F2b1n3%2FQ1P5%2F3P2P1%2FPP2PPBP%2FR3K2R%20w%20KQ%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r3k1%2F1p3ppp%2F1p3n2%2F8%2Fb2NP3%2FP2B1P2%2F1P2R1PP%2F4R2K%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SRSEA](https://lichess.org/training/SRSEA), rated `1435`.
-The game is `yazan454 (1580)` vs `fajia (1580)` at `30+0` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/TKvy1DHq),
-and the first solution move is `a4a6`.
+It is `Black to move` in puzzle [NSKX9](https://lichess.org/training/NSKX9), rated `1541`.
+The game is `Bruce_lee13 (2173)` vs `jarnott (2293)` at `3+0` time control,
+with themes `advantage, short, middlegame, master`. You can [view the full game](https://lichess.org/AzkrRYaA),
+and the first solution move is `c8d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
