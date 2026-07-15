@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2R3k1%2F6p1%2F3B3p%2F8%2F3b4%2F6P1%2FP4r1P%2F6K1%20b%20-%20-%203%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp2r4%2F1p2k3%2F1P1p2PP%2FP1p5%2F1nK2B2%2F2R5%20w%20-%20-%201%2054&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [LnFGu](https://lichess.org/training/LnFGu), rated `1452`.
-The game is `eyeangel2 (2040)` vs `Sfide_Mentali (1992)` at `10+0` time control,
-with themes `endgame, short, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/UAtrM4KP),
-and the first solution move is `f2f8`.
+It is `White to move` in puzzle [QjWHy](https://lichess.org/training/QjWHy), rated `1437`.
+The game is `Leonid19502 (1868)` vs `phoenixkks (1950)` at `10+5` time control,
+with themes `endgame, short, advantage, skewer`. You can [view the full game](https://lichess.org/U5yC48js),
+and the first solution move is `f2g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
