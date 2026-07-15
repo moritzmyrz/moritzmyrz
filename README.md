@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F3q2p1%2Fp4p1p%2FPp6%2F1P1pP3%2F3PnN1P%2F3Q1KP1%2F2R5%20w%20-%20-%201%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N5k1%2F1p5p%2F2np3r%2Fp1b1p3%2F2P5%2FP2PP1Qq%2F1P3P2%2F1R3RK1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [heyUr](https://lichess.org/training/heyUr), rated `1519`.
-The game is `jaquepapito (2356)` vs `onenahmen (2414)` at `3+2` time control,
-with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/rSLyKcHW),
-and the first solution move is `c1c8`.
+It is `Black to move` in puzzle [wMeL5](https://lichess.org/training/wMeL5), rated `1524`.
+The game is `mtatar (2348)` vs `Renehp (2341)` at `5+0` time control,
+with themes `short, crushing, pin, defensiveMove, master, middlegame`. You can [view the full game](https://lichess.org/139mUPNn),
+and the first solution move is `h6g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
