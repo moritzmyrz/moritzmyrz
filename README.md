@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5R2%2F6p1%2F8%2F1R6%2F1P2kP1K%2FP4rrP%2F8%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr3%2Fppp3pk%2F6Np%2F2P5%2F3n2b1%2FP2Qp3%2F1P6%2F5RK1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HM2jp](https://lichess.org/training/HM2jp), rated `1404`.
-The game is `Freelosophy (1758)` vs `The_Machine1005 (1753)` at `3+0` time control,
-with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/e0kfQfjK),
-and the first solution move is `g2h2`.
+It is `White to move` in puzzle [psYUW](https://lichess.org/training/psYUW), rated `1529`.
+The game is `dw1828 (1689)` vs `Waldwurm (1934)` at `6+6` time control,
+with themes `mateIn2, middlegame, short, discoveredCheck, doubleCheck`. You can [view the full game](https://lichess.org/pTIbEFqh),
+and the first solution move is `g6f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
