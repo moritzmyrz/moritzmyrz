@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2N3bk%2F3p4%2F3P1n2%2F4KB2%2F7p%2FP7%2F8%20b%20-%20-%203%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5R2%2F6p1%2F8%2F1R6%2F1P2kP1K%2FP4rrP%2F8%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9M5FQ](https://lichess.org/training/9M5FQ), rated `1587`.
-The game is `mostrovski (2560)` vs `yanvar (2570)` at `3+0` time control,
-with themes `veryLong, endgame, advancedPawn, master, crushing, sacrifice, promotion`. You can [view the full game](https://lichess.org/8jEfzaLy),
-and the first solution move is `g7e5`.
+It is `Black to move` in puzzle [HM2jp](https://lichess.org/training/HM2jp), rated `1404`.
+The game is `Freelosophy (1758)` vs `The_Machine1005 (1753)` at `3+0` time control,
+with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/e0kfQfjK),
+and the first solution move is `g2h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
