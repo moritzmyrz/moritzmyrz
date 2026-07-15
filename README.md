@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2Fpp3ppp%2F2p2q2%2F3pb3%2F8%2F1P1B4%2FP1PNQPPP%2FR1B1R1K1%20b%20-%20-%201%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp4pp%2F3N4%2F1Pp2p2%2F2Pb4%2FP2K2kP%2F8%2F8%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lT7kE](https://lichess.org/training/lT7kE), rated `1289`.
-The game is `lucas8670 (1829)` vs `josemanuelquesada271 (1760)` at `3+0` time control,
-with themes `short, advantage, opening, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/cSa4type),
-and the first solution move is `e5h2`.
+It is `White to move` in puzzle [bkUSL](https://lichess.org/training/bkUSL), rated `1457`.
+The game is `mo_mido_3000 (1906)` vs `Loravyn_Thesis (2042)` at `10+5` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/b5atObFy),
+and the first solution move is `d6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
