@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1p1bbppp%2Fp2p1n2%2F3Nn1B1%2F3NP3%2FPB6%2F1PP3PP%2FR2Q1RK1%20b%20-%20-%202%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1p6%2FpQ6%2F8%2F1N2P3%2F4K1Pp%2FPP5P%2F3q4%20b%20-%20-%206%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [veNRe](https://lichess.org/training/veNRe), rated `1597`.
-The game is `MohamedAzmyJR (1712)` vs `Gasto0 (1715)` at `10+0` time control,
-with themes `opening, advantage, short`. You can [view the full game](https://lichess.org/5vQ6jCSn),
-and the first solution move is `f6d5`.
+It is `Black to move` in puzzle [1t4yE](https://lichess.org/training/1t4yE), rated `1373`.
+The game is `ClubBacau0735520875 (1869)` vs `dukado (1734)` at `10+0` time control,
+with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/kWfxc5m6),
+and the first solution move is `d1g1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
