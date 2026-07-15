@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr3%2Fpk6%2F1p2Qp1p%2F3p4%2F2p5%2Fq1P5%2F2P2PPP%2F1R1KR3%20w%20-%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F1b3pk1%2Fp5rp%2F1pQ2P2%2F8%2FPB1P3P%2F1PP3P1%2F5RK1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vruRn](https://lichess.org/training/vruRn), rated `1399`.
-The game is `Abcd1971 (1884)` vs `Kkikkin (1944)` at `3+0` time control,
-with themes `endgame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/2JmXeDUE),
-and the first solution move is `e6f7`.
+It is `Black to move` in puzzle [aOOX6](https://lichess.org/training/aOOX6), rated `1441`.
+The game is `KaushikRotion (1614)` vs `posterado (1617)` at `15+15` time control,
+with themes `endgame, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/eh1wxUI6),
+and the first solution move is `g6g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
