@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fp4ppp%2F1p6%2F8%2F3P4%2F4nqBP%2FPP1Q1P2%2FR3R1K1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2Fpp3ppp%2F2p2q2%2F3pb3%2F8%2F1P1B4%2FP1PNQPPP%2FR1B1R1K1%20b%20-%20-%201%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Hu2pD](https://lichess.org/training/Hu2pD), rated `1408`.
-The game is `SeveN1717 (1603)` vs `Shuaib2000 (1601)` at `10+0` time control,
-with themes `middlegame, crushing, long`. You can [view the full game](https://lichess.org/37MmpEpO),
-and the first solution move is `e1e3`.
+It is `Black to move` in puzzle [lT7kE](https://lichess.org/training/lT7kE), rated `1289`.
+The game is `lucas8670 (1829)` vs `josemanuelquesada271 (1760)` at `3+0` time control,
+with themes `short, advantage, opening, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/cSa4type),
+and the first solution move is `e5h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
