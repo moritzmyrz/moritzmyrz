@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1p1n2pp%2Fp2k4%2F2p5%2F2PbQ3%2F8%2FPP3rPP%2F1K1R4%20w%20-%20-%204%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2F5pp1%2Fp7%2F1pBP3p%2F1P2PbN1%2F6qP%2FP5P1%2FQ2R1RK1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [o33m9](https://lichess.org/training/o33m9), rated `1606`.
-The game is `Frontovik242 (2009)` vs `mindfull1190 (2023)` at `3+2` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/BOXc32Y9),
-and the first solution move is `d1d4`.
+It is `Black to move` in puzzle [0pq6o](https://lichess.org/training/0pq6o), rated `1560`.
+The game is `Argent_02 (2044)` vs `carlos_canedo (2094)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/dFZLqBgn),
+and the first solution move is `h5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
