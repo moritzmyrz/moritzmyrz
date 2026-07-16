@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F4r1pp%2Fpp1NP3%2F3p1PP1%2F8%2F4R1K1%2FPP6%2F8%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2FpQp3pp%2F3b1p2%2Fn3p3%2F2P4B%2F2P2N2%2FP1q2PPP%2F2R1R1K1%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XBEQW](https://lichess.org/training/XBEQW), rated `1312`.
-The game is `Surga_dunia37 (1804)` vs `Lz_Hmar (1812)` at `10+0` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/uzDwtqMH),
-and the first solution move is `f5f6`.
+It is `Black to move` in puzzle [ZNmX3](https://lichess.org/training/ZNmX3), rated `1463`.
+The game is `frigi (1712)` vs `arnodag (1806)` at `5+6` time control,
+with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/wZxAnC3l),
+and the first solution move is `c2c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
