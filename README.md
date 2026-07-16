@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fpp6%2F2p5%2FP1PP4%2F8%2F3p4%2F1K6%2F8%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5p1p%2F4p1P1%2F4P3%2F6Q1%2FPp3N2%2F1Pq5%2FKR6%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [I1fEO](https://lichess.org/training/I1fEO), rated `1427`.
-The game is `hovhkas (1835)` vs `hastybonaby (1861)` at `3+0` time control,
-with themes `long, crushing, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/VE59bqCj),
-and the first solution move is `d5d6`.
+It is `Black to move` in puzzle [1soIJ](https://lichess.org/training/1soIJ), rated `1484`.
+The game is `JoaoTejo (1932)` vs `dooomy (2094)` at `5+0` time control,
+with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/kHvOkPt8),
+and the first solution move is `c2b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
