@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F8%2F4b2p%2F1PP1p1Q1%2F7P%2Fr4qP1%2F3R3K%20w%20-%20-%200%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F4r1pp%2Fpp1NP3%2F3p1PP1%2F8%2F4R1K1%2FPP6%2F8%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [biJml](https://lichess.org/training/biJml), rated `1434`.
-The game is `Muhammad7Rayyan (1820)` vs `Jahanzaib0786 (2158)` at `2+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/KsSTK2a6),
-and the first solution move is `d1d8`.
+It is `White to move` in puzzle [XBEQW](https://lichess.org/training/XBEQW), rated `1312`.
+The game is `Surga_dunia37 (1804)` vs `Lz_Hmar (1812)` at `10+0` time control,
+with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/uzDwtqMH),
+and the first solution move is `f5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
