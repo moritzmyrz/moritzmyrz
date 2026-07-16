@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2FP6k%2F4Pp2%2F1P1pbP2%2FR7%2F2r1BKP1%2F8%20b%20-%20-%202%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fppqnbp2%2F2p4p%2F4p3%2F2B5%2F2PQ1N2%2FP1P2PPP%2F3R1RK1%20w%20-%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1gBcY](https://lichess.org/training/1gBcY), rated `1439`.
-The game is `Amadeo1935 (1996)` vs `Guille783 (2031)` at `10+3` time control,
-with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/oul9PhQY),
-and the first solution move is `d4d3`.
+It is `White to move` in puzzle [UOlQW](https://lichess.org/training/UOlQW), rated `1598`.
+The game is `DailanDrrogba (2007)` vs `SargentoPimienta (2081)` at `10+5` time control,
+with themes `middlegame, short, crushing, kingsideAttack, pin`. You can [view the full game](https://lichess.org/O9OiS3LY),
+and the first solution move is `d3g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
