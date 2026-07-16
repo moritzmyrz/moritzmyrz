@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p4pp%2F1q2p3%2Fp2pN3%2FP2P4%2F2P5%2F1P3QPP%2F6K1%20w%20-%20-%201%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5n1%2Fbpp2pk1%2Fp4r1p%2F4p2P%2F4P3%2F1PP2Q1R%2F1P2KPP1%2F8%20w%20-%20-%204%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fSgfV](https://lichess.org/training/fSgfV), rated `1415`.
-The game is `Mathimontoya201a (1707)` vs `BonjohnHao (1713)` at `3+0` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/bahmrPkX),
-and the first solution move is `f2f8`.
+It is `White to move` in puzzle [l7rfH](https://lichess.org/training/l7rfH), rated `1390`.
+The game is `KilicNurullah56 (2329)` vs `mgod73 (2346)` at `3+2` time control,
+with themes `endgame, long, crushing`. You can [view the full game](https://lichess.org/FTQUQsJh),
+and the first solution move is `h3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
