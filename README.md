@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1p2p2%2F1p2pP2%2F3q2pP%2F8%2F5R1Q%2FP6P%2F6RK%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3n4%2F2p1k3%2F4P3%2F4KP1p%2FB7%2F8%20w%20-%20-%200%2061&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CqXWb](https://lichess.org/training/CqXWb), rated `1529`.
-The game is `cheeky (2131)` vs `Ranchoolaughter (2115)` at `10+0` time control,
-with themes `endgame, crushing, attraction, long, sacrifice, pin`. You can [view the full game](https://lichess.org/BZUQmVB0),
-and the first solution move is `g1g5`.
+It is `White to move` in puzzle [aKPmj](https://lichess.org/training/aKPmj), rated `1391`.
+The game is `Knight_Avengers (2002)` vs `bozonxx (2014)` at `3+2` time control,
+with themes `veryLong, endgame, crushing, fork, defensiveMove`. You can [view the full game](https://lichess.org/UBoguTsL),
+and the first solution move is `f3f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
