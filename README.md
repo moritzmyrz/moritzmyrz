@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2F2Q3R1%2F1p5p%2F1Pp1Pp2%2FP1B2P2%2F6PK%2F3r3P%2F3q4%20b%20-%20-%206%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2Fp3ppbp%2F4bnp1%2F1p1qN3%2F2pP4%2F4P1Q1%2F1P1NBPPP%2FR1B1K2R%20w%20KQ%20-%204%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [eswCN](https://lichess.org/training/eswCN), rated `1548`.
-The game is `argaeon (1877)` vs `YayansAlfarezqi (1841)` at `10+0` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/aw2Jhguk),
-and the first solution move is `d1h5`.
+It is `White to move` in puzzle [In4Lv](https://lichess.org/training/In4Lv), rated `1387`.
+The game is `nihilistiq (2515)` vs `BigH (2491)` at `3+0` time control,
+with themes `short, masterVsMaster, crushing, skewer, master, middlegame`. You can [view the full game](https://lichess.org/FGENKN1Y),
+and the first solution move is `e2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
