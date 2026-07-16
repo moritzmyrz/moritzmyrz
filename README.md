@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5p1p%2F4p1P1%2F4P3%2F6Q1%2FPp3N2%2F1Pq5%2FKR6%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3k4%2F1R6%2FPKPq4%2F8%2F8%2F8%20w%20-%20-%201%2053&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1soIJ](https://lichess.org/training/1soIJ), rated `1484`.
-The game is `JoaoTejo (1932)` vs `dooomy (2094)` at `5+0` time control,
-with themes `short, attraction, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/kHvOkPt8),
-and the first solution move is `c2b1`.
+It is `White to move` in puzzle [fCGzK](https://lichess.org/training/fCGzK), rated `1491`.
+The game is `Just_ola (1644)` vs `panosch2490 (1673)` at `3+0` time control,
+with themes `veryLong, endgame, crushing, fork, queenRookEndgame, defensiveMove`. You can [view the full game](https://lichess.org/OoFO59Z1),
+and the first solution move is `b5d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
