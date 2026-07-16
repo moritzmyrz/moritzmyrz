@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5kp%2F2pp2p1%2F8%2F4P1nq%2F6N1%2FPPP2Q1P%2F6K1%20w%20-%20-%203%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F2qb1ppp%2F3p4%2Fp7%2F1pB1R3%2F1P5P%2FPb1Q1PP1%2F2R3K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [sgRFD](https://lichess.org/training/sgRFD), rated `1471`.
-The game is `VaanGogh (1790)` vs `kuba1510 (1867)` at `15+15` time control,
-with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/TQCcGTTf),
-and the first solution move is `g3f5`.
+It is `White to move` in puzzle [4wchX](https://lichess.org/training/4wchX), rated `1566`.
+The game is `JustoTriana (2424)` vs `wfAnasta (2339)` at `5+0` time control,
+with themes `crushing, long, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/454qRJmQ),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
