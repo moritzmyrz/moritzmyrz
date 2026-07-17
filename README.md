@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpppk4%2F4p2p%2F6b1%2F3Pb3%2FP1PN4%2FKP2B3%2F8%20w%20-%20-%205%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F1bp4p%2F1p2p2q%2F3p4%2F1P1PPr1N%2Fp1P4Q%2FP5PP%2F2B3K1%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [t4UvQ](https://lichess.org/training/t4UvQ), rated `1412`.
-The game is `rezababaee1320 (1903)` vs `WilberCuba (1878)` at `10+5` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/NbTwSzoC),
-and the first solution move is `d3c5`.
+It is `White to move` in puzzle [81Q7p](https://lichess.org/training/81Q7p), rated `1353`.
+The game is `DanielPasholok (2003)` vs `Olympus4 (1954)` at `3+0` time control,
+with themes `middlegame, crushing, attraction, long, pin`. You can [view the full game](https://lichess.org/X9ncT1k4),
+and the first solution move is `c1f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
