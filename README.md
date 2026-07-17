@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2FpB3p1p%2F1p1p2p1%2F8%2F2p5%2F1P1PP1P1%2FP6P%2F6K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp6%2F5kp1%2F2P2nR1%2F5P2%2F2P1r1P1%2FPP3K2%2F8%20w%20-%20-%203%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Je4yG](https://lichess.org/training/Je4yG), rated `1415`.
-The game is `Helaitl (2041)` vs `sotolagg_reformed (1881)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/QgABccj4),
-and the first solution move is `c4c3`.
+It is `White to move` in puzzle [Xe98k](https://lichess.org/training/Xe98k), rated `1316`.
+The game is `LukSerre (2050)` vs `cris4mate (1760)` at `10+0` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/ABy7uVZW),
+and the first solution move is `g5f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
