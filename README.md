@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppp3p1%2F5n2%2F3p3p%2F8%2FN1PBP1qP%2FPP4Q1%2FR4RK1%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2r1R2P%2Fp7%2F4b1p1%2F6k1%2F8%2F8%2F6K1%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [eyM1I](https://lichess.org/training/eyM1I), rated `1400`.
-The game is `alekc1 (1571)` vs `Harisali1009 (1576)` at `5+0` time control,
-with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/HEOYdy64),
-and the first solution move is `g3e3`.
+It is `White to move` in puzzle [SBea4](https://lichess.org/training/SBea4), rated `1366`.
+The game is `NKiss (2368)` vs `Satranc_Ilkeleri (2418)` at `5+0` time control,
+with themes `endgame, advancedPawn, master, short, crushing, promotion`. You can [view the full game](https://lichess.org/7XmSlGTI),
+and the first solution move is `e7c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
