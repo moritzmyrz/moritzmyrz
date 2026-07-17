@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2r1R2P%2Fp7%2F4b1p1%2F6k1%2F8%2F8%2F6K1%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1rk2%2F3p1p1p%2Fb5p1%2F8%2F3n4%2F2N5%2FPPPK1PPP%2FR1B1R3%20b%20-%20-%205%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [SBea4](https://lichess.org/training/SBea4), rated `1366`.
-The game is `NKiss (2368)` vs `Satranc_Ilkeleri (2418)` at `5+0` time control,
-with themes `endgame, advancedPawn, master, short, crushing, promotion`. You can [view the full game](https://lichess.org/7XmSlGTI),
-and the first solution move is `e7c7`.
+It is `Black to move` in puzzle [hXljJ](https://lichess.org/training/hXljJ), rated `1438`.
+The game is `Bubbastic (1825)` vs `Algamo (1739)` at `10+0` time control,
+with themes `middlegame, advantage, attraction, fork, long`. You can [view the full game](https://lichess.org/fxYK71Iz),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
