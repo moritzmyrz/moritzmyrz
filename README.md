@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F6pp%2F8%2F2pP1p2%2F2P2q2%2F1P6%2F3Q2PP%2F2KRR3%20b%20-%20-%205%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F5pk1%2F3r1qpp%2F2Q5%2F8%2F6P1%2F5PKP%2F8%20w%20-%20-%202%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8tXx0](https://lichess.org/training/8tXx0), rated `1431`.
-The game is `K9ht (1665)` vs `serger1974 (1664)` at `3+2` time control,
-with themes `exposedKing, deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/GFe0nP6p),
-and the first solution move is `a8a1`.
+It is `White to move` in puzzle [xt48w](https://lichess.org/training/xt48w), rated `1454`.
+The game is `d11021985 (2161)` vs `Victor137 (2245)` at `10+0` time control,
+with themes `long, crushing, quietMove, endgame`. You can [view the full game](https://lichess.org/t7H53yDk),
+and the first solution move is `c5c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
