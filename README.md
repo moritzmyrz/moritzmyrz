@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F7p%2F5b2%2F7B%2FppK5%2F4P3%2FP4PPP%2F8%20b%20-%20-%201%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k7%2Fp3RQp1%2Fqpb2p2%2F8%2F7P%2F6B1%2F1P3PPK%2F3r4%20b%20-%20-%203%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [kxRoc](https://lichess.org/training/kxRoc), rated `1302`.
-The game is `valeriyh (2066)` vs `yuric1 (2059)` at `2+1` time control,
-with themes `endgame, advancedPawn, advantage, long, bishopEndgame`. You can [view the full game](https://lichess.org/v1yY36OB),
-and the first solution move is `b4b3`.
+It is `Black to move` in puzzle [ZGN86](https://lichess.org/training/ZGN86), rated `1546`.
+The game is `StanislavNovikov (2773)` vs `UnpredictableLaddie (2823)` at `3+0` time control,
+with themes `endgame, master, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/S5nLN3Z3),
+and the first solution move is `d1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
