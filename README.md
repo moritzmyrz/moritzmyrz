@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F6p1%2Fp2q3p%2F1p2Q3%2F2p5%2F2P3RP%2F6PK%2F8%20w%20-%20-%204%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1bp4p%2Fp1p1p1p1%2F8%2F2NPp2P%2F2P2Q2%2FPq3PP1%2FR3K2R%20w%20KQ%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cGYog](https://lichess.org/training/cGYog), rated `1500`.
-The game is `Blackswood (2214)` vs `Albert_Dillak (2197)` at `3+0` time control,
-with themes `master, endgame`. You can [view the full game](https://lichess.org/xPDAOGpE),
-and the first solution move is `e5g7`.
+It is `White to move` in puzzle [LEJua](https://lichess.org/training/LEJua), rated `1461`.
+The game is `berkbelen (1645)` vs `Hargo04 (1665)` at `10+0` time control,
+with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/OvGsiqDe),
+and the first solution move is `f3f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
