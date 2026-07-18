@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F6k1%2F1PPQ2pp%2Fp3p3%2FN7%2F8%2F5PPP%2F6K1%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2Fp4p1p%2F4k3%2F3b2P1%2F1P1K1P2%2F1P2B3%2F8%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VmrWt](https://lichess.org/training/VmrWt), rated `1522`.
-The game is `Cavallo_Goloso (2060)` vs `Kakeri (2078)` at `2+1` time control,
-with themes `advantage, veryLong, endgame`. You can [view the full game](https://lichess.org/3P2i5j9A),
-and the first solution move is `d8d6`.
+It is `White to move` in puzzle [rcUzK](https://lichess.org/training/rcUzK), rated `1338`.
+The game is `Chessfamil200 (2336)` vs `EDGARDZANETTE (2317)` at `5+0` time control,
+with themes `endgame, master, crushing, bishopEndgame, deflection, veryLong`. You can [view the full game](https://lichess.org/UntD9OmR),
+and the first solution move is `f3f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
