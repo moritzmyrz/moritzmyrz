@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=k7%2Fp3RQp1%2Fqpb2p2%2F8%2F7P%2F6B1%2F1P3PPK%2F3r4%20b%20-%20-%203%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F6k1%2F1PPQ2pp%2Fp3p3%2FN7%2F8%2F5PPP%2F6K1%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ZGN86](https://lichess.org/training/ZGN86), rated `1546`.
-The game is `StanislavNovikov (2773)` vs `UnpredictableLaddie (2823)` at `3+0` time control,
-with themes `endgame, master, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/S5nLN3Z3),
-and the first solution move is `d1h1`.
+It is `Black to move` in puzzle [VmrWt](https://lichess.org/training/VmrWt), rated `1522`.
+The game is `Cavallo_Goloso (2060)` vs `Kakeri (2078)` at `2+1` time control,
+with themes `advantage, veryLong, endgame`. You can [view the full game](https://lichess.org/3P2i5j9A),
+and the first solution move is `d8d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
