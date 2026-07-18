@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F7p%2F8%2F6R1%2F2pB1n2%2F2P2P2%2F2r5%2F5K2%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F8%2Fp3pp1p%2F1p1q2p1%2F1P1n1P2%2FP4N1P%2F2Q3PK%2F8%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xT10U](https://lichess.org/training/xT10U), rated `1336`.
-The game is `Lambo1966 (2220)` vs `SunSay_HP (2350)` at `3+0` time control,
-with themes `exposedKing, endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/vTHneQar),
-and the first solution move is `c2c1`.
+It is `White to move` in puzzle [l9BAW](https://lichess.org/training/l9BAW), rated `1573`.
+The game is `tonyjacl (1762)` vs `mufasa (1819)` at `5+8` time control,
+with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/I2HPgi2Q),
+and the first solution move is `c2g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
