@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2F1bp4p%2Fp1p1p1p1%2F8%2F2NPp2P%2F2P2Q2%2FPq3PP1%2FR3K2R%20w%20KQ%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1pr1n1pp%2Fp2q1p2%2F4pP1Q%2F3p4%2FPB1R4%2F1PP2PPP%2F4R1K1%20w%20-%20-%2014%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [LEJua](https://lichess.org/training/LEJua), rated `1461`.
-The game is `berkbelen (1645)` vs `Hargo04 (1665)` at `10+0` time control,
-with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/OvGsiqDe),
-and the first solution move is `f3f8`.
+It is `White to move` in puzzle [ClB6F](https://lichess.org/training/ClB6F), rated `1375`.
+The game is `hamedmselmi (2068)` vs `antonio1668 (2094)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/DVIUOuEl),
+and the first solution move is `h5h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
