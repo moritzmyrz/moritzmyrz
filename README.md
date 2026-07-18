@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2q2r1k%2F1b4p1%2Fp6p%2F8%2F3Q4%2F1BB4P%2FPPP3P1%2F6RK%20b%20-%20-%2014%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2F1bpp1pp1%2F1p5r%2F4P3%2F1P3P2%2F2qBQ3%2F2P3P1%2FR4RK1%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [F2MNn](https://lichess.org/training/F2MNn), rated `1341`.
-The game is `dhanishbuhari77 (1810)` vs `kumarasubramanian-s (1831)` at `10+0` time control,
-with themes `middlegame, oneMove, mateIn1, pin`. You can [view the full game](https://lichess.org/QPZVxznl),
-and the first solution move is `c8h3`.
+It is `White to move` in puzzle [pT0QN](https://lichess.org/training/pT0QN), rated `1490`.
+The game is `ezezorros (1718)` vs `Arasay (1806)` at `3+0` time control,
+with themes `middlegame, advantage, long, sacrifice, discoveredAttack`. You can [view the full game](https://lichess.org/5ZTmpoe2),
+and the first solution move is `a1a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
