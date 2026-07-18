@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F2q2r2%2F4Q1P1%2F4P3%2F8%2F1p6%2F2p2R2%2F6K1%20w%20-%20-%203%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F6p1%2Fp2q3p%2F1p2Q3%2F2p5%2F2P3RP%2F6PK%2F8%20w%20-%20-%204%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [M7iNx](https://lichess.org/training/M7iNx), rated `1495`.
-The game is `fezoGT (2255)` vs `pannaina_nogue (2223)` at `5+0` time control,
-with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/Rmi4NA6j),
-and the first solution move is `f2f7`.
+It is `White to move` in puzzle [cGYog](https://lichess.org/training/cGYog), rated `1500`.
+The game is `Blackswood (2214)` vs `Albert_Dillak (2197)` at `3+0` time control,
+with themes `master, endgame`. You can [view the full game](https://lichess.org/xPDAOGpE),
+and the first solution move is `e5g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
