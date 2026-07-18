@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2Fp2b1ppp%2F3p4%2F3P2q1%2F2PR4%2F1PN5%2FP5PP%2FR2Q2K1%20b%20-%20-%204%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R7%2F5pkp%2F4qp1N%2F2b1n1rQ%2F1p4P1%2F8%2F1P1N1P1P%2F6K1%20w%20-%20-%205%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Jr1si](https://lichess.org/training/Jr1si), rated `1349`.
-The game is `onyenunu (1967)` vs `svp1965 (1930)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/cOoCRceI),
-and the first solution move is `g5e3`.
+It is `White to move` in puzzle [2BHao](https://lichess.org/training/2BHao), rated `1340`.
+The game is `percell (1888)` vs `Premijer (1824)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/4FlXNHcd),
+and the first solution move is `a8g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
