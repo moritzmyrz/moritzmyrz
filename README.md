@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F1p3ppp%2Fp4n2%2Fq2BQ3%2F4P3%2F1P4P1%2FPB3K1P%2FR2R4%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2Fb1p2p2%2F2pp4%2Fp7%2FN1PBq3%2FPP2PQ1K%2F8%2FR4R2%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [opfQR](https://lichess.org/training/opfQR), rated `1263`.
-The game is `orenlivne (2371)` vs `akun_joki (2308)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/703cLh5x),
-and the first solution move is `f6g4`.
+It is `Black to move` in puzzle [itwnQ](https://lichess.org/training/itwnQ), rated `1459`.
+The game is `Darihatiku (1897)` vs `rohmatt (2049)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/DOkNyb03),
+and the first solution move is `e4h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
