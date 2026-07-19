@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1b3p1p%2Fpp4pP%2F2qP2b1%2F5p2%2FP1N2B2%2F1P1Q2P1%2F4R2K%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkbnr%2Fpp3ppp%2F8%2F3pp3%2F3n2b1%2F2N2N2%2FPPP1QPPP%2FR1B1KB1R%20w%20KQkq%20-%200%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [PafNv](https://lichess.org/training/PafNv), rated `1384`.
-The game is `CAPUANA (1748)` vs `ansog (1754)` at `10+0` time control,
-with themes `fork, advantage, long, middlegame`. You can [view the full game](https://lichess.org/UiBnCJXM),
-and the first solution move is `c3e4`.
+It is `White to move` in puzzle [oXarM](https://lichess.org/training/oXarM), rated `1456`.
+The game is `forbys (1894)` vs `finquantwiz (1934)` at `3+0` time control,
+with themes `crushing, fork, long, opening`. You can [view the full game](https://lichess.org/KVNlhlLA),
+and the first solution move is `e2e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
