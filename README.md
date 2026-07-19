@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5p1%2F4p3%2F3pP2p%2F5P1P%2FK1P3k1%2F8%2F8%20w%20-%20-%200%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F1p3ppp%2Fp4n2%2Fq2BQ3%2F4P3%2F1P4P1%2FPB3K1P%2FR2R4%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [08G86](https://lichess.org/training/08G86), rated `1409`.
-The game is `Guslik3 (2147)` vs `double11 (2566)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/vD4abjzK),
-and the first solution move is `f4f5`.
+It is `Black to move` in puzzle [opfQR](https://lichess.org/training/opfQR), rated `1263`.
+The game is `orenlivne (2371)` vs `akun_joki (2308)` at `10+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/703cLh5x),
+and the first solution move is `f6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
