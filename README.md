@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R5n1%2F8%2Fp1rBp3%2F4P1P1%2Fk1pK4%2F3P4%2F8%2F8%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2b3rk%2F7n%2Fp2p1q2%2F1ppNnB2%2F4P3%2F7R%2FPPP2PrP%2F5R1K%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Drxcx](https://lichess.org/training/Drxcx), rated `1539`.
-The game is `JuanDLK (1767)` vs `MARXCP (1819)` at `10+0` time control,
-with themes `short, advantage, endgame`. You can [view the full game](https://lichess.org/sEEnkHxH),
-and the first solution move is `c4c3`.
+It is `White to move` in puzzle [l6DRN](https://lichess.org/training/l6DRN), rated `1340`.
+The game is `Abdulraqeb (1934)` vs `Desire10 (1874)` at `10+5` time control,
+with themes `middlegame, operaMate, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/x5GPCOzQ),
+and the first solution move is `h3h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
