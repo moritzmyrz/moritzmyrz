@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R2k1%2F1p2bppp%2FpNb1pn2%2F6q1%2F8%2F1N3Q2%2F1PP2PPP%2F4R1K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4k3%2F3p1RKp%2F3B4%2F4P2r%2F8%2F8%20b%20-%20-%200%2063&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Zlu3D](https://lichess.org/training/Zlu3D), rated `1344`.
-The game is `kyleromsygaco (2229)` vs `Faraon507 (2202)` at `3+2` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/fw0g7AZH),
-and the first solution move is `e7d8`.
+It is `Black to move` in puzzle [TdXoN](https://lichess.org/training/TdXoN), rated `1553`.
+The game is `zarofka (1590)` vs `PacureR11 (1665)` at `3+0` time control,
+with themes `long, crushing, endgame`. You can [view the full game](https://lichess.org/nl4qa1H4),
+and the first solution move is `h3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
