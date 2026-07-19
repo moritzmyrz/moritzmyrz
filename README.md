@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2F2p2pkp%2Fp2bpp2%2F1p6%2F4N1q1%2F6P1%2FPPP2P2%2F1K1R1Q1R%20w%20-%20-%204%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk1nr%2Fppp2pQ1%2F4p2p%2F2bpP3%2F3n1P2%2F3B4%2FPPP3PP%2FRNB2RK1%20b%20kq%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gsf7L](https://lichess.org/training/gsf7L), rated `1430`.
-The game is `Andrus_erk (1608)` vs `h3enk (1608)` at `5+3` time control,
-with themes `deflection, middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/yd9pCT40),
-and the first solution move is `h1h7`.
+It is `Black to move` in puzzle [8pdeV](https://lichess.org/training/8pdeV), rated `1419`.
+The game is `kirillzzz (1738)` vs `magzybogues1989 (1738)` at `10+0` time control,
+with themes `short, opening, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/sedVSBXs),
+and the first solution move is `d4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
