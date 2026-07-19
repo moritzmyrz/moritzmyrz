@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k5%2Fpp4p1%2F2p1p1N1%2F2Pq1p2%2F1P4n1%2FP3Q3%2F3r2P1%2F4R1K1%20w%20-%20-%205%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1b3p1p%2Fpp4pP%2F2qP2b1%2F5p2%2FP1N2B2%2F1P1Q2P1%2F4R2K%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RHp4S](https://lichess.org/training/RHp4S), rated `1378`.
-The game is `kudagoyang (2002)` vs `User452 (2070)` at `3+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/ISlRQhII),
-and the first solution move is `g6e7`.
+It is `White to move` in puzzle [PafNv](https://lichess.org/training/PafNv), rated `1384`.
+The game is `CAPUANA (1748)` vs `ansog (1754)` at `10+0` time control,
+with themes `fork, advantage, long, middlegame`. You can [view the full game](https://lichess.org/UiBnCJXM),
+and the first solution move is `c3e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
