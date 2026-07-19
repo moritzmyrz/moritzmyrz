@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2b2rk1%2FQ1p1qp2%2F1pP3pp%2F1P6%2F2B5%2F6P1%2F6PP%2F5RK1%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k2r2%2F1pp1R1pp%2Fp4r2%2F8%2FQ7%2F3P3q%2FPPP2P2%2F1K1R4%20w%20-%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MUOVG](https://lichess.org/training/MUOVG), rated `1399`.
-The game is `matzeeeeee (1714)` vs `Gapperdegap (1699)` at `10+0` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/USf8Q4NT),
-and the first solution move is `e7c5`.
+It is `White to move` in puzzle [vuIGy](https://lichess.org/training/vuIGy), rated `1311`.
+The game is `parisn2 (1817)` vs `senorajota (1795)` at `3+0` time control,
+with themes `short, queensideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/92XUs2m3),
+and the first solution move is `e7e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
