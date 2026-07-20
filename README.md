@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3q2bp%2F3PR1p1%2Fr1pQ1p2%2F1p1p1p2%2F3P1P2%2F1P3PKP%2F8%20w%20-%20-%203%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fppp2ppp%2F8%2F8%2F4P1nq%2F2NP1PP1%2FPP1B4%2FR2QK1NR%20b%20KQkq%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vJlos](https://lichess.org/training/vJlos), rated `1371`.
-The game is `alihussein205 (1896)` vs `js8888 (1924)` at `10+0` time control,
-with themes `short, crushing, advancedPawn, endgame`. You can [view the full game](https://lichess.org/ZZfCnXwy),
-and the first solution move is `e6e7`.
+It is `Black to move` in puzzle [bH3Yw](https://lichess.org/training/bH3Yw), rated `1381`.
+The game is `DinhNguyenQuynhNhu (1725)` vs `ivladimirb (1657)` at `3+2` time control,
+with themes `mateIn2, short, opening`. You can [view the full game](https://lichess.org/hJv9QJWp),
+and the first solution move is `h4g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
