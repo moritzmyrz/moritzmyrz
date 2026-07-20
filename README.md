@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2F5ppp%2F1Q6%2Fp2p4%2F8%2FPB2R3%2F1Pb2q2%2F2K1R3%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fppk1b3%2F2pqpnQp%2F6p1%2F1PBPp3%2F2P4P%2FP6P%2FR1B2RK1%20w%20-%20-%203%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [veHZZ](https://lichess.org/training/veHZZ), rated `1324`.
-The game is `valbernelle90 (1517)` vs `VictorHugoCalderon (1549)` at `5+3` time control,
-with themes `middlegame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/M5zwyU20),
-and the first solution move is `b6d8`.
+It is `White to move` in puzzle [EkRH2](https://lichess.org/training/EkRH2), rated `1425`.
+The game is `streetsummer (2064)` vs `drmagzy12 (2062)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/9lrq63iM),
+and the first solution move is `f1f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
