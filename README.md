@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1R5p%2FB5pk%2FP7%2F1Pb4P%2F2P3PK%2F4rq2%20w%20-%20-%203%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F3n2B1%2F6pP%2F3kp3%2F2p5%2F4K3%2F8%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fjYX1](https://lichess.org/training/fjYX1), rated `1350`.
-The game is `I_like_bad_girls (1918)` vs `Marquitos-Sensei (1909)` at `3+2` time control,
-with themes `deflection, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/GrSHdFtY),
-and the first solution move is `g2g4`.
+It is `White to move` in puzzle [d2TXS](https://lichess.org/training/d2TXS), rated `1483`.
+The game is `timt22 (1977)` vs `JohtoBoi (1982)` at `10+0` time control,
+with themes `veryLong, endgame, advancedPawn, crushing, promotion`. You can [view the full game](https://lichess.org/3PGlCVbH),
+and the first solution move is `h5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
