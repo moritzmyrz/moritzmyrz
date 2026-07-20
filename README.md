@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rq1k%2F2R3p1%2F7p%2Fp2p3P%2FPp1P2Q1%2F1P6%2F6P1%2F6K1%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3r1k%2Fp3p1bp%2F2pp2p1%2F8%2F2Q1P3%2F1Pq5%2FP1P3P1%2F1K1R3R%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [65l4I](https://lichess.org/training/65l4I), rated `1462`.
-The game is `Archer7205 (1770)` vs `gskovden (1666)` at `5+0` time control,
-with themes `endgame, crushing, fork, deflection, veryLong`. You can [view the full game](https://lichess.org/JuxKsId1),
-and the first solution move is `e8e1`.
+It is `White to move` in puzzle [7FoMt](https://lichess.org/training/7FoMt), rated `1331`.
+The game is `Romauro2018 (1762)` vs `LeoMachadoKK (1777)` at `10+0` time control,
+with themes `middlegame, short, advantage, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/tqMHwSK2),
+and the first solution move is `h1h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
