@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k3%2Fp1r1p2p%2FP2pPp1Q%2F3q4%2F6RP%2F6PK%2F8%20w%20-%20-%202%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3q2bp%2F3PR1p1%2Fr1pQ1p2%2F1p1p1p2%2F3P1P2%2F1P3PKP%2F8%20w%20-%20-%203%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [B9aFH](https://lichess.org/training/B9aFH), rated `1392`.
-The game is `lourd00 (2262)` vs `basamfawaz (1991)` at `3+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/cmRZxyYN),
-and the first solution move is `g3g7`.
+It is `White to move` in puzzle [vJlos](https://lichess.org/training/vJlos), rated `1371`.
+The game is `alihussein205 (1896)` vs `js8888 (1924)` at `10+0` time control,
+with themes `short, crushing, advancedPawn, endgame`. You can [view the full game](https://lichess.org/ZZfCnXwy),
+and the first solution move is `e6e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
