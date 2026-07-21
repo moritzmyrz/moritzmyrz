@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fpq3pk1%2F5np1%2F4nb1p%2F7P%2F2N2P2%2FPPPQN1P1%2F2KR3R%20b%20-%20-%201%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k1r2r%2Fppp2b1p%2F3p1npb%2F8%2F3P2P1%2F2NB1N1P%2FPPP5%2F1K2R2R%20w%20-%20-%204%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [09OJ5](https://lichess.org/training/09OJ5), rated `1348`.
-The game is `Almaz312 (1905)` vs `br12 (1900)` at `3+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/04WxQqYQ),
-and the first solution move is `e5c4`.
+It is `White to move` in puzzle [eRHTu](https://lichess.org/training/eRHTu), rated `1404`.
+The game is `TarmoNopee (1928)` vs `bchiyanike (2017)` at `10+0` time control,
+with themes `middlegame, short, fork, advantage`. You can [view the full game](https://lichess.org/WzASDJXL),
+and the first solution move is `g4g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
