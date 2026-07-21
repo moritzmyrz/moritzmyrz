@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k1rr2%2Fpp4pp%2F2pb1n2%2F6B1%2F3Pp1q1%2F1B4P1%2FPPP1Q2P%2F2KR1R2%20w%20-%20-%205%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rrk2%2Fppp2ppp%2F2p5%2F2b1P3%2F2B1KPb1%2F2P4P%2FP1P3P1%2FR1B4R%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bEyHE](https://lichess.org/training/bEyHE), rated `1464`.
-The game is `ertras (2590)` vs `MarkTimmermans (2593)` at `3+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/LRTH9XH1),
-and the first solution move is `e2g4`.
+It is `Black to move` in puzzle [6jtlO](https://lichess.org/training/6jtlO), rated `1314`.
+The game is `mahhhhdi (1811)` vs `Magomedov111 (1798)` at `3+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/OIqI0r4v),
+and the first solution move is `f7f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
