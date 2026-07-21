@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbq1rk1%2Fpp3ppp%2F8%2F3Qp3%2F1b6%2F2NP4%2FPPPB1PPP%2FR3K1NR%20b%20KQ%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F2q2ppp%2F1p6%2Fp1p1R3%2F4Q3%2F2P1P2P%2FPP3PP1%2F6K1%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UbRpF](https://lichess.org/training/UbRpF), rated `1552`.
-The game is `kentonsm (1719)` vs `kek_David_kek (1739)` at `30+0` time control,
-with themes `opening, sacrifice, long, advantage`. You can [view the full game](https://lichess.org/nAC4mzSh),
-and the first solution move is `b4c3`.
+It is `Black to move` in puzzle [2o0ec](https://lichess.org/training/2o0ec), rated `1404`.
+The game is `Shyev (2085)` vs `topnotchgmindia (1869)` at `3+1` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/So9xPe5y),
+and the first solution move is `d8d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
