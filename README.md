@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p5%2F3p2p1%2FpPpP1k1p%2FP2P3P%2F6K1%2F8%2F8%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r6%2Fp1B2pk1%2F2R2b1p%2F2p3p1%2F2P1b3%2F1B2P3%2FP3KPPP%2F8%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kKrlq](https://lichess.org/training/kKrlq), rated `1485`.
-The game is `williamsrya94 (1660)` vs `AlexanderChist (1649)` at `3+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/LuRwuKwN),
-and the first solution move is `d4c5`.
+It is `Black to move` in puzzle [ldiXU](https://lichess.org/training/ldiXU), rated `1588`.
+The game is `Companaro (1642)` vs `Andy_duffrein (1670)` at `15+15` time control,
+with themes `endgame, advantage, short`. You can [view the full game](https://lichess.org/SZISPcb4),
+and the first solution move is `b8b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
