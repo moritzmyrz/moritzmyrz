@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F8%2FR4P2%2F2p5%2F2n2P1P%2F5K2%2Fp7%2Fr7%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F2q2b2%2F2pn1p1Q%2F6p1%2Fp2P3p%2FP4P1P%2F1P1NB1P1%2F1K1RR3%20b%20-%20-%203%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [JI0go](https://lichess.org/training/JI0go), rated `1302`.
-The game is `spozley (1714)` vs `Kms39 (1781)` at `5+3` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/FkxJWuYe),
-and the first solution move is `a6a8`.
+It is `Black to move` in puzzle [i4Tfo](https://lichess.org/training/i4Tfo), rated `1443`.
+The game is `professor_sacrifce (2183)` vs `Abuumar (2142)` at `10+0` time control,
+with themes `middlegame, crushing, discoveredAttack, long`. You can [view the full game](https://lichess.org/8hbLyl44),
+and the first solution move is `d6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
