@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F2p1p1N1%2F3pB3%2F3P3p%2F2rPn2P%2FPR6%2F1P3r2%2F3K3R%20b%20-%20-%202%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2F1p1n1ppp%2Fp1n1p3%2F3pP3%2FPb1N1P2%2F1BN5%2F1PP1R1PP%2FR1BQ2K1%20b%20-%20-%202%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8yupD](https://lichess.org/training/8yupD), rated `1327`.
-The game is `albrechtschnabelas (1923)` vs `pro-life (1816)` at `3+1` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/t1xyVQcW),
-and the first solution move is `f2d2`.
+It is `Black to move` in puzzle [V9VUK](https://lichess.org/training/V9VUK), rated `1528`.
+The game is `TMCRemastered (1816)` vs `honst (1875)` at `10+0` time control,
+with themes `crushing, pin, short, opening`. You can [view the full game](https://lichess.org/y70hSAE0),
+and the first solution move is `c6d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
