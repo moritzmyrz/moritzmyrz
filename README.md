@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k1r2%2F1pp4p%2F3bQ2r%2F5pp1%2F5P2%2F4B2q%2FPP3PRP%2F3R3K%20w%20-%20-%202%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2p5%2F3p2p1%2FpPpP1k1p%2FP2P3P%2F6K1%2F8%2F8%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vETfD](https://lichess.org/training/vETfD), rated `1473`.
-The game is `amirsani (1933)` vs `TreeForDev (1953)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice, balestraMate`. You can [view the full game](https://lichess.org/EqRhRuiV),
-and the first solution move is `d1d6`.
+It is `White to move` in puzzle [kKrlq](https://lichess.org/training/kKrlq), rated `1485`.
+The game is `williamsrya94 (1660)` vs `AlexanderChist (1649)` at `3+0` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/LuRwuKwN),
+and the first solution move is `d4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
