@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rk2%2F2q1b3%2Fp1r1pnQ1%2F6B1%2F1p1P4%2F8%2FPP3PPP%2FR5K1%20w%20-%20-%203%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fpbp5%2F1p1pQ2p%2F5p2%2F2PP1P1q%2FP1P4B%2F7K%2F4R3%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4rtm0](https://lichess.org/training/4rtm0), rated `1369`.
-The game is `Mark-Bueno (2386)` vs `Alisalehi12142 (2222)` at `3+0` time control,
-with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/MtdZM5Hw),
-and the first solution move is `g5h6`.
+It is `Black to move` in puzzle [jzWqh](https://lichess.org/training/jzWqh), rated `1426`.
+The game is `luluca (1718)` vs `Sr_Jane (1761)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/4qGNVq20),
+and the first solution move is `h4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
