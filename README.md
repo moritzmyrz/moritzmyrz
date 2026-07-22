@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2r1k1%2Fp4pb1%2F1npBN1p1%2Fq6p%2F1p1P4%2F2N2P2%2FPPPQ2PP%2F1K2RB1R%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr3%2Fppp3pk%2F6Np%2F2P5%2F3n2b1%2FP2Qp3%2F1P6%2F5RK1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VYkkZ](https://lichess.org/training/VYkkZ), rated `1617`.
-The game is `ElZhivosDeLaPlaya (2019)` vs `RajRoy-03 (2123)` at `10+0` time control,
-with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/ZanSTIKC),
-and the first solution move is `b4c3`.
+It is `White to move` in puzzle [psYUW](https://lichess.org/training/psYUW), rated `1464`.
+The game is `dw1828 (1689)` vs `Waldwurm (1934)` at `6+6` time control,
+with themes `mateIn2, middlegame, short, discoveredCheck, doubleCheck`. You can [view the full game](https://lichess.org/pTIbEFqh),
+and the first solution move is `g6f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
