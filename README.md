@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k1nr%2Fppp2ppp%2F5q2%2F4p3%2F2B1PP1b%2F3PR2b%2FPPP4P%2FRNBQ2K1%20b%20kq%20-%202%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F5R2%2Fp2rP1pb%2F1p1N3p%2F2p5%2F3n4%2FBP5P%2F1K6%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [RRPM2](https://lichess.org/training/RRPM2), rated `1302`.
-The game is `PlumpJr (1785)` vs `jadralec99 (1775)` at `10+0` time control,
-with themes `opening, short, crushing`. You can [view the full game](https://lichess.org/1WVLif1t),
-and the first solution move is `f6g6`.
+It is `White to move` in puzzle [hXP5a](https://lichess.org/training/hXP5a), rated `1493`.
+The game is `sovietsoviet (1727)` vs `dontInjureUrBrain (1713)` at `3+2` time control,
+with themes `arabianMate, mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/6RKxkp66),
+and the first solution move is `d5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
