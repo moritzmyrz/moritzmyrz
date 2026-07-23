@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkp%2F5pp1%2FQ3q3%2F1P2P3%2F8%2F1KP5%2F8%20w%20-%20-%205%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F1pkr4%2F2p2q1p%2F8%2F1Q6%2FP4P2%2F1P6%2FK7%20b%20-%20-%208%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fGVCt](https://lichess.org/training/fGVCt), rated `1320`.
-The game is `King_Jay01 (1880)` vs `El_Montaras_Ghernand (1853)` at `10+0` time control,
-with themes `short, crushing, defensiveMove, endgame, queenEndgame`. You can [view the full game](https://lichess.org/Ak1hYNgV),
-and the first solution move is `a5e5`.
+It is `Black to move` in puzzle [KaHta](https://lichess.org/training/KaHta), rated `1277`.
+The game is `Folabi2006 (1928)` vs `L1907CO (1887)` at `10+0` time control,
+with themes `endgame, crushing, deflection, veryLong`. You can [view the full game](https://lichess.org/T1RosIt3),
+and the first solution move is `d7d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
