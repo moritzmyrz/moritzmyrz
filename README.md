@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1Q4%2F1p3ppk%2F2p1bq1p%2Fp7%2F3R3P%2F6P1%2FPP3PBK%2F8%20w%20-%20-%202%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1k2n1%2Fpp5Q%2F1b1p2p1%2F2q5%2F4P3%2F8%2FP5PP%2F5R1K%20w%20-%20-%206%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [42oU6](https://lichess.org/training/42oU6), rated `1574`.
-The game is `FabioMande (1825)` vs `alexisbananeitor (1845)` at `3+0` time control,
-with themes `middlegame, advantage, long, capturingDefender`. You can [view the full game](https://lichess.org/uvJAUCUs),
-and the first solution move is `g2e4`.
+It is `White to move` in puzzle [zMHnv](https://lichess.org/training/zMHnv), rated `1352`.
+The game is `pablo964b (2179)` vs `YouNeedJesus (2077)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/tymDK3IZ),
+and the first solution move is `f1f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
