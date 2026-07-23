@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F1p1n1pp1%2Fp3pq1p%2F2bpn3%2F3N4%2F1NP5%2FPP2QPPP%2FR1B1R1K1%20w%20kq%20-%204%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp6%2F2q2p2%2F4p3%2F5b2%2FP1P4R%2FK1Pr2QP%2F3k4%20w%20-%20-%2012%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bwqVr](https://lichess.org/training/bwqVr), rated `1286`.
-The game is `CarlosP21 (1707)` vs `Nikolayjob (1719)` at `5+0` time control,
-with themes `middlegame, long, crushing`. You can [view the full game](https://lichess.org/vDFicdzx),
-and the first solution move is `b3c5`.
+It is `White to move` in puzzle [yqQJv](https://lichess.org/training/yqQJv), rated `1351`.
+The game is `sougonese (1626)` vs `Sofiamazigh (1630)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Hlpgml6v),
+and the first solution move is `g2f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
