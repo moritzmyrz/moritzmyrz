@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2Frp5p%2F5Q2%2F4pP2%2F3p4%2F3Pn3%2F6PP%2F6K1%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1R4P1%2F5k2%2F2p2p2%2F2r4p%2F1p3P1K%2F8%20w%20-%20-%200%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [m13I4](https://lichess.org/training/m13I4), rated `1312`.
-The game is `OhMicron (1505)` vs `Mac2000 (1504)` at `5+0` time control,
-with themes `endgame, crushing, fork, long`. You can [view the full game](https://lichess.org/96pfIJlO),
-and the first solution move is `a7a1`.
+It is `White to move` in puzzle [BFk3j](https://lichess.org/training/BFk3j), rated `1597`.
+The game is `Abranswe77 (2579)` vs `Chesspampa (2488)` at `3+0` time control,
+with themes `veryLong, endgame, advancedPawn, master, crushing, promotion, rookEndgame, skewer`. You can [view the full game](https://lichess.org/hYuKQ05m),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
