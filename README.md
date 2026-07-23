@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F2p2ppp%2Fp5n1%2F1pp5%2F3PP1PP%2Fq1P1B3%2F2PKQP2%2F1R5R%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p6%2Fp5p1%2F2P1K1P1%2F1P6%2FPk6%2F8%20b%20-%20-%205%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [F8zEA](https://lichess.org/training/F8zEA), rated `1614`.
-The game is `Gulnare (1948)` vs `pilipa (1707)` at `30+18` time control,
-with themes `clearance, middlegame, advantage, trappedPiece, long`. You can [view the full game](https://lichess.org/PfvGNuMo),
-and the first solution move is `b1a1`.
+It is `Black to move` in puzzle [YLhfZ](https://lichess.org/training/YLhfZ), rated `1591`.
+The game is `fediasmirnoff (1949)` vs `AnnaGor1 (1802)` at `5+0` time control,
+with themes `veryLong, endgame, crushing, quietMove, pawnEndgame`. You can [view the full game](https://lichess.org/Zn911JbY),
+and the first solution move is `b2a2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
