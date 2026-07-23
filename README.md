@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqnb1r%2Fppp3p1%2F2npP1kp%2F3Q4%2F4P3%2F5N2%2FPPP2PPP%2FRNB1K2R%20w%20KQ%20-%200%209&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4K2p%2F8%2F5kp1%2F5B2%2F6P1%2F8%20b%20-%20-%201%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gzZyY](https://lichess.org/training/gzZyY), rated `1305`.
-The game is `igrok_24 (1836)` vs `Fishyss (1886)` at `10+0` time control,
-with themes `oneMove, mateIn1, opening`. You can [view the full game](https://lichess.org/VMhgMmB1),
-and the first solution move is `d5f5`.
+It is `Black to move` in puzzle [kHIFn](https://lichess.org/training/kHIFn), rated `1569`.
+The game is `Gregory741 (1829)` vs `zorzana (1836)` at `10+5` time control,
+with themes `endgame, crushing, short, defensiveMove`. You can [view the full game](https://lichess.org/NrHYfvpq),
+and the first solution move is `g4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
