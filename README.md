@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rr3k1%2F5pp1%2F4P2p%2F8%2F1p1PRP2%2F1Q3K2%2F1P4RP%2F1q6%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F2p2ppp%2Fp5n1%2F1pp5%2F3PP1PP%2Fq1P1B3%2F2PKQP2%2F1R5R%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [8aQzx](https://lichess.org/training/8aQzx), rated `1512`.
-The game is `Seshnath123 (1876)` vs `ahmed99N (1772)` at `10+5` time control,
-with themes `endgame, short, crushing, pin`. You can [view the full game](https://lichess.org/qVOgmzMh),
-and the first solution move is `c8c3`.
+It is `White to move` in puzzle [F8zEA](https://lichess.org/training/F8zEA), rated `1614`.
+The game is `Gulnare (1948)` vs `pilipa (1707)` at `30+18` time control,
+with themes `clearance, middlegame, advantage, trappedPiece, long`. You can [view the full game](https://lichess.org/PfvGNuMo),
+and the first solution move is `b1a1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
