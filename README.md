@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r3k2%2F4q1pp%2F8%2Fbpp1pPN1%2F3p4%2FPQPP2nP%2F3B2P1%2F3N2K1%20w%20-%20-%203%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F2k2P1N%2F1p2K1np%2F8%2FP5P1%2F8%2F8%20w%20-%20-%202%2056&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pNz6z](https://lichess.org/training/pNz6z), rated `1430`.
-The game is `gars1k (1637)` vs `Oleguus_t (1733)` at `30+10` time control,
-with themes `middlegame, crushing, skewer, long`. You can [view the full game](https://lichess.org/D6lmEJcr),
-and the first solution move is `g5h7`.
+It is `White to move` in puzzle [DmkXo](https://lichess.org/training/DmkXo), rated `1566`.
+The game is `Edo2000 (2183)` vs `GarlicOnly (2151)` at `10+0` time control,
+with themes `knightEndgame, short, crushing, endgame`. You can [view the full game](https://lichess.org/y9QRLSDA),
+and the first solution move is `e5f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
