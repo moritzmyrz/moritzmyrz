@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3P2R1%2F2kr4%2Fp1p1K3%2F6P1%2F8%2F8%2F8%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2F6pp%2Fp2qB1p1%2F3P2P1%2F1pQn1r2%2F8%2FPPP4P%2F1K1R3R%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Go2dj](https://lichess.org/training/Go2dj), rated `1365`.
-The game is `Pezzoforte (2149)` vs `Kingslayer061 (2140)` at `3+2` time control,
-with themes `deflection, endgame, advancedPawn, master, short, crushing, rookEndgame, promotion, pin`. You can [view the full game](https://lichess.org/qo8bWosP),
-and the first solution move is `g7g6`.
+It is `Black to move` in puzzle [BrYUo](https://lichess.org/training/BrYUo), rated `1468`.
+The game is `Pawnparadox (1853)` vs `Hannibal2021 (1919)` at `15+10` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/mxHrpgk9),
+and the first solution move is `d4e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
