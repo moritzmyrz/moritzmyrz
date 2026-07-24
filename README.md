@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp6%2F2q2p2%2F4p3%2F5b2%2FP1P4R%2FK1Pr2QP%2F3k4%20w%20-%20-%2012%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqkb1r%2F1p2pppp%2Fp4n2%2F4p3%2F2BQ4%2F8%2FPPP2PPP%2FRNB2RK1%20w%20kq%20-%200%209&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [yqQJv](https://lichess.org/training/yqQJv), rated `1351`.
-The game is `sougonese (1626)` vs `Sofiamazigh (1630)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Hlpgml6v),
-and the first solution move is `g2f1`.
+It is `White to move` in puzzle [2eM9s](https://lichess.org/training/2eM9s), rated `1404`.
+The game is `lmmjvsd (2060)` vs `Akrij06 (2051)` at `8+2` time control,
+with themes `deflection, short, crushing, opening, attackingF2F7`. You can [view the full game](https://lichess.org/7kBQPWJd),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
