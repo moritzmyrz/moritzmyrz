@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fp3qppp%2F4p3%2F1p1nP3%2F3P4%2F2N5%2FPPQ2PPP%2FR3K1NR%20w%20KQkq%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2Fp4ppp%2F4p3%2F3n4%2F5P2%2F2r2PP1%2FPN5P%2F2RR2K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YDjIF](https://lichess.org/training/YDjIF), rated `1547`.
-The game is `NewWorld2020 (1891)` vs `Wood_Elf (1825)` at `15+15` time control,
-with themes `opening, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/nAzbdN7i),
-and the first solution move is `c3d5`.
+It is `White to move` in puzzle [49jIs](https://lichess.org/training/49jIs), rated `1301`.
+The game is `facelesschessplayer (1511)` vs `jc_loiola (1527)` at `5+3` time control,
+with themes `clearance, endgame, advantage, long, pin`. You can [view the full game](https://lichess.org/O3cotV5s),
+and the first solution move is `c1c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
