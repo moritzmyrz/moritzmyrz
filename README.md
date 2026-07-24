@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fpp2bppp%2F3pp3%2F8%2F4n3%2F2P2N2%2FPP3PPP%2FR1BQ1RK1%20w%20kq%20-%201%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2F1p2qpb1%2Fp2p2pp%2FP1pPn3%2F2N1N3%2F4B3%2F1P1Q2PP%2F2KR1B1R%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mUg39](https://lichess.org/training/mUg39), rated `1406`.
-The game is `sara016 (1618)` vs `mmessina57 (1608)` at `15+10` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/Dq5IpFUK),
-and the first solution move is `d1a4`.
+It is `Black to move` in puzzle [QbtDO](https://lichess.org/training/QbtDO), rated `1577`.
+The game is `bboss14 (2048)` vs `kakerlakensalat (2161)` at `3+2` time control,
+with themes `middlegame, crushing, discoveredAttack, veryLong`. You can [view the full game](https://lichess.org/mXinFk9o),
+and the first solution move is `e5c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
