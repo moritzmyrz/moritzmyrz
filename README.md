@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2Fpbqnrpp1%2F4p2R%2Fb2p4%2F2pP1P2%2FP1N1P3%2F1PB3PP%2FR2Q2K1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2F1pp2R2%2Fp2b4%2F3Q4%2Fq6P%2F6PK%2FP3RP2%2F8%20b%20-%20-%202%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jL2WW](https://lichess.org/training/jL2WW), rated `1596`.
-The game is `biveto (1729)` vs `chessPlay2021 (1740)` at `5+3` time control,
-with themes `veryLong, middlegame, attraction, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/QCDsI3Te),
-and the first solution move is `h6h8`.
+It is `Black to move` in puzzle [N3YmY](https://lichess.org/training/N3YmY), rated `1377`.
+The game is `Siegfried1965 (1923)` vs `taytayboy (1877)` at `30+0` time control,
+with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/RqM5yZ75),
+and the first solution move is `a4g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
