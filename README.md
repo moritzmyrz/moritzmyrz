@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2Fp5p1%2F5n1p%2F2p3p1%2FP2q4%2F1PN1Q2P%2F2P3P1%2F4R1K1%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F3P2R1%2F2kr4%2Fp1p1K3%2F6P1%2F8%2F8%2F8%20w%20-%20-%200%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lmfLC](https://lichess.org/training/lmfLC), rated `1518`.
-The game is `Rem11 (1548)` vs `Gigi_Amato (1518)` at `5+3` time control,
-with themes `veryLong, endgame, advantage, skewer, intermezzo, sacrifice`. You can [view the full game](https://lichess.org/RqEadTfa),
-and the first solution move is `b8e8`.
+It is `White to move` in puzzle [Go2dj](https://lichess.org/training/Go2dj), rated `1365`.
+The game is `Pezzoforte (2149)` vs `Kingslayer061 (2140)` at `3+2` time control,
+with themes `deflection, endgame, advancedPawn, master, short, crushing, rookEndgame, promotion, pin`. You can [view the full game](https://lichess.org/qo8bWosP),
+and the first solution move is `g7g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
