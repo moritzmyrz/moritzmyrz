@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p6%2F3p3p%2FQ5p1%2F3bn1q1%2F5P2%2FPP4PP%2F2R2R1K%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2Fp2p4%2F3Pk3%2F2P3p1%2F6PP%2FP5K1%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FNOE9](https://lichess.org/training/FNOE9), rated `1584`.
-The game is `SRTvorog (1712)` vs `felipetoledo (1760)` at `10+5` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/vFe3gweC),
-and the first solution move is `e4g3`.
+It is `Black to move` in puzzle [bHo6S](https://lichess.org/training/bHo6S), rated `1595`.
+The game is `Bugzilla (2652)` vs `iamgroot_2025 (2727)` at `3+0` time control,
+with themes `endgame, master, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/Zv7GsGXQ),
+and the first solution move is `g4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
