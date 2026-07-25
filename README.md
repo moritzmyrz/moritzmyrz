@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp3pp%2F2n5%2F3p4%2F4R2q%2F1B6%2FPPPP2PP%2FRNBQ2K1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1r1k1%2Fppq2ppp%2F8%2F3p4%2FPP1PpB2%2F2P3nP%2F3Q2B1%2FR1R3K1%20b%20-%20-%201%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zXAUv](https://lichess.org/training/zXAUv), rated `1415`.
-The game is `TorryChen (1682)` vs `ARSENTRUE (1675)` at `3+2` time control,
-with themes `middlegame, long, mateIn3, backRankMate`. You can [view the full game](https://lichess.org/FTlnMxWk),
-and the first solution move is `h4f2`.
+It is `Black to move` in puzzle [xBvtw](https://lichess.org/training/xBvtw), rated `1525`.
+The game is `a415441 (1633)` vs `MGIlluminati (1666)` at `3+0` time control,
+with themes `exposedKing, middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/SWGZNKqx),
+and the first solution move is `c7f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
