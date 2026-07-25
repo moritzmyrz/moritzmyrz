@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F8%2F3p2p1%2Fp2P2Pp%2F1p1q4%2F1P5P%2FP1P3P1%2F1K1R1R2%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5R1p%2F1b4p1%2Fp5k1%2F6P1%2F7P%2F5PK1%2Fr7%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8iVWY](https://lichess.org/training/8iVWY), rated `1309`.
-The game is `Jhun_Moneda (1845)` vs `leonrojo2013 (1843)` at `3+0` time control,
-with themes `endgame, advantage, queenRookEndgame, intermezzo, long`. You can [view the full game](https://lichess.org/rmQLNbzi),
-and the first solution move is `f1f8`.
+It is `White to move` in puzzle [Xffki](https://lichess.org/training/Xffki), rated `1545`.
+The game is `SimianMaster (2054)` vs `sebastianhof123 (2044)` at `5+0` time control,
+with themes `deflection, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/S9HFbupT),
+and the first solution move is `f2f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
