@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp6p%2F6p1%2F3PK3%2F1Ppp4%2F5P2%2FP5PP%2F2R5%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2r%2F2q2kp1%2Fp3R3%2F1ppp1pP1%2F8%2F2NP4%2FPPP5%2F1K2R3%20w%20-%20-%203%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [D8jmy](https://lichess.org/training/D8jmy), rated `1393`.
-The game is `bash5214 (1752)` vs `SirSilver (1803)` at `15+15` time control,
-with themes `endgame, advancedPawn, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/BFmzXKQs),
-and the first solution move is `d4d3`.
+It is `White to move` in puzzle [O31Lt](https://lichess.org/training/O31Lt), rated `1329`.
+The game is `ggitsfree (1605)` vs `tineli (1643)` at `3+2` time control,
+with themes `deflection, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/XCcpNYZS),
+and the first solution move is `g5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
