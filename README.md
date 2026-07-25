@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5R1p%2F1b4p1%2Fp5k1%2F6P1%2F7P%2F5PK1%2Fr7%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F4q1bp%2F3p2p1%2F1Q2p2n%2F1Pp1P3%2F2P4r%2F2B2P2%2F2BR1RK1%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Xffki](https://lichess.org/training/Xffki), rated `1545`.
-The game is `SimianMaster (2054)` vs `sebastianhof123 (2044)` at `5+0` time control,
-with themes `deflection, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/S9HFbupT),
-and the first solution move is `f2f4`.
+It is `White to move` in puzzle [2Zl3A](https://lichess.org/training/2Zl3A), rated `1500`.
+The game is `Swainbibhudutta (1796)` vs `A786786786 (1881)` at `3+2` time control,
+with themes `middlegame`. You can [view the full game](https://lichess.org/2BH5GEGG),
+and the first solution move is `b5d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
