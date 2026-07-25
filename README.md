@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r2r%2F2q2kp1%2Fp3R3%2F1ppp1pP1%2F8%2F2NP4%2FPPP5%2F1K2R3%20w%20-%20-%203%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4r1k%2Fpb1B2pp%2F1p3q2%2F2b3N1%2F4P3%2F2N5%2FPP1Q1PPP%2F3RR1K1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [O31Lt](https://lichess.org/training/O31Lt), rated `1329`.
-The game is `ggitsfree (1605)` vs `tineli (1643)` at `3+2` time control,
-with themes `deflection, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/XCcpNYZS),
-and the first solution move is `g5g6`.
+It is `Black to move` in puzzle [BNKO7](https://lichess.org/training/BNKO7), rated `1445`.
+The game is `bitter6290 (1702)` vs `mishasak (1731)` at `10+0` time control,
+with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/izVlA0JC),
+and the first solution move is `c5f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
