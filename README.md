@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2Fp1pR4%2F2Pb2k1%2F7p%2FP1Pn1P2%2F5P1K%2F8%20w%20-%20-%201%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2F1pp2ppp%2F8%2FpB1p4%2FP1nP3q%2F1QPn1PN1%2F6PP%2FR1B2K1R%20b%20-%20-%204%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tJeQY](https://lichess.org/training/tJeQY), rated `1604`.
-The game is `Acherme (1864)` vs `DuquePlacente (1838)` at `10+5` time control,
-with themes `endgame, short, crushing, sacrifice`. You can [view the full game](https://lichess.org/jsNX6RBi),
-and the first solution move is `d6d5`.
+It is `Black to move` in puzzle [SVC3m](https://lichess.org/training/SVC3m), rated `1509`.
+The game is `adalbers (1713)` vs `thiyaga13 (1728)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/mMHlvnuc),
+and the first solution move is `d3c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
