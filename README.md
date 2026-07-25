@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F5pp1%2F4p3%2F4q2p%2F8%2F4P1P1%2FQ4PKP%2F1R6%20b%20-%20-%201%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fpp6%2F1n1bB1p1%2F5p2%2F3P4%2F1Q2P1P1%2FPP5P%2F2R2RK1%20w%20kq%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KnIo0](https://lichess.org/training/KnIo0), rated `1296`.
-The game is `abdulkadirfb (1925)` vs `like_a_fischer (1872)` at `10+0` time control,
-with themes `endgame, crushing, long`. You can [view the full game](https://lichess.org/fNQcNTLi),
-and the first solution move is `e5e4`.
+It is `White to move` in puzzle [f0nt7](https://lichess.org/training/f0nt7), rated `1348`.
+The game is `karas1233osa (2034)` vs `onnne (1969)` at `10+0` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/uYPBc4rY),
+and the first solution move is `e6f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
