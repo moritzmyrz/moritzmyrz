@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rr1k%2F6p1%2Fp6p%2F1p6%2F8%2F2P3Q1%2FPP3qPP%2FR3R2K%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3n4%2F8%2F3B2p1%2F1pK2k2%2F1P3P2%2F8%2F8%2F8%20b%20-%20-%2012%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [23ZA0](https://lichess.org/training/23ZA0), rated `1406`.
-The game is `kagusaku (1637)` vs `geivoron_chess (1588)` at `0+5` time control,
-with themes `endgame, long, mateIn3, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/ZARLGA03),
-and the first solution move is `e8e1`.
+It is `Black to move` in puzzle [UZiKT](https://lichess.org/training/UZiKT), rated `1274`.
+The game is `GatodeAlekhine (2463)` vs `AlgebraTeen (2514)` at `3+0` time control,
+with themes `deflection, endgame, master, short, crushing`. You can [view the full game](https://lichess.org/5PK35LKA),
+and the first solution move is `d8b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
