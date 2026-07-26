@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4kp2%2Fp2npb2%2F1pr5%2F5QR1%2F4NP1K%2F6P1%2F8%20b%20-%20-%206%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4Rnk1%2Fp1p2ppp%2F1p1p4%2F3P1q2%2F7Q%2F1BP5%2FPr4rP%2F6RK%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CCPSo](https://lichess.org/training/CCPSo), rated `1537`.
-The game is `jamzskee (1690)` vs `Vernie321 (1682)` at `3+2` time control,
-with themes `endgame, advantage, long, pin`. You can [view the full game](https://lichess.org/5nXuELeF),
-and the first solution move is `c5h5`.
+It is `White to move` in puzzle [bRwKI](https://lichess.org/training/bRwKI), rated `1451`.
+The game is `Sternale (1950)` vs `vilgort (1983)` at `12+15` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/g8n5LJOm),
+and the first solution move is `e8f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
