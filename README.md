@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2k2%2F3R1pr1%2Fp4Q2%2F2q1p2p%2F2P4P%2F1P6%2FPK4P1%2FN7%20w%20-%20-%203%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqk2r%2Fpp2bppp%2F5n2%2F2pBp1B1%2F2P1P3%2F3P4%2FPP3PPP%2FRN1QK1NR%20b%20KQkq%20-%200%206&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1ZvRV](https://lichess.org/training/1ZvRV), rated `1393`.
-The game is `budacloud (2102)` vs `FastBear0829 (2067)` at `5+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Q38YCmMl),
-and the first solution move is `d7d8`.
+It is `Black to move` in puzzle [svMO5](https://lichess.org/training/svMO5), rated `1613`.
+The game is `anver_sarlgaya (1619)` vs `aoufU (1672)` at `15+15` time control,
+with themes `opening, discoveredAttack, advantage, short`. You can [view the full game](https://lichess.org/ssnRhbT7),
+and the first solution move is `f6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
