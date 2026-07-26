@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1q3p1%2F1p6%2F2p4Q%2F3Pk3%2FPp6%2F1B4Pb%2F5K2%20w%20-%20-%204%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r1b1r%2Fp2q2p1%2FPpQ4p%2F8%2F3p4%2F3P4%2F4PP2%2FR1B1K2R%20w%20KQ%20-%204%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OqCh7](https://lichess.org/training/OqCh7), rated `1473`.
-The game is `BrizuelaR (2400)` vs `JohnnyAnto (2406)` at `3+0` time control,
-with themes `endgame, master, masterVsMaster, oneMove, mateIn1`. You can [view the full game](https://lichess.org/7lbwNI1d),
-and the first solution move is `h5f3`.
+It is `White to move` in puzzle [UUggh](https://lichess.org/training/UUggh), rated `1327`.
+The game is `DanilaBagrov2 (1650)` vs `MamomiM (1638)` at `3+0` time control,
+with themes `middlegame, queensideAttack, long, mateIn3`. You can [view the full game](https://lichess.org/sm0wUP3d),
+and the first solution move is `c1f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
