@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F1p4R1%2FpNppbr1p%2F4q3%2FP1P1Pp2%2F1P3P2%2F2B5%2F5RQK%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F5Qpp%2Fp7%2F2p5%2F3nPN2%2F5qP1%2FPP3R1P%2F5K2%20b%20-%20-%207%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [OZn4C](https://lichess.org/training/OZn4C), rated `1418`.
-The game is `mauriziox (1853)` vs `Grabeel (1815)` at `10+0` time control,
-with themes `exposedKing, middlegame, advantage, long, kingsideAttack`. You can [view the full game](https://lichess.org/gxAlc20h),
-and the first solution move is `e5h5`.
+It is `Black to move` in puzzle [cZxCH](https://lichess.org/training/cZxCH), rated `1435`.
+The game is `KingofCheapos (2481)` vs `Behrooz-bagheri (2319)` at `3+0` time control,
+with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/cXbzpdLZ),
+and the first solution move is `f3h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
