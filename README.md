@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F7p%2F1Qp3p1%2F2P5%2FP2b1B2%2F5qP1%2F5P1P%2F5RK1%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k7%2F8%2F5R2%2F1pK2p2%2F4p3%2FP2bP3%2F8%2Fr7%20w%20-%20-%2010%2068&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gCXcX](https://lichess.org/training/gCXcX), rated `1556`.
-The game is `axylon (1938)` vs `Yasin_GA (1959)` at `3+0` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/54eiZETE),
-and the first solution move is `d4f2`.
+It is `White to move` in puzzle [lpDXR](https://lichess.org/training/lpDXR), rated `1594`.
+The game is `Muy_Mas (2200)` vs `chess182015sol (1833)` at `7+2` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/FZg9GYvZ),
+and the first solution move is `c5b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
