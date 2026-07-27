@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F5Qpp%2Fp7%2F2p5%2F3nPN2%2F5qP1%2FPP3R1P%2F5K2%20b%20-%20-%207%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4QNk1%2Fp5pp%2F2p5%2F1p6%2F5r2%2FqP3b2%2FP1R3PP%2F2R2K2%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cZxCH](https://lichess.org/training/cZxCH), rated `1435`.
-The game is `KingofCheapos (2481)` vs `Behrooz-bagheri (2319)` at `3+0` time control,
-with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/cXbzpdLZ),
-and the first solution move is `f3h1`.
+It is `Black to move` in puzzle [n7z8B](https://lichess.org/training/n7z8B), rated `1377`.
+The game is `Dragonpw (1798)` vs `Sipontino (1663)` at `15+5` time control,
+with themes `middlegame, short, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/qXalogvI),
+and the first solution move is `f3h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
