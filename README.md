@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqk2r%2FppppbpQp%2F8%2F8%2F8%2F5N2%2FPPP1PPPP%2FRN2KB1R%20b%20KQkq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fpp1q3p%2F6n1%2F3p4%2F1bpQ4%2FP1N5%2F1P1BBPPP%2Fn2K3R%20w%20-%20-%205%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CRAAu](https://lichess.org/training/CRAAu), rated `1491`.
-The game is `omid3563 (1960)` vs `Baraa252 (1923)` at `10+0` time control,
-with themes `advantage, interference, short, opening`. You can [view the full game](https://lichess.org/Jg0XzOtH),
-and the first solution move is `e7f6`.
+It is `White to move` in puzzle [yaX05](https://lichess.org/training/yaX05), rated `1487`.
+The game is `HasibulRitu10 (1774)` vs `Venkateshwarlu098 (1893)` at `10+5` time control,
+with themes `short, advantage, pin, middlegame`. You can [view the full game](https://lichess.org/qihCz7tZ),
+and the first solution move is `e2g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
