@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1q1b1r%2Fpp3kp1%2F2p1pn1p%2F8%2F3P1Bb1%2F5N2%2FPPP2PPP%2FR2QKB1R%20w%20KQ%20-%200%209&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1r2bk1%2F8%2F4pPp1%2Fp3P1p1%2F3p2P1%2F7R%2F1Pq5%2FK6R%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cgcQx](https://lichess.org/training/cgcQx), rated `1335`.
-The game is `Garrowshaw (1867)` vs `Hello690 (1875)` at `10+0` time control,
-with themes `advantage, short, opening`. You can [view the full game](https://lichess.org/98LcvLHT),
-and the first solution move is `f3e5`.
+It is `White to move` in puzzle [w5SyS](https://lichess.org/training/w5SyS), rated `1511`.
+The game is `gonzothesmurf (2292)` vs `David_Van_Dal (2241)` at `5+0` time control,
+with themes `exposedKing, endgame, deflection, veryLong, mateIn4, pin`. You can [view the full game](https://lichess.org/bm2ZE3Pf),
+and the first solution move is `h3h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
