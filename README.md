@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2Fppk1r1p1%2F2p5%2F7p%2F4PRbP%2F2NBb3%2FPP4P1%2F2R2K2%20w%20-%20-%204%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqk2r%2FppppbpQp%2F8%2F8%2F8%2F5N2%2FPPP1PPPP%2FRN2KB1R%20b%20KQkq%20-%200%207&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vCBT0](https://lichess.org/training/vCBT0), rated `1580`.
-The game is `Nathan-Hermand (1972)` vs `Ahmed_XX (1917)` at `10+0` time control,
-with themes `middlegame, short, advantage, pin`. You can [view the full game](https://lichess.org/vApbRNrt),
-and the first solution move is `c3d5`.
+It is `Black to move` in puzzle [CRAAu](https://lichess.org/training/CRAAu), rated `1491`.
+The game is `omid3563 (1960)` vs `Baraa252 (1923)` at `10+0` time control,
+with themes `advantage, interference, short, opening`. You can [view the full game](https://lichess.org/Jg0XzOtH),
+and the first solution move is `e7f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
