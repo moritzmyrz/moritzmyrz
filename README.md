@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2F1p2k3%2Fp7%2F3n1pr1%2F4p3%2FN1P5%2FPPK1Q2P%2F3R4%20b%20-%20-%201%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp4Q2%2F1kP2p2%2F1qb1p2p%2F4P2p%2F8%2F2P2PP1%2F6K1%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lW2No](https://lichess.org/training/lW2No), rated `1502`.
-The game is `Akhilyadav98 (1714)` vs `KlWl (1829)` at `7+2` time control,
-with themes `endgame, advantage, attraction, fork, long, sacrifice, pin`. You can [view the full game](https://lichess.org/BlyMuIyi),
-and the first solution move is `g5g2`.
+It is `White to move` in puzzle [hoJmw](https://lichess.org/training/hoJmw), rated `1332`.
+The game is `ROM4IK_1 (2047)` vs `jeevankumarh (1750)` at `3+0` time control,
+with themes `exposedKing, endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/WNg4X6pq),
+and the first solution move is `f7b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
