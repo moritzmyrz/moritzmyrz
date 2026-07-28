@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6k1%2F5p2%2F6pP%2F6P1%2F5K2%2F8%20w%20-%20-%204%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2p2p2%2F7p%2F1N1P2p1%2F2p1Pp2%2F5P1q%2F1Q3P1P%2F7K%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [v2ic9](https://lichess.org/training/v2ic9), rated `1360`.
-The game is `Adriadna (1621)` vs `Marcfischie (1585)` at `20+7` time control,
-with themes `veryLong, endgame, zugzwang, crushing, quietMove, pawnEndgame`. You can [view the full game](https://lichess.org/287f8bmn),
-and the first solution move is `f2e3`.
+It is `Black to move` in puzzle [QzEE1](https://lichess.org/training/QzEE1), rated `1382`.
+The game is `Vitaliy-75 (1876)` vs `wiryaTHEGM (1854)` at `10+5` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/IW6M7snr),
+and the first solution move is `h3f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
