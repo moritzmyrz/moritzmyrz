@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F7p%2Fp3p1p1%2F4P3%2F1qpP1B2%2FNn4P1%2F2Q1RP1P%2F6K1%20b%20-%20-%202%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6R1%2Fpp5r%2F2p5%2F3pBkp1%2F3Pn3%2FP4q2%2F1PP5%2F2K3Q1%20w%20-%20-%202%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gPDmm](https://lichess.org/training/gPDmm), rated `1525`.
-The game is `ivko73 (1866)` vs `svdmheen (1861)` at `5+15` time control,
-with themes `middlegame, long, crushing, fork`. You can [view the full game](https://lichess.org/x3Oss5AY),
-and the first solution move is `b3d4`.
+It is `White to move` in puzzle [dhBbA](https://lichess.org/training/dhBbA), rated `1275`.
+The game is `Highfly08 (1839)` vs `Mingmed (1874)` at `10+0` time control,
+with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/wkVsHsAU),
+and the first solution move is `g8f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
