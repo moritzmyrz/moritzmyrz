@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5ppk%2F8%2F8%2F2p1b2p%2F2P1q2P%2F1Q4P1%2F6RK%20b%20-%20-%205%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fpp5p%2F5bp1%2F2Q2P1q%2F4P3%2F8%2Fb5PP%2F3R3K%20w%20-%20-%201%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [boKL2](https://lichess.org/training/boKL2), rated `1280`.
-The game is `Amirjimi (2221)` vs `esrosenberg (2281)` at `3+0` time control,
-with themes `endgame, master, oneMove, mateIn1, pin`. You can [view the full game](https://lichess.org/6OPyum3E),
-and the first solution move is `e3h3`.
+It is `White to move` in puzzle [M4NKE](https://lichess.org/training/M4NKE), rated `1302`.
+The game is `Krezaul007 (2050)` vs `King_Hunter_3105 (2048)` at `10+0` time control,
+with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/HLdqI79N),
+and the first solution move is `c5f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
