@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp3pk1%2F8%2F6pn%2F1P1r4%2FP4P1K%2F3R1NPP%2F4R3%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp3ppp%2F5n2%2F4Q3%2F4R1P1%2F1Bq4P%2FP4P2%2FR1B3K1%20b%20-%20-%201%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NvID8](https://lichess.org/training/NvID8), rated `1426`.
-The game is `Fyazi (1968)` vs `GrahamMopar (1952)` at `15+10` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/45eEEXcy),
-and the first solution move is `d4h4`.
+It is `Black to move` in puzzle [NaNCN](https://lichess.org/training/NaNCN), rated `1414`.
+The game is `Boboseedorf (1773)` vs `IgorChampion (1992)` at `3+8` time control,
+with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/h08Tc5Eu),
+and the first solution move is `f6e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
