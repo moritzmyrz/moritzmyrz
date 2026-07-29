@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=q1r2r1k%2F1b1pnpp1%2Fp3p2b%2F1p6%2F1P1B1n2%2FP4N1Q%2F2P3PP%2FR4R1K%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fp5qp%2F7Q%2F6N1%2F5p2%2F6P1%2FP1P2PKP%2F8%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nFB3Q](https://lichess.org/training/nFB3Q), rated `1445`.
-The game is `Flipstra (1532)` vs `SebasRosa95 (1525)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack, pin`. You can [view the full game](https://lichess.org/ZAoxBQMN),
-and the first solution move is `h3h6`.
+It is `White to move` in puzzle [d7Twt](https://lichess.org/training/d7Twt), rated `1458`.
+The game is `Blacks78Italy (1604)` vs `mbplayer (1594)` at `30+0` time control,
+with themes `endgame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/odimgqFE),
+and the first solution move is `h6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
