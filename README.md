@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2F1p3ppp%2Fp3pn2%2FP4N2%2F1bq2B2%2F2N2Q2%2F1PP2PPP%2FR3R1K1%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp3ppp%2F2p4q%2F8%2F2Q5%2F7N%2FPPP3PP%2F1K1R1R2%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7aPw5](https://lichess.org/training/7aPw5), rated `1459`.
-The game is `PRYANSHUMANISHPATIL (2357)` vs `jayg9 (2456)` at `3+0` time control,
-with themes `short, advantage, hangingPiece, master, middlegame`. You can [view the full game](https://lichess.org/DZDCI58Q),
-and the first solution move is `e6f5`.
+It is `White to move` in puzzle [aYpbw](https://lichess.org/training/aYpbw), rated `1519`.
+The game is `gambithero (1648)` vs `livklivk (1698)` at `3+2` time control,
+with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/1Z0LFdfr),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
