@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5kr1%2F2p3pp%2F3n2r1%2F8%2F4QP1q%2FB1P2P2%2FP4R1P%2F4RK2%20b%20-%20-%205%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7q%2Fp6k%2F6N1%2F7p%2F6pP%2FPPQP2P1%2F1KPR2P1%2F5r2%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xXTIh](https://lichess.org/training/xXTIh), rated `1565`.
-The game is `reaggaesux (2165)` vs `sedir0 (2168)` at `3+0` time control,
-with themes `veryLong, middlegame, advantage, pin`. You can [view the full game](https://lichess.org/miGQpb7e),
-and the first solution move is `h4h3`.
+It is `Black to move` in puzzle [vYgxl](https://lichess.org/training/vYgxl), rated `1496`.
+The game is `richardGA (1809)` vs `Phuduc0807 (1791)` at `10+0` time control,
+with themes `deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/jaOEiXcm),
+and the first solution move is `f1b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
