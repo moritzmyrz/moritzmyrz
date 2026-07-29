@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F7p%2FR3N1p1%2F8%2F8%2F2n1R1P1%2F5K1P%2F2r5%20b%20-%20-%202%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=k5r1%2Fp4p1p%2F4p3%2FR2p4%2F3Q1B2%2F5P2%2F1Pq3rP%2F5R1K%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lRD4i](https://lichess.org/training/lRD4i), rated `1508`.
-The game is `E-loest (1900)` vs `PathsOfGlory (2029)` at `5+8` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/GtMHenyf),
-and the first solution move is `c3d1`.
+It is `Black to move` in puzzle [GJql8](https://lichess.org/training/GJql8), rated `1369`.
+The game is `M_taher_poushideh (1993)` vs `REVELATIONS06 (1603)` at `5+0` time control,
+with themes `clearance, mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/keCr4ovM),
+and the first solution move is `g2h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
