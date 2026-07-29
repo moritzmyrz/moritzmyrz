@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1KP5%2Fp7%2F5k1p%2F6p1%2F1p4P1%2F2r3P1%2F5N2%20w%20-%20-%200%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3ppp%2F2n2n2%2Fq2p1b2%2F1BP5%2FP6P%2F1P3PP1%2FRN1QKBNR%20b%20KQkq%20-%202%2010&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [oUWAl](https://lichess.org/training/oUWAl), rated `1532`.
-The game is `wakilsahak (1848)` vs `Dr_mate33 (1806)` at `3+2` time control,
-with themes `endgame, crushing, fork, long, defensiveMove`. You can [view the full game](https://lichess.org/7yVSTkgY),
-and the first solution move is `f1e3`.
+It is `Black to move` in puzzle [oIXYw](https://lichess.org/training/oIXYw), rated `1301`.
+The game is `Alif2019 (1793)` vs `Ta-mir (1806)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/DIgzhos4),
+and the first solution move is `c6b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
