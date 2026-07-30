@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1q3rk%2F1pp5%2Fp3ppQ1%2F1b1p4%2F3P1P1P%2FP7%2F1PP2PP1%2FR3K2R%20w%20KQ%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6k1%2F4Np1p%2F5Kn1%2F4P1P1%2F8%2F8%20b%20-%20-%201%2047&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9Qvn4](https://lichess.org/training/9Qvn4), rated `1566`.
-The game is `predantsev (1659)` vs `zoran_ribar (1668)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/maLiYBa0),
-and the first solution move is `g6h6`.
+It is `Black to move` in puzzle [dq8Br](https://lichess.org/training/dq8Br), rated `1596`.
+The game is `cinar1977 (2174)` vs `Alihan50 (2065)` at `3+0` time control,
+with themes `knightEndgame, crushing, veryLong, endgame`. You can [view the full game](https://lichess.org/5dTLbU4G),
+and the first solution move is `g4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
