@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p2Q1pp%2F2bp1p2%2F6P1%2FP5r1%2F5p2%2F7b%2F3RRK2%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5b2%2Fpb3k2%2F1p4p1%2F6Bp%2F7P%2F2q2NQ1%2FP4PP1%2F6K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [7tYuf](https://lichess.org/training/7tYuf), rated `1520`.
-The game is `m209mm (1884)` vs `hussainasharaff (1849)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/jgX3zORz),
-and the first solution move is `e7e6`.
+It is `White to move` in puzzle [tWauv](https://lichess.org/training/tWauv), rated `1539`.
+The game is `SMJT (2221)` vs `horsehead (2007)` at `5+5` time control,
+with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/PpvlEir0),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
