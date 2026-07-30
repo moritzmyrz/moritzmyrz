@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r3%2F4Npkp%2Fpq1p1np1%2Fnp2p3%2F4P3%2F2PB1Q1P%2FPP3PP1%2FR3R1K1%20w%20-%20-%203%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2F1pb1Qp1p%2F2p1b3%2F8%2F2p5%2F5NNP%2FP1q2PP1%2F4R1K1%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ApDxd](https://lichess.org/training/ApDxd), rated `1615`.
-The game is `Maik2416 (1872)` vs `gummibaer (1861)` at `15+15` time control,
-with themes `middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/gEtSA1Kw),
-and the first solution move is `f3f6`.
+It is `White to move` in puzzle [BEgWy](https://lichess.org/training/BEgWy), rated `1579`.
+The game is `Jagadishsaravan (1790)` vs `dima-iz-mayaka (1781)` at `5+3` time control,
+with themes `long, advantage, fork, middlegame`. You can [view the full game](https://lichess.org/IpPknNVl),
+and the first solution move is `e1e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
