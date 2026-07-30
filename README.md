@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F2p2R2%2F1pp1Q2p%2F6r1%2F4P3%2F2PP4%2FPP6%2F4qN1K%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b5%2F4r3%2Fp3p1Bp%2F1p4p1%2F8%2F1P1pk1P1%2F2R3PP%2F3R2K1%20w%20-%20-%200%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [qsavf](https://lichess.org/training/qsavf), rated `1315`.
-The game is `vafa1331 (1824)` vs `hothands1 (1832)` at `5+0` time control,
-with themes `short, fork, triangleMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/btG4MXVi),
-and the first solution move is `e6h6`.
+It is `White to move` in puzzle [QIYkg](https://lichess.org/training/QIYkg), rated `1539`.
+The game is `ReiPantaneiro (1864)` vs `DUNI (1951)` at `10+0` time control,
+with themes `endgame, operaMate, oneMove, mateIn1`. You can [view the full game](https://lichess.org/LZJO9cHo),
+and the first solution move is `d1d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
