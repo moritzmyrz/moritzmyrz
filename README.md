@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fp3R3%2Fq5nN%2F1p1p2Pp%2F2pP4%2F2P3P1%2FPP3PK1%2F8%20w%20-%20-%203%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q3rk%2F1pp5%2Fp3ppQ1%2F1b1p4%2F3P1P1P%2FP7%2F1PP2PP1%2FR3K2R%20w%20KQ%20-%201%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [S5GSp](https://lichess.org/training/S5GSp), rated `1358`.
-The game is `Ratatal (2512)` vs `chessiah (2537)` at `3+0` time control,
-with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/jJ5E1ACc),
-and the first solution move is `e7f7`.
+It is `White to move` in puzzle [9Qvn4](https://lichess.org/training/9Qvn4), rated `1566`.
+The game is `predantsev (1659)` vs `zoran_ribar (1668)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/maLiYBa0),
+and the first solution move is `g6h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
