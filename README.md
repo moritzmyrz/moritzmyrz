@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r3k%2F1p2qppB%2Fp1n1b3%2F8%2F4Q3%2F2P1P1P1%2FPP3PP1%2FR3K2R%20w%20KQ%20-%203%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6p1%2F2p1qp1p%2FN2b4%2F2Bp4%2FP6P%2F2Q2PP1%2F1R5K%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [aiBPc](https://lichess.org/training/aiBPc), rated `1488`.
-The game is `Nuwan999 (1725)` vs `YDtribao2013 (1699)` at `10+0` time control,
-with themes `middlegame, discoveredCheck, attraction, long, mateIn3, sacrifice, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/QoBfHdwX),
-and the first solution move is `h7g8`.
+It is `Black to move` in puzzle [TDGBC](https://lichess.org/training/TDGBC), rated `1551`.
+The game is `garrykasrovic (1782)` vs `veteran64 (1812)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, pin`. You can [view the full game](https://lichess.org/igJYIMab),
+and the first solution move is `e6h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
