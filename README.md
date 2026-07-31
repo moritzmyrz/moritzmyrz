@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r1r2k%2F1q4p1%2Fp2BQp1p%2FPp6%2F1b6%2F4P3%2F5PPP%2FR1R3K1%20w%20-%20-%2010%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F2p2pp1%2F1p6%2Fp2p3p%2F3P1n2%2FP1PB4%2F5PRP%2F3q2RK%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [n7omp](https://lichess.org/training/n7omp), rated `1365`.
-The game is `Markkovalenko2011 (2454)` vs `realcyberbird (2456)` at `3+0` time control,
-with themes `short, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/rTWlnRjN),
-and the first solution move is `c1c8`.
+It is `White to move` in puzzle [9Qyly](https://lichess.org/training/9Qyly), rated `1308`.
+The game is `Guerrero67 (1818)` vs `jasony6582 (1841)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, operaMate, kingsideAttack`. You can [view the full game](https://lichess.org/MbNGmb0L),
+and the first solution move is `g2g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
