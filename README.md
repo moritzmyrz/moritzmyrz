@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Rrk%2Fpp2P2p%2F7p%2F3pP3%2F3P2N1%2F8%2FPqr4P%2FR2Q3K%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bk3r%2Fpppp1p1p%2F4qNp1%2F4n3%2F5P2%2F1P6%2FP1P1QbPP%2FR1B1KB1R%20w%20KQ%20-%202%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [c8dgt](https://lichess.org/training/c8dgt), rated `1293`.
-The game is `e2h6 (1809)` vs `doomin (1773)` at `5+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/OMgScKg1),
-and the first solution move is `c2h2`.
+It is `White to move` in puzzle [w5nLS](https://lichess.org/training/w5nLS), rated `1524`.
+The game is `Lik57 (1639)` vs `Varunrju (1671)` at `5+0` time control,
+with themes `advantage, hangingPiece, long, opening`. You can [view the full game](https://lichess.org/tNqSGDld),
+and the first solution move is `e1f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
