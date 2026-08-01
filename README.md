@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r3%2F1p1p1pkp%2Fp1n2bp1%2Fq1pNp3%2F2P5%2F3P1N2%2FPP1QBPPP%2FR3K2R%20w%20KQ%20-%206%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2Fpp4K1%2FP7%2F1k5P%2F8%2F8%20w%20-%20-%200%2050&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gvanW](https://lichess.org/training/gvanW), rated `1516`.
-The game is `giorgos (1942)` vs `H-tawfeeeek (1881)` at `10+7` time control,
-with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/pfPlHGEl),
-and the first solution move is `d2a5`.
+It is `White to move` in puzzle [qK9NA](https://lichess.org/training/qK9NA), rated `1419`.
+The game is `korchoi (1655)` vs `Dinozzzaurik (1639)` at `2+1` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/x6zQgoCr),
+and the first solution move is `a4b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
