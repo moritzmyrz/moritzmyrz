@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2FpB2rpp1%2F5b1p%2F7P%2F8%2F1R2PP2%2FPP6%2F2KR4%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp1R2ppp%2Fb3p3%2F3qP3%2F5Q2%2F5N2%2FPP2BPPP%2F6K1%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Xc3j4](https://lichess.org/training/Xc3j4), rated `1480`.
-The game is `Tamer-lenk (2130)` vs `IchBinFett04 (1949)` at `15+15` time control,
-with themes `endgame, short, advantage`. You can [view the full game](https://lichess.org/zHSBUXyb),
-and the first solution move is `e7b7`.
+It is `Black to move` in puzzle [Jk3S0](https://lichess.org/training/Jk3S0), rated `1362`.
+The game is `fafa74 (1803)` vs `Donya345 (1751)` at `2+0` time control,
+with themes `middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/5TaaLTdb),
+and the first solution move is `d5d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
