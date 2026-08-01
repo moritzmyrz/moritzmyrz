@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k1r%2Fp4pp1%2F8%2F8%2F1PQ5%2FP3q1P1%2F5R1r%2F5RK1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1r3%2F1p1p1pkp%2Fp1n2bp1%2Fq1pNp3%2F2P5%2F3P1N2%2FPP1QBPPP%2FR3K2R%20w%20KQ%20-%206%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2qX8s](https://lichess.org/training/2qX8s), rated `1306`.
-The game is `Zevar (1944)` vs `gosagosa1 (1974)` at `10+0` time control,
-with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/WsPyfd0D),
-and the first solution move is `c4f7`.
+It is `White to move` in puzzle [gvanW](https://lichess.org/training/gvanW), rated `1516`.
+The game is `giorgos (1942)` vs `H-tawfeeeek (1881)` at `10+7` time control,
+with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/pfPlHGEl),
+and the first solution move is `d2a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
