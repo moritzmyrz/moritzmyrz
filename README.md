@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1ppb1pp1%2Fp1np1n1p%2F2bNp1N1%2F2P5%2FPP2P3%2F1BQP1PPP%2FR3KB1R%20w%20KQ%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1r5p%2F2R1Pkp1%2F1pB2p2%2F5P2%2F6P1%2F6KP%2F1r6%20w%20-%20-%201%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WkMw6](https://lichess.org/training/WkMw6), rated `1333`.
-The game is `Asquaremichael (1731)` vs `FlorentinG87 (1679)` at `3+0` time control,
-with themes `mateIn2, short, opening, kingsideAttack`. You can [view the full game](https://lichess.org/ZZP7RTQH),
-and the first solution move is `d5f6`.
+It is `White to move` in puzzle [RGMer](https://lichess.org/training/RGMer), rated `1584`.
+The game is `horrillo69 (2096)` vs `vking2 (1967)` at `3+2` time control,
+with themes `deflection, endgame, advancedPawn, long, promotion, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/u1OPOGcq),
+and the first solution move is `e6e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
