@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1r5p%2F2R1Pkp1%2F1pB2p2%2F5P2%2F6P1%2F6KP%2F1r6%20w%20-%20-%201%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4r1p1%2F7p%2F8%2F1P3P2%2F2Pp3P%2F1R4P1%2F7K%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RGMer](https://lichess.org/training/RGMer), rated `1584`.
-The game is `horrillo69 (2096)` vs `vking2 (1967)` at `3+2` time control,
-with themes `deflection, endgame, advancedPawn, long, promotion, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/u1OPOGcq),
-and the first solution move is `e6e7`.
+It is `Black to move` in puzzle [Aha2S](https://lichess.org/training/Aha2S), rated `1501`.
+The game is `migutier (1983)` vs `opv (2037)` at `10+0` time control,
+with themes `endgame, advancedPawn, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/LCs5ZXgB),
+and the first solution move is `e7e2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
