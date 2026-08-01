@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4r1p1%2F7p%2F8%2F1P3P2%2F2Pp3P%2F1R4P1%2F7K%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k1r%2Fp4pp1%2F8%2F8%2F1PQ5%2FP3q1P1%2F5R1r%2F5RK1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Aha2S](https://lichess.org/training/Aha2S), rated `1501`.
-The game is `migutier (1983)` vs `opv (2037)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/LCs5ZXgB),
-and the first solution move is `e7e2`.
+It is `White to move` in puzzle [2qX8s](https://lichess.org/training/2qX8s), rated `1306`.
+The game is `Zevar (1944)` vs `gosagosa1 (1974)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/WsPyfd0D),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
