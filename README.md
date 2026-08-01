@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1r1k%2Fppp1p1bp%2F2np2p1%2F5bQP%2F2B5%2F2N2P2%2FPPP5%2F2KR2NR%20w%20-%20-%203%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fp7%2F1pR1p3%2F3p2k1%2F3P2Pr%2FPP2PK1P%2F1B3P2%2F5b1R%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zZVay](https://lichess.org/training/zZVay), rated `1425`.
-The game is `Ayz667 (1912)` vs `MADSERB64 (1611)` at `3+0` time control,
-with themes `short, advantage, opening, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/tmHRG4mj),
-and the first solution move is `h5g6`.
+It is `Black to move` in puzzle [VU2Cj](https://lichess.org/training/VU2Cj), rated `1371`.
+The game is `Aj-baba (2123)` vs `KoryB (1710)` at `5+0` time control,
+with themes `short, pillsburysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/8xFkMy6a),
+and the first solution move is `h4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
