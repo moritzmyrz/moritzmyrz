@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rq4%2Fp4ppk%2F4pn1p%2F3pR1P1%2F7R%2F1Pr4Q%2FP1P2P1P%2F6K1%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp3p1p%2F6p1%2F2p3B1%2F2n5%2F3b1NP1%2FPPr4P%2FR2K1R2%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ae2V2](https://lichess.org/training/ae2V2), rated `1570`.
-The game is `JericLanzAlmoradie (1802)` vs `cj2203 (2039)` at `14+15` time control,
-with themes `middlegame, crushing, long, sacrifice`. You can [view the full game](https://lichess.org/Haft8Ce0),
-and the first solution move is `h4h6`.
+It is `Black to move` in puzzle [Z6dW0](https://lichess.org/training/Z6dW0), rated `1501`.
+The game is `Gfasciana23 (1746)` vs `Geraldalbert (1783)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, operaMate`. You can [view the full game](https://lichess.org/Ny4rq2pJ),
+and the first solution move is `c4b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
