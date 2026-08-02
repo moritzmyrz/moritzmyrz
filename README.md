@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2FR3Pp2%2F3p1q1k%2F5Qp1%2F2P3Kp%2F5P1P%2F5P2%2F8%20b%20-%20-%203%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F7p%2F5R2%2F1pk5%2F2p1Bp2%2F3p4%2FPP4PP%2F4K3%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [SDTkO](https://lichess.org/training/SDTkO), rated `1403`.
-The game is `Suffkopf97 (2329)` vs `KingRAZOR (2284)` at `3+0` time control,
-with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/KAg2ZEW9),
-and the first solution move is `f6d4`.
+It is `Black to move` in puzzle [5RSol](https://lichess.org/training/5RSol), rated `1587`.
+The game is `stef784 (1907)` vs `Thoriq_jepara21 (1957)` at `5+3` time control,
+with themes `advantage, pin, veryLong, endgame`. You can [view the full game](https://lichess.org/3jDMJQzd),
+and the first solution move is `g8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
