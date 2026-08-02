@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4rkp1%2FPR5p%2F5p2%2F4p2P%2F4K1P1%2F8%20w%20-%20-%200%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2Fpp4pp%2F5r1k%2F2qR4%2F4Q3%2F6P1%2FP1P1RP1P%2F5K2%20b%20-%20-%2010%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XtcZV](https://lichess.org/training/XtcZV), rated `1320`.
-The game is `marbo (2179)` vs `irfan_jogja (2123)` at `5+0` time control,
-with themes `crushing, long, rookEndgame, endgame`. You can [view the full game](https://lichess.org/lev4kdxX),
-and the first solution move is `b5b6`.
+It is `Black to move` in puzzle [2dAGA](https://lichess.org/training/2dAGA), rated `1556`.
+The game is `Ehin (1802)` vs `The_King_of_Tampa (1816)` at `15+15` time control,
+with themes `deflection, endgame, long, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/aVz8KCuR),
+and the first solution move is `f6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
