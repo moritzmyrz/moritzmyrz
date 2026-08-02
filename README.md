@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7R%2F1p4pP%2F3k1pP1%2FP2r4%2F1K3P2%2F3p4%2F8%20w%20-%20-%200%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpp4pp%2F8%2Fq2QB3%2F2P5%2FP3P3%2F5nPP%2FR1R3K1%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dpDx2](https://lichess.org/training/dpDx2), rated `1572`.
-The game is `YesaulkovO (2215)` vs `reineke_fuchs (2260)` at `3+2` time control,
-with themes `veryLong, endgame, crushing, rookEndgame`. You can [view the full game](https://lichess.org/Ci1c6uvS),
-and the first solution move is `h7d7`.
+It is `Black to move` in puzzle [CbZGP](https://lichess.org/training/CbZGP), rated `1394`.
+The game is `Zahara_1213 (1644)` vs `sundar1900 (1621)` at `3+2` time control,
+with themes `veryLong, advantage, fork, middlegame`. You can [view the full game](https://lichess.org/L8f0RRhU),
+and the first solution move is `a5d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
