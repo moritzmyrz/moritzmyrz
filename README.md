@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F7p%2F5R2%2F1pk5%2F2p1Bp2%2F3p4%2FPP4PP%2F4K3%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3k1r%2Fpp2b1p1%2F2p1pnQp%2F2q5%2F5N2%2F5P2%2FPPP3PP%2FR3R1K1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5RSol](https://lichess.org/training/5RSol), rated `1587`.
-The game is `stef784 (1907)` vs `Thoriq_jepara21 (1957)` at `5+3` time control,
-with themes `advantage, pin, veryLong, endgame`. You can [view the full game](https://lichess.org/3jDMJQzd),
-and the first solution move is `g8e8`.
+It is `White to move` in puzzle [lq1x8](https://lichess.org/training/lq1x8), rated `1270`.
+The game is `Archisman13132 (1800)` vs `MaximeBD (1842)` at `3+0` time control,
+with themes `advantage, defensiveMove, long, middlegame`. You can [view the full game](https://lichess.org/sMUzQlmi),
+and the first solution move is `g1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
