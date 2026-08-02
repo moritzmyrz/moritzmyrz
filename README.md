@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1p2p2%2F1pP3p1%2F1Pk3P1%2FP5K1%2F7P%2F8%2F8%20b%20-%20-%202%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5b1k%2Fp1q5%2Fb1p3p1%2F4p1N1%2F6P1%2F1B2p2K%2FPP3r2%2F7R%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GpWM5](https://lichess.org/training/GpWM5), rated `1278`.
-The game is `S4M1N (1590)` vs `FRANCESCO1164 (1591)` at `10+0` time control,
-with themes `long, crushing, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/0qLxbr0i),
-and the first solution move is `c5b4`.
+It is `White to move` in puzzle [e8Jyk](https://lichess.org/training/e8Jyk), rated `1516`.
+The game is `victorloja (1773)` vs `RegularDude (1831)` at `5+3` time control,
+with themes `exposedKing, middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/9FwNR01f),
+and the first solution move is `h3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
