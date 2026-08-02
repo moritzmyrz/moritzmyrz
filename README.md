@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F1p2p2p%2Fp5r1%2F8%2F8%2F1PPPRp1P%2F2P2P2%2FR4K2%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp3pp%2F3b1q2%2F3P1p1B%2F3n4%2F2PP4%2FPP4PP%2FR1BQ1R1K%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [e3WVu](https://lichess.org/training/e3WVu), rated `1484`.
-The game is `donche428 (2030)` vs `PetiteTadpole (1919)` at `2+1` time control,
-with themes `endgame, advantage, quietMove, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/mxk55T46),
-and the first solution move is `d8g8`.
+It is `Black to move` in puzzle [mouFO](https://lichess.org/training/mouFO), rated `1600`.
+The game is `Kaorkidu (1554)` vs `easy-player (1619)` at `2+0` time control,
+with themes `crushing, veryLong, middlegame`. You can [view the full game](https://lichess.org/rcLJGz3c),
+and the first solution move is `f6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
