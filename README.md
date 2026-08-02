@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5p2%2F8%2F2k1P3%2F2q5%2F2p4R%2F1K1R4%20w%20-%20-%200%2060&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1k6%2Fpp2p1p1%2F1P1pP1P1%2F1P3P2%2F2K5%2F8%20b%20-%20-%201%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [9FJHL](https://lichess.org/training/9FJHL), rated `1406`.
-The game is `ullah212 (2331)` vs `Alex-Russia (2225)` at `10+0` time control,
-with themes `endgame, short, crushing, queenRookEndgame, pin`. You can [view the full game](https://lichess.org/yhlRfxYq),
-and the first solution move is `h2c2`.
+It is `Black to move` in puzzle [BiUBQ](https://lichess.org/training/BiUBQ), rated `1546`.
+The game is `Centellla0503 (2240)` vs `Valdenicio2022 (2106)` at `3+0` time control,
+with themes `endgame, master, short, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/C5HgkKpD),
+and the first solution move is `a5a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
