@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1ppb1p2%2Fp2p4%2F3Pp1q1%2FPP2P3%2FR3Q2p%2F6rN%2F3BR2K%20b%20-%20-%202%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4k%2Fpp4pp%2F4p3%2F2PpN2Q%2F3P3P%2FPP6%2F1q4PK%2F8%20w%20-%20-%207%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ZDgen](https://lichess.org/training/ZDgen), rated `1400`.
-The game is `advaitm10 (1958)` vs `nabilfahmy5757nabilf (1958)` at `10+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/O8MPYibf),
-and the first solution move is `g2h2`.
+It is `White to move` in puzzle [3VvE7](https://lichess.org/training/3VvE7), rated `1630`.
+The game is `Tommy314 (1938)` vs `Aba04 (1929)` at `10+5` time control,
+with themes `endgame, crushing, fork, long, pin`. You can [view the full game](https://lichess.org/0xixcIQ0),
+and the first solution move is `e5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
