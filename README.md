@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp3k2%2F6q1%2F3p1n2%2F1P6%2FP4KP1%2F2P5%2FR6Q%20b%20-%20-%202%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F2n5%2F2P3p1%2F3PK1Bp%2F4P2P%2F5P2%2F8%2F3r4%20w%20-%20-%2011%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [x4teE](https://lichess.org/training/x4teE), rated `1291`.
-The game is `aVague (1776)` vs `hotguylooking4mate (1714)` at `3+2` time control,
-with themes `veryLong, endgame, crushing, fork`. You can [view the full game](https://lichess.org/EXjQul0Q),
-and the first solution move is `g6g3`.
+It is `White to move` in puzzle [59FSS](https://lichess.org/training/59FSS), rated `1334`.
+The game is `Bimka1991 (1712)` vs `Demianiuk (1748)` at `3+0` time control,
+with themes `exposedKing, endgame, advancedPawn, crushing, long`. You can [view the full game](https://lichess.org/J9Ea9cT3),
+and the first solution move is `d5d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
