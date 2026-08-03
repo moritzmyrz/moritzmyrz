@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3r2k1%2Fp1r4p%2F5Pp1%2F6P1%2F2Bp1R2%2FPP2p2P%2F4R2K%20b%20-%20-%201%2038&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5R1%2F1p3P1k%2Fp3p1p1%2F3p4%2F8%2F8%2FPPP1q1P1%2F1K3R2%20w%20-%20-%205%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [9Untj](https://lichess.org/training/9Untj), rated `1485`.
-The game is `ocelaris2001 (1971)` vs `BGMot (1998)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, crushing, sacrifice`. You can [view the full game](https://lichess.org/p9OcsZjs),
-and the first solution move is `c6c3`.
+It is `White to move` in puzzle [or6cd](https://lichess.org/training/or6cd), rated `1501`.
+The game is `FennecBread (1941)` vs `dadsax (1933)` at `10+0` time control,
+with themes `endgame, short, crushing, queenRookEndgame`. You can [view the full game](https://lichess.org/TSzb9LuY),
+and the first solution move is `f1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
