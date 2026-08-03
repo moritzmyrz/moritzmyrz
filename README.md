@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2Fp5kp%2F1pqpprp1%2F5nR1%2F2PQ1P2%2F4P1P1%2FP3BK2%2F7R%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1bp3pp%2F1P2p1q1%2Fp3Npn1%2FP7%2F2P1P3%2F2Q1BPPP%2F1R3RK1%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [md73k](https://lichess.org/training/md73k), rated `1350`.
-The game is `Bang_broooy (2364)` vs `matany64 (2371)` at `10+0` time control,
-with themes `deflection, middlegame, short, advantage`. You can [view the full game](https://lichess.org/dKhHdBcu),
-and the first solution move is `h1h7`.
+It is `Black to move` in puzzle [inUDv](https://lichess.org/training/inUDv), rated `1329`.
+The game is `Peroxyy (1784)` vs `speedy7hdez (1767)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack, discoveredAttack, pin`. You can [view the full game](https://lichess.org/Z3aRkHI4),
+and the first solution move is `g5h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
