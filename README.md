@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5R1%2F1p3P1k%2Fp3p1p1%2F3p4%2F8%2F8%2FPPP1q1P1%2F1K3R2%20w%20-%20-%205%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2r1k%2F1b3pRp%2Fp4P2%2F4p2N%2F1p4Q1%2F3pq3%2FPP5P%2FR4K2%20w%20-%20-%204%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [or6cd](https://lichess.org/training/or6cd), rated `1501`.
-The game is `FennecBread (1941)` vs `dadsax (1933)` at `10+0` time control,
-with themes `endgame, short, crushing, queenRookEndgame`. You can [view the full game](https://lichess.org/TSzb9LuY),
-and the first solution move is `f1h1`.
+It is `White to move` in puzzle [le2zR](https://lichess.org/training/le2zR), rated `1270`.
+The game is `A57_Knight (2033)` vs `IlyaKimry (2052)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/Sty9Y4Fh),
+and the first solution move is `g7h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
