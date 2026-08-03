@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp3npp%2F2pPkp2%2F4P3%2F4K1PP%2FP4N2%2F1P6%2F8%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7Q%2F3k3p%2Fp5n1%2F1pK3P1%2F4P2P%2F8%2FPPPq4%2FR6R%20b%20-%20-%204%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [eAfOv](https://lichess.org/training/eAfOv), rated `1433`.
-The game is `Alberto2R97 (1542)` vs `GTLV (1537)` at `10+5` time control,
-with themes `endgame, advancedPawn, advantage, fork, long, knightEndgame`. You can [view the full game](https://lichess.org/KtN1RVpg),
-and the first solution move is `f3d4`.
+It is `Black to move` in puzzle [WznnQ](https://lichess.org/training/WznnQ), rated `1473`.
+The game is `Zaychik13 (1990)` vs `spedes (1803)` at `15+5` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/TPegTzZP),
+and the first solution move is `d2d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
