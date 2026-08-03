@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp3pp1%2F3b4%2F3p4%2F2qP4%2F2P4P%2FPP1BrRP1%2FR2Q2K1%20b%20-%20-%203%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fppp2Rpp%2F2np3n%2Fb7%2F2BPP1b1%2F2PQ4%2FP5PP%2FRNq3K1%20w%20-%20-%200%2013&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uzNXj](https://lichess.org/training/uzNXj), rated `1490`.
-The game is `kons31 (1837)` vs `capa_jr (1792)` at `30+10` time control,
-with themes `deflection, middlegame, short, crushing, kingsideAttack`. You can [view the full game](https://lichess.org/Hmm3GaL2),
-and the first solution move is `d6h2`.
+It is `White to move` in puzzle [EyJKK](https://lichess.org/training/EyJKK), rated `1499`.
+The game is `n4rziss (2039)` vs `phantomfive (1985)` at `5+0` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/ROQcRwbl),
+and the first solution move is `f7f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
