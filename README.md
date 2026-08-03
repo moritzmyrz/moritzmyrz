@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2F8%2FpK6%2F2P5%2FPk6%2F8%2F8%20b%20-%20-%201%2054&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F5p2%2F4kP1R%2F1pq1p3%2Fp4n2%2F1P3B2%2FP1PQ4%2F1K6%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6UGrk](https://lichess.org/training/6UGrk), rated `1452`.
-The game is `PhilChillKing (1715)` vs `yassine_99 (1723)` at `3+0` time control,
-with themes `endgame, crushing, quietMove, long, pawnEndgame`. You can [view the full game](https://lichess.org/PFRy4f5M),
-and the first solution move is `a5a4`.
+It is `White to move` in puzzle [H7F8b](https://lichess.org/training/H7F8b), rated `1256`.
+The game is `TrunksSSJ2 (2405)` vs `Davigator (2360)` at `3+0` time control,
+with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/KuRHq7cO),
+and the first solution move is `f3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
