@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp1p2ppp%2F1p3n2%2F1RpP2q1%2FP1P5%2F4rP2%2F3N1Q1P%2F7K%20w%20-%20-%206%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fpb1pbpp1%2F1p5p%2F3NP3%2F3P2R1%2F5Q2%2FPPP2PPP%2FR5K1%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WZKvi](https://lichess.org/training/WZKvi), rated `1535`.
-The game is `pascal-rouleaux (2000)` vs `gavon (1969)` at `3+2` time control,
-with themes `endgame, advantage, long, interference, defensiveMove`. You can [view the full game](https://lichess.org/UQIo5Ykq),
-and the first solution move is `f3f4`.
+It is `White to move` in puzzle [Giuvx](https://lichess.org/training/Giuvx), rated `1476`.
+The game is `Amit70 (1868)` vs `Vijay_Satyadevsoni (1759)` at `10+5` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/Cq9OGyhF),
+and the first solution move is `d5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
