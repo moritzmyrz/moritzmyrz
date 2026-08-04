@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp1bq2p%2F3p1pBQ%2F3P4%2F3p4%2F5PP1%2FPPP2K2%2F7R%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2P5%2FR4bk1%2F3K4%2F1p4p1%2F1P6%2FP7%2F2r5%20w%20-%20-%201%2062&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Cir3F](https://lichess.org/training/Cir3F), rated `1285`.
-The game is `Hieu_Nghia (1729)` vs `NoTurningBackinLyf (1709)` at `3+0` time control,
-with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/nRRO87E9),
-and the first solution move is `e7e3`.
+It is `White to move` in puzzle [ZvvAT](https://lichess.org/training/ZvvAT), rated `1314`.
+The game is `bustun (1778)` vs `Umpolung (1861)` at `10+0` time control,
+with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/S4AGhGDY),
+and the first solution move is `a6c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
