@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FR6p%2F6pk%2F8%2F6P1%2FP5R1%2F1rr5%2F6K1%20w%20-%20-%207%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2FN6p%2F4n3%2F3p4%2F1P4PP%2FP1R2P1K%2F3r4%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [zEaSO](https://lichess.org/training/zEaSO), rated `1631`.
-The game is `Topilo121 (1666)` vs `kont3 (1696)` at `10+0` time control,
-with themes `deflection, short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/N96jdNWi),
-and the first solution move is `g4g5`.
+It is `Black to move` in puzzle [2olGc](https://lichess.org/training/2olGc), rated `1582`.
+The game is `Jennyzzz (1591)` vs `Msc1 (1554)` at `10+5` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/hhfzatEa),
+and the first solution move is `e5f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
