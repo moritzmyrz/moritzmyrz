@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fpb1pbpp1%2F1p5p%2F3NP3%2F3P2R1%2F5Q2%2FPPP2PPP%2FR5K1%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp1q1rppp%2F1p2p3%2F4N3%2FR2P4%2F2nQ2P1%2FP4P1P%2F2R3K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Giuvx](https://lichess.org/training/Giuvx), rated `1476`.
-The game is `Amit70 (1868)` vs `Vijay_Satyadevsoni (1759)` at `10+5` time control,
-with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/Cq9OGyhF),
-and the first solution move is `d5e7`.
+It is `White to move` in puzzle [sU5JV](https://lichess.org/training/sU5JV), rated `1612`.
+The game is `Oleg_Papayan (2521)` vs `Homotopie (2624)` at `3+0` time control,
+with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/MCFpBfXj),
+and the first solution move is `a4c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
