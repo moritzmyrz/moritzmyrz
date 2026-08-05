@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1r5p%2FP1r1k1p1%2F4pp2%2F7P%2F8%2F5PP1%2FR5K1%20w%20-%20-%200%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2F1p6%2F1Pkb1p1p%2F3R4%2Fp1K2P2%2F5BP1%2F7P%2F8%20w%20-%20-%203%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2fQSj](https://lichess.org/training/2fQSj), rated `1282`.
-The game is `Trashopening (2376)` vs `Chevrin (2339)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, crushing, rookEndgame, promotion, pin, deflection, veryLong`. You can [view the full game](https://lichess.org/elNeKAEt),
-and the first solution move is `a6b7`.
+It is `White to move` in puzzle [oQ3tJ](https://lichess.org/training/oQ3tJ), rated `1294`.
+The game is `No_soy_yo (2092)` vs `es123es (2221)` at `10+0` time control,
+with themes `endgame, short, discoveredCheck, advantage, skewer, doubleCheck`. You can [view the full game](https://lichess.org/rp9JHsXj),
+and the first solution move is `d5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
