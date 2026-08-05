@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F1p3r1k%2Fp5pp%2F3p4%2F8%2F5Bb1%2FPP4Pq%2F2QR1K2%20b%20-%20-%205%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4bk1%2FR4pp1%2F2b1p2p%2F3nP3%2F3NB2P%2F8%2F3B1PP1%2F6K1%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VAqHU](https://lichess.org/training/VAqHU), rated `1503`.
-The game is `MrLegilimens (2008)` vs `Eternalgame (2144)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/XGH240Ad),
-and the first solution move is `f7f3`.
+It is `White to move` in puzzle [5UKA9](https://lichess.org/training/5UKA9), rated `1375`.
+The game is `Elomon_T_2002 (2007)` vs `pobeditleninwssegda (1852)` at `20+10` time control,
+with themes `hangingPiece, advantage, short, middlegame`. You can [view the full game](https://lichess.org/CizPYGuQ),
+and the first solution move is `d4c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
