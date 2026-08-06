@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1p3p1p%2F2p4n%2F8%2Fp4P1Q%2FP4q2%2FB1P3RP%2F7K%20w%20-%20-%203%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6kp%2F5r2%2F6PK%2F6PP%2F8%2F8%20w%20-%20-%200%2066&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [e6lK6](https://lichess.org/training/e6lK6), rated `1305`.
-The game is `migale12 (2028)` vs `DrPapilon (2037)` at `3+0` time control,
-with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/tvq3go9g),
-and the first solution move is `h4f6`.
+It is `White to move` in puzzle [od4ZQ](https://lichess.org/training/od4ZQ), rated `1419`.
+The game is `logi (2261)` vs `dvo35 (2287)` at `3+0` time control,
+with themes `endgame, crushing, long`. You can [view the full game](https://lichess.org/RCc9ZyDI),
+and the first solution move is `g4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
