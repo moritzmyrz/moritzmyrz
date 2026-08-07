@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1r1%2Fp1p4p%2F2p1pq2%2F3p1p2%2F2PPn3%2FPP2PP2%2F6PP%2FRN1QKB1R%20b%20KQq%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp1P1ppp%2F6q1%2F4p3%2F1Q6%2FP4P2%2Fr5PP%2F3R2nK%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rz3t0](https://lichess.org/training/rz3t0), rated `1301`.
-The game is `Sinkoush (1698)` vs `burhankurt27 (1770)` at `10+0` time control,
-with themes `middlegame, advantage, long`. You can [view the full game](https://lichess.org/5upBqAAb),
-and the first solution move is `f6h4`.
+It is `White to move` in puzzle [E5a9D](https://lichess.org/training/E5a9D), rated `1414`.
+The game is `giberna1952 (1756)` vs `NickUtrecht (1767)` at `5+0` time control,
+with themes `advancedPawn, short, attraction, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/8TeUI7Fm),
+and the first solution move is `b4f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
