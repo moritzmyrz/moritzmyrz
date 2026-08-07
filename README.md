@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fppp4k%2F7p%2F8%2F6Q1%2F1Pq1p3%2FP5PP%2F4R1K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2F6R1%2Fp2p4%2F1p1P3P%2F1P6%2FP1B2rP1%2F2K2b2%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BFwS4](https://lichess.org/training/BFwS4), rated `1386`.
-The game is `sb_dz (1618)` vs `Krt-M7ro8 (1620)` at `10+5` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/13pDgfBF),
-and the first solution move is `g4d7`.
+It is `Black to move` in puzzle [IVWrJ](https://lichess.org/training/IVWrJ), rated `1527`.
+The game is `Wm-Hippo (1833)` vs `NickZack (1764)` at `15+10` time control,
+with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/YhRGZ7DJ),
+and the first solution move is `f2c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
