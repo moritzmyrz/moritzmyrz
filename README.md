@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1qr1k2r%2F3p1ppp%2Fp3pb2%2F1p2n3%2F8%2FPBB3Q1%2F1P3PPP%2F2RR2K1%20w%20k%20-%204%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k1r1%2Fp1p4p%2F2p1pq2%2F3p1p2%2F2PPn3%2FPP2PP2%2F6PP%2FRN1QKB1R%20b%20KQq%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [QMDHS](https://lichess.org/training/QMDHS), rated `1405`.
-The game is `Kybit-44 (2176)` vs `Ramzi1973 (2149)` at `3+2` time control,
-with themes `discoveredAttack, long, advantage, middlegame`. You can [view the full game](https://lichess.org/u33nN1yM),
-and the first solution move is `c3e5`.
+It is `Black to move` in puzzle [rz3t0](https://lichess.org/training/rz3t0), rated `1301`.
+The game is `Sinkoush (1698)` vs `burhankurt27 (1770)` at `10+0` time control,
+with themes `middlegame, advantage, long`. You can [view the full game](https://lichess.org/5upBqAAb),
+and the first solution move is `f6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
