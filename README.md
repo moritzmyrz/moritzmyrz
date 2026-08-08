@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2Fp1q3kb%2F1p4p1%2F2p1r1Q1%2F6N1%2F7P%2F6P1%2F6K1%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fpp3ppp%2F3p2n1%2F1B1Q4%2F8%2F5PNP%2FPP3qR1%2FR6K%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [eufA0](https://lichess.org/training/eufA0), rated `1614`.
-The game is `pablomatic (2166)` vs `LeviatanSCZ (1993)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/gOewfgc8),
-and the first solution move is `g5f6`.
+It is `Black to move` in puzzle [0whf8](https://lichess.org/training/0whf8), rated `1587`.
+The game is `Rashad2018 (2621)` vs `Pawn_Avalanche (2671)` at `3+0` time control,
+with themes `exposedKing, masterVsMaster, crushing, attraction, fork, long, sacrifice, master, middlegame`. You can [view the full game](https://lichess.org/HG8NmjWH),
+and the first solution move is `f2g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
