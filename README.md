@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3n1p2%2F1p6%2F1p1p1K1R%2F3N4%2FP1P2P2%2F1P5P%2F4r3%20b%20-%20-%200%2040&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F6p1%2F4P2p%2F2pP4%2F1pP1Q3%2F1P6%2Fr2q2PP%2F1R4K1%20b%20-%20-%202%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ol6Ro](https://lichess.org/training/Ol6Ro), rated `1299`.
-The game is `juniortay (2409)` vs `OlDinosaurier (2241)` at `3+0` time control,
-with themes `deflection, endgame, master, advantage, fork, long`. You can [view the full game](https://lichess.org/7tziimy0),
-and the first solution move is `e1e5`.
+It is `Black to move` in puzzle [VBWCf](https://lichess.org/training/VBWCf), rated `1587`.
+The game is `Kalle73 (1958)` vs `badak_bercula1 (1973)` at `3+0` time control,
+with themes `clearance, endgame, advantage, long`. You can [view the full game](https://lichess.org/Nmw3YPzP),
+and the first solution move is `d2f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
