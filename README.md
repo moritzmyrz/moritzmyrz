@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fpp2kp2%2F3p3q%2F4P2r%2F2PpP1Q1%2F3P2P1%2FPP3KB1%2FR4R2%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbr2k1%2F1pq2ppp%2Fp4n2%2F8%2F2NQBB2%2F2P2P2%2FP1P3PP%2FR3K2R%20b%20KQ%20-%202%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bVfH9](https://lichess.org/training/bVfH9), rated `1456`.
-The game is `denoranho (1799)` vs `tvmmo (1804)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/lcrKvZ0f),
-and the first solution move is `h6e3`.
+It is `Black to move` in puzzle [MXwH7](https://lichess.org/training/MXwH7), rated `1617`.
+The game is `Schluckauf (2223)` vs `Sesenco (2228)` at `3+0` time control,
+with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/HV1OIfeT),
+and the first solution move is `d8d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
