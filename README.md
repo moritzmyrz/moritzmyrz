@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3Q4%2F6kp%2F6p1%2F1pp5%2F8%2F1P4b1%2Fr3q2P%2F5RK1%20w%20-%20-%201%2045&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2F1pp1p2p%2F8%2F3PNq2%2F2P5%2F8%2FPP2QP1K%2FR4R2%20b%20-%20-%202%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mr1ec](https://lichess.org/training/mr1ec), rated `1401`.
-The game is `CyberLion (2592)` vs `SackOnTheKing930 (2681)` at `3+0` time control,
-with themes `endgame, master, oneMove, mateIn1`. You can [view the full game](https://lichess.org/ZsCQSSHz),
-and the first solution move is `d8f8`.
+It is `Black to move` in puzzle [rTBFF](https://lichess.org/training/rTBFF), rated `1416`.
+The game is `zasfet (1752)` vs `kanuni_1 (1727)` at `5+3` time control,
+with themes `exposedKing, endgame, long, mateIn3`. You can [view the full game](https://lichess.org/M7kLjk4i),
+and the first solution move is `f5f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
