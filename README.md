@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbr2k1%2F1pq2ppp%2Fp4n2%2F8%2F2NQBB2%2F2P2P2%2FP1P3PP%2FR3K2R%20b%20KQ%20-%202%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp1p3qp%2F2pp2PQ%2F6p1%2F2n5%2F6PP%2FPr2P3%2F5R1K%20w%20-%20-%201%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MXwH7](https://lichess.org/training/MXwH7), rated `1617`.
-The game is `Schluckauf (2223)` vs `Sesenco (2228)` at `3+0` time control,
-with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/HV1OIfeT),
-and the first solution move is `d8d4`.
+It is `White to move` in puzzle [It8cR](https://lichess.org/training/It8cR), rated `1600`.
+The game is `Nchindi (1733)` vs `skydeborov (2255)` at `5+0` time control,
+with themes `endgame, advancedPawn, crushing, xRayAttack, long`. You can [view the full game](https://lichess.org/lrP3pPzx),
+and the first solution move is `g6h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
