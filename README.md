@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7R%2F6p1%2F8%2F7P%2Fpk1N4%2F7r%2FK7%20b%20-%20-%203%2060&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2Fp5pp%2Fq1p1pp2%2F3p4%2F2P1n3%2FbP2PN2%2FPBR1QPPP%2F3R2K1%20b%20-%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gQAd7](https://lichess.org/training/gQAd7), rated `1357`.
-The game is `Leandro_Frutos (2407)` vs `sanju1996d (2522)` at `3+0` time control,
-with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/YHXHTgV5),
-and the first solution move is `h2h1`.
+It is `Black to move` in puzzle [usLcZ](https://lichess.org/training/usLcZ), rated `1396`.
+The game is `ILDAR_ILDISOV-1966 (2399)` vs `ChessCh_ats (2315)` at `3+0` time control,
+with themes `masterVsMaster, crushing, fork, long, master, middlegame`. You can [view the full game](https://lichess.org/BIlJrnYj),
+and the first solution move is `a3b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
