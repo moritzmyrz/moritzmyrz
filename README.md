@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp1p3qp%2F2pp2PQ%2F6p1%2F2n5%2F6PP%2FPr2P3%2F5R1K%20w%20-%20-%201%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1k2p3%2F1p1pP1pp%2F3P4%2F2P4P%2F4K1P1%2F8%20b%20-%20-%202%2040&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [It8cR](https://lichess.org/training/It8cR), rated `1600`.
-The game is `Nchindi (1733)` vs `skydeborov (2255)` at `5+0` time control,
-with themes `endgame, advancedPawn, crushing, xRayAttack, long`. You can [view the full game](https://lichess.org/lrP3pPzx),
-and the first solution move is `g6h7`.
+It is `Black to move` in puzzle [XCZco](https://lichess.org/training/XCZco), rated `1295`.
+The game is `ong-sulaeman (2040)` vs `Jubiliosov (2131)` at `10+0` time control,
+with themes `endgame, short, crushing, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/KB1aO8t3),
+and the first solution move is `b6a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
