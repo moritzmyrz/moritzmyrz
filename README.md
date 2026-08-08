@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6pp%2Fp2b4%2F1pp5%2F8%2F5QNP%2FPP3PPK%2F4q3%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FP7%2F8%2Fr7%2F2KN4%2F2P5%2F1P1k2p1%2F8%20w%20-%20-%201%2055&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nVwvk](https://lichess.org/training/nVwvk), rated `1435`.
-The game is `ArfanKhaidar (2121)` vs `dipa_si (2123)` at `5+0` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/trsPZmq5),
-and the first solution move is `f3d5`.
+It is `White to move` in puzzle [iJe04](https://lichess.org/training/iJe04), rated `1423`.
+The game is `riga2024 (2510)` vs `GLeruste (2475)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, crushing, fork, long, promotion`. You can [view the full game](https://lichess.org/LlAD8vRY),
+and the first solution move is `d4b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
