@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r7%2FppR4p%2F2b2kp1%2F4p3%2F6P1%2F1B3PKP%2FPr6%2F8%20w%20-%20-%201%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2p5%2Fp2p1kp1%2FP1nP4%2F3K1PPp%2F7P%2F5N2%20w%20-%20-%202%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [NG1lK](https://lichess.org/training/NG1lK), rated `1317`.
-The game is `mzfortuna (1517)` vs `tuncay13 (1553)` at `3+2` time control,
-with themes `endgame, mateIn4, deflection, veryLong`. You can [view the full game](https://lichess.org/sUE6naUE),
-and the first solution move is `c7f7`.
+It is `White to move` in puzzle [j3ozd](https://lichess.org/training/j3ozd), rated `1409`.
+The game is `Dragon_Wait_170 (2354)` vs `Rook-n-Roll (2433)` at `10+0` time control,
+with themes `endgame, crushing, long, knightEndgame`. You can [view the full game](https://lichess.org/GCU1OHrr),
+and the first solution move is `f1e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
