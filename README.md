@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fpp1b1pbp%2F3Qp1p1%2F1B2N3%2F8%2F8%2FPP3PPP%2FR1B2RK1%20b%20kq%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p2q1p1%2Fp4rR1%2F4P3%2F4Q3%2F2P5%2FPP4PP%2FR5K1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [LCOKb](https://lichess.org/training/LCOKb), rated `1606`.
-The game is `Ant103 (2125)` vs `moving_leapord (2060)` at `10+0` time control,
-with themes `advantage, short, hangingPiece, opening`. You can [view the full game](https://lichess.org/pWmsf1IA),
-and the first solution move is `d7b5`.
+It is `Black to move` in puzzle [AjEnM](https://lichess.org/training/AjEnM), rated `1384`.
+The game is `MRMAGO74 (1571)` vs `minimulti (1571)` at `5+3` time control,
+with themes `advantage, long, endgame`. You can [view the full game](https://lichess.org/qnpfnFDE),
+and the first solution move is `e7c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
