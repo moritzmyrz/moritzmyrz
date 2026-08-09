@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2p5%2Fp2p1kp1%2FP1nP4%2F3K1PPp%2F7P%2F5N2%20w%20-%20-%202%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fpp5p%2F2n1bp2%2F6p1%2F2P1n3%2FPP2BN1P%2FK2NBPP1%2FR6R%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [j3ozd](https://lichess.org/training/j3ozd), rated `1409`.
-The game is `Dragon_Wait_170 (2354)` vs `Rook-n-Roll (2433)` at `10+0` time control,
-with themes `endgame, crushing, long, knightEndgame`. You can [view the full game](https://lichess.org/GCU1OHrr),
-and the first solution move is `f1e3`.
+It is `Black to move` in puzzle [0B8iU](https://lichess.org/training/0B8iU), rated `1320`.
+The game is `tulegenov1953 (1776)` vs `Unchiulbunic (1768)` at `3+0` time control,
+with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/oSjNZjBs),
+and the first solution move is `e4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
