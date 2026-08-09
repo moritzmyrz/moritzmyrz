@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fpp5p%2F2n1bp2%2F6p1%2F2P1n3%2FPP2BN1P%2FK2NBPP1%2FR6R%20b%20-%20-%202%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q5%2FpppR2r1%2F5Qpk%2F2P2n2%2F8%2F2P2P1B%2FPP4RP%2F6K1%20b%20-%20-%2011%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0B8iU](https://lichess.org/training/0B8iU), rated `1320`.
-The game is `tulegenov1953 (1776)` vs `Unchiulbunic (1768)` at `3+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/oSjNZjBs),
-and the first solution move is `e4c3`.
+It is `Black to move` in puzzle [JXmK3](https://lichess.org/training/JXmK3), rated `1549`.
+The game is `Auntua (1751)` vs `timbilt (1792)` at `10+0` time control,
+with themes `hangingPiece, short, advantage, middlegame`. You can [view the full game](https://lichess.org/PSFLav3X),
+and the first solution move is `c8d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
