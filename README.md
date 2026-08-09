@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fpp2Qp1p%2F2p3pP%2F8%2F4PR2%2F1P3P2%2FP4PK1%2Fq2r4%20w%20-%20-%209%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3qrbk1%2F3p1ppp%2F8%2F8%2F3B4%2FP2Q2P1%2F4nP1P%2FR2R3K%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [E1zfh](https://lichess.org/training/E1zfh), rated `1569`.
-The game is `Javadjf (1710)` vs `karimtabrizi (1768)` at `3+2` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/xYZ4D6nL),
-and the first solution move is `e7f7`.
+It is `Black to move` in puzzle [Gl8xh](https://lichess.org/training/Gl8xh), rated `1614`.
+The game is `milos64 (2105)` vs `Panos314159265 (1995)` at `10+5` time control,
+with themes `middlegame, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/1SSqv1Rd),
+and the first solution move is `d8a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
