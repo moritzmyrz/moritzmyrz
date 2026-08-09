@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1Q2ppp%2F8%2F8%2F6q1%2F2P5%2FPr4PP%2F4RR1K%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F4rp1p%2Fp2b1qp1%2F1ppP4%2F2P3NP%2F1P4P1%2FP1Q2P1K%2F3RR3%20b%20-%20-%202%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [bU0dw](https://lichess.org/training/bU0dw), rated `1482`.
-The game is `oitcdu5e (1939)` vs `DavidBunags_098 (2070)` at `10+0` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/NLLdefmT),
-and the first solution move is `c7f7`.
+It is `Black to move` in puzzle [8mCkG](https://lichess.org/training/8mCkG), rated `1570`.
+The game is `Vesilik (1651)` vs `pampaverde (1706)` at `3+2` time control,
+with themes `middlegame, advantage, long, pin`. You can [view the full game](https://lichess.org/lO6EXveo),
+and the first solution move is `f6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
