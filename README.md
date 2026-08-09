@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F6pk%2F6p1%2F8%2Fr4B2%2F1Q1p2PP%2FP1q2P2%2F3R2K1%20w%20-%20-%202%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1R2p1k%2F6rp%2F3p4%2F3P1Q2%2FP3Pqr1%2F1P1R1P2%2F5K2%20b%20-%20-%201%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [o4F7b](https://lichess.org/training/o4F7b), rated `1551`.
-The game is `comptonassjeremy (1681)` vs `yongqiang (1661)` at `15+10` time control,
-with themes `veryLong, advantage, endgame`. You can [view the full game](https://lichess.org/uWw2CoGx),
-and the first solution move is `b3c2`.
+It is `Black to move` in puzzle [8o3nR](https://lichess.org/training/8o3nR), rated `1474`.
+The game is `baselalfaraj1 (2141)` vs `faysal56 (1997)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/h1yBMjrk),
+and the first solution move is `g3g1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
