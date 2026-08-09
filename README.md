@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F3R3p%2Fp7%2F4Q1p1%2F5r1q%2FP1P2pNP%2F1P3P1K%2F6R1%20b%20-%20-%203%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1Q2ppp%2F8%2F8%2F6q1%2F2P5%2FPr4PP%2F4RR1K%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MOLmk](https://lichess.org/training/MOLmk), rated `1399`.
-The game is `Emhade1961 (1793)` vs `creeperland (1791)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice`. You can [view the full game](https://lichess.org/jKut1FST),
-and the first solution move is `h4h3`.
+It is `White to move` in puzzle [bU0dw](https://lichess.org/training/bU0dw), rated `1482`.
+The game is `oitcdu5e (1939)` vs `DavidBunags_098 (2070)` at `10+0` time control,
+with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/NLLdefmT),
+and the first solution move is `c7f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
