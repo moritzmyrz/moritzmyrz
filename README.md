@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2b1k2r%2F7p%2F2pB2p1%2F1pP1N3%2F1n1qpp2%2F1KN5%2F4B1PP%2F1Q5R%20b%20k%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fp3pppp%2F1PP5%2F8%2FQn6%2F5n2%2FPP2KP1P%2FRNB2B1R%20b%20kq%20-%201%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [LYpEV](https://lichess.org/training/LYpEV), rated `1497`.
-The game is `Archaeous (1742)` vs `mokong21 (1727)` at `5+3` time control,
-with themes `exposedKing, middlegame, advantage, long`. You can [view the full game](https://lichess.org/NC8ykHqN),
-and the first solution move is `c8e6`.
+It is `Black to move` in puzzle [lFoNg](https://lichess.org/training/lFoNg), rated `1345`.
+The game is `boosss (1808)` vs `dodo961 (1818)` at `10+0` time control,
+with themes `oneMove, mateIn1, opening`. You can [view the full game](https://lichess.org/9Lb5TTQH),
+and the first solution move is `d8d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
