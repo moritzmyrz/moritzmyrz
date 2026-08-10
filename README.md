@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R7%2F2rk1p1p%2F4pp2%2F1PK5%2F8%2F5B2%2F3r1PPP%2F8%20w%20-%20-%203%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2k1nr%2F1p2ppbp%2Fp3b1p1%2F1N2N3%2F8%2F4B3%2FPP3PPP%2F2KR3R%20w%20k%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [e04E7](https://lichess.org/training/e04E7), rated `1490`.
-The game is `uhlmannfan (2545)` vs `Nadigraj (2789)` at `3+0` time control,
-with themes `master, endgame`. You can [view the full game](https://lichess.org/FgCWEMZb),
-and the first solution move is `f3c6`.
+It is `White to move` in puzzle [WJYLx](https://lichess.org/training/WJYLx), rated `1508`.
+The game is `CalypsoChess (1970)` vs `jesusitov (1986)` at `3+0` time control,
+with themes `short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/GIscYmoy),
+and the first solution move is `b5c7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
