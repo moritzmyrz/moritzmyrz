@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp1b1ppp%2F4pn2%2F8%2F1b1Nn3%2F2N1P3%2FPP1BBPPP%2FR3K2R%20w%20KQkq%20-%203%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=q4k1r%2Fp1p2p1p%2F3b1n2%2F6p1%2F5Pn1%2F2N1B2P%2FPPP3P1%2FR2QR1K1%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [HbP9X](https://lichess.org/training/HbP9X), rated `1485`.
-The game is `bananagy (1992)` vs `makarios123777 (1848)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/pVIRSNR1),
-and the first solution move is `c3e4`.
+It is `Black to move` in puzzle [2hOHx](https://lichess.org/training/2hOHx), rated `1554`.
+The game is `Mrjossef (1737)` vs `ilyara (1697)` at `10+0` time control,
+with themes `middlegame, advantage, attraction, long, kingsideAttack, pin`. You can [view the full game](https://lichess.org/f5UQE5z7),
+and the first solution move is `g4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
