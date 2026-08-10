@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F7p%2Fp1kp1pp1%2FP4P2%2F2PK2PP%2F8%2F8%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k2b1r%2Fp1p2ppp%2F1p6%2Fn2Bpb2%2FK7%2F2P1B3%2FPP1N2PP%2FR5NR%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ReBQY](https://lichess.org/training/ReBQY), rated `1285`.
-The game is `Donkey-Kongey (1948)` vs `javad_86 (1954)` at `3+2` time control,
-with themes `long, crushing, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/bsEhuyTd),
-and the first solution move is `f4g5`.
+It is `Black to move` in puzzle [POGY2](https://lichess.org/training/POGY2), rated `1409`.
+The game is `topperjeff (1762)` vs `boxbeatsy (1806)` at `5+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/Vlp6Qhiv),
+and the first solution move is `f5d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
