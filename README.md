@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2Fp2k4%2FP5p1%2F1Pbp2P1%2F5K1P%2F2B5%20b%20-%20-%205%2044&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1qr2k1%2F1b3ppp%2Fp3p3%2F2p2nP1%2F1nP2P2%2F4P3%2FP1N1Q1BP%2FB2R1RK1%20w%20-%20-%203%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [54M1Q](https://lichess.org/training/54M1Q), rated `1312`.
-The game is `Enserman123 (2018)` vs `SASSANID_EMPIRE (2109)` at `20+10` time control,
-with themes `endgame, advancedPawn, short, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/xzCzK2WW),
-and the first solution move is `d3d2`.
+It is `White to move` in puzzle [8WEPL](https://lichess.org/training/8WEPL), rated `1583`.
+The game is `AdriD (2870)` vs `Violet_Pride (2789)` at `3+0` time control,
+with themes `short, crushing, master, middlegame`. You can [view the full game](https://lichess.org/8q0QMOsn),
+and the first solution move is `d1d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
