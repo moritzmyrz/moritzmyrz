@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F7r%2F5p2%2F1pr4p%2F5B1P%2FP1k2KP1%2F8%2F4R3%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rqb3%2Fpp2bkp1%2F4p3%2F3p3Q%2F3P4%2F2P1p3%2FPP1N1P1P%2F2KR3R%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OBWjx](https://lichess.org/training/OBWjx), rated `1320`.
-The game is `Thompsonleif (1816)` vs `Karfov (1874)` at `10+0` time control,
-with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/DjRiGUaM),
-and the first solution move is `e1c1`.
+It is `Black to move` in puzzle [e7QkQ](https://lichess.org/training/e7QkQ), rated `1596`.
+The game is `Atirchess (1938)` vs `AlexPiello (1928)` at `10+0` time control,
+with themes `advancedPawn, middlegame, short, advantage, defensiveMove`. You can [view the full game](https://lichess.org/o3H45gzX),
+and the first solution move is `f7g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
