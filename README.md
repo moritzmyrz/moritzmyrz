@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fpp1b1k2%2F2p1pb1p%2F4P3%2F1q3P1P%2F4K3%2FPPQ2P2%2F6R1%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R2p2p%2F2pq4%2Fk4n1p%2FN1P5%2F1P6%2FPK6%2F8%20w%20-%20-%203%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [coHPz](https://lichess.org/training/coHPz), rated `1525`.
-The game is `arax-65 (1827)` vs `rinatforever (1816)` at `10+0` time control,
-with themes `veryLong, middlegame, crushing, pin, interference`. You can [view the full game](https://lichess.org/9FaiPnfO),
-and the first solution move is `c2g6`.
+It is `White to move` in puzzle [nej79](https://lichess.org/training/nej79), rated `1398`.
+The game is `extrememaster96 (1985)` vs `mayur000007 (1983)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/ef9bl3Sr),
+and the first solution move is `b7a7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
