@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2qr1k%2Fp1p3pp%2Fb1Pp4%2F8%2F4B3%2F2P1PR2%2FP1P3PP%2F1R1Q2K1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5pp1%2F7p%2F1p1N4%2F5P2%2FP7%2F1n2r1PP%2F1R3RK1%20w%20-%20-%207%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [nZ1tm](https://lichess.org/training/nZ1tm), rated `1405`.
-The game is `RolandasMar (2369)` vs `Chess_Gambit_is_fun (2326)` at `5+3` time control,
-with themes `hangingPiece, advantage, short, middlegame`. You can [view the full game](https://lichess.org/RsqNdCj5),
-and the first solution move is `e8e4`.
+It is `White to move` in puzzle [Q9zP7](https://lichess.org/training/Q9zP7), rated `1433`.
+The game is `estref01 (2338)` vs `Eman2007 (2297)` at `10+0` time control,
+with themes `endgame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/mnPPlTY3),
+and the first solution move is `b1b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
