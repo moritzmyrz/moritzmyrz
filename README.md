@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3r%2F2R1R2p%2F5pp1%2Fp2PpBPk%2FP3Pn2%2F8%2F7P%2F7K%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1R2nk1r%2Fp3ppbp%2F3p2p1%2F3P4%2F4P3%2F2r2Q1B%2FP2q1PPP%2F1R4K1%20w%20-%20-%202%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kE20F](https://lichess.org/training/kE20F), rated `1303`.
-The game is `imayush568 (1563)` vs `ilhan789 (1583)` at `5+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/P370olLT),
-and the first solution move is `e7h7`.
+It is `White to move` in puzzle [CCyyB](https://lichess.org/training/CCyyB), rated `1314`.
+The game is `michalszer121 (1581)` vs `abrekgumus (1570)` at `5+3` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice, pillsburysMate`. You can [view the full game](https://lichess.org/EZDcKhM8),
+and the first solution move is `b8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
