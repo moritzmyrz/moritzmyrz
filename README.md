@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r5%2Fp4nRR%2F1p1p1k2%2F3P4%2FPP1bB2P%2F5P2%2F7P%2F7K%20b%20-%20-%206%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fppp1qp2%2F1bn4p%2F4p1p1%2F2B5%2F2P2NP1%2FPPQ2PP1%2FRN3RK1%20w%20-%20-%202%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [cTeD0](https://lichess.org/training/cTeD0), rated `1302`.
-The game is `cheesyde (1744)` vs `Zikrullo (1763)` at `3+2` time control,
-with themes `veryLong, advantage, endgame`. You can [view the full game](https://lichess.org/jf9VjIeK),
-and the first solution move is `c8c1`.
+It is `White to move` in puzzle [mvn1i](https://lichess.org/training/mvn1i), rated `1534`.
+The game is `Sergey63b (1676)` vs `caharylx (1707)` at `10+0` time control,
+with themes `short, crushing, opening, kingsideAttack, pin`. You can [view the full game](https://lichess.org/zjNPBTnu),
+and the first solution move is `c2g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
