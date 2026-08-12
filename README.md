@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6q%2F1p1nk1p1%2Fp2pp1Q1%2F3p2P1%2F3P1P2%2F2PBP3%2FP1P5%2F2KR4%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r4%2F2Q5%2F4p1kp%2Fp3Ppp1%2F7P%2F4P1B1%2F4nPPK%2F1q6%20w%20-%20-%203%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0UC5x](https://lichess.org/training/0UC5x), rated `1379`.
-The game is `Bombist (2128)` vs `nguyenknguyen2016NLB (1929)` at `10+0` time control,
-with themes `trappedPiece, short, advantage, endgame`. You can [view the full game](https://lichess.org/ROdRM1T6),
-and the first solution move is `d7f8`.
+It is `White to move` in puzzle [k4l4i](https://lichess.org/training/k4l4i), rated `1417`.
+The game is `Zelo_seobie (2470)` vs `is1406 (1960)` at `3+0` time control,
+with themes `endgame, attraction, long, mateIn3`. You can [view the full game](https://lichess.org/vaAydDns),
+and the first solution move is `h4h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
