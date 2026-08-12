@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r4%2F1p2p3%2Fp2p2pB%2Fn3P1P1%2Fn7%2FqBP5%2FP1P5%2F1KQR3R%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5qb1%2FR6p%2F1pp5%2F4RB2%2F2P3PP%2F1P4BK%2F8%20w%20-%20-%201%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ol81A](https://lichess.org/training/ol81A), rated `1490`.
-The game is `Jokovskiy (1881)` vs `Miles37 (1884)` at `3+0` time control,
-with themes `middlegame, fork, long, mateIn3, pin`. You can [view the full game](https://lichess.org/ulgsiwta),
-and the first solution move is `a4c3`.
+It is `White to move` in puzzle [iniMU](https://lichess.org/training/iniMU), rated `1569`.
+The game is `nikodin (2456)` vs `Ashtangi (2432)` at `3+2` time control,
+with themes `middlegame, crushing, long, pin`. You can [view the full game](https://lichess.org/4zheE4Sj),
+and the first solution move is `e4e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
