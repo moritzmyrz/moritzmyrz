@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r3r%2Fp1pq4%2FQ1pbbp2%2F3p2pp%2F3P1P2%2F1NP1n2P%2FPP4PN%2FR4RK1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F4bp1p%2Fp3p1p1%2F1p6%2F1q6%2F8%2FPPPQ3R%2F1K4R1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CjD6j](https://lichess.org/training/CjD6j), rated `1447`.
-The game is `jellyfish01 (1546)` vs `Hephistos (1658)` at `5+3` time control,
-with themes `middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/qbto39uA),
-and the first solution move is `b3a5`.
+It is `White to move` in puzzle [nXvtL](https://lichess.org/training/nXvtL), rated `1510`.
+The game is `cevorus (1716)` vs `Dukovski (1858)` at `5+0` time control,
+with themes `middlegame, long, advantage`. You can [view the full game](https://lichess.org/huYuBXN4),
+and the first solution move is `d2h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
