@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F4bp1p%2Fp3p1p1%2F1p6%2F1q6%2F8%2FPPPQ3R%2F1K4R1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2R3bk%2F6pp%2Fp7%2F4P3%2F6BP%2FP2r2P1%2F5pK1%2F8%20b%20-%20-%201%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nXvtL](https://lichess.org/training/nXvtL), rated `1510`.
-The game is `cevorus (1716)` vs `Dukovski (1858)` at `5+0` time control,
-with themes `middlegame, long, advantage`. You can [view the full game](https://lichess.org/huYuBXN4),
-and the first solution move is `d2h6`.
+It is `Black to move` in puzzle [bksjy](https://lichess.org/training/bksjy), rated `1414`.
+The game is `oleg0581 (2024)` vs `G-N-C-1 (1981)` at `10+5` time control,
+with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/7VasEPBl),
+and the first solution move is `d3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
