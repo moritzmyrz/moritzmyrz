@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5ppp%2Fp3q3%2F1pQ5%2F8%2FP2P3P%2F1P3PP1%2F2KR4%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4k2%2F2p1q1p1%2F1p6%2F3Q4%2Fp6p%2F2P4P%2FP1P1rPPB%2F5K2%20w%20-%20-%204%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rzkbg](https://lichess.org/training/rzkbg), rated `1407`.
-The game is `sasharul (1678)` vs `Rvinod (1731)` at `10+0` time control,
-with themes `endgame, advantage, short, pin`. You can [view the full game](https://lichess.org/ofbY7cGY),
-and the first solution move is `e8c8`.
+It is `White to move` in puzzle [hA5Wd](https://lichess.org/training/hA5Wd), rated `1582`.
+The game is `nirvanaclaro (1918)` vs `gijssuper (1900)` at `5+3` time control,
+with themes `endgame, crushing, long, hangingPiece`. You can [view the full game](https://lichess.org/QO7hUewx),
+and the first solution move is `d5a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
