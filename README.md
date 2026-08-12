@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1p4p1%2Fp1PR4%2F7K%2F7p%2F1B2Bn2%2FPP3Pr1%2F3R4%20b%20-%20-%203%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5ppp%2Fp3q3%2F1pQ5%2F8%2FP2P3P%2F1P3PP1%2F2KR4%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vmH5A](https://lichess.org/training/vmH5A), rated `1336`.
-The game is `kjeksen (2135)` vs `pectus (2093)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/DnWVuCTJ),
-and the first solution move is `f8f5`.
+It is `Black to move` in puzzle [rzkbg](https://lichess.org/training/rzkbg), rated `1407`.
+The game is `sasharul (1678)` vs `Rvinod (1731)` at `10+0` time control,
+with themes `endgame, advantage, short, pin`. You can [view the full game](https://lichess.org/ofbY7cGY),
+and the first solution move is `e8c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
