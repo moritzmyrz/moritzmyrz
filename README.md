@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p2%2F3p2p1%2F4p1Pp%2F3q4%2F1P2rP2%2FPB3NP1%2F1K3Q2%20b%20-%20-%206%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2F2p5%2FpP6%2F4p3%2F4P2p%2F1Q1Pq1rP%2F2P2RP1%2F5R1K%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7q0ha](https://lichess.org/training/7q0ha), rated `1616`.
-The game is `ScottPilgrim (2247)` vs `ZeroMinus (2212)` at `10+5` time control,
-with themes `pin, advantage, short, endgame`. You can [view the full game](https://lichess.org/t6RTz5ke),
-and the first solution move is `d4d2`.
+It is `Black to move` in puzzle [2mrTg](https://lichess.org/training/2mrTg), rated `1527`.
+The game is `Stew76 (1824)` vs `ForkinAround (1838)` at `3+0` time control,
+with themes `deflection, endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/auBEcDwP),
+and the first solution move is `g3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
