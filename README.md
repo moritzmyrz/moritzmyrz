@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F1p4p1%2Fp1kb4%2F7p%2FP2p1p2%2F1K1P1P2%2F1P1BP2r%2F8%20w%20-%20-%206%2042&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4pk1p%2F5p2%2F1R5P%2F5PPr%2F5K2%2F8%20w%20-%20-%205%2058&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [13QOW](https://lichess.org/training/13QOW), rated `1515`.
-The game is `Beldyugin_Aleksey (2389)` vs `Alexsur81 (2763)` at `3+0` time control,
-with themes `exposedKing, endgame, master, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/cReha265),
-and the first solution move is `d8d6`.
+It is `White to move` in puzzle [rK3S4](https://lichess.org/training/rK3S4), rated `1387`.
+The game is `IwanHen (1861)` vs `Impfbefurworter (1905)` at `10+0` time control,
+with themes `endgame, short, crushing, rookEndgame, trappedPiece`. You can [view the full game](https://lichess.org/04DAGy8q),
+and the first solution move is `f2g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
