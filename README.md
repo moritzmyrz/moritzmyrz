@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3p2%2F2Pp1q1p%2F1B2p3%2F1P2P1b1%2F2P1QN2%2FP2N1Kn1%2FR6R%20b%20kq%20-%201%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2r2k1%2Fpq2bppp%2F6b1%2F8%2F8%2F2P2P2%2FPP1Q2PP%2F2KRR3%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [5vlT3](https://lichess.org/training/5vlT3), rated `1400`.
-The game is `Kraparov75 (2052)` vs `zoourban (1667)` at `20+10` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/AOmCutvl),
-and the first solution move is `g2e3`.
+It is `White to move` in puzzle [TX60o](https://lichess.org/training/TX60o), rated `1570`.
+The game is `Volkov_Leonid (1756)` vs `MartParungaoz (1749)` at `10+0` time control,
+with themes `veryLong, middlegame, crushing, kingsideAttack, pin`. You can [view the full game](https://lichess.org/amSCITNz),
+and the first solution move is `d2d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
