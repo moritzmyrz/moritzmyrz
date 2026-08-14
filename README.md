@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2Fpp5p%2F2pp4%2F6p1%2F2P1Q3%2F1P1N1qPb%2FP4P2%2FR3R1K1%20w%20-%20-%204%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4r1p1%2FP5R1%2F5q1k%2F4p2P%2F4PpQ1%2F5P2%2F5K2%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rG5Zd](https://lichess.org/training/rG5Zd), rated `1353`.
-The game is `fighter2002 (2262)` vs `MrBini (2276)` at `3+0` time control,
-with themes `short, advantage, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/V9WjKaEJ),
-and the first solution move is `e4f3`.
+It is `Black to move` in puzzle [fpnbf](https://lichess.org/training/fpnbf), rated `1356`.
+The game is `evandrorsilva (2092)` vs `ayadchess123 (2129)` at `3+0` time control,
+with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/sXmN0VHh),
+and the first solution move is `f5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
