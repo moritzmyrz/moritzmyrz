@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2F2kb1R2%2Fp2p1p2%2FNp1Pp1b1%2F1P2P3%2F3N1PK1%2FP5P1%2F8%20b%20-%20-%205%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F2q1bppp%2Fp2pp3%2F1pn3PP%2F3BN3%2FP6B%2F1PPQ1P2%2F2KR3R%20b%20kq%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [tkFyE](https://lichess.org/training/tkFyE), rated `1510`.
-The game is `SadeeraSI (1637)` vs `quinterow (1609)` at `5+3` time control,
-with themes `endgame, discoveredCheck, long, mateIn3, discoveredAttack, pillsburysMate`. You can [view the full game](https://lichess.org/D0dcR0BS),
-and the first solution move is `g5h4`.
+It is `Black to move` in puzzle [H3xIr](https://lichess.org/training/H3xIr), rated `1449`.
+The game is `boldpilot22622 (2484)` vs `edrocks (2336)` at `3+0` time control,
+with themes `short, queensideAttack, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/6aHddlsm),
+and the first solution move is `c5b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
