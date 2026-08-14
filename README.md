@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp4pp1%2F1p4bp%2F4r3%2Fq2B1Q2%2F2P2P1P%2FP5P1%2F4R2K%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2Q5%2F2p5%2F3P4%2F3k2K1%2F8%2F1q6%20w%20-%20-%201%2046&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gRZW0](https://lichess.org/training/gRZW0), rated `1473`.
-The game is `Si_Pitung77 (1988)` vs `TheAimone (1987)` at `30+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/Er060XWl),
-and the first solution move is `f4e5`.
+It is `White to move` in puzzle [1cP0o](https://lichess.org/training/1cP0o), rated `1531`.
+The game is `abdulrhman2 (1827)` vs `Baga35 (1878)` at `10+0` time control,
+with themes `short, crushing, skewer, endgame, queenEndgame`. You can [view the full game](https://lichess.org/5thxvW7g),
+and the first solution move is `c6g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
