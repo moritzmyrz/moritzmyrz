@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2Q5%2F2p5%2F3P4%2F3k2K1%2F8%2F1q6%20w%20-%20-%201%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3rr%2Fbp4qn%2Fp1ppp3%2FP3p2p%2F1P2P2Q%2F2PP1NPP%2F5P2%2FR1B2RK1%20b%20-%20-%202%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1cP0o](https://lichess.org/training/1cP0o), rated `1531`.
-The game is `abdulrhman2 (1827)` vs `Baga35 (1878)` at `10+0` time control,
-with themes `short, crushing, skewer, endgame, queenEndgame`. You can [view the full game](https://lichess.org/5thxvW7g),
-and the first solution move is `c6g6`.
+It is `Black to move` in puzzle [s0L6w](https://lichess.org/training/s0L6w), rated `1444`.
+The game is `diegojvh (1557)` vs `Adp710 (1533)` at `5+3` time control,
+with themes `middlegame, crushing, long, kingsideAttack, pin`. You can [view the full game](https://lichess.org/g8Dn6mUO),
+and the first solution move is `g7g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
