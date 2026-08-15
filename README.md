@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2Fp4p1p%2Fq1p2p2%2F2P1p3%2F3nPP2%2F1PQ5%2FP2R2PP%2F1NK4R%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3q1k1%2Fpp1b2b1%2F2n1p1N1%2F3p1r1Q%2F3P4%2F4PN2%2FPP4PP%2FR4RK1%20w%20-%20-%2011%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7vLUm](https://lichess.org/training/7vLUm), rated `1450`.
-The game is `PoliciaDeAmongUs (2061)` vs `Abracadacabracadabra (2078)` at `15+10` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/J586bxjT),
-and the first solution move is `d4e2`.
+It is `White to move` in puzzle [GrfjL](https://lichess.org/training/GrfjL), rated `1532`.
+The game is `Beutlin1 (2381)` vs `CJMabe (2289)` at `5+0` time control,
+with themes `middlegame, advantage, short, master`. You can [view the full game](https://lichess.org/Pn1xhfB3),
+and the first solution move is `f3g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
