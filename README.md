@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F1p6%2Fp2p3p%2F2pPb3%2FP1P5%2F2N2Q1P%2F1P2K1Pq%2FR1B5%20b%20-%20-%204%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2q2p2%2Fp1p1rQp1%2F7p%2F8%2F1P4R1%2FP1r3PP%2F5RK1%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [RQt0E](https://lichess.org/training/RQt0E), rated `1326`.
-The game is `DeepTrojan (2216)` vs `matveis (2232)` at `3+0` time control,
-with themes `short, advantage, pin, master, middlegame`. You can [view the full game](https://lichess.org/rvYmVJpM),
-and the first solution move is `g8g2`.
+It is `White to move` in puzzle [qMaBG](https://lichess.org/training/qMaBG), rated `1476`.
+The game is `lentokapu (2184)` vs `Rafael1551 (2147)` at `2+1` time control,
+with themes `veryLong, endgame, crushing, fork, sacrifice`. You can [view the full game](https://lichess.org/N2CiJb4q),
+and the first solution move is `g3g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
