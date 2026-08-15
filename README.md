@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F7p%2F7Q%2F3p4%2F3q4%2FpP3K2%2FB1P2P2%2F7R%20b%20-%20-%2010%2044&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2kbnr%2Fppp2ppp%2F8%2F3pP1N1%2F8%2F6P1%2FPPPP3q%2FRNB1KQ2%20w%20Qkq%20-%200%209&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1p7jm](https://lichess.org/training/1p7jm), rated `1388`.
-The game is `RA2ED (1902)` vs `ibrahem1471984 (1937)` at `10+5` time control,
-with themes `oneMove, mateIn1, endgame`. You can [view the full game](https://lichess.org/Olhdljxp),
-and the first solution move is `d4e4`.
+It is `White to move` in puzzle [D09NB](https://lichess.org/training/D09NB), rated `1434`.
+The game is `sharapovvs (1781)` vs `ConstantPobedo (1830)` at `5+0` time control,
+with themes `fork, long, mateIn3, opening, attackingF2F7`. You can [view the full game](https://lichess.org/cZ45wX1Q),
+and the first solution move is `f1f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
