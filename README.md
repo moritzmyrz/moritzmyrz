@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F6p1%2Fp3R2p%2FPp1B4%2F7n%2FP1rp3P%2F5PP1%2F6K1%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1b4k1%2F5p2%2F1R2p3%2F5p1p%2FP4P2%2F1r2B2P%2F6PK%2F8%20b%20-%20-%202%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [97EJx](https://lichess.org/training/97EJx), rated `1458`.
-The game is `qiuyinchess (2087)` vs `fabioloso (2097)` at `10+0` time control,
-with themes `endgame, short, discoveredAttack, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/hKd6EaUl),
-and the first solution move is `e6c6`.
+It is `Black to move` in puzzle [Abag7](https://lichess.org/training/Abag7), rated `1520`.
+The game is `good_knight_kisses (2388)` vs `SanMartin1778 (2427)` at `3+2` time control,
+with themes `deflection, endgame, master, short, advantage`. You can [view the full game](https://lichess.org/rXf4nzP7),
+and the first solution move is `b8f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
