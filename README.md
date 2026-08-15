@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1p3ppb%2F3pq3%2F5nQP%2F1pPp1P2%2F1P5B%2FP2P1N1K%2F8%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R4%2F8%2F1p2k1p1%2F1P2p3%2F1P3bPp%2F1R1K3P%2F4r3%2F8%20b%20-%20-%207%2041&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lDuXf](https://lichess.org/training/lDuXf), rated `1335`.
-The game is `cibona (2524)` vs `Stoichess (2632)` at `3+0` time control,
-with themes `short, kingsideAttack, endgame, mateIn2`. You can [view the full game](https://lichess.org/PSsvzMAF),
-and the first solution move is `g5d8`.
+It is `Black to move` in puzzle [n2Lh8](https://lichess.org/training/n2Lh8), rated `1399`.
+The game is `jpicone (1985)` vs `Kashirin_Andrei (2122)` at `10+0` time control,
+with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/wJaUo2gm),
+and the first solution move is `e2d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
