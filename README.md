@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4q2k%2F5b1P%2F6p1%2Fp1Q2p2%2F1p1r4%2F7R%2FPP6%2F2KR4%20b%20-%20-%200%2042&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2R5%2F1p2r1k1%2F5pp1%2Fp3nq2%2F8%2F4P2Q%2F5BPK%2F8%20w%20-%20-%206%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [VWdcK](https://lichess.org/training/VWdcK), rated `1330`.
-The game is `Z3r0L1 (1907)` vs `zboro80 (1900)` at `10+0` time control,
-with themes `endgame, short, advantage, fork`. You can [view the full game](https://lichess.org/d4oHXoMc),
-and the first solution move is `d4c4`.
+It is `White to move` in puzzle [79WMR](https://lichess.org/training/79WMR), rated `1424`.
+The game is `karplanca (2165)` vs `SeunMay (2167)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/CSs04vuZ),
+and the first solution move is `h3h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
