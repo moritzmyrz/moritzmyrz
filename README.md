@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rQ1q1k%2F2P3p1%2Fp6p%2F8%2F3P4%2F7P%2FP5PK%2F8%20w%20-%20-%203%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FR4Qp1%2F4n2p%2F3p4%2F2p1k3%2F2Pb1q1P%2F6r1%2F7K%20w%20-%20-%206%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pv2C4](https://lichess.org/training/pv2C4), rated `1310`.
-The game is `Beginner_2021 (1650)` vs `kas-ela (1632)` at `5+0` time control,
-with themes `endgame, crushing, quietMove, long`. You can [view the full game](https://lichess.org/h0p0QhB4),
-and the first solution move is `d8f8`.
+It is `White to move` in puzzle [40C69](https://lichess.org/training/40C69), rated `1307`.
+The game is `LucaBrazzi (2673)` vs `syad_bony77 (2530)` at `3+0` time control,
+with themes `endgame, master, short, crushing, hangingPiece`. You can [view the full game](https://lichess.org/BvVB2Fir),
+and the first solution move is `f7e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
