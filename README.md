@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpppqn3%2F2npb2p%2F3Np1pP%2F2P4R%2FP2BPPp1%2F1PQP4%2FR1B1K1N1%20w%20Qkq%20g6%200%2013&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6pk%2F6p1%2F4R3%2F1P4P1%2F4n1KP%2F3r4%2F8%20w%20-%20-%202%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vxd57](https://lichess.org/training/vxd57), rated `1528`.
-The game is `FalleN666 (1782)` vs `mgdana (1705)` at `15+15` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/b7UvMrEL),
-and the first solution move is `d5f6`.
+It is `White to move` in puzzle [TDgPv](https://lichess.org/training/TDgPv), rated `1283`.
+The game is `dpo18 (1780)` vs `Ganger_78 (1777)` at `10+5` time control,
+with themes `endgame, short, advantage, hangingPiece, defensiveMove`. You can [view the full game](https://lichess.org/8s2IieVA),
+and the first solution move is `e5e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
