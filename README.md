@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fp2nbppp%2F8%2F1B1pP3%2F5B2%2F5N2%2FPPP3PP%2FR2Q1RK1%20b%20-%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6p1%2F6k1%2F4P2p%2F3p1K1P%2F6P1%2F8%2F8%20w%20-%20-%200%2044&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Lk9Ii](https://lichess.org/training/Lk9Ii), rated `1455`.
-The game is `fferrazdeo (2041)` vs `iPurp (2036)` at `10+0` time control,
-with themes `opening`. You can [view the full game](https://lichess.org/d80VAFjc),
-and the first solution move is `d8b6`.
+It is `White to move` in puzzle [LyVms](https://lichess.org/training/LyVms), rated `1470`.
+The game is `Davewild79 (1752)` vs `ilikecorgis (1860)` at `5+3` time control,
+with themes `veryLong, endgame, crushing, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/bvJoKhg3),
+and the first solution move is `f4e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
