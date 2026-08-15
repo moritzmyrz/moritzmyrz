@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1R6%2F8%2Fp2Rp1p1%2Fk1r5%2F7P%2F2p5%2FPP4q1%2F1K6%20w%20-%20-%204%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2F1bqn1pbp%2F4p1p1%2F1r1p4%2FPB6%2F2P2B2%2F5PPP%2FRN1QR1K1%20b%20k%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [eQWhf](https://lichess.org/training/eQWhf), rated `1528`.
-The game is `Arkooc (2006)` vs `cajanpolojuan (2120)` at `3+2` time control,
-with themes `deflection, endgame, fork, long, mateIn3, queenRookEndgame`. You can [view the full game](https://lichess.org/8JYXNwv3),
-and the first solution move is `b2b4`.
+It is `Black to move` in puzzle [tETqC](https://lichess.org/training/tETqC), rated `1461`.
+The game is `Big-Big-Bull (1836)` vs `kvashi (1815)` at `10+0` time control,
+with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/gmyKZE83),
+and the first solution move is `b5b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
