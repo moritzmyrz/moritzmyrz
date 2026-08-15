@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2pNp2p%2Fr1P5%2F1pR2p1k%2FpP3P1r%2FP5K1%2F8%2F8%20w%20-%20-%202%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F1p1k2pp%2F1Pn1p3%2F2P1N3%2F2K2PPP%2F8%20b%20-%20-%201%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gP7f3](https://lichess.org/training/gP7f3), rated `1407`.
-The game is `guitarchris3 (1615)` vs `Catlaksapan (1677)` at `25+0` time control,
-with themes `endgame, short, crushing`. You can [view the full game](https://lichess.org/Pyb6e2pE),
-and the first solution move is `c5f5`.
+It is `Black to move` in puzzle [B9B9v](https://lichess.org/training/B9B9v), rated `1404`.
+The game is `starypolak (2430)` vs `Yrysbek77 (2277)` at `3+0` time control,
+with themes `veryLong, endgame, zugzwang, advantage, quietMove, knightEndgame`. You can [view the full game](https://lichess.org/xNZDTb4K),
+and the first solution move is `c4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
