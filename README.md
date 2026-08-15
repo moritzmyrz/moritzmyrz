@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3qrk1%2Fpbp2ppp%2F1p2p1n1%2F4P1B1%2F1PP1N1Q1%2F8%2FP4RPP%2F3R2K1%20w%20-%20-%203%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpppb1ppp%2F1b1n4%2F3P4%2F1P6%2F8%2Fq1B1QPPP%2F1N2R1K1%20w%20-%20-%202%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [0m502](https://lichess.org/training/0m502), rated `1620`.
-The game is `consixll (1770)` vs `wahyuditarman (1757)` at `10+0` time control,
-with themes `middlegame`. You can [view the full game](https://lichess.org/oYwDfTx3),
-and the first solution move is `e4f6`.
+It is `White to move` in puzzle [UEYD9](https://lichess.org/training/UEYD9), rated `1455`.
+The game is `sapresharvil (1754)` vs `ShivaanshSaxena254 (2126)` at `7+3` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/bQPpuwn8),
+and the first solution move is `c2h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
