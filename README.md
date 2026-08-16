@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fppp2pp1%2F7p%2F4Nn1Q%2F1bBP4%2F2N5%2FPPP3PP%2FR4RK1%20b%20-%20-%202%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r5%2Fp3R2p%2F1p3pk1%2F6q1%2F8%2F2P3QP%2F6PK%2F8%20w%20-%20-%207%2037&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sSnjn](https://lichess.org/training/sSnjn), rated `1588`.
-The game is `Sakumo22 (1991)` vs `Baghdad200 (1991)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/0JfJtQAL),
-and the first solution move is `d8d4`.
+It is `White to move` in puzzle [njl6s](https://lichess.org/training/njl6s), rated `1619`.
+The game is `PiJi (1907)` vs `AntonSokolov (1921)` at `15+15` time control,
+with themes `deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/jrwKH34t),
+and the first solution move is `g3d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
