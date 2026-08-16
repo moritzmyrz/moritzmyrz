@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F1p3p2%2F7P%2F8%2Fr5n1%2F8%2Fp1R2P2%2FN4K2%20w%20-%20-%200%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F2q3p1%2Fp3p2p%2F1p2p3%2F3n4%2F1P1P2P1%2FP3PPBP%2F2RQ1RK1%20b%20-%20-%201%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [c8u8l](https://lichess.org/training/c8u8l), rated `1466`.
-The game is `anantone (2483)` vs `irmaodocarlsen332 (2337)` at `3+0` time control,
-with themes `endgame, advancedPawn, master, short, advantage`. You can [view the full game](https://lichess.org/cQmU1pqk),
-and the first solution move is `c2c8`.
+It is `Black to move` in puzzle [xRH4A](https://lichess.org/training/xRH4A), rated `1453`.
+The game is `VanBob (1773)` vs `margius44 (1812)` at `3+2` time control,
+with themes `middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/QvleS6ql),
+and the first solution move is `c7c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
