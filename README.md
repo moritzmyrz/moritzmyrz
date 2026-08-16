@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp4pp1%2F7p%2F4p3%2F4P3%2F3Q1n1q%2FPP3PRP%2F7K%20b%20-%20-%204%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4n1r%2F4k3%2Fpp1p1pQn%2F2pPp2R%2F2P1P2q%2F2NB4%2FPP2K1P1%2FR7%20w%20-%20-%202%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FxRpj](https://lichess.org/training/FxRpj), rated `1371`.
-The game is `SiroglanTalibov (2698)` vs `chess-ly (2532)` at `3+0` time control,
-with themes `endgame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/CZWV8MkP),
-and the first solution move is `h3g2`.
+It is `White to move` in puzzle [ugM4t](https://lichess.org/training/ugM4t), rated `1392`.
+The game is `shtefan_vv (2016)` vs `Dundik (1806)` at `4+20` time control,
+with themes `middlegame, short, crushing, fork`. You can [view the full game](https://lichess.org/3hGPjpjS),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
