@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3rk%2F1b3p1p%2Fp3pPpQ%2F2p5%2F3p4%2F1P1PPR2%2F2Pq2PP%2FR5K1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F8%2F1P1p1k2%2F1R1P1rp1%2F8%2F4KR1P%2F5P2%2F8%20b%20-%20-%206%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8amtJ](https://lichess.org/training/8amtJ), rated `1353`.
-The game is `samane1 (1591)` vs `Impsander37 (1626)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, attraction, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/7vf79AyO),
-and the first solution move is `h6h7`.
+It is `Black to move` in puzzle [ArEsa](https://lichess.org/training/ArEsa), rated `1410`.
+The game is `karelkarel (2096)` vs `LegioXIII (1915)` at `30+10` time control,
+with themes `deflection, endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/ULMspuub),
+and the first solution move is `b8e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
