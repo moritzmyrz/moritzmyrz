@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b3nr%2Fppkp1ppp%2F2n5%2F2B5%2F8%2F6P1%2FPPP2P1P%2FRN1QKB1q%20w%20Q%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3Q4%2Fp7%2F1p3P1k%2F4P3%2F6q1%2F1P1K4%2F8%2F8%20b%20-%20-%203%2054&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ywQws](https://lichess.org/training/ywQws), rated `1328`.
-The game is `timonlesage (1839)` vs `ChrisMirko (1814)` at `3+0` time control,
-with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/TLoJEYCG),
-and the first solution move is `d1d6`.
+It is `Black to move` in puzzle [WUuUj](https://lichess.org/training/WUuUj), rated `1272`.
+The game is `Bacallao2019 (2734)` vs `emirislamking (2463)` at `3+0` time control,
+with themes `master, short, crushing, skewer, endgame, queenEndgame`. You can [view the full game](https://lichess.org/WYOnHBBA),
+and the first solution move is `g4d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
