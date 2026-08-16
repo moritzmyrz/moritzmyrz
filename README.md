@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp3Rp1p%2F3P2p1%2Fq7%2F3QP3%2F5P2%2FP1p2P1P%2F2R3K1%20b%20-%20-%201%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k4r1%2Fp1p5%2FPp6%2F1P2p3%2F2PbQ1Pq%2F3P1r2%2F6K1%2F1R3R2%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [RcBxr](https://lichess.org/training/RcBxr), rated `1312`.
-The game is `Ptzz (2330)` vs `Cranmobbed (2370)` at `3+0` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/BSVkGv44),
-and the first solution move is `a5g5`.
+It is `White to move` in puzzle [u07H7](https://lichess.org/training/u07H7), rated `1309`.
+The game is `tiscaccoilculo (1888)` vs `Yavuz37 (1875)` at `10+5` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/jUktGWV8),
+and the first solution move is `e4b7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
