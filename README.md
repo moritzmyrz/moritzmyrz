@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F4qp2%2Fp3B1bP%2F1p5Q%2F7P%2F2p5%2FP1P2P2%2F3RK3%20w%20-%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4b1r%2F1p2k1p1%2Fp3pn1p%2FqBpp4%2F3n4%2F2NQ4%2FPPPB1PPP%2FR3K2R%20w%20KQ%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RJpzF](https://lichess.org/training/RJpzF), rated `1556`.
-The game is `leojssech (2171)` vs `Arkadiy_Razum (2214)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, pin`. You can [view the full game](https://lichess.org/gg6z2Z1y),
-and the first solution move is `h5g6`.
+It is `White to move` in puzzle [M6gGd](https://lichess.org/training/M6gGd), rated `1274`.
+The game is `jdlax36 (1765)` vs `FrancisSavio (1852)` at `10+0` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/glJFJGEF),
+and the first solution move is `c3d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
