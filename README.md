@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rq1rk1%2F3bbppp%2Fp1n1p3%2F3p4%2F1p3PN1%2F4P1QP%2FPBpPB1P1%2FR4RK1%20w%20-%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F5r2%2Fp3B2p%2F2p1b2R%2F2P2P1K%2F3r4%2FP7%2F6R1%20b%20-%20-%200%2038&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kL3Xn](https://lichess.org/training/kL3Xn), rated `1306`.
-The game is `robynkessler13 (1551)` vs `TopS80 (1880)` at `3+0` time control,
-with themes `middlegame`. You can [view the full game](https://lichess.org/WPZBhO1D),
-and the first solution move is `g4h6`.
+It is `Black to move` in puzzle [K9WbY](https://lichess.org/training/K9WbY), rated `1349`.
+The game is `pjKnight (2189)` vs `AZHAR5678 (2272)` at `10+5` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/biKiPCUn),
+and the first solution move is `f7f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
