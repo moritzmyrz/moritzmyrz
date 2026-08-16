@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fppp3pp%2F6N1%2F5P2%2F6b1%2F6P1%2FPr5P%2F4R1K1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3nr%2Fppkp1ppp%2F2n5%2F2B5%2F8%2F6P1%2FPPP2P1P%2FRN1QKB1q%20w%20Q%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iAXLC](https://lichess.org/training/iAXLC), rated `1600`.
-The game is `KINAna (1876)` vs `Rmmbrme (1871)` at `3+0` time control,
-with themes `hookMate, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/EZfN3ei9),
-and the first solution move is `e1e8`.
+It is `White to move` in puzzle [ywQws](https://lichess.org/training/ywQws), rated `1328`.
+The game is `timonlesage (1839)` vs `ChrisMirko (1814)` at `3+0` time control,
+with themes `short, advantage, opening`. You can [view the full game](https://lichess.org/TLoJEYCG),
+and the first solution move is `d1d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
