@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p3pp1%2Frp1Q4%2F3pp3%2F5q2%2F1P4RR%2FPP3P1K%2F8%20w%20-%20-%209%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2Fp4pp1%2F2pN3p%2F8%2F3Q2P1%2F2P2p1P%2F1PK2P2%2Fq2R3R%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [nzpbZ](https://lichess.org/training/nzpbZ), rated `1535`.
-The game is `NLMMaxou (1640)` vs `stevoem (1572)` at `3+2` time control,
-with themes `deflection, endgame, attraction, long, mateIn3`. You can [view the full game](https://lichess.org/6GXRVfQs),
-and the first solution move is `h3h8`.
+It is `Black to move` in puzzle [DYSZw](https://lichess.org/training/DYSZw), rated `1344`.
+The game is `lasheras (1775)` vs `majid0012 (1728)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, dovetailMate`. You can [view the full game](https://lichess.org/oH4VcnwR),
+and the first solution move is `a1b2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
