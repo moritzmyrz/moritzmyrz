@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2F7P%2F4pqp1%2F1R1p4%2Fp4r2%2FP7%2F1PQ5%2FK1N4R%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F4R3%2F8%2F1p3P2%2F1P2p2p%2F7P%2FP1br2P1%2F7K%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [s3Q9e](https://lichess.org/training/s3Q9e), rated `1398`.
-The game is `GuiBrasil171 (2067)` vs `mostfa20 (1959)` at `10+0` time control,
-with themes `hangingPiece, short, advantage, middlegame`. You can [view the full game](https://lichess.org/ueYwvhTu),
-and the first solution move is `b8b5`.
+It is `White to move` in puzzle [2U93m](https://lichess.org/training/2U93m), rated `1413`.
+The game is `Kundankcp (1838)` vs `T80M45 (1886)` at `10+0` time control,
+with themes `advancedPawn, short, advantage, endgame`. You can [view the full game](https://lichess.org/zLom984d),
+and the first solution move is `f5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
