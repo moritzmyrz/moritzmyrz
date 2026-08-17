@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp3ppp%2F2q1rn2%2F8%2F4NQ2%2F6R1%2FPP4PP%2F5R1K%20w%20-%20-%2011%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rnk%2F1p1Q4%2Fp5bp%2F4P3%2F3q4%2F2N5%2FPP2B3%2F2KR3R%20b%20-%20-%203%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ftBKg](https://lichess.org/training/ftBKg), rated `1338`.
-The game is `Manuelrubiano78 (1671)` vs `the_rudy5 (1685)` at `5+0` time control,
-with themes `middlegame, advantage, long, pin`. You can [view the full game](https://lichess.org/jU3r9LaI),
-and the first solution move is `e4f6`.
+It is `Black to move` in puzzle [VbKy5](https://lichess.org/training/VbKy5), rated `1557`.
+The game is `Kerium (2174)` vs `kubrat (2109)` at `3+2` time control,
+with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/7t0XvJxc),
+and the first solution move is `c8c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
