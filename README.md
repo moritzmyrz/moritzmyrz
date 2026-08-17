@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r4%2Fpp3Pkp%2F4p3%2F8%2F4P3%2F3r4%2FP4KP1%2F3R1R2%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4pb1%2F4b1p1%2F2P1p2p%2FP3q3%2FB5PP%2F5P2%2F3Q1BK1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [et0X2](https://lichess.org/training/et0X2), rated `1289`.
-The game is `Abyrwalg (1710)` vs `Super_Nerd_Ed (1713)` at `2+1` time control,
-with themes `long, rookEndgame, crushing, endgame`. You can [view the full game](https://lichess.org/Y7Q6dLFI),
-and the first solution move is `d3d1`.
+It is `Black to move` in puzzle [6l5HG](https://lichess.org/training/6l5HG), rated `1326`.
+The game is `Quopana (2351)` vs `blitzkolik (2311)` at `3+0` time control,
+with themes `endgame, master, short, crushing, quietMove`. You can [view the full game](https://lichess.org/AJfH1kbo),
+and the first solution move is `e6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
