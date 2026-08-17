@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fpp1p2pp%2F3b1p2%2F2pPp3%2F8%2F2P5%2FPP2BPqP%2FR1BQK1NR%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6R1%2F3P4%2Fp7%2F3P4%2FP7%2F1P3k2%2F1r4p1%2F6K1%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [j6Cpl](https://lichess.org/training/j6Cpl), rated `1473`.
-The game is `thelastkingremaining (1704)` vs `tamburlini1 (1577)` at `15+10` time control,
-with themes `long, advantage, pin, opening`. You can [view the full game](https://lichess.org/SE79fh3H),
-and the first solution move is `e2f3`.
+It is `Black to move` in puzzle [Cx7c8](https://lichess.org/training/Cx7c8), rated `1319`.
+The game is `SolaRsystem123 (2034)` vs `CapAnson (1960)` at `10+0` time control,
+with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/FDRyFKWf),
+and the first solution move is `b2b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
