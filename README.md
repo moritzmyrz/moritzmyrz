@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpppn2pp%2F3p2p1%2F4p3%2FNP2P1Pq%2FP1PP4%2F3BB1K1%2FR2Q3R%20b%20-%20-%200%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3q2k1%2Fpp5p%2F5ppQ%2F5b2%2F8%2F5PK1%2FPr5P%2F2RR4%20b%20-%20-%201%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fYuJw](https://lichess.org/training/fYuJw), rated `1599`.
-The game is `HanRoo18 (1667)` vs `deepak_arul (1679)` at `5+3` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/ZWVNLQfN),
-and the first solution move is `f8f2`.
+It is `Black to move` in puzzle [3vbg4](https://lichess.org/training/3vbg4), rated `1606`.
+The game is `Glitch0 (1991)` vs `suleyman1900 (2042)` at `3+0` time control,
+with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/9RrR80Tz),
+and the first solution move is `d8b8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
