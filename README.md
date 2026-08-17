@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F5ppp%2Fp3p3%2F1pqPb3%2F3N4%2FPPBQ1R2%2F2P3PP%2FR6K%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnb1k2r%2Fpp1p2pp%2F3b1p2%2F2pPp3%2F8%2F2P5%2FPP2BPqP%2FR1BQK1NR%20w%20KQkq%20-%200%2012&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [3QW6V](https://lichess.org/training/3QW6V), rated `1574`.
-The game is `Serik-Phd (1984)` vs `Strukturalismus (2016)` at `10+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/FW2wIvnQ),
-and the first solution move is `c5c3`.
+It is `White to move` in puzzle [j6Cpl](https://lichess.org/training/j6Cpl), rated `1473`.
+The game is `thelastkingremaining (1704)` vs `tamburlini1 (1577)` at `15+10` time control,
+with themes `long, advantage, pin, opening`. You can [view the full game](https://lichess.org/SE79fh3H),
+and the first solution move is `e2f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
