@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fppp1pppp%2F5n2%2Fq2N4%2F3n4%2F3P1B1P%2FPPPB1PP1%2FR2QK2R%20b%20KQkq%20-%202%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=R1r5%2F2k5%2F8%2F8%2F8%2FR4P1p%2F1r6%2F5K2%20w%20-%20-%203%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YdIzL](https://lichess.org/training/YdIzL), rated `1457`.
-The game is `D3lirium (1861)` vs `ertgdfqa (1645)` at `15+0` time control,
-with themes `opening, long, advantage`. You can [view the full game](https://lichess.org/7kpZk3Or),
-and the first solution move is `d4f3`.
+It is `White to move` in puzzle [5DCC5](https://lichess.org/training/5DCC5), rated `1396`.
+The game is `aspermag666 (1811)` vs `Vadim14 (1812)` at `0+12` time control,
+with themes `deflection, endgame, short, crushing, rookEndgame`. You can [view the full game](https://lichess.org/aF8VW7IE),
+and the first solution move is `a3c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
