@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5Q2%2Fpb1q2pk%2F1p6%2F4p2p%2F8%2FPB5P%2F1P4P1%2F5R1K%20b%20-%20-%205%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2r3pk%2Fp1r1Q2p%2F6PK%2F1P5P%2F8%2F8%2F8%20w%20-%20-%201%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Vz00u](https://lichess.org/training/Vz00u), rated `1428`.
-The game is `PuMaNeGrO_2024 (1755)` vs `restraintt (1829)` at `5+0` time control,
-with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/YVXUtm40),
-and the first solution move is `d7h3`.
+It is `White to move` in puzzle [hJUiK](https://lichess.org/training/hJUiK), rated `1424`.
+The game is `titan00013 (2477)` vs `DeinSchachtrainer (2670)` at `3+0` time control,
+with themes `master, short, queenRookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/ytV3eiOh),
+and the first solution move is `g5g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
