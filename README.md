@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4pb1%2F4b1p1%2F2P1p2p%2FP3q3%2FB5PP%2F5P2%2F3Q1BK1%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp3ppp%2F2q1rn2%2F8%2F4NQ2%2F6R1%2FPP4PP%2F5R1K%20w%20-%20-%2011%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6l5HG](https://lichess.org/training/6l5HG), rated `1326`.
-The game is `Quopana (2351)` vs `blitzkolik (2311)` at `3+0` time control,
-with themes `endgame, master, short, crushing, quietMove`. You can [view the full game](https://lichess.org/AJfH1kbo),
-and the first solution move is `e6d5`.
+It is `White to move` in puzzle [ftBKg](https://lichess.org/training/ftBKg), rated `1338`.
+The game is `Manuelrubiano78 (1671)` vs `the_rudy5 (1685)` at `5+0` time control,
+with themes `middlegame, advantage, long, pin`. You can [view the full game](https://lichess.org/jU3r9LaI),
+and the first solution move is `e4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
