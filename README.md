@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2F1p2Npkp%2Fp4np1%2Fq3p2P%2F4P1b1%2F5Q2%2FPPP5%2F1K1R1B1R%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F2prR1p1%2Fpp5p%2F8%2Fb1n2PN1%2F2P3PP%2F6B1%2F2R3K1%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mwftR](https://lichess.org/training/mwftR), rated `1294`.
-The game is `pibit (1881)` vs `Cristian05Pro (1847)` at `10+0` time control,
-with themes `deflection, mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/4Y6Hn5N6),
-and the first solution move is `h5h6`.
+It is `White to move` in puzzle [E9iwv](https://lichess.org/training/E9iwv), rated `1501`.
+The game is `Rasoolvaziri (2338)` vs `Nazaninn (1886)` at `10+5` time control,
+with themes `middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/KxALyFTR),
+and the first solution move is `e7d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
