@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F6k1%2F3R3p%2F2NPp3%2F2P1Pb1K%2FP5r1%2F4B3%2F4n3%20b%20-%20-%202%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p2%2F2p5%2F4p3%2F1P2P3%2F1K1PR1r1%2F7k%2F8%20w%20-%20-%201%2052&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [52hEh](https://lichess.org/training/52hEh), rated `1409`.
-The game is `AndrewSoane (1966)` vs `bnikola96 (2004)` at `3+0` time control,
-with themes `short, operaMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/M1NegpYF),
-and the first solution move is `e1g2`.
+It is `White to move` in puzzle [zIMhw](https://lichess.org/training/zIMhw), rated `1375`.
+The game is `MadhurMurmu (2383)` vs `JojoLicorne (2529)` at `3+2` time control,
+with themes `long, crushing, rookEndgame, endgame`. You can [view the full game](https://lichess.org/y2QirmS0),
+and the first solution move is `e3g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
