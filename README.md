@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fppp3pp%2F7n%2F4N3%2F1bB3b1%2F2N5%2FPP3P1P%2FR4RK1%20w%20-%20-%200%2016&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5Rn1%2F7k%2F6p1%2F4P1Pp%2F3qN2N%2F8%2F1P2n1PK%2F8%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [yuoiK](https://lichess.org/training/yuoiK), rated `1364`.
-The game is `akhilaki (2248)` vs `AMaxim (2291)` at `10+0` time control,
-with themes `long, advantage, fork, middlegame`. You can [view the full game](https://lichess.org/ZgJRSec2),
-and the first solution move is `e5g4`.
+It is `White to move` in puzzle [oRvZs](https://lichess.org/training/oRvZs), rated `1477`.
+The game is `gun123 (1764)` vs `SoloWayMax (1701)` at `5+3` time control,
+with themes `deflection, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/4KYoAgus),
+and the first solution move is `f8f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
