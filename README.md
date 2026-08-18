@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fpp3pp1%2F1np4p%2F3b4%2F1b1PQ3%2F5NP1%2FPP1B1PBP%2FR3R1K1%20w%20-%20-%203%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5k2%2F3Kp1p1%2F6PP%2F8%2F8%2F8%20w%20-%20-%200%2059&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [tbYYx](https://lichess.org/training/tbYYx), rated `1339`.
-The game is `Tristan5986 (1794)` vs `OhNoMyPoorElo (1841)` at `10+0` time control,
-with themes `middlegame, advantage, long, kingsideAttack`. You can [view the full game](https://lichess.org/iolXn5va),
-and the first solution move is `e4e8`.
+It is `White to move` in puzzle [FA7IG](https://lichess.org/training/FA7IG), rated `1442`.
+The game is `Sagitario999 (2517)` vs `Giannatos (2528)` at `3+0` time control,
+with themes `endgame, master, short, zugzwang, crushing, quietMove, pawnEndgame`. You can [view the full game](https://lichess.org/5JoBn9TY),
+and the first solution move is `h4h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
