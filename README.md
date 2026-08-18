@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5pk%2F1p5p%2F2p1r3%2F3p4%2F3b1P2%2F3B1Q1P%2F6K1%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3k2r1%2F5p2%2Fp1R1p3%2F3pP1rp%2F3q2N1%2F1P3P1P%2FP5P1%2F2R4K%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gV6yC](https://lichess.org/training/gV6yC), rated `1486`.
-The game is `czechchess (2159)` vs `Musulmanin066 (2178)` at `8+0` time control,
-with themes `endgame, short, crushing, interference`. You can [view the full game](https://lichess.org/QNmkDc7N),
-and the first solution move is `e5e2`.
+It is `White to move` in puzzle [0nRDN](https://lichess.org/training/0nRDN), rated `1513`.
+The game is `NermeenAmer (1759)` vs `Checkmate-Wizard (1881)` at `15+10` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/iKW9X7Rw),
+and the first solution move is `c6c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
