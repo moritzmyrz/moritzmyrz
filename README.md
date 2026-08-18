@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k1r3r%2Fpb1p1pb1%2F1p1Rp1p1%2F3nP1P1%2F3Q1B1p%2FP1q2N1P%2F5PB1%2FR5K1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5q2%2F6p1%2F2p1Pkp1%2F1p2b2n%2F4p2P%2F1B3P2%2F1P1B2P1%2F5K2%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [G4Fy5](https://lichess.org/training/G4Fy5), rated `1571`.
-The game is `ayhammed97 (1958)` vs `YourKnightmare67 (2050)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/l7cAjMhQ),
-and the first solution move is `d6d5`.
+It is `White to move` in puzzle [BY4QS](https://lichess.org/training/BY4QS), rated `1539`.
+The game is `la01822 (2100)` vs `hadmij (1744)` at `3+2` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/SRZojWzq),
+and the first solution move is `d2g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
