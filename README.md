@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5kq%2Fp4p2%2F2pR4%2F2P1r1p1%2F4p3%2F4Pb2%2FPP2BP1P%2F3QR1K1%20b%20-%20-%209%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=K7%2FP3k1p1%2F1rn2p2%2F5P2%2F7p%2F7P%2F6P1%2F2R5%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [drA5H](https://lichess.org/training/drA5H), rated `1591`.
-The game is `Sasha21540 (1835)` vs `Gleb-3004 (1818)` at `8+0` time control,
-with themes `long, crushing, middlegame`. You can [view the full game](https://lichess.org/a1WmX5sv),
-and the first solution move is `h8h3`.
+It is `White to move` in puzzle [OdOTo](https://lichess.org/training/OdOTo), rated `1365`.
+The game is `msv1986 (2143)` vs `Karimov_Iqboljon (2099)` at `3+0` time control,
+with themes `clearance, endgame, advancedPawn, advantage, long, sacrifice, promotion`. You can [view the full game](https://lichess.org/qKZhsTgf),
+and the first solution move is `c1c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
