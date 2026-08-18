@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fpp2r1k1%2F3R3p%2F5Pp1%2F4P3%2F2P3Pb%2FPP3K1P%2F4R3%20w%20-%20-%205%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fp2QR1p1%2F6Np%2Fn4p1K%2F5P2%2F2q4P%2FP1P5%2F8%20b%20-%20-%201%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [u7jYI](https://lichess.org/training/u7jYI), rated `1566`.
-The game is `ukazioa (2108)` vs `great_kudrinni (2027)` at `10+0` time control,
-with themes `endgame, advancedPawn, short, advantage, fork`. You can [view the full game](https://lichess.org/9v7bHtz6),
-and the first solution move is `f5f6`.
+It is `Black to move` in puzzle [eEPEf](https://lichess.org/training/eEPEf), rated `1329`.
+The game is `Ruskiq85 (1883)` vs `amory777 (1887)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/C0BCErTe),
+and the first solution move is `c3h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
