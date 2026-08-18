@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=K7%2FP3k1p1%2F1rn2p2%2F5P2%2F7p%2F7P%2F6P1%2F2R5%20w%20-%20-%202%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F7R%2F7K%2Fp1p3n1%2F7N%2F8%2F8%2F8%20w%20-%20-%200%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OdOTo](https://lichess.org/training/OdOTo), rated `1365`.
-The game is `msv1986 (2143)` vs `Karimov_Iqboljon (2099)` at `3+0` time control,
-with themes `clearance, endgame, advancedPawn, advantage, long, sacrifice, promotion`. You can [view the full game](https://lichess.org/qKZhsTgf),
-and the first solution move is `c1c6`.
+It is `White to move` in puzzle [I9FV0](https://lichess.org/training/I9FV0), rated `1397`.
+The game is `Grovmugli (2043)` vs `vrotenberg2 (1996)` at `5+3` time control,
+with themes `short, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/WlUOlc2m),
+and the first solution move is `h7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
