@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5k2%2F3Kp1p1%2F6PP%2F8%2F8%2F8%20w%20-%20-%200%2059&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1b3pp1%2Fp1q1p1P1%2F1p6%2F3bn3%2F2N4R%2FPP4PP%2FR2Q3K%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [FA7IG](https://lichess.org/training/FA7IG), rated `1442`.
-The game is `Sagitario999 (2517)` vs `Giannatos (2528)` at `3+0` time control,
-with themes `endgame, master, short, zugzwang, crushing, quietMove, pawnEndgame`. You can [view the full game](https://lichess.org/5JoBn9TY),
-and the first solution move is `h4h5`.
+It is `White to move` in puzzle [KpJAg](https://lichess.org/training/KpJAg), rated `1570`.
+The game is `Shevelev1989 (1739)` vs `Mokudan (1742)` at `5+0` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice, kingsideAttack`. You can [view the full game](https://lichess.org/S6iA8Q6z),
+and the first solution move is `h3h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
