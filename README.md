@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1q3k1%2FR4ppp%2F1p2p3%2F1P1p4%2F3P4%2F2r1PP2%2F1Q4PP%2FR5K1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpbp2p2%2F1p2pBpp%2F4P3%2F5Q2%2F1P3P2%2F2qr2PP%2FR3R1K1%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [FgNMy](https://lichess.org/training/FgNMy), rated `1423`.
-The game is `flodughetto (1648)` vs `sPACKENbACKEN (1638)` at `3+2` time control,
-with themes `crushing, fork, veryLong, endgame`. You can [view the full game](https://lichess.org/rgTWSYrY),
-and the first solution move is `a8a7`.
+It is `White to move` in puzzle [h1sdg](https://lichess.org/training/h1sdg), rated `1437`.
+The game is `Maoro (1993)` vs `Biglindba (2406)` at `7+3` time control,
+with themes `veryLong, crushing, middlegame, master`. You can [view the full game](https://lichess.org/YFAGa6AF),
+and the first solution move is `f4h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
