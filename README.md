@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr4%2Fpppb3p%2F4p1p1%2F8%2F3PpP2%2F6P1%2FP4qPK%2FR2QR3%20w%20-%20-%202%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp2n2p1%2F1pq1ppN1%2F3p3Q%2F3P1P2%2FP2nP3%2F1P1N2PP%2F5RK1%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iMqhw](https://lichess.org/training/iMqhw), rated `1467`.
-The game is `Conguy (1871)` vs `muhd_furqan (1881)` at `10+0` time control,
-with themes `short, crushing, trappedPiece, endgame`. You can [view the full game](https://lichess.org/vnNSVVXu),
-and the first solution move is `e1e2`.
+It is `White to move` in puzzle [QTXf9](https://lichess.org/training/QTXf9), rated `1480`.
+The game is `Maria2014Pozohondo (1678)` vs `theuberwalrus (1688)` at `5+3` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/ckN0jrun),
+and the first solution move is `g6e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
