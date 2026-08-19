@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2F5ppp%2Fp2P4%2F2p5%2FPp1b1B2%2F1P6%2F1P4PP%2F1R2R2K%20w%20-%20-%203%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2F1p3ppp%2Fp3bn2%2F2b3B1%2F4N3%2F5N2%2FPPP2PPP%2FR2QK2R%20b%20KQkq%20-%203%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Z9lhK](https://lichess.org/training/Z9lhK), rated `1500`.
-The game is `jbrr1 (1911)` vs `svv_svv_svv (1905)` at `3+2` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, quietMove, kingsideAttack`. You can [view the full game](https://lichess.org/1GwTxT6x),
-and the first solution move is `e1e8`.
+It is `Black to move` in puzzle [xWbsl](https://lichess.org/training/xWbsl), rated `1608`.
+The game is `camilosutra666 (1919)` vs `OGachet (1898)` at `15+10` time control,
+with themes `opening, crushing, short`. You can [view the full game](https://lichess.org/GTwiR8yE),
+and the first solution move is `d8d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
