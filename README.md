@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2F3bbppp%2Fp3pP2%2F1p1p4%2F2nNP3%2F1Bq2P2%2FP1P1Q2P%2F1KBR3R%20b%20-%20-%201%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rkb%2F4pp2%2F2np2P1%2Fp5n1%2F1p3N2%2F1P3p2%2FPBP5%2F1K1R1BNR%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [uLws3](https://lichess.org/training/uLws3), rated `1460`.
-The game is `minorbison (2041)` vs `trisolarian (2145)` at `3+0` time control,
-with themes `middlegame, queensideAttack, long, mateIn3, capturingDefender`. You can [view the full game](https://lichess.org/LLBkR0Xz),
-and the first solution move is `c4a3`.
+It is `White to move` in puzzle [RSIKR](https://lichess.org/training/RSIKR), rated `1393`.
+The game is `roundaboutbuilder (2050)` vs `zoks77 (2016)` at `5+3` time control,
+with themes `middlegame, operaMate, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/ENgIfvMs),
+and the first solution move is `h1h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
