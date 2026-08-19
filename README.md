@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=k1r5%2F1p3q2%2Fp5p1%2F8%2F1n3BpP%2F1QP3P1%2FPP3P2%2F1K2R3%20b%20-%20-%204%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1k3rr1%2Fppp4Q%2F2qb1p2%2F3N4%2F3pP3%2F1P1P4%2F1PP2RPP%2FR6K%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yn00Q](https://lichess.org/training/yn00Q), rated `1551`.
-The game is `eddi1996 (1709)` vs `MRyogat (1673)` at `10+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/gjihMwIV),
-and the first solution move is `f7f5`.
+It is `Black to move` in puzzle [MwHuM](https://lichess.org/training/MwHuM), rated `1343`.
+The game is `JosePadeiro (2408)` vs `KnezBaralija (2423)` at `3+0` time control,
+with themes `advantage, short, middlegame, master`. You can [view the full game](https://lichess.org/RYhC7Dpe),
+and the first solution move is `g8h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
