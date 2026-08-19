@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2R5%2F8%2F2p5%2F1pP5%2FrP1k4%2F1K6%2F8%2F8%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2Fpppq1ppp%2F2n1b3%2F4n3%2FQ1Pp4%2F1N3NP1%2FPP2PPBP%2FR1B2RK1%20w%20-%20-%200%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [mQxVS](https://lichess.org/training/mQxVS), rated `1487`.
-The game is `Shiruuuuu_1409 (1792)` vs `martinov1c (1759)` at `10+0` time control,
-with themes `rookEndgame, advantage, short, endgame`. You can [view the full game](https://lichess.org/6holv2e8),
-and the first solution move is `c8c6`.
+It is `White to move` in puzzle [vAVGP](https://lichess.org/training/vAVGP), rated `1613`.
+The game is `matejz2005 (1971)` vs `wade1964 (2145)` at `10+0` time control,
+with themes `opening, short, crushing`. You can [view the full game](https://lichess.org/tZtSsM85),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
