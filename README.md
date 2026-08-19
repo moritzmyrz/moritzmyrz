@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rkb%2F4pp2%2F2np2P1%2Fp5n1%2F1p3N2%2F1P3p2%2FPBP5%2F1K1R1BNR%20w%20-%20-%200%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2F1p1p1ppp%2Fp1n1pn2%2FqN6%2FQ3PB2%2F5N2%2FPP3PPP%2FR3KB1R%20w%20KQkq%20-%206%209&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RSIKR](https://lichess.org/training/RSIKR), rated `1393`.
-The game is `roundaboutbuilder (2050)` vs `zoks77 (2016)` at `5+3` time control,
-with themes `middlegame, operaMate, oneMove, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/ENgIfvMs),
-and the first solution move is `h1h8`.
+It is `White to move` in puzzle [blabI](https://lichess.org/training/blabI), rated `1299`.
+The game is `dANDs (1630)` vs `mart1neja5 (1643)` at `15+15` time control,
+with themes `opening, short, crushing`. You can [view the full game](https://lichess.org/UM5ontGT),
+and the first solution move is `a4a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
