@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2F7R%2F4p2K%2F6P1%2F5r2%2F8%2F8%20b%20-%20-%200%2050&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2Fp1B2k2%2F2p5%2F5p2%2F3Pp3%2F2P4b%2FP1P2K2%2F6R1%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ZcxeV](https://lichess.org/training/ZcxeV), rated `1309`.
-The game is `system2021 (1853)` vs `mniedoba (1851)` at `10+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, rookEndgame, quietMove`. You can [view the full game](https://lichess.org/R3qnBEDi),
-and the first solution move is `f3h3`.
+It is `Black to move` in puzzle [DDHXj](https://lichess.org/training/DDHXj), rated `1415`.
+The game is `jochenderknochen (2044)` vs `benjaminhuebner (1850)` at `7+3` time control,
+with themes `deflection, endgame, short, advantage`. You can [view the full game](https://lichess.org/zr2NJ0Fc),
+and the first solution move is `e4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
