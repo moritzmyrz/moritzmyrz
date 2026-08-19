@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2F2q4p%2Fp5pb%2F2p2Q1N%2F3p4%2FPPp4P%2F2P3P1%2F1K3R2%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1Q6%2F4pk2%2Fp4rp1%2F3P4%2F2P2q1n%2F6R1%2F5P1P%2F1R3K2%20b%20-%20-%2012%2044&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iR1Tp](https://lichess.org/training/iR1Tp), rated `1495`.
-The game is `Queen_Iryna (2220)` vs `ricjimenez_50 (2292)` at `3+2` time control,
-with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/pFtRFLmu),
-and the first solution move is `f5f6`.
+It is `Black to move` in puzzle [f4CqY](https://lichess.org/training/f4CqY), rated `1297`.
+The game is `Talisman687 (1976)` vs `Khalilo2011 (1926)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/GR7pxaxE),
+and the first solution move is `f4f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
