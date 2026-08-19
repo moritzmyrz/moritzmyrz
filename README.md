@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1qb2r2%2Fp5pk%2F4R2p%2F2Q5%2F2P5%2F1P3P1P%2FP5P1%2F7K%20w%20-%20-%203%2054&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F5pp1%2Fp6p%2F2p5%2F4p3%2FPq1rP2P%2F1PQ2PP1%2F2RR2K1%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [XbzGL](https://lichess.org/training/XbzGL), rated `1310`.
-The game is `Alenift (1751)` vs `Izaanriyaz (1851)` at `10+5` time control,
-with themes `hangingPiece, crushing, short, endgame`. You can [view the full game](https://lichess.org/Lvtz4fFa),
-and the first solution move is `c5f8`.
+It is `Black to move` in puzzle [clZPr](https://lichess.org/training/clZPr), rated `1530`.
+The game is `BIG_Pirate (2412)` vs `Hai1836 (2309)` at `3+0` time control,
+with themes `endgame, master, short, crushing, capturingDefender`. You can [view the full game](https://lichess.org/s6DxfUWk),
+and the first solution move is `b3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
