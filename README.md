@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5pk%2F6r1%2F3p4%2F2p3Q1%2F8%2FPq3rPP%2F3RR1K1%20w%20-%20-%208%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp5pp%2F1pq1p3%2F8%2F4R1p1%2F1QP5%2FPP3PPP%2F6K1%20w%20-%20-%201%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OOWfe](https://lichess.org/training/OOWfe), rated `1582`.
-The game is `grinpavl (2099)` vs `Leo_68 (2133)` at `3+0` time control,
-with themes `endgame, master, advantage, long`. You can [view the full game](https://lichess.org/7ayb3aAU),
-and the first solution move is `g4h4`.
+It is `White to move` in puzzle [tO2QB](https://lichess.org/training/tO2QB), rated `1521`.
+The game is `granata335 (1841)` vs `krasmyas (1824)` at `3+2` time control,
+with themes `long, crushing, deflection, endgame`. You can [view the full game](https://lichess.org/zviuse5Y),
+and the first solution move is `e4e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
