@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp2n2bp%2F3Bpqp1%2F1B2n3%2F5r2%2F8%2FPP3PPP%2FR2QR1K1%20w%20-%20-%201%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5b1r%2F3r1kp1%2F1p3p2%2F7P%2F8%2F3B3P%2FPP3P2%2F2K1R3%20w%20-%20-%200%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1lPvn](https://lichess.org/training/1lPvn), rated `1568`.
-The game is `abdallah188 (2230)` vs `Ma133 (2232)` at `15+0` time control,
-with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/UruySjDA),
-and the first solution move is `b5d7`.
+It is `White to move` in puzzle [N1CVu](https://lichess.org/training/N1CVu), rated `1453`.
+The game is `Chess_queen_13 (2413)` vs `ThePowerofthenew (2287)` at `10+5` time control,
+with themes `short, morphysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/633PFt7N),
+and the first solution move is `d3c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
