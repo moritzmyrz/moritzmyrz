@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F7R%2F3p1p1p%2F3Bb1pP%2Fr3Pp2%2F5K2%2F6P1%2F8%20w%20-%20-%2012%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr2k%2F1Rp3pp%2F1n6%2F1Pq5%2F8%2F1Q3P2%2F1B4PP%2F2R4K%20b%20-%20-%203%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6Q4EI](https://lichess.org/training/6Q4EI), rated `1402`.
-The game is `Vanbasten1988 (1862)` vs `aranhaBR (1832)` at `10+0` time control,
-with themes `endgame, short, crushing, fork`. You can [view the full game](https://lichess.org/lfgchoV9),
-and the first solution move is `d5c6`.
+It is `Black to move` in puzzle [C8akq](https://lichess.org/training/C8akq), rated `1277`.
+The game is `Stipas (1884)` vs `andreypesko (1876)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice, backRankMate`. You can [view the full game](https://lichess.org/nrvwBvcE),
+and the first solution move is `c5c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
