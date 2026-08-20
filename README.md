@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4Bp2%2F2Nb4%2FP1n5%2F7p%2F3pp2P%2F1P4P1%2F2K5%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4b1p1%2F4p3%2F4Bq2%2F3PQ3%2F2P3Pp%2F1P5P%2F4R1K1%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [25nSb](https://lichess.org/training/25nSb), rated `1563`.
-The game is `SupremaChess (2392)` vs `Ajedrecista555 (2448)` at `3+0` time control,
-with themes `advantage, long, hangingPiece, endgame`. You can [view the full game](https://lichess.org/O2wJMs7m),
-and the first solution move is `e7d6`.
+It is `Black to move` in puzzle [W0rqT](https://lichess.org/training/W0rqT), rated `1523`.
+The game is `Hasmik2011 (2143)` vs `berrato (2057)` at `10+5` time control,
+with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/BfqEI6Fs),
+and the first solution move is `f5f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
