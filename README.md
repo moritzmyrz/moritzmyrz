@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F6B1%2F2k2p2%2Fp7%2F2n1P1P1%2F5P1P%2F4K3%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp2q1ppp%2F1p6%2F8%2F3p1B2%2F3R1P2%2FP1Q2bPP%2F7K%20w%20-%20-%204%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [PsgaR](https://lichess.org/training/PsgaR), rated `1394`.
-The game is `BigDataRomeo (2033)` vs `buldaner (2044)` at `10+0` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/ebPIVPqf),
-and the first solution move is `a4a3`.
+It is `White to move` in puzzle [9AKhQ](https://lichess.org/training/9AKhQ), rated `1448`.
+The game is `TS_Kubik (1715)` vs `ElinaAkhmetshina (1651)` at `3+0` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/K3KxD3dw),
+and the first solution move is `c2f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
