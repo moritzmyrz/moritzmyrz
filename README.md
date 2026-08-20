@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F4b1p1%2F4p3%2F4Bq2%2F3PQ3%2F2P3Pp%2F1P5P%2F4R1K1%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F1b2qpp1%2Fp1n4p%2F1pp2R2%2F3p2Q1%2FPB1P2PN%2F1PPB2P1%2F6K1%20w%20-%20-%201%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [W0rqT](https://lichess.org/training/W0rqT), rated `1523`.
-The game is `Hasmik2011 (2143)` vs `berrato (2057)` at `10+5` time control,
-with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/BfqEI6Fs),
-and the first solution move is `f5f2`.
+It is `White to move` in puzzle [5inGl](https://lichess.org/training/5inGl), rated `1639`.
+The game is `kobip (1844)` vs `akfearel (1848)` at `10+0` time control,
+with themes `pin, crushing, short, middlegame`. You can [view the full game](https://lichess.org/MDIfj5I7),
+and the first solution move is `d2h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
