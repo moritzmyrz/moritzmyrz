@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7q%2F3k3p%2F1Qp5%2Fp2b2P1%2F1n6%2F1P6%2FP2P1P2%2F3KR1R1%20b%20-%20-%203%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp2n2bp%2F3Bpqp1%2F1B2n3%2F5r2%2F8%2FPP3PPP%2FR2QR1K1%20w%20-%20-%201%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [twt2G](https://lichess.org/training/twt2G), rated `1534`.
-The game is `Muradhamdan (1789)` vs `paglumotan (1785)` at `3+0` time control,
-with themes `short, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/MKeYedWJ),
-and the first solution move is `d5f3`.
+It is `White to move` in puzzle [1lPvn](https://lichess.org/training/1lPvn), rated `1568`.
+The game is `abdallah188 (2230)` vs `Ma133 (2232)` at `15+0` time control,
+with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/UruySjDA),
+and the first solution move is `b5d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
