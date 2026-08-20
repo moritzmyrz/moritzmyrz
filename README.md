@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp1N5%2F1p4p1%2F1P1Kpp2%2Fk5P1%2F5P2%2F8%20b%20-%20-%201%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2r1k1%2F5p1p%2F2bp1P2%2Fp1p1q1p1%2F2P1P1P1%2F5RNP%2FPP1QB3%2F2K5%20w%20-%20-%202%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MWTw4](https://lichess.org/training/MWTw4), rated `1560`.
-The game is `srbFR (1588)` vs `Haricharan_Mutyala (1587)` at `2+1` time control,
-with themes `endgame, advancedPawn, crushing, long, capturingDefender, knightEndgame`. You can [view the full game](https://lichess.org/aSNhQxe5),
-and the first solution move is `e4e3`.
+It is `White to move` in puzzle [noDza](https://lichess.org/training/noDza), rated `1321`.
+The game is `danishx (1860)` vs `igorr1234567 (1814)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/T5SQAuWK),
+and the first solution move is `f3f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
