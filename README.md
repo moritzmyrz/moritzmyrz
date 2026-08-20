@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp1p2p1p%2F6p1%2F6q1%2F8%2F4Q1P1%2FP1P3BP%2F1K2R3%20b%20-%20-%201%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fppp2ppp%2F2n1p3%2F3n1b2%2F2BP3q%2F2P2Q2%2FPP2NPPP%2FRNB1K2R%20w%20KQkq%20-%202%208&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [sDPG5](https://lichess.org/training/sDPG5), rated `1374`.
-The game is `Unepetitefleur (2174)` vs `Alexlevel3 (2299)` at `10+0` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/bUMDmx5D),
-and the first solution move is `d8d1`.
+It is `White to move` in puzzle [QPKU0](https://lichess.org/training/QPKU0), rated `1540`.
+The game is `Dutchvinny (1769)` vs `lamomog (1640)` at `10+0` time control,
+with themes `opening, short, crushing`. You can [view the full game](https://lichess.org/mzJX9ewn),
+and the first solution move is `c4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
