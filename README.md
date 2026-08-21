@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1k2%2F1pp2pbp%2Fp5p1%2F3n3n%2F3P1p2%2F1PP2P2%2FPB2R2P%2F4R1K1%20w%20-%20-%205%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rrk1%2F1pp3p1%2F3pN2q%2Fp2P1p2%2FP1P1PRb1%2F1P4R1%2F6QP%2F7K%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8VtAV](https://lichess.org/training/8VtAV), rated `1381`.
-The game is `Aspannan (1952)` vs `sideline_slav (1963)` at `3+5` time control,
-with themes `crushing, long, middlegame`. You can [view the full game](https://lichess.org/L3hKVFBV),
-and the first solution move is `b2a3`.
+It is `Black to move` in puzzle [RCxjP](https://lichess.org/training/RCxjP), rated `1557`.
+The game is `tosbikchess (2219)` vs `BackNRdy2KickAss (2176)` at `15+10` time control,
+with themes `short, capturingDefender, advantage, middlegame`. You can [view the full game](https://lichess.org/GHJoWXiw),
+and the first solution move is `e8e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
