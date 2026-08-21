@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3ppp%2F4b3%2Fq3P1B1%2F4p3%2F4P3%2FP4PPP%2FR2Q1RK1%20w%20kq%20-%201%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7r%2Fpp3k1B%2F2p2P1K%2F4pN2%2F2P3r1%2F3PR1P1%2FPP6%2FR7%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [hQFgp](https://lichess.org/training/hQFgp), rated `1511`.
-The game is `BlitzSG2021 (2343)` vs `DanPach (2516)` at `3+2` time control,
-with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/02twLheO),
-and the first solution move is `d1d6`.
+It is `Black to move` in puzzle [tzvuK](https://lichess.org/training/tzvuK), rated `1494`.
+The game is `santos52 (2209)` vs `achja (2245)` at `2+1` time control,
+with themes `deflection, endgame, long, mateIn3, blindSwineMate, pin`. You can [view the full game](https://lichess.org/ty9RCUQA),
+and the first solution move is `g4g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
