@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4pk2%2F3p4%2F6qP%2F1PKQ4%2F8%2F8%20w%20-%20-%2014%2059&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3r1%2F1p1bk3%2Fp3pq2%2F2bRQ1p1%2F8%2F2P1P1B1%2FPP3PP1%2F2K5%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [1qcQ1](https://lichess.org/training/1qcQ1), rated `1538`.
-The game is `Hello-123learner (2079)` vs `Izbassar (2092)` at `10+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/utJU6Ddt),
-and the first solution move is `d3d4`.
+It is `White to move` in puzzle [HzaRc](https://lichess.org/training/HzaRc), rated `1503`.
+The game is `iell02 (1884)` vs `Salaheddine32 (1789)` at `10+0` time control,
+with themes `deflection, middlegame, short, advantage`. You can [view the full game](https://lichess.org/ZwZYawvf),
+and the first solution move is `d5d7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
