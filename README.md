@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F7p%2Fb2q3p%2F4pR2%2F2P1P3%2Fpp1B4%2F1B4PP%2F7K%20w%20-%20-%200%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F5pp1%2F7p%2F8%2F7P%2F2R1P3%2F2N5%2F3KQq2%20b%20-%20-%2015%2047&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fnmQx](https://lichess.org/training/fnmQx), rated `1411`.
-The game is `jabbariamin (2082)` vs `lazyhaze (2034)` at `5+3` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/sEJswH2K),
-and the first solution move is `b2e5`.
+It is `Black to move` in puzzle [8Vgfm](https://lichess.org/training/8Vgfm), rated `1605`.
+The game is `laminebou (1791)` vs `paulinhobvs (1769)` at `10+5` time control,
+with themes `endgame, short, advantage, skewer`. You can [view the full game](https://lichess.org/oXhSwuj4),
+and the first solution move is `b8b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
