@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4Q3%2Fp4ppk%2F8%2F2b2q1p%2F2P3b1%2F5pBP%2FPP4P1%2F2R2R1K%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4B3%2Fn7%2FPp5p%2F1P2p1p1%2F4k1P1%2F4Pp1P%2F3K4%2F8%20w%20-%20-%201%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fgqWm](https://lichess.org/training/fgqWm), rated `1533`.
-The game is `ShauryaLohith (1659)` vs `Ayanth13gp (1743)` at `10+0` time control,
-with themes `veryLong, advancedPawn, middlegame, advantage, skewer, attraction`. You can [view the full game](https://lichess.org/4NAHuekd),
-and the first solution move is `f3g2`.
+It is `White to move` in puzzle [fGCP3](https://lichess.org/training/fGCP3), rated `1552`.
+The game is `CarpenterLance (2382)` vs `magolosof (2470)` at `3+2` time control,
+with themes `veryLong, endgame, master, crushing`. You can [view the full game](https://lichess.org/e1Y7WyZC),
+and the first solution move is `e8c6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
