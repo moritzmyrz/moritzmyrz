@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5pp%2F2p2p2%2Fkp2P3%2F5P2%2FP7%2F2P3PP%2F6K1%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp2r2p1%2Fbp2pP1Q%2F4r2P%2FP2Pp3%2F2P5%2F1q3P2%2FR3K1R1%20w%20Q%20-%200%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [U6bOu](https://lichess.org/training/U6bOu), rated `1451`.
-The game is `huckfinn2021 (1600)` vs `Kamranbina (1597)` at `30+20` time control,
-with themes `endgame, advantage, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/Fr3goaxM),
-and the first solution move is `f6e5`.
+It is `White to move` in puzzle [tlijI](https://lichess.org/training/tlijI), rated `1424`.
+The game is `deepanshah (1840)` vs `Vollmi (1759)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/IyDsqIHi),
+and the first solution move is `g1g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
