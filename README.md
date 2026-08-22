@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F2N5%2F1pn2k1r%2Fp4p2%2F2P2Pp1%2F3B1b2%2F1KP5%2F4R3%20w%20-%20-%201%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2Fp7%2FPp1qb1kp%2F1Ppp1pp1%2F8%2Fr3P2P%2F2QN1PP1%2F1R1R2K1%20w%20-%20-%206%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ovMpL](https://lichess.org/training/ovMpL), rated `1466`.
-The game is `jeemymc (1547)` vs `KriGre (1588)` at `2+1` time control,
-with themes `deflection, endgame, advantage, long`. You can [view the full game](https://lichess.org/OU0zUeOs),
-and the first solution move is `e1e6`.
+It is `White to move` in puzzle [FwAFM](https://lichess.org/training/FwAFM), rated `1549`.
+The game is `Elda64 (2685)` vs `Bulanov_Brest (2412)` at `3+2` time control,
+with themes `short, masterVsMaster, crushing, trappedPiece, master, middlegame`. You can [view the full game](https://lichess.org/fZYAvtZP),
+and the first solution move is `d2c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
