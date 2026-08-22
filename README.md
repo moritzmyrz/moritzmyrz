@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2Fpp1q4%2F3p4%2F3p4%2F3N2n1%2F2P1P1P1%2FPP2Q1P1%2FR4RK1%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3q1rk1%2Fp1p1b1pp%2F1rn2p2%2F3bp3%2FQ3P3%2FP2P2P1%2F1P2NPBP%2FR1B2RK1%20b%20-%20-%204%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [g6uW5](https://lichess.org/training/g6uW5), rated `1321`.
-The game is `ES3742 (1849)` vs `HakobRiganyan (1855)` at `3+0` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/GthUTHA5),
-and the first solution move is `h8h1`.
+It is `Black to move` in puzzle [2nBfB](https://lichess.org/training/2nBfB), rated `1330`.
+The game is `OJDidNothingWrong (1771)` vs `Zlatkoz26 (1809)` at `3+2` time control,
+with themes `short, advantage, trappedPiece, middlegame`. You can [view the full game](https://lichess.org/qha9qVDy),
+and the first solution move is `d5b3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
