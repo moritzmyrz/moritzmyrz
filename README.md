@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp4ppp%2F2p5%2F8%2F2Q5%2F4rP2%2FP1PqBRPP%2F3R1K2%20b%20-%20-%209%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr2nr%2F1pp4p%2F2q2p2%2Fp4Pp1%2F3bQ3%2FPPN4P%2F1BPP1P2%2F2KR3R%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ESLNG](https://lichess.org/training/ESLNG), rated `1426`.
-The game is `I4A616B75I (2064)` vs `daighasem2 (1998)` at `10+5` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/WQt86Re1),
-and the first solution move is `d2d1`.
+It is `Black to move` in puzzle [m0o2B](https://lichess.org/training/m0o2B), rated `1410`.
+The game is `maximayoz (1885)` vs `TALBJORN (1927)` at `3+2` time control,
+with themes `middlegame, queensideAttack, advantage, long, sacrifice`. You can [view the full game](https://lichess.org/pNe6KqYu),
+and the first solution move is `d4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
