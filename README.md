@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp3pb1%2F2pq2np%2FP6N%2F2Q5%2F3B3P%2F2P3P1%2F4rR1K%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r5k%2F2pN1n2%2F3p3b%2F2pPpP2%2Fp1P1P1QP%2FPq2r3%2F1P4P1%2FKR3B1R%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [t0qib](https://lichess.org/training/t0qib), rated `1442`.
-The game is `bachou2002 (2173)` vs `Mwansa (2177)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/ZAihNODb),
-and the first solution move is `c4f7`.
+It is `Black to move` in puzzle [Y8VHq](https://lichess.org/training/Y8VHq), rated `1600`.
+The game is `toffor (1797)` vs `pmahcrtur (1840)` at `30+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/JuVWinh3),
+and the first solution move is `b3a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
