@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=N4b1r%2Fpp1k1ppp%2F4pn2%2F5b2%2F1n1P1B2%2F5N2%2FPP2PPPP%2F2KR1B1R%20b%20-%20-%203%2012&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F1R2P3%2F4K1p1%2F6Pp%2F7P%2Fp7%2F4r3%2F8%20w%20-%20-%202%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [B2gcy](https://lichess.org/training/B2gcy), rated `1352`.
-The game is `DonLulu (1669)` vs `maestro158 (1632)` at `30+0` time control,
-with themes `middlegame, queensideAttack, long, mateIn3`. You can [view the full game](https://lichess.org/mCaMjGZh),
-and the first solution move is `b4a2`.
+It is `White to move` in puzzle [2sxSI](https://lichess.org/training/2sxSI), rated `1572`.
+The game is `Nicofdez (2293)` vs `LLZNN (2149)` at `3+0` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/NSwkB6Oe),
+and the first solution move is `e6f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
