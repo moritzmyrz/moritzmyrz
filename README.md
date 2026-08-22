@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rqk2r%2Fpp3ppp%2F3bp1n1%2F3p4%2FP2P4%2F2Pn1N1P%2F1Q1N1PP1%2FR1B2RK1%20w%20k%20-%202%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3rr3%2F5R2%2Fpk1bp1p1%2F1p6%2FP1pP2p1%2F2PBP3%2F1P2K3%2FR7%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WQasO](https://lichess.org/training/WQasO), rated `1275`.
-The game is `Mikhail_lugansk (1677)` vs `Calarrota (1693)` at `5+0` time control,
-with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/imsHiYLU),
-and the first solution move is `b2b5`.
+It is `White to move` in puzzle [o4zjE](https://lichess.org/training/o4zjE), rated `1406`.
+The game is `SF-46 (2791)` vs `therealYardbird (2631)` at `3+0` time control,
+with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/CINGfH7J),
+and the first solution move is `a4a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
