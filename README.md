@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6k%2F3nq2P%2F2n1N1Q1%2Fp2p4%2FP1p5%2F6RP%2F2p2r2%2F1NKR4%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r1q1rk1%2Fp1p2ppp%2F3p4%2F3Pn3%2F1R2P3%2F8%2FP2QNPPP%2F4R1K1%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [lkbUj](https://lichess.org/training/lkbUj), rated `1541`.
-The game is `daniel010203041 (1701)` vs `bjusifov (1707)` at `10+0` time control,
-with themes `mateIn2, advancedPawn, middlegame, short, promotion`. You can [view the full game](https://lichess.org/jI3ZxMYX),
-and the first solution move is `g6g8`.
+It is `Black to move` in puzzle [jsSEa](https://lichess.org/training/jsSEa), rated `1445`.
+The game is `alapoolala (2137)` vs `cgdev (1788)` at `10+5` time control,
+with themes `middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/BYW4g65b),
+and the first solution move is `b8b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
