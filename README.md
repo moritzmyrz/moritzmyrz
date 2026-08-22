@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fp2P1R2%2F1p6%2F1P6%2FP2k4%2Fr4p2%2F2K5%20w%20-%20-%201%2074&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp3pb1%2F2pq2np%2FP6N%2F2Q5%2F3B3P%2F2P3P1%2F4rR1K%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dCv3j](https://lichess.org/training/dCv3j), rated `1396`.
-The game is `chevdar1 (1992)` vs `XplosionKibosh (2089)` at `10+0` time control,
-with themes `veryLong, endgame, advancedPawn, crushing, rookEndgame, promotion`. You can [view the full game](https://lichess.org/OdD0y0VW),
-and the first solution move is `d6d7`.
+It is `White to move` in puzzle [t0qib](https://lichess.org/training/t0qib), rated `1442`.
+The game is `bachou2002 (2173)` vs `Mwansa (2177)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, kingsideAttack`. You can [view the full game](https://lichess.org/ZAihNODb),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
