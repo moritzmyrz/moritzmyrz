@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p4p1%2F2P4p%2F5PkP%2F7r%2FP1R2K2%2F8%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fpp3ppp%2F4pn2%2F8%2F1bBNP3%2F2N5%2FPP3PPP%2FR2QK2R%20w%20KQkq%20-%201%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bP4xN](https://lichess.org/training/bP4xN), rated `1276`.
-The game is `donkoledu (1838)` vs `Krigsgaldr (1846)` at `10+0` time control,
-with themes `endgame, short, crushing, rookEndgame, skewer`. You can [view the full game](https://lichess.org/UZMNO8eo),
-and the first solution move is `h3h2`.
+It is `White to move` in puzzle [ltcHS](https://lichess.org/training/ltcHS), rated `1489`.
+The game is `cyrilnaves (1627)` vs `Jilano06 (1654)` at `6+3` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/FNdResYh),
+and the first solution move is `d1a4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
