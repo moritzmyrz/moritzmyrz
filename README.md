@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q1rk1%2Fp1p1b1pp%2F1rn2p2%2F3bp3%2FQ3P3%2FP2P2P1%2F1P2NPBP%2FR1B2RK1%20b%20-%20-%204%2016&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F1p4p1%2F2P4p%2F5PkP%2F7r%2FP1R2K2%2F8%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2nBfB](https://lichess.org/training/2nBfB), rated `1330`.
-The game is `OJDidNothingWrong (1771)` vs `Zlatkoz26 (1809)` at `3+2` time control,
-with themes `short, advantage, trappedPiece, middlegame`. You can [view the full game](https://lichess.org/qha9qVDy),
-and the first solution move is `d5b3`.
+It is `Black to move` in puzzle [bP4xN](https://lichess.org/training/bP4xN), rated `1276`.
+The game is `donkoledu (1838)` vs `Krigsgaldr (1846)` at `10+0` time control,
+with themes `endgame, short, crushing, rookEndgame, skewer`. You can [view the full game](https://lichess.org/UZMNO8eo),
+and the first solution move is `h3h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
