@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1p2r2%2F2p5%2F8%2F3Q1Rq1%2F3P2P1%2FPPPK3P%2F7R%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k4r%2Fpp1q4%2F3p4%2F3p4%2F3N2n1%2F2P1P1P1%2FPP2Q1P1%2FR4RK1%20b%20-%20-%202%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [nA7hh](https://lichess.org/training/nA7hh), rated `1515`.
-The game is `Chernyaev (1630)` vs `White-Crow (1604)` at `5+3` time control,
-with themes `long, advantage, fork, endgame`. You can [view the full game](https://lichess.org/69GDLkxk),
-and the first solution move is `f7f4`.
+It is `Black to move` in puzzle [g6uW5](https://lichess.org/training/g6uW5), rated `1321`.
+The game is `ES3742 (1849)` vs `HakobRiganyan (1855)` at `3+0` time control,
+with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/GthUTHA5),
+and the first solution move is `h8h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
