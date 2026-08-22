@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1B3pk1%2F4p1p1%2F2p5%2F6np%2FP3Nq2%2F1P3P1P%2F1RQ1R1Kb%20b%20-%20-%202%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=Rn4k1%2F2q2ppp%2F4bn2%2F1p2p3%2F8%2F4P3%2F1P2BPPP%2F3RB1K1%20w%20-%20-%201%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [jIRC2](https://lichess.org/training/jIRC2), rated `1465`.
-The game is `renzon08 (1776)` vs `AMK222 (1756)` at `3+2` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/8RVoVmIR),
-and the first solution move is `f3f2`.
+It is `White to move` in puzzle [bxMu7](https://lichess.org/training/bxMu7), rated `1479`.
+The game is `MadDimon (2345)` vs `Jessejames88 (2349)` at `3+0` time control,
+with themes `crushing, fork, long, master, middlegame`. You can [view the full game](https://lichess.org/cYtEWXBJ),
+and the first solution move is `e1a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
