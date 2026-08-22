@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rnbqkb1r%2Fpp2pppp%2F5n2%2F8%2F2B5%2F4p3%2FPP2NPPP%2FR1BQK1NR%20w%20KQkq%20-%200%207&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp4ppp%2F2p5%2F2Pnp1q1%2FP2p4%2F5Q2%2F6PP%2F1R3R1K%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CR3qY](https://lichess.org/training/CR3qY), rated `1578`.
-The game is `Duckies (1973)` vs `magitsch1 (1963)` at `10+0` time control,
-with themes `deflection, short, advantage, opening, attackingF2F7`. You can [view the full game](https://lichess.org/xWaBk9FL),
-and the first solution move is `c4f7`.
+It is `White to move` in puzzle [2oxOm](https://lichess.org/training/2oxOm), rated `1459`.
+The game is `lamen977 (1763)` vs `lilou1977 (1732)` at `3+2` time control,
+with themes `veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/vpaEcEnB),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
