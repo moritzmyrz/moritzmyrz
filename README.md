@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2F8%2F1p1k2P1%2F2p4p%2FP4K2%2F1P4r1%2F8%20w%20-%20-%200%2056&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F6p1%2Fpp1p2rp%2F3Pp3%2F1PP2p1q%2F5PbP%2FP2BQ3%2FR2R1B1K%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [iSUHO](https://lichess.org/training/iSUHO), rated `1319`.
-The game is `Malemute_Kid_95 (2223)` vs `Darkknight3375 (2254)` at `10+0` time control,
-with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/gkBhtOFC),
-and the first solution move is `f3g2`.
+It is `Black to move` in puzzle [MCzoj](https://lichess.org/training/MCzoj), rated `1570`.
+The game is `Tokayto (2219)` vs `Migueliski (2203)` at `3+2` time control,
+with themes `exposedKing, veryLong, middlegame, attraction, quietMove, sacrifice, kingsideAttack, mateIn4`. You can [view the full game](https://lichess.org/axua8viU),
+and the first solution move is `g3f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
