@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p3p1k%2F1p1p4%2F2P5%2F2PKP1R1%2F5rP1%2F8%2F8%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fpppb1ppp%2F8%2F3Pp3%2F2P2n2%2F2N1QP2%2FPPB3PP%2FR4RK1%20b%20-%20-%206%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ANzgZ](https://lichess.org/training/ANzgZ), rated `1339`.
-The game is `rmishra03 (1826)` vs `RealisticRemi (1797)` at `15+10` time control,
-with themes `short, rookEndgame, endgame, mateIn2`. You can [view the full game](https://lichess.org/IAhjU6XT),
-and the first solution move is `b6c5`.
+It is `Black to move` in puzzle [KkjMX](https://lichess.org/training/KkjMX), rated `1439`.
+The game is `Destroyer8470 (2011)` vs `Kind_Hearted_Chess (2123)` at `10+5` time control,
+with themes `middlegame, crushing, long, kingsideAttack, pin`. You can [view the full game](https://lichess.org/WsWoGhCt),
+and the first solution move is `d8g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
