@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F3Q1pp1%2F1p2p2p%2Fn1q5%2F4B3%2Fr4P2%2F6PP%2FR2R3K%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2Fp2ppp1p%2F1p1q4%2F8%2F8%2F7P%2F3QBPP1%2F1R2R1K1%20w%20kq%20-%202%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2naiS](https://lichess.org/training/2naiS), rated `1414`.
-The game is `MayarK94 (1649)` vs `SirSavien (1622)` at `10+0` time control,
-with themes `veryLong, middlegame, advantage, sacrifice`. You can [view the full game](https://lichess.org/2Wcd10yy),
-and the first solution move is `d7d8`.
+It is `White to move` in puzzle [cPFav](https://lichess.org/training/cPFav), rated `1352`.
+The game is `Mzyy59 (1650)` vs `Lotharfrey (1698)` at `5+3` time control,
+with themes `middlegame, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/PrruJ8Dv),
+and the first solution move is `d2d6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
