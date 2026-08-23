@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2p2p2%2F1pP4p%2F1n1P1PkN%2F6P1%2Fr3R1K1%2F8%20w%20-%20-%205%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F3Q1pp1%2F1p2p2p%2Fn1q5%2F4B3%2Fr4P2%2F6PP%2FR2R3K%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [s8v62](https://lichess.org/training/s8v62), rated `1551`.
-The game is `Nogai (2662)` vs `emmatmackey (2643)` at `3+0` time control,
-with themes `long, crushing, master, endgame`. You can [view the full game](https://lichess.org/vTHTG95f),
-and the first solution move is `e2a2`.
+It is `White to move` in puzzle [2naiS](https://lichess.org/training/2naiS), rated `1414`.
+The game is `MayarK94 (1649)` vs `SirSavien (1622)` at `10+0` time control,
+with themes `veryLong, middlegame, advantage, sacrifice`. You can [view the full game](https://lichess.org/2Wcd10yy),
+and the first solution move is `d7d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
