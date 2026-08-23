@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3b2pp%2F8%2F1p1Q4%2F1P1B1pqP%2F2P5%2F6P1%2F6K1%20w%20-%20-%205%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1p1r1p1%2F1pbk3p%2F4pR2%2F2P1P3%2F1P2K2P%2FPB4P1%2F8%20w%20-%20-%2013%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UP81g](https://lichess.org/training/UP81g), rated `1615`.
-The game is `reddersp (1969)` vs `clarkinthepark (1994)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/7LSZdBmA),
-and the first solution move is `d4c5`.
+It is `White to move` in puzzle [qXrR0](https://lichess.org/training/qXrR0), rated `1458`.
+The game is `snbi (1794)` vs `dt52 (1777)` at `10+0` time control,
+with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/tqgDVvsf),
+and the first solution move is `b2a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
