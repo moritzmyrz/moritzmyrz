@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2Fp3ppkp%2F5np1%2F3b4%2FNP6%2FP4BP1%2F3rPP1P%2FR2R2K1%20b%20-%20-%203%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p6%2F8%2F1p1k2P1%2F2p4p%2FP4K2%2F1P4r1%2F8%20w%20-%20-%200%2056&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [k1xns](https://lichess.org/training/k1xns), rated `1584`.
-The game is `Experience_Chess (2721)` vs `Albornoz00 (2667)` at `3+0` time control,
-with themes `masterVsMaster, advantage, fork, long, master, middlegame`. You can [view the full game](https://lichess.org/qHuKgNnz),
-and the first solution move is `d2d1`.
+It is `White to move` in puzzle [iSUHO](https://lichess.org/training/iSUHO), rated `1319`.
+The game is `Malemute_Kid_95 (2223)` vs `Darkknight3375 (2254)` at `10+0` time control,
+with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/gkBhtOFC),
+and the first solution move is `f3g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
