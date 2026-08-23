@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2Fpp1R3p%2F1b6%2F6rP%2F5p2%2F6N1%2FPP3PBP%2F4R1K1%20b%20-%20-%201%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3b2pp%2F8%2F1p1Q4%2F1P1B1pqP%2F2P5%2F6P1%2F6K1%20w%20-%20-%205%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bn8dx](https://lichess.org/training/bn8dx), rated `1502`.
-The game is `larsenfan (1889)` vs `aVague (1854)` at `3+2` time control,
-with themes `middlegame, pin, crushing, long`. You can [view the full game](https://lichess.org/lvSWD7v6),
-and the first solution move is `f4g3`.
+It is `White to move` in puzzle [UP81g](https://lichess.org/training/UP81g), rated `1615`.
+The game is `reddersp (1969)` vs `clarkinthepark (1994)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/7LSZdBmA),
+and the first solution move is `d4c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
