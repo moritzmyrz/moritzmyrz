@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp2ppbn%2F5npp%2F1B1p4%2F3P4%2F1P2PN1P%2FP2N1PPB%2F2RQ1RK1%20w%20-%20-%202%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2Fpp3ppp%2F3p1n2%2F2p1p3%2F2PnP1b1%2F2NP2P1%2FPP2NP1P%2FR1BQKB1R%20b%20KQkq%20-%205%208&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ePpXz](https://lichess.org/training/ePpXz), rated `1520`.
-The game is `Gau97 (1831)` vs `amitjain (1919)` at `10+5` time control,
-with themes `middlegame, short, crushing, trappedPiece`. You can [view the full game](https://lichess.org/1S4AxXgA),
-and the first solution move is `h2c7`.
+It is `Black to move` in puzzle [3ACRw](https://lichess.org/training/3ACRw), rated `1329`.
+The game is `Breeze1738 (1835)` vs `lancero1976 (1864)` at `5+0` time control,
+with themes `oneMove, mateIn1, opening`. You can [view the full game](https://lichess.org/vMvLi6wx),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
