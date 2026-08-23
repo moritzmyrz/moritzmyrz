@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k2rn1%2F1p3Rp1%2Fp3p2p%2F2q1N1PP%2F2P2P2%2F8%2FPP2Q3%2F1K6%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2Fppb2p2%2F2p2p1Q%2F4pq2%2F8%2F3P1BP1%2FPP2PP1P%2FR4RK1%20w%20-%20-%201%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vXdfH](https://lichess.org/training/vXdfH), rated `1607`.
-The game is `SlowGuest (2098)` vs `Dokken2009 (2095)` at `2+1` time control,
-with themes `crushing, fork, long, endgame`. You can [view the full game](https://lichess.org/YFPjodmW),
-and the first solution move is `f8f7`.
+It is `White to move` in puzzle [JB3nA](https://lichess.org/training/JB3nA), rated `1354`.
+The game is `Ginsantv (1788)` vs `Nurnocheinmal (1812)` at `10+0` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/0HsjdcTt),
+and the first solution move is `f3e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
