@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1K6%2F2P1k1p1%2F7p%2F5P1P%2F3p4%2F8%2F8%20b%20-%20-%201%2057&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F5Rb1%2Fp1pn2p1%2F1p4N1%2F5B1P%2F2P5%2FPPb2PP1%2F6K1%20w%20-%20-%201%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [W0K0Z](https://lichess.org/training/W0K0Z), rated `1375`.
-The game is `Ksawix (1684)` vs `gt_64 (1656)` at `10+0` time control,
-with themes `endgame, advancedPawn, crushing, long, promotion, pawnEndgame`. You can [view the full game](https://lichess.org/Ju1Zy7PO),
-and the first solution move is `d3d2`.
+It is `White to move` in puzzle [y0Xvr](https://lichess.org/training/y0Xvr), rated `1602`.
+The game is `DrAg10 (1689)` vs `parakleto (1752)` at `5+3` time control,
+with themes `exposedKing, middlegame, advantage, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/AVYLuoWM),
+and the first solution move is `f7g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
