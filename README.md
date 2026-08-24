@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r2%2Fp3k3%2F1p1p3R%2F3Bb1K1%2F2P5%2F1P6%2FP7%2F8%20b%20-%20-%204%2037&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fb5pp%2Fpqn2p2%2F8%2F1P4Q1%2FP4N2%2F5PPP%2FR1B2RK1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vvyD9](https://lichess.org/training/vvyD9), rated `1551`.
-The game is `EmilioGaliciaM (1828)` vs `Oktopuce (1822)` at `10+5` time control,
-with themes `endgame, short, crushing, skewer`. You can [view the full game](https://lichess.org/CpFo0s7b),
-and the first solution move is `e5f4`.
+It is `Black to move` in puzzle [3Bnwc](https://lichess.org/training/3Bnwc), rated `1486`.
+The game is `mohammad20000 (1665)` vs `knockoffrolex (1681)` at `3+0` time control,
+with themes `middlegame, long, mateIn3, sacrifice, kingsideAttack, pin`. You can [view the full game](https://lichess.org/Fzmi4ejG),
+and the first solution move is `b6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
