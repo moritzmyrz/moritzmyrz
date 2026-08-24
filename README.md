@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4ppbp%2F6P1%2F8%2F3q4%2F1Q4N1%2F1P2KP2%2F7r%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4qrk1%2F1p1b2p1%2Fr5Qp%2Fp3P3%2F5Pp1%2FP1N1B1RP%2F1PB5%2FR5K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YLYoZ](https://lichess.org/training/YLYoZ), rated `1614`.
-The game is `Jorge9804 (1519)` vs `engenharia (1537)` at `3+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/CXJlVgMK),
-and the first solution move is `b3f7`.
+It is `Black to move` in puzzle [CHXsL](https://lichess.org/training/CHXsL), rated `1409`.
+The game is `MioraIsmael (2360)` vs `shipriaemadhe (2304)` at `3+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/oCBBf9Ui),
+and the first solution move is `a6g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
