@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2Fp1p3p1%2F1pP1K3%2F1P6%2FP6k%2F8%20w%20-%20-%204%2044&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1b1r%2F2k1nppp%2FQ1n2q2%2F5b2%2F3p4%2FNP6%2FPBPP1PPP%2FR3R1K1%20w%20-%20-%201%2016&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [wX2F3](https://lichess.org/training/wX2F3), rated `1525`.
-The game is `rajkopop (2003)` vs `S-Fray78 (1957)` at `5+0` time control,
-with themes `veryLong, crushing, pawnEndgame, endgame`. You can [view the full game](https://lichess.org/4nC4HGYL),
-and the first solution move is `e4f5`.
+It is `White to move` in puzzle [RUaLT](https://lichess.org/training/RUaLT), rated `1355`.
+The game is `Deadpawnwalking01 (1603)` vs `LXDStudio (1558)` at `3+0` time control,
+with themes `exposedKing, middlegame, crushing, long`. You can [view the full game](https://lichess.org/4IALIWNs),
+and the first solution move is `a3b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
