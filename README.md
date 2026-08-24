@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4R3%2Fkpp4p%2F6p1%2F2b5%2FP1P4K%2F1P3B1P%2F6r1%2F8%20b%20-%20-%205%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qkb1r%2F1p3ppp%2Fp1np1p2%2F2p1N3%2F2B1P3%2F2NP3P%2FPPP2PP1%2FR2bK2R%20w%20KQkq%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [yMz37](https://lichess.org/training/yMz37), rated `1306`.
-The game is `paulus_wenur (2213)` vs `dashazubricheva (2281)` at `10+0` time control,
-with themes `endgame, morphysMate, oneMove, mateIn1`. You can [view the full game](https://lichess.org/i9BxIIwH),
-and the first solution move is `c5f2`.
+It is `White to move` in puzzle [ADwps](https://lichess.org/training/ADwps), rated `1506`.
+The game is `Mohamedyasser2020 (2099)` vs `Ponkan_Longcop (2136)` at `10+0` time control,
+with themes `mateIn2, middlegame, short, attackingF2F7`. You can [view the full game](https://lichess.org/hRRZ7Pmj),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
