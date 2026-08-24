@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rr1k1%2Fpp3p2%2F6p1%2F7p%2F4q3%2FN1P2n2%2FPP3Q1P%2F4RRK1%20w%20-%20-%202%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2FpQp2pp1%2F7p%2F8%2F5Pb1%2F1NP1b1P1%2FPP4B1%2FR3R1K1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [RusmY](https://lichess.org/training/RusmY), rated `1437`.
-The game is `Bolotinskiy (2337)` vs `Chigorinez (2572)` at `3+2` time control,
-with themes `deflection, short, advantage, master, middlegame`. You can [view the full game](https://lichess.org/530RUecE),
-and the first solution move is `f2f3`.
+It is `White to move` in puzzle [82XgD](https://lichess.org/training/82XgD), rated `1399`.
+The game is `vidanut (2097)` vs `Sebastian_Miranda (2039)` at `3+0` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/tSUd9iaM),
+and the first solution move is `e1e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
