@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4qrk1%2F1p1b2p1%2Fr5Qp%2Fp3P3%2F5Pp1%2FP1N1B1RP%2F1PB5%2FR5K1%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F1pp3p1%2Fp4n2%2F5N2%2F7Q%2F1q5P%2F5PP1%2F3rR1K1%20w%20-%20-%203%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [CHXsL](https://lichess.org/training/CHXsL), rated `1409`.
-The game is `MioraIsmael (2360)` vs `shipriaemadhe (2304)` at `3+0` time control,
-with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/oCBBf9Ui),
-and the first solution move is `a6g6`.
+It is `White to move` in puzzle [e1SiT](https://lichess.org/training/e1SiT), rated `1263`.
+The game is `Gjqvbyjdf-123 (1903)` vs `alexeikh (1602)` at `5+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/2wukJKX9),
+and the first solution move is `h4h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
