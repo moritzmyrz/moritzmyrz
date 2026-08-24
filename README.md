@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F5pp1%2F3k4%2F1p1pp3%2Fp1B5%2FP1PK3P%2F2P3PB%2F1R6%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F7Q%2F1p1qpk1p%2F1Pp2p2%2F2Pn4%2FP2P3P%2F5PP1%2FR4RK1%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xyj5H](https://lichess.org/training/xyj5H), rated `1255`.
-The game is `Aramkurd (1833)` vs `Pushok53 (1818)` at `10+0` time control,
-with themes `endgame`. You can [view the full game](https://lichess.org/q5KWhIeP),
-and the first solution move is `b5c4`.
+It is `Black to move` in puzzle [xhpcy](https://lichess.org/training/xhpcy), rated `1382`.
+The game is `Oktubre32 (1628)` vs `kartos2 (1613)` at `3+0` time control,
+with themes `short, kingsideAttack, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/nRklJFMA),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
