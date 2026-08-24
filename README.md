@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F7Q%2F1p1qpk1p%2F1Pp2p2%2F2Pn4%2FP2P3P%2F5PP1%2FR4RK1%20b%20-%20-%202%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F2p3kp%2F1p1R1p2%2F1P3P2%2F4K1P1%2F8%20b%20-%20-%200%2037&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xhpcy](https://lichess.org/training/xhpcy), rated `1382`.
-The game is `Oktubre32 (1628)` vs `kartos2 (1613)` at `3+0` time control,
-with themes `short, kingsideAttack, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/nRklJFMA),
-and the first solution move is `d4f3`.
+It is `Black to move` in puzzle [o5yUu](https://lichess.org/training/o5yUu), rated `1432`.
+The game is `Toli4ka (2204)` vs `predmax (2187)` at `10+5` time control,
+with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/jQwnLFdB),
+and the first solution move is `c5d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
