@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F1pp3p1%2Fp4n2%2F5N2%2F7Q%2F1q5P%2F5PP1%2F3rR1K1%20w%20-%20-%203%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qk2r%2Fpbpn1p2%2F1p1pp3%2F8%2F3P4%2F2PBb3%2FPP1NQ1PN%2FR1B2R1K%20b%20kq%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [e1SiT](https://lichess.org/training/e1SiT), rated `1263`.
-The game is `Gjqvbyjdf-123 (1903)` vs `alexeikh (1602)` at `5+0` time control,
-with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/2wukJKX9),
-and the first solution move is `h4h8`.
+It is `Black to move` in puzzle [8OwNj](https://lichess.org/training/8OwNj), rated `1318`.
+The game is `Dragosewski1 (1781)` vs `Abuev_Roman (2354)` at `3+0` time control,
+with themes `mateIn2, short, attraction, sacrifice, opening, kingsideAttack`. You can [view the full game](https://lichess.org/LVFGHBMp),
+and the first solution move is `h8h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
