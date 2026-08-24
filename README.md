@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F5p1k%2F3p1Pp1%2Fp3q1Qp%2F1p6%2F8%2FPP2r3%2FK1R4R%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4k3%2F1p2p2p%2F2n2pp1%2F3N1P2%2F6rP%2F3K4%2F4R3%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pwtqh](https://lichess.org/training/pwtqh), rated `1396`.
-The game is `eduarches (1648)` vs `Jasariak (1693)` at `3+2` time control,
-with themes `veryLong, endgame, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/RGbBtyih),
-and the first solution move is `h1h5`.
+It is `White to move` in puzzle [zPpa2](https://lichess.org/training/zPpa2), rated `1373`.
+The game is `lavictoriavenezuela (2428)` vs `Manuel_Ochoa (2422)` at `3+0` time control,
+with themes `endgame, master, short, advantage, pin`. You can [view the full game](https://lichess.org/VQDW9iv6),
+and the first solution move is `d4f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
