@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3Pb2p%2F4K1p1%2FR3N3%2F8%2F8%2Fp6r%2F8%20w%20-%20-%209%2047&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2k1r%2F2q2pp1%2Fpp1bpn2%2F2p1p1Q1%2FP1B1PP1p%2F2NP3P%2F1PP3PB%2FR3R1K1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [I5ez5](https://lichess.org/training/I5ez5), rated `1504`.
-The game is `Hartwig_Heine (1701)` vs `Kolenkur (1641)` at `30+0` time control,
-with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/EnSvt6rg),
-and the first solution move is `a5a8`.
+It is `Black to move` in puzzle [Ze973](https://lichess.org/training/Ze973), rated `1454`.
+The game is `alsur22 (2371)` vs `pancholon3000 (2340)` at `10+0` time control,
+with themes `trappedPiece, short, crushing, middlegame`. You can [view the full game](https://lichess.org/QIj1AaHS),
+and the first solution move is `h8h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
