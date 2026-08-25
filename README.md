@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1q1rk1%2Fppp2ppp%2F1b6%2F3B4%2F3Pn1b1%2F2N2N2%2FPP3PPP%2FR1BQ1RK1%20b%20-%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1q3ppp%2F8%2FP3N3%2F3P1n2%2F5Q1P%2F5PP1%2F2R3K1%20b%20-%20-%202%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [z7eZN](https://lichess.org/training/z7eZN), rated `1391`.
-The game is `stainle1 (1670)` vs `JEISONSILVA (1686)` at `3+0` time control,
-with themes `short, advantage, intermezzo, opening, capturingDefender`. You can [view the full game](https://lichess.org/lskh6KVL),
-and the first solution move is `e4c3`.
+It is `Black to move` in puzzle [h5JaF](https://lichess.org/training/h5JaF), rated `1355`.
+The game is `Seyfs (1552)` vs `dumindu (1541)` at `10+5` time control,
+with themes `fork, advantage, long, endgame`. You can [view the full game](https://lichess.org/NyNRto54),
+and the first solution move is `b7f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
