@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2Fpp2bp1p%2F2p4p%2F3qPP2%2F8%2F1PP3N1%2F1P4PP%2FR2Q1RK1%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2Fp4ppp%2F2p1b3%2F2q5%2F2PR1P2%2F1P6%2FP2R1QPP%2F7K%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Onsha](https://lichess.org/training/Onsha), rated `1582`.
-The game is `surovi (2322)` vs `waltereador (2294)` at `3+0` time control,
-with themes `short, advantage, discoveredAttack, master, middlegame`. You can [view the full game](https://lichess.org/BJaAOYBI),
-and the first solution move is `d5c5`.
+It is `White to move` in puzzle [I5epC](https://lichess.org/training/I5epC), rated `1492`.
+The game is `beksmo03 (1786)` vs `JockerVic (1764)` at `5+0` time control,
+with themes `intermezzo, advantage, long, middlegame`. You can [view the full game](https://lichess.org/KOtzlvlA),
+and the first solution move is `d4d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
