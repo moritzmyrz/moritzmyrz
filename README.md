@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3rrk2%2FR6R%2F2p4p%2F3b1pp1%2F8%2F1pP4N%2F1P1P1PPP%2F2B2K2%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn2kb1r%2FpQ2pppp%2F8%2F8%2F8%2F8%2FP4PPP%2Fq1B1K1NR%20w%20Kkq%20-%200%2014&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zI9Fp](https://lichess.org/training/zI9Fp), rated `1293`.
-The game is `khadr123 (1574)` vs `Nyakallom (1616)` at `10+0` time control,
-with themes `middlegame, long, mateIn3, backRankMate`. You can [view the full game](https://lichess.org/g4aHNHEv),
-and the first solution move is `d5c4`.
+It is `White to move` in puzzle [YS1dI](https://lichess.org/training/YS1dI), rated `1245`.
+The game is `Its_Nipun (1751)` vs `John9nine (1759)` at `3+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/DWzMiBew),
+and the first solution move is `b7c8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
