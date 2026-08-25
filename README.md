@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6b1%2Fp2p2Q1%2Fq2r4%2F2p5%2FP6P%2F6P1%2F4RR1K%20w%20-%20-%201%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2FP4p1p%2FR1p3p1%2F1pPp2q1%2F3P1n2%2F4QP2%2FR5PP%2F6K1%20b%20-%20-%208%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vkh5J](https://lichess.org/training/vkh5J), rated `1413`.
-The game is `ALEKINN (1760)` vs `FunnyFighter (1778)` at `5+2` time control,
-with themes `mateIn2, middlegame, short, attraction, pin`. You can [view the full game](https://lichess.org/iKaE5qGG),
-and the first solution move is `f1f8`.
+It is `Black to move` in puzzle [NeSrE](https://lichess.org/training/NeSrE), rated `1302`.
+The game is `AgronomOPH (1648)` vs `strategys (1643)` at `15+15` time control,
+with themes `endgame, short, crushing, kingsideAttack, discoveredAttack, pin`. You can [view the full game](https://lichess.org/YyMVmKms),
+and the first solution move is `f4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
