@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3r1%2Fp3kpP1%2Fb4b2%2F2p2p2%2F5P2%2FP1R5%2F1PP4P%2F2KR4%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F7k%2F3p2p1%2F3P4%2F5Q2%2F6PK%2F8%2F3q4%20b%20-%20-%202%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [IoVb5](https://lichess.org/training/IoVb5), rated `1339`.
-The game is `OrkenOrdatayev (2031)` vs `mx7771231 (2049)` at `3+0` time control,
-with themes `veryLong, endgame, advantage, fork`. You can [view the full game](https://lichess.org/EI1yqtWc),
-and the first solution move is `c3e3`.
+It is `Black to move` in puzzle [BAmoZ](https://lichess.org/training/BAmoZ), rated `1279`.
+The game is `suedwind2 (2096)` vs `WES2015 (2126)` at `10+0` time control,
+with themes `short, endgame, queenEndgame, mateIn2`. You can [view the full game](https://lichess.org/cQx8EOC4),
+and the first solution move is `d1h1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
