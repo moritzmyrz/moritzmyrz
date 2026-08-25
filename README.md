@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1rk1%2Fpp3pbp%2F2n3p1%2F4p3%2F2P5%2F3QPNP1%2FPB3PBP%2FR2R2K1%20b%20-%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1q1rk1%2Fppp2ppp%2F1b6%2F3B4%2F3Pn1b1%2F2N2N2%2FPP3PPP%2FR1BQ1RK1%20b%20-%20-%200%2010&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KO2JS](https://lichess.org/training/KO2JS), rated `1574`.
-The game is `All_Win_Plo (2036)` vs `Illustrado (2176)` at `10+0` time control,
-with themes `middlegame, crushing, short`. You can [view the full game](https://lichess.org/uVXjSoNc),
-and the first solution move is `d8d3`.
+It is `Black to move` in puzzle [z7eZN](https://lichess.org/training/z7eZN), rated `1391`.
+The game is `stainle1 (1670)` vs `JEISONSILVA (1686)` at `3+0` time control,
+with themes `short, advantage, intermezzo, opening, capturingDefender`. You can [view the full game](https://lichess.org/lskh6KVL),
+and the first solution move is `e4c3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
