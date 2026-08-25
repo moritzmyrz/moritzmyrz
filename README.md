@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr2nr%2F2pp4%2F1q2pp2%2FQN4p1%2F1p1PP2p%2F5N1P%2F3B1PP1%2F6K1%20w%20-%20-%206%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2F3Pb2p%2F4K1p1%2FR3N3%2F8%2F8%2Fp6r%2F8%20w%20-%20-%209%2047&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vxofY](https://lichess.org/training/vxofY), rated `1429`.
-The game is `LtAldo_Raine (2008)` vs `chesskingdum (2054)` at `3+2` time control,
-with themes `mateIn2, middlegame, short, queensideAttack`. You can [view the full game](https://lichess.org/f1o028Vq),
+It is `White to move` in puzzle [I5ez5](https://lichess.org/training/I5ez5), rated `1504`.
+The game is `Hartwig_Heine (1701)` vs `Kolenkur (1641)` at `30+0` time control,
+with themes `deflection, endgame, short, crushing`. You can [view the full game](https://lichess.org/EnSvt6rg),
 and the first solution move is `a5a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
