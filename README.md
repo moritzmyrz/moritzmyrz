@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7r%2F5p2%2F1ppBbk2%2F1P5r%2FP3P1n1%2F2N3P1%2F5P2%2F1BRR2K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2r2%2Fpp4p1%2F7p%2F3R4%2F1k6%2F1nR2P2%2FPP4PP%2F6K1%20w%20-%20-%202%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [02gUK](https://lichess.org/training/02gUK), rated `1345`.
-The game is `ZV2018 (1941)` vs `Muradella (1963)` at `3+0` time control,
-with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/hms2FPiJ),
-and the first solution move is `h5h1`.
+It is `White to move` in puzzle [9cfZ4](https://lichess.org/training/9cfZ4), rated `1396`.
+The game is `marcusbuffett (1851)` vs `Wauwturr (1905)` at `10+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/0D8UYgD1),
+and the first solution move is `a2a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
