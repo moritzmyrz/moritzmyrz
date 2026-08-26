@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2Fr4BN1%2F3k1K1P%2F2p3P1%2F5P2%2F8%20b%20-%20-%202%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2rq1R2%2F6pk%2F4Q2p%2Fpp2N3%2F4P3%2FP1p1P2P%2F4K1P1%2F1R6%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [kyuCn](https://lichess.org/training/kyuCn), rated `1365`.
-The game is `Sainorn (1734)` vs `burakcanangs (1806)` at `3+2` time control,
-with themes `endgame, advancedPawn, crushing, long, sacrifice, promotion`. You can [view the full game](https://lichess.org/htr3YJNc),
-and the first solution move is `a5f5`.
+It is `Black to move` in puzzle [hQFwB](https://lichess.org/training/hQFwB), rated `1289`.
+The game is `LaSiciliana (1685)` vs `kvnrh (1675)` at `30+0` time control,
+with themes `endgame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/HOga3z4L),
+and the first solution move is `d8d2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
