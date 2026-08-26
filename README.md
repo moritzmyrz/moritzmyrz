@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=R4Q2%2F7p%2FP7%2F5N1k%2F3q4%2FKP2n3%2F8%2F8%20b%20-%20-%200%2056&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k1r%2F4np1p%2F3b1p2%2Fr2p1P2%2F2q1p1P1%2F1QP5%2F1PK1NP2%2F3R3R%20w%20-%20-%206%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ji5Lj](https://lichess.org/training/Ji5Lj), rated `1608`.
-The game is `RGallardoUsach (2157)` vs `Lorenzo1624 (2330)` at `3+0` time control,
-with themes `master, endgame`. You can [view the full game](https://lichess.org/THJg59kW),
-and the first solution move is `e3c2`.
+It is `White to move` in puzzle [OxzUP](https://lichess.org/training/OxzUP), rated `1488`.
+The game is `Andrey_Goryainov (1863)` vs `baine52 (2137)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/oLKlgnLb),
+and the first solution move is `b3c4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
