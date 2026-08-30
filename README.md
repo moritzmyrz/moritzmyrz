@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F8%2F4N3%2FP6p%2F2r4P%2FP2R1Pp1%2F4nP2%2F5R1K%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp3ppp%2Fq4n2%2F8%2F2Q5%2F1B5P%2F1P3PP1%2F3R2K1%20w%20-%20-%204%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [2BYNr](https://lichess.org/training/2BYNr), rated `1495`.
-The game is `luifernando (2240)` vs `TIBURONCHILENO (2402)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/nF6rY90t),
-and the first solution move is `c4h4`.
+It is `White to move` in puzzle [Sescx](https://lichess.org/training/Sescx), rated `1430`.
+The game is `kerimcans (1910)` vs `Pure_Witchcraft (1901)` at `3+0` time control,
+with themes `endgame, long, mateIn3, sacrifice, pin`. You can [view the full game](https://lichess.org/xkpdMy8J),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
