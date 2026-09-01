@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5ppb%2Fp4n2%2F1p1P1q1p%2F2P5%2F1P1Q3P%2F2P1rBP1%2FR3R1K1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4Rbk1%2Fr2P1p1p%2F5PpP%2F6n1%2F1p6%2F8%2FrPP2P2%2F1K1R4%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [CgSRb](https://lichess.org/training/CgSRb), rated `1378`.
-The game is `WolframHille (1908)` vs `kulikovskijviktor (1804)` at `10+0` time control,
-with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/5CUyP3ER),
-and the first solution move is `e1e2`.
+It is `White to move` in puzzle [oKoEj](https://lichess.org/training/oKoEj), rated `1288`.
+The game is `elihpmo (1885)` vs `raspik (1837)` at `3+0` time control,
+with themes `advancedPawn, short, attraction, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/5X1PxRar),
+and the first solution move is `e8f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
