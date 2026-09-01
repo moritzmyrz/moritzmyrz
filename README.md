@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2rr2k1%2F2q2p1p%2F6p1%2Fp2R4%2F1pPQ4%2F1P3P2%2FP2K2PP%2F4R3%20b%20-%20-%200%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4pkpp%2F1p6%2F1P2Q3%2FP5P1%2F3q1r1P%2FR6K%20b%20-%20-%207%2043&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [I7XYt](https://lichess.org/training/I7XYt), rated `1539`.
-The game is `rotemzzz (2001)` vs `Yaroslav004 (2004)` at `5+3` time control,
-with themes `clearance, endgame, crushing, long, pin`. You can [view the full game](https://lichess.org/3b5veopt),
-and the first solution move is `d8d5`.
+It is `Black to move` in puzzle [JLLTd](https://lichess.org/training/JLLTd), rated `1291`.
+The game is `Roley42 (1690)` vs `SadPandaIsCold (1696)` at `10+0` time control,
+with themes `short, triangleMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/lkNKVkop),
+and the first solution move is `f2h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
