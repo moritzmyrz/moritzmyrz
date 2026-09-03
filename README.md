@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F5p1p%2F5Pp1%2F8%2F2n2QPK%2F6N1%2FPr5P%2FR4R2%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2qr1k1%2Fppp3pp%2F2npp3%2F6NQ%2F8%2F8%2FPPP2PPP%2Fn4RK1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NVX62](https://lichess.org/training/NVX62), rated `1502`.
-The game is `teodoraboric (1894)` vs `mikboar (1777)` at `10+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/AL8Uxo9L),
-and the first solution move is `b2h2`.
+It is `White to move` in puzzle [GrtLt](https://lichess.org/training/GrtLt), rated `1345`.
+The game is `Sneakearss (1654)` vs `mrpeter20 (2274)` at `10+0` time control,
+with themes `deflection, middlegame, epauletteMate, long, mateIn3, kingsideAttack`. You can [view the full game](https://lichess.org/5Lv7JARl),
+and the first solution move is `h5h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
