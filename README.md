@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F2Q2pk1%2FP1p5%2F2Pp3q%2F3PpB2%2F4PpP1%2F5RbP%2F6K1%20b%20-%20-%204%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1kb1r%2Fpp1nn1p1%2F2p1p3%2F3pP2p%2F3P1Ppq%2F3B3P%2FPPP3K1%2FRNBQ2NR%20w%20kq%20-%202%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [LxD0k](https://lichess.org/training/LxD0k), rated `1284`.
-The game is `snaskov (1992)` vs `LLZZSD (1882)` at `3+0` time control,
-with themes `veryLong, endgame, operaMate, attraction, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/i69QI3KE),
-and the first solution move is `h5h2`.
+It is `White to move` in puzzle [ul6RN](https://lichess.org/training/ul6RN), rated `1447`.
+The game is `hollyelf (2265)` vs `ilya_k (2167)` at `15+10` time control,
+with themes `opening, crushing, long`. You can [view the full game](https://lichess.org/BBEgejSe),
+and the first solution move is `h3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
