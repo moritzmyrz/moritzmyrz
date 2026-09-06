@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2F1R1R1p2%2F5K1p%2F5Qp1%2Fp7%2FP2b2P1%2F1P3P1P%2F4r3%20b%20-%20-%203%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp2bppp%2F3pp3%2F5q2%2F8%2FB1NQ4%2FPP5P%2F1K2R1R1%20w%20-%20-%202%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Dj95g](https://lichess.org/training/Dj95g), rated `1536`.
-The game is `fedor145 (1667)` vs `Corradoo (1659)` at `10+5` time control,
-with themes `endgame, long, mateIn3, pillsburysMate`. You can [view the full game](https://lichess.org/us5wMdU3),
-and the first solution move is `c8c6`.
+It is `White to move` in puzzle [kSlMB](https://lichess.org/training/kSlMB), rated `1283`.
+The game is `Markushoesle (1934)` vs `la_iryadi (1995)` at `10+0` time control,
+with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/kFz58W2I),
+and the first solution move is `d3f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
