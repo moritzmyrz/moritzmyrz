@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6rk%2FpbR4p%2F1p1pp1r1%2F5p1n%2F1P1P2P1%2FP3P3%2F3BB1PP%2F6RK%20b%20-%20-%200%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fp1p5%2F2Qb1q1p%2F3p2p1%2F3P2b1%2F5PN1%2FPPP3PP%2F2KR1B1R%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [I550G](https://lichess.org/training/I550G), rated `1282`.
-The game is `Evolute (2140)` vs `Kenneth79 (2217)` at `3+0` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/8TDCE7S1),
-and the first solution move is `h5g3`.
+It is `Black to move` in puzzle [1rnzp](https://lichess.org/training/1rnzp), rated `1411`.
+The game is `kodarp (1622)` vs `BOBER2000 (1630)` at `10+0` time control,
+with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/7G6Owa3o),
+and the first solution move is `d6f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
