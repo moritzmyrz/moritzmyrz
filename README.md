@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2kb1r%2Fpp2pppp%2F2p5%2Fq4B2%2F2PP4%2F2n1B3%2FPPQ2PPP%2FR3K1NR%20b%20KQkq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5k1%2Fpp4r1%2F3R2R1%2F2p1npB1%2F4p3%2F2P5%2FP1P2PP1%2F2K5%20w%20-%20-%206%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [NhmxG](https://lichess.org/training/NhmxG), rated `1577`.
-The game is `Robert_Piplesh (2081)` vs `kroksy (2067)` at `3+2` time control,
-with themes `short, intermezzo, opening, discoveredAttack, interference, discoveredCheck, crushing`. You can [view the full game](https://lichess.org/LYW6T9xf),
-and the first solution move is `c3e4`.
+It is `White to move` in puzzle [Xbyqx](https://lichess.org/training/Xbyqx), rated `1405`.
+The game is `Xejo (1906)` vs `MarkovErratique (1915)` at `3+2` time control,
+with themes `exposedKing, endgame, discoveredCheck, advantage, attraction, fork, long, discoveredAttack`. You can [view the full game](https://lichess.org/hpOsHDt5),
+and the first solution move is `g6g7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
