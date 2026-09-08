@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2FR6R%2F1p1p1p2%2F1PpPprk1%2F1r6%2F8%2F5P2%2F5K2%20w%20-%20-%203%2048&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3r1%2F8%2F8%2FR1pkp2p%2FP2p4%2FBP1P2nP%2F3P1KP1%2F2R5%20b%20-%20-%204%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [o3uzD](https://lichess.org/training/o3uzD), rated `1588`.
-The game is `Vjacheslav47 (1954)` vs `RubenJonasCallupe (1989)` at `2+1` time control,
-with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/hKf7A02x),
-and the first solution move is `a7g7`.
+It is `Black to move` in puzzle [4OTdd](https://lichess.org/training/4OTdd), rated `1528`.
+The game is `Lukoshin (1586)` vs `podwochpiwkach (1558)` at `3+2` time control,
+with themes `veryLong, endgame, advantage, fork`. You can [view the full game](https://lichess.org/e7aHPRPA),
+and the first solution move is `c8f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
