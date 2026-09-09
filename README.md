@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7Q%2Fp3pp2%2F1pp1b1p1%2F3k4%2F6P1%2F7P%2Fq1P5%2F4R1K1%20w%20-%20-%204%2032&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3R4%2Fp4ppk%2F1p4p1%2F5pP1%2FP3r2P%2F2P2NQ1%2F1P2qP2%2F6K1%20b%20-%20-%204%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Y6UQh](https://lichess.org/training/Y6UQh), rated `1383`.
-The game is `Phuzer (2462)` vs `Mischer86 (2386)` at `3+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/S978peUO),
-and the first solution move is `h8e5`.
+It is `Black to move` in puzzle [vOtG7](https://lichess.org/training/vOtG7), rated `1423`.
+The game is `monzer_chess (1996)` vs `KnowHao (1885)` at `10+0` time control,
+with themes `pin, advantage, short, endgame`. You can [view the full game](https://lichess.org/TfauawZN),
+and the first solution move is `e4g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
