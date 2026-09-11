@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=N2k4%2Fpp4pp%2F3p4%2F4pb2%2F2Pn4%2F4K3%2FPPP3rP%2FR1B2R2%20b%20-%20-%202%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3q1kr1%2F1b2n2p%2Fp4p2%2F1pp1N3%2F7Q%2F3P4%2FPPP3PP%2F4R1K1%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [zpAgh](https://lichess.org/training/zpAgh), rated `1538`.
-The game is `Moez_Saifi (1771)` vs `IamSoulTaker22 (1808)` at `10+0` time control,
-with themes `hookMate, middlegame, oneMove, mateIn1, pillsburysMate`. You can [view the full game](https://lichess.org/pO2PeYdu),
-and the first solution move is `g2e2`.
+It is `White to move` in puzzle [3JKLM](https://lichess.org/training/3JKLM), rated `1435`.
+The game is `kleiner-feigling (2156)` vs `JosephR1967 (2066)` at `3+2` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/46nmRvLC),
+and the first solution move is `h4f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
