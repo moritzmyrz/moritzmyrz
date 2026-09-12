@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2F1p2p3%2F1P2P2K%2F5p1P%2F8%2F8%2F8%20w%20-%20-%200%2046&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2Fp2kppb1%2F1p1p2pp%2F2p1n3%2F2P5%2FP2PP1Pq%2F1P1B1P1P%2FR2Q1RK1%20b%20-%20-%203%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [OJhaB](https://lichess.org/training/OJhaB), rated `1390`.
-The game is `Pryvit2000 (1899)` vs `InsaneAkshat (1876)` at `3+0` time control,
-with themes `endgame, crushing, long, pawnEndgame, defensiveMove`. You can [view the full game](https://lichess.org/6mTl8C9o),
-and the first solution move is `h5g4`.
+It is `Black to move` in puzzle [Lv1BP](https://lichess.org/training/Lv1BP), rated `1469`.
+The game is `Andrya555681 (1824)` vs `SuGroB_na_meste (1880)` at `10+0` time control,
+with themes `advantage, short, middlegame`. You can [view the full game](https://lichess.org/rpaT1qao),
+and the first solution move is `e5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
