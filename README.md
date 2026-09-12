@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2Q5%2F1p2kpp1%2F1q2pb1p%2F1p6%2F1P2B3%2FP7%2F2Pr1PPP%2F5RK1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F4p1p1%2F3k1p1p%2Fp1pP1P1P%2FP3P1P1%2F1P2K3%2F8%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [HdoOa](https://lichess.org/training/HdoOa), rated `1479`.
-The game is `txboy (2016)` vs `LightningPro1 (2068)` at `15+10` time control,
-with themes `endgame, sacrifice, mateIn4, backRankMate, deflection, veryLong`. You can [view the full game](https://lichess.org/hml9QbuA),
-and the first solution move is `b6f2`.
+It is `Black to move` in puzzle [ZO2hC](https://lichess.org/training/ZO2hC), rated `1617`.
+The game is `keviintk (1635)` vs `mulyana09 (1635)` at `3+0` time control,
+with themes `endgame, zugzwang, crushing, long, pawnEndgame`. You can [view the full game](https://lichess.org/x7Ig6Oob),
+and the first solution move is `d5e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
