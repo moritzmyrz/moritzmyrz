@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2B3k1%2F5ppp%2Fq7%2F6P1%2F2P1Q2P%2FP1b1P3%2F5P2%2F1KR5%20b%20-%20-%200%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fp4pp1%2FB1q1p3%2F8%2F1P6%2F2P1B1Pp%2FP1Q2K1P%2FR6R%20b%20kq%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [MvRTK](https://lichess.org/training/MvRTK), rated `1505`.
-The game is `cedric1910 (1502)` vs `neohesque (1515)` at `3+2` time control,
-with themes `exposedKing, endgame, epauletteMate, long, mateIn3`. You can [view the full game](https://lichess.org/XECHfBjU),
-and the first solution move is `a6b6`.
+It is `Black to move` in puzzle [wPFwJ](https://lichess.org/training/wPFwJ), rated `1443`.
+The game is `fatimet_khachemizova (1611)` vs `limonistermisincocuk (1806)` at `10+0` time control,
+with themes `middlegame, short, crushing, skewer`. You can [view the full game](https://lichess.org/MwwpH1M4),
+and the first solution move is `c6g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
