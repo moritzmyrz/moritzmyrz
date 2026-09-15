@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4b2%2Fpp2qNpr%2F3pkn1p%2F5b2%2F4p3%2F1QN1P3%2FPP1P1PPP%2FR1B1K2R%20b%20KQ%20-%204%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k1N3%2Fpp3prp%2F8%2F8%2F3P4%2F3b4%2FP6B%2F5R1K%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [YNNW4](https://lichess.org/training/YNNW4), rated `1443`.
-The game is `Kornaykhov_02-08 (2047)` vs `Khanmohammadiamirali (1967)` at `10+5` time control,
-with themes `middlegame, short, advantage, trappedPiece, defensiveMove`. You can [view the full game](https://lichess.org/VVoBRYPm),
-and the first solution move is `d6d5`.
+It is `Black to move` in puzzle [knGjS](https://lichess.org/training/knGjS), rated `1384`.
+The game is `Ahmady82 (1715)` vs `HeavensMeavens (1697)` at `10+0` time control,
+with themes `short, morphysMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/7CbYX7Yi),
+and the first solution move is `d3e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
