@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn3rk1%2F1p4pp%2Fp7%2F2pn2P1%2F3Pp1Bb%2FNP5b%2FPBPP3P%2FRN1Q2KR%20b%20-%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2F1p2q1pp%2Fp3pr2%2F3p1P2%2FP1n5%2F2N5%2F1PP1Q1PP%2F4RR1K%20w%20-%20-%201%2020&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [7NfJP](https://lichess.org/training/7NfJP), rated `1437`.
-The game is `Fenil2205 (1908)` vs `KazimY (1689)` at `5+3` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/LK434LNo),
-and the first solution move is `h4f2`.
+It is `White to move` in puzzle [4y0AS](https://lichess.org/training/4y0AS), rated `1528`.
+The game is `Mathefreak1 (1718)` vs `rectumsempra (1683)` at `3+0` time control,
+with themes `long, crushing, middlegame`. You can [view the full game](https://lichess.org/DRKbOeDL),
+and the first solution move is `c3d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
