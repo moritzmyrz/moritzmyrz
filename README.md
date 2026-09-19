@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqkb1r%2Fpp1p1ppp%2F2n2n2%2F4p3%2F4P3%2F2NQ4%2FPPPB1PPP%2FR3KBNR%20b%20KQkq%20-%201%206&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fpp3pp1%2F2p4p%2F5N2%2F5nP1%2FP2Q3P%2F1P3q2%2F7K%20w%20-%20-%202%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [l1mfs](https://lichess.org/training/l1mfs), rated `1343`.
-The game is `AlexanderWolfram (1672)` vs `BrikNJ (1682)` at `15+15` time control,
-with themes `opening, short, advantage`. You can [view the full game](https://lichess.org/WCHTQLX7),
-and the first solution move is `c6b4`.
+It is `White to move` in puzzle [rxjg1](https://lichess.org/training/rxjg1), rated `1611`.
+The game is `masao321 (1988)` vs `BlueDune (1900)` at `30+0` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/DFDidXrY),
+and the first solution move is `f5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
