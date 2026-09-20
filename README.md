@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3Q%2Fpp3p2%2F2p2n2%2Fq1Pp4%2FPb1P4%2F1P2P1B1%2F4KPP1%2F2R5%20w%20-%20-%203%2025&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r3rk1%2F5pbp%2F2q3p1%2FP3N2P%2F1P4P1%2F2PR4%2FQ7%2F1K2R3%20b%20-%20-%200%2030&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WS3dO](https://lichess.org/training/WS3dO), rated `1537`.
-The game is `NorbertoH (1857)` vs `vapour0 (1827)` at `10+0` time control,
-with themes `middlegame, short, advantage, hangingPiece, defensiveMove`. You can [view the full game](https://lichess.org/kWMDa7XM),
-and the first solution move is `h8f6`.
+It is `Black to move` in puzzle [WnD1C](https://lichess.org/training/WnD1C), rated `1479`.
+The game is `Rutoken (1721)` vs `lito743 (1734)` at `5+0` time control,
+with themes `exposedKing, veryLong, middlegame, advantage, fork`. You can [view the full game](https://lichess.org/xI6mQJR3),
+and the first solution move is `g7e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
