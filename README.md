@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2k1b%2Fpp1p3p%2F3qpnp1%2F5n2%2F2B5%2FP1B2Q2%2F1P3PPP%2FR4RK1%20w%20-%20-%200%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2Fpp1n2p1%2F1q2p1P1%2F2pp1r1Q%2F5p2%2F2P1P3%2FPP3PP1%2F1R2K2R%20w%20K%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xpjys](https://lichess.org/training/xpjys), rated `1528`.
-The game is `ALEKSANDR7775 (1783)` vs `emilioprieto48 (1870)` at `10+0` time control,
-with themes `advantage, short, pin, middlegame`. You can [view the full game](https://lichess.org/9wGi4B7N),
-and the first solution move is `c3b4`.
+It is `White to move` in puzzle [llk1f](https://lichess.org/training/llk1f), rated `1448`.
+The game is `tackattack (2016)` vs `rvgupta1996 (1996)` at `3+2` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/uC6nMYLe),
+and the first solution move is `h5h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
