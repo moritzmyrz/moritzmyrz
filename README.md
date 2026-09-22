@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b3k1%2Fpp1n2p1%2F1q2p1P1%2F2pp1r1Q%2F5p2%2F2P1P3%2FPP3PP1%2F1R2K2R%20w%20K%20-%201%2018&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2FP6R%2Fr6p%2F8%2F5Kp1%2F7k%2F8%2F8%20w%20-%20-%202%2048&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [llk1f](https://lichess.org/training/llk1f), rated `1448`.
-The game is `tackattack (2016)` vs `rvgupta1996 (1996)` at `3+2` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/uC6nMYLe),
-and the first solution move is `h5h8`.
+It is `White to move` in puzzle [gnyig](https://lichess.org/training/gnyig), rated `1441`.
+The game is `HugosHH (1550)` vs `sorethea (1901)` at `10+0` time control,
+with themes `deflection, endgame, advancedPawn, crushing, rookEndgame, long, promotion`. You can [view the full game](https://lichess.org/Y8pCdv4a),
+and the first solution move is `h7h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
