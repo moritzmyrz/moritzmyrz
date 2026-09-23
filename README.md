@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k3n%2Fp1p5%2F1p3K2%2F6P1%2F2p5%2F2P5%2FP7%2F8%20w%20-%20-%201%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1q5p%2F3p2p1%2Fp1p1b2k%2F8%2FP4PP1%2F6KP%2F2Q5%20w%20-%20-%200%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [cqLJ1](https://lichess.org/training/cqLJ1), rated `1475`.
-The game is `OrangeToby (1511)` vs `Yasinhaydarusta (1525)` at `3+0` time control,
-with themes `endgame, crushing, knightEndgame, defensiveMove, trappedPiece, long`. You can [view the full game](https://lichess.org/b7S7hERv),
-and the first solution move is `f6g7`.
+It is `White to move` in puzzle [7gGOD](https://lichess.org/training/7gGOD), rated `1302`.
+The game is `Delvaux_Guy (1680)` vs `Skiritus (1680)` at `10+5` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/muWJfJcR),
+and the first solution move is `g3g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
