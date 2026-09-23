@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5rp1%2FpQ1P3p%2FP7%2F2PP1q2%2F4P2P%2F6P1%2FR4RK1%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F1p5p%2Fp5p1%2F2pNp3%2F2PP4%2F1P1b1q2%2FPR5P%2F4Q1K1%20w%20-%20-%201%2041&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [XLj5G](https://lichess.org/training/XLj5G), rated `1288`.
-The game is `borodinka2020 (2064)` vs `Superdorian (2140)` at `10+0` time control,
-with themes `deflection, endgame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/tf0mijV5),
-and the first solution move is `f4e3`.
+It is `White to move` in puzzle [asBLg](https://lichess.org/training/asBLg), rated `1414`.
+The game is `chessmath9 (1926)` vs `MandrakZoro (1935)` at `2+1` time control,
+with themes `veryLong, endgame, advantage, pin`. You can [view the full game](https://lichess.org/1NTlZZQC),
+and the first solution move is `e1e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
