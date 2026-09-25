@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F2pqkpB1%2F3p2b1%2FPr1P4%2F1PQ4p%2F2K1N3%2F2P5%2F8%20w%20-%20-%201%2041&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3q2k1%2F3n2b1%2F5p2%2F2p1pQ2%2F4P3%2F1rNP3P%2F1p1R1PP1%2FrR4K1%20w%20-%20-%204%2042&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [EmIMz](https://lichess.org/training/EmIMz), rated `1584`.
-The game is `Radvu (2091)` vs `alefiore93 (2061)` at `3+0` time control,
-with themes `middlegame, fork, long, mateIn3`. You can [view the full game](https://lichess.org/QycYO5Hl),
-and the first solution move is `c4h4`.
+It is `White to move` in puzzle [DDaXE](https://lichess.org/training/DDaXE), rated `1581`.
+The game is `AnTo-g402 (1745)` vs `czterooczak (1690)` at `5+0` time control,
+with themes `middlegame, advantage, fork, long`. You can [view the full game](https://lichess.org/srV7DGCP),
+and the first solution move is `f5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
