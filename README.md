@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qn3%2Fpp2prbk%2F1np1N2B%2F5P2%2F3p3R%2F6PP%2FPP6%2FR5K1%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F7p%2F5R2%2Fppkp2p1%2F8%2FP1P3P1%2F1PK4P%2F8%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GREBg](https://lichess.org/training/GREBg), rated `1290`.
-The game is `Jero-Rcl (1991)` vs `daymondino (1971)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, operaMate, discoveredCheck, discoveredAttack`. You can [view the full game](https://lichess.org/15Sru7Ot),
-and the first solution move is `h6g7`.
+It is `White to move` in puzzle [WAkvT](https://lichess.org/training/WAkvT), rated `1350`.
+The game is `mohmedabdelmohsn1w (2063)` vs `Morozov (2001)` at `10+0` time control,
+with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/jpwNvfXp),
+and the first solution move is `b2b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
