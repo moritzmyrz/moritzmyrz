@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2F7p%2F5R2%2Fppkp2p1%2F8%2FP1P3P1%2F1PK4P%2F8%20w%20-%20-%201%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rRk1%2Fp1pp2p1%2F1p2p2p%2F8%2F3PB1Pq%2F2PQP3%2FPP5b%2F2K4R%20b%20-%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [WAkvT](https://lichess.org/training/WAkvT), rated `1350`.
-The game is `mohmedabdelmohsn1w (2063)` vs `Morozov (2001)` at `10+0` time control,
-with themes `endgame, rookEndgame, long, mateIn3`. You can [view the full game](https://lichess.org/jpwNvfXp),
-and the first solution move is `b2b4`.
+It is `Black to move` in puzzle [GEAak](https://lichess.org/training/GEAak), rated `1298`.
+The game is `Alexander_A_Chernov (2279)` vs `Kerrick2022 (2248)` at `3+2` time control,
+with themes `advantage, short, master, middlegame`. You can [view the full game](https://lichess.org/F7pU8Oza),
+and the first solution move is `e8f8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
