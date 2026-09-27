@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4b3%2Fpp6%2F4p3%2F1P2N3%2FP2k3r%2F2R5%2F5PPp%2F7K%20w%20-%20-%203%2038&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5k2%2Fpp1p1p1P%2F4pK2%2F2P1P3%2F1P4r1%2FP1P4R%2F8%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ftLSy](https://lichess.org/training/ftLSy), rated `1579`.
-The game is `Gabrielian (2787)` vs `PchelkinVK (2617)` at `3+0` time control,
-with themes `endgame, master, short, masterVsMaster, advantage, skewer`. You can [view the full game](https://lichess.org/mT4lEgUe),
-and the first solution move is `c3c4`.
+It is `Black to move` in puzzle [a2so3](https://lichess.org/training/a2so3), rated `1334`.
+The game is `RDTFM (1986)` vs `Mazeda (1954)` at `10+0` time control,
+with themes `endgame, rookEndgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/3W1bzTAI),
+and the first solution move is `g3g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
