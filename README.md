@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2F2q1bn2%2Fp4n1Q%2F1pp1pPN1%2F8%2F7P%2FPPP2PP1%2FR4RK1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3kb1r%2Fpppb1p1p%2F3p2p1%2F3Pn3%2F3QnB1q%2F8%2FPPP1B1PP%2FRN2K1NR%20w%20KQkq%20-%202%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [GrlQo](https://lichess.org/training/GrlQo), rated `1450`.
-The game is `Kerei (1931)` vs `H2Oss (1720)` at `5+0` time control,
-with themes `deflection, mateIn2, middlegame, short, kingsideAttack, cornerMate`. You can [view the full game](https://lichess.org/uy3EOSJr),
-and the first solution move is `h6g6`.
+It is `White to move` in puzzle [YprMJ](https://lichess.org/training/YprMJ), rated `1318`.
+The game is `abazari_reza (1641)` vs `AmmarHisham1993 (1600)` at `10+0` time control,
+with themes `opening, defensiveMove, short, advantage`. You can [view the full game](https://lichess.org/s1Cpv9qW),
+and the first solution move is `g2g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
