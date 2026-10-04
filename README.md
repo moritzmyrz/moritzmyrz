@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F6p1%2FKR4P1%2F8%2F8%2F8%2F8%2F8%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q3r%2F1bpnk1p1%2Fp2p3p%2F1p2p2Q%2F3n4%2FP1NP3P%2FBPP2PPN%2FR3R1K1%20w%20-%20-%204%2019&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ju14T](https://lichess.org/training/Ju14T), rated `1439`.
-The game is `MrBini (2281)` vs `Spyder11 (2245)` at `3+0` time control,
-with themes `veryLong, endgame, master, crushing, rookEndgame, defensiveMove`. You can [view the full game](https://lichess.org/9zhEXAtG),
-and the first solution move is `f8f6`.
+It is `White to move` in puzzle [BLKnS](https://lichess.org/training/BLKnS), rated `1427`.
+The game is `marcnp87 (1849)` vs `MohammadTehrani (1746)` at `10+5` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/zBr1rdQn),
+and the first solution move is `h5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
