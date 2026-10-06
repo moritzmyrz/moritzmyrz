@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2FbQ3pp1%2F3N1p1p%2F8%2FP3P3%2F5PPK%2F4q2P%2F8%20b%20-%20-%201%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp7%2F8%2F6K1%2F1k2B3%2F1p5P%2F8%2F8%20b%20-%20-%203%2054&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [giGSm](https://lichess.org/training/giGSm), rated `1331`.
-The game is `AbdulBarsit (1513)` vs `erremme (1508)` at `5+0` time control,
-with themes `veryLong, endgame, attraction, mateIn4`. You can [view the full game](https://lichess.org/Xif2DNSm),
-and the first solution move is `e2f1`.
+It is `Black to move` in puzzle [S7ptW](https://lichess.org/training/S7ptW), rated `1513`.
+The game is `Matanzas67 (2576)` vs `Misi_95 (2708)` at `3+0` time control,
+with themes `endgame, master, short, masterVsMaster, crushing, quietMove, bishopEndgame, defensiveMove`. You can [view the full game](https://lichess.org/7eOXoHi4),
+and the first solution move is `a7a5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
