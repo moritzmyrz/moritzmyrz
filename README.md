@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp4ppp%2F1p6%2F2pr2q1%2F4R3%2F1P2PQ2%2FP5PP%2F3R2K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6r1%2F2R4p%2Fp4p1k%2F1p6%2F2P2p2%2FPP3P1b%2F1P3K1P%2F4R3%20b%20-%20-%202%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [765fi](https://lichess.org/training/765fi), rated `1487`.
-The game is `lpivi (1558)` vs `TreborSon (1564)` at `3+2` time control,
-with themes `deflection, endgame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/SyYpPaWS),
-and the first solution move is `d1d5`.
+It is `Black to move` in puzzle [gjNMl](https://lichess.org/training/gjNMl), rated `1592`.
+The game is `thomyorkechess (1520)` vs `jpbell (1529)` at `10+0` time control,
+with themes `endgame, discoveredCheck, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/FShWpQln),
+and the first solution move is `g8g2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
