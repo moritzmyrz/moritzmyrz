@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2Fpb4pp%2F2q5%2F2p5%2FN1Q5%2F1P1P4%2FP1P3PP%2F6RK%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2Fp2pp1bp%2Fb5p1%2Fq1pP4%2F4Q3%2F2N2N2%2FP1PB2PP%2F2KR3R%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xisSX](https://lichess.org/training/xisSX), rated `1421`.
-The game is `Brumoso (1746)` vs `tarhana (1739)` at `5+0` time control,
-with themes `short, sacrifice, pin, endgame, mateIn2`. You can [view the full game](https://lichess.org/vTIe2KRA),
-and the first solution move is `c6g2`.
+It is `Black to move` in puzzle [la2yj](https://lichess.org/training/la2yj), rated `1461`.
+The game is `AliFJ (2147)` vs `strandedman29 (2161)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/7tAdxMSY),
+and the first solution move is `a5a3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
