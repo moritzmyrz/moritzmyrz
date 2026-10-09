@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp5kp%2F1p3r2%2F6p1%2F2P2pq1%2F1P1Q4%2FP4P1K%2FRN4R1%20b%20-%20-%203%2031&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fp3rr2%2F1p4p1%2F8%2F2pQ4%2F7b%2FP1PK1p2%2F5B2%20w%20-%20-%203%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [UpRRM](https://lichess.org/training/UpRRM), rated `1377`.
-The game is `mahmud_mahmudov (1627)` vs `Tmeem (1684)` at `5+0` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/Paomfv68),
-and the first solution move is `f6h6`.
+It is `White to move` in puzzle [EC4I0](https://lichess.org/training/EC4I0), rated `1442`.
+The game is `shailesh96 (1905)` vs `thecreative (1767)` at `10+0` time control,
+with themes `endgame, oneMove, mateIn1`. You can [view the full game](https://lichess.org/P8bzx1KC),
+and the first solution move is `d4h8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
