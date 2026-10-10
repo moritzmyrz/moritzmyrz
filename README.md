@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5p1p%2Fp5pb%2F4Q2b%2Fq1R1P2P%2FB7%2F6P1%2FK5R1%20b%20-%20-%200%2039&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rn1qkb1r%2Fp2p2pp%2F1p2p3%2F2pbp3%2F3P1P1N%2F2P5%2FPP4PP%2FR1BQKB1R%20w%20KQkq%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [q8Og1](https://lichess.org/training/q8Og1), rated `1591`.
-The game is `vladpip (1548)` vs `Mr_Drunk_5464 (1545)` at `10+0` time control,
-with themes `exposedKing, middlegame, crushing, fork, long, hangingPiece`. You can [view the full game](https://lichess.org/DSFE0iJp),
-and the first solution move is `a4a3`.
+It is `White to move` in puzzle [Ul53X](https://lichess.org/training/Ul53X), rated `1324`.
+The game is `mikas4 (1881)` vs `JustThisMove (1883)` at `3+2` time control,
+with themes `short, crushing, opening`. You can [view the full game](https://lichess.org/XthYaMoN),
+and the first solution move is `d1h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
