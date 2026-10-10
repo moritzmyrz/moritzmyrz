@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn1qkb1r%2Fp2p2pp%2F1p2p3%2F2pbp3%2F3P1P1N%2F2P5%2FPP4PP%2FR1BQKB1R%20w%20KQkq%20-%200%2010&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp2n2R%2F4k3%2F3p1r2%2F2pP2K1%2F2P5%2FPP6%2F8%20w%20-%20-%204%2053&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Ul53X](https://lichess.org/training/Ul53X), rated `1324`.
-The game is `mikas4 (1881)` vs `JustThisMove (1883)` at `3+2` time control,
-with themes `short, crushing, opening`. You can [view the full game](https://lichess.org/XthYaMoN),
-and the first solution move is `d1h5`.
+It is `White to move` in puzzle [2YbUE](https://lichess.org/training/2YbUE), rated `1394`.
+The game is `Odirovski (2570)` vs `Aleksei_Bykov (2515)` at `3+0` time control,
+with themes `deflection, endgame, master, short, crushing`. You can [view the full game](https://lichess.org/GLjHlClf),
+and the first solution move is `h7e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
