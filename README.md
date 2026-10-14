@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fb1r1k2p%2F4p1p1%2F1p1rP3%2F1P6%2F2RN4%2FP1K3PP%2FR7%20b%20-%20-%203%2027&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5p1k%2F1p4pp%2F7r%2F1b3Qb1%2F4P1q1%2FP2N3N%2FR4R1K%20b%20-%20-%203%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xjXNY](https://lichess.org/training/xjXNY), rated `1309`.
-The game is `wanderoz (1961)` vs `paleta (2027)` at `3+2` time control,
-with themes `exposedKing, endgame, crushing, long, skewer, attraction`. You can [view the full game](https://lichess.org/IhuSa9z2),
-and the first solution move is `c7c3`.
+It is `Black to move` in puzzle [UIMLp](https://lichess.org/training/UIMLp), rated `1419`.
+The game is `chrisches (2145)` vs `A7med_Mostafa (1996)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/OyJUny9F),
+and the first solution move is `h5h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
