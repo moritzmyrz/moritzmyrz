@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F1b2bp1p%2F2p1p1N1%2Fp1p5%2F4Pq2%2F1P6%2FPBP2PPP%2F3R1RK1%20w%20-%20-%200%2020&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F1b2r3%2F8%2F1QP4p%2FPN4pP%2F6P1%2F3q1P2%2FR5K1%20b%20-%20-%202%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Rnclx](https://lichess.org/training/Rnclx), rated `1308`.
-The game is `hectorluis2019 (2285)` vs `nspiderman2015 (1974)` at `3+0` time control,
-with themes `oneMove, hangingPiece, master, middlegame, mateIn1, kingsideAttack`. You can [view the full game](https://lichess.org/TKEHJsgW),
-and the first solution move is `g6e7`.
+It is `Black to move` in puzzle [KH6jm](https://lichess.org/training/KH6jm), rated `1318`.
+The game is `hemaprakashreddy (1951)` vs `zemkov777 (1939)` at `10+0` time control,
+with themes `long, advantage, endgame`. You can [view the full game](https://lichess.org/85T6HfHe),
+and the first solution move is `e7e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
