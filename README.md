@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2F1b3p2%2Fp3pp1p%2F1P1q4%2F3P4%2F3B1N1K%2F1P2QP1P%2FR4R2%20b%20-%20-%202%2020&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk1nr%2Fpp2ppb1%2F6pp%2F2p1P3%2F2BN4%2F2N5%2FPPPP2PP%2FR1BQ1RK1%20b%20kq%20-%200%209&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [xd8Gz](https://lichess.org/training/xd8Gz), rated `1485`.
-The game is `Nicolas_di_Salina (2221)` vs `Vinod19851985 (2211)` at `10+5` time control,
-with themes `clearance, mateIn2, middlegame, short, morphysMate`. You can [view the full game](https://lichess.org/bhyN5YqJ),
-and the first solution move is `d5h5`.
+It is `Black to move` in puzzle [hT4iL](https://lichess.org/training/hT4iL), rated `1283`.
+The game is `marceloarc (1847)` vs `vvaassee (1878)` at `10+0` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/wQrB20HT),
+and the first solution move is `d8d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
