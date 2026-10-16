@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1R1R4%2F5ppk%2F5n1p%2F5Nq1%2F8%2F5Q1P%2Fr4rP1%2F6K1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2F3N1p1p%2F4p3%2F6Pp%2Fp2Pb2q%2Fb1p1P1R1%2F2Q2P2%2FBK1R4%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [jbYtM](https://lichess.org/training/jbYtM), rated `1285`.
-The game is `otaviomartigli (1710)` vs `Shadyasal (1698)` at `5+0` time control,
-with themes `mateIn2, middlegame, short, cornerMate`. You can [view the full game](https://lichess.org/Om7N4Roo),
-and the first solution move is `d8h8`.
+It is `White to move` in puzzle [uEged](https://lichess.org/training/uEged), rated `1453`.
+The game is `RookTakesE6 (2104)` vs `hamid999999 (2024)` at `3+0` time control,
+with themes `advantage, long, middlegame`. You can [view the full game](https://lichess.org/VcP2hViK),
+and the first solution move is `d7f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
