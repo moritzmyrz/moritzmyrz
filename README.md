@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p4pk%2Fp2qp3%2F5b1p%2F5R2%2F1P6%2FP4QPK%2F8%20b%20-%20-%203%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4Rpp1%2F7p%2F3Bn3%2Fpp6%2F6P1%2F2r2P1P%2F6K1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [67i8z](https://lichess.org/training/67i8z), rated `1455`.
-The game is `aqualis (1724)` vs `lukos05 (1762)` at `10+5` time control,
-with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/UItoWgMk),
-and the first solution move is `g7g5`.
+It is `White to move` in puzzle [vYHpK](https://lichess.org/training/vYHpK), rated `1493`.
+The game is `mzakeri (1644)` vs `YiJin2421 (1629)` at `5+0` time control,
+with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/3owMUB50),
+and the first solution move is `e7e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
