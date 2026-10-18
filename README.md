@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F4Rpp1%2F7p%2F3Bn3%2Fpp6%2F6P1%2F2r2P1P%2F6K1%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F5ppp%2F1p3n2%2F3p4%2F3P4%2F3Q1B1q%2FPP3PN1%2F4RRK1%20b%20-%20-%203%2024&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [vYHpK](https://lichess.org/training/vYHpK), rated `1493`.
-The game is `mzakeri (1644)` vs `YiJin2421 (1629)` at `5+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/3owMUB50),
-and the first solution move is `e7e8`.
+It is `Black to move` in puzzle [pJqNl](https://lichess.org/training/pJqNl), rated `1344`.
+The game is `Yousof7 (1823)` vs `albertogh (1844)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/YCDfo0Yc),
+and the first solution move is `f6g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
