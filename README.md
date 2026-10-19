@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2qkbnr%2Fpp2pppp%2F3p4%2F2p1N3%2F2BnP3%2F2N5%2FPPPP1PPP%2FR1Bb1RK1%20w%20kq%20-%200%207&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp4pp%2F2p1pn2%2F8%2F6q1%2F2P1B2Q%2FPP4PP%2F4RRK1%20w%20-%20-%203%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pcyNR](https://lichess.org/training/pcyNR), rated `1343`.
-The game is `YouGoGuy (1588)` vs `MRSOUTHEASTTEXAS (1645)` at `10+0` time control,
-with themes `oneMove, opening, mateIn1, attackingF2F7`. You can [view the full game](https://lichess.org/uVNHlruR),
-and the first solution move is `c4f7`.
+It is `White to move` in puzzle [afseh](https://lichess.org/training/afseh), rated `1596`.
+The game is `some_broadcaster (1844)` vs `johnomatopoeia (1766)` at `3+2` time control,
+with themes `kingsideAttack, advantage, long, middlegame`. You can [view the full game](https://lichess.org/blbGoMw7),
+and the first solution move is `f1f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
