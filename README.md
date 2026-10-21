@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p3ppp%2F4p3%2Frq6%2Fn1p5%2F8%2F5QPP%2F3R1RK1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2Fp4Q1p%2F1p4pb%2F4p3%2F8%2FPPPK2P1%2F6qP%2FR1B4b%20b%20-%20-%207%2027&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ACva8](https://lichess.org/training/ACva8), rated `1363`.
-The game is `Jazz_sax_moscow (1795)` vs `tap1234 (1798)` at `5+5` time control,
-with themes `veryLong, middlegame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/6VsKGUCj),
-and the first solution move is `f2f7`.
+It is `Black to move` in puzzle [WE8CZ](https://lichess.org/training/WE8CZ), rated `1305`.
+The game is `elmaestro2019 (1957)` vs `wangyt202006 (1868)` at `10+0` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/gFBY55fo),
+and the first solution move is `g2e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
