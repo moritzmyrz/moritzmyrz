@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2r4%2Fp4pk1%2F1p1p1n2%2F3Pq1B1%2F3p4%2F6Q1%2FPP3PPP%2F3R2K1%20w%20-%20-%203%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r2kr2%2F5pQp%2Fpb2b3%2F4R3%2F1p4P1%2F1Pq2P2%2FP1P4P%2F2KR4%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [MQAzy](https://lichess.org/training/MQAzy), rated `1582`.
-The game is `essam2shraf (2034)` vs `JulianSpedalieri (2147)` at `10+0` time control,
-with themes `middlegame, short, crushing, discoveredAttack`. You can [view the full game](https://lichess.org/iuV08dKE),
-and the first solution move is `g5f4`.
+It is `White to move` in puzzle [Tc1co](https://lichess.org/training/Tc1co), rated `1345`.
+The game is `Alibek_72 (2014)` vs `Alex65 (1953)` at `5+3` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/XCJtq7Fz),
+and the first solution move is `e5e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
