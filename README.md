@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r2kr2%2F5pQp%2Fpb2b3%2F4R3%2F1p4P1%2F1Pq2P2%2FP1P4P%2F2KR4%20w%20-%20-%201%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F3qk3%2F2np4%2F3Q2p1%2F1p1bP1Nr%2F5P2%2F1P4Kp%2FR4N1B%20w%20-%20-%206%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Tc1co](https://lichess.org/training/Tc1co), rated `1345`.
-The game is `Alibek_72 (2014)` vs `Alex65 (1953)` at `5+3` time control,
-with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/XCJtq7Fz),
-and the first solution move is `e5e6`.
+It is `White to move` in puzzle [3KAxc](https://lichess.org/training/3KAxc), rated `1338`.
+The game is `Rawel73 (2363)` vs `ruslan1541 (2535)` at `3+1` time control,
+with themes `short, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/5OETyo5A),
+and the first solution move is `d5g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
