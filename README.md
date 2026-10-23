@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2r1k1%2Fppq2pBp%2F2p5%2F3p4%2FB7%2F2QP1P2%2FPPPK1P1P%2FR6R%20b%20-%20-%200%2015&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4r3%2F2p2k2%2F1p1p1P1p%2FpP1P1K2%2FP1P1R3%2F8%2F8%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [fbBYZ](https://lichess.org/training/fbBYZ), rated `1379`.
-The game is `RakeshMahalana (1589)` vs `mastadonMan (1602)` at `3+0` time control,
-with themes `middlegame, crushing, fork, long`. You can [view the full game](https://lichess.org/eKRFBIqd),
-and the first solution move is `c7f4`.
+It is `White to move` in puzzle [fOj3c](https://lichess.org/training/fOj3c), rated `1579`.
+The game is `Kenanchik01 (1526)` vs `lastlost403 (1558)` at `10+0` time control,
+with themes `veryLong, endgame, crushing, rookEndgame, defensiveMove`. You can [view the full game](https://lichess.org/on0MeCLX),
+and the first solution move is `e3e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
