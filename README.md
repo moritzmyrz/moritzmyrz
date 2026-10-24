@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F2pb1r1p%2F1p1p3R%2Fp2P2r1%2FP1P1PR2%2F1P3P2%2F5KN1%2F8%20b%20-%20-%200%2041&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2kr1b1r%2FQpp2ppp%2F4b3%2F8%2F4q3%2F4BN1P%2FPn2BPP1%2FR3K2R%20w%20KQ%20-%200%2015&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [GZ25b](https://lichess.org/training/GZ25b), rated `1368`.
-The game is `kazax (1847)` vs `mkoganov (2180)` at `3+0` time control,
-with themes `endgame, master, short, advantage, intermezzo`. You can [view the full game](https://lichess.org/DFaxMev8),
-and the first solution move is `g5g2`.
+It is `White to move` in puzzle [egfJ6](https://lichess.org/training/egfJ6), rated `1390`.
+The game is `Jblachman23 (2045)` vs `hebbens (1745)` at `10+0` time control,
+with themes `middlegame, queensideAttack, crushing, long`. You can [view the full game](https://lichess.org/JdhVKD41),
+and the first solution move is `a7a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
