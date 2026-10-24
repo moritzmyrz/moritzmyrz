@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2r2rk1%2Fp3n1pp%2F1p1qpp2%2F8%2F3PPn2%2FP4NP1%2F1P3P1P%2F1BRQ1RK1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6rk%2F5Q1p%2F1p2p3%2Fp7%2F2PP1n1q%2F6P1%2FP4P1P%2F5RK1%20w%20-%20-%201%2028&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [f2R9L](https://lichess.org/training/f2R9L), rated `1552`.
-The game is `kingminus (1883)` vs `adis1990 (1899)` at `15+15` time control,
-with themes `middlegame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/jZO6X7n0),
-and the first solution move is `c8c1`.
+It is `White to move` in puzzle [snCKn](https://lichess.org/training/snCKn), rated `1462`.
+The game is `filini_E (1831)` vs `kns_up (1886)` at `10+5` time control,
+with themes `crushing, short, endgame`. You can [view the full game](https://lichess.org/e0vh3ydR),
+and the first solution move is `f7g8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
