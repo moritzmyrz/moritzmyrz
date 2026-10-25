@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F3q1ppp%2Fp3b3%2F1p1pB3%2F2r2b2%2F1NP1R3%2FPP1Q2PP%2F3R2K1%20w%20-%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F2p1n1b1%2F2np1pp1%2F1B1N2Bp%2F4P1bP%2F1Q6%2FP1P2PP1%2F1R2K2R%20w%20K%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [UEKvA](https://lichess.org/training/UEKvA), rated `1611`.
-The game is `Vlad0905 (2013)` vs `Medoj (2030)` at `3+2` time control,
-with themes `middlegame`. You can [view the full game](https://lichess.org/Iz1mNg5c),
-and the first solution move is `e5f4`.
+It is `White to move` in puzzle [5OZH1](https://lichess.org/training/5OZH1), rated `1547`.
+The game is `custommods (1790)` vs `AireMillion (1793)` at `18+0` time control,
+with themes `middlegame, short, discoveredCheck, advantage, doubleCheck`. You can [view the full game](https://lichess.org/BuMepD8u),
+and the first solution move is `d5e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
