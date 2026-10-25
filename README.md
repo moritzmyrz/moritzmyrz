@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F2p1n1b1%2F2np1pp1%2F1B1N2Bp%2F4P1bP%2F1Q6%2FP1P2PP1%2F1R2K2R%20w%20K%20-%200%2017&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F5p1P%2F6k1%2Fp1rq4%2F3pn3%2FP4Q1R%2F5P2%2FR1B2K2%20b%20-%20-%200%2029&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [5OZH1](https://lichess.org/training/5OZH1), rated `1547`.
-The game is `custommods (1790)` vs `AireMillion (1793)` at `18+0` time control,
-with themes `middlegame, short, discoveredCheck, advantage, doubleCheck`. You can [view the full game](https://lichess.org/BuMepD8u),
-and the first solution move is `d5e7`.
+It is `Black to move` in puzzle [NwyTc](https://lichess.org/training/NwyTc), rated `1587`.
+The game is `patiperro4711 (2143)` vs `CHESSRRLOKTEV (2100)` at `15+10` time control,
+with themes `middlegame, crushing, fork, long, sacrifice`. You can [view the full game](https://lichess.org/TPAfb2iC),
+and the first solution move is `c5c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
