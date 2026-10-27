@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2Rnrk2%2F4Rpp1%2Fp1N1p2p%2F1p2b3%2F4B3%2F6PP%2F5P1K%2F2r5%20w%20-%20-%202%2030&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F6r1%2F8%2F8%2F1P2k2K%2F7R%2F8%2F8%20b%20-%20-%202%2076&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [fqHzB](https://lichess.org/training/fqHzB), rated `1529`.
-The game is `Messah (1860)` vs `BeerP (1965)` at `15+10` time control,
-with themes `mateIn2, middlegame, short, attraction`. You can [view the full game](https://lichess.org/Xw9ZpkGP),
-and the first solution move is `e7e8`.
+It is `Black to move` in puzzle [BS3Tl](https://lichess.org/training/BS3Tl), rated `1585`.
+The game is `jr_poison (2578)` vs `ruby_Pol (2518)` at `3+0` time control,
+with themes `endgame, crushing, long, rookEndgame, skewer`. You can [view the full game](https://lichess.org/VK4d477D),
+and the first solution move is `e4f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
