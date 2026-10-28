@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fpp1N1k1p%2F3b2p1%2F2pP1p2%2F3n1B1R%2F3Q4%2FPPP2PPP%2F6K1%20b%20-%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1rb1r1k1%2F1p3pp1%2Fp4n1p%2F8%2F2P5%2F1P1BP3%2FP2N1PPP%2FR4RK1%20b%20-%20-%201%2017&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [6b8Et](https://lichess.org/training/6b8Et), rated `1551`.
-The game is `UmitUZUN (1735)` vs `jakemh24 (1736)` at `10+0` time control,
-with themes `middlegame, long, mateIn3, pin, backRankMate`. You can [view the full game](https://lichess.org/GNW1AW9Y),
-and the first solution move is `e8e1`.
+It is `Black to move` in puzzle [SfHml](https://lichess.org/training/SfHml), rated `1557`.
+The game is `thomasdobson (1803)` vs `hamada_abas88 (1779)` at `10+0` time control,
+with themes `short, advantage, middlegame`. You can [view the full game](https://lichess.org/GPNaprD9),
+and the first solution move is `e8d8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
