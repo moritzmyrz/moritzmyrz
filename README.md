@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7Q%2Fpp5N%2F3k1p2%2F3np3%2Fq2p4%2FP7%2F1P3PPP%2FRK1R4%20b%20-%20-%202%2028&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F2k2p1p%2F1R4p1%2F8%2FP3K3%2F1p4PP%2F5P2%2F8%20b%20-%20-%200%2046&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Y2eCd](https://lichess.org/training/Y2eCd), rated `1413`.
-The game is `Angus_98 (1658)` vs `Ciomka (1686)` at `10+0` time control,
-with themes `endgame, queensideAttack, epauletteMate, long, mateIn3, hangingPiece`. You can [view the full game](https://lichess.org/foEU20wP),
-and the first solution move is `a4d1`.
+It is `Black to move` in puzzle [ZHASv](https://lichess.org/training/ZHASv), rated `1599`.
+The game is `Ard1336 (2077)` vs `Rozbijnykk (2084)` at `10+0` time control,
+with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/ezdJJhB7),
+and the first solution move is `c7b6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
