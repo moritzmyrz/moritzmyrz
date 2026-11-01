@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p5p%2Fpb3p2%2F2p2k2%2F4p3%2F8%2FPPbN1PPB%2F6K1%20w%20-%20-%202%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1q4r%2Fppp1kB1p%2F3p4%2F4pbN1%2F8%2F3P1QPn%2FPPP3KP%2FR4R2%20b%20-%20-%202%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Zuz7s](https://lichess.org/training/Zuz7s), rated `1571`.
-The game is `BG00DE (1631)` vs `gary0892 (1648)` at `5+3` time control,
-with themes `advantage, fork, long, endgame`. You can [view the full game](https://lichess.org/HimWbGJY),
-and the first solution move is `d2c4`.
+It is `Black to move` in puzzle [YqFtQ](https://lichess.org/training/YqFtQ), rated `1531`.
+The game is `Jack_concept_art (1688)` vs `soberswill (1690)` at `3+0` time control,
+with themes `middlegame, advantage, fork, long, hangingPiece`. You can [view the full game](https://lichess.org/c2NRLb97),
+and the first solution move is `h3g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
