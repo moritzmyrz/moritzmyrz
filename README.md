@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3B1bP1%2F3b1p2%2F4kP2%2Fp7%2FP7%2F1P1K4%2F8%20w%20-%20-%205%2080&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=N2k3r%2Fpb1p1pp1%2F1p5p%2F3Np1q1%2F3bP3%2FP1P2PP1%2F1P2Q2P%2F4KB1R%20b%20K%20-%200%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [xYKPZ](https://lichess.org/training/xYKPZ), rated `1409`.
-The game is `Ogloblin (2572)` vs `Egor_Kharitonov (2571)` at `3+0` time control,
-with themes `endgame, master, short, crushing, bishopEndgame`. You can [view the full game](https://lichess.org/IBlFhq0r),
-and the first solution move is `d7e6`.
+It is `Black to move` in puzzle [G4KjW](https://lichess.org/training/G4KjW), rated `1294`.
+The game is `rezababaee1320 (1746)` vs `bensk127 (1681)` at `10+5` time control,
+with themes `exposedKing, deflection, middlegame, crushing, long`. You can [view the full game](https://lichess.org/sPEL7oRj),
+and the first solution move is `g5c1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
