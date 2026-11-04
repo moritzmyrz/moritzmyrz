@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1k6%2F1pp5%2F8%2FpP1q4%2F5p2%2FP2P3B%2F2PK1B2%2F1R6%20b%20-%20-%205%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2FppqQ1p1p%2F6p1%2F8%2F5P2%2F2P4P%2FPP1R1KP1%2F8%20b%20-%20-%207%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1fg5H](https://lichess.org/training/1fg5H), rated `1531`.
-The game is `cookiedough96 (1832)` vs `Cronithy (1846)` at `10+5` time control,
-with themes `endgame, advantage, short, fork`. You can [view the full game](https://lichess.org/svfbjrEI),
-and the first solution move is `d5f3`.
+It is `Black to move` in puzzle [n2AZz](https://lichess.org/training/n2AZz), rated `1482`.
+The game is `Pescer (2040)` vs `Rjhjktdchess111 (2026)` at `3+0` time control,
+with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/pC4UQ7V9),
+and the first solution move is `c7f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
