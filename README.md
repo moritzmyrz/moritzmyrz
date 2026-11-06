@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp4p2%2F1p2q3%2F3RP1K1%2F5P2%2F1P1Q2P1%2FP7%2F7r%20b%20-%20-%200%2035&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1p2k1p1%2F3p2r1%2F3Pp3%2FpB6%2FPr6%2F3R4%2F5K1R%20b%20-%20-%203%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0jgje](https://lichess.org/training/0jgje), rated `1446`.
-The game is `hardleo (1862)` vs `yeahhans (1995)` at `3+2` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/XJDLxkka),
-and the first solution move is `e6h6`.
+It is `Black to move` in puzzle [Ot8Sq](https://lichess.org/training/Ot8Sq), rated `1359`.
+The game is `neurocore (2231)` vs `Kingscrusher-YouTube (2429)` at `3+2` time control,
+with themes `endgame, master, short, crushing, skewer`. You can [view the full game](https://lichess.org/OiwtMUCe),
+and the first solution move is `b3b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
