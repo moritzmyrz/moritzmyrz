@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2kr3r%2F1b1qbR2%2FpP6%2F3p4%2F1p4p1%2F1B1P2P1%2F1PP1Q1P1%2FR1B3K1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r4r%2Fpp2kp2%2F5p1p%2F4p3%2Fq2pNn1N%2FP2P3P%2F1PP2QP1%2F2K1R1R1%20b%20-%20-%202%2021&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [1mF3P](https://lichess.org/training/1mF3P), rated `1537`.
-The game is `Arezu_da (1778)` vs `moeboe (1850)` at `3+0` time control,
-with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/RSuNaXAd),
-and the first solution move is `e7c5`.
+It is `Black to move` in puzzle [p5Xpj](https://lichess.org/training/p5Xpj), rated `1280`.
+The game is `Proky29 (1657)` vs `L1ghtorz (1776)` at `8+0` time control,
+with themes `middlegame, short, crushing, pin`. You can [view the full game](https://lichess.org/BlJ9OO82),
+and the first solution move is `f4d3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
