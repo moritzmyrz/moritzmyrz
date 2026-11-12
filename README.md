@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2r2%2Fpp1nkpQ1%2Fq3p1B1%2F3pP1N1%2F5B1P%2F2P5%2FPP3bP1%2F1R1K3R%20b%20-%20-%204%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F5P2%2F5kp1%2F5N2%2F3p2PK%2Fr7%2F3R4%20b%20-%20-%201%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [LNxiR](https://lichess.org/training/LNxiR), rated `1615`.
-The game is `CynicalLiar (1840)` vs `jokotoko (1815)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/RCGvu7JU),
-and the first solution move is `a6a4`.
+It is `Black to move` in puzzle [mXdNA](https://lichess.org/training/mXdNA), rated `1387`.
+The game is `DCLM1980 (2042)` vs `PsychooMAT (2126)` at `3+2` time control,
+with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/QSIgciWo),
+and the first solution move is `g5g4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
