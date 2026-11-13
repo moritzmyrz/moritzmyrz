@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5pkp%2F4pb1r%2F3q1pN1%2F8%2F4PPQ1%2F6P1%2F5RK1%20w%20-%20-%202%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp1q2ppp%2F2pbpn2%2F3p4%2F3Q1B2%2F2PBP3%2FPP3PPP%2FRN3RK1%20b%20-%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [pqGzb](https://lichess.org/training/pqGzb), rated `1493`.
-The game is `javirod1983 (2408)` vs `Wolfito11 (2376)` at `3+0` time control,
-with themes `endgame, master, short, discoveredCheck, advantage, doubleCheck`. You can [view the full game](https://lichess.org/U9Jht7jL),
-and the first solution move is `g5e6`.
+It is `Black to move` in puzzle [bfWs9](https://lichess.org/training/bfWs9), rated `1516`.
+The game is `gn0s1s (1939)` vs `viparmar (2006)` at `15+0` time control,
+with themes `opening, crushing, short, fork`. You can [view the full game](https://lichess.org/QsoHNMgK),
+and the first solution move is `e6e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
