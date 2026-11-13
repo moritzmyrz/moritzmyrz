@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp1q2ppp%2F2pbpn2%2F3p4%2F3Q1B2%2F2PBP3%2FPP3PPP%2FRN3RK1%20b%20-%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fp1r1qpb1%2Fbpn3pp%2F3pPn2%2F3P1N2%2F4BN2%2FPP1Q1PPP%2F2R1R1K1%20w%20-%20-%200%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bfWs9](https://lichess.org/training/bfWs9), rated `1516`.
-The game is `gn0s1s (1939)` vs `viparmar (2006)` at `15+0` time control,
-with themes `opening, crushing, short, fork`. You can [view the full game](https://lichess.org/QsoHNMgK),
-and the first solution move is `e6e5`.
+It is `White to move` in puzzle [SjA7P](https://lichess.org/training/SjA7P), rated `1285`.
+The game is `Dakshsankhla (1921)` vs `ManuelSprenger (2336)` at `10+0` time control,
+with themes `middlegame, short, fork, crushing`. You can [view the full game](https://lichess.org/cWEqoNf1),
+and the first solution move is `f4d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
