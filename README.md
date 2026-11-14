@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k1nN%2Fp1pp2pp%2F1p3p2%2F6P1%2FPbBnq3%2F2N5%2F1PPK1P1P%2FR1BQ3R%20b%20q%20-%201%2013&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2Fb6p%2FQ7%2F2PqP1pk%2FP2P4%2F6PK%2F8%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [lLKii](https://lichess.org/training/lLKii), rated `1528`.
-The game is `BPS101 (1658)` vs `josh_williams (1663)` at `10+0` time control,
-with themes `middlegame, short, advantage, pin`. You can [view the full game](https://lichess.org/k8zUP3HU),
-and the first solution move is `d4f3`.
+It is `White to move` in puzzle [aAybK](https://lichess.org/training/aAybK), rated `1270`.
+The game is `sergiosg9823 (1856)` vs `KingDiNero23 (1859)` at `10+0` time control,
+with themes `mateIn1, oneMove, endgame`. You can [view the full game](https://lichess.org/jokHiAoj),
+and the first solution move is `g2g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
