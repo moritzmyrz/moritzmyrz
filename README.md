@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r3k%2FR3r1p1%2F1p2N2p%2F2n2P2%2F8%2F2R2PP1%2FP5KP%2F8%20b%20-%20-%201%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F1R5P%2F5K2%2F8%2F8%2F2k5%2F1p5r%2F8%20b%20-%20-%200%2057&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [brBwS](https://lichess.org/training/brBwS), rated `1569`.
-The game is `Atomrod (2429)` vs `friend_your_mother (2251)` at `3+0` time control,
-with themes `endgame, master, short, advantage`. You can [view the full game](https://lichess.org/1v6QVPq8),
-and the first solution move is `d8d2`.
+It is `Black to move` in puzzle [WMqcC](https://lichess.org/training/WMqcC), rated `1515`.
+The game is `AKBarua (1802)` vs `jesslota (1871)` at `20+15` time control,
+with themes `deflection, endgame, advancedPawn, short, crushing, rookEndgame, promotion`. You can [view the full game](https://lichess.org/7EF51KNb),
+and the first solution move is `h2h7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
