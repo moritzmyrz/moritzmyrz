@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F3P2R1%2F8%2Fp7%2F3nNppr%2FP7%2F1P3PK1%2F8%20b%20-%20-%200%2051&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2F4n1q1%2Fp1pb1p2%2F3p3p%2F7N%2FP1NP2Pb%2F1PPB1P2%2FR2QR1K1%20b%20kq%20-%200%2020&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [eUQLi](https://lichess.org/training/eUQLi), rated `1497`.
-The game is `Navian_King01 (2071)` vs `HassanAkl (2051)` at `10+0` time control,
-with themes `endgame, advantage, fork, long`. You can [view the full game](https://lichess.org/L0xsk1u5),
-and the first solution move is `f4f3`.
+It is `Black to move` in puzzle [hNOhy](https://lichess.org/training/hNOhy), rated `1494`.
+The game is `Doudou37230 (1702)` vs `saj (1646)` at `10+8` time control,
+with themes `middlegame, long, advantage, fork`. You can [view the full game](https://lichess.org/c2zxggWR),
+and the first solution move is `d6g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
