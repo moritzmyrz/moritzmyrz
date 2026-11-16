@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1k2r%2F1p2bppp%2Fp2pp3%2F4q2n%2F4PB2%2FP2B2Q1%2F2P1NPPP%2FR4RK1%20w%20kq%20-%203%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2F1b2p1b1%2F5npp%2Fr1n1N3%2F2B3P1%2F7P%2FPPP2P1B%2F2KR4%20w%20k%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [8c2vm](https://lichess.org/training/8c2vm), rated `1441`.
-The game is `Alisson120 (1715)` vs `joshua_W (1765)` at `15+15` time control,
-with themes `middlegame, advantage, short`. You can [view the full game](https://lichess.org/FTZY6Tmh),
-and the first solution move is `f4e5`.
+It is `White to move` in puzzle [ZVt3b](https://lichess.org/training/ZVt3b), rated `1281`.
+The game is `AronHabib (1821)` vs `eimis1337 (1777)` at `3+0` time control,
+with themes `middlegame, operaMate, long, mateIn3`. You can [view the full game](https://lichess.org/xPETizjB),
+and the first solution move is `c4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
