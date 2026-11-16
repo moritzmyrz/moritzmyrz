@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4k2r%2F1b2p1b1%2F5npp%2Fr1n1N3%2F2B3P1%2F7P%2FPPP2P1B%2F2KR4%20w%20k%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F1p1bp2p%2F1QP5%2F1P2q3%2F2B4P%2F5PP1%2F6K1%20b%20-%20-%200%2028&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZVt3b](https://lichess.org/training/ZVt3b), rated `1281`.
-The game is `AronHabib (1821)` vs `eimis1337 (1777)` at `3+0` time control,
-with themes `middlegame, operaMate, long, mateIn3`. You can [view the full game](https://lichess.org/xPETizjB),
-and the first solution move is `c4f7`.
+It is `Black to move` in puzzle [34yQw](https://lichess.org/training/34yQw), rated `1407`.
+The game is `Aladonin (1652)` vs `SkyRider100 (1669)` at `5+3` time control,
+with themes `endgame`. You can [view the full game](https://lichess.org/J0DDQHK0),
+and the first solution move is `e4b1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
