@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=rn2k2r%2Fpp3ppp%2F2p2n2%2F2b1p3%2F4P1b1%2F2Pq1NP1%2FPP1N1PBP%2FR1BQK2R%20w%20KQkq%20-%201%209&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fppp2ppp%2F3p4%2F2b1p3%2F3nP2q%2F3P2N1%2FPPPBN2P%2FR2QK2R%20b%20KQkq%20-%200%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [YKSwk](https://lichess.org/training/YKSwk), rated `1362`.
-The game is `AddlightMatanhike (1842)` vs `LAKSHAN1320 (1865)` at `25+0` time control,
-with themes `opening`. You can [view the full game](https://lichess.org/2hrMUiSE),
-and the first solution move is `f3e5`.
+It is `Black to move` in puzzle [updTz](https://lichess.org/training/updTz), rated `1481`.
+The game is `Dangerous_Chuks0 (1741)` vs `Zhendosik (1741)` at `3+0` time control,
+with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/dcpjVJFF),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
