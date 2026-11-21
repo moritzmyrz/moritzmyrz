@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5N2%2F4R3%2Fp1b3pk%2F8%2F8%2F8%2Fr5rP%2F3K1R2%20w%20-%20-%200%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F1R1n1ppp%2F2p5%2F2Pp4%2F1QqBrP2%2F2P3P1%2F5P1P%2F5RK1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Tfyb6](https://lichess.org/training/Tfyb6), rated `1587`.
-The game is `lkhatir (2134)` vs `vepashka (2007)` at `3+0` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/cgng3yth),
-and the first solution move is `e7h7`.
+It is `Black to move` in puzzle [0n2pl](https://lichess.org/training/0n2pl), rated `1404`.
+The game is `JoseGane (2044)` vs `AMIN_BLUES (2053)` at `3+0` time control,
+with themes `middlegame, advantage, xRayAttack, long, capturingDefender`. You can [view the full game](https://lichess.org/rcRKA3Id),
+and the first solution move is `c4b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
