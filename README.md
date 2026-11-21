@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1r4k1%2F1R1n1ppp%2F2p5%2F2Pp4%2F1QqBrP2%2F2P3P1%2F5P1P%2F5RK1%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4rr2%2F1pp3k1%2Fp2p1np1%2F2PP4%2FPP2Nq1P%2F1KNQ1B2%2F8%2F5R2%20b%20-%20-%204%2036&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [0n2pl](https://lichess.org/training/0n2pl), rated `1404`.
-The game is `JoseGane (2044)` vs `AMIN_BLUES (2053)` at `3+0` time control,
-with themes `middlegame, advantage, xRayAttack, long, capturingDefender`. You can [view the full game](https://lichess.org/rcRKA3Id),
-and the first solution move is `c4b4`.
+It is `Black to move` in puzzle [z0T8v](https://lichess.org/training/z0T8v), rated `1430`.
+The game is `Bntary007 (2189)` vs `amedli2112 (2336)` at `5+0` time control,
+with themes `long, advantage, middlegame`. You can [view the full game](https://lichess.org/LOUHO2fV),
+and the first solution move is `f6e4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
