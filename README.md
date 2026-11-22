@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7R%2F1pQ1nk2%2F2p5%2F3r3p%2F4p1q1%2F4B3%2FPP3PP1%2F6K1%20w%20-%20-%206%2034&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3rn2%2Fppb3R1%2F2p1bk2%2F8%2F3P3p%2F2P4P%2FqPQ1NP2%2F2K3R1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [q9YDy](https://lichess.org/training/q9YDy), rated `1569`.
-The game is `RichardOrebic (2352)` vs `duongvuanh (2513)` at `3+2` time control,
-with themes `endgame, master, crushing, deflection, veryLong`. You can [view the full game](https://lichess.org/6pJca3Hq),
-and the first solution move is `h8h7`.
+It is `White to move` in puzzle [FDxuq](https://lichess.org/training/FDxuq), rated `1461`.
+The game is `ChessTactics64 (2125)` vs `vectrum80 (2241)` at `3+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/uN9bSYw5),
+and the first solution move is `g1g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
