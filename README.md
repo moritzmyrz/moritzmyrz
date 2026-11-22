@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fpp4p1%2F2p1p2p%2F3nN3%2F3P2Pq%2F2P2Q1P%2FPP3P1K%2FR4R2%20w%20-%20-%206%2023&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r2k%2Fp7%2F2p5%2F3p4%2FPP3R2%2F2P2pq1%2F3Q4%2F5K2%20w%20-%20-%202%2038&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [56UHs](https://lichess.org/training/56UHs), rated `1332`.
-The game is `labestia95 (1764)` vs `EvgenyMarfin (1716)` at `3+0` time control,
-with themes `middlegame, crushing, attraction, fork, long, sacrifice`. You can [view the full game](https://lichess.org/xDH8Xe24),
-and the first solution move is `f3f8`.
+It is `White to move` in puzzle [JwEsz](https://lichess.org/training/JwEsz), rated `1393`.
+The game is `jhooch (1633)` vs `rfa3rfa (1583)` at `3+0` time control,
+with themes `exposedKing, endgame, crushing, long, pin`. You can [view the full game](https://lichess.org/50mkCxaz),
+and the first solution move is `d2d4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
