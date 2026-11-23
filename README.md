@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F3N2pp%2Fpp4b1%2F1qpp4%2F3Q4%2F5P1P%2FPP4P1%2F6K1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1%2Fp5pp%2F1pp1P1q1%2F3P4%2F2b5%2F5Q1K%2FP4RPP%2F5R2%20w%20-%20-%200%2029&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [6qn4c](https://lichess.org/training/6qn4c), rated `1319`.
-The game is `chliapas (1987)` vs `jescalar1 (1975)` at `5+14` time control,
-with themes `endgame, long, mateIn3`. You can [view the full game](https://lichess.org/zHjTvtXP),
-and the first solution move is `d4d5`.
+It is `White to move` in puzzle [2faaE](https://lichess.org/training/2faaE), rated `1545`.
+The game is `Heirofchess (2036)` vs `secging (2046)` at `10+0` time control,
+with themes `advancedPawn, middlegame, short, crushing`. You can [view the full game](https://lichess.org/fDvUbv0x),
+and the first solution move is `f3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
