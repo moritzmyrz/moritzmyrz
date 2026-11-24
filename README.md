@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp1p2pp1%2F2p2q1p%2F4p3%2F1PPP1rP1%2FP2RQP2%2F6KP%2F3R4%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp1q2kp%2F2p1bp2%2F2P3p1%2F3pQ3%2F1P1B2P1%2FP3PPKP%2F8%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [exocU](https://lichess.org/training/exocU), rated `1356`.
-The game is `Abraham1996 (1755)` vs `Byzantycy (1712)` at `15+15` time control,
-with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/D3WY1ZLj),
-and the first solution move is `d4e5`.
+It is `Black to move` in puzzle [ODFx8](https://lichess.org/training/ODFx8), rated `1312`.
+The game is `Zagta2022 (2006)` vs `tank_1975 (2059)` at `10+0` time control,
+with themes `pin, short, crushing, endgame`. You can [view the full game](https://lichess.org/iaXaEzXT),
+and the first solution move is `e6d5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
