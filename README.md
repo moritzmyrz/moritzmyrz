@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2Fpppb1pp1%2F7p%2F2bNP3%2F2n5%2F5NQ1%2FP2R2PP%2F4R2K%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2Fp1p2pp1%2F2p2q1p%2F4p3%2F1PPP1rP1%2FP2RQP2%2F6KP%2F3R4%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [VWMp5](https://lichess.org/training/VWMp5), rated `1561`.
-The game is `LAMBOK_A-SIMAMORA (1947)` vs `noorha_di (1968)` at `10+0` time control,
-with themes `middlegame, short, advantage, discoveredAttack, pin`. You can [view the full game](https://lichess.org/MG5wcpSJ),
-and the first solution move is `d5f6`.
+It is `White to move` in puzzle [exocU](https://lichess.org/training/exocU), rated `1356`.
+The game is `Abraham1996 (1755)` vs `Byzantycy (1712)` at `15+15` time control,
+with themes `endgame, crushing, short`. You can [view the full game](https://lichess.org/D3WY1ZLj),
+and the first solution move is `d4e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
