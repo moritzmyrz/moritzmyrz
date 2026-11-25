@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fpp1q2kp%2F2p1bp2%2F2P3p1%2F3pQ3%2F1P1B2P1%2FP3PPKP%2F8%20b%20-%20-%201%2025&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5r2%2F8%2FRPn1k3%2FP1pp1p1p%2F1RB1p1p1%2F4P3%2F5PPP%2F6K1%20b%20-%20-%200%2048&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ODFx8](https://lichess.org/training/ODFx8), rated `1312`.
-The game is `Zagta2022 (2006)` vs `tank_1975 (2059)` at `10+0` time control,
-with themes `pin, short, crushing, endgame`. You can [view the full game](https://lichess.org/iaXaEzXT),
-and the first solution move is `e6d5`.
+It is `Black to move` in puzzle [ryAfQ](https://lichess.org/training/ryAfQ), rated `1491`.
+The game is `Loris_Nathoo (2004)` vs `Bogota_Madrid (2018)` at `3+2` time control,
+with themes `advantage, hangingPiece, short, endgame`. You can [view the full game](https://lichess.org/KSqSY8Qo),
+and the first solution move is `c6b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
