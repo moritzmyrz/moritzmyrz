@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5qk1%2F6pp%2F3b1p2%2F1R1N4%2F3P4%2F4PQPK%2Fr6P%2F8%20b%20-%20-%204%2043&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bq2r1%2Fp1p1k2p%2F1p1p3Q%2Fn1bPp3%2F4Pp2%2F2PB2PP%2FPP3P2%2FRNB2RK1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BupFF](https://lichess.org/training/BupFF), rated `1311`.
-The game is `ara1364 (2036)` vs `Dhdh3d34dhadad (2159)` at `10+0` time control,
-with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/sC5xhLoD),
-and the first solution move is `f8c8`.
+It is `Black to move` in puzzle [4s0sR](https://lichess.org/training/4s0sR), rated `1564`.
+The game is `taleb_zolfi (1642)` vs `Nurdin1981 (1602)` at `10+5` time control,
+with themes `crushing, fork, long, opening, pin`. You can [view the full game](https://lichess.org/G5fLC15T),
+and the first solution move is `g8g3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
